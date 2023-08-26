@@ -1,0 +1,109 @@
+nstates num 10;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 12.22.37'
+28 63
+
+&[num]
+Ssan35            0??0135101000111211120000?11
+Shal97            1??0135101000111211120000?11
+Ccon80            0612011001001011000001112100
+Csor34            1642012?00001011000001112100
+Ninc100           05320240020?1111000111102110
+Tfil47            ???010311101100?000001001001
+Triz126           ???010311101100?000001102101
+Ndup213           13?202??00011111000111102111
+Ndel19            05?202?100011111000111102111
+Njos464           046202?100011111000111101111
+Nrec331           1622023000011111000111102111
+Ndid951           153202?100011111000111102111
+Ecat127           0742003100001111000011002001
+Efus126           0??2003100001011000001112001
+Enit114           0420103?01001011000001110001
+Pint120           0452103?00111011000001110001
+Mmel25            180011?0020?1112000111001001
+Mmel87            15001140010?1111111121001001
+Msim77            170011?0020?1112010111001001
+Mpri07            16?211?1020?1112000111001001
+Mcap123           172011?001001111011121001001
+Ppow76            0470122000111011000001112111
+Ppes991           04?0122000111011000001112111
+Pmam515           15?00110020?1011000001112101
+Pmam5111          15200110020?1011000001112101
+Pmam5112          15200110020?1011000001112101
+Pmam5113          15100110020?1011000001112101
+Pmam5114          15100110020?1011000001112101
+Pmam5115          15100110020?1011000001112101
+Pmam5116          15100110020?1011000001112101
+Pmam5117          15?00110020?1011000001112101
+Pmam5119          15200110020?1011000001112101
+Pmam5121          15?00110020?1011000001112101
+Pmam5122          15?00110010?1011000001112101
+Pmam5124          17000110020?1011000001112101
+MNHNVM22          16000110020?1011000001112101
+MNHNVM24          16000110020?1011000001112101
+Psp7018           16000110020?1011000001112101
+Pmel593           02?20110020?1011000001112101
+Pmel594           02?20110020?1011000001112101
+Psp7019           01410010020?1011000001112101
+Psp7020           02410010020?1011000001112101
+Psp7021           02410010020?1011000001112101
+Pflem141          02400110020?1012000001112101
+Puber30           1800011?010?1011000001112101
+CP2343_3          17320010000?1011000001112101
+Psp701            02?00110020?1011000001112101
+Psp702            02600110020?1011000001112101
+Psp703            02?00110020?1011000001112101
+Psp707            02400110020?1011000001112101
+Psp708            02?00110010?1011000001112101
+Psp709            02500110020?1011000001112101
+Psp7014           02600110010?1011000001112101
+Psp7016           02?00110010?1011000001112101
+Psp7017           02600110020?1011000001112101
+Psp706            02400110010?1011000001112101
+Psp7010           02400110020?1011000001112101
+Psp7012           02500110020?1011000001112101
+PspD1             02600110010?1013000001112101
+PspD3             02600110010?1013000001112101
+PspD4             02600110010?1013000001112101
+PspD5             02600110010?1013000001112101
+PspD6             02600110010?1013000001112101
+
+;
+
+
+cnames
+{ 0 Protoconch_color white black;
+{ 1 No_embryonal_whorls missing 1.00 1.25 1.50 1.75 2.00 2.25 2.50 2.75 3.00;
+{ 2 Protoconch_size 200-299_µm 300-399_µm 400-499_µm 500-599_µm 600-699_µm 700-799_µm 800-899_µm 900-1000_µm >_1000_µm;
+{ 3 Shell_color uncolored partly_colored colored;
+{ 4 Color_pattern plain pattern;
+{ 5 Shell_shape globose_(ratio_0.9-1.1) high_spired_(ratio_>_1.1) depressed_(ratio_0.6-1.1) auriform_(ratio_<_0.6);
+{ 6 Aperture_height_ratio <40% 40-50% 50-60% 60-70% 70-80% >80%;
+{ 7 suture indistinct impressed;
+{ 8 Subsutural_wrinkels absent present;
+{ 9 Umbilicus open partly_open closed;
+{ 10 Sulcus absent present;
+{ 11 Funicle absent present;
+{ 12 Umbilical_callus absent present;
+{ 13 Inner_lip straight elevated;
+{ 14 Operculum_surface calcareous corneous;
+{ 15 Operculum_color white noney_colored black_streak black;
+{ 16 Operculum_size as_large_as_aperture reduced strongly_reduced;
+{ 17 Shell_solidity massive fragile;
+{ 18 Shell_texture smooth spriral_grooves;
+{ 19 Aperture_size small enlarged;
+{ 20 Aperture_shape semiovate ovate elliptical;
+{ 21 Parietal_callus absent present;
+{ 22 Parietal_callus_thickness thin thick;
+{ 23 Posterior_apertual_angle parietal_callus_not_filling_posterior_apertual_angle parietal_callus_filling_posterior_apertual_angle;
+{ 24 Parietal_callus_merge not_merged merged_with_umbilical_callus_with_transverse_lobe merged_to_the_same_extend;
+{ 25 Parietal_callus_size small large;
+{ 26 Expanding_whorls absent expanding extrem_expanding;
+{ 27 Egg_mass_additions no_sand_collars sand_collar;
+;
+
+
+ccode  - 0.27;
+
+
+;

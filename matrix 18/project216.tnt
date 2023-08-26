@@ -1,0 +1,198 @@
+nstates num 8;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 12.22.05'
+129 51
+
+&[num]
+Caluromys_lanatus                  000011000000000020000201011000000211000100000010100100001011000-00000000010101000001110?01001010000000010000000000000000010010000
+Caluromys_philander                000011000000000020000201010010010201000100000010100100001011000-00000000010101000001110001001010000000010000000000000000010010000
+Caluromysiops_irrupta              000000-0020000002000020101?0?0000211000000000010?00101102011000-0000000021010100100111000100101000000000000000000000000001011????
+Chacodelphys_formosa               ??0001001000??0000?102010????0?200000000001000101000-00001110010110010010000000000011000000000001?001002100?000000?0000111001????
+Chironectes_minimus                010001100100200001-20211012010111200000010000010000101002011101000001001200001000002000000000002100010011102100000000000010011111
+Cryptonanus_chacoensis             00000100100010001000020100-0100200010000000000101000-0000111001010001001000000000001100000000102100010021000000000000000010010000
+Cryptonanus_unduaviensis           0000010010001000100002010????00200010000000000101000-000011100101000100100000000000110000000020210001002000000000010000001001????
+Didelphis_albiventris              010001000011000000000101011010011201000010000010100101002011101010001001200001000012100001000002100010011102100000000000010011111
+Didelphis_marsupialis              010001000011000000000201011010011201000010000010100101002011101010001001200001000012100001000002100010011102100000000000010011111
+Didelphis_virginiana               010001000011000000000101011010011201000010000010000101002011101010001001200001000012100001000002100010011102100000000000010011111
+Glironia_venusta                   00000100?000??001000020100-000000-11??000000001010011000001100?0000000010000000000011000010000010?0010010000000000?00000010010101
+Gracilinanus_aceramarcae           00000100100010001000020100-0100200010001000000101000-00001110010110010011000000000011000000000011?001002000?000000?0000001001????
+Gracilinanus_agilis                0000010010001000100002010????00200010001000000101000-000011100101100100110000000000110000000000110001002000?000000100000010010000
+Gracilinanus_emiliae               00000100100010001000020100-0100201010001000000101000-000011100101100100110000000000110000000010110001002000000000010000001001????
+Gracilinanus_microtarsus           0000010010001000100002010????00200010001000000101001000001110010110010011000000000011000000000011?0010020000000000?00000010010000
+Hyladelphys_kalinowskii            00000100000000001000020100-0000201010000000000100000-0000011001000001001000000000001?0000100000002001001000000000020000001001????
+Lestodelphys_halli                 01000100160000000001000110-110020000?010000000101000-0001?11001010011001100100001001100000000002100010021000000002100001010010000
+Lutreolina_crassicaudata           010000-00000000000000001012010011200100010000010101101002011101010001001200001000012100001000002100010011102100000000001010011111
+Marmosa_lepida                     00000100000010001000020100-01002020100010000001010010000001100100000100100000000000110000000010110001002000000000010000001001????
+Marmosa_mexicana                   00000100100011001000020100-010020101000100000010100100000011001010001001000000000001100000000001100010020000000000100000010010000
+Marmosa_murina                     00000100000000001000020100-010020201000100000010100100000011001000001001000000000001100000000001100010020000000000100000010010000
+Marmosa_robinsoni                  00000100100011001000020100-010020101000100000010100100000011001000001001000000000001100000000001100010020000000000100000010010000
+Marmosa_rubra                      ??000100000011001000020100-0?0?202010001000000101000-000001100100000100100010000000110000000000110001002000000000010000001001????
+Marmosops_impavidus                00000100000010000000020100-0100202010101000000101000-0000111001010001001100000000001100000000001100010021000000000000000010010000
+Marmosops_incanus                  00000100100010000000020100-110020201010?001000101000-0000?11001010001001100000000001100000000001100010021000000001?00000010010000
+Marmosops_noctivagus               00000100100010000000020100-0100202010101000000101000-0000?11001010001001100000000001100000000001100010021000000000000000010010000
+Marmosops_parvidens                00000100000010000000020100-0100202010101000000101000-000011100100000100110000000000110000000020110001002000000000000000001001????
+Marmosops_pinheiroi                00000100000010000000020100-0100202010101000000101000-000011100100000100110000000000110000000020110001002100000000000000001001????
+Metachirus_nudicaudatus            01000111100000000000020100-0100201000000000000101000-0010011001000001001100000000012100000000001100010021001000000000000010010000
+Micoureus_demerarae                00000100000011001000020100-010020201000100000010100100000011001000001001000000000001100000000001100010020000000000100000010010000
+Micoureus_paraguayanus             00000100000011001000020100-0?00102010001000000101001000000110010000010010000000000011000000000011?001002000?000000?00000010010000
+Micoureus_regina                   00000100000011001000020100-010020201000100000010100100000011001000001001000000000001100000000001100010020000000000100000010010000
+Monodelphis_brevicaudata           010000-0140000000000000100-0100000000000000010101010-0001011?01000?01001000000000001100000000002100010021001000001000001110010101
+Monodelphis_emiliae                010000-0150000000000000100-0?00000000000000010101010-0001011?0100000100100010000?00110000000000210001002100?000002000001110010101
+Monodelphis_peruviana              010000-0100000000000000100-0?00200000000000010101010-00000111010000010010000000010011000000000021?0010021000000001?0000111001????
+Monodelphis_theresa                010000-003000000000000010????00200000000000010101010-00000110010000010012000000010011000000000021?001002100?000001?0000111001????
+Philander_frenata                  010001?10000000000000201011010011201100010000010?001010020111010100010012000010000121000010000021?001001110?100000?00000010011111
+Philander_mcilhennyi               010001110000000000000201011010011201100010000010100101002011101010001001200001000012100001000002100010011102100000000000010011111
+Philander_opossum                  0100011100000000000002010110?0011201100010000010100101002011101010001001200001000012100001000002100010011102100000000000010011111
+Thylamys_macrurus                  00000100160000000001020110-1?00200010010001000101000-00001110010110110011001000000011000000000021?0010021000000001?00000010010000
+Thylamys_pallidior                 0100010016000000000102011????00200010010001000101000-0000111001010011001100100000001100000000002100010021000000001100000010010000
+Thylamys_pusillus                  00000100160000000001020110-1100200010010001000101000-0000111001011011001100100000001100000000002100010021000000001?00000010010000
+Thylamys_venustus                  0000010016000000000102011????00200010010001000101000-0000111001011011001100100000001100000000002100010021000000001100000010010000
+Tlacuatzin_canescens               00000100000010001000020100-010020001000000000010100100000011001001001001000000000001100000000001100010020000000000100000010011111
+Caenolestes_fuliginosus            1-1100-0000000110010110000-00002000000010001?0000000-11000???010000001010000000010011011021-0?021?11-1---01211???2201110011010000
+Rhyncholestes_raphanurus           1-1100-0000000110010110000-010020000?0100001?0000000-11000???01100000101000000001001100?021-0?021?11-1---01211???2?01110011010000
+Murexia_longicaudata               010000-0100000000001110000-000020000?000200000100000-0?010100010001001010102100010011000001-100212001002000?000112200001010000000
+Sminthopsis_crassicaudata          010001001000000000211100113000020000?010200000100000-001000-0010101001010102100010011000001-100211001002100000011120000100-000000
+Dromiciops_gliroides               0100010001000000100002010100010000011011000000101100-0010010001000001111010200110000000000001002100010000002001002000000010010000
+Echymipera_kalubu                  1-0001100002002201-11222012000020000?000111011000000-011000-0010000001012000000011011000131-1302120010130010100112210000010010000
+Perameles_gunnii                   1-0000-00702002201-11222012000020000?001011011010000-011000-01111000010121101000110120001301100212001113-01?10011121000000-010000
+
+;
+
+
+cnames
+{ 0 Pars_supralabialis broad narrow;
+{ 1 Rhinarium with_2_grooves with_1_groove;
+{ 2 Fleshy_labrets absent present;
+{ 3 Interramal_vibrissae present absent;
+{ 4 Midrostral_stripe absent present;
+{ 5 Mask_1 absent present;
+{ 6 Mask_2 like_Marmosa like_Metachirus;
+{ 7 Spot__above_eye absent present;
+{ 8 Gular_gland absent present;
+{ 9 Dorsal_fur_markings unpatterned like_Chironectes scapular_stripes median_and_lateral_stripes red_flanks red_head_and_rump tricolored transverse_sacral_bars;
+{ 10 Dorsal_underfur dark white;
+{ 11 Dorsal_guard_hairs short long stiff_and_grooved;
+{ 12 Lateral_carpal_tubercles absent present_in_adult_males present_in_both_sexes;
+{ 13 Medial_carpal_tubercles absent present_in_adult_males;
+{ 14 Manual_digit_I large_and_clawed with_nail without_unguis;
+{ 15 Manual_digit_V with_claw with_nail without_unguis;
+{ 16 Manual_digits_III_and_IV III_longest III_=_IV IV_longest;
+{ 17 Manual_plantar_pads present absent;
+{ 18 Dermatoglyphs present absent-smooth absent-tubercular;
+{ 19 Central_palmar_surface smooth densely_tubercular sandpapery;
+{ 20 Pedal_digit_I large-opposable small-nonopposable;
+{ 21 Pedal_digits_III_and_IV III_longest subequal IV_longest;
+{ 22 Pedal_morphology eleuthrodactylous webbed syndactylous;
+{ 23 Putzkralle absent present_on_dII present_on_dII_and_dIII;
+{ 24 Ventral_tarsal_surface naked furred;
+{ 25 Pouch_1 absent present;
+{ 26 Pouch_2 opens_medially opens_anteriorly opens_posteriorly opens_in_center;
+{ 27 Mammary_position abdominal-inguinal pectoral;
+{ 28 Unpaired_meadian_teat absent present;
+{ 29 Urogenital-rectal_locus inguinal basicaudal;
+{ 30 Cloaca present absent;
+{ 31 Body_pelage_on_tail longer_dorsally subequal none;
+{ 32 Caudal_coloration uniform_or_variable black-and-white;
+{ 33 Caudal_scales annular intermediate spiral;
+{ 34 Base_of_tail not_prehensile prehensile;
+{ 35 Tail_tip not_prehensile prehensile;
+{ 36 Caudal_hairs_1 3_per_scale 4_or_more;
+{ 37 Caudal_hairs_2 all_hairs_alike middle_hair_thickest;
+{ 38 Tail_incrassate no yes;
+{ 39 Rostral_proc._premaxillae absent present;
+{ 40 Nasal_tips above_or_anterior_to_I1 posterior_to_I1 posterior_to_PFP;
+{ 41 Nasals_(posterior) between_lacrimals truncated;
+{ 42 Nasal_width wider_posteriorly uniformly_narrow;
+{ 43 Antorbital_fenestra absent present;
+{ 44 Maxilloturbinals elaborately_branched simple_scrolls;
+{ 45 Max-jug_suture straight_or_crescentic bifid;
+{ 46 Frontal_proc._of_jugal absent present;
+{ 47 Lacrimal_margin_of_orbit smooth crested;
+{ 48 Lacrimal_foramina one two;
+{ 49 Foramen_rotundum exposed_laterally concealed;
+{ 50 Maxillary_and_alisphenoid separate in_contact;
+{ 51 Postorbital_process_1 absent present;
+{ 52 Postorbital_process_2 frontal_only frontal__and_parietal;
+{ 53 Frontals separate fused;
+{ 54 Parietals separate fused;
+{ 55 Parietal_and_alisphenoid in_contact separated;
+{ 56 Sagittal_crest absent small large;
+{ 57 Fenestra_in_par.-sq._suture absent present;
+{ 58 Interparietal absent present;
+{ 59 Interpar._and_supraocc. separate fused;
+{ 60 Par.-mast._contact present absent;
+{ 61 "Accessory"_fenestrae absent present;
+{ 62 Maxillopal._fenestrae_1 absent present;
+{ 63 Maxillopal._fenestrae_2 with_septum confluent;
+{ 64 Palatine_fenestrae absent present;
+{ 65 Maxillary_fenestrae absent present;
+{ 66 Posterolat._pal._for._1 complete open_notch;
+{ 67 Posterolat._pal.__for._2 behind_M4_protocone lingual_to_M4_protocone;
+{ 68 Posterolateral_palatal_corners absent_or_indistinct present;
+{ 69 Presphenoid exposed_above_post._palate concealed_by_vomer;
+{ 70 Pterygoids separate in_midline_contact;
+{ 71 Transverse_canal_for. absent present;
+{ 72 Secondary_for._ovale absent formed_by_ant.-med._strut formed_by_lamina;
+{ 73 Alisph._tymp._proc. no_contact_with_RTP contacts_RTP;
+{ 74 Epitympanic_recess small inflated;
+{ 75 RTP-CTP_contact absent_(gap) sutured fused;
+{ 76 Squam._epitymp._sinus absent present;
+{ 77 Ectotympanic_suspension from_skull from_malleus_only;
+{ 78 Ectotympanic_exposure laterally_exposed concealed_in_bulla;
+{ 79 Malleus_neck long_and_inflected short_and_straight;
+{ 80 Stapes bicrurate columelliform;
+{ 81 Lambdoid_sesamoids absent present;
+{ 82 Dorsal_margin_for._magnum supra-_and_exoccipitals exoccipitals_only;
+{ 83 Paroccipital_process absent small,_adnate_to_petrosal large_and_erect;
+{ 84 Mental_foramina one two three;
+{ 85 Angular_process acute-strongly_inflected obtuse-weakly_inflected;
+{ 86 Retromolar_fossa imperforate pierced_by_canal;
+{ 87 Masseteric_foramen absent present;
+{ 88 First_upper_incisor styliform_or_chisellike flat-crowned;
+{ 89 Shape_I2-I4_crowns symmetrical_rhomboids asymmetrical hatchet-shaped flat-crowned;
+{ 90 Fifth_upper_incisor_1 present absent;
+{ 91 Fifth_upper_incisor_2 like_I4 caniniform_and_2-rooted very_small;
+{ 92 C1_alveolus in_premax._-max._suture in_maxillary;
+{ 93 Upper_canine simple post.__cusp ant.__and_post.__cusps ant._cusp;
+{ 94 P1_size large vestigial_or_absent;
+{ 95 Height_P2,_P3 P2_taller subequal P3_taller;
+{ 96 P3_cutting_edges anterior_and_posterior posterior_only;
+{ 97 Upper_milk_premolar large-molariform intermediate vestigial;
+{ 98 Stylar_shelf present absent;
+{ 99 Neomorphic_labial_cingulum absent present;
+{ 100 Ectoflexus_on_M1-M3 absent present;
+{ 101 Anterolabial_cingulum present absent;
+{ 102 Preparacrista_orientation_M1 anterolabial_or_labial posterolabial;
+{ 103 Centrocrista linear weakly_V-shaped strongly_V-shaped discontinuous;
+{ 104 Preprotocrista meets_anterolab._cing. stops_at_paracone;
+{ 105 Postprotocrista unnotched notched;
+{ 106 Posterolingual_cusp absent present;
+{ 107 Upper_molar_eruption P3_last M4__and_P3_together M4_last;
+{ 108 Lower_incisors with_lingual_cusp without_lingual_cusp;
+{ 109 "First"_lower_incisor small-nonprocumbent large-procumbent;
+{ 110 i2_alveolus staggered not_staggered;
+{ 111 i3 not_bilobed bilobed;
+{ 112 i4 present absent;
+{ 113 Height_p2,_p3_1 p2__taller subequal p3__taller;
+{ 114 dp3_trigonid tricuspid uni-_or_bicuspid dp3_vestigial;
+{ 115 Hypoconulid_notch present absent;
+{ 116 m1_paracristid notched unnotched;
+{ 117 m2_paracristid straight deflected;
+{ 118 m4_trigonid complete_(tricuspid) only_metaconid_distinct;
+{ 119 m3_hypoconid_position labially_salient lingual_to_protoconid;
+{ 120 Entoconid_size taller_than_hypcnld small_or_indistinct;
+{ 121 Entocristid_1 absent present;
+{ 122 Entocristid_2 lingual labially_deflected;
+{ 123 Hypoconulid twinned_with_entoconid in_midline;
+{ 124 Posterior_cingulid present absent;
+{ 125 RES_{a1+_a5,_m1} metacentric acrocentric;
+{ 126 RES_{a2+a8,_m2} metacentric acrocentric;
+{ 127 RES_{a3+a10,_m3} metacentric acrocentric;
+{ 128 RES_{a6+a9,_m4} metacentric acrocentric;
+;
+
+
+ccode  - 0.128;
+
+
+;

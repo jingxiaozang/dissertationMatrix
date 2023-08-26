@@ -1,0 +1,284 @@
+nstates num 7;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 12.23.11'
+245 21
+
+&[num]
+Saccopteryx_bilineata              01-1-000111011----10-000121001010010112121110000000101000010000000210?????00100102?0000000?000000000000000000000020100200010002010600010000020-01010000001011100000010100210000320000110001001001300000000020220220000001000?0??????????1000010000011
+Mystacina_tuberculata              01-0-20-100111----00-000010112000002020001011000101000001134000001100020?????????????????????1110100000000300000020000100111022100020002001?00-?0???0111011001?022013?0??0-0100110001001110001101110010?000000300011????????????????????01???????????
+Mystacina_robusta                  01-0-20-100111----00-000010102010002020001011010101000001134000001100?????01101010?2111012???2110100000000300000020000310101000000??0002001010-100111111010100102201300000-0100010001001110001101110010?000000200011???????????????????????00000?????
+Thyroptera_tricolor                00111000000110000-1000000100000100010?00001110002012000010110000103201001?0201111001110?120??2111100000011300000120010102101000001120200000120-000110001010222101100210002101001010001-000100100102000000002014100001111100001??????????00010100?????
+Furipterus_horrens                 0011100010001011-11000001100000100010101200010001012110010211000203210101?0201101102110011???2121200000011300000120000002102000000310200001120-012110101010222100100200000-010002100100000000?0011000000102101511300????????????????????00010????????
+Noctilio_albiventris               0000120-2--101----01-1000201020001120110010110002001000010220110?1210?????0??????????????????0001101000200000000120300200002000021120100001030-0100001010011211001110000020000010000010000000031020111010000011113100100000100???????0?010110100?0002
+Noctilio_leporinus                 0000121-2--101----01-10002011101011201100101100020010000102201101121001011012011101010000100?0001101000200000000120300200002000021120100001030-0100001010011211001110000020000031000010000000031020111010000011113100100000100???????0?010110100?0002
+Artibeus_jamaicensis               00100111100101----11-0-12-------1--20000000011021000100010130010011002010201?211100010000101011211101000112200000200302121111111005102010000110000111001001101001000200000-010010100-2-00000002100000011000201000010???111??0????????0102103211121110
+Macrotus_waterhousii               10000111110100000-010000020122010112000010011012101010001023000010000?????01121110?010110?0101110100000011220001000020301001022100200200000020-010010001101001001000210010-0100101000100000001400020001101010140120010111100000010011001210??????0100
+Macrotus_californicus              10000111110100000-010000020122000112000010011012101010001023000010000200?00??????????????????1110100000011220001000020301001022100200200000020-110010001101001001000210010-0100?0100010000000140002000110101014012001011110000001001100121021110?????
+Speonycteris_aurantiadens          ???????????11010-100000?10010200001?????????????????????????????01?01?????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????1??????????????????????????????????????????
+Koopmanycteris_mormonotus          ?????1?????020001-0000??10012310000???????0110?1200?????????????21311????????????????????????????????????????????????????????????????????????????????????????????????????200010?01010010110?1???????????10221????????????????????????????????????????
+Mormoops_megalophylla              10011100111020000-100000101112110102000001011001100010101012100030310101111????????1???????011110000101210101211110112202102053101310200101110-11100000101002201010121011200010200111001010111100010101110221130130000122110111000100011010?????10002
+Mormoops_blainvillii               10011100111020000-100000101112110002000001011001100010101012100030310?????1??????????????????1110000101210101211110112202102022101310200101110-1111000010100110101012011120001020011100101011110001000111022113013000?????1011100010001101011100?????
+Pteronotus_parnellii               1000010110111011-001100001010102001200001111110211221100102410001131121001111111120011000110101300001101110101101201011011020320011202001110211101110101010022011101201011210010110000000010000100011011003201302100001111000001002001110101110000002
+Pteronotus_pristinus               ?0??11??10???011-?0110000101010200120000110???0???????001124100011??1????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+Pteronotus_personatus              1000110010111011-00110101101010200120000010110021100100110441000113110111?110????????????????013000011011131011012110110110202200142020011102101111101010100120111012000112100101100001010100001000110110032013021000?????010001011001--010??????????
+Pteronotus_macleayii               1000110010111011-0011000110101020012000001011002210010011024100121311?????1??????????????????0130000110111010200121101101102042001420200111021010111010101001201110120101121001011000010101000010001001?0032013022000?????0100010100011101111100?????
+Pteronotus_quadridens              1000110010111011-0011000110101020012000001011002210010011024100121311?????1??????????????????0130000110111310200121101101102042001420200111021011111010101001201110120101121001011000010101000010001001?0032013021000?????010001010001--01011100?????
+Pteronotus_davyi                   1000110010111011-0011000010101020012000001011002210010001034101021311?????1????????1???????0101300001101113102001201011011020020010212001010210101110101010012011111201011210010110000101010000100010011003201302200001111010001000001--010?????0????
+Pteronotus_gymnonotus              1000110010111011-0011100010101020012000001011002210010001034101021311????11??????????????????013000011011131020012010110110200000102120010102101011101010100120111112010112100101100001010100001000100110032013022000?????01000100000111010??????????
+
+;
+
+
+cnames
+{ 0 Upper_I1_shape tooth_tapers_to_a_blunt_point bilobed;
+{ 1 Upper_I2_presence two_pairs_of_incisors_present_(I1_and_I2) I2_absent;
+{ 2 Height_of_I2_crown crown_height_of_outer_upper_incisors_(I2)_less_than_one-half_that_of_inner_incisors_(I1) I2_and_I1_subequal_in_height_;
+{ 3 LIngual_cingulum_on_upper_incisors present absent;
+{ 4 Diastema_between_upper_I2_and_C absent diastema_present;
+{ 5 Number_of_lower_incisors three_pairs_(i1,_i2,_i3) two_pairs_(i1,_i2) one_pair_(i1);
+{ 6 Shape_of__lower_i1 trilobed bilobed;
+{ 7 Shape_of_lower_i2 trilobed bilobed;
+{ 8 Number_of_upper_premolars three_premolars_(P1,_P3,_P4) two_premolars_(P3,_P4) one_premolar_(P4);
+{ 9 P3-P4_diastema absent diastema_present;
+{ 10 Crown_height_of_P3 height_of_P3_subequal_to_P4 height_of_P3_less_than_one-half_the_height_of_P4;
+{ 11 P4_protocone cusp_high,_narrow,_and_sharply_pointed cusp_lower,_broader,_more_blunt;
+{ 12 P4_anterolabial_cingulum_development absent narrow_cingular_shelf well_developed;
+{ 13 Number_of_lower_premolars three_lower_premolars_(p1,_p3,_p4) two_premolars_(p1,_p4) one_premolar_(p4);
+{ 14 Lower_p3_crown_length_ p3_large,_length_90%_to_100%_of_the_length_of_p4 p3_small,_length_less_than_or_equal_to_50%_that_of_p4_;
+{ 15 Lower_p3_number_of_roots two_roots one_root;
+{ 16 Large_p3_shape square_to_rectangular_in_occlusal_view diamond_shaped_in_occlusal_view;
+{ 17 Small_p3_shape blunt_or_peg-like sharp_conical_cusp;
+{ 18 Diastema_between_alveoli_of_adjacent_lower_premolars no_diastema_between_premolar_alveoli narrow_diastema_present;
+{ 19 Lower_p4_with_notch_for_p3 Absent Notch_for_p3_present;
+{ 20 Alveolus_for_p3_offset in_line_with_long_axis_of_toothrow offset_lingually;
+{ 21 Lower_premolars_alignment_of_crowns premolar_crowns_aligned_with_toothrow crowns_oblique_to_toothrow;
+{ 22 Upper_M1_and_M2_premetacrista_cuspule absent cuspule_present;
+{ 23 Upper_M3_presence M3_present absent;
+{ 24 Lower_m1_and_m2_postcristid_connections myotodont nyctalodont cusps_and_crests_indistint;
+{ 25 Lower_m1_and_m2_cristid_obliqua_contact_with_trigonid closer_to_protoconid postprotocristid_midway_between_metaconid_and_protoconid metconid;
+{ 26 Form_of_cristids_on_lower_molars thick_and_not_as_deeply_notched thin_sharp_deeply_notched;
+{ 27 Lower_m1_and_m2_entocristid entocristid_angled,_concave_lingually entocristid_straight;
+{ 28 Lower_m1_paraconid_position paraconid_in_line_with_metaconid_and_entoconid displaced_slightly_labially displaced_strongly_labially;
+{ 29 Lower_m1_paraconid_height nearly_tall_as_metaconid three_quarters half_height_of_metaconid reduced_to_low_shelf;
+{ 30 Lower_m1_distance_between_paraconid_and_metaconid_ paraconid-metaconid_distance_<=_metaconid-entoconid_distance distance_>_metaconid-entoconid_distance;
+{ 31 Lower_m1_metaconid_height_ taller_than_entoconid equal_to_entoconid_height shorter_than_entoconid;
+{ 32 Lower_m3_presence m3 absent;
+{ 33 Lower_m3_distal_cingulum present absent;
+{ 34 Lower_m3_hypoconulid present absent;
+{ 35 Premaxilla_body_development_and_fusion premaxillary_body_reduced,_left_and_right_counterparts_separated_by_a_space_in_the_midsagittal_line_ body_well-developed,_left_and_right_premaxillary_bodies_in_contact_medially_but_partially_separated_by_a_notch_anteriorly left_and_right_bodies_well-developed_and_fused_medially;
+{ 36 Premaxilla_nasal_process_development_and_articulations nasal_process_of_premaxilla_well_developed,_fused_to_the_rostral_process_of_the_maxilla nasal_process_caudally_reduced,_attached_to_the_maxilla_via_ligaments;
+{ 37 Nasoincisive_suture_length nasoincisive_suture_long,_nasal-premaxilla_contact_broad intermediate_breadth contact_consists_of_a_point_contact_between_premaxilla_and_nasal;
+{ 38 Premaxilla_palatal_branch_and_incisive_foramina palatine_process_of_the_premaxilla_complete,_with_medial_and_lateral_flanges_enclosing_paired_incisive_foramina_ palatine_process_complete,_incisive_foramina_closed_by_a_process_of_the_maxilla both_lateral_and_medial_flanges_of_premaxilla_absent,_wide_incisive_fissure_present_;
+{ 39 Hard_palate_posterior_limit hard_palate_extends_posteriorly_into_interorbital_region terminates_at_the_level_of_the_zygomatic_roots_;
+{ 40 Basispheniod_furrows_or_pits basisphenoid_with_wide,_shallow_longitudinal_furrows narrow_and_deep_furrows deep_pits;
+{ 41 Epitymanic_recess shallow_and_broad deep_and_constricted_in_area;
+{ 42 Fossa_for_m._stapedius shallow_and_broad constricted_in_area,_forms_a_crescent-shaped_fissure_;
+{ 43 Fenestra_cochleae fenestra_cochleae_small_or_of_moderate_size,_maximum_diameter_<20%_of_the_external_width_of_the_first_half_turn_of_the_cochlea enlarged,_maximum_diameter_>25%_of_the_external_width_of_the_first_half_turn_of_the_cochlea_;
+{ 44 Periotic_attachement pars_cochlearis_of_petrosal_sutured_to_basisphenoid pars_cochlearis_loosely_attached_to_basisphenoid_via_ligaments_and/or_thin_splints_of_bone_;
+{ 45 Cochlea_crypsis phanerocochlear cryptocochlear;
+{ 46 Cochlea_Size cochlea_greatly_enlarged moderately_enlarged;
+{ 47 Cochlear_canaliculus Smaller_than_fenstra_vestibuli Same_size Larger_than_fenestra_vestibuli;
+{ 48 Semicircular_canals_bony_covering Complete_bony_covering Partial_laminae Absent,_no_covering_or_laminae;
+{ 49 Fossa_incudis Small_shallow_recess Rudimentary_or_absent;
+{ 50 Crista_parotica_process_petrosus_anterior Spine_or_pointed_projection Projection_plus_flange Rounded_lump;
+{ 51 Ectotympanic_bulla_extent bulla_extends_medially_across_two-thirds_or_more_of_cochlea extends_across_approximately_one-half_of_cochlea extends_across_no_more_than_one-third_of_cochlea_;
+{ 52 Tympanic_annulus_orientation annulus_inclined,_lies_at_angle_of__35--55Ëš_relative_to_the_basicranial_plane semivertical,_lies_at_angle_of_75--90Ëš_relative_to_basicranial_plane;
+{ 53 Basioccipital_constriction not_constricted constricted;
+{ 54 Parietal_inflation not_inflated inflated_in_area_encasing_cerebellum_;
+{ 55 Zygomatic_breadth zygomatic_breadth_greater_than_or_equal_to_mastoid_breadth_ less_than_mastoid_breadth;
+{ 56 Postorbital_process postorbital_process_present absent;
+{ 57 Infraorbital_foramen_size foramen_not_enlarged,_diameter_less_than_one-eighth_the_height_of_the_rostrum enlarged,_diameter_one-quarter_to_one-half_the_height_of_the_rostrum;
+{ 58 Infraorbital_foramen_location foramen_located_above_anterior_half_of_P4 above_posterior_half_of_P4 above_anterior_half_of_M1_(paracone) above_posterior_half_of_M1_(metacone) above_anterior_half_of_M2_(parastyle);
+{ 59 Orbit_rim_location anterior_rim_of_orbit_terminates_above_P4 above_anterior_half_of__M1 above_posterior_half_of__M1 above_anterior_half_of_M2 above_posterior_half_of_M2_;
+{ 60 Shape_of_nasals flat_or_convex concave_upawrd;
+{ 61 Nasal_foramina foramina_small_or_absent pair_of_large_foramina_present_in_posterior_nasal_region_below_forehead_;
+{ 62 Rostrum_breadth maximum_rostral_breadth_less_than_or_equal_to_length_of_maxillary_toothrow_ greater_than_length_of_maxillary_toothrow_;
+{ 63 Rostrum_length less_than_42%_of_total_length_of_skull 44-55%_of_length_of_skull__;
+{ 64 Rostral_and_dentary_flexion Not_upturned Slight_upturn_ Moderate_upturn_ Strong_upturn_;
+{ 65 Dentary_depth dentary_moderate dentary_deep;
+{ 66 Height_of_coronoid_process_of_dentary coronoid_2_X__height_of_the_condyloid_process_ coronoid__1.5__height_of_the_condyloid_process coronoid_process_at_same_height_as_condyloid_process_ coronoid_below_level_of_condyloid;
+{ 67 Denatary_angular_process_level angular_process_projects_at_or_below_the_level_of_the_occlusal_plane_of_the_molar_toothrow above_the_level_of_the_occlusal_plane_but_below_the_level_of_the_cornoid_process level_with_coronoid;
+{ 68 Dentary_posteroventral_projection_of_mandibular_symphysis absent_to_weak strong;
+{ 69 Vomeronasal_epithelial_tube absent rudimentary well_developed;
+{ 70 Vomeronasal_cartilage_shape well-developed_curved_(J,_C,_U,_or_O_shaped) simple_bar-shaped cartilage_absent;
+{ 71 Nasopalatine_duct absent duct_present;
+{ 72 Accessory_olfactory_bulb present absent;
+{ 73 Inferior_colliculus_exposure exposed_fully partially_exposed not_visible;
+{ 74 Tracheal_expansion none 5-8_rings_expanded;
+{ 75 Entoglossal_process absent present_small large_T_shaped;
+{ 76 Ceratohyal normal_size reduced tiny_or_absent;
+{ 77 M._mylohyoideus_form undivided aponeurosis_present clearly_divided;
+{ 78 M._mylohyoideus_insertion includes_thyrohyal does_not_include_thyrohyal;
+{ 79 M._mandibulohyoideus muscle_present absent;
+{ 80 M._stylohyoideus_superficial_slip slip_present absent;
+{ 81 M._geniohyoideus_form fleshy_fibers_direct short_tendon long_tendon;
+{ 82 M._geniohyoideus_fusion fused not_fused;
+{ 83 M._sternohyoides_origin entire_manubrium_and_medial_clavicle entire_manubrium,_not_clavicle medial_manubrium_only;
+{ 84 M._genioglossus_and_m._hyoglossus_insertion direct_fleshy indirect_tendon no_connection;
+{ 85 M._stylogossus_bellies one_belly two_bellies_separated_by_hyoglossus;
+{ 86 M._ceratohyoideus_origin_from_ceratohyal present ceratohyal_origin_absent;
+{ 87 M._ceratohyoideus_origin_from_stylohyal absent stylohyal_origin_present;
+{ 88 M._sternothryoideus_origin clavicle manubrium;
+{ 89 M._omohyoideus clavicle scapula absent;
+{ 90 M._sphincter_colli_profundus present absent;
+{ 91 M._cricopharyngeus single_large_slip three_of_more_slips;
+{ 92 M._cricothyroideus single_muscle divided_into_two;
+{ 93 Horny_papillae_size uniform different_sizes horny_papillae_absent;
+{ 94 Lateral_circumvallate_papillae absent present;
+{ 95 Medial_posterior_mechanical_papillae papillae_directed_toward_midline directed_toward_pharangeal_rregion toward_tip_of_tongue no_inclination;
+{ 96 Basketlike_papillae present absent;
+{ 97 Phayngeal_tongue_region totally_bare medially_bare covered_with_papillae;
+{ 98 Oral_papillae absent present;
+{ 99 Cheeck_pouches absent present;
+{ 100 Dermal_papillae_on_lower_lip absent present;
+{ 101 Platelike_lower_lip lip_of_normal,_moderate_width enlarged_and_platelike;
+{ 102 Horseshoe-shaped_lower_lip_pad absent present;
+{ 103 Flaps_below_lower_lip flaps_absent one two_flaps;
+{ 104 Shape_of_muzzle protrudes_anteriorally,_muzzle_pointed in_line_with_lower_lip,_muzzle_blunt;
+{ 105 Nostrils short_tubular adjacent_anterior;
+{ 106 Area_between_nostrils v-shaped_notch narrow,_papillated wide,_vertical_ridge flat tongue-shaped_notch;
+{ 107 Noseleaf absent dermal_ridge simple_noseleaf complex_noseleaf;
+{ 108 papillae_dorsal_nostril_surface absent present;
+{ 109 Lateral_nostril_projections absent rounded_continuous tab-like_not_continuous;
+{ 110 tubercle_on_muzzle absent present;
+{ 111 Interauricular_band_or_fusion no_band_or_fusion interauricular_band;
+{ 112 pinna_funnel not funnel-shaped;
+{ 113 distal_area_of_pinna rounded squared tapers_to_blunt_point;
+{ 114 lateral_distal_edge_of_pinna smooth serrated;
+{ 115 Distal_tip_of_tragus pointed rounded squared bifurcated bulb-like;
+{ 116 Thickness_of_tragus thin thickened_basally_and_distally centrally_thickened uniformy_thick;
+{ 117 Secondary_fold_on_tragus absent present,_small present,_large;
+{ 118 interramal_vibrissae five one_present two absent;
+{ 119 Interrmal_tubercle well_developed absent;
+{ 120 genal_vibrissae two one absent;
+{ 121 Supercillary_Vibrissae present absent;
+{ 122 Vibrissae_lat_to_nose two_columns one;
+{ 123 Vib._colunm_lat_to_nose four three two_vibrissae;
+{ 124 Facial_stripes absent present;
+{ 125 dorsal_fur unicolored uni_or_bicolored bicolored bi_or_tricolored tricolored four;
+{ 126 ventral_fur unicolored uni_or_bicolored bicolored bi_or_tricolored;
+{ 127 hair_shaft_length 4-7_mm 8-10_mm;
+{ 128 Dorsal_stripes none pair_of_stripes_present one_midline_stripe;
+{ 129 overhair_and_under_hair same differentiated;
+{ 130 hair_scales entire_coronal entire-repand_coronal entire-hastate_coronal dentate_coronal denticulate-sinuate_coronal denticulate-hastate_coronal denticulate_coronal;
+{ 131 scale_shape divaricate divergent appressed;
+{ 132 attachment_of_wing-membrane_to side_and_exposed_fur mid-dorsal_line_and_midline;
+{ 133 Wing_folding_digits_III_&_IV Prox_lll_lV_post_Dist_III_IV_an Prox_lll_IV_not_Dist_III_IV_ant all_phalanges_anterioventral;
+{ 134 Antebrachial_wing_sac absent wing_sac_present;
+{ 135 Uropatagium_state broad v-shaped rudimentary;
+{ 136 wing-calcar_attachment uropatagium uropatagium_and_pagiopatagium;
+{ 137 calcar free caudal_half_bound_to_tibia;
+{ 138 C6_ventral_flanges not enlarged;
+{ 139 C7-T1_fusion not_fused fused;
+{ 140 no._thoratic_vertebrae fourteen thirteen twelve eleven;
+{ 141 neural_spine_on_thoratic absent present_T1-T4;
+{ 142 Height_of_neural_spines decrease_T1-T4 equal_height_T1-T4 increases_T1-T4;
+{ 143 T4_ventral absent parallel_ridges;
+{ 144 neural_spine_T8-T12 present absent;
+{ 145 thoracic-lumbar_fused absent 2T-L1,L2 3T-3_to_5L;
+{ 146 ventral_ridges_L3 absent present;
+{ 147 ventral_ridges,_L4_and_L5 absent present;
+{ 148 Anterior_face_manubrium small broad_with_elevated_ridges;
+{ 149 Vent_process_to_manubrium equal_90_degrees greater_than_90_degrees;
+{ 150 Ventral_process_tip Compressed_lat. blunt,_rounded;
+{ 151 Manubrium_length equal less_than_width;
+{ 152 Mesosternum_shape keel_low_or_absent high_keel;
+{ 153 Xiphisternum_Keel absent present;
+{ 154 Rib_2__to_sternum to_manubmeso_joint manubrium_only;
+{ 155 Number_costals_post_rib_2 six five four;
+{ 156 Rib_anterior_lamellae absent narrow wide;
+{ 157 Rib_posterior_lamellae absent narrow wide;
+{ 158 Clavicular_articulation coracoid btw._acrom_and_coracoid;
+{ 159 Clavicular_lig._pit absent present;
+{ 160 Coracoid even,_not_flared flared reduced_to_tiny_process;
+{ 161 Acromion_tip_ant absent anteromed_projection present_and_fused;
+{ 162 Acromion_tip_post absent posterolateral_projection;
+{ 163 Superscapular_process absent process_present;
+{ 164 Dorsal_Articular_facet absent dorsolateral_groove dorsolateral_oval dorsal_flat_facet;
+{ 165 infraspinosus_fossa wide fossa_narrow;
+{ 166 Infra_facet_shape narrow facets_subequal;
+{ 167 Axillary_border_of_scapula flat curved,_concave_ventrally;
+{ 168 Anterior_of_axillary_border rounded flattened;
+{ 169 Humerus_head_shape round symmetrical_oval_or_elliptical flattened_transversely_and_narrowed_to_pointed_process_proximally;
+{ 170 Humerus_head_angle toward_lesser_tuberosity not_angled_toward_either toward_greater_tuberosity;
+{ 171 Notch_between_humerus_head_and_greater_tuberosity notch_or_groove_present absent;
+{ 172 Greater_tuberosity_height level_with_head extends_beyond_head;
+{ 173 Greater_tuberosity_groove_on_lateral_surface absent grove_present;
+{ 174 Lesser_tuberosity_concavity_ absent elliptical_concavity_present;
+{ 175 humerus_med_flange_beyond_less flange_continuous_and_broad continuous_and_narrow reduced_to_small_dist_tubercl very_reduced_to_absent;
+{ 176 humerus_deltopectoral_ridge short_and_narrow long_and_broad short_and_broad;
+{ 177 Distal_humerus in_line facet_displaced;
+{ 178 Central_capitulum_height_and_separation_from_trochlea capitulum_and_trochlear_subequal,_groove_narrow_and_shallow capitulum_reduced,_groove_wide_and_deep;
+{ 179 Capitulum_groove_between_lateral_ridge_and_central_surface present absent;
+{ 180 Notch_between_trochlea_and_distal_spinous_process separated_by_notch adjacent;
+{ 181 Height_of_distal_spinosus_process greater_than_that_of_trochlea process_present_but_less_than_or_equal process_absent;
+{ 182 Orientation_of_distal_spinous_process vertical_and_parallel_to_shaft angled_posteriorly;
+{ 183 Epitrochlea_size broad narrow_and_reduced;
+{ 184 Epictochela_concacity_on_proximomedial_corner absent concavity_present;
+{ 185 Posterolateral_ridge_on_distal_humerus absent ridge_present;
+{ 186 Posteriomedial_ridge_of_distal_humerus absent present;
+{ 187 olecranon_protion_of_ulna reduced well_developed;
+{ 188 Proximal_extremity_of_radius triangular truncated_and_flattened_or_rounded;
+{ 189 shape_of_pisiform_bone small_rod_of_equal_width enlarged_and_wider_at_the_ends;
+{ 190 metacarpal_formula 5<4<3 5<4=3 3=4=5 3=5<4 3<4<5;
+{ 191 WD1_phalanx longer_than_metacarpal subequal;
+{ 192 WD_II_1st_phal normal minute_unossified_or_absent;
+{ 193 WD_III_3rd_phal_ossification long_ossified long_only_base_ossified long_not_ossified minute_unossified;
+{ 194 Digit_lV,_2nd_phalanx longer_than_1st equal_to short;
+{ 195 Sacral_verts_contact_ischium no_contact sacarals_fused_to_ischium;
+{ 196 Iliosacral_articulation not flares_fossa_well_defined;
+{ 197 Ischial_tuberosity absent large_dorsally_projecting_tuberosity_present;
+{ 198 Pubic_spine_length less_than_one_third_illium >=.5_illium;
+{ 199 Male_pubic_symphysis short long_symphysis;
+{ 200 femur_length normal relatively_elongated;
+{ 201 Distal_femur_shaft straight bent;
+{ 202 Femur_trochanters both_well_developed_extend_beyond_head Somwhat_reduced,_greater_larger_than_lesser highly_reduced,_greater_trochanter_larger_than_lesser highly_reduced_,_trochanters_subequal;
+{ 203 Femur_ridge_near_lesser_trochanter absent rdige_dorsal_(behind)_lesser_trocanter ridge_is_distal_to_trochanter;
+{ 204 Distal_femur_shaft_tubercule absent tubercle_or_ridge_present;
+{ 205 Fibula well-developed thin absent_or_unossified;
+{ 206 Length_of_Tail absent .5_tibia .75_tibia equal_tibia 1.5_tibia 2x_tibia;
+{ 207 Calcaneum normal medially_expanded_and_flattened;
+{ 208 Calcar_composition cartilagenous calcified_base,_distal_end_cartilagenous fully_calicified;
+{ 209 Calcar_Length .5x_foot_or_less subequal 1.5x_foot 2x_foot;
+{ 210 Foot_length <=.5_length_of_tibia .75-1_of_tibia;
+{ 211 Talons_on_claws absent talons_present;
+{ 212 M._humeropatagialis muscle_present absent;
+{ 213 M._occipitopollicalis_origin tendinous_to_ant_pect not_tendinous;
+{ 214 M._occipitopollcalis_distal muscle_fibers tendon;
+{ 215 M._spinodeltoideus_origin no_ligament ligament__.5-.66 ligament;
+{ 216 M._tres_major_origin .5-.66_axil._border .25-.4_axillary_border tip_of_axillary_border;
+{ 217 M._teres_major_insertion ventral_ridge_humerus vent_base_of_pectoral_crest;
+{ 218 M._triceps_caput_medialis muscle_present absent;
+{ 219 M._coracobrachialis small_and_at_tip 2x_larger_and_proximal;
+{ 220 M._biceps_brachii no_sling Sling_encasing_tendons;
+{ 221 M._brachialis muscle_present absent;
+{ 222 M._extensor_carpi_radialis_long none sesmoid;
+{ 223 M._extensor_policis_brevis ulna_origin ulna_and_radius_origin;
+{ 224 Origin_m_ext._digit._communis ulna_and_radius_only ulna,_radius,_humerus;
+{ 225 M._ext._digitorum_communis insert_2_phalanx insert_5_metacarpal;
+{ 226 M._ext._digiti_quinti_proprius lat._epicondyle_and_ulna lat._epicondyle_only m._ext._dig._communis_and_radiu muscle_absent;
+{ 227 M._flexor_digitorum_profundus inserts_on_digit_IV doesn't;
+{ 228 M._flexor_digitorum_profundus_1 inserts_on_digit_V doesn't;
+{ 229 M._palmaris_longus_C robust vestigal;
+{ 230 M._palmaris_longus_A does_not insert_on_two;
+{ 231 M._palmaris_longus_B doesn't inserts_on_three;
+{ 232 Digital_Tendon_Locking_Mech. absent rachet-like friction_lock;
+{ 233 female_genitalia transverse ant-post;
+{ 234 Clitoris not elongated;
+{ 235 Eternal_unterine_horn .75_of_ext._common_uterine .5_of_ext._common_uterine .25_of_ext._common_unterine uterus_fully_simplex;
+{ 236 Common_uterine_lumen short large very_large reduced_or_absent;
+{ 237 Oviduct_papilla papillae_present absent;
+{ 238 Oviduct_mucosal_folds throughout_oviduct only_etramural_oviduct;
+{ 239 Ovarian_ligament to_oviduct to_uterine_body;
+{ 240 Submaxillary_gland_type mucous serous absent;
+{ 241 Cardiac_vestiblue_in_stomach very_small,_absent large;
+{ 242 Mucous_pyloric_glands narrow_zone broad_zone;
+{ 243 Pyloric_sphincter asymentrical symentrical;
+{ 244 Brunner''s_glands few_large_round abundant_small_round very_abundent_small_flat;
+;
+
+
+ccode  - 0.4 6.7 9.11 14.24 26.27 30 32.34 36 38.46 49.50 52.57 60.63 65 68 70.72 74 77.80 82 85.96 98.106 108.116 118.119 121.122 124 127.130 132.134 136.139 141 143.144 146.154 158.160 162.180 182.192 195.201 203.204 207 210.214 217.234 237.243 + 5 8 12.13 25 28.29 31 35 37 47.48 51 58.59 64 66.67 69 73 75.76 81 83.84 97 107 117 120 123 125.126 131 135 140 142 145 155.157 161 181 193.194 202 205.206 208.209 215.216 235.236 244;
+
+
+;
