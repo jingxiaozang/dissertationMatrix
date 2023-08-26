@@ -1,0 +1,167 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 13.19.52'
+88 61
+
+&[num]
+Addax_nasomaculatus              212202011010000000011221112121043010001120112100011?1110001111021010201000112114111??100
+Aepyceros_melampus               2110000010200001112003210121411210001011111011000101121110?21101100020100111001311020312
+Alcelaphus_buselaphus            11100211100000010?2002221122110430101121000121000212101020021102101010100011210210-??302
+Ammodorcas_clarkei               1110000010100000101003120?10?10210100111200020000101101110111100100030101011001110-00111
+Antidorcas_marsupialis           0120010010101?10112003210101310410101121101021000111121110011101100010101110101202000212
+Antilope_cervicapra              1120010010101010112012210120210210001111101020000111100100111101100010101010001411120110
+Boselaphus_tragocamelus          211102011010000000011222???121022010001110013000010010100000010010111010000-012010-01111
+Capra_falconeri                  2110000?0020010111200221???131031010?01120103100010111010001010200013010000-101401121110
+Cephalophus_rufilatus            2101020111000100012002?10020110311111211000000100102000001120100100010110110211010-01100
+Cephalophus_silvicultor          210102011100010011001211???1100411111111001010000102000001121100100010110110211010-01100
+Connochaetes_taurinus            111002111000100101200222???221043010112100113100021310102002110210100010000-211100-??402
+Damaliscus_pygargus              1110021110000101012002211111210430101121001131100213101020021102101110000010201100-00312
+Dorcatragus_megalotis            2100100011000010101003210020411100100011201020010101020130111100100020111010002010-00010
+Eudorcas_rufifrons               2110010010100010102003210120311210000111201020000111120100?11101100010101110101100-1011?
+Eudorcas_thomsoni                2110010010100010102003210120311210000111201020000111120100011101100020101110101200-10113
+Gazella_bennettii                2110010010100010102003210120210210000111201020000110120100111101100000101110101200-10113
+Gazella_cuvieri                  ?1100101102?0010102003?1???031021000011120102000011?120100111101100010101110101200-10113
+Gazella_dorcas                   2110010010100010102003210120210210000111201020000110120100111101100010101110101200-10113
+Gazella_gazella                  211001001010001010200321???0200210001111201020000111120?00111101100010101110101200-10113
+Gazella_leptoceros               2110010010100010102003210120210210000111201020000111120100111101100010101110101300-10113
+Gazella_marica                   211001001010001010200321???0210210000111201020000111120100111101100000101110101200-???1?
+Gazella_spekei                   211001011010001010200321???0210210000111201020000110120100111101100010101010101200-10113
+Gazella_subgutturosa             2110010110100010102003210120210210000111201020000110120100111101100000101110001200-10313
+Hippotragus_niger                2112020110000100010112211021110430100021201131000101101020111102101100000010201300-?0013
+Kobus_ellipsiprymnus             111102101020000?0101122111211?0420100021200021100101011020110100100000100010001210-20302
+Kobus_kob                        111102111010010001011222???1110?20100011200020100100001000010100100000100111001210-?0?1?
+Kobus_leche                      111102111010000001011222???0100320100011200020100101001000010100100000100011001310-1?313
+Kobus_megaceros                  1111021010101000010112?2???1110420100021200020000101001000011100100000100011001310-???1?
+Kobus_vardoni                    1111021010100100010112221121100420100021200020000100001000010100100010100111001210-???1?
+Litocranius_walleri              2100000010000000000003020110100220000111201010001001101010111100100030101010001201010312
+Madoqua_guentheri                2000100011000010102001?10000312000001201201010010002020030120110110001111010002010-0?000
+Madoqua_kirki                    20001000110000101020011100?0312100001200201010010001020030120110110011111010002010-01000
+Madoqua_saltiana                 2000100011000010102000?10000312100001201201010010001020131220110110011111010002010-01000
+Nanger_dama                      2110010010200010112003210021311110000121201020000110120100121101100010101010101100-10213
+Nanger_granti                    2110010010200010101003210020311210000121201020000110120100121101100020101010101300-20223
+Nanger_soemmerringi              21100100102000101020032100213112100001212010200001?0120100121101100000101010101200-10213
+Neotragus_batesi                 2100100010000100102003?1011011121000120111001000010110001010011010000001000-002010-00000
+Neotragus_moschatus              2000000010000010002003210010211210001201210010000100100010100110100010110010002010-00000
+Neotragus_pygmaeus               211010001100011000200311002011122010121110001000010?10000000011020001011000-002010-00000
+Oreotragus_oreotragus            2100100011000010002001200020210210101201?01020000101100001120000100030110010?02010-00020
+Oryx_beisa                       211202?11000000?00011221112110032010002120113100011?111020111101101030000010211410-??100
+Ourebia_ourebi                   21100100100000101120022101?111032010?211201020010110000000110100100030111110002010-00110
+Pantholops_hodgsoni              012000001011110101200221???1200310111011001131000112121130121101000130100011000300-00110
+Pelea_capreolus                  2110000010100001102003220111100320100011200020000112111000020100000010110110002110-00020
+Philantomba_monticola            210?020111000100101002110020110311111201001000?00102000001?20110100020110010211010-00000
+Procapra_gutturosa               2110010010200001112003210121210310100021201021000111121100121100100010101110000100-10213
+Procapra_picticaudata            2110010010200001112003?1???1310310100011201020000111121100121101100010101110000200-10213
+Procapra_przewalskii             21100100102000011?2003?101?0310310100011201020000111121100121100000010101110000200-???12
+Raphicerus_campestris            2100100011000010102003210120210210100201200020010101000000110110100011111?0-002010-00010
+Raphicerus_melanotis             210010001100001010200311012011021010020120002001010100000011011010001111100-002010-00010
+Raphicerus_sharpei               2100100011000010102003?1???011021010020110001001011000000001011?100011111?0-002010-00010
+Redunca_arundinum                111202111000000001011222112110032010001120002000010?001000110100100000100110001110-??101
+Redunca_fulvorufula              11110211100000000101122211211?04201000112000200001010010?0110100100000100110001110-??111
+Redunca_redunca                  1111021110000100010112?2???1100420100011200020000101001000110100100000100110001110-??111
+Rupicapra_rupicapra              2110010110100101102002?1111120022010?011?01130000111120000?2010000012010000-200110-00020
+Saiga_tatarica                   1120010010201010112003210121000000100021002031000113120030000101100000100010001210-10310
+Sylvicapra_grimmia               210002011100000??11003210021110411111111001010100102000001120000100020110110010010-00000
+Tetracerus_quadricornis          200?02001000000001010211???011022000111100012000010110000000010010101011000-012010-00000
+Tragelaphus_imberbis             210002011010000001100311112011042000102020002000010010100001110010002000000-001311121110
+Gazella_lydekkeri                210001011000000010001211???02104200001??20?0?000?????00??012??001000001010??001?10-00100
+Turcoceros_grangeri              2110010000200010010112?10?211102?0?0?11??00?300??10?1101?01?1?0?0001001000???01?12001120
+
+;
+
+
+cnames
+{ 0 upper_P2 usually_absent present,_reduced_(fewer_tooth_crown_elements_than_P3) present_and_of_similar_size_as_P3;
+{ 1 upper_P2_and_P3,_length_compared_to_P4 much_longer_(length_of_P2_and/or_P3_is_at_least_120%_of_the_length_of_P4) same_length_or_shorter;
+{ 2 upper_premolar_row,_length_compared_to_length_of_total_upper_(cheek)_tooth_row_(ordered) 42%_or_more 35%-41% 34%_or_less;
+{ 3 upper_molars,_entostyles_(ordered) absent always_present_and_relatively_big lambda_shaped_(at_least_on_one_of_the_molars);
+{ 4 upper_molars,_styles prominent very_small/almost_absent;
+{ 5 upper_molars,_labial_ribs_on_paracone_and_metacone absent present_but_weak,_more_prominent_on_paracone,_sometimes_only_present_on_M3 present_and_large_on_all_molars;
+{ 6 upper_molars,_thick_labial_cementum_layer absent present;
+{ 7 upper_molars,_central_fossetta absent present;
+{ 8 upper_molars_lingual_cristae:_postprotocrista_and_premetaconulecrista unfused,_at_least_in_young_individuals fused;
+{ 9 upper_M3,_size_of_posterior_half_compared_to_anterior_half same_size distinctively_smaller;
+{ 10 upper_M3,_metastyle absent_or_weak moderate strong;
+{ 11 lower_incisor_insertion_line half_circle_/_triangle only_slightly_arched;
+{ 12 lower_p2 present absent_(very_tiny_in_few_individuals);
+{ 13 lower_p4_and_p3,_anterior_conid_and_anterior_stylid clearly_separate_at_least_on_one_tooth no_separate_anterior_stylid;
+{ 14 lower_p4,_mesolingual_conid_(metaconid) straight oblique,_leaning_posteriorly;
+{ 15 lower_p4,_anterior_conid_(paraconid)_and_mesolingual_conid_(metaconid) separate fused_via_anterolingual_cristid;
+{ 16 lower_p4,_mesolingual_conid_(metaconid)_and_posterolingual_conid_(entoconid) separate fused_via_posterolingual_cristid;
+{ 17 lower_p4_labial_incision always_absent_or_weak variable,_but_deep_in_some_specimens;
+{ 18 lower_molars,_ectostylids_(ordered) always_present_on_all_molars_or_at_least_on_m1_and_m2 usually_only_present_on_m1,_never_big,_absent_in_some_specimens always_absent;
+{ 19 lower_molars,_ectostylids_size absent_or_low,_not_connected_to_postmetacristid_and_preentocristid_until_late_in_life high,_forming_part_of_occlusal_plane_at_least_on_one_molar;
+{ 20 lower_molars,_very_pronounced_anterior_cingulid_(goat_fold) absent_or_very_weak_(tooth_slightly_elongate,_could_have_a_prominent_anterior_stylid) present_(at_least_on_m3);
+{ 21 lower_m3,_third_lobe absent present_but_very_small,_consisting_of_hypoconulid_only present,_consisting_of_hypoconulid_only present,_consisting_of_hypoconulid_and_entoconulid_(central_fossa_visible_until_middle_or_later_wear);
+{ 22 cheek_teeth_height,_represented_by_Hypsodonty_Index_(HI),_height_of_lower_m3_divided_by_width_of_lower_m3_(ordered) low_crowned,_brachyodont,_HI_<1.5 higher_crowned,_mesodont,_1.5<HI<3 high_crowned,_hypsodont,_3<HI;
+{ 23 diastema,_length_compared_to_length_of_lower_cheek_teeth_row_(ordered) <_50% 50%_-_75% >_75%;
+{ 24 upper_dP3,_shape molariform_with_anterior_part_smaller_than_posterior_part_(no_protocone,_but_protocrista_forming_the_lingual_wall_of_anterior_half) molariform,_anterior_half_and_posterior_half_have_the_same_size_(protocone_present);
+{ 25 upper_dP2,_width_compared_to_dP3 appr._same_width much_narrower;
+{ 26 lower_dp2,_morphology simple,_conical trenchant_tooth_with_small_talonid with_central_conid_and_anterior_and_posterior_accessory_cuspids_and_small_talonid_with_central_cusp_(protoconulid),_total_number_of_cuspids_is_three_to_four;
+{ 27 elongation_of_face_(skull_in_front_of_eyes)_in_%_of_skull_length_(condylo-basal_length) long,_46%_-_56% elongate,_57%_-_67% very_elongate,_>_67%;
+{ 28 premaxillary,_processus_nasalis__(ordered) very_short_(ends_shortly_behind_foramen_incisivum) short,_ends_in_distal_half_of_diastema,_not_reaching_premolars intermediate_length,_extending_to_premolars,_sometimes_overlapping_with_P2_or_even_P3 long,_extending_to_over_P3_or_even_P4 very_long,_extending_to_molars;
+{ 29 premaxillary_and_nasal not_in_contact in_contact_or_almost_in_contact;
+{ 30 premaxillary_and_lachrymal far_apart,_never_in_contact very_close,_sometimes_in_contact always_in_contact;
+{ 31 nasal_length_in_%_of_palatal_length_(ordered) very_short,_less_than_33% short,_33%_-_42% intermediate,_43%_-_60% long,_61%_-_69% very_long,_more_than_70%;
+{ 32 nasal,_shape short,_the_length_is_only_100%_of_the_width_or_less intermediate,_the_length_is_about_150-250%_of_the_width long,_length_is_clearly_more_than_250%_of_the_width very_long_and_narrow,_length_is_more_than_500%_of_the_width;
+{ 33 nasal,_middle_part_with_distinct_ventrolateral_expansion,_extending_between_maxillary_and_frontal absent present;
+{ 34 nasal,_rostral_processes median_process_short,_lateral_processes_clearly_present median_process_long,_lateral_processes_absent_or_tiny;
+{ 35 nasal,_border_to_maxillary_(and_premaxillary,_lachrymal) no_suture_(gap) suture;
+{ 36 nasal_and_lacrimal no_contact contact;
+{ 37 preorbital_fossa_(=lachrymal_pit)_(ordered) absent present_(at_least_in_males) present_and_very_deep,_sharp_edge_in_dorsal_part_of_lachrymal;
+{ 38 lacrimal,_facial_portion_of_in_%_of_orbital_diameter_(ordered) moderate,_65%_-_90% large,_91%_-_130% very_large,_more_than_131%;
+{ 39 lacrimal_foramina,_number two one;
+{ 40 fenestra_in_rostrum_at_junction_of_lacrimal,_nasal,_frontal_and_maxillary_(ethmoidal_fissure_/_antorbital_vacuity) absent present,_fissure_between_nasal_and_lacrimal_(at_least_in_males) enlarged_(at_least_in_males);
+{ 41 fenestra_between_premaxillary_and_maxillary absent present;
+{ 42 infraorbital_foramen,_position_(ordered) in_front_of_toothrow_or_above_P2_(up_to_P2/P3_boundary,_but_never_clearly_above_P3) above_P2/P3_or_P3_(can_be_variable,_but_clearly_above_P3_in_some_specimens) above_P4_or_further_posterior;
+{ 43 maxillary_and_frontal_ wide_apart,_never_in_contact very_close,_sometimes_in_contact;
+{ 44 width_across_orbits_compared_to_braincase_width narrow,_less_than_120% intermediate,_120-135% wide,_more_than_135-160% very_wide,_more_than_160%;
+{ 45 posterior_end_of_tooth_row_(teeth_horizontal) below_orbit at_anterior_margin_of_orbit_or_further_anterior_(largest_part_of_MÂ³_situated_in_front_of_orbit);
+{ 46 squamosal,_small_process_above_external_auditory_meatus absent present;
+{ 47 additional_suture_in_squamosal_above_external_auditory_meatus,_perpendicular_to_suture_between_squamosal_and_parietal_ absent present;
+{ 48 postglenoid_foramen_(foramen_retroarticularis)_in_dorsal_view visible not_visible;
+{ 49 postglenoid_process_(processus_retroarticularis)_at_mandibular_fossa absent present,_at_posteromedial_side_of_mandibular_fossa present_and_very_high_and_wide;
+{ 50 palatine_foramina,_position at_level_of_M1/M2_to_M2 at_level_of_M2/M3_or_further_posterior;
+{ 51 palatine_foramina,_distance foramina_enclosing_39%_of_the_palate_or_less enclosing_40%_to_49%_of_the_palate enclosing_50%_to_59%_of_the_palate enclosing_more_than_60%_of_the_palate;
+{ 52 palatal_ridges_of_maxillary very_close_together,_sometimes_touching_each_other further_apart,_on_palatal_part_of_maxillary;
+{ 53 external_nares,_posterior_margin_(ordered) anterior_half_of_diastema posterior_half_of_diastema,_in_front_of_P2 posterior_to_P2;
+{ 54 maxillary,_width_in_front_of_teeth slender,_equal_to_width_of_palate_al_level_of_anteriormost_premolar broad,_wider_than_palate_at_anteriormost_premolar;
+{ 55 maxillary,_width_compared_to_premaxillary_(in_the_middle_of_the_diastema) maxillary_as_wide_as_premaxillary maxillary_less_wide_than_premaxillary,_premaxillary_is_visible_lateral_to_the_maxillary_in_ventral_view;
+{ 56 premaxillary_shape_in_ventral_view premaxillary_sides_almost_parallel,_snout_tip_slightly_tapering snout_tip_tapering_considerably premaxillary_sides_parallel,_snout_tip_with_square-shaped_appearance snout_tip_spoon-shaped;
+{ 57 medial_postpalatal_notch,_anterior_extension ends_at_anterior_half_of_MÂ³_or_further_posterior extends_to_posterior_end_of_M2_or_further_anterior;
+{ 58 medial_postpalatal_notch,_shape rounded,_parabolic_to_U-shaped pointy,_V_shaped parabolic_with_distinct_backward_projection_at_the_tip;
+{ 59 relative_position_of_the_medial_and_lateral_postpalatal_notches medial_notch_is_always_clearly_posterior_to_the_lateral_notches medial_notch_more_or_less_at_the_same_level_as_lateral_ones medial_notch_is_always_clearly_anterior_to_lateral_notches;
+{ 60 process_of_alisphenoid_(anterior_to_foramen_ovale) barely_developed_or_absent very_prominent;
+{ 61 foramen_ovale_size_(shape) very_small_(more_rounded) relatively_big_(oval);
+{ 62 processus_mastoideus_(paroccipital_process_/_processus_paracondylaris),_shape relatively_broad,_sometimes_triangular very_narrow;
+{ 63 mastoids_and_parietals_(ordered) far_apart,_never_in_contact relatively_close,_sometimes_in_contact very_close,_usually_in_contact;
+{ 64 ventral_inflation_of_tympanic_bulla absent,_ventral_edge_of_bulla_dorsal_to_ventral_edge_of_occipital_condyles intermediate,_edge_of_bulla_same_at_same_level_as_occipital_condyles strong,_ventral_edge_of_bulla_ventral_to_occipital_condyles;
+{ 65 tympanohyal_vagina_completely_surrounded_by_inflated_bulla no yes;
+{ 66 lamina_vaginalis_connected_to_opening_of_external_auditory_meatus,_forming_a_''curtain''_under_it curtain_absent curtain_present;
+{ 67 tympanic_bulla,_shape_in_lateral_view convex,_half_circle_shaped_or_slightly_flattened triangular,_curving_down_posteriorly,_with_process_adjacent_to_the_mastoid_process;
+{ 68 tympanic_bulla,_shape_in_ventral_view spherical,_length/width_<_1.66 slightly_elongate,_length/width_1.67_-_1.85 elongate,_length/width_1.85_-_1.95 very_elongate,_length/width_>_1.96;
+{ 69 distinct_basal_process_of_tympanic_bulla_directly_adjacent_to_basioccipital absent present;
+{ 70 external_auditory_meatus,_bones_contributing_to_the_opening_ bony_rim_formed_by_ectotympanic_and_squamosal__(only_half-circle_formed_by_ectotympanic) bony_rim_(almost)_entirely_formed_by_ectotympanic;
+{ 71 external_auditory_meatus,_orientation_of_the_opening_in_ventral_view directed_laterad directed_posteriad;
+{ 72 external_auditory_meatus,_position_of_the_opening_in_lateral_view_(teeth_orientated_horizontally) below_or_at_level_of_mandibular_fossa at_least_in_part_or_completely_above_mandibular_fossa;
+{ 73 postcornual_fossa_(in_males) absent_or_poorly_developed clearly_present;
+{ 74 rings_on_horn_surface surface_smooth/no_rings prominent_rings;
+{ 75 ring_prominence rings_all_around_horn_(rel._equal_back_and_front) no_rings_at_back_(or_much_flatter);
+{ 76 horns_in_females_(ordered) absent present,_smaller_than_horns_in_males present,_appr._equal_size_to_horns_in_males;
+{ 77 horn_position_in_lateral_view centre_of_horn_above_posterior_margin_of_orbit,_some_of_the_horn_above_orbit centre_of_horn_completely_behind_orbits;
+{ 78 horn_position_in_frontal_view horns_very_close_together horn_base_situated_at_same_distance_to_midline_of_skull_and_lateral_edges_of_orbits horns_far_apart;
+{ 79 male_horns,_length_(measured_with_a_tape_measure_along_the_front_line_of_the_horn)_in_%_of_skull_length_(condylo_basal_length)_(ordered) very_short,_75%_or_less short,_76%_-_120%_ intermediate_121%_-_175% long,_176%_-_240% very_long,_more_than_250%;
+{ 80 horn_cores_cross_section_at_the_base_of_the_horn_(in_males) mediolaterally_compressed_(lateral_diameter/antero-posterior_diameter_<_0.85) round_(lateral_diameter/antero-posterior_diameter_=_0.86_or_more);
+{ 81 horn_core_torsion no_torsion right_horn_clockwise_torsion_(dorsal_view,_moving_from_base_to_tip) right_horn_anti-clockwise_torsion_(dorsal_view,_moving_from_base_to_tip);
+{ 82 degree_of_horn_core_torsion less_than_one_full_turn one_full_turn_ore_more;
+{ 83 male_horn_core,_length_in_relation_to_the_total_length_of_the_skull short,_horncore_length_much_shorter_than_skull_length medium,_horncore_length_between_85_and_150%_of_skull_length large,_horncore_length_>_150%_of_skull_length;
+{ 84 male_horn_core,_keel absent present;
+{ 85 horn_cores,_orientation_in_frontal_view_(from_base_to_tip) parallel divergent only_slightly_divergent_at_the_base,_but_greatly_divergent_towards_the_tips lyriform,_parallel_or_slightly_divergent_at_the_base,_but_convergent_towards_the_tips very_divergent_at_the_base,_parallel_or_convergent_towards_the_tips;
+{ 86 pedicle,_insertion_angle_relative_to_the_tooth_row <_40Â° 40Â°_-_60Â° >_60Â°;
+{ 87 horn_core,_curvature_in_lateral_view straight_or_very_little_curved curved_forwards sinusoid,_curved_backwards_at_the_base_and_forwards_towards_the_tip curved_backwards;
+;
+
+
+ccode  - 0.87;
+
+
+;

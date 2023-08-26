@@ -1,0 +1,147 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 13.18.48'
+107 22
+
+&[num]
+Crypturollus_undulatus                    000000?000000000001000000000100001000000000100111001001000000000000000?10000-000000000000?0000010?100000000
+Trogon_massena                            1002011000000000000000000000100000000110000100110110000000000102010011110001011100000010110010?????????????
+Leptosomus_discolor                       100000000?100000000101000000000000000??????1?10011000000010001020100001?11010010000?0010?11000?????????????
+Eurypyga_helias                           00000000001000000000010001000000000000000001000010000010010011000100000?01010010000?0000000000?????????????
+Steatornis_caripensis                     100211?1000000101000000001000?0000000001010100011000001000001102010011111001011011001000011001011?001101100
+Prefica_nivea                             ????????????????????????01???0?0?0000???????????1?0?0?000?00?102?100011?01010???1???10?0??1000?????????????
+Nyctibius_greseus                         001100010120110000?000111021010000011011110111011100000001001002010001011111101001011010000000?1???01101011
+Nyctibius_grandis                         00110001012011000000001110210100000110111101?10111000000010011020100?10111111010?1011010000000?????01101011
+Quercypodargus_olsoni                     ?????????????????????????????????????????????????????????????????????????????????00???1??1?????????????????
+Masillapodargus_longipes                  ??101??101?-??1??00??20?0??0?0?111100????1????010?1?0?0000000101?1?0011?010?????0???0??????000?????????????
+Eurofluvioviridavis_robustipes            ?0100??????????0000??2???????0?0?000???????0???0??0??????00???0??1?00?000101???0????1????0?000?????????????
+Fluvioviridavis_PA_607                    1?101101000-001010000200011000?110100001????0??????????????????????????????10??0??0011???1?000?????????????
+Fluvioviridavis_SMNK.PAL.2368a+b          ?1101?0100???????????????01??????0?????????1?0001?0???00??00?100?1000??0110100100?0?1??????000?????????????
+Fluvioviridavis_combination               11101101000-001010000200011000?110100?01???100001?0???00??00?100?1000??0110100100?0011???1?000?????????????
+Podargus_strigoides                       11101111110-0101100112000110001111100001110110111010000010000101010001110101001000000010110000011?001101001
+Batrachostomus_auritus                    11101111110-01011001120001100011111000011101101110100000100001020100111?01010010000?0010110000011?001101011
+Caprimulgus_carolinensis                  00110000002011000100001110210100000111010100111110100010010010020100010111010110000?00001000001110001101001
+Paraprefica_kelleri                       001100??0???1100??00?0??102??1?000011?????????01??0???000?00100??1?001010?01?01001??10?0???0?0?????????????
+Aegotheles_cristatus                      001100?1000101000100010000111?0000001010010111100100000100001000010001010101011100000000110100101?011101111
+Hemiprocne_comata                         001100?1001101000100010000111?0000000010011111000110112101111111111001011111111101101?01101??1?00??111?????
+Amazilia_tzacatl                          001000?1001100000100010000111?0000000111010111000000110-010000110001100110111111001000011110111001111111111
+Aerodramus_vanikorensis                   001100?10?1101000100010000111?00000001100111110001001111011110101110010111110111001000011111011000111111111
+
+;
+
+
+cnames
+{ 0 Ossified_nasal_septum: absent_ present_and__largely/completely_ossified;
+{ 1 External_naris,_anterior_portion,_rim_surrounding_the_naris: restricted_to_the_external_naris extends_anterolaterally_onto_the_dorsal_surface_of_the_beak;
+{ 2 Beak,_form: narrow,_dorsoventrally_tall dorsoventrally_flattened;
+{ 3 Beak,_length_and_form: longer_than_rest_of_skull shorter_than_rest_of_skull_and_very_wide_at_its_base,_with_narial_openings_large_and_reaching_far_into_its_tip shorter_than_rest_of_skull_and_narrow_at_base;
+{ 4 Rostrum,_dense_neurovascular_pitting: absent present;
+{ 5 Maxilla,_posterior_termination: continuous_with_the_jugal_bar extends_laterally_and_posteriorly_to_the_contact_jugal_bar_(=angulus_tomialis);
+{ 6 Skull,_distinct_frontonasal_hinge,_i.e.,_posterior_part_of_beak_markedly_set_off_from_anterior_part_of_cranium_by_a_furrow: absent present;
+{ 7 Lacrimal,_ventral_process: present_and_approaches_jugal_bar absent;
+{ 8 "Horns"_projecting_posteriorly_at_front_of_orbit: absent present;
+{ 9 Sclerotic_ossicles: small,_average_size greatly_enlarged;
+{ 10 Ectethmoid: no_anterior_or_lateral_expansion greatly_expanded_anteriorly,_plate-like,_with_dorsal_margin_largely_fused_with_frontals greatly_expanded_anterolaterally,_inflated,_with_dorsal_margin_largely_fused_with_frontals;
+{ 11 Vomer: not_as_follows with_truncate_rostral_and_bifurcate_posterior_end_(typical_of_the_"'aegithognathous"'_palate);
+{ 12 Palatine,_lateral_portion: unexpanded_or_poorly_expanded extremely_anterolaterally_expanded;
+{ 13 Palatine,_strongly_protruding_posterolaterally_directed_processes_(Mayr_2002:_fig._3): absent present;
+{ 14 Palate,_internal_choana,_framed_by_ventrally_directed_lamina: absent present;
+{ 15 Internal_choana,_opening: ventral posterior;
+{ 16 Palatines: remain_separate_anterior_to_the_internal_choana fused_anterior_to_the_internal_choana;
+{ 17 Palatine,_anterior_process_long_and_slender__(Mayr_2002:_fig._3): no yes;
+{ 18 Palatine_and_pterygoid: separate_elements fused;
+{ 19 Postorbital_process:_ short elongated,_touching_(or_nearly_touching)_the_jugal_bar;
+{ 20 Palatine,_lateral_portion: flat bears_a_fossa_on_the_ventral_surface_that_is_anterior_to_the_internal_choana_and_is_separated_from_its_antimere_from_a_midline_lamina;
+{ 21 Pterygoid-basipterygoid_contact: present_at_the_posterior_portion_of_or_along_the_midshaft_of_the_pterygoid present_and_restricted_to_the_anterior_portion_of_the_pterygoid absent;
+{ 22 Paroccipital_processes: projected_laterally_and_slightly_ventrally strongly_ventrally_protruding,_pointed,_and_at_or_ventral_to_the_level_of_the_articular_surface_of_the_quadratomandibular_joint;
+{ 23 Cone-like_bony_protrusion_at_posterior_margin_of_the_optic_nerve_foramen: absent present;
+{ 24 Jugal_bar_and_mandible_rami,_lateral_view: straight_or_nearly_straight strongly_bowed,_so_that_lateral_margin_of_skull_is_convex;
+{ 25 Parietal_area,_temporal_fossae: absent_or_far_from_the_midline meeting_or_almost_meeting_at_midline_of_skull;
+{ 26 Quadrate,_orbital_process: anteriorly_elongated greatly_reduced,_short_process absent;
+{ 27 Quadrate,_proximal_portion,_lateral_condyle_separated_from_the_medial_condyle_by_a_deep_but_narrow_furrow:_ no yes;
+{ 28 Quadrate,_otic_process,_dorsal_margin_of_posterior_surface: smooth with_many_small_pneumatic_foramina;
+{ 29 Mandible,_distal_part_of_mandibular_rami_very_narrow,_thus_the_mandibular_symphysis_is_very_short_(less_than_a_third_of_maximum_width_of_rami): no yes;
+{ 30 Articulation_between_the_quadrate_and_the_mandible,_incorporation_of_a_locking_mechanism_by_means_of_a_laterally_directed_peg_on_the_quadrate_fitting_into_a_medially_open_concavity_of_the_articular_portion_of_the_mandible absent present;
+{ 31 Mandible,_posterior_edge_of_the_articular_portion,_in_dorsal_view: mediolaterally_flat rounded_posteriorly;
+{ 32 Mandibular_rami,_ventral_margin,_lateral_view: distinctly_decurved virtually_straight present,_strongly_recurved;
+{ 33 Mandible,_anterior_portion_of_the_symphysis: distinctly_pointed nearly_rounded;
+{ 34 Mandibular_rami,_pronounced,_monotonic_curvature_producing_continuous_lateral_concavity: absent present;
+{ 35 Mandible_with_intraramal_joint_and_posterior_half_of_mandibular_rami_greatly_widened_(mediolateral_width_greater_than_dorsoventral_extension)_and_dorsoventrally_flattened: no yes;
+{ 36 Mandible,_proximal_end_small,_with_stout_medial_process_and_medial_cotyla_forming_a_narrow_sulcus: no yes;
+{ 37 Atlas,_opening_for_odontoid_process: dorsally_open_incisura_fossa enclosed_foramen;
+{ 38 Axis,_transverse_foramina: present absent;
+{ 39 Third_cervical_vertebra,_osseous_bridge_from_transverse_process_to_the_postzygapophysis: absent present;
+{ 40 Fifth_cervical_vertebra,_osseous_bridge_from_costal_process_to_midsection_of_the_centrum: no yes;
+{ 41 Thoracic_vertebrae_1_and_2: ventral_process_absent_or_present_and_blade-like "trifid"_processus_ventralis_with_2_lateral_projections_on_thoracic_1_and_2;
+{ 42 Thoracic_vertebrae_1_and_2,_ventral_tip_of_ventral_process_forming_large_horizontal_plate: no yes;
+{ 43 Pygostyle,_,_body_perforated_at_posteroventral_end_(Mayr_&_Clarke_2003:_fig._6G): yes no;
+{ 44 Number_of_praesacral_vertebrae_(all_vertebrae_anterior_to_synsacrum): 19_or_more 18 17;
+{ 45 Furcula,_omal_tip_with_distinct,_laterally_protruding_acrocoracoid_articular_facet: no yes;
+{ 46 Coracoid,_articular_surface_for_the_scapula: cup-like flat;
+{ 47 Coracoid,_supracoracoid_nerve_foramen: present absent;
+{ 48 Coracoid,_lateral_process: short long;
+{ 49 Coracoid,_small_foramina_ventral_to_acrocacoid_process: absent present;
+{ 50 Scapula,_blade: generally_curved strait_and_distal_tip_is_deflected;
+{ 51 Sternum,_spina_interna_rostri: absent present;
+{ 52 Sternum,_farticular_surface_for_the_coracoid_weakly_saddle-shaped_or_convex: no yes;
+{ 53 Sternum,_spina_externa_forming_a_ridge_that_extends_dorsoventrally_over_entire_sternum_rostrum: no yes;
+{ 54 Sternum,_number_of_notches/fenestrae: four_notches/fenestrae two_notches/fenestrae without_notches/fenestrae;
+{ 55 Sternum,_perforations: posteriorly_open posteriorly_closed;
+{ 56 Sternum: lateral_and_intermediate_trabeculae_short_and_subequal very_long_lateral_trabeculae_and_short_trabecula_intermedia;
+{ 57 Humerus,_proximal_end,_posterior_prominence_of_ventral_tubercle_distinctly_greater_than_that_of_head_of_the_humerus: no yes;
+{ 58 Humerus,_proximal_end,_deltopectoral_crest: proximodistally_elongated proximodistally_narrow,_strongly_protruding_and_tapering;
+{ 59 Humerus,_proximal_portion,_distal_end_of_bicipital_surface: indistinct_and_continuous_with_the_shaft distinct_and_extends_ventral_to_the_shaft;
+{ 60 Humerus,_proximal_end,_transverse_sulcus_very_deep,_long_and_rectangular-shaped: no yes;
+{ 61 Humerus,_distal_end,_fossa_for_the_m._brachialis_deep_and_sharply_delimited: no yes;
+{ 62 Humerus,_greatly_abbreviated_and_stocky_(ratio_of_length_of_bone:_width_of_shaft_in_midsection_less_than_7.0): no yes;
+{ 63 Humerus:_tibiotarsus_proportions: tibiotarsus_significantly_longer approximately_equal_in_lenght humerus_significantly_longer;
+{ 64 Humerus,_distal_end,_ventral_supracondylar_tubercle: low_tubercle elongated_and_narrow_process;
+{ 65 Ulna_distinctly_exceeding_humerus_in_length: no yes;
+{ 66 Radius,_distal_end_with_marked_tubercle_on_ventral_side_of_shaft,_opposite_to_carpal_tubercle_of_ulna: no yes;
+{ 67 Carpometacarpus,_intermetacarpal_process: absent_or_small well-developed,_reaching_metacarpal_III absent_but_tendon_of_musculus_extensor_carpi_ulnaris_inserts_on_the_metacarpal_III_as_it_does_in_taxa_with_an_intermetacarpal_process;
+{ 68 Carpometacarpus,_projection_of_distal_end_of_metacarpal_III: shorter_than_or_subequal_to_metacarpal_II longer_than_metacarpal_II;
+{ 69 Ulnare,_length_of_crus_longum_versus_crus_breve_length: crus_breve_longer_or_about_the_same_length crus_longum_longer;
+{ 70 Manual_phalanx_II-1,_anterior_face: narrow,_rounded dorsoventrally_widened,_giving_phalanx_a_T-shaped_cross_section;
+{ 71 Manual_phalanx_I-1_(=alulae),_claw: present absent_or_rudimentary_in_adulthood;
+{ 72 Manual_phalanx_II-1,_well-developed_internus_indicis_process: absent present;
+{ 73 Manual_phalanx_II-1,_dorsal_fossa: single_depression divided_into_two_depressions_or_fenestrae_separated_by_a_distinct_oblique_bulge;
+{ 74 Manual_phalanx_II-2,_distal_end: straight_or_slight_posterior_expansion posterior_expansion_well_developed;
+{ 75 Pelvis,_ilioischidic_foramen: open closed;
+{ 76 Pelvis,_posterior_portion,_juncture_of_the_ilium_and_the_ischium,_posteriorly_directed_point: present absent;
+{ 77 Pelvis_wide_in_mediolateral_direction,_width_across_antitrochanters_as_much_or_more_than_length_of_synsacrum: no yes;
+{ 78 Pelvis,_well-developed_preacetabular_tubercle: present absent;
+{ 79 Pelvis,_terminal_portion_of_the_ischium_slender,_touching_pubis_at_an_angle_of_45o_-_90o,_thus_creating_a_very_wide_ischiopubic_fenestra: no yes;
+{ 80 Tibiotarsus,_length: distinctly_longer_than_carpometacarpus shorter_or_about_equal_length_to_the_carpometacarpus;
+{ 81 Tibiotarsus,_distal_end,_supratendinal_bridge: ossified tendinous;
+{ 82 Tibiotarsus,_distal_end,_tibial_cartilage_trochlea_sulcus: no yes;
+{ 83 Intertarsal_sesamoid: absent present;
+{ 84 Tarsometatarsus,_length: more_than_half_as_long_as_carpometacarpus less_than_half_as_long_as_carpometacarpus;
+{ 85 'Tarsometatarsus, hypotarsus passing into a well developed medial plantar crest; medial parahypotarsal fossa very marked and proximal part of the medial margin forming a sharp ridge:' no yes;
+{ 86 Tarsometatarsus,_hypotarsus,_tendons_of_musculus_flexor_digitorum_longus_and_musculus_flexor_hallucis_longus_enclosed_in_bony_canals: no yes;
+{ 87 Tarsometatarsus,_arcus_extensorius_(ossified_retinaculum_extensorium): absent present;
+{ 88 Tarsometatarsus,_canalis_interosseus_distalis: present absent;
+{ 89 Tarsometatarsus,__midline_plantar_crest_(=crista_medianoplantaris): absent present;
+{ 90 Tarsometatarsus,_tubercle_for_m._tibialis_cranialis_insertion_very_prominent: no yes;
+{ 91 Hallux,_proximal_phalanx_with_proximal_end_greatly_widened: no yes;
+{ 92 Third_and_fourth_toe_coalescent_at_least_over_length_of_basal_phalanx_of_third_toe: no yes;
+{ 93 Second_and_third_phalanx_of_fourth_toe_greatly_abbreviated,_measuring_less_than_half_the_length_of_the_fourth_phalanx: no yes;
+{ 94 Cerebellum_with_reduced_anterior_lobe,_particularly_small_folia_II_and_III,_and_relatively_large_posterior_lobe: no yes;
+{ 95 Caeca: absent present;
+{ 96 Rictal_bristles: absent present;
+{ 97 Villi_at_the_bases_of_the_basal-most_downy_barbules_of_breast_feathers: absent present;
+{ 98 Wing: diastataxic eutaxic;
+{ 99 M._splenius_capitis_with_cruciform_origin: no yes;
+{ 100 M._ambiens: present absent;
+{ 101 M._iliofemoralis_externus: present absent;
+{ 102 M._flexor_cruris_lateralis,_pars_accessoria: present absent;
+{ 103 M._caudofemoralis,_pars_pelvica: present absent;
+{ 104 M._fibularis_longus: present absent;
+{ 105 M._popliteus: present absent;
+{ 106 Vinculum_between_tendons_of_musculus_flexor_perforans_et_perforatus_digiti_III_and_musculus_perforatus_digiti_III: present absent;
+;
+
+
+ccode  - 0.106;
+
+
+;

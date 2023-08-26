@@ -1,0 +1,104 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 13.20.46'
+27 59
+
+&[num]
+Addax_nasomaculatus              20212200-0-0?111001-1?01001
+Aepyceros_melampus               200010110011011011001000000
+Alcelaphus_buselaphus            20102000-101011100001101100
+Ammodorcas_clarkei               21101111011?0110?1112001021
+Antidorcas_marsupialis           200110110101101000102001111
+Antilope_cervicapra              20001011011100100010200110?
+Boselaphus_tragocamelus          20201?10-00011010000?011011
+Capra_falconeri                  31211000-0-?0110001-1?10010
+Cephalophus_rufilatus            0?100100-?1111000110??01000
+Cephalophus_silvicultor          00100100-?11110001101?01000
+Connochaetes_taurinus            21???000-111001100001100000
+Damaliscus_pygargus              211?1010-11101011?001100100
+Dorcatragus_megalotis            0010011111-0?1?0???-2?01??1
+Eudorcas_rufifrons               20011011011???????102001??1
+Eudorcas_thomsoni                200110110111010010102001101
+Gazella_bennettii                ??????11?01???????10??01???
+Gazella_cuvieri                  110?1011011???????10201?1??
+Gazella_dorcas                   200110110101???0?0102001111
+Gazella_gazella                  201010110111011010102001111
+Gazella_leptoceros               2??1101101????????1020011?1
+Gazella_marica                   21011011011101?0001020110?1
+Gazella_spekei                   ????101101????????1020011??
+Gazella_subgutturosa             2101100101110110001020111??
+Hippotragus_niger                20102100-101111100101101000
+Kobus_ellipsiprymnus             20101100---10110101-1001100
+Kobus_kob                        20??1000--01011000100001000
+Kobus_leche                      2???1000---10110101-0001000
+Kobus_megaceros                  2???1?00---?0110?01-0?01000
+Kobus_vardoni                    20101000---??????01-0001000
+Litocranius_walleri              201011010?1101100?112001121
+Madoqua_guentheri                00100111111110001?102?01111
+Madoqua_kirki                    001001111111100010102001111
+Madoqua_saltiana                 00100111111110001?102001111
+Nanger_dama                      2001101101????????102001111
+Nanger_granti                    2001101101010010001020011?1
+Nanger_soemmerringi              200110110101??????0020011??
+Neotragus_batesi                 00100100-?1???????????0????
+Neotragus_moschatus              00100111111110010110??01000
+Neotragus_pygmaeus               0?10011???????????????01???
+Oreotragus_oreotragus            00100110-01111000110?001001
+Oryx_beisa                       20?12?00-0-01111001-1101001
+Ourebia_ourebi                   001001111111?10000102?00111
+Pantholops_hodgsoni              210110010?-?0110???-??0????
+Pelea_capreolus                  21102101-0-10000101-1011101
+Philantomba_monticola            00100100-011110001101101000
+Procapra_gutturosa               110112????????????????101?1
+Procapra_picticaudata            2100101101-?011000????0110?
+Procapra_przewalskii             210010????-?011000?02000?0?
+Raphicerus_campestris            00100111010?100000102?01101
+Raphicerus_melanotis             0010011??????????0??2??10?1
+Raphicerus_sharpei               0010011??????????0??2?????1
+Redunca_arundinum                00100100-0-10110001-0001000
+Redunca_fulvorufula              20101100-0-10110001-0001100
+Redunca_redunca                  20100100-0-10110001-0001000
+Rupicapra_rupicapra              21001100-0-?00000?0-0?000??
+Saiga_tatarica                   11211000-0?0??????????10100
+Sylvicapra_grimmia               00100100-011111101101101011
+Tetracerus_quadricornis          00100110-010????????0?1???0
+Tragelaphus_imberbis             20201100-0-?0010010-0?01000
+
+;
+
+
+cnames
+{ 0 males''_social_organization_during_mating_season monogamous_or_one_male_with_up_to_three_permanently_associated_females permanent_harem_during_mating_season_only polygamous_with_changing_mates sequentially_monogamous_(one_female_after_the_other);
+{ 1 mating_time all_year_if_food_sources_permit strictly_seasonal;
+{ 2 male_territories during_rut all_year no_territories;
+{ 3 spacial_behaviour sedentary migratory;
+{ 4 females''_social_organization solitary herds_with_fluctuating_members stable_herds;
+{ 5 males''_social_organization_outside_the_mating_season in_bachelor_herds usually_solitary in_mixed_herds_(with_multiple_males_and_females)_after_maturity;
+{ 6 dung_piles absent present;
+{ 7 ritualized_urination-defecation absent present;
+{ 8 urination-defecation_series_(female-male) absent present;
+{ 9 scraping_with_forelegs_associated_with_marking_behaviour absent present;
+{ 10 marking_objects_with_preorbital_gland_(at_least_in_males) absent present;
+{ 11 horning_bushes/ground_(as_fighting_precursor_or_territorial_advertisement) absent present;
+{ 12 stabbing absent present;
+{ 13 clash_fighting absent present;
+{ 14 wrestling_/_front_pressing absent present;
+{ 15 fight_on_knees absent present;
+{ 16 air-cushion-fight absent present;
+{ 17 social_grooming_between_adults absent_ore_very_rare frequent;
+{ 18 leg_tap_during_precopulatory_phase absent present;
+{ 19 male_marks_female_shoulders_with_preorbital_gland_secretion_in_precopulatory_phase absent present;
+{ 20 copulation_posture male_rests_body_on_female_during_copulation male_touches_female_lightly,_clasping_her_with_his_forelegs male_hardly_touches_female;
+{ 21 copulation_timing single_copulation,_spaced_by_at_least_30_min multiple_copulations_within_short_time;
+{ 22 number_of_offspring_(per_breeding_attempt) usually_one_calf one_or_two_calves two_or_three_calves;
+{ 23 behaviour_of_young start_following_mother_within_a_few_days_after_birth laying_out_for_at_least_2_weeks;
+{ 24 stotting absent present;
+{ 25 standing_on_hind_feet_to_reach_vegetation absent occasionally regularly_feeding_on_hind_feet;
+{ 26 adapted_to_arid_environment no,_need_water_on_a_regular_basis yes,_no_permanent_water_access_necessary;
+;
+
+
+ccode  - 0.26;
+
+
+;
