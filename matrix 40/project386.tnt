@@ -1,0 +1,19 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 13.32.42'
+21 10
+
+&[num]
+Archaeohyrax                        0000000000000000000??
+Prohegetotherium                    0000000011?0000001010
+Prosotherium                        010010100101111012100
+Propachyrucos                       00001010010111?012100
+Hegetotherium                       00001101?110100001010
+Hemihegetotherium                   10011101120110?0??010
+Pachyrukhos                         011010011201111012120
+Paedotherium                        01101?0?0?01110012121
+Tremacyllus                         01101?021201111112121
+Hemihegetotherium_trilobus          10011001?20?11000101?
+
+;
+

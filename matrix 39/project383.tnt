@@ -1,0 +1,129 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 13.24.54'
+84 27
+
+&[num]
+Gujaratia                             0?0000000?0?000000000000001010000001000000000000000000000000?0101011-100000001011011
+Kenyapotamus_ternani                  ?????11?10?10111??1??210?110??111101110?00110101?1???????0???10101010011110011101?1?
+Kenyapotamus_coryndonae               00120111101?11111110011111100111111111?0001101?11112111110011101010100111?0011101110
+Hexaprotodon_garyam                   001201111011110111100211110---111111010000010112111211111001111111001011000010-11111
+Hippopotamus                          0012011110-?11?11110?2-?110---111111010?0001011211121111?0??111101001011000010-11111
+Choeropsis                            00120111100111-111100210110---111111?10000010111100211111001111111001011000010-11111
+Morotochoerus_ugandensis              ?????????????????????????11101110111010000?10?0????2111110?-010101001011110111100011
+Kulutherium_rusingensis               ???????????????????0011???11011?111111010011??0?????????????????????????????????????
+Archaeopotamus_lothagamensis          00120111101??????????????????????????????????1?????211111001111101001011000010-11011
+Archaeopotamus_harvardi               001201111011110111100211110-?-111111?10?00010112111211111?0111111100101100?010-11111
+Palaeochoerus                         110111100100010000101001001000002010001011000200000000000110010000011110101100-10000
+Hyotherium                            110111111100010100101010001001002010101111001100010010000110110000010012101110-01000
+Listriodon                            110111111100010100101210001001002010101110001100010010000110110001010010101111001000
+Cynorca                               ?10??1100?0001?000101000?01001002010101011000?000000000001101100000100101011010110-0
+Perchoerus                            110??110010001?00?101000?01000000010001011000?00???000000110?100000100101011010??000
+Entelodon                             010011000000011001000000?1100000001000011100000000001001000000000011011-1000010100--
+Anthracotherium                       010011000001011001010111?11100111101010000000101000110110000010000010010001111001011
+Elomeryx                              010010000001011001010111011100111101010000000101100110111000011101010010000101100111
+Bothriogenys                          01001000000101101?010111?11101111001010000000101000111110000011100010010001101100111
+Libycosaurus                          000011110101011111010111210-0-111101010000000201100111101000011101011100000100-01101
+Merycopotamus                         010011111101011111010110?10-0-111101010000000201100111101000011101011100000101101101
+Siamotherium                          ?100100000?001100?010100011100110001000001000100000011110001011000010010001111001011
+Microbunodon                          01001000010001100?010110?01100111001010001000?00000110111000011000010010000101001011
+Cebochoerus                           ??001000000100110?00010000101100000101100?01010101001001010001000?111010100110-10011
+Choeropotamus                         ?????00000??00100?110010?11110111101011001000000000110010000011000110010100101010010
+Khirtharia                            ??????????????????000000011010000001110001000?000000100000-0?110-001111-001?01000010
+Gobiohyus                             ????????????000??001011000111000010101000100000?0?0000010100?0100111-100001111110?11
+
+;
+
+
+cnames
+{ 0 Central_upper_incisors morphologically_similar_to_I2-3 peg-like,_morphologically_different_from_I2-3;
+{ 1 lower_incisor_root_shape cylindrical conical;
+{ 2 transverse_section_of_lower_incisor_crowns strongly_irregular about_rounded;
+{ 3 lower_incisor_cervix_morphology no_deep_indentation indented_cervix,_indentation_as_long_as_the_root_diameter_on_the_cervix deep_indentation_longuer_than_the_root_diameter_at_cervix;
+{ 4 lower_incisor_crown_structure no_deep_fossid_on_lingual_side deep_fossid_on_lingual_side;
+{ 5 lower_canine_general_morphology approximately_similar_in_size_compared_to_the_incisors_and_premolars large_canine_at_least_in_males;
+{ 6 Lower_canine_growth growth_not_prolonged,_roots_apex_closed_in_adults prolonged_growth,_root_apex_still_open_in_adults;
+{ 7 nuchal_extension_of_the_lower_canine reaching_below_p2_or_rostrally reaching_below_p3-4;
+{ 8 enamel_extension_on_the_lower_canine limited_to_apex covering_most_of_the_tooth_including_alveolar_part;
+{ 9 groove_on_the_labial_side_of_lower_canine absence presence;
+{ 10 P1,_roots generally_unfused generally_fused;
+{ 11 P2,_disto_lingual_basin presence absence;
+{ 12 P3,_deep_indentation_of_cervix_at_middle_of_labial_side absence presence;
+{ 13 P3_morphology same_structure_as_P4 clearly_different_from_P4;
+{ 14 P3,_Protocone_and_lingual_cingulum_relations_on_P3 independent merging;
+{ 15 P3,_postparaconule absent one_to_several;
+{ 16 P3,_preparacrista simple devided;
+{ 17 P3,_root_pattern one_mesial_root,_two_distal_not_fused one_mesial_root_one_distal State_2;
+{ 18 P4,_parastyle_located_in_the_mesio-labial_corner_of_the_tooth yes no;
+{ 19 P4,_orientation_of_the_preparacrista mesial labial;
+{ 20 P4,_metacone absence presence;
+{ 21 P4,_paracone simple,_pre_and_postcrista complex,_ecto_and/or_postfossa more_complex,_endocrista_and_endofossa;
+{ 22 P4,_protocone predominently_rounded,_no_postcrista crescentic,_postcrista;
+{ 23 P4,_maximal_width median mesial;
+{ 24 P4,_root_pattern at_least_three_independant_roots mesiolabial_root_free,_fusion_of_lingual_and_distolabial_roots_at_a_significant_hight only_one_root;
+{ 25 enamel_ornementation no_ornementation marked_ornementation;
+{ 26 Upper_molars,_paraconule in_most_cases_absence,_not_identifiable_as_cusp_(no_apex_identifiable) presence;
+{ 27 Upper_molars,_paraconule_1 often_simple_and_linked_to_the_protocone_and_possibly_to_the_mesial_cingulum always_present,_more_or_less_independent,_onwn_crest_groove;
+{ 28 Upper_molars,_paraconule_and_parastyl_relationship no_connexion connexion;
+{ 29 Upper_molars,_distal_extension_of_paraconule intercallated_between_protocone_and_paracone,_reaching_the_transverse_valley not_intercallated_between_the_mesial_cusps;
+{ 30 Upper_molars,_mesostyle absent present;
+{ 31 Upper_molars,_connexion_of_labial_cingulum_with_postparacrista_and/or_premetacrista absent connexion_frequent,_directly_or_through_ectocristyle_(mesostyle);
+{ 32 Upper_molars,_postparacrista_et_premetacrista_relationships forming_a_straight_line,_extremities_linked_in_a_continuous_crista do_not_form_a_straight_line forming_a_straitght_line,_extremities_not_touching_each_other;
+{ 33 Upper_molars,_entostyle absence présence;
+{ 34 Upper_molars,_preectostyle_(parastyle) clearly_dissociated_from_mesiostyle_located_in_mesiolabial_corner not_clearly_dissociated_form_mesiostyle,_may_have_a_mesial_position;
+{ 35 Upper_molars,_ectoparafossa absent_or_very_shallow deep;
+{ 36 Upper_molars,_endoparacrista always_absent present_(easyly_lost_with_wear);
+{ 37 Upper_molars,_postparafossa absent_or_very_shallow generally_well_marked;
+{ 38 Upper_molars,_centroconule absence presence;
+{ 39 Upper_molars,_endometacrista absence presence;
+{ 40 Upper_molars,_postmetacrista clear,_closely_marked_by_a_deep_fossa absent,_or_only_a_tiny_ridge_of_enamel_with_no_closely_marked_fossa;
+{ 41 Upper_molars,_postprotocrista well_delimited_by_fossa not_delimited_by_clear_fossa;
+{ 42 Upper_molars,_secondary_ectometafossule absent,_or_distal_or_very_light present_mesially_at_least_on_M1_in_association_with_enamel_fold_of_ectometacristule;
+{ 43 Upper_molars,_connexion_of_the_postmetacrista_to_the_distal_cingulum located_at_the_disto-buccal_corner_of_the_tooth located_on_the_distal_face;
+{ 44 Upper_molars,_distocone_on_M3 absent present_as_an_accessory_cups_still_on_th_cingulum;
+{ 45 Upper_molars,_root_fusion 3_independant_roots,_the_lingual_being_strong 4_roots_fusion_to_the_cervix_may_occur 4_root_labial_free,_lingual_fused;
+{ 46 Upper_molars,_crown_height H_index_below_70 H_index_above_70;
+{ 47 p2-3,_distal_cristid_and_fossids generally_one_postprotocristid_linking_to_distal_congulid generally_one_postprotocristid_and_one_endoprotocristid_separated_by_an_endofossid variable_pattern_tending_to_higher_complexity;
+{ 48 p3,_entostylid generally_absent generaly_present;
+{ 49 p2-3,_hypoconid never_observed present_in_at_least_some_specimens;
+{ 50 p3,_entoconid never_observed present_a_tleast_in_some_specimens;
+{ 51 p4,_occlusal_shape labial_and_lingual_walls_convex labial_wall_convex,_lingual_wall_flat_or_slightly_concave labial_and_lingual_walls_concave;
+{ 52 p4,_mesiostylid generally_strong,_almost_forming_an_independent_cusp absent_or_weak;
+{ 53 p4,_ectoprotofossid absence presence;
+{ 54 p4,_preprotocristide_orientation mesial mesio-lingual;
+{ 55 p4,_postprotofossid absent present;
+{ 56 p4,_entostylid absence presence;
+{ 57 p4,_metaconide absence presence;
+{ 58 p4,_distal_accessory_cusp one_or_more_small_cuspids_not_merged_to_the_cingulum one_merged_in_the_cingulum;
+{ 59 p4,_distal_cuspids_supplementary_to_the_hypoconid none one_to_several_additional_cuspids;
+{ 60 Lower_molars,_roots_of_one_lobe fused unfused;
+{ 61 Lower_molars,_paraconid presence absence;
+{ 62 Lower_molars,_m1-2_labial_cingulid limited_to_median_valley_or_absent frequently_extending_beyond_medial_valley;
+{ 63 Lower_molars,_m1-2_ectocristilid not_observed occuring_frequently;
+{ 64 Lower_molars,_m1-2_distostylid generally_well_expressed occasional_small_when_present;
+{ 65 Lower_molars,_ectoprotofossid absent present_even_if_shallow;
+{ 66 Lower_molars,_postectoprotocristid present_even_if_reduced_low_in_the_valley_(maybe_present_only_in_m1) absent;
+{ 67 Lower_molars,_postprotocristid_distal_extremity clearly_more_mesial_than_the_postmetacristid_distal_extremity connecting_to_the_postmetacristid_distal_extremity_at_the_same_level_or_slightly_mesially;
+{ 68 Lower_molars,_premetacristid strong reduced_or_missing;
+{ 69 Lower_molars,_premetafossid generally_well_marked absent_or_very_light;
+{ 70 Lower_molars,_endometacristid absence presence;
+{ 71 Lower_molars,_postmetacristid curving_toward_postprotocristid_and_forming_a_transverse_bridge_with_it orientated_toward_the_center_of_the_tooth forming_a_rounded_postmetaconulid_not_preferencially_orientated;
+{ 72 Lower_molars,_mesoconulid absence presence;
+{ 73 Lower_molars,_postectohypocristid absence presence;
+{ 74 Lower_molars,_endohypocristid reduced_not_developped_as_a_dinstinct_crest distinct_crest;
+{ 75 Lower_molars,_endohypofossid absent present_at_least_on_m1;
+{ 76 Lower_molars,_posthypofossid absence presence;
+{ 77 Lower_molars,_ectoentocristid absence presence;
+{ 78 Lower_molars,_fossid_lingual_to_ectoentocristide absence presence;
+{ 79 Lower_molars,_postectoentocristid generally_present_more_or_less_developed absent_or_incipient_in_few_specimen;
+{ 80 Lower_molars,_m1-2_postentocristid never_present incipient_to_present_at_least_in_some_specimen_m2;
+{ 81 Lower_molars,_cingulid_on_m3_hypoconulid not_observed occasionaly_bordering_the_distal_lobe;
+{ 82 Lower_molars,_m3_ectohypocristulid absence presence;
+{ 83 Lower_molars,_m3_structure_mesial_to_hypoconid conulid crest_(prehypocristulid);
+;
+
+
+ccode  - 0.83;
+
+
+;

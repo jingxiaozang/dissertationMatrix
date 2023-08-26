@@ -1,0 +1,468 @@
+#NEXUS
+
+    [ File output by Morphobank v3.0 ?; 2023-05-24 19.03.32 ]
+
+    BEGIN TAXA;
+    DIMENSIONS NTAX=22;
+    TAXLABELS
+    		'Ornithosuchus longidens'
+		'Herrerasaurus ischigualastensis'
+		'Scleromochlus taylori'
+		'Preondactylus buffarinii'
+		'Eudimorphodon ranzii'
+		'Austriadactytlus cristatus'
+		'Peteinosaurus zambelli'
+		'Dimorphodon macronyx'
+		'Campylognathoides liasicus'
+		'Sericipterus wucaiwanensis, gen. et sp. nov.'
+		'Angustinaripterus longicephalus'
+		'Harpactognathus gentryii'
+		'Cacibupteryx caribensis'
+		'Rhamphorhynchus muensteri'
+		'Dorygnathus banthensis'
+		'Scaphognathus crassirostris'
+		'Sordes pilosus'
+		'Jeholopterus ningchengensis'
+		'Dendrorhynchoides curvidentatus'
+		'Batrachognathus volans'
+		'Anurognathus ammoni'
+		'pterodactyloidea'
+    ;
+    ENDBLOCK;
+
+    BEGIN CHARACTERS;
+	DIMENSIONS NCHAR=75;
+	FORMAT DATATYPE=STANDARD GAP=- MISSING=? SYMBOLS="0123456";
+	CHARLABELS
+		 [1] 'Skull anterior margin, shape ?:'
+		 [2] 'Rostral process cross-section ?:'
+		 [3] 'Skull dorsal margin, curvature exclusive of cranial crests ?:'
+		 [4] 'Skull ventral margin at jaw articulation, curvature ?:'
+		 [5] 'Rostrum, shape ?:'
+		 [6] 'Rostrum anterior end, lateral width ?:'
+		 [7] 'Premaxillary crest ?:'
+		 [8] 'Premaxillary bar, width ?:'
+		 [9] 'Premaxilla posterior margin, position ?:'
+		 [10] 'External naris dorsal and ventral margins, orientation ?:'
+		 [11] 'External naris/nasoantorbital fenestra, position relative to premaxillary tooth row ?:'
+		 [12] 'External naris and antorbital fenestra, configuration ?:'
+		 [13] 'Antorbital fenestra ventral margin, position relative to external naris ventral margin ?:'
+		 [14] 'Antorbital/nasoantorbital fenestra, length relative to height ?:'
+		 [15] 'Antorbital/nasoantorbital fenestra dorsal and ventral margins, orientation ?:'
+		 [16] 'Orbit, length relative to antorbital/nasoantorbital fenestra length ?:'
+		 [17] 'Maxilla-nasal contact, position ?:'
+		 [18] 'Jugal ascending process, orientation ?:'
+		 [19] 'Jugal posterior process, orientation ?:'
+		 [20] 'Quadrate, orientation relative to ventral margin of skull ?:'
+		 [21] 'Mandible articulation condyles, orientation ?:'
+		 [22] 'Mandible articulation, position ?:'
+		 [23] 'Palatal elements, shape ?:'
+		 [24] 'Maxilla and internal naris, configuration ?:'
+		 [25] 'Mandibular symphysis fused ?:'
+		 [26] 'Mandibular symphysis, length relative to mandible length ?:'
+		 [27] 'Dentary, lateral length relative to mandible length ?:'
+		 [28] 'Mandible anterior end, orientation ?:'
+		 [29] 'Mandibular rami dorsal margin, shape ?:'
+		 [30] 'Jaw margins, shape ?:'
+		 [31] 'Teeth, variation in shape ?:'
+		 [32] 'Teeth, maximum curvature ?:'
+		 [33] 'Teeth, curvature orientation ?:'
+		 [34] 'Teeth, maximum crown height  ?:'
+		 [35] 'Teeth, size variation ?:'
+		 [36] 'Teeth, vertical orientation ?:'
+		 [37] 'Teeth, lateral orientation ?:'
+		 [38] 'Teeth, texture ?:'
+		 [39] 'Cheek teeth, shape ?:'
+		 [40] 'Cheek teeth, spacing relative to successive teeth diameters ?:'
+		 [41] 'Maxillary teeth, position of largest teeth ?:'
+		 [42] 'Rostral teeth, number ?:'
+		 [43] 'Rostral tooth row anterior margin, position ?:'
+		 [44] 'Mandibular tooth row anterior margin, position ?:'
+		 [45] 'Mid-cervical vertebrae, lateral pneumaticity ?:'
+		 [46] 'Mid-cervical ribs, shape ?:'
+		 [47] 'Combined dorsal and sacral vertebral series, length relative to ulna length ?:'
+		 [48] 'Caudal vertebrae, number ?:'
+		 [49] 'Caudal zygapophyses, length ?:'
+		 [50] 'Sternum, shape ?:'
+		 [51] 'Humerus, length relative to metacarpal IV length ?:'
+		 [52] 'Humerus, length relative to femur length ?:'
+		 [53] 'Humerus proximal end, shape in dorsal view ?:'
+		 [54] 'Humerus deltopectoral crest, shape ?:'
+		 [55] 'Ulna, length relative to humerus length ?:'
+		 [56] 'Ulna, length relative to tibia length ?:'
+		 [57] 'Pteroid, length relative to ulna length ?:'
+		 [58] 'Metacarpals I-III, relative lengths ?:'
+		 [59] 'Manual digit IV, length relative to total forelimb length ?:'
+		 [60] 'Manual unguals, size relative to pedal unguals ?:'
+		 [61] 'First phalanx of manual digit IV, length relative to digit IV length ?:'
+		 [62] 'First phalanx of manual digit IV, length relative to tibia length ?: '
+		 [63] 'Second phalanx of manual digit IV, length relative to first phalanx  length ?:'
+		 [64] 'Second phalanx of manual digit IV, length relative to ulna length ?:'
+		 [65] 'Third phalanx of manual digit IV, length relative to first phalanx length ?:'
+		 [66] 'Third wing phalanx, length relative to second phalanx length ?:'
+		 [67] 'Anterior iliac process,  length realtive to posterior iliac process length ?: '
+		 [68] 'Ischiopubic plate, shape ?:'
+		 [69] 'Prepubis, length relative to width ?:'
+		 [70] 'Femur, length relative to metacarpal IV length ?:'
+		 [71] 'Fibula, length relative to tibia length ?:'
+		 [72] 'Metatarsal III, length relative to tibia length ?:'
+		 [73] 'Metatarsal IV, length relative to metatarsal III length ?:'
+		 [74] 'Pedal digit V, number of phalanges ?:'
+		 [75] 'Pedal digit V ultimate phalanx, shape ?:'
+	;
+	STATELABELS
+		1
+		'blunt'
+		'rostral process'
+		,
+		2
+		'triangular'
+		'elliptical'
+		,
+		3
+		'straight'
+		'convex'
+		,
+		4
+		'straight'
+		'concave'
+		,
+		5
+		'laterally-compressed'
+		'dorsoventrally-depressed'
+		'anteroposteriorly-compressed'
+		,
+		6
+		'tapered'
+		'expanded'
+		,
+		7
+		'absent'
+		'present'
+		,
+		8
+		'wide'
+		'narrow'
+		,
+		9
+		'anterior to frontals'
+		'between frontals'
+		,
+		10
+		'acute angle'
+		'subparallel'
+		,
+		11
+		'dorsal'
+		'posterior'
+		,
+		12
+		'separate'
+		'confluent'
+		,
+		13
+		'same level'
+		'ventral'
+		,
+		14
+		'less than twice height'
+		'at least twice height'
+		,
+		15
+		'acute angle'
+		'subparallel'
+		,
+		16
+		'at most antorbital/nasoantorbtial fenestra length'
+		'more than antorbital/nasoantorbtial fenestra length'
+		,
+		17
+		'on main body of nasal'
+		'on bar between external naris and antorbital fenestra'
+		,
+		18
+		'anterodorsal'
+		'dorsal'
+		,
+		19
+		'posterior'
+		'ventral'
+		,
+		20
+		'subvertical'
+		'inclined'
+		,
+		21
+		'parasagittal'
+		'oblique'
+		,
+		22
+		'posterior to middle of orbit'
+		'under or anterior to middle of orbit'
+		,
+		23
+		'broad and flat'
+		'thin bars of bone'
+		,
+		24
+		'maxilla contacts internal naris'
+		'maxilla excluded from internal naris'
+		,
+		25
+		'absent'
+		'present'
+		,
+		26
+		'less than 30% mandible length ?'
+		'at least 30% mandible length ?'
+		,
+		27
+		'at most three-fourths mandible length ?'
+		'more than three-fourths mandible length ?'
+		,
+		28
+		'anterior'
+		'anterodorsal'
+		'anteroventral'
+		,
+		29
+		'dorsal eminence present'
+		'flat'
+		,
+		30
+		'straight'
+		'undulating'
+		,
+		31
+		'isodont'
+		'heterodont'
+		,
+		32
+		'horizontal displacement of curvature less than tooth diameter'
+		'horizontal displacement of curvature at least tooth diameter'
+		,
+		33
+		'posterior'
+		'lingual'
+		,
+		34
+		'less than four times tooth diameter'
+		'at least four times tooth diameter'
+		,
+		35
+		'even transition along tooth row'
+		'sharp disparity in size between mesial and distal teeth'
+		,
+		36
+		'all teeth upright'
+		'procumbent teeth present'
+		,
+		37
+		'upright'
+		'ventrolateral'
+		,
+		38
+		'flat'
+		'fluted teeth present'
+		'teeth with sharp mesial and distal keels'
+		,
+		39
+		'labiolingually-compressed and recurved apically'
+		'triangular in outline with cuspules'
+		'slender'
+		'sharp and conical'
+		,
+		40
+		'less than successive teeth diameters'
+		'at least successive teeth diameters'
+		,
+		41
+		'middle of maxilla'
+		'mesial'
+		,
+		42
+		'more than 22 teeth'
+		'at most 22 teeth'
+		,
+		43
+		'anterior skull margin'
+		'does not reach anterior skull margin'
+		,
+		44
+		'reaches anterior mandible margin'
+		'does not reach anterior mandible margin'
+		,
+		45
+		'absent'
+		'present'
+		,
+		46
+		'elongate'
+		'reduced'
+		,
+		47
+		'longer than ulna length'
+		'at most ulna length'
+		,
+		48
+		'more than 15'
+		'at most 15'
+		,
+		49
+		'short'
+		'extremely elongate'
+		,
+		50
+		'narrow'
+		'rectangular'
+		'semicircular'
+		'triangular'
+		,
+		51
+		'at least two-and-one-half times metacarpal IV length ?'
+		'between one-and-one-half and two-and-one-half times metacarpal IV length ?'
+		'at most one-and-one-half times metacarpal IV length ?'
+		,
+		52
+		'less than one-and-one-half femur length ?'
+		'at least one-and-one-half femur length ?'
+		,
+		53
+		'symmetric profile'
+		'angular, sub-symmetric profile'
+		,
+		54
+		'proximal expansion of humeral shaft'
+		'anteroposteriorly tall and curved proximally'
+		'proximodistally elongate and subrectangular'
+		'anteroposteriorly tall and oblong with a middle constriction'
+		'anteroposteriorly tall with rounded anterior margin'
+		'proximodistally elongate with a round proximal expansion'
+		,
+		55
+		'less than one-and-one-half times humerus length ?'
+		'at least one-and-one-half times humerus length ?'
+		,
+		56
+		'at most tibia length ?'
+		'longer than tibia length ?'
+		,
+		57
+		'at most one-sixth ulna length ?'
+		'more than one-sixth ulna length ?'
+		,
+		58
+		'disparate'
+		'subequal'
+		,
+		59
+		'less than 65% total forelimb length ?'
+		'at least 65% total forelimb length ?'
+		,
+		60
+		'less than twice pedal ungual sizes'
+		'at least twice pedal ungual sizes'
+		,
+		61
+		'less than 35% total digit IV length ?'
+		'at least 35% total digit IV length  ?'
+		,
+		62
+		'less than one-and-one-third tibia length ?'
+		'at least one-and-one-third tibia length ?'
+		,
+		63
+		'at least first phalanx of digit IV length ?'
+		'less than first phalanx of digit IV length ?'
+		,
+		64
+		'less than ulna length ?'
+		'at least ulna length ?'
+		,
+		65
+		'at least first phalanx length ?'
+		'less than first phalanx length ?'
+		,
+		66
+		'at least second phalanx length ?'
+		'less than second phalanx length ?'
+		,
+		67
+		'at most posterior process length'
+		'longer than posterior process length'
+		,
+		68
+		'unexpanded'
+		'expanded'
+		,
+		69
+		'greater than width'
+		'at most width'
+		,
+		70
+		'at least twice metacarpal IV length ?'
+		'less than the metacarpal IV length ?'
+		,
+		71
+		'at least 80% tibia length ?'
+		'less than 80% tibia length ?'
+		,
+		72
+		'more than one-third tibia length ?'
+		'at most one-third tibia length ?'
+		,
+		73
+		'subequal to metatarsal III length'
+		'shorter than metatarsal III length'
+		,
+		74
+		'four'
+		'two'
+		'at most one'
+		,
+		75
+		'straight'
+		'curved'
+		
+	;
+	MATRIX
+	'Ornithosuchus longidens'		                               0-0000000?000?00000000000??00000000000000000000000000000-000?0????00-000000
+	'Herrerasaurus ischigualastensis'		                       0-0000000000100000000000000000000000000000000?000?000000-00000----00-000020
+	'Scleromochlus taylori'		                                 0-??000?0??0?1?1??0??0000000?0000?000????00??0000?000000-10???????10-00002-
+	'Preondactylus buffarinii'		                              0-000000?010000?1000?0??00000010001000100000?00?0?100100100000000000?0000??
+	'Eudimorphodon ranzii'		                                  0-000000001000010001?00?00120010001101100001000?0110020?10?1???????001?????
+	'Austriadactytlus cristatus'		                            0-0?00100010000100?0?0??????001001100110000??0?00?????0????10?0100?????????
+	'Peteinosaurus zambelli'		                                ????????????????????????0?1?001000??0010??????001?1001001001001000100000010
+	'Dimorphodon macronyx'		                                  0-1000000010000010?0?00?0010000000100001000000001?1001001001000000010011010
+	'Campylognathoides liasicus'		                            0-0000001010000100010001001210000000000110010000111002011011010111111110111
+	'Sericipterus wucaiwanensis, gen. et sp. nov.'		          1101011011101?0???1110????1?110111011221111?1???????03????????1?00?1???????
+	'Angustinaripterus longicephalus'		                       11010110?11011000011?0??1011110111011221111????????????????????????????????
+	'Harpactognathus gentryii'		                              10??1110?1101?0???????01?????10???0?1?21111????????????????????????????????
+	'Cacibupteryx caribensis'		                               ??010?00111011110001?001?????00?????0??111?????????????????????????????????
+	'Rhamphorhynchus muensteri'		                             100100001110111100?111011111100101010221111110001?1003111111011111111110111
+	'Dorygnathus banthensis'		                                0-0100001110110100011001101110010101002111011000131003110101000001111110111
+	'Scaphognathus crassirostris'		                           0-0100001010100100010001101010000100002111000000121003110101000001111110111
+	'Sordes pilosus'		                                        0-0100001010000101?10001101010000000003111001000120004111101000001111011111
+	'Jeholopterus ningchengensis'		                           0-1?20011001-001-????01000?0?000000000311100?1110?0111010101111011111010010
+	'Dendrorhynchoides curvidentatus'		                       0-1?2001?00???????????1????0?000000??031?????1110?01140101?1?111111??010010
+	'Batrachognathus volans'		                                0-1?20011001-001-????0100010?000000000311100?10??2011411?1?1?????????010???
+	'Anurognathus ammoni'		                                   0-1?2001100????1?10?00100010?00000000031110001?100001401010111101111?010010
+	'pterodactyloidea'		                                      0-0100001011-100-1?1010111101000000000311000010102200500110?0?1?11111111120
+    ;
+    ENDBLOCK;
+
+          BEGIN NOTES;
+      
+      [Attribute comments]
+            ENDBLOCK;
+            BEGIN ASSUMPTIONS;
+      TYPESET * UNTITLED = unord: 1 - 75;
+      ENDBLOCK;
+      BEGIN ASSUMPTIONS;
+OPTIONS DEFTYPE = unord PolyTcount = MAXSTEPS ;
+ENDBLOCK;
+BEGIN MACCLADE;
+Version 4.0 86 ; LastModified -991992103 ; FileSettings treewindow 1 1 21 1 ; Singles 010 ; Editor 00011001111111100100010010 0 24 Geneva 9 216 1 all ; EditorPosition 44 6 681 974 ; TreeWindowPosition 40 -1273 699 974 ; ListWindow Characters closed Geneva 9 50 25 129 979 000 ; ListWindow Taxa closed Geneva 9 50 10 273 403 1000000 ; ListWindow Trees closed Geneva 9 70 45 129 379 ; ListWindow TypeSets closed Geneva 9 50 10 276 490 ; ListWindow WtSets closed Geneva 9 50 10 276 490 ; ListWindow ExSets closed Geneva 9 50 10 276 490 ; ListWindow CharSets closed Geneva 9 50 10 276 490 ; ListWindow TaxSets closed Geneva 9 50 10 276 490 ; ListWindow CharPartitions closed Geneva 9 50 10 276 490 ; ListWindow CharPartNames closed Geneva 9 50 10 276 490 ; ListWindow WtSets closed Geneva 9 50 10 276 490 ; ChartWindowPosition 52 30 686 964 ; StateNamesSymbols open Geneva 9 9 555 19 176 775 ; WindowOrder States Tree ; OtherSymbols &/ 00 ?- ; Correlation 0 0 1000 0 0 10011010 ; Salmo 00000001 ; EditorFile 2 ; ExportHTML _ MOSS 100 110000 ; PrettyPrint 10 ; CharLegendPosition 642 -693 77 334 ; TreeLegendPosition 596 -408 124 93 ; EditorToolsPosition 553 795 115 165 ; TreeToolsPosition 578 -1271 126 138 ; TreeWindowProgram 00 ; TreeWindow 0000 ; Continuous 0 3 1 ; Calculations 1110111 ; SummaryMode 0 0 0 ; Charts Geneva 9 ? 0010 ; NexusOptions 0 0 50 001011011 ; TipLabel 1 ; TreeFont Geneva 9 ? ; TreeShape 1.0 1.0 0100 ; TraceLabels 0101 ; ChartColors 0 0 65535 9 0 1 ; ChartBiggestSpot 1 ; ChartPercent 10 ; ChartBarWidth 10 1 ; ChartVerticalAxis 10101 ; ChartMinMax 0 ; TraceAllChangesDisplay 3 1 ; BarsOnBranchesDisplay 0 0 60000 10000 10000 10000 10000 60000 65000 65000 65000 6 1 0000101 ; ContinuousBranchLabels 0 ; AllStatesBranchLabels 1 ; IndexNotation 2 1 ; PrintTree 10.00 4 2 2 2 2 2 2 2 2 2 2 Geneva 9 ? Geneva 10 ? Geneva 9 ? Geneva 9 ? Geneva 9 ? Geneva 9 ? Geneva 9 ? 83 115 13 45 116 148 13 45 149 181 13 45 182 214 13 45 70 32 0 0 974 614 492 35 534 35 534 367 24 35 1 1 1 1 0 2 -39 4 -40 0 3 2 4 8 32 36 0 2 0100110000000000010100000110000 ; MatchChar 00 . ; EntryInterpretation 01 ; ColorOptions 00 ; TreeTools 0 5 4 0 10 4 1 00100111111100110 ; EditorTools 0 0 0 1000 0 0 6 3 0 100000101110001 ; PairAlign 2 2 3 2 1 1 2 1 3 1010 ; BothTools 1 ;
+ENDBLOCK;
+BEGIN TREES;
+ENDBLOCK;

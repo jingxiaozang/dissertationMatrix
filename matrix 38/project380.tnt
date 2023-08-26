@@ -1,0 +1,199 @@
+nstates num 10;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 13.24.26'
+164 17
+
+&[num]
+Zygorhiza                           000100000-0000000110000000000000000?000000000000000000002001?0000000000010000000000010000100002000000000000000000000000?000000000000000000000?0000020?0000000???????
+Aetiocetus_c                        000211001011100111100000010011000100001010011000001101102100010000000000200100000011???????0?????????????????0?0?000000???101?00???0?????00??000????????????????????
+Eomysticetus_w                      10?110110??11?????030?1?11?1??0??????0100101100100???110??01??11100?0000101100101111?11000000010000?10000310000000?000001010100011000?00??0???00???0?0??????????????
+Cetotherium_r                       ?1110?11?0??1111221011111??1??00?011012??1?1-111100001111?20011201010001101010101121?100??0?01??0?1?11????0?11101010010???112??1???0????????????????????????????????
+Piscobalaena                        111?011110111111222011111211??01101001211221-011100002112020011201100001001010201111010010000111011?11011?0?111010001101111120011210110121011010001011?11?110???????
+Pelocetus                           1113111110111111111001111111??00101100121?01-101100001101?1001120110100100111110102101???0100??112111?????0011?101?1--01111121011210101211011110101111011?110???????
+Cophocetus                          ?1131011??1111????1000131??1??00101000111?011?0110??0110??100?11011010010011??10102101?0??00?111??1?11001???11?1?12???0???1120?1121010121?0?1???00??110?????????????
+Aglaocetus_p                        1113101110111111101300131111??001010001111011101100001102?100112011010010011121000110110101011?1111?10000300112101?01101????????????????1?01??10????????????????????
+Diorocetus                          1112111110111111111300131211??0010100?12?101?101100001102?10011201101001001111101111011010100111111?110003001121012011011111100111101111110?1?10001?????????????????
+Isanactus                           1112111110111111111000131111??001010001111011?01101101101?1001120110100110101110101101102010011112101100030011210101--011??1??????????????0?1?10????????????????????
+Megaptera                           1112111110111111101120221111??00101?00123211110121000231002011121110110001101231101101112101121112011010030?11210101--0111113101121110023101??1?111?1111211100311111
+Balaenoptera_acutorostrata          1112111100111111111120221111??00101100123101110121000231002011221110110011101231201102112101121112011010030011210101--0111113101121110023101111000101111211201211111
+Balaenoptera_physalus               1112111100111111111120221111??00101100223221110121000231002011221110110001101231?0110211210112?112011010030011210101--0111113101121110023101??1000101111211200311111
+Eschrichtius                        2111111101111111111210121111??00001000112?21110120000121102001220100120111101020202101112001120112011110030011210001--0111211102121111012101101100101111011110100111
+Caperea                             2111111100111111131300041101??11?000000222211122100001202020013301--1210200113001021111001201111111?11110300112100?1--111120201302011003401??0??011??1111?1000100000
+Eubalaena                           3110111102111111131300041201??110001100232010102100011202020013301--101001121300001103--3000112111111100020121210011--1?11112003120110034011??0100001001110110000000
+Joumocetus                          111211111011111111?0?11111?1??0?1????111110?-1??1???0?10??100????????0????1??01011???1101010011???0?1????10011?01??011011111200???????????011?1?????????????????????
+
+;
+
+
+cnames
+{ 0 1. State_0 State_0 State_1 State_1 State_2 State_2 State_3 State_3;
+{ 1 2. State_0 State_0 State_1 State_1;
+{ 2 3. State_0 State_0 State_1 State_1;
+{ 3 4. State_0 State_0 State_1 State_1 State_2 State_2 State_3 State_3;
+{ 4 6. State_0 State_0 State_1 State_1;
+{ 5 7. State_0 State_0 State_1 State_1;
+{ 6 8. State_0 State_0 State_1 State_1;
+{ 7 9. State_0 State_0 State_1 State_1;
+{ 8 10. State_0 State_0 State_1 State_1;
+{ 9 11. State_0 State_0 State_1 State_1 State_2 State_2;
+{ 10 12. State_0 State_0 State_1 State_1;
+{ 11 13. State_0 State_0 State_1 State_1;
+{ 12 14. State_0 State_0 State_1 State_1;
+{ 13 15. State_0 State_0 State_1 State_1;
+{ 14 17. State_0 State_0 State_1 State_1;
+{ 15 18. State_0 State_0 State_1 State_1;
+{ 16 19. State_0 State_0 State_1 State_1 State_2 State_2;
+{ 17 20. State_0 State_0 State_1 State_1 State_2 State_2 State_3 State_3;
+{ 18 21. State_0 State_0 State_1 State_1 State_2 State_2;
+{ 19 22. State_0 State_0 State_1 State_1 State_2 State_2 State_3 State_3;
+{ 20 23. State_0 State_0 State_1 State_1 State_2 State_2;
+{ 21 24. State_0 State_0 State_1 State_1;
+{ 22 25. State_0 State_0 State_1 State_1 State_2 State_2;
+{ 23 26. State_0 State_0 State_1 State_1 State_2 State_2 State_3 State_3 State_4 State_4;
+{ 24 27. State_0 State_0 State_1 State_1;
+{ 25 28. State_0 State_0 State_1 State_1 State_2 State_2;
+{ 26 29. State_0 State_0 State_1 State_1;
+{ 27 30. State_0 State_0 State_1 State_1;
+{ 28 31. State_0 State_0 State_1 State_1;
+{ 29 32. State_0 State_0 State_1 State_1;
+{ 30 33. State_0 State_0 State_1 State_1;
+{ 31 34. State_0 State_0 State_1 State_1;
+{ 32 35. State_0 State_0 State_1 State_1;
+{ 33 36. State_0 State_0 State_1 State_1;
+{ 34 37. State_0 State_0 State_1 State_1;
+{ 35 38. State_0 State_0 State_1 State_1;
+{ 36 39. State_0 State_0 State_1 State_1;
+{ 37 40. State_0 State_0 State_1 State_1;
+{ 38 42. State_0 State_0 State_1 State_1 State_2 State_2;
+{ 39 43. State_0 State_0 State_1 State_1 State_2 State_2;
+{ 40 44. State_0 State_0 State_1 State_1 State_2 State_2 State_3 State_3;
+{ 41 45. State_0 State_0 State_1 State_1 State_2 State_2;
+{ 42 46. State_0 State_0 State_1 State_1 State_2 State_2;
+{ 43 47. State_0 State_0 State_1 State_1;
+{ 44 48. State_0 State_0 State_1 State_1;
+{ 45 49. State_0 State_0 State_1 State_1;
+{ 46 50. State_0 State_0 State_1 State_1 State_2 State_2;
+{ 47 51. State_0 State_0 State_1 State_1 State_2 State_2;
+{ 48 52. State_0 State_0 State_1 State_1 State_2 State_2;
+{ 49 53. State_0 State_0 State_1 State_1;
+{ 50 54. State_0 State_0 State_1 State_1;
+{ 51 55. State_0 State_0 State_1 State_1;
+{ 52 56. State_0 State_0 State_1 State_1;
+{ 53 57. State_0 State_0 State_1 State_1 State_2 State_2;
+{ 54 58. State_0 State_0 State_1 State_1 State_2 State_2 State_3 State_3;
+{ 55 59. State_0 State_0 State_1 State_1;
+{ 56 60. State_0 State_0 State_1 State_1 State_2 State_2;
+{ 57 61. State_0 State_0 State_1 State_1;
+{ 58 62. State_0 State_0 State_1 State_1 State_2 State_2;
+{ 59 63. State_0 State_0 State_1 State_1;
+{ 60 64. State_0 State_0 State_1 State_1;
+{ 61 65. State_0 State_0 State_1 State_1;
+{ 62 66. State_0 State_0 State_1 State_1 State_2 State_2 State_3 State_3;
+{ 63 67. State_0 State_0 State_1 State_1 State_2 State_2 State_3 State_3;
+{ 64 68. State_0 State_0 State_1 State_1;
+{ 65 69. State_0 State_0 State_1 State_1;
+{ 66 70. State_0 State_0 State_1 State_1;
+{ 67 71. State_0 State_0 State_1 State_1;
+{ 68 72. State_0 State_0 State_1 State_1;
+{ 69 73. State_0 State_0 State_1 State_1 State_2 State_2;
+{ 70 74. State_0 State_0 State_1 State_1;
+{ 71 75. State_0 State_0 State_1 State_1;
+{ 72 76. State_0 State_0 State_1 State_1 State_2 State_2;
+{ 73 77. State_0 State_0 State_1 State_1;
+{ 74 78. State_0 State_0 State_1 State_1;
+{ 75 79. State_0 State_0 State_1 State_1 State_2 State_2;
+{ 76 80. State_0 State_0 State_1 State_1;
+{ 77 81. State_0 State_0 State_1 State_1 State_2 State_2 State_3 State_3;
+{ 78 82. State_0 State_0 State_1 State_1 State_2 State_2 State_3 State_3;
+{ 79 83. State_0 State_0 State_1 State_1;
+{ 80 84. State_0 State_0 State_1 State_1 State_2 State_2;
+{ 81 85. State_0 State_0 State_1 State_1;
+{ 82 86. State_0 State_0 State_1 State_1 State_2 State_2;
+{ 83 87. State_0 State_0 State_1 State_1;
+{ 84 88. State_0 State_0 State_1 State_1;
+{ 85 89. State_0 State_0 State_1 State_1 State_2 State_2 State_3 State_3;
+{ 86 90. State_0 State_0 State_1 State_1;
+{ 87 91. State_0 State_0 State_1 State_1;
+{ 88 92. State_0 State_0 State_1 State_1 State_2 State_2 State_3 State_3;
+{ 89 93. State_0 State_0 State_1 State_1;
+{ 90 94. State_0 State_0 State_1 State_1 State_2 State_2;
+{ 91 95. State_0 State_0 State_1 State_1;
+{ 92 96. State_0 State_0 State_1 State_1;
+{ 93 97. State_0 State_0 State_1 State_1 State_2 State_2;
+{ 94 98. State_0 State_0 State_1 State_1 State_2 State_2;
+{ 95 99. State_0 State_0 State_1 State_1;
+{ 96 100. State_0 State_0 State_1 State_1;
+{ 97 101. State_0 State_0 State_1 State_1 State_2 State_2;
+{ 98 102. State_0 State_0 State_1 State_1;
+{ 99 103. State_0 State_0 State_1 State_1;
+{ 100 104. State_0 State_0 State_1 State_1;
+{ 101 105. State_0 State_0 State_1 State_1;
+{ 102 106. State_0 State_0 State_1 State_1;
+{ 103 107. State_0 State_0 State_1 State_1;
+{ 104 108. State_0 State_0 State_1 State_1;
+{ 105 109. State_0 State_0 State_1 State_1 State_2 State_2 State_3 State_3;
+{ 106 110. State_0 State_0 State_1 State_1;
+{ 107 111. State_0 State_0 State_1 State_1;
+{ 108 112. State_0 State_0 State_1 State_1 State_2 State_2;
+{ 109 113. State_0 State_0 State_1 State_1;
+{ 110 114. State_0 State_0 State_1 State_1 State_2 State_2;
+{ 111 115. State_0 State_0 State_1 State_1;
+{ 112 116. State_0 State_0 State_1 State_1;
+{ 113 117. State_0 State_0 State_1 State_1;
+{ 114 118. State_0 State_0 State_1 State_1 State_2 State_2;
+{ 115 119. State_0 State_0 State_1 State_1;
+{ 116 120. State_0 State_0 State_1 State_1;
+{ 117 121. State_0 State_0 State_1 State_1;
+{ 118 122. State_0 State_0 State_1 State_1;
+{ 119 124. State_0 State_0 State_1 State_1;
+{ 120 125. State_0 State_0 State_1 State_1;
+{ 121 126. State_0 State_0 State_1 State_1;
+{ 122 127. State_0 State_0 State_1 State_1 State_2 State_2;
+{ 123 128. State_0 State_0 State_1 State_1;
+{ 124 129. State_0 State_0 State_1 State_1 State_2 State_2 State_3 State_3;
+{ 125 130. State_0 State_0 State_1 State_1;
+{ 126 131. State_0 State_0 State_1 State_1;
+{ 127 132. State_0 State_0 State_1 State_1 State_2 State_2 State_3 State_3;
+{ 128 133. State_0 State_0 State_1 State_1;
+{ 129 134. State_0 State_0 State_1 State_1 State_2 State_2;
+{ 130 136. State_0 State_0 State_1 State_1;
+{ 131 137. State_0 State_0 State_1 State_1;
+{ 132 138. State_0 State_0 State_1 State_1;
+{ 133 139. State_0 State_0 State_1 State_1;
+{ 134 140. State_0 State_0 State_1 State_1;
+{ 135 141. State_0 State_0 State_1 State_1 State_2 State_2 State_3 State_3;
+{ 136 142. State_0 State_0 State_1 State_1 State_2 State_2 State_3 State_3 State_4 State_4;
+{ 137 143. State_0 State_0 State_1 State_1;
+{ 138 144. State_0 State_0 State_1 State_1;
+{ 139 146. State_0 State_0 State_1 State_1;
+{ 140 147. State_0 State_0 State_1 State_1;
+{ 141 148. State_0 State_0 State_1 State_1;
+{ 142 149. State_0 State_0 State_1 State_1;
+{ 143 150. State_0 State_0 State_1 State_1;
+{ 144 151. State_0 State_0 State_1 State_1;
+{ 145 152. State_0 State_0 State_1 State_1;
+{ 146 153. State_0 State_0 State_1 State_1;
+{ 147 154. State_0 State_0 State_1 State_1 State_2 State_2;
+{ 148 155. State_0 State_0 State_1 State_1;
+{ 149 156. State_0 State_0 State_1 State_1;
+{ 150 157. State_0 State_0 State_1 State_1;
+{ 151 158. State_0 State_0 State_1 State_1;
+{ 152 159. State_0 State_0 State_1 State_1 State_2 State_2;
+{ 153 160. State_0 State_0 State_1 State_1;
+{ 154 161. State_0 State_0 State_1 State_1;
+{ 155 162. State_0 State_0 State_1 State_1 State_2 State_2;
+{ 156 163. State_0 State_0 State_1 State_1;
+{ 157 165. State_0 State_0 State_1 State_1;
+{ 158 166. State_0 State_0 State_1 State_1 State_2 State_2 State_3 State_3;
+{ 159 167. State_0 State_0 State_1 State_1;
+{ 160 168. State_0 State_0 State_1 State_1;
+{ 161 169. State_0 State_0 State_1 State_1;
+{ 162 170. State_0 State_0 State_1 State_1;
+{ 163 171. State_0 State_0 State_1 State_1;
+;
+
+
+ccode  - 0.163;
+
+
+;

@@ -1,0 +1,96 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 13.21.16'
+19 59
+
+&[num]
+Addax_nasomaculatus              0001000000100000000
+Aepyceros_melampus               0030000010100110110
+Alcelaphus_buselaphus            1011000000110000000
+Ammodorcas_clarkei               0?20100000110110100
+Antilope_cervicapra              ?121?00000111010100
+Antidorcas_marsupialis           1021000001111110110
+Boselaphus_tragocamelus          0011000010010000000
+Capra_falconeri                  100?000000110000000
+Cephalophus_rufilatus            0?41000000010000000
+Cephalophus_silvicultor          0041000000000000000
+Connochaetes_taurinus            1001000000110000000
+Damaliscus_pygargus              1011000000110000100
+Dorcatragus_megalotis            1001000000101000000
+Eudorcas_rufifrons               1?21000000111110110
+Eudorcas_thomsoni                1121100000111110110
+Gazella_bennettii                1?21?00000111110100
+Gazella_cuvieri                  1?21100000111110110
+Gazella_dorcas                   1?21100000111110110
+Gazella_gazella                  1121100000111110110
+Gazella_leptoceros               1?21?00000111110110
+Gazella_marica                   1121100000111110110
+Gazella_spekei                   1?21100000111110110
+Gazella_subgutturosa             1121100000111110110
+Hippotragus_niger                0011000000010110100
+Kobus_ellipsiprymnus             0000010000010000100
+Kobus_kob                        0110000000000000001
+Kobus_leche                      0000000000010000001
+Kobus_megaceros                  0000000000010010000
+Kobus_vardoni                    0002000000000000010
+Litocranius_walleri              0021100000110110100
+Madoqua_guentheri                0021000000100000000
+Madoqua_kirki                    0021000000100000000
+Madoqua_saltiana                 0021000000100000100
+Nanger_dama                      1?21100000110010100
+Nanger_granti                    1021100000111110110
+Nanger_soemmerringi              1?21100000110110110
+Neotragus_batesi                 0101000?00000000000
+Neotragus_moschatus              0011000?00010000000
+Neotragus_pygmaeus               0111000?00000000000
+Oreotragus_oreotragus            0010000100000000000
+Oryx_beisa                       0001000000111110000
+Ourebia_ourebi                   0121101000010000100
+Pantholops_hodgsoni              1101000000100000001
+Pelea_capreolus                  0001000100000000000
+Philantomba_monticola            0041000000000000000
+Procapra_gutturosa               1120110100100000100
+Procapra_picticaudata            1001010000110000100
+Procapra_przewalskii             1001010000100000101
+Raphicerus_campestris            0021000000000000100
+Raphicerus_melanotis             0021000100000000?00
+Raphicerus_sharpei               0021000100000000100
+Redunca_arundinum                0102001000000000001
+Redunca_fulvorufula              0102001000000000000
+Redunca_redunca                  0102001000000000000
+Rupicapra_rupicapra              0000010000110100000
+Saiga_tatarica                   ?121100000100000000
+Sylvicapra_grimmia               0141000000010000000
+Tetracerus_quadricornis          0010000010000000001
+Tragelaphus_imberbis             0100000010010001000
+
+;
+
+
+cnames
+{ 0 mammae,_number four two;
+{ 1 inguinal_glands absent present;
+{ 2 preorbital_glands absent simple with_skin_fold forehead_glandular slitlike;
+{ 3 pedal_glands_(interdigital_glands) absent present vestigial;
+{ 4 carpal_glands_and_knee_tufts absent present;
+{ 5 corneal_glands absent present;
+{ 6 subauricular_glands absent present;
+{ 7 preputial_glands_in_males absent present;
+{ 8 false_hoof_glands absent present;
+{ 9 dorsal_gland absent present;
+{ 10 muffle bare hairy;
+{ 11 tail,_black_tuft absent present;
+{ 12 dark_side_band absent present;
+{ 13 dark_eye-muzzle-band absent present;
+{ 14 white_stripe_over_eye absent present;
+{ 15 white_vertical_stripes absent present;
+{ 16 white_rump_patch absent present;
+{ 17 black_thigh_stripe absent present;
+{ 18 black_markings_on_the_front_of_the_forelegs absent present;
+;
+
+
+ccode  - 0.18;
+
+
+;

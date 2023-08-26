@@ -1,0 +1,115 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 13.22.35'
+75 22
+
+&[num]
+Ornithosuchus_longidens                               0-0000000?000?00000000000??00000000000000000000000000000-000?0????00-000000
+Herrerasaurus_ischigualastensis                       0-0000000000100000000000000000000000000000000?000?000000-00000----00-000020
+Scleromochlus_taylori                                 0-??000?0??0?1?1??0??0000000?0000?000????00??0000?000000-10???????10-00002-
+Preondactylus_buffarinii                              0-000000?010000?1000?0??00000010001000100000?00?0?100100100000000000?0000??
+Eudimorphodon_ranzii                                  0-000000001000010001?00?00120010001101100001000?0110020?10?1???????001?????
+Austriadactytlus_cristatus                            0-0?00100010000100?0?0??????001001100110000??0?00?????0????10?0100?????????
+Peteinosaurus_zambelli                                ????????????????????????0?1?001000??0010??????001?1001001001001000100000010
+Dimorphodon_macronyx                                  0-1000000010000010?0?00?0010000000100001000000001?1001001001000000010011010
+Campylognathoides_liasicus                            0-0000001010000100010001001210000000000110010000111002011011010111111110111
+Sericipterus_wucaiwanensis,_gen._et_sp._nov.          1101011011101?0???1110????1?110111011221111?1???????03????????1?00?1???????
+Angustinaripterus_longicephalus                       11010110?11011000011?0??1011110111011221111????????????????????????????????
+Harpactognathus_gentryii                              10??1110?1101?0???????01?????10???0?1?21111????????????????????????????????
+Cacibupteryx_caribensis                               ??010?00111011110001?001?????00?????0??111?????????????????????????????????
+Rhamphorhynchus_muensteri                             100100001110111100?111011111100101010221111110001?1003111111011111111110111
+Dorygnathus_banthensis                                0-0100001110110100011001101110010101002111011000131003110101000001111110111
+Scaphognathus_crassirostris                           0-0100001010100100010001101010000100002111000000121003110101000001111110111
+Sordes_pilosus                                        0-0100001010000101?10001101010000000003111001000120004111101000001111011111
+Jeholopterus_ningchengensis                           0-1?20011001-001-????01000?0?000000000311100?1110?0111010101111011111010010
+Dendrorhynchoides_curvidentatus                       0-1?2001?00???????????1????0?000000??031?????1110?01140101?1?111111??010010
+Batrachognathus_volans                                0-1?20011001-001-????0100010?000000000311100?10??2011411?1?1?????????010???
+Anurognathus_ammoni                                   0-1?2001100????1?10?00100010?00000000031110001?100001401010111101111?010010
+pterodactyloidea                                      0-0100001011-100-1?1010111101000000000311000010102200500110?0?1?11111111120
+
+;
+
+
+cnames
+{ 0 Skull_anterior_margin,_shape_(new_character): blunt rostral_process;
+{ 1 Rostral_process_cross-section_(new_character): triangular elliptical;
+{ 2 Skull_dorsal_margin,_curvature_exclusive_of_cranial_crests_(Unwin,_2003a): straight convex;
+{ 3 Skull_ventral_margin_at_jaw_articulation,_curvature_(Unwin,_1995): straight concave;
+{ 4 Rostrum,_shape_(Andres_and_Ji,_2008): laterally-compressed dorsoventrally-depressed anteroposteriorly-compressed;
+{ 5 Rostrum_anterior_end,_lateral_width_(after_Kellner,_2003): tapered expanded;
+{ 6 Premaxillary_crest_(Bennett,_1994): absent present;
+{ 7 Premaxillary_bar,_width_(Kellner,_2003): wide narrow;
+{ 8 Premaxilla_posterior_margin,_position_(Unwin,_1995): anterior_to_frontals between_frontals;
+{ 9 External_naris_dorsal_and_ventral_margins,_orientation_(new_character): acute_angle subparallel;
+{ 10 External_naris/nasoantorbital_fenestra,_position_relative_to_premaxillary_tooth_row_(Kellner,_2003): dorsal posterior;
+{ 11 External_naris_and_antorbital_fenestra,_configuration_(Unwin,_1995): separate confluent;
+{ 12 Antorbital_fenestra_ventral_margin,_position_relative_to_external_naris_ventral_margin_(Unwin,_2003b): same_level ventral;
+{ 13 Antorbital/nasoantorbital_fenestra,_length_relative_to_height_(Unwin,_2003b): less_than_twice_height at_least_twice_height;
+{ 14 Antorbital/nasoantorbital_fenestra_dorsal_and_ventral_margins,_orientation_(new_character): acute_angle subparallel;
+{ 15 Orbit,_length_relative_to_antorbital/nasoantorbital_fenestra_length_(after_Unwin,_1995): at_most_antorbital/nasoantorbtial_fenestra_length more_than_antorbital/nasoantorbtial_fenestra_length;
+{ 16 Maxilla-nasal_contact,_position_(after_Unwin,_2003a): on_main_body_of_nasal on_bar_between_external_naris_and_antorbital_fenestra;
+{ 17 Jugal_ascending_process,_orientation_(new_character): anterodorsal dorsal;
+{ 18 Jugal_posterior_process,_orientation_(new_character): posterior ventral;
+{ 19 Quadrate,_orientation_relative_to_ventral_margin_of_skull_(Unwin,_1995): subvertical inclined;
+{ 20 Mandible_articulation_condyles,_orientation_(after_Bennett,_1994): parasagittal oblique;
+{ 21 Mandible_articulation,_position_(after_Kellner,_2003): posterior_to_middle_of_orbit under_or_anterior_to_middle_of_orbit;
+{ 22 Palatal_elements,_shape_(Unwin,_2003b): broad_and_flat thin_bars_of_bone;
+{ 23 Maxilla_and_internal_naris,_configuration_(Kellner,_2003): maxilla_contacts_internal_naris maxilla_excluded_from_internal_naris;
+{ 24 Mandibular_symphysis_fused_(Unwin,_1995): absent present;
+{ 25 Mandibular_symphysis,_length_relative_to_mandible_length_(Unwin,_1995): less_than_30%_mandible_length_(sym/ma_<_0.30) at_least_30%_mandible_length_(sym/ma_³_0.30);
+{ 26 Dentary,_lateral_length_relative_to_mandible_length_(Unwin,_1995): at_most_three-fourths_mandible_length_(de/ma_²_0.75) more_than_three-fourths_mandible_length_(de/ma_>_0.75);
+{ 27 Mandible_anterior_end,_orientation_(after_Kellner,_2003): anterior anterodorsal anteroventral;
+{ 28 Mandibular_rami_dorsal_margin,_shape_(Unwin,_2003a): dorsal_eminence_present flat;
+{ 29 Jaw_margins,_shape_(new_character): straight undulating;
+{ 30 Teeth,_variation_in_shape_(Unwin,_2003b): isodont heterodont;
+{ 31 Teeth,_maximum_curvature_(after_Andres_and_Ji,_2008): horizontal_displacement_of_curvature_less_than_tooth_diameter horizontal_displacement_of_curvature_at_least_tooth_diameter;
+{ 32 Teeth,_curvature_orientation_(new_character): posterior lingual;
+{ 33 Teeth,_maximum_crown_height__(after_Andres_and_Ji,_2008): less_than_four_times_tooth_diameter at_least_four_times_tooth_diameter;
+{ 34 Teeth,_size_variation_(after_Unwin,_2003b): even_transition_along_tooth_row sharp_disparity_in_size_between_mesial_and_distal_teeth;
+{ 35 Teeth,_vertical_orientation_(after_Andres_and_Ji,_2008): all_teeth_upright procumbent_teeth_present;
+{ 36 Teeth,_lateral_orientation_(after_Unwin,_2002): upright ventrolateral;
+{ 37 Teeth,_texture_(new_character): flat fluted_teeth_present teeth_with_sharp_mesial_and_distal_keels;
+{ 38 Cheek_teeth,_shape_(after_Andres_and_Ji,_2008): labiolingually-compressed_and_recurved_apically triangular_in_outline_with_cuspules slender sharp_and_conical;
+{ 39 Cheek_teeth,_spacing_relative_to_successive_teeth_diameters_(Andres_and_Ji,_2008): less_than_successive_teeth_diameters at_least_successive_teeth_diameters;
+{ 40 Maxillary_teeth,_position_of_largest_teeth_(Andres_and_Ji,_2008): middle_of_maxilla mesial;
+{ 41 Rostral_teeth,_number_(after_Unwin,_2003a): more_than_22_teeth at_most_22_teeth;
+{ 42 Rostral_tooth_row_anterior_margin,_position_(after_Kellner,_2003): anterior_skull_margin does_not_reach_anterior_skull_margin;
+{ 43 Mandibular_tooth_row_anterior_margin,_position_(Andres_and_Ji,_2008): reaches_anterior_mandible_margin does_not_reach_anterior_mandible_margin;
+{ 44 Mid-cervical_vertebrae,_lateral_pneumaticity_(Kellner,_2003): absent present;
+{ 45 Mid-cervical_ribs,_shape_(after_Unwin,_1995): elongate reduced;
+{ 46 Combined_dorsal_and_sacral_vertebral_series,_length_relative_to_ulna_length_(Unwin,_2003b): longer_than_ulna_length at_most_ulna_length;
+{ 47 Caudal_vertebrae,_number_(Kellner,_2003): more_than_15 at_most_15;
+{ 48 Caudal_zygapophyses,_length_(Unwin,_2003b): short extremely_elongate;
+{ 49 Sternum,_shape_(after_Unwin,_2003b): narrow rectangular semicircular triangular;
+{ 50 Humerus,_length_relative_to_metacarpal_IV_length_(Kellner,_2003): at_least_two-and-one-half_times_metacarpal_IV_length_(hu/McIV_³_2.50) between_one-and-one-half_and_two-and-one-half_times_metacarpal_IV_length_(1.50_<_hu/McIV_<_2.50) at_most_one-and-one-half_times_metacarpal_IV_length_(hu/McIV_²_1.50);
+{ 51 Humerus,_length_relative_to_femur_length_(after_Kellner,_2003): less_than_one-and-one-half_femur_length_(hu/fe_<_1.50) at_least_one-and-one-half_femur_length_(hu/fe_³_1.50);
+{ 52 Humerus_proximal_end,_shape_in_dorsal_view_(Unwin,_2003b): symmetric_profile angular,_sub-symmetric_profile;
+{ 53 Humerus_deltopectoral_crest,_shape_(after_Kellner,_2003): proximal_expansion_of_humeral_shaft anteroposteriorly_tall_and_curved_proximally proximodistally_elongate_and_subrectangular anteroposteriorly_tall_and_oblong_with_a_middle_constriction anteroposteriorly_tall_with_rounded_anterior_margin proximodistally_elongate_with_a_round_proximal_expansion;
+{ 54 Ulna,_length_relative_to_humerus_length_(Unwin,_2003b): less_than_one-and-one-half_times_humerus_length_(ul/hu_<_1.50) at_least_one-and-one-half_times_humerus_length_(ul/hu_³_1.50);
+{ 55 Ulna,_length_relative_to_tibia_length_(Ulna,_1995): at_most_tibia_length_(ul/ti_²_1.00) longer_than_tibia_length_(ul/ti_>_1.00);
+{ 56 Pteroid,_length_relative_to_ulna_length_(Bennett,_2007): at_most_one-sixth_ulna_length_(pt/ul_²_0.17) more_than_one-sixth_ulna_length_(pt/ul_>_0.17);
+{ 57 Metacarpals_I-III,_relative_lengths_(Unwin,_1995): disparate subequal;
+{ 58 Manual_digit_IV,_length_relative_to_total_forelimb_length_(Unwin,_2003b): less_than_65%_total_forelimb_length_(dIV/forelimb_<_0.65) at_least_65%_total_forelimb_length_(dIV/forelimb_³_0.65);
+{ 59 Manual_unguals,_size_relative_to_pedal_unguals_(Unwin,_2003a): less_than_twice_pedal_ungual_sizes at_least_twice_pedal_ungual_sizes;
+{ 60 First_phalanx_of_manual_digit_IV,_length_relative_to_digit_IV_length_(Unwin,_2003b): less_than_35%_total_digit_IV_length_(f1dIV/dIV_<_0.35) at_least_35%_total_digit_IV_length__(f1dIV/dIV_³_0.35);
+{ 61 First_phalanx_of_manual_digit_IV,_length_relative_to_tibia_length_(Andres_and_Ji,_2008):  less_than_one-and-one-third_tibia_length_(f1dIV/ti_<_1.33) at_least_one-and-one-third_tibia_length_(f1dIV/ti_³_1.33);
+{ 62 Second_phalanx_of_manual_digit_IV,_length_relative_to_first_phalanx__length_(after_Kellner,_2003): at_least_first_phalanx_of_digit_IV_length_(f2dIV/f1dIV_³_1.00) less_than_first_phalanx_of_digit_IV_length_(f2dIV/f1dIV_<_1.00);
+{ 63 Second_phalanx_of_manual_digit_IV,_length_relative_to_ulna_length_(Unwin,_2003b): less_than_ulna_length_(f2dIV/ul_<_1.00) at_least_ulna_length_(f2dIV/ul_³_1.00);
+{ 64 Third_phalanx_of_manual_digit_IV,_length_relative_to_first_phalanx_length_(after_Kellner,_2003): at_least_first_phalanx_length_(f3dIV/f1dIV_³_1.00) less_than_first_phalanx_length_(f3dIV/f1dIV_<_1.00);
+{ 65 Third_wing_phalanx,_length_relative_to_second_phalanx_length_(after_Kellner,_2003): at_least_second_phalanx_length_(f3dIV/f2dIV_³_1.00) less_than_second_phalanx_length_(f3dIV/f2dIV_<_1.00);
+{ 66 Anterior_iliac_process,__length_realtive_to_posterior_iliac_process_length_(Unwin,_2003b):  at_most_posterior_process_length longer_than_posterior_process_length;
+{ 67 Ischiopubic_plate,_shape_(Unwin,_2003b): unexpanded expanded;
+{ 68 Prepubis,_length_relative_to_width_(Unwin,_2003b): greater_than_width at_most_width;
+{ 69 Femur,_length_relative_to_metacarpal_IV_length_(after_Kellner,_2003): at_least_twice_metacarpal_IV_length_(fe/mcIV_³_2.00) less_than_the_metacarpal_IV_length_(fe/mcIV_<_2.00);
+{ 70 Fibula,_length_relative_to_tibia_length_(Unwin,_2003a): at_least_80%_tibia_length_(fi/ti_³_0.80) less_than_80%_tibia_length_(fi/ti_<_0.80);
+{ 71 Metatarsal_III,_length_relative_to_tibia_length_(after_Kellner,_2003): more_than_one-third_tibia_length_(mtIII/ti_>_0.33) at_most_one-third_tibia_length_(mtIII/ti_²_0.33);
+{ 72 Metatarsal_IV,_length_relative_to_metatarsal_III_length_(after_Unwin,_1995): subequal_to_metatarsal_III_length shorter_than_metatarsal_III_length;
+{ 73 Pedal_digit_V,_number_of_phalanges_(Kellner,_2003): four two at_most_one;
+{ 74 Pedal_digit_V_ultimate_phalanx,_shape_(after_Kellner,_2003): straight curved;
+;
+
+
+ccode  - 0.74;
+
+
+;
