@@ -1,0 +1,89 @@
+IQ-TREE multicore version 1.6.12 for Windows 64-bit built Aug 15 2019
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    LAPTOP-L33PKUPE (AVX2, FMA3, 15 GB RAM)
+Command: iqtree.exe -s project171.NEX -st MORPH -m MK+ASC -nt AUTO
+Seed:    393385 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Fri Jul 14 09:20:23 2023
+Kernel:  AVX+FMA - auto-detect threads (20 CPU cores detected)
+
+Reading alignment file project171.NEX ... Nexus format detected
+Skipping unknown block (NOTES)...
+Alignment has 68 sequences with 228 columns, 222 distinct patterns
+225 parsimony-informative, 2 singleton sites, 1 constant sites
+                Gap/Ambiguity  Composition  p-value
+   1  Didelphis         7.02%    failed      0.00%
+   2  Macropus         11.84%    passed     10.27%
+   3  Vombatus         10.09%    passed     17.79%
+   4  Aplodontia        7.46%    passed     86.51%
+   5  Castor            5.26%    passed     12.83%
+   6  Cavia             5.26%    failed      0.01%
+   7  Chinchilla        7.89%    failed      0.00%
+   8  Cynocephalus      3.51%    failed      0.01%
+   9  Dasyprocta        6.58%    failed      0.01%
+  10  Dipodomys         7.46%    failed      0.42%
+  11  Echimys          11.84%    failed      0.19%
+  12  Erethizon         8.33%    failed      2.72%
+  13  Hydrochoerus      7.46%    failed      0.02%
+  14  Lepus             3.51%    failed      0.00%
+  15  Marmota           3.95%    passed     28.45%
+  16  Massoutiera      12.28%    failed      1.38%
+  17  Mus               8.33%    passed     11.31%
+  18  Myocastor         6.58%    failed      0.04%
+  19  Glis              7.89%    passed      6.08%
+  20  Ochotona          3.51%    failed      0.02%
+  21  Oryctolagus       4.82%    failed      0.00%
+  22  Petrodromus       3.07%    passed     12.09%
+  23  Rattus            8.77%    passed     27.74%
+  24  Rhynchocyon       3.95%    failed      4.77%
+  25  Sciurus           4.82%    passed     41.07%
+  26  Sylvilagus        3.51%    failed      0.00%
+  27  Thomomys          8.77%    failed      0.21%
+  28  Thryonomys        6.58%    failed      0.36%
+  29  Tupaia            3.51%    failed      0.00%
+  30  Adapis           17.11%    failed      0.13%
+  31  Anagale          13.16%    failed      0.00%
+  32  Anagalopsis      37.28%    failed      0.83%
+  33  Asioryctes       17.11%    failed      0.00%
+  34  Barunlestes      30.26%    failed      0.00%
+  35  Cocomys          32.89%    passed     41.97%
+  36  Cricetops        35.09%    passed     11.20%
+  37  Eurymylus        56.14%    passed     56.27%
+  38  Florentiamys     21.05%    failed      0.58%
+  39  Gomphos          10.53%    passed     30.11%
+  40  Gregorymys       28.95%    failed      0.43%
+  41  Heomys           53.95%    passed     37.92%
+  42  Hyopsodus        11.84%    failed      0.00%
+  43  Incamys          38.16%    failed      0.00%
+  44  Kennalestes      28.51%    failed      0.00%
+  45  Kulbeckia        53.07%    failed      0.00%
+  46  Leptictis         9.65%    failed      0.00%
+  47  Matutinia        16.23%    passed     58.41%
+  48  Mimolagus        53.51%    passed     30.34%
+  49  Mimotona         52.19%    passed     12.03%
+  50  Neoreomys        28.51%    failed      0.01%
+  51  Notharctus        7.02%    failed      0.01%
+  52  Palaeolagus      13.16%    failed      0.27%
+  53  Paradjidaumo     28.51%    passed      7.01%
+  54  Paramys          12.72%    passed     36.05%
+  55  Paraphiomys      29.82%    failed      0.54%
+  56  Phenacodus       11.40%    failed      0.01%
+  57  Plesiadapis      14.04%    failed      0.00%
+  58  Prolagus         10.09%    failed      0.02%
+  59  Pseudictops      38.16%    failed      0.01%
+  60  Reithroparamys   21.49%    passed     35.13%
+  61  Rhombomylus       7.89%    passed     38.03%
+  62  Sciuravus        26.32%    passed     27.54%
+  63  Sinomylus        67.54%    passed     47.30%
+  64  Tataromys        35.53%    passed     66.95%
+  65  Tribosphenomys   51.75%    passed     53.56%
+  66  Tsaganomys       32.46%    failed      2.92%
+  67  Ukhaatherium     14.04%    failed      0.00%
+  68  Zalambdalestes   11.40%    failed      0.00%
+WARNING: 7 sequences contain more than 50% gaps/ambiguity
+****  TOTAL            18.71%  42 sequences failed composition chi2 test (p-value<5%; df=4)
+Creating fast initial parsimony tree by random order stepwise addition...
+0.055 seconds, parsimony score: 1349 (based on 227 sites)
+ERROR: For your convenience alignment with variable sites printed to project171.NEX.varsites.phy
+ERROR: Invalid use of +ASC because of 1 invariant sites in the alignment

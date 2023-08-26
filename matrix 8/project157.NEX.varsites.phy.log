@@ -1,0 +1,179 @@
+IQ-TREE multicore version 1.6.12 for Windows 64-bit built Aug 15 2019
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    LAPTOP-L33PKUPE (AVX2, FMA3, 15 GB RAM)
+Command: iqtree.exe -s project157.NEX.varsites.phy -st MORPH -m MK+ASC -nt AUTO
+Seed:    961394 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Fri Jul 14 08:46:46 2023
+Kernel:  AVX+FMA - auto-detect threads (20 CPU cores detected)
+
+Reading alignment file project157.NEX.varsites.phy ... Phylip format detected
+Alignment most likely contains 6-state morphological data
+Alignment has 69 sequences with 407 columns, 407 distinct patterns
+387 parsimony-informative, 20 singleton sites, 0 constant sites
+                Gap/Ambiguity  Composition  p-value
+   1  Nanolestes       72.73%    failed      0.00%
+   2  Peramus          70.52%    failed      0.00%
+   3  Vincelestes       9.34%    failed      0.00%
+   4  Kielantherium    81.82%    passed     34.73%
+   5  Deltatheridium   35.87%    failed      0.06%
+   6  Mayulestes       16.46%    failed      0.01%
+   7  Pucadelphys      10.32%    failed      0.05%
+   8  Eomaia           55.53%    failed      0.16%
+   9  Prokennalestes   55.28%    failed      0.02%
+  10  Murtoilestes     85.50%    passed     89.73%
+  11  Bobolestes       73.96%    passed     51.92%
+  12  Montanalestes    84.03%    passed     94.05%
+  13  Paranyctoides    75.18%    passed     48.10%
+  14  Eozhelestes      90.42%    passed     62.73%
+  15  Sheikhdzheilia   83.29%    passed     50.86%
+  16  Alostera         85.75%    failed      0.01%
+  17  Lainodon         94.35%    passed      8.75%
+  18  Avitotherium     83.29%    passed     13.54%
+  19  Gallolestes      89.68%    passed     15.00%
+  20  Parazhelestes    63.39%    passed     10.51%
+  21  Aspanlestes      64.86%    passed     16.93%
+  22  Zhelestes        61.43%    passed     61.79%
+  23  Cimolestes       63.64%    passed     53.38%
+  24  Maelestes        25.31%    passed     24.04%
+  25  Batodon          75.18%    passed     80.36%
+  26  Bulaklestes      76.17%    passed     86.08%
+  27  Daulestes        76.90%    passed     77.33%
+  28  Uchkudukodon     41.28%    passed      5.21%
+  29  Kennalestes      27.76%    passed     36.03%
+  30  Asioryctes       19.16%    failed      1.27%
+  31  Ukhaatherium     15.48%    passed      5.68%
+  32  Deccanolestes    72.73%    passed     67.17%
+  33  Kulbeckia        54.30%    passed     50.17%
+  34  Zhangolestes     87.71%    passed     99.60%
+  35  Alymlestes       94.84%    failed      3.51%
+  36  Zalambdalestes   14.99%    passed     70.85%
+  37  Barunlestes      31.70%    passed     54.24%
+  38  Gypsonictops     71.01%    failed      1.00%
+  39  Leptictis         5.41%    passed     52.50%
+  40  Purgatorius      75.43%    passed     14.83%
+  41  Protungulatum    51.35%    passed     14.91%
+  42  Oxyprimus        75.92%    failed      0.81%
+  43  Vulpavus         24.57%    passed     64.22%
+  44  Miacis           33.91%    passed     22.25%
+  45  Diacodexis       23.34%    passed     89.22%
+  46  Hyopsodus        12.04%    passed     69.82%
+  47  Meniscotherium   10.57%    passed     37.77%
+  48  Phenacodus       16.71%    passed     11.51%
+  49  Ptilocercus       3.93%    passed     52.53%
+  50  Plesiadapis      16.95%    failed      4.54%
+  51  Northarctus      12.78%    passed     23.97%
+  52  Adapis           18.67%    passed      8.90%
+  53  Tribosphenomys   63.39%    failed      0.00%
+  54  Paramys          18.18%    failed      0.00%
+  55  Rhombomylus      16.71%    failed      0.00%
+  56  Gomphos          33.17%    failed      0.01%
+  57  Mimotona         71.01%    failed      0.00%
+  58  Blarina          13.76%    passed     18.31%
+  59  Erinaceus         8.11%    passed     31.96%
+  60  Solenodon         8.60%    passed     15.90%
+  61  Eoryctes         51.35%    passed     83.26%
+  62  Potamogale        7.86%    passed     67.38%
+  63  Orycteropus      33.66%    failed      0.12%
+  64  Rhynchocyon      10.32%    failed      3.45%
+  65  Procavia          9.34%    failed      0.04%
+  66  Moeritherium     35.14%    passed      7.43%
+  67  Chaetophractus   30.96%    passed      7.00%
+  68  Bradypus         33.66%    passed     28.10%
+  69  Tamandua         40.54%    passed     88.34%
+WARNING: 33 sequences contain more than 50% gaps/ambiguity
+****  TOTAL            45.78%  22 sequences failed composition chi2 test (p-value<5%; df=5)
+Creating fast initial parsimony tree by random order stepwise addition...
+0.148 seconds, parsimony score: 2370 (based on 407 sites)
+
+NOTE: 1 MB RAM (0 GB) is required!
+Measuring multi-threading efficiency up to 20 CPU cores
+Increase to 10 rounds for branch lengths
+970 trees examined
+Threads: 1 / Time: 20.016 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -15923
+Threads: 2 / Time: 16.968 sec / Speedup: 1.180 / Efficiency: 59% / LogL: -15923
+Threads: 3 / Time: 16.036 sec / Speedup: 1.248 / Efficiency: 42% / LogL: -15923
+BEST NUMBER OF THREADS: 2
+
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -12473.047
+Optimal log-likelihood: -11957.415
+Parameters optimization took 1 rounds (0.010 sec)
+Computing ML distances based on estimated model parameters... 0.000 sec
+WARNING: Some pairwise ML distances are too long (saturated)
+Computing BIONJ tree...
+0.008 seconds
+Log-likelihood of BIONJ tree: -11966.332
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.242 second
+Computing log-likelihood of 98 initial trees ... 0.487 seconds
+Current best score: -11827.679
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -11757.496
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 4: -11721.536
+Iteration 10 / LogL: -11808.644 / Time: 0h:0m:54s
+Iteration 20 / LogL: -11801.416 / Time: 0h:0m:54s
+Finish initializing candidate tree set (20)
+Current best tree score: -11721.536 / CPU time: 1.675
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 29: -11720.540
+Iteration 30 / LogL: -11734.221 / Time: 0h:0m:55s (0h:3m:8s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 31: -11714.583
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 38: -11712.884
+Iteration 40 / LogL: -11730.725 / Time: 0h:0m:55s (0h:2m:20s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 41: -11708.266
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 46: -11704.754
+Iteration 50 / LogL: -11721.696 / Time: 0h:0m:56s (0h:1m:50s left)
+Iteration 60 / LogL: -11704.777 / Time: 0h:0m:56s (0h:1m:22s left)
+Iteration 70 / LogL: -11705.473 / Time: 0h:0m:57s (0h:1m:3s left)
+Iteration 80 / LogL: -11704.787 / Time: 0h:0m:57s (0h:0m:48s left)
+Iteration 90 / LogL: -11705.911 / Time: 0h:0m:58s (0h:0m:36s left)
+Estimate model parameters (epsilon = 0.100)
+UPDATE BEST LOG-LIKELIHOOD: -11704.661
+Iteration 100 / LogL: -11706.890 / Time: 0h:0m:58s (0h:0m:27s left)
+Iteration 110 / LogL: -11719.181 / Time: 0h:0m:59s (0h:0m:19s left)
+Iteration 120 / LogL: -11709.873 / Time: 0h:0m:59s (0h:0m:13s left)
+Iteration 130 / LogL: -11705.193 / Time: 0h:1m:0s (0h:0m:7s left)
+Iteration 140 / LogL: -11704.785 / Time: 0h:1m:0s (0h:0m:2s left)
+Estimate model parameters (epsilon = 0.100)
+UPDATE BEST LOG-LIKELIHOOD: -11704.574
+TREE SEARCH COMPLETED AFTER 147 ITERATIONS / Time: 0h:1m:1s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -11704.574
+Optimal log-likelihood: -11704.567
+Parameters optimization took 1 rounds (0.005 sec)
+BEST SCORE FOUND : -11704.567
+Total tree length: 8.980
+
+Total number of iterations: 147
+CPU time used for tree search: 0.047 sec (0h:0m:0s)
+Wall-clock time used for tree search: 7.890 sec (0h:0m:7s)
+Total CPU time used: 10.859 sec (0h:0m:10s)
+Total wall-clock time used: 61.166 sec (0h:1m:1s)
+
+Analysis results written to: 
+  IQ-TREE report:                project157.NEX.varsites.phy.iqtree
+  Maximum-likelihood tree:       project157.NEX.varsites.phy.treefile
+  Likelihood distances:          project157.NEX.varsites.phy.mldist
+  Screen log file:               project157.NEX.varsites.phy.log
+
+Date and Time: Fri Jul 14 08:47:48 2023

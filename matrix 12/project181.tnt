@@ -1,0 +1,161 @@
+nstates num 7;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 12.16.39'
+119 24
+
+&[num]
+Dorudon_atrox                       000000?00000000000000000000000000000000000000000000?000000000000000000000000000000000?????000000000000000000000000???0?
+Physeter_macrocephalus              3?1002?31002?030??????000002002?000300000002010200000100001???2002100?01??00000000110?????00021100010012011200000?10000
+Ziphius_cavirostris                 300002?310?2?0300?0210000002102?0003000000020102000?0100001???2000100?01??00000000110?????000211000100101101000100?0000
+Aetiocetus                          0100010001110010100?1000000?0?0?1120000000010100000?0000000??0?????????????1000001011??????????????????????0???????????
+Eomysticetus_whitmorei              0?1000??01?1?01?10121000000?01?01120001000010100011100000?0100?000000100?011100011221???????01?0???0100????1???????????
+Diorocetus_hiatus                   0110110001210013201?2000010?01131120000000010101011101000021001001200101?1121?0021221???????0??0?00???101??1???????????
+Pelocetus_calvertensis              0110110201110013????200001010111111000000001010111110100002?0011??200102?1121?0021221?????100??11?0?00?02??1???????????
+Eschrichtius_robustus               1111122201211012011?410002010110111100100012010112200100002110111120101210112111312210110011011110010110110200010010001
+Megaptera_novaeangliae              11101102012110232112220002010113112110100012010122300100002110111?20101211121000?122110110100111011101112112110210?0001
+Balaenoptera_acutorostrata          11101112012110232111200002000113112110100012010122300100002100111020101?111210002122110100100111100111101111110210?0001
+Caperea_marginata                   10011?1102211211211241000101000?1112101000231201325000001121111112200103011221124122120000001321100111101111001101?000?
+Morenocetus_parvus                  ??????????????????????0001?????????2????010???0231400??????????????????????211122??????????????????????????0???????????
+Balaenula_astensis                  11?1?2?10?????0?21123020111???0??12200010103121231400110112111?12?1?0?????2?11?24?221??????????????????????1???????????
+Balaenula_balaenopsis               ???1???10?212?01?1123020111??????1?2000?01?312123?????1????????????????????2111241221???????1???111????01??1???????????
+Japanese_balaenula_sp.              ???????????12?0???????2011?????????200110103111231400100112111112?1101????2211??41221??????????????????????1???????????
+Eubalaena_belgica                   ????1?????????????????20111?120?112210120103110232420100????????????????????????????????????1??????????????2???????????
+Eubalaena_glacialis                 1211112102212101211200201111120211221012010311023242?100112111122111011100221112412212101101111110110111200200100100110
+Eubalaena_australis                 1211112102212101211200201111120211221012010311023242110011211112211101110022111241221210110111111221011120020010010121?
+Eubalaena_japonica                  121111?1022121012112?02011111202112211120103110232421100112111122111011100221112412212101101111112210111200200100101?1?
+SDSNH_43880                         221110??02?131?1??1?3001111?120211220111110312023240??01112111?22?????????????????221???????1111???????????1???????????
+Balaenella_brachyrhynchus           121111?102213?0?31020011111?????1??200111103120232400111112111?22?110???1?2???????221??????????????????????0???????????
+Balaena_montalionis                 ?211????0???????21120001111????????20111110?1?0232400101??????????????????????????221??????????????????????1???????????
+Balaena_ricei                       2??11??????????????????111?????????2?111110?1???3242110????????????1011101?2111241221???????1??1000101110??2???????????
+Balaena_mysticetus                  22111?11022131012022300111111202112201111103120232400101112111122111011100221112412212101101111100010111200200100100000
+
+;
+
+
+cnames
+{ 0 Arc_of_skull Gradual_slope Smooth_disjunct_arc_interrupted_by_cranial_vertex Smooth_continous_arc Dorsal_surface_deeply_concave_due_to_melon;
+{ 1 Rostrum_width Moderate Broad Narrow;
+{ 2 Rostrum_length Short Long;
+{ 3 Rostrum_curvature Absent_slight Present;
+{ 4 Rostrum_palatal_surface Flat Longitudinal_keel_present_on_midline;
+{ 5 Premaxillae_articulation_with_nasals Terminates_before_posterior_terminus_of_nasals Terminates_at_same_level_as_posterior_terminus_of_nasals Terminates_beyond_posterior_terminus_of_nasals;
+{ 6 Maxillae_slope Absent Gradual Steep;
+{ 7 Maxillae_ascending_process Present_as_large_triangular_wedge Present_as_a_small_wedge_or_area_of_overlap_in_the_posterodorsal_region Present_as_long_bar Enlarged_and_overlapping_the_frontal_as_a_broad_dish;
+{ 8 Maxillae_antorbital_notch indistinct_and_open Deep_groove;
+{ 9 Maxillae_lateral_margins Thick Thin Thin_in_posterior_portion_while_anterior_form_90_angle_between_dorsal_surface_and_palate;
+{ 10 Maxillae_infraorbital_foramina One Two Three_or_more;
+{ 11 Descending_process_of_the_maxilla Present Present_and_develops_into_an_infraorbital_plate Absent;
+{ 12 Descending_process_of_the_maxilla_orientation Horizontally_projected Deflected_posteriorly_dorsoventrally_oriented extremely_developed_and_dorsoventrally_oriented_vertical_or_nearly_vertical_in_placement extremely_developed_process_deflected_posteriorly;
+{ 13 Maxillae_window Absent Present_but_does_not_reach_posterior_margin_of_the_ventral_surface_of_the_maxilla Present_and_reaches_posterior_margin_of_the_ventral_surface_of_the_maxilla;
+{ 14 Maxillae_overlap_of_the_frontal_in_the_supraorbital_region No_or_slight_overlap Partial_overlap Partial_overlap_with_pocketing_of_frontal Extensive_expansion_over_the_supraorbital_region_of_the_frontal;
+{ 15 Palatal_maxillary_sulci Few_or_absent Many_large_sulci,_that_open_laterally_or_anterolaterally_into_a_long_alveolar_groove Many_large_sulci_that_open_laterally_or_anterolaterally_into_a_long_alveolar_groove Many_large_vascular_foramina_posteriorly,_without_distinct_sulci Many_large_vascular_foramina_posteriorly_without_distinct_sulci Fan_like_arrangement_of_foramina_and_grooves;
+{ 16 Nasals_length Moderate Long Short Extremely_short;
+{ 17 Nasals_width Narrow Wide;
+{ 18 Nasals_orientation Projecting_anteriorly_and_parallel_with_long_axis_of_skull_visible_in_lateral_view Projecting_anteriorly_and_parallel_with_long_axis_of_skull_obscured_from_lateral_view Projecting_anteriorly_at_an_acute_angle_obscured_from_lateral_view;
+{ 19 Nasals_anterior_margins Concave_and_v_shaped_posteriorly_directed Straight_or_nearly_straight Noticeably_convex_and_dome_or_v_shaped_anteriorly_directed;
+{ 20 Nasals_contact_with_frontals Frontals_invade_nasals_medially No_invasion_of_nasals_from_frontal_straight_or_u_shaped_posterior_margin_of_nasals Frontals_invade_nasals_medially_as_narrow_finger_like_projections_of_bone Frontals_invade_nasals_laterally_forming_a_M_shaped_posterior_margin_of_the_nasal Nasals_invade_frontals_medially;
+{ 21 Nasals_dorsal_surface flat sagittal_keel_along_anterior_half sagittal_keel_along_entire_length;
+{ 22 Frontal_ascending_temporal_crest low_or_absent Present_on_dorsal_portion_of_frontal Present;
+{ 23 Frontal_deflection_of_supraorbital_processes_in_lateral_view absent present;
+{ 24 Frontal_development_of_supraorbital_processes Lateral_expansion Dorsoventral_expansion;
+{ 25 frontal_dorsal_surface_of_supraorbital_processes Subhorizontal Gradually_sloping_ventrally_and_laterally Abruptly_depressed_medially;
+{ 26 Frontal_posterior_border_of_the_supraorbital_processes Thin_and_sharp rounded;
+{ 27 Palatines_length Long Moderate Short;
+{ 28 Palatines_anterior_margins Blunt_or_dome_shaped M_shaped;
+{ 29 Palatines_extension No_overlap_of_pterygoids Short_overlap_of_pterygoids Long_overlap_nearly_reaching_pterygoid_fossa;
+{ 30 Pterygoid_hamular_processes Poorly_developed_or_absent large extremely_enlarged;
+{ 31 Alisphenoid prominent_exposure_on_ventral_surface_of_the_skull_and_contributes_to_optic_canal,_square_in_shape prominent_exposure_on_ventral_surface_of_the_skull_and_contributes_to_optic_canal_square_in_shape prominent_exposure_on_ventral_surface_of_the_skull_but_does_not_contribute_to_optic_canal,_square_in_shape prominent_exposure_on_ventral_surface_of_the_skull_but_does_not_contribute_to_optic_canal_square_in_shape prominent_exposure_as_a_narrow_bar_on_the_ventral_surface_of_the_skull,_contributes_to_optic_canal prominent_exposure_as_a_narrow_bar_on_the_ventral_surface_of_the_skull_contributes_to_optic_canal significant_reduced_or_not_exposed_on_ventral_surface_of_skull;
+{ 32 Vomer not_exposed_in_basicranium exposed_on_basicranium_and_concealing_the_basioccipital-basiphenoid_suture exposed_on_basicranium_and_concealing_the_basioccipital_basiphenoid_suture;
+{ 33 Basioccipital_crests small_and_narrow bulbous_and_wide;
+{ 34 Paraoccipital_processes_position_of_posterior_edge well_anterior_to_posterior_edge_of_occipital_condyles posterior_to_posterior_edge_of_occipital_condyles in_tranverse_line_with_posterior_edge_of_occipital_condyles;
+{ 35 Parietals_dorsal_exposure present visible_but_separated_by_supraoccipital_shield excluded_from_view_by_supraoccipital_shield excluded_from_view_by_posterior_development_of_the_frontals_and_maxillae;
+{ 36 Parietals_contact_with_frontals_in_the_posterodorsal_region No_overlap large_degree_of_overlap;
+{ 37 Parietal_squamosal_suture_relief Absent Present;
+{ 38 Temporal_fossa_surface_of_temporal_wall Flat_or_gradually_sloping concave;
+{ 39 Squamosal_lateral_squamosal_crest not_developed_or_poorly_developed Well_developed_squamosal_crest_does_not_block_the_lateral_view_of_the_squamosal_and_parietal_suture Well_developed_squamosal_crest_partially_conceals_squamosal_and_parietal_suture;
+{ 40 Squamosal_orientation Anterior_or_perpendicular_to_long_axis_of_skull Posterior;
+{ 41 Squamosal_development Anteroposterior Dorsoventral;
+{ 42 Squamosal_cleft Absent Present_contacts_pterygoid Present_contacts_alisphenoid;
+{ 43 Squamosal_zygomatic_processes Thin_and_long Stocky_and_long Triangular_shaped_and_long Stocky_and_short;
+{ 44 Squamosal_zygomatic_process_orientation Anterior Lateral;
+{ 45 Squamosal_position_of_zygomatic_relative_to_orbit Ventral_and_posterior_separated_by_a_significant_dorsoventral_distance Ventral_and_adjacent_to_the_postorbital_process_of_the_frontal Ventral_to_the_postorbital_process_of_the_frontal_separated_by_dorsoventral_distance;
+{ 46 Squamosal_position_of_glenoid_fossa posterior_to_the_postorbital_process_of_the_frontal in_line_with_the_postorbital_process_of_the_frontal;
+{ 47 Squamosal_postglenoid_process_in_lateral_view Thin_and_hook_shaped Thick_and_triangular bulbous;
+{ 48 Supraoccipital_shield_position Does_not_reach_posterior_edge_of_SOP_of_frontal Reaches_the_posterior_edge_of_the_SOP_of_frontal Reaches_the_midline_axis_of_the_SOP_of_the_frontal Reaches_the_frontal_maxillary_suture;
+{ 49 Supraoccipital_Shield_lateral_margins Convex Straight_and_directed_laterally Anterior_process_constricted_tranversely;
+{ 50 Supraoccipital_Shield_shape_of_anterior_process SOC_perpendicular_to_long_axis_of_skull_and_anterior_process_absent Sharp_and_triangular Blunt_and_triangular Broad Wide_and_rounded Narrow_and_elongated wide_and_squared;
+{ 51 Supraoccipital_shield_surface_of_anterior_process flat_or_nearly_flat concave domed;
+{ 52 Supraoccipital_shield_anterior_furrow absent present;
+{ 53 Supraoccipital_shield_occipital_crest present absent;
+{ 54 Supraoccipital_shield_lambdoidal_crests High Low;
+{ 55 Supraoccipital_Shield_lambdoidal_protrusion Absent Present;
+{ 56 Tympanic_bullae_shape Ovoid Rhomboid;
+{ 57 Tympanic_bullae_dorsoventral_compression Absent Present;
+{ 58 Tympanic_bullae_median_furrow Notch_on_posterior_edge Continous_furrow Indistinct;
+{ 59 Tympanic_bullae_involcrul_ridge Absent Present;
+{ 60 Tympanic_bullae_dorsal_posterior_prominence_swollen yes no;
+{ 61 Tympanic_bullae_conical_process large_and_noticeable small_and_indistinct;
+{ 62 Accessory_ossicle_for_the_anterior_process_of_the_periotic Part_of_bullar_body Independant_ossification_center_during_development,_later_fusion_with_anterior_process_of_the_periotic Independant_ossification_center_during_development_later_fusion_with_anterior_process_of_the_periotic Independant_bone_unfused_to_anterior_process_of_the_periotic;
+{ 63 Periotic_angle_between_lateral_process_of_the_anterior_process_and_posterior_process Obtuse approximately_90_degrees acute;
+{ 64 Periotic_lateral_projection_of_the_anterior_process Absent Present_and_short Hypertrophied;
+{ 65 Periotic_length_of_posterior_process Short long extremely_long;
+{ 66 Periotic_neck_of_posterior_process Constricted_tranversely Absent Constricted_tranversely_and_dorsoventrally;
+{ 67 Periotic_ventral_surface Rounded_and_only_slightly_depressed_from_ventral_surface_of_pars_cochlearis Promontorium_very_depressed_and_disjunct_from_the_ventral_surface_of_the_pars_cochlearis;
+{ 68 Periotic_tranverse_elongation_of_the_pars_cochlearis absent present;
+{ 69 Periotic_promontorial_groove Absent Present;
+{ 70 Periotic_position_of_tranverse_septum Shallow_and_close_to_the_surface Deep_within_fundus;
+{ 71 Periotic_groove_for_tensor_tympani_muscle enlarged_oval_fossa Thin_and_well_defined Absent_or_poorly_defined Absent_anterior_process_connected_to_pars_cochlearis_by_small_pedestal;
+{ 72 Periotic_shape_of_oval_window circular ellipitical;
+{ 73 Periotic_shape_of_round_window Ellipitical circular;
+{ 74 Periotic_stylomastoid_fossa Absent Present_as_a_deep_notch Present_as_a_long_and_shallow_concavity_extending_onto_the_posterior_process_of_the_periotic;
+{ 75 Mandible_dorsal_aspect Medially_curved straight_or_nearly_straight laterally_curved;
+{ 76 Mandible_height_of_dorsal_ramus Gradual_increase_in_height_posteriorly Height_relatively_constant_throughout_length Expanded_and_arched_dorsally_towards_center_of_midline;
+{ 77 Mandible_medial_torsion Absent Present;
+{ 78 Mandible_myohyoideal_groove Absent Present;
+{ 79 Mandible_orientation_of_th_mandibular_condyle Posteriorly_directed Dorsally_directed Posterodorsally_directed;
+{ 80 Mandible_coronoid_process Large_and_spatulate Large_spatuluate_and_laterally_deflected Reduced_in_size_process_triangular_and_laterally_deflected Reduced_to_low_laterally_deflected_knob Reduced_to_low_ridge_or_nearly_absent;
+{ 81 Mandible_symphysis Sutured Unsutured;
+{ 82 Teeth Present_and_heterodont Present_and_homodont Absent;
+{ 83 Teeth_replacement Diphyodont Monophyodont Monophyodont_but_reabsorbed_in_utero;
+{ 84 Baleen Absent Present;
+{ 85 Baleen_number_and_size Few_and_thick Few_and_thin Numerous_and_thin;
+{ 86 Baleen_racks Meet_at_midline Separated_by_anterior_cleft;
+{ 87 Baleen_fringe Coarse Fine;
+{ 88 Baleen_color Dark Light;
+{ 89 Baleen_diversion_of_lateral_plates Absent Present;
+{ 90 Hyoid_stylohyal_shape Cylindrical Flattened;
+{ 91 Hyoid_fossa_posterior_to_and_between_process_of_basihyal Absent Present_and_large;
+{ 92 Cervical_Vertebrae No_or_only_partial_fusion Complete_fusion;
+{ 93 Thoracic_vertebrae_number 17_18 12_15 9_11 State_3;
+{ 94 Lumbar_Vertebrae_number over_13 8_13 1_4;
+{ 95 Lumbar_Vertebrae_tranverse_processes Oriented_ventrolaterally Oriented_laterally_and_horizontally;
+{ 96 Scapula_spine Prominent Absent;
+{ 97 Scapula_acromion_process Present Absent Reduced_to_a_small_flange;
+{ 98 Scapula_corocoid_process Present Absent Rugose_lump;
+{ 99 Humerus_length Greater_then_length_of_radius Equal_to_or_less_then_length_of_radius;
+{ 100 Humerus_orientation_of_head Angled Vertical;
+{ 101 Humerus_deltopectoral_crest Present Absent;
+{ 102 Humerus_distal_portion_in_lateral_view Distal_epiphysis_narrower_then_shaft Distal_epiphysis_flared_compared_to_shaft;
+{ 103 Olecranon_process_of_the_ulna_shape Fan_or_blade_shaped Small_and_blunt Paddle_shaped_with_rounded_proximal_and_distal_ends;
+{ 104 Olecranon_process_of_the_ulna_vertical_projection slight_projection Significant_projection Absent;
+{ 105 Number_of_digits Pentadactyl Tetradactyl;
+{ 106 Phalangeal_shape Cylindrical_or_only_slightly_hourglass_shaped Strongly_hourglass_shaped;
+{ 107 Body_size Less_than_or_equal_to_6_m_in_total_body_length Between_6_to_10_m_in_total_body_length Greater_than_or_equal_to_10_m_in_total_body_length;
+{ 108 Tongue Thick_and_muscular Connective_Tissue;
+{ 109 Cavum_ventrale Absent Present;
+{ 110 Orolabial_sulcus Absent Present;
+{ 111 Ventral_pleats Absent Small_number_of_ancillary_grooves_present Large_number_present;
+{ 112 frontomandibular_stay Absent Present;
+{ 113 Skull_length_in_proportion_to_total_body_length Under_25% Over_25%;
+{ 114 Dorsal_Fin Absent Present;
+{ 115 Coloration_dorsal_blaze Absent_unknown_in_populations Present_occurs_in_some_proportion_of_population;
+{ 116 Coloration_ventral_blaze absent Present_in_50%_or_less_of_population Present_in_over_50%_of_population;
+{ 117 Callosities Absent Present;
+{ 118 Chromosome_number 42 44;
+;
+
+
+ccode  - 0.118;
+
+
+;

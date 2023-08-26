@@ -1,0 +1,18 @@
+IQ-TREE multicore version 1.6.12 for Windows 64-bit built Aug 15 2019
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    LAPTOP-L33PKUPE (AVX2, FMA3, 15 GB RAM)
+Command: iqtree.exe -s project175.NEX -st MORPH -m MK+ASC -nt AUTO
+Seed:    809825 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Jul 11 19:21:48 2023
+Kernel:  AVX+FMA - auto-detect threads (20 CPU cores detected)
+
+Reading alignment file project175.NEX ... Nexus format detected
+Skipping unknown block (NOTES)...
+Skipping unknown block (CODONS)...
+Skipping unknown block (MESQUITE)...
+Skipping unknown block (MESQUITECHARMODELS)...
+ERROR: 
+ERROR: Error found at line 752, column 82 (file position 36700):
+ERROR: The taxon "F nymphatelina" was found in the TRANSLATE command of the TREES block, but was not found in the TAXA block

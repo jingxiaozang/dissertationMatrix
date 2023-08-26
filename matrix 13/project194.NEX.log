@@ -1,0 +1,186 @@
+IQ-TREE multicore version 1.6.12 for Windows 64-bit built Aug 15 2019
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    LAPTOP-L33PKUPE (AVX2, FMA3, 15 GB RAM)
+Command: iqtree.exe -s project194.NEX -st MORPH -m MK+ASC -nt AUTO
+Seed:    201833 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Fri Jul 14 09:29:31 2023
+Kernel:  AVX+FMA - auto-detect threads (20 CPU cores detected)
+
+Reading alignment file project194.NEX ... Nexus format detected
+Skipping unknown block (NOTES)...
+Skipping unknown block (TREEBASE)...
+Alignment has 72 sequences with 207 columns, 163 distinct patterns
+183 parsimony-informative, 19 singleton sites, 5 constant sites
+WARNING: Some sequence names are changed as follows:
+Antilocapra americanus -> Antilocapra_americanus
+Balaena mysticetus -> Balaena_mysticetus
+Balaenoptera acutorostrata -> Balaenoptera_acutorostrata
+Balaenoptera physalus -> Balaenoptera_physalus
+Berardius bairdii -> Berardius_bairdii
+Bos taurus -> Bos_taurus
+Camelus dromedarius -> Camelus_dromedarius
+Cephalorhynchus commersoni -> Cephalorhynchus_commersoni
+Cephalorhynchus eutropia -> Cephalorhynchus_eutropia
+Cephalorhynchus heavisidii -> Cephalorhynchus_heavisidii
+Cephalorhynchus hectori -> Cephalorhynchus_hectori
+Delphinapterus leucas -> Delphinapterus_leucas
+Delphinus delphis -> Delphinus_delphis
+Eschrichtius robustus -> Eschrichtius_robustus
+Eubalaena glacialis -> Eubalaena_glacialis
+Feresa attenuata -> Feresa_attenuata
+Globicephala macrorhynchus -> Globicephala_macrorhynchus
+Globicephala melaena -> Globicephala_melaena
+Grampus griseus -> Grampus_griseus
+Hyperoodon planifrons -> Hyperoodon_planifrons
+Inia geoffrensis -> Inia_geoffrensis
+Kogia breviceps -> Kogia_breviceps
+Kogia simus -> Kogia_simus
+Lagenodelphis hosei -> Lagenodelphis_hosei
+Lagenorhynchus acutus -> Lagenorhynchus_acutus
+Lagenorhynchus albirostris -> Lagenorhynchus_albirostris
+Lagenorhynchus australis -> Lagenorhynchus_australis
+Lagenorhynchus cruciger -> Lagenorhynchus_cruciger
+Lagenorhynchus obliquidens -> Lagenorhynchus_obliquidens
+Lagenorhynchus obscurus -> Lagenorhynchus_obscurus
+Lipotes vexillifer -> Lipotes_vexillifer
+Lissodelphis borealis -> Lissodelphis_borealis
+Lissodelphis peronii -> Lissodelphis_peronii
+Megaptera novaeangliae -> Megaptera_novaeangliae
+Mesoplodon bidens -> Mesoplodon_bidens
+Mesoplodon carlhubbsi -> Mesoplodon_carlhubbsi
+Mesoplodon densirostris -> Mesoplodon_densirostris
+Mesoplodon europaeus -> Mesoplodon_europaeus
+Mesoplodon ginkgodens -> Mesoplodon_ginkgodens
+Mesoplodon grayi -> Mesoplodon_grayi
+Mesoplodon hectori -> Mesoplodon_hectori
+Mesoplodon layardii -> Mesoplodon_layardii
+Mesoplodon peruvianus -> Mesoplodon_peruvianus
+Mesoplodon stejnegeri -> Mesoplodon_stejnegeri
+Monodon monoceros -> Monodon_monoceros
+Neophocaena phocaenoides -> Neophocaena_phocaenoides
+Orcaella brevirostris -> Orcaella_brevirostris
+Orcinus orca -> Orcinus_orca
+Peponocephala electra -> Peponocephala_electra
+Phocoena phocoena -> Phocoena_phocoena
+Phocoena sinus -> Phocoena_sinus
+Phocoena spinipinnis -> Phocoena_spinipinnis
+Phocoenoides dalli -> Phocoenoides_dalli
+Physeter catadon -> Physeter_catadon
+Platanista gangetica -> Platanista_gangetica
+Pontoporia blainvillei -> Pontoporia_blainvillei
+Pseudorca crassidens -> Pseudorca_crassidens
+Sotalia fluviatilis -> Sotalia_fluviatilis
+Sousa chinensis -> Sousa_chinensis
+Sousa teuszii -> Sousa_teuszii
+Stenella attenuata -> Stenella_attenuata
+Stenella clymene -> Stenella_clymene
+Stenella coeruleoalba -> Stenella_coeruleoalba
+Stenella frontalis -> Stenella_frontalis
+Stenella longirostris -> Stenella_longirostris
+Steno bredanensis -> Steno_bredanensis
+Tasmacetus shepherdi -> Tasmacetus_shepherdi
+Tayassua tajacu -> Tayassua_tajacu
+Tragulus napu -> Tragulus_napu
+Tursiops truncatus -> Tursiops_truncatus
+Ziphius cavirostris -> Ziphius_cavirostris
+
+                            Gap/Ambiguity  Composition  p-value
+   1  Antilocapra_americanus       32.37%    failed      0.00%
+   2  Archaeoceti                  46.38%    failed      0.00%
+   3  Balaena_mysticetus           28.02%    failed      0.08%
+   4  Balaenoptera_acutorostrata   23.19%    failed      0.04%
+   5  Balaenoptera_physalus        23.19%    failed      0.02%
+   6  Berardius_bairdii             8.70%    passed     54.45%
+   7  Bos_taurus                   32.37%    failed      0.00%
+   8  Camelus_dromedarius          36.23%    failed      0.00%
+   9  Cephalorhynchus_commersoni    7.25%    passed     94.00%
+  10  Cephalorhynchus_eutropia      7.25%    passed     94.00%
+  11  Cephalorhynchus_heavisidii    7.25%    passed     94.00%
+  12  Cephalorhynchus_hectori       7.25%    passed     94.00%
+  13  Delphinapterus_leucas         7.73%    passed     90.62%
+  14  Delphinus_delphis             7.25%    passed     90.99%
+  15  Eschrichtius_robustus        27.05%    failed      0.05%
+  16  Eubalaena_glacialis          24.64%    failed      0.14%
+  17  Feresa_attenuata              7.25%    passed     99.16%
+  18  Globicephala_macrorhynchus    7.73%    passed     99.63%
+  19  Globicephala_melaena          7.73%    passed     99.63%
+  20  Grampus_griseus               7.25%    passed     98.76%
+  21  Hyperoodon_planifrons         8.21%    passed     65.34%
+  22  Inia_geoffrensis             10.63%    passed     62.22%
+  23  Kogia_breviceps              16.43%    failed      0.00%
+  24  Kogia_simus                  15.94%    failed      0.00%
+  25  Lagenodelphis_hosei           7.73%    passed     92.83%
+  26  Lagenorhynchus_acutus         6.76%    passed     96.85%
+  27  Lagenorhynchus_albirostris    8.70%    passed     98.42%
+  28  Lagenorhynchus_australis      6.76%    passed     96.85%
+  29  Lagenorhynchus_cruciger       6.76%    passed     96.85%
+  30  Lagenorhynchus_obliquidens    6.76%    passed     96.85%
+  31  Lagenorhynchus_obscurus       7.73%    passed     95.35%
+  32  Lipotes_vexillifer            9.18%    passed     85.35%
+  33  Lissodelphis_borealis         6.76%    passed     96.85%
+  34  Lissodelphis_peronii          9.66%    passed     93.66%
+  35  Megaptera_novaeangliae       24.15%    failed      0.08%
+  36  Mesoplodon_bidens             7.73%    passed     41.09%
+  37  Mesoplodon_carlhubbsi         8.21%    passed     33.62%
+  38  Mesoplodon_densirostris       7.73%    passed      6.06%
+  39  Mesoplodon_europaeus          8.21%    passed     59.52%
+  40  Mesoplodon_ginkgodens         8.70%    passed     60.01%
+  41  Mesoplodon_grayi              9.18%    passed     57.96%
+  42  Mesoplodon_hectori           10.14%    passed     60.44%
+  43  Mesoplodon_layardii           9.66%    failed      0.00%
+  44  Mesoplodon_peruvianus        32.37%    passed     36.39%
+  45  Mesoplodon_stejnegeri         7.73%    passed     21.32%
+  46  Monodon_monoceros             9.18%    passed     97.70%
+  47  Neophocaena_phocaenoides      6.76%    failed      3.74%
+  48  Orcaella_brevirostris         6.76%    passed     96.71%
+  49  Orcinus_orca                  7.25%    passed     97.64%
+  50  Peponocephala_electra         7.25%    passed     96.16%
+  51  Phocoena_phocoena             7.25%    passed      8.53%
+  52  Phocoena_sinus                7.25%    passed      8.53%
+  53  Phocoena_spinipinnis          7.25%    failed      3.13%
+  54  Phocoenoides_dalli            7.73%    passed      9.91%
+  55  Physeter_catadon             15.46%    failed      0.00%
+  56  Platanista_gangetica         14.01%    failed      0.00%
+  57  Pontoporia_blainvillei        9.66%    passed     76.36%
+  58  Pseudorca_crassidens          8.21%    passed     99.56%
+  59  Sotalia_fluviatilis           7.25%    passed     96.16%
+  60  Sousa_chinensis               7.25%    passed     96.16%
+  61  Sousa_teuszii                 7.25%    passed     96.16%
+  62  Stenella_attenuata            7.25%    passed     96.16%
+  63  Stenella_clymene              7.25%    passed     96.16%
+  64  Stenella_coeruleoalba         7.25%    passed     96.16%
+  65  Stenella_frontalis            7.25%    passed     96.16%
+  66  Stenella_longirostris         7.25%    passed     96.16%
+  67  Steno_bredanensis             7.25%    passed     94.00%
+  68  Tasmacetus_shepherdi          8.21%    passed     96.94%
+  69  Tayassua_tajacu              33.33%    failed      0.00%
+  70  Tragulus_napu                34.30%    failed      0.00%
+  71  Tursiops_truncatus            7.25%    passed     94.00%
+  72  Ziphius_cavirostris           7.25%    passed     58.36%
+****  TOTAL                        12.33%  19 sequences failed composition chi2 test (p-value<5%; df=7)
+NOTE: Cephalorhynchus_eutropia is identical to Cephalorhynchus_commersoni but kept for subsequent analysis
+NOTE: Globicephala_melaena is identical to Globicephala_macrorhynchus but kept for subsequent analysis
+NOTE: Lagenorhynchus_australis is identical to Lagenorhynchus_acutus but kept for subsequent analysis
+NOTE: Sotalia_fluviatilis is identical to Peponocephala_electra but kept for subsequent analysis
+NOTE: Phocoena_sinus is identical to Phocoena_phocoena but kept for subsequent analysis
+NOTE: 11 identical sequences (see below) will be ignored for subsequent analysis
+NOTE: Cephalorhynchus_heavisidii (identical to Cephalorhynchus_commersoni) is ignored but added at the end
+NOTE: Cephalorhynchus_hectori (identical to Cephalorhynchus_commersoni) is ignored but added at the end
+NOTE: Lagenorhynchus_cruciger (identical to Lagenorhynchus_acutus) is ignored but added at the end
+NOTE: Lagenorhynchus_obliquidens (identical to Lagenorhynchus_acutus) is ignored but added at the end
+NOTE: Sousa_chinensis (identical to Peponocephala_electra) is ignored but added at the end
+NOTE: Sousa_teuszii (identical to Peponocephala_electra) is ignored but added at the end
+NOTE: Stenella_attenuata (identical to Peponocephala_electra) is ignored but added at the end
+NOTE: Stenella_clymene (identical to Peponocephala_electra) is ignored but added at the end
+NOTE: Stenella_coeruleoalba (identical to Peponocephala_electra) is ignored but added at the end
+NOTE: Stenella_frontalis (identical to Peponocephala_electra) is ignored but added at the end
+NOTE: Stenella_longirostris (identical to Peponocephala_electra) is ignored but added at the end
+
+For your convenience alignment with unique sequences printed to project194.NEX.uniqueseq.phy
+WARNING: States(s) 6 rarely appear in alignment and may cause numerical problems
+Creating fast initial parsimony tree by random order stepwise addition...
+0.038 seconds, parsimony score: 397 (based on 202 sites)
+ERROR: For your convenience alignment with variable sites printed to project194.NEX.varsites.phy
+ERROR: Invalid use of +ASC because of 5 invariant sites in the alignment

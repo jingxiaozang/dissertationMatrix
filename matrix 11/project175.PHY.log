@@ -1,0 +1,319 @@
+IQ-TREE multicore version 1.6.12 for Windows 64-bit built Aug 15 2019
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    LAPTOP-L33PKUPE (AVX2, FMA3, 15 GB RAM)
+Command: iqtree.exe -s project175.PHY -st MORPH -m MK+ASC -nt AUTO
+Seed:    248347 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Jul 11 19:22:27 2023
+Kernel:  AVX+FMA - auto-detect threads (20 CPU cores detected)
+
+Reading alignment file project175.PHY ... Phylip format detected
+Alignment most likely contains binary sequences
+WARNING: Your specified sequence type is different from the detected one
+Alignment has 163 sequences with 71 columns, 71 distinct patterns
+70 parsimony-informative, 1 singleton sites, 0 constant sites
+                                          Gap/Ambiguity  Composition  p-value
+   1  Manawastaceyi                              64.79%    passed     96.33%
+   2  Nymphatelinagravida                        81.69%    passed     88.98%
+   3  Colymbosathonecplecticos                   81.69%    passed     92.28%
+   4  Triadocyprisspitzbergensis                 80.28%    passed     96.89%
+   5  Vargulahilgendorfii                        28.17%    passed     81.84%
+   6  Euphilomedessordida                        19.72%    passed     15.96%
+   7  Rutidermaapex                              22.54%    passed     14.24%
+   8  Asteropteronfuscum                          8.45%    passed     12.67%
+   9  Asteropterygionromei                        4.23%    passed     69.02%
+  10  Asteropterygionsetiferum                   11.27%    passed     17.11%
+  11  Asteropterygionoculitristis                 2.82%    passed     55.22%
+  12  Asteropterygionpeterseni                   12.68%    passed     67.17%
+  13  Asteropterygiondayi                        12.68%    passed     57.78%
+  14  Asteropterygionthomassini                   5.63%    passed     71.82%
+  15  Asteropterygionmagnum                       7.04%    passed     55.16%
+  16  Actinosetahummelincki                       5.63%    passed     45.51%
+  17  Actinosetachelispara                        7.04%    passed     46.45%
+  18  Actinosetajonesi                           11.27%    passed     12.11%
+  19  Asteropellamortenseni                      11.27%    passed     19.07%
+  20  Asteropellaslatteryi                        9.86%    passed     14.51%
+  21  Asteropellasp.J57062                       32.39%    passed      9.37%
+  22  AsteropellaslatteryiJ57060                 25.35%    passed     12.96%
+  23  AsteropellaslatteryiJ57061                 28.17%    passed     11.47%
+  24  Asteropellamonambon                         9.86%    passed     85.87%
+  25  AsteropellamonambonJ57059                  16.90%    passed     78.48%
+  26  Asteropellakalkei                          16.90%    passed     41.83%
+  27  Omegasteropeupsilon                        19.72%    passed     75.35%
+  28  Pteromeniscusintesi                         5.63%    passed     97.84%
+  29  Microasteropteronparvum                    18.31%    passed     91.06%
+  30  Macroasteropteronmindax                    15.49%    passed     95.39%
+  31  Leuroleberismackenziei                      2.82%    passed     55.53%
+  32  Leuroleberissharpei                         1.41%    passed     10.22%
+  33  Leuroleberissurugaensis                     7.04%    passed      7.51%
+  34  Alphaleberisalphathrix                      2.82%    passed     63.21%
+  35  Amboleberisamericana                        2.82%    passed     18.92%
+  36  Cyclasteropefascigera                       4.23%    passed     89.56%
+  37  Cyclasteropebisetosa                        9.86%    passed     85.87%
+  38  Cycloleberisgalatheae                       2.82%    passed     63.21%
+  39  Cycloleberislobiancoi                       8.45%    passed     21.19%
+  40  Tetraleberissp.J570561                     39.44%    passed     99.16%
+  41  Tetraleberispix                             1.41%    passed     64.90%
+  42  Tetraleberistriplex                         7.04%    passed     57.14%
+  43  Tetraleberisbrevis                          7.04%    passed     57.14%
+  44  Archasteropemonothrix                       8.45%    passed     76.76%
+  45  Archasteropeverax                           5.63%    passed     99.73%
+  46  Archasteropequinquesetae                    8.45%    passed     99.79%
+  47  Archasteropeefficax                         0.00%    passed     93.49%
+  48  ArchasteropeefficaxJ57064                  16.90%    passed     85.68%
+  49  Archasteropebulla                           5.63%    passed     99.76%
+  50  Archasteropeapex_Archasteropealtrix         5.63%    passed     95.92%
+  51  Archasteropedentata                         7.04%    passed     95.54%
+  52  Archasteropeantarctica                      5.63%    passed     98.56%
+  53  Archasteropesp.J57065                      21.13%    passed     89.08%
+  54  Bathyleberisbabax                           5.63%    passed     99.73%
+  55  Bathyleberisgarthi                         11.27%    passed     11.51%
+  56  Bathyleberisgrossmani                       9.86%    passed     97.35%
+  57  Bathyleberishancocki                        9.86%    passed     21.13%
+  58  Bathyleberismonothrix                       8.45%    passed     94.42%
+  59  Bathyleberisoculata                         5.63%    passed     94.39%
+  60  BathyleberisoculataJ57063                   9.86%    passed     89.17%
+  61  Bathyleberisthrix                           8.45%    failed      0.00%
+  62  Bathyleberiskurilensis                     12.68%    passed     15.84%
+  63  Bathyleberistoxotes                         7.04%    passed     22.11%
+  64  Bruuniellabeta                             16.90%    passed     53.59%
+  65  Bruuniellahazeli                           25.35%    passed     10.21%
+  66  Bruuniellabreviata                         21.13%    passed     74.76%
+  67  Polyleberismackenziei                      12.68%    passed     98.45%
+  68  Cylindroleberisbacescui                     7.04%    passed     99.15%
+  69  Cylindroleberisgrimaldi                     7.04%    passed     22.52%
+  70  Cylindroleberisminuta                      11.27%    passed     97.25%
+  71  Cylindroleberisthailandica                 12.68%    passed     97.36%
+  72  Cylindroleberisvibex                        5.63%    passed     95.92%
+  73  Cylindroleberisvariabilis                   7.04%    passed     96.48%
+  74  Cylindroleberisverrucosa                   14.08%    passed     97.26%
+  75  Cylindroleberisvix                          7.04%    passed     95.54%
+  76  Cylindroleberismarranyin                    8.45%    passed     96.79%
+  77  Cylindroleberissp.J57069                   18.31%    passed     98.17%
+  78  Diasteropewirraka                           7.04%    passed     95.54%
+  79  Diasteropegrisea                            1.41%    passed     71.40%
+  80  Diasteropeschmitti                          9.86%    passed     99.71%
+  81  Diasteropepilosa                            9.86%    passed     19.35%
+  82  Diasteropeprocax                            9.86%    passed     10.57%
+  83  Dolasteropejohanseni                        9.86%    passed     98.13%
+  84  Domromeusmerx                              12.68%    passed     96.32%
+  85  Domromeusheptathrix                         9.86%    passed     22.42%
+  86  Heptonemalatex                              5.63%    passed     94.39%
+  87  Heptonemalatum                              8.45%    passed     98.68%
+  88  Heptonemahomelix                           12.68%    passed     99.85%
+  89  Heptonemaserratum                          12.68%    passed     97.59%
+  90  Homasteropecurta                            8.45%    passed     99.78%
+  91  Homasteropetrebax                           9.86%    passed     99.11%
+  92  Monasteropebex                             15.49%    passed     76.08%
+  93  ParasteropegamurruJ53224                   15.49%    passed     90.30%
+  94  ParasteropegamurruJ53225                   18.31%    passed     96.94%
+  95  Parasteropeaberrata                        14.08%    passed     10.67%
+  96  Parasteropeanommata                        12.68%    passed     97.81%
+  97  Parasteropeantyx                           12.68%    passed     20.84%
+  98  Parasteropecrinita                         14.08%    passed     99.83%
+  99  Parasteropemaddocksae                      11.27%    passed     76.17%
+ 100  Parasteropemauritiana                      12.68%    passed     11.31%
+ 101  Parasteropemckenziei                       14.08%    passed     99.60%
+ 102  Parasteropemicrommata                      12.68%    passed     98.45%
+ 103  Parasteropemuelleri                         9.86%    passed     96.89%
+ 104  Parasteropepacifica                        12.68%    passed     99.75%
+ 105  Parasteropephysinx                         12.68%    passed     99.75%
+ 106  Parasteropepollex                          11.27%    passed     98.51%
+ 107  Parasteropeprolixa                          7.04%    passed     99.69%
+ 108  Parasteropepseudoquadrata                  11.27%    passed     98.51%
+ 109  Parasteropesequax                          12.68%    passed     80.92%
+ 110  Parasteropesohni                           11.27%    passed     19.43%
+ 111  Parasteropestyx                             8.45%    passed     90.16%
+ 112  Parasteropewhatleyi                         9.86%    passed     98.79%
+ 113  Parasteropezamboangae                      12.68%    passed     97.36%
+ 114  Parasteropezeta                             9.86%    passed     96.89%
+ 115  Parasteropesp.J57072                       12.68%    passed     96.39%
+ 116  Undetermined2undetermined2J57076           16.90%    passed     17.31%
+ 117  Undetermined3undetermined3J57075           18.31%    passed     76.36%
+ 118  Undetermined4undetermined4J57074           16.90%    passed     80.25%
+ 119  Undetermined5undetermined5J57073           15.49%    passed     53.27%
+ 120  Postasteropebarensi                        12.68%    passed      8.43%
+ 121  PostasteropebarensiJ57078                  23.94%    passed      6.94%
+ 122  PostasteropebarensiJ57079                  18.31%    passed      8.38%
+ 123  Postasteropecorrugata                      15.49%    passed     98.02%
+ 124  PostasteropecorrugataJ57080                19.72%    passed     99.67%
+ 125  Postasteropemessingi                        8.45%    passed     90.86%
+ 126  PostasteropemessingiJ57077                 22.54%    passed     91.41%
+ 127  Postasteropeabaco                          16.90%    passed     99.86%
+ 128  Prionotoleberisgyion                       11.27%    passed     20.30%
+ 129  Prionotoleberislux                          5.63%    passed     96.29%
+ 130  Prionotoleberispax                         12.68%    passed     19.70%
+ 131  Prionotoleberisrex                          9.86%    passed     22.97%
+ 132  Prionotoleberissalomani                     5.63%    passed     99.73%
+ 133  Skogsbergiellapax                           7.04%    passed     87.89%
+ 134  Skogsbergiellaplocus                        1.41%    passed     82.92%
+ 135  Skogsbergiellascotti                        7.04%    passed     93.94%
+ 136  Skogsbergiellasenex                         7.04%    passed     87.89%
+ 137  Skogsbergiellaspinifera                     8.45%    passed     82.32%
+ 138  Skogsbergiellasp.ZMHK42206                 45.07%    failed      3.31%
+ 139  Synasteropeimplumis                         9.86%    passed     88.67%
+ 140  Synasteropebassana                         14.08%    passed     90.45%
+ 141  Synasteropebensoni                          9.86%    passed      7.41%
+ 142  Synasteropebrachythrix                     14.08%    passed     97.26%
+ 143  Synasteropebrowni                           8.45%    passed     98.37%
+ 144  Synasteropecalix                            8.45%    passed     47.25%
+ 145  Synasteropecushmani                         5.63%    passed     99.37%
+ 146  Synasteropehelix                           11.27%    passed     19.07%
+ 147  Synasteropehirpex                           9.86%    passed      7.22%
+ 148  Synasteropelongiseta                       18.31%    passed     83.86%
+ 149  Synasteropemystax                          14.08%    passed     96.84%
+ 150  Synasteropepolythrix                        9.86%    passed     96.36%
+ 151  Synasteropearnaudi_Synasteropepsitticina   11.27%    passed     96.76%
+ 152  Synasteropeserrata                         11.27%    passed     99.81%
+ 153  Synasteropesetispara                       15.49%    passed     93.68%
+ 154  Synasteropesp.J57067                       15.49%    passed     94.68%
+ 155  Synasteropesp.J57066                       18.31%    passed     98.04%
+ 156  Xandarasteropestorthynx                     7.04%    passed     98.47%
+ 157  Xandarasteropetrux                          2.82%    passed     98.58%
+ 158  Xenoleberisbex                              8.45%    passed     99.78%
+ 159  Xenoleberiscalifornica                      7.04%    passed     22.11%
+ 160  Xenoleberisyamadai                          2.82%    passed     23.65%
+ 161  Undetermined7undetermined7ZMHK42207        21.13%    passed     94.44%
+ 162  ArchasteropebullaDS6                        8.45%    passed     97.62%
+ 163  Undetermined6undetermined6ZMHK42209        19.72%    passed     97.38%
+WARNING: 4 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                                      13.23%  2 sequences failed composition chi2 test (p-value<5%; df=5)
+WARNING: States(s) 5 rarely appear in alignment and may cause numerical problems
+Creating fast initial parsimony tree by random order stepwise addition...
+0.216 seconds, parsimony score: 440 (based on 71 sites)
+
+NOTE: 0 MB RAM (0 GB) is required!
+Measuring multi-threading efficiency up to 20 CPU cores
+Increase to 10 rounds for branch lengths
+1101 trees examined
+Threads: 1 / Time: 20.014 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -6199
+Threads: 2 / Time: 22.047 sec / Speedup: 0.908 / Efficiency: 45% / LogL: -6199
+BEST NUMBER OF THREADS: 1
+
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -2748.929
+Optimal log-likelihood: -2629.667
+Parameters optimization took 1 rounds (0.014 sec)
+Computing ML distances based on estimated model parameters... 0.000 sec
+WARNING: Some pairwise ML distances are too long (saturated)
+Computing BIONJ tree...
+0.021 seconds
+Log-likelihood of BIONJ tree: -2614.435
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.950 second
+Computing log-likelihood of 98 initial trees ... 0.641 seconds
+Current best score: -2592.222
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -2565.637
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -2556.920
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 3: -2546.064
+Iteration 10 / LogL: -2590.793 / Time: 0h:0m:44s
+Iteration 20 / LogL: -2577.744 / Time: 0h:0m:45s
+Finish initializing candidate tree set (20)
+Current best tree score: -2546.064 / CPU time: 2.664
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 29: -2544.795
+Iteration 30 / LogL: -2552.868 / Time: 0h:0m:45s (0h:2m:35s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 31: -2526.607
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 37: -2524.875
+Iteration 40 / LogL: -2549.552 / Time: 0h:0m:46s (0h:1m:55s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 50: -2523.550
+Iteration 50 / LogL: -2523.550 / Time: 0h:0m:47s (0h:1m:35s left)
+Iteration 60 / LogL: -2532.239 / Time: 0h:0m:47s (0h:1m:12s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 62: -2521.615
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 64: -2517.596
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 65: -2509.321
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 69: -2505.648
+Iteration 70 / LogL: -2523.703 / Time: 0h:0m:48s (0h:1m:9s left)
+Iteration 80 / LogL: -2511.425 / Time: 0h:0m:49s (0h:0m:55s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 81: -2503.904
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 82: -2501.672
+Iteration 90 / LogL: -2514.538 / Time: 0h:0m:49s (0h:0m:51s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 96: -2498.942
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 98: -2493.287
+Iteration 100 / LogL: -2521.093 / Time: 0h:0m:50s (0h:0m:49s left)
+Iteration 110 / LogL: -2495.955 / Time: 0h:0m:51s (0h:0m:40s left)
+Iteration 120 / LogL: -2495.520 / Time: 0h:0m:51s (0h:0m:33s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 121: -2492.042
+Iteration 130 / LogL: -2493.447 / Time: 0h:0m:52s (0h:0m:36s left)
+Iteration 140 / LogL: -2493.340 / Time: 0h:0m:53s (0h:0m:30s left)
+Iteration 150 / LogL: -2504.352 / Time: 0h:0m:53s (0h:0m:25s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 151: -2489.247
+Iteration 160 / LogL: -2491.164 / Time: 0h:0m:54s (0h:0m:30s left)
+Iteration 170 / LogL: -2515.297 / Time: 0h:0m:54s (0h:0m:26s left)
+Iteration 180 / LogL: -2510.774 / Time: 0h:0m:55s (0h:0m:21s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 181: -2488.821
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 187: -2487.545
+Iteration 190 / LogL: -2494.816 / Time: 0h:0m:56s (0h:0m:28s left)
+Iteration 200 / LogL: -2512.960 / Time: 0h:0m:56s (0h:0m:24s left)
+Iteration 210 / LogL: -2488.654 / Time: 0h:0m:57s (0h:0m:21s left)
+Iteration 220 / LogL: -2489.102 / Time: 0h:0m:57s (0h:0m:17s left)
+Iteration 230 / LogL: -2494.702 / Time: 0h:0m:58s (0h:0m:14s left)
+Iteration 240 / LogL: -2516.932 / Time: 0h:0m:59s (0h:0m:11s left)
+Iteration 250 / LogL: -2488.989 / Time: 0h:0m:59s (0h:0m:8s left)
+Iteration 260 / LogL: -2497.218 / Time: 0h:1m:0s (0h:0m:6s left)
+Iteration 270 / LogL: -2493.971 / Time: 0h:1m:0s (0h:0m:3s left)
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 278: -2486.717
+Iteration 280 / LogL: -2498.071 / Time: 0h:1m:1s (0h:0m:21s left)
+Iteration 290 / LogL: -2495.167 / Time: 0h:1m:1s (0h:0m:18s left)
+Iteration 300 / LogL: -2490.618 / Time: 0h:1m:2s (0h:0m:16s left)
+Iteration 310 / LogL: -2496.086 / Time: 0h:1m:3s (0h:0m:13s left)
+Iteration 320 / LogL: -2516.028 / Time: 0h:1m:3s (0h:0m:11s left)
+Iteration 330 / LogL: -2490.785 / Time: 0h:1m:4s (0h:0m:9s left)
+Iteration 340 / LogL: -2492.487 / Time: 0h:1m:4s (0h:0m:7s left)
+Iteration 350 / LogL: -2498.207 / Time: 0h:1m:5s (0h:0m:5s left)
+Iteration 360 / LogL: -2492.523 / Time: 0h:1m:6s (0h:0m:3s left)
+Iteration 370 / LogL: -2489.959 / Time: 0h:1m:6s (0h:0m:1s left)
+TREE SEARCH COMPLETED AFTER 379 ITERATIONS / Time: 0h:1m:7s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -2486.717
+Optimal log-likelihood: -2486.717
+Parameters optimization took 1 rounds (0.004 sec)
+BEST SCORE FOUND : -2486.717
+Total tree length: 7.222
+
+Total number of iterations: 379
+CPU time used for tree search: 13.984 sec (0h:0m:13s)
+Wall-clock time used for tree search: 24.645 sec (0h:0m:24s)
+Total CPU time used: 28.391 sec (0h:0m:28s)
+Total wall-clock time used: 67.189 sec (0h:1m:7s)
+
+Analysis results written to: 
+  IQ-TREE report:                project175.PHY.iqtree
+  Maximum-likelihood tree:       project175.PHY.treefile
+  Likelihood distances:          project175.PHY.mldist
+  Screen log file:               project175.PHY.log
+
+Date and Time: Tue Jul 11 19:23:34 2023

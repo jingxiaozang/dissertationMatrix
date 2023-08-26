@@ -1,0 +1,137 @@
+IQ-TREE multicore version 1.6.12 for Windows 64-bit built Aug 15 2019
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    LAPTOP-L33PKUPE (AVX2, FMA3, 15 GB RAM)
+Command: iqtree.exe -s project181.NEX -st MORPH -m MK+ASC -nt AUTO
+Seed:    142589 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Jul 31 11:39:43 2023
+Kernel:  AVX+FMA - auto-detect threads (20 CPU cores detected)
+
+Reading alignment file project181.NEX ... Nexus format detected
+Alignment has 24 sequences with 119 columns, 116 distinct patterns
+115 parsimony-informative, 4 singleton sites, 0 constant sites
+WARNING: Some sequence names are changed as follows:
+Dorudon atrox -> Dorudon_atrox
+Physeter macrocephalus -> Physeter_macrocephalus
+Ziphius cavirostris -> Ziphius_cavirostris
+Eomysticetus whitmorei -> Eomysticetus_whitmorei
+Diorocetus hiatus -> Diorocetus_hiatus
+Pelocetus calvertensis -> Pelocetus_calvertensis
+Eschrichtius robustus -> Eschrichtius_robustus
+Megaptera novaeangliae -> Megaptera_novaeangliae
+Balaenoptera acutorostrata -> Balaenoptera_acutorostrata
+Caperea marginata -> Caperea_marginata
+Morenocetus parvus -> Morenocetus_parvus
+Balaenula astensis -> Balaenula_astensis
+Balaenula balaenopsis -> Balaenula_balaenopsis
+Japanese balaenula sp. -> Japanese_balaenula_sp.
+Eubalaena belgica -> Eubalaena_belgica
+Eubalaena glacialis -> Eubalaena_glacialis
+Eubalaena australis -> Eubalaena_australis
+Eubalaena japonica -> Eubalaena_japonica
+SDSNH 43880 -> SDSNH_43880
+Balaenella brachyrhynchus -> Balaenella_brachyrhynchus
+Balaena montalionis -> Balaena_montalionis
+Balaena ricei -> Balaena_ricei
+Balaena mysticetus -> Balaena_mysticetus
+
+                            Gap/Ambiguity  Composition  p-value
+   1  Dorudon_atrox                 9.24%    failed      0.00%
+   2  Physeter_macrocephalus       18.49%    failed      0.00%
+   3  Ziphius_cavirostris          15.13%    failed      0.00%
+   4  Aetiocetus                   44.54%    failed      0.00%
+   5  Eomysticetus_whitmorei       31.09%    failed      0.08%
+   6  Diorocetus_hiatus            25.21%    passed     44.01%
+   7  Pelocetus_calvertensis       26.89%    passed     57.02%
+   8  Eschrichtius_robustus         0.84%    passed     50.08%
+   9  Megaptera_novaeangliae        2.52%    passed     51.61%
+  10  Balaenoptera_acutorostrata    1.68%    passed     71.66%
+  11  Caperea_marginata             3.36%    failed      0.46%
+  12  Morenocetus_parvus           81.51%    passed     54.80%
+  13  Balaenula_astensis           48.74%    passed      7.16%
+  14  Balaenula_balaenopsis        58.82%    passed      5.53%
+  15  Japanese_balaenula_sp.       57.14%    passed      8.14%
+  16  Eubalaena_belgica            70.59%    passed     32.34%
+  17  Eubalaena_glacialis           0.84%    failed      1.30%
+  18  Eubalaena_australis           0.84%    failed      0.12%
+  19  Eubalaena_japonica            3.36%    failed      0.09%
+  20  SDSNH_43880                  47.90%    failed      0.52%
+  21  Balaenella_brachyrhynchus    47.06%    failed      3.72%
+  22  Balaena_montalionis          68.07%    passed     62.36%
+  23  Balaena_ricei                57.98%    failed      1.84%
+  24  Balaena_mysticetus            0.84%    passed     13.84%
+WARNING: 6 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                        30.11%  12 sequences failed composition chi2 test (p-value<5%; df=5)
+Creating fast initial parsimony tree by random order stepwise addition...
+0.030 seconds, parsimony score: 293 (based on 119 sites)
+
+NOTE: 0 MB RAM (0 GB) is required!
+Measuring multi-threading efficiency up to 20 CPU cores
+Increase to 10 rounds for branch lengths
+6789 trees examined
+Threads: 1 / Time: 20.001 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -2440
+Threads: 2 / Time: 21.280 sec / Speedup: 0.940 / Efficiency: 47% / LogL: -2440
+BEST NUMBER OF THREADS: 1
+
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -1569.052
+Optimal log-likelihood: -1515.215
+Parameters optimization took 1 rounds (0.003 sec)
+Computing ML distances based on estimated model parameters... 0.000 sec
+WARNING: Some pairwise ML distances are too long (saturated)
+Computing BIONJ tree...
+0.004 seconds
+Log-likelihood of BIONJ tree: -1526.566
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.045 second
+Computing log-likelihood of 98 initial trees ... 0.093 seconds
+Current best score: -1499.381
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -1499.364
+Iteration 10 / LogL: -1499.366 / Time: 0h:0m:41s
+Iteration 20 / LogL: -1499.430 / Time: 0h:0m:41s
+Finish initializing candidate tree set (1)
+Current best tree score: -1499.364 / CPU time: 0.239
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -1499.364 / Time: 0h:0m:41s (0h:1m:41s left)
+Iteration 40 / LogL: -1499.367 / Time: 0h:0m:41s (0h:1m:5s left)
+Iteration 50 / LogL: -1499.364 / Time: 0h:0m:41s (0h:0m:43s left)
+Iteration 60 / LogL: -1499.439 / Time: 0h:0m:41s (0h:0m:29s left)
+Iteration 70 / LogL: -1499.383 / Time: 0h:0m:41s (0h:0m:18s left)
+Iteration 80 / LogL: -1499.364 / Time: 0h:0m:42s (0h:0m:11s left)
+Iteration 90 / LogL: -1499.365 / Time: 0h:0m:42s (0h:0m:5s left)
+Iteration 100 / LogL: -1499.365 / Time: 0h:0m:42s (0h:0m:0s left)
+TREE SEARCH COMPLETED AFTER 102 ITERATIONS / Time: 0h:0m:42s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -1499.364
+Optimal log-likelihood: -1499.364
+Parameters optimization took 1 rounds (0.002 sec)
+BEST SCORE FOUND : -1499.364
+Total tree length: 3.020
+
+Total number of iterations: 102
+CPU time used for tree search: 0.031 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.877 sec (0h:0m:0s)
+Total CPU time used: 6.281 sec (0h:0m:6s)
+Total wall-clock time used: 42.242 sec (0h:0m:42s)
+
+Analysis results written to: 
+  IQ-TREE report:                project181.NEX.iqtree
+  Maximum-likelihood tree:       project181.NEX.treefile
+  Likelihood distances:          project181.NEX.mldist
+  Screen log file:               project181.NEX.log
+
+Date and Time: Mon Jul 31 11:40:25 2023

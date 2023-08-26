@@ -1,0 +1,118 @@
+IQ-TREE 1.6.12 built Aug 15 2019
+
+Input file name: project161.NEX
+Type of analysis: tree reconstruction
+Random seed number: 133254
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Lam-Tung Nguyen, Heiko A. Schmidt, Arndt von Haeseler, and Bui Quang Minh
+(2015) IQ-TREE: A fast and effective stochastic algorithm for estimating
+maximum likelihood phylogenies. Mol Biol Evol, 32:268-274.
+https://doi.org/10.1093/molbev/msu300
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 21 sequences with 173 morphological sites
+Number of constant sites: 0 (= 0% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 0 (= 0% of all sites)
+Number of parsimony informative sites: 168
+Number of distinct site patterns: 165
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: MK+FQ+ASC
+
+Rate parameter R:
+
+  0-1: 1.0000
+  0-2: 1.0000
+  0-3: 1.0000
+  1-2: 1.0000
+  1-3: 1.0000
+  2-3: 1.0000
+
+State frequencies: (equal frequencies)
+
+Rate matrix Q:
+
+  0        -1    0.3333    0.3333    0.3333
+  1    0.3333        -1    0.3333    0.3333
+  2    0.3333    0.3333        -1    0.3333
+  3    0.3333    0.3333    0.3333        -1
+
+Model of rate heterogeneity: Uniform
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -2207.4779 (s.e. 62.2653)
+Unconstrained log-likelihood (without tree): -878.5195
+Number of free parameters (#branches + #model parameters): 39
+Akaike information criterion (AIC) score: 4492.9558
+Corrected Akaike information criterion (AICc) score: 4516.4145
+Bayesian information criterion (BIC) score: 4615.9342
+
+Total tree length (sum of branch lengths): 4.4136
+Sum of internal branch lengths: 2.1264 (48.1782% of tree length)
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Asioryctes' is drawn at root
+
++------Asioryctes
+|
+|         +--Purgatorius
++---------|
+|         |             +----Palaechthon
+|         |          +--|
+|         |          |  +------Paromomyidae
+|         |       +--|
+|         |       |  |           +-----------Chronolestes
+|         |       |  |        +--|
+|         |       |  |        |  +-------Carpolestidae
+|         |       |  |     +--|
+|         |       |  |     |  +-------Saxonellidae
+|         |       |  +-----|
+|         |       |        +-----Plesiadapidae
+|         |    +--|
+|         |    |  |        +-----Microsyopidae
+|         |    |  |     +--|
+|         |    |  |     |  |               +-------Altiatlasius
+|         |    |  |     |  |            +--|
+|         |    |  |     |  |            |  +**Omomyidae
+|         |    |  |     |  +------------|
+|         |    |  |     |               |   +----------Altanius
+|         |    |  |     |               +---|
+|         |    |  |     |                   +--Adapidae
+|         |    |  +-----|
+|         |    |        +--Berruvius
+|         +----|
+|              +----Micromomyidae
+|
+|                                               +---Elpidophorus
+|                                 +-------------|
+|                                 |             +----Plagiomene
+|                       +---------|
+|                       |         +----Cynocephalidae
+|      +----------------|
+|      |                +------Chiroptera
++------|
+       |      +-----Ptilocercus
+       +------|
+              +--------------Tupaia
+
+Tree in newick format:
+
+(Asioryctes:0.1216745165,(Purgatorius:0.0070146401,((((Palaechthon:0.0835954190,Paromomyidae:0.1227924754):0.0151827687,(((Chronolestes:0.2119109865,Carpolestidae:0.1322839266):0.0607958382,Saxonellidae:0.1407522768):0.0644347022,Plesiadapidae:0.1057497049):0.1069128210):0.0633065932,((Microsyopidae:0.1071931650,((Altiatlasius:0.1356344930,Omomyidae:0.0000029188):0.0622445498,(Altanius:0.1921502257,Adapidae:0.0320088445):0.0667832447):0.2248812021):0.0580626779,Berruvius:0.0532206503):0.1126169949):0.0584566156,Micromomyidae:0.0888625218):0.0977396472):0.1740792267,((((Elpidophorus:0.0714813725,Plagiomene:0.0841072962):0.2425522572,Cynocephalidae:0.0955582432):0.1663884031,Chiroptera:0.1268369634):0.2929560396,(Ptilocercus:0.1120819757,Tupaia:0.2623091145):0.1311227868):0.1278871037);
+
+TIME STAMP
+----------
+
+Date and time: Mon Jul 31 11:43:28 2023
+Total CPU time used: 11.6094 seconds (0h:0m:11s)
+Total wall-clock time used: 44.3312 seconds (0h:0m:44s)
+

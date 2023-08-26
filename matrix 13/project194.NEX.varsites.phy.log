@@ -1,0 +1,178 @@
+IQ-TREE multicore version 1.6.12 for Windows 64-bit built Aug 15 2019
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    LAPTOP-L33PKUPE (AVX2, FMA3, 15 GB RAM)
+Command: iqtree.exe -s project194.NEX.varsites.phy -st MORPH -m MK+ASC -nt AUTO
+Seed:    766593 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Fri Jul 14 09:29:38 2023
+Kernel:  AVX+FMA - auto-detect threads (20 CPU cores detected)
+
+Reading alignment file project194.NEX.varsites.phy ... Phylip format detected
+Alignment most likely contains binary sequences
+WARNING: Your specified sequence type is different from the detected one
+Alignment has 61 sequences with 202 columns, 160 distinct patterns
+183 parsimony-informative, 19 singleton sites, 0 constant sites
+                            Gap/Ambiguity  Composition  p-value
+   1  Antilocapra_americanus       31.19%    failed      0.00%
+   2  Archaeoceti                  45.54%    failed      0.00%
+   3  Balaena_mysticetus           26.73%    failed      0.47%
+   4  Balaenoptera_acutorostrata   21.78%    failed      0.20%
+   5  Balaenoptera_physalus        21.78%    failed      0.13%
+   6  Berardius_bairdii             6.93%    passed     67.46%
+   7  Bos_taurus                   31.19%    failed      0.00%
+   8  Camelus_dromedarius          35.15%    failed      0.00%
+   9  Cephalorhynchus_commersoni    6.44%    passed     88.81%
+  10  Cephalorhynchus_eutropia      6.44%    passed     88.81%
+  11  Delphinapterus_leucas         6.93%    passed     85.60%
+  12  Delphinus_delphis             6.44%    passed     84.41%
+  13  Eschrichtius_robustus        25.25%    failed      0.28%
+  14  Eubalaena_glacialis          22.77%    failed      0.68%
+  15  Feresa_attenuata              6.44%    passed     97.81%
+  16  Globicephala_macrorhynchus    6.93%    passed     98.94%
+  17  Globicephala_melaena          6.93%    passed     98.94%
+  18  Grampus_griseus               6.44%    passed     96.99%
+  19  Hyperoodon_planifrons         6.44%    passed     76.64%
+  20  Inia_geoffrensis              9.90%    passed     60.45%
+  21  Kogia_breviceps              14.85%    failed      0.01%
+  22  Kogia_simus                  14.36%    failed      0.00%
+  23  Lagenodelphis_hosei           6.93%    passed     87.09%
+  24  Lagenorhynchus_acutus         5.94%    passed     93.38%
+  25  Lagenorhynchus_albirostris    7.92%    passed     96.30%
+  26  Lagenorhynchus_australis      5.94%    passed     93.38%
+  27  Lagenorhynchus_obscurus       6.93%    passed     90.94%
+  28  Lipotes_vexillifer            8.42%    passed     77.65%
+  29  Lissodelphis_borealis         5.94%    passed     93.38%
+  30  Lissodelphis_peronii          8.91%    passed     88.44%
+  31  Megaptera_novaeangliae       22.77%    failed      0.40%
+  32  Mesoplodon_bidens             5.94%    passed     42.65%
+  33  Mesoplodon_carlhubbsi         6.44%    passed     38.61%
+  34  Mesoplodon_densirostris       5.94%    passed      9.49%
+  35  Mesoplodon_europaeus          6.44%    passed     63.00%
+  36  Mesoplodon_ginkgodens         6.93%    passed     64.24%
+  37  Mesoplodon_grayi              7.43%    passed     61.76%
+  38  Mesoplodon_hectori            8.42%    passed     66.92%
+  39  Mesoplodon_layardii           7.92%    failed      0.00%
+  40  Mesoplodon_peruvianus        31.19%    passed     45.24%
+  41  Mesoplodon_stejnegeri         5.94%    passed     23.93%
+  42  Monodon_monoceros             8.42%    passed     96.20%
+  43  Neophocaena_phocaenoides      5.94%    failed      1.98%
+  44  Orcaella_brevirostris         5.94%    passed     93.32%
+  45  Orcinus_orca                  6.44%    passed     94.79%
+  46  Peponocephala_electra         6.44%    passed     92.25%
+  47  Phocoena_phocoena             6.44%    failed      4.97%
+  48  Phocoena_sinus                6.44%    failed      4.97%
+  49  Phocoena_spinipinnis          6.44%    failed      1.63%
+  50  Phocoenoides_dalli            6.93%    passed      5.90%
+  51  Physeter_catadon             13.86%    failed      0.01%
+  52  Platanista_gangetica         12.38%    failed      0.00%
+  53  Pontoporia_blainvillei        8.91%    passed     66.98%
+  54  Pseudorca_crassidens          7.43%    passed     98.75%
+  55  Sotalia_fluviatilis           6.44%    passed     92.25%
+  56  Steno_bredanensis             6.44%    passed     88.81%
+  57  Tasmacetus_shepherdi          6.44%    passed     98.69%
+  58  Tayassua_tajacu              32.18%    failed      0.00%
+  59  Tragulus_napu                33.17%    failed      0.00%
+  60  Tursiops_truncatus            6.44%    passed     88.81%
+  61  Ziphius_cavirostris           6.44%    passed     66.45%
+****  TOTAL                        12.11%  21 sequences failed composition chi2 test (p-value<5%; df=7)
+NOTE: Cephalorhynchus_eutropia is identical to Cephalorhynchus_commersoni but kept for subsequent analysis
+NOTE: Globicephala_melaena is identical to Globicephala_macrorhynchus but kept for subsequent analysis
+NOTE: Lagenorhynchus_australis is identical to Lagenorhynchus_acutus but kept for subsequent analysis
+NOTE: Sotalia_fluviatilis is identical to Peponocephala_electra but kept for subsequent analysis
+NOTE: Phocoena_sinus is identical to Phocoena_phocoena but kept for subsequent analysis
+WARNING: States(s) 6 rarely appear in alignment and may cause numerical problems
+Creating fast initial parsimony tree by random order stepwise addition...
+0.127 seconds, parsimony score: 393 (based on 202 sites)
+
+NOTE: 0 MB RAM (0 GB) is required!
+Measuring multi-threading efficiency up to 20 CPU cores
+Increase to 10 rounds for branch lengths
+2842 trees examined
+Threads: 1 / Time: 20.004 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -7647
+Threads: 2 / Time: 18.625 sec / Speedup: 1.074 / Efficiency: 54% / LogL: -7647
+Threads: 3 / Time: 17.774 sec / Speedup: 1.125 / Efficiency: 38% / LogL: -7647
+BEST NUMBER OF THREADS: 2
+
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -2745.534
+Optimal log-likelihood: -2678.759
+Parameters optimization took 1 rounds (0.005 sec)
+Computing ML distances based on estimated model parameters... 0.016 sec
+Computing BIONJ tree...
+0.007 seconds
+Log-likelihood of BIONJ tree: -2678.848
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.181 second
+Computing log-likelihood of 98 initial trees ... 0.279 seconds
+Current best score: -2643.774
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -2643.759
+BETTER TREE FOUND at iteration 4: -2643.754
+BETTER TREE FOUND at iteration 5: -2643.750
+BETTER TREE FOUND at iteration 7: -2643.750
+Iteration 10 / LogL: -2646.073 / Time: 0h:0m:57s
+Iteration 20 / LogL: -2647.250 / Time: 0h:0m:57s
+Finish initializing candidate tree set (20)
+Current best tree score: -2643.750 / CPU time: 0.784
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -2643.751 / Time: 0h:0m:57s (0h:2m:32s left)
+Iteration 40 / LogL: -2651.602 / Time: 0h:0m:57s (0h:1m:39s left)
+BETTER TREE FOUND at iteration 42: -2643.750
+BETTER TREE FOUND at iteration 47: -2643.746
+Iteration 50 / LogL: -2648.311 / Time: 0h:0m:58s (0h:1m:55s left)
+Iteration 60 / LogL: -2643.751 / Time: 0h:0m:58s (0h:1m:26s left)
+Iteration 70 / LogL: -2652.553 / Time: 0h:0m:58s (0h:1m:5s left)
+Iteration 80 / LogL: -2643.746 / Time: 0h:0m:59s (0h:0m:50s left)
+Iteration 90 / LogL: -2643.751 / Time: 0h:0m:59s (0h:0m:37s left)
+Iteration 100 / LogL: -2655.751 / Time: 0h:0m:59s (0h:0m:28s left)
+BETTER TREE FOUND at iteration 101: -2643.746
+Iteration 110 / LogL: -2643.750 / Time: 0h:1m:0s (0h:0m:49s left)
+Iteration 120 / LogL: -2643.751 / Time: 0h:1m:0s (0h:0m:40s left)
+BETTER TREE FOUND at iteration 127: -2643.746
+Iteration 130 / LogL: -2643.750 / Time: 0h:1m:0s (0h:0m:45s left)
+BETTER TREE FOUND at iteration 139: -2643.746
+Iteration 140 / LogL: -2644.291 / Time: 0h:1m:0s (0h:0m:43s left)
+Iteration 150 / LogL: -2650.576 / Time: 0h:1m:1s (0h:0m:36s left)
+Iteration 160 / LogL: -2647.736 / Time: 0h:1m:1s (0h:0m:30s left)
+Iteration 170 / LogL: -2652.544 / Time: 0h:1m:1s (0h:0m:25s left)
+Iteration 180 / LogL: -2649.266 / Time: 0h:1m:1s (0h:0m:20s left)
+Iteration 190 / LogL: -2643.750 / Time: 0h:1m:2s (0h:0m:16s left)
+Iteration 200 / LogL: -2647.170 / Time: 0h:1m:2s (0h:0m:12s left)
+Iteration 210 / LogL: -2643.746 / Time: 0h:1m:2s (0h:0m:8s left)
+Iteration 220 / LogL: -2647.170 / Time: 0h:1m:3s (0h:0m:5s left)
+Iteration 230 / LogL: -2643.746 / Time: 0h:1m:3s (0h:0m:2s left)
+Iteration 240 / LogL: -2648.319 / Time: 0h:1m:3s (0h:0m:-1s left)
+TREE SEARCH COMPLETED AFTER 240 ITERATIONS / Time: 0h:1m:3s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -2643.746
+Optimal log-likelihood: -2643.746
+Parameters optimization took 1 rounds (0.003 sec)
+BEST SCORE FOUND : -2643.746
+Total tree length: 1.937
+
+Total number of iterations: 240
+CPU time used for tree search: 3.484 sec (0h:0m:3s)
+Wall-clock time used for tree search: 6.945 sec (0h:0m:6s)
+Total CPU time used: 31.781 sec (0h:0m:31s)
+Total wall-clock time used: 63.572 sec (0h:1m:3s)
+
+Analysis results written to: 
+  IQ-TREE report:                project194.NEX.varsites.phy.iqtree
+  Maximum-likelihood tree:       project194.NEX.varsites.phy.treefile
+  Likelihood distances:          project194.NEX.varsites.phy.mldist
+  Screen log file:               project194.NEX.varsites.phy.log
+
+Date and Time: Fri Jul 14 09:30:42 2023

@@ -1,0 +1,254 @@
+nstates num 10;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 12.16.09'
+71 165
+
+&[num]
+Manawa_staceyi                                   11100111?0000?????????????????0???????????1????010?????0??????1??110001
+Nymphatelina_gravida                             111???????????????????????????????????????1????000?????0????1?1??11???0
+Colymbosathon_ecplecticos                        111???????????????????????????????????????1????100?????1??????0120????0
+Triadocypris_spitzbergensis                      111?1????010???????????????????????????????????10??????12?????00??????0
+Vargula_hilgendorfii                             11100111?1?00????101100101001000100122111?1????101?????121??111?000?000
+Euphilomedes_sordida                             1110011010000010000110010111?000100120111?1????101?????101??111?0004000
+Rutiderma_apex                                   1000111000000????00110010111?010100120111?1????101?????10010111?0004000
+Asteropteron_fuscum                              10000110001000100000?1???100010011?122111?00001101010111201001012003001
+Asteropterygion_romei                            10000111?0100010000000010110001001?022111?00101101010101201001012001000
+Asteropterygion_setiferum                        10100?11?01000100?0000?101?0101?01?022111?00101101010101201001012002210
+Asteropterygion_oculitristis                     10100110001000100100000101000010000022111?0010110101011120100101200?000
+Asteropterygion_peterseni                        10000?11?01000100?00?00101?0101?01?022111?0010110101010120100?012001000
+Asteropterygion_dayi                             10000?11?01000000?00?00101?0101?01?022111?0010110101010120100101200?000
+Asteropterygion_thomassini                       10000111?0100010000000010100101?01?022111?00101101010101201001012001000
+Asteropterygion_magnum                           10000110001000100000?0?10100101001?022111?0000110101010120100101200?001
+Actinoseta_hummelincki                           10001111?0100010011?00010100000001?022111?00001101010111201001012002000
+Actinoseta_chelispara                            10001111?0100010010000?10100000?01?022111?00101101010111201001012002000
+Actinoseta_jonesi                                11101?11?01000100?00?00001?0100?01?022111?00101101010111201001012003000
+Asteropella_mortenseni                           10000111?01001?0000101???100111011?121111?01?01101010111200001012003001
+Asteropella_slatteryi                            11000111?0100010000101???100011011?122111?01?01101010111200001012004000
+Asteropella_sp._J57062                           10000?11?0??00100?0101???1?0??1?11?122111?01?011010?0??1?00???01?004000
+Asteropella_slatteryi_J57060                     10000?11?0100????00101???1001??011?1?2111?01?01101010111?00?0101?004000
+Asteropella_slatteryi_J57061                     10000?11?0??00000?0101???1?0?11?11?1?2111?01?01101010111?00???01?004000
+Asteropella_monambon                             10000111?0100010000101???100111011?121111?01?01101010111200001012002000
+Asteropella_monambon_J57059                      10000?11?01000100?0101???1?0111?11?122111?01?0110101011120000101?002000
+Asteropella_kalkei                               10000?11?01001?00?0101???0?0011?11?122111?01?01101010111200001012002001
+Omegasterope_upsilon                             10000?11?0100?000?1?01???0?1?11?11?121111?01?01101010111200001012002000
+Pteromeniscus_intesi                             11000111?0100010000110?10100011011?121111?00001101010111000001012002111
+Microasteropteron_parvum                         10000?11?01001?00?1?11???1?0111?11?120111?01?01101000011001011001001001
+Macroasteropteron_mindax                         11100?11?1?000100?0011???1?0100?11?122111?00001101010111001001002000111
+Leuroleberis_mackenziei                          1110001010120011200100010110100?101022111?00001101010101201001010000000
+Leuroleberis_sharpei                             11100010101200112001000101101001101022111?00001101010101201001010004000
+Leuroleberis_surugaensis                         11100?10101200112?01000101?0101?101022111?00001101010101201001010004000
+Alphaleberis_alphathrix                          1110001010120011200110010110101?101022111?00001101010101201001010001000
+Amboleberis_americana                            0110001010121011200100010110101?101012111?00001101010101201000010003000
+Cyclasterope_fascigera                           01100010101200112001?0?101101001101012111?00101101010101201110010001000
+Cyclasterope_bisetosa                            11100?10001200112?01?0?101?0100?101012111?00101101010101201110010001000
+Cycloleberis_galatheae                           11110010101200112?01000101101001101022111?00001101010101201001010001000
+Cycloleberis_lobiancoi                           11110?10101200112?0100?101?0100?101022111?00001101010101201001010002000
+Tetraleberis_sp._J570561                         01100?10?0????????0100?101?01???1??022111?0??0?1010?0?11?01???01?001000
+Tetraleberis_pix                                 11100010101210112001000101101011101022111?00001101010101201000010001000
+Tetraleberis_triplex                             11100?10101210112?01000101?0101?101022111?00001101010101201000010001000
+Tetraleberis_brevis                              11100?10101210112001000101?0101?101022111?0010110101010120100001000?000
+Archasterope_monothrix                           11100?10000100011?01000101?0111?101111110000000101001?1110101101?000001
+Archasterope_verax                               11100?10000100011?01000101?0111?101121110000000101000011101011011000211
+Archasterope_apex                                11100?10000100011?01000101?0111?101121110000000101000011101011011000100
+Archasterope_quinquesetae                        11100?10000100011?01000101?0111?101121110000000101001?1120101101?000100
+Archasterope_efficax                             11100010000100011001000101101111100121110000000101000011101011011000100
+Archasterope_efficax_J57064                      11100?100001??????01000101?01???10012111000000010100001110101101?000000
+Archasterope_bulla                               11100?10000100011?01000101?0111?101121110000000101000011201011011000101
+Archasterope_altrix                              11100?10000100011?01000101?0111?101121110000000101000011101011011000100
+Archasterope_dentata                             11100?10000100011?0100?101?0111?101121110000000101000011101011011000000
+Archasterope_antarctica                          11100?10000100011?01000101?0111?101121110000000101000011201011010000100
+Archasterope_sp._J57065                          11100?10000?0?????01000?01?1?11?1001201100000001010?0?11?01?11010000100
+Bathyleberis_babax                               11100?10000100011?01001101?0111?100111110000000101000011201011011000211
+Bathyleberis_garthi                              11100?11?00100011?01001101?1?11?10011111000000010100001110101101?004?00
+Bathyleberis_grossmani                           11100?10000101?12?01001111?0111?1001111100000001010?0?11101011010000211
+Bathyleberis_hancocki                            11100?11?00100011?01001101?0111?10010111000000010100001120101101?004?01
+Bathyleberis_monothrix                           11100?10000100011?01001111?0111?100111110000000101001?11201011011000?01
+Bathyleberis_oculata                             11100?10000100011?01001001?0111?101121110000000101000011101011011000000
+Bathyleberis_oculata_J57063                      11100?10000100011?01001001?01???10112111000000010100001110101101?000000
+Bathyleberis_thrix                               11100?10000101?11?01001101?0111?100111110000000101000011201011011005?00
+Bathyleberis_kurilensis                          11100?10000100011?0100?101???11?100102110000000101000011?0101101?004001
+Bathyleberis_toxotes                             11100?11?00100011?01001111?0111?100120110000000101000011101011010003000
+Bruuniella_beta                                  11100111?00201?1100101???101?11011?110101?01?101011?1?110010111?0001000
+Bruuniella_hazeli                                11100?11?00200100?0101???1?1?11?11?122101?0???01010?0?11001011??0003000
+Bruuniella_breviata                              11100?11?00201?11?0101???1?1?11?11?121101?000001011?1?110010111?0001000
+Polyleberis_mackenziei                           11100?10000101?12?0101???1?0111?100120110100000101000011101011010002?00
+Cylindroleberis_bacescui                         1110001000010001100101???111?11?100120110100000101000011101011010002000
+Cylindroleberis_grimaldi                         1110001000010001100101???111?11110112011010000010100001110101101?003000
+Cylindroleberis_minuta                           11100?10000100011?0101???1?1?11?101120110100000101000011101011010001000
+Cylindroleberis_thailandica                      11100?10000100011?0101???1?1?11?10112011010000010100001110101101?001000
+Cylindroleberis_vibex                            1110001000010001100101???110111?101120110100000101000011101011010001000
+Cylindroleberis_variabilis                       1110001000010001100101???111?1111?0120110100000101000011101011010001000
+Cylindroleberis_verrucosa                        11100?10000100011?0101???1?1?11?1011201101000001010?0?11101011010001000
+Cylindroleberis_vix                              1110001000010001100101???111?11?100120110100000101000011101011010001000
+Cylindroleberis_marranyin                        1110001000010001100101???111?11111?12011010000010100001110101101?000000
+Cylindroleberis_sp._J57069                       111000100001?????00101???111???11011201101000001010?001110101101?001000
+Diasterope_wirraka                               1110011000010001100101???101?11?101121110000000101000011101011010000000
+Diasterope_grisea                                1110001000010001100100100110111?101111110000000101000011101011011000000
+Diasterope_schmitti                              11100?10000200011?0101???1?0111?101111110000000101000011201011011000000
+Diasterope_pilosa                                11100?10000100011?0101???1?0111?100112110000000101000011101011010004000
+Diasterope_procax                                11100?10000100011?0101???1?0111?100101110000000101000011001011011004000
+Dolasterope_johanseni                            11100?10000101?12?0100?101?0111?101121110001?01101010011201010010000001
+Domromeus_merx                                   11100?10000101?12?01000101?01???1??111110000000101000011101011010000001
+Domromeus_heptathrix                             11100?10000001?12?01000101?0111?11?121110000000101001?11201011000003001
+Heptonema_latex                                  11100010000101?1200101???1101111100101110000000101000011001011010001000
+Heptonema_latum                                  11100010000101?1200101???1101111100121110000000101001?11001011011002?00
+Heptonema_homelix                                11100?10000001?12?0101???1?0111?11?121110000000101000011101011010001000
+Heptonema_serratum                               11100?00000001?12?0101???1?0111?11?121110000000101000011101011010002000
+Homasterope_curta                                11100010000001?1110101???110111111?1?2110000000101000111201011010000000
+Homasterope_trebax                               11100011?00001?1110101???110111?11?122110000000101010011101011000000100
+Monasterope_bex                                  11100?10000101?11?0101???1?0111?11?1?1110001?10101000011001011000001000
+Parasterope_gamurru_J53224                       11100?10000111?11?0101???1?1?11?11?12111000000010100001110101101?001000
+Parasterope_gamurru_J53225                       11100?100001?????00101???11????1100121110000000101000011101011010001000
+Parasterope_aberrata                             11100?10000101?11?0?01???1?0111?10011111000000010100001100101101?003000
+Parasterope_anommata                             11100?10000101?11?0101???1?0111?11?122110000000101000011201011010000101
+Parasterope_antyx                                11100?10000101?11?0101???1?0111?11?111110000000101000011201011000003211
+Parasterope_crinita                              11100?10000101?11?0101???1?0?11?11?122110000000101000011101011010000000
+Parasterope_maddocksae                           11100?10000101?11?0101???1?0111?100101010000000101000011101011010001000
+Parasterope_mauritiana                           11100?10000101?11?0?01???1?0111?100111110000000101000011001011011003000
+Parasterope_mckenziei                            11100?10000101?11?0101???1?0111?11?12211000000010100001110101101?001000
+Parasterope_micrommata                           11100?10000101?11?0101???1?0111?11?122110000000101000011201011010000000
+Parasterope_muelleri                             11100010000101?1100101???110111111?1?211000000010100001110101101000?000
+Parasterope_pacifica                             11100?10000101?11?0101???1?0111?11?122110000000101000011101011010001000
+Parasterope_physinx                              11100?10000101?11?0101???1?0111?11?122110000000101000011101011010000100
+Parasterope_pollex                               11100011?00001?1100101???111?11111?1?1110000000101000011101011012002000
+Parasterope_prolixa                              11100010000101?1100101???100111111?122110000000101000011101011010000000
+Parasterope_pseudoquadrata                       11100?11?00101?1100101???110111111?122110000000101000011101011010000?00
+Parasterope_sequax                               11100?10000101?11?0101???1?0111?11?122110000000101000011201011010000211
+Parasterope_sohni                                11100?10000101?11?0101???1?0111?100102110000000101000011101011011003101
+Parasterope_styx                                 11100010000101?1100101???110111111?111110000000101011?11201011000000211
+Parasterope_whatleyi                             11100?10000101?1100101???100111?11?121110000000101000011201011000000211
+Parasterope_zamboangae                           11100?10000101?11?0101???1?0111?10012111000000010100001110101101?001000
+Parasterope_zeta                                 11100010000001?1100101???1101111100111110001?001010?0?11001011010002000
+Parasterope_sp._J57072                           11100?10000101?11?0101???1?0111?11?121110000000101000011101011010000100
+Undetermined_2_undetermined_2_J57076             111000100001?????00101???1101??111?12111000000010100001110101101?004000
+Undetermined_3_undetermined_3_J57075             11100??00001?????00101???1101??110011111000000010100001110101101?000000
+Undetermined_4_undetermined_4_J57074             111000100001?????00101???1101??111?11111000000010100001110101101?000000
+Undetermined_5_undetermined_5_J57073             111000100001?????00001???1101??100011111000000010100001110101001?000000
+Postasterope_barensi                             11100001?00101?1100101???111?11111?11111000000010100001110101101?004?00
+Postasterope_barensi_J57078                      11100?01?001?1???00101???11????111?1111100000001011?00111010?101?004000
+Postasterope_barensi_J57079                      11100?01?00101?11?0101???1???11?11?11111000000010100001110101101?004000
+Postasterope_corrugata                           11100001?0010????00101???1101??111?121110000000101000011101011012002000
+Postasterope_corrugata_J57080                    11100001?001?1???00101???111???111?111?10?00000101000011101011012002000
+Postasterope_messingi                            11100001?00101?1100101???110111111?111110000000101000011101011011002000
+Postasterope_messingi_J57077                     11100?11?001?1???00101???111???111?121?1000??00101000011101011012002000
+Postasterope_abaco                               11100001?0010????00101???111???111?111110000000101000011101011012002000
+Prionotoleberis_gyion                            11100?10000100011?0101???1?0111?10012111010000010100001110101101?003000
+Prionotoleberis_lux                              11100?10000100011?01001001?0111?100121110100000101000011101011010001101
+Prionotoleberis_pax                              11100?10000100011?0101???1?0111?10012111010000010100001110101101?003?00
+Prionotoleberis_rex                              11100?10000100011?0101???1?0111?100121110100000101000011201011010003210
+Prionotoleberis_salomani                         1110001000020001100101???110111111?101110100000101000011101011011002000
+Skogsbergiella_pax                               11100?00000101?12?01000101?0111?101121010000000101000011201011011000211
+Skogsbergiella_plocus                            1110000000020001100100010110111?101121010000000101000011101011012000000
+Skogsbergiella_scotti                            11100?00000100011?01000101?0111?101121010000000101000011201011011000?00
+Skogsbergiella_senex                             11100?00000200012?01000101?0111?101111010000000101001?11201011011000211
+Skogsbergiella_spinifera                         11100?00000100011?01000101?0111?10112001000000010100001120101101?000?00
+Skogsbergiella_sp._ZMHK42206                     11100???????3?????01000101???11?11?1?2010?00000101????????????01?000211
+Synasterope_implumis                             11100001?00101?1100101???110111111?11111010000010100001110101101?002000
+Synasterope_arnaudi                              11100?10000101?11?0101???1?0111?100121110100000101000011101011010000001
+Synasterope_bassana                              11100?11?00101?11?0101???1?0111?11?122110100000101010011101011011000000
+Synasterope_bensoni                              11100111?00101?1100101???100111111?101110100000101000011101011011003?00
+Synasterope_brachythrix                          11100?00000101?11?0101???1?1?11?100121110100000101000011101011010000?01
+Synasterope_browni                               11100011?00101?1100101???100111111?121110100000101000011101011010002000
+Synasterope_calix                                11100011?00101?1100101???110111111?111110100000101000011101011011001000
+Synasterope_cushmani                             11100010000101?1100101???1101111100121110100000101000011101011010002001
+Synasterope_helix                                11100?10000101?11?0101???1?0111?100121110100000101000011201011010003211
+Synasterope_hirpex                               11100011?00101?1100101???11011?1100122110100000101011?11201011010003211
+Synasterope_longiseta                            11100?11?00101?11?0101???1?1?11?11?101110100000101000011101011010002??0
+Synasterope_mystax                               11100?11?00101?11?0?01???110?11?100120110100000101000011201011010000211
+Synasterope_polythrix                            11100110000101?11?0101???1?0111?100121110100000101000011201011010000211
+Synasterope_psitticina                           11100?10000101?11?0101???1?0111?100121110100000101000011101011010000001
+Synasterope_serrata                              11100?10000001?11?0101???1?0111?100121110100000101000011101011010002000
+Synasterope_setispara                            11100?01?00101?11?0101???1?1?11?11?111110100000101000011101011012002000
+Synasterope_sp._J57067                           11100?10000101?11?0101???1???11?11?121110100000101000011101011010000100
+Synasterope_sp._J57066                           11100?100001?1????0101???1?01???100121110100000101000011101011010000100
+Xandarasterope_storthynx                         11100?10000100011?01000101?0111?11?121110000000101000011201010010000211
+Xandarasterope_trux                              0110011000010001100100010100111?11?121110000000101000011101010010000211
+Xenoleberis_bex                                  11100?11?00100011?01001111?0111?10012001010000010100001120101101?000101
+Xenoleberis_californica                          11100011?0010001100100110111?11?10012001010000010100001110101101?004?00
+Xenoleberis_yamadai                              11100011?0010001100100110110111?100120110100000101000011101011010004000
+Undetermined_7_undetermined_7_ZMHK42207          11100?0000010??1??01001?01?0111?100101110000000101?????11010??000000211
+Archasterope_bulla_DS_6                          11100??0000100011?01000101?0111?10112011000000010100001120101101?000211
+Undetermined_6_undetermined_6_ZMHK42209          11100?10000100011?01000101?01???11?121110000000101?????12010??011000211
+
+;
+
+
+cnames
+{ 0 Carapace_with_vertical_ridge_posterior_to_incisur present absent;
+{ 1 Carapace_with_posterior_nodes with_posterior_nodes_(Microast with_posterior_nodes_Microast absent;
+{ 2 Carapace_with_horizontal_ridge present absent;
+{ 3 Carapace_rostrum_anterior_marg smooth scalloped_edge_on_anterior_mar;
+{ 4 Carapace_dorsal_margin_dentit with_no_dentition_on_dorsal_ma with_dentition_from_mid_to_pos;
+{ 5 Carapace_of_male_posterior_ro with_posterior_row_of_hairs with_no_posterior_row_of_hairs;
+{ 6 Carapace_posterior_infold_wit with_ridge_or_shelf_on_posteri with_no_ridge_or_shelf_on_post;
+{ 7 A1_art_2_lat_setae_p/a present absent;
+{ 8 A1_art_2_lat_setae_# 1_lateral_setae 2_lateral_setae_or_more;
+{ 9 A1_art_2_dorsal_setae_p_a present absent;
+{ 10 A1_art_2_no._dorsal_setae 1_dorsal_setae 2_dorsal_setae_or_more;
+{ 11 A1_art_3_dorsal_setae 1_to_5_dorsal_setae 6_dorsal_setae 7_dorsal_setae_or_more;
+{ 12 A1_art_5_dorsal_nodes 0_dorsal_nodes 1_dorsal_nodes_or_more State_3 State_3;
+{ 13 A1_s_seta_prox_filament_p_a present absent;
+{ 14 A1_art_5_s_seta_proximal_filam 1_proximal_filaments 2_proximal_filaments_or_more;
+{ 15 A1_art_5_s_seta_arrangement_o of_the_terminal_filaments_one terminal_filaments_all_of_simi;
+{ 16 A1_art_5_s_seta_terminal_filam up_to_5_terminal_filaments 6_terminal_filaments 7_terminal_filaments_or_more;
+{ 17 A1_art_5_s_seta_of_male filamentous similar_to_female;
+{ 18 A1_art6_medial_seta_p_a present absent;
+{ 19 A1_art_6_medial_seta_length short_not_reaching_past_8th_a long_reaching_past_8th_articl;
+{ 20 A1_art_7_a_seta_shape claw_like bristle_like;
+{ 21 A1_art_8_d_seta_present_absen present absent_or_minute;
+{ 22 A1_art_8_d_seta_shape filamentous_blunt_tip bristle_like_tapered_tip_Ba;
+{ 23 A1_art_8_d_seta_length_%_of_e up_to_25 50_or_more;
+{ 24 d_seta_with_spines bare with_spines;
+{ 25 A1_art_8_e_seta_spinous with_spines without_spines;
+{ 26 a1_male_c_and_f_setae similar_length_to_b_and_g_se very_long_1.5_to_2_x_length;
+{ 27 A2_proto_disto-med_seta_p/a with_distomedial_seta with_no_distomedial_seta;
+{ 28 A2_distomed_seta_spines distomedial_seta_with_spines distomedial_seta_without_spine;
+{ 29 A2_endopod_art_1_setae present absent;
+{ 30 A2_endopod_art_2_setae present absent;
+{ 31 A2_exopod_art_2_of_male_lengt 1x_length_of_art_3 3x_length_of_art_3;
+{ 32 Md_basale_dorsal_proximal_seta present absent;
+{ 33 Md_basale_dorsal_margin_midl present absent;
+{ 34 Md_basale_dorsal_margin_midl_1 1_setae 2_setae_or_more;
+{ 35 Md_basale_dorsal_distal_setae present absent;
+{ 36 Md_basale_dorsal_terminal_seta 0_to_39 40_to_75 76_or_more;
+{ 37 Md_exopod_length_%_art1_endo 0_to_39 40_to_75 76_or_more;
+{ 38 Md_endopod_art_1_dorsal_termi with_stout_terminal_spines without_stout_terminal_spines;
+{ 39 Md_endopod_articles_fused Articles_2_and_3_fused Articles_2_and_3_not_fused;
+{ 40 Md._arrangement_of_dorsal_seta A,B,C,D_setae_are_clear A_B_C_D_setae_are_clear cannot_distinguish_A,B,C,D_set cannot_distinguish_A_B_C_D_set;
+{ 41 Md_endopod_art_2_e_seta with_e_seta_lateral_between without_e_seta;
+{ 42 Mx_setal_comb_on_ventral_margin with_setal_comb without_setal_comb;
+{ 43 Mx_endopod_art_1_anterior_seta present absent;
+{ 44 Mx_endopod_art_1_no._anterior 1_anterior_setae 2_anterior_setae_or_more;
+{ 45 Mx_endopod_art_1_beta_seta with_beta_seta without_beta_seta;
+{ 46 Mx_endopod_terminal_article_s 1_setae 2_setae_or_more;
+{ 47 5th_limb_leg_like leg_like feeding_structure;
+{ 48 5th_epipod_p_a present absent;
+{ 49 6th_endopod_shape leg_like compacted;
+{ 50 6th_setae_at_upper_endite present absent;
+{ 51 6th_setae_at_above_upper_end 1 2_or_more;
+{ 52 6th_setae_at_lower_endite present absent;
+{ 53 6th_setae_at_below_lower_end 1_setae 2_setae_or_more;
+{ 54 6th_epipodial_setae present absent;
+{ 55 7th_limb_shape leg_like worm_like;
+{ 56 7th_setae 6_to_11_setae 12_setae 13_setae_or_more;
+{ 57 7th_limb_terminal_process symmetrical asymmetrical;
+{ 58 7th_limb_tip_shape flat opposing_combs;
+{ 59 7th_tip_single_or_double single_combs double_combs_Cyclasterope;
+{ 60 Furca_arrangement_of_claws 3_4_main_claws_followed_by_sec claws_decreasing_evenly_in_siz;
+{ 61 Furca_setae_between_claws with_setae_between_claws_Ambo with_no_setae_between_claws;
+{ 62 Gills_p_a present absent;
+{ 63 Gills_development weakly_developed_small_or_nar well_developed;
+{ 64 Posterior_body_fingerlike_pro without_process_or_only_slight with_medium_bump with_fingerlikeprocess;
+{ 65 Median_eye_p_a present absent;
+{ 66 Bellonci_organ_p_a present absent;
+{ 67 Locality Southern_(Ant/S.Aust/NZ/Chile) Southern_Ant_S.Aust_NZ_Chile Indo_(Phillipines/Thailand/Indian_Ocean/E._Africa) Indo_Phillipines_Thailand_Indian_Ocean_E._Africa NE_Atlantic_(West_Indies/east_coast_USA) NE_Atlantic_West_Indies_east_coast_USA NW_Atlantic_(Med/WAfrica) NW_Atlantic_Med_WAfrica N_and_E_Pacific Arctic;
+{ 68 Depth 0-200m 0_200m 201-1000m 201_1000m 1001+m 1001_m;
+{ 69 depth_binary 0-1000 0_1000 1000+ 1000;
+{ 70 lat_eyes_p_a present absent;
+;
+
+
+ccode  - 0.70;
+
+
+;

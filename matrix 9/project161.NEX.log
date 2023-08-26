@@ -1,0 +1,108 @@
+IQ-TREE multicore version 1.6.12 for Windows 64-bit built Aug 15 2019
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    LAPTOP-L33PKUPE (AVX2, FMA3, 15 GB RAM)
+Command: iqtree.exe -s project161.NEX -st MORPH -m MK+ASC -nt AUTO
+Seed:    133254 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Jul 31 11:42:44 2023
+Kernel:  AVX+FMA - auto-detect threads (20 CPU cores detected)
+
+Reading alignment file project161.NEX ... Nexus format detected
+Alignment has 21 sequences with 173 columns, 165 distinct patterns
+168 parsimony-informative, 5 singleton sites, 0 constant sites
+                Gap/Ambiguity  Composition  p-value
+   1  Asioryctes       28.32%    failed      0.00%
+   2  Purgatorius      60.69%    failed      0.86%
+   3  Palaechthon      56.65%    passed     72.73%
+   4  Paromomyidae      8.09%    passed     42.26%
+   5  Chronolestes     53.18%    passed     29.26%
+   6  Carpolestidae     5.20%    failed      4.28%
+   7  Plesiadapidae     8.09%    passed     17.10%
+   8  Saxonellidae     57.80%    passed      9.76%
+   9  Microsyopidae    32.37%    passed     29.54%
+  10  Micromomyidae    12.14%    passed     60.43%
+  11  Altiatlasius     82.08%    passed     50.56%
+  12  Altanius         59.54%    passed     88.15%
+  13  Omomyidae        15.61%    passed     30.95%
+  14  Adapidae          7.51%    passed     79.48%
+  15  Elpidophorus     60.12%    failed      0.01%
+  16  Plagiomene       46.82%    failed      0.39%
+  17  Cynocephalidae    3.47%    failed      1.64%
+  18  Ptilocercus       3.47%    passed     91.63%
+  19  Tupaia            3.47%    failed      0.08%
+  20  Chiroptera        2.31%    passed     92.53%
+  21  Berruvius        64.16%    passed     70.49%
+WARNING: 8 sequences contain more than 50% gaps/ambiguity
+****  TOTAL            31.96%  7 sequences failed composition chi2 test (p-value<5%; df=3)
+Creating fast initial parsimony tree by random order stepwise addition...
+0.022 seconds, parsimony score: 520 (based on 173 sites)
+
+NOTE: 0 MB RAM (0 GB) is required!
+Measuring multi-threading efficiency up to 20 CPU cores
+Increase to 10 rounds for branch lengths
+13431 trees examined
+Threads: 1 / Time: 20.000 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -2583
+Threads: 2 / Time: 23.761 sec / Speedup: 0.842 / Efficiency: 42% / LogL: -2583
+BEST NUMBER OF THREADS: 1
+
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -2316.205
+Optimal log-likelihood: -2248.914
+Parameters optimization took 1 rounds (0.002 sec)
+Computing ML distances based on estimated model parameters... 0.000 sec
+Computing BIONJ tree...
+0.005 seconds
+Log-likelihood of BIONJ tree: -2220.388
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.030 second
+Computing log-likelihood of 98 initial trees ... 0.062 seconds
+Current best score: -2212.471
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -2207.478
+Iteration 10 / LogL: -2210.936 / Time: 0h:0m:43s
+Iteration 20 / LogL: -2219.067 / Time: 0h:0m:43s
+Finish initializing candidate tree set (15)
+Current best tree score: -2207.478 / CPU time: 0.160
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -2213.786 / Time: 0h:0m:44s (0h:1m:47s left)
+Iteration 40 / LogL: -2207.673 / Time: 0h:0m:44s (0h:1m:8s left)
+Iteration 50 / LogL: -2207.736 / Time: 0h:0m:44s (0h:0m:45s left)
+Iteration 60 / LogL: -2208.034 / Time: 0h:0m:44s (0h:0m:30s left)
+Iteration 70 / LogL: -2208.776 / Time: 0h:0m:44s (0h:0m:19s left)
+Iteration 80 / LogL: -2210.060 / Time: 0h:0m:44s (0h:0m:11s left)
+Iteration 90 / LogL: -2208.031 / Time: 0h:0m:44s (0h:0m:5s left)
+Iteration 100 / LogL: -2210.950 / Time: 0h:0m:44s (0h:0m:0s left)
+TREE SEARCH COMPLETED AFTER 102 ITERATIONS / Time: 0h:0m:44s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -2207.478
+Optimal log-likelihood: -2207.478
+Parameters optimization took 1 rounds (0.002 sec)
+BEST SCORE FOUND : -2207.478
+Total tree length: 4.414
+
+Total number of iterations: 102
+CPU time used for tree search: 0.016 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.481 sec (0h:0m:0s)
+Total CPU time used: 11.609 sec (0h:0m:11s)
+Total wall-clock time used: 44.326 sec (0h:0m:44s)
+
+Analysis results written to: 
+  IQ-TREE report:                project161.NEX.iqtree
+  Maximum-likelihood tree:       project161.NEX.treefile
+  Likelihood distances:          project161.NEX.mldist
+  Screen log file:               project161.NEX.log
+
+Date and Time: Mon Jul 31 11:43:28 2023

@@ -1,0 +1,297 @@
+nstates num 8;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 12.17.51'
+207 72
+
+&[num]
+Antilocapra_americanus              1000000000??0100??0?000000000?1000100??0000000?1000?1??000000?0000000000000?0000?0??????????00?????????0??0?0000?000?0?00?????10?0???0?00?0?0??0???????00??00?0?00?00000000000?00100000000000000000000000000000
+Archaeoceti                         1000000000??01?0??0?00000?000?1000100??0000000?1000?1??0?0?00??00?000000?00?0?00???0100100000000000010000000000??????????????????????????????????????????????????????000000000???000?????00010?0????11000????11
+Balaena_mysticetus                  10000010000?0100??0?000000000?1000101??0000000?100001??000002??00?00122????????0???00100???00000000??0?20000?000?000?00010??000700???0?00?0?0??0???????0???00?0?00?1011112001?10?011000111111111111111111111112
+Balaenoptera_acutorostrata          10000000000?0100??0?000000000?0000101??0000000?100001000000000000000122????????0???00100?0000000000??0100000?000?001000010??000700???0?00?0?0??0???????????00?0?00?11111100000001111000111111111111111111111112
+Balaenoptera_physalus               10000000000?0100??0?000000000?0000?01??0000000?100001000000000000000122????????0???00100?0000000000??01000000000?001000010??000700???0?00?0?0??0???????????00?0?00?11111100000001111000111111111111111111111112
+Berardius_bairdii                   01001010000000010010010001001???000020?0000000?01100010101100100000002202100000100?00202000011010011010?00000010?001121?1101111201110110110010?0???????11000001101011000000000?10000111111111111111111111111112
+Bos_taurus                          1000000001??0100??0?000000000?1000100??0000000?1000?1??000000?0000000000000?0000?0??????????00?????????0??0?0000?000?0?00?????10?0???0?00?0?0??0???????00??00?0?00?00000001000?00100000000000000000000000000000
+Camelus_dromedarius                 000000000???01????0??00000000?1000100??00?0?0??1000?1??000000?000?000000000?0000?0??????????00?????????0??0?0000?000?0?00?????10?0???0?00?0?0??0???????00??00?0?00?00000001000?00100000000000000000000000000000
+Cephalorhynchus_commersoni          01000000002?0011000?010001001?1010001??00100011010110111111101000110011000000000?0?11100110111010000001301001010?000?21?11001111010001100?1010?11000011110011?10010?1000000000?10000111111111111111111111111112
+Cephalorhynchus_eutropia            01000000002?0011000?010001001?1010001??00100011010110111111101000110011000000000?0?11100110111010000001301001010?000?21?11001111010001100?1010?11000011110011?10010?1000000000?10000111111111111111111111111112
+Cephalorhynchus_heavisidii          01000000002?0011000?010001001?1010001??00100011010110111111101000110011000000000?0?11100110111010000001301001010?000?21?11001111010001100?1010?11000011110011?10010?1000000000?10000111111111111111111111111112
+Cephalorhynchus_hectori             01000000002?0011000?010001001?1010001??00100011010110111111101000110011000000000?0?11100110111010000001301001010?000?21?11001111010001100?1010?11000011110011?10010?1000000000?10000111111111111111111111111112
+Delphinapterus_leucas               11000000000?0??1000?010011001?1010000??000000101?0001101111101000110000000000000?0?11100110111010000001011000110?000?21?1101111101010110111010?11010001111111?0001002000000000?10000111111111111111111111111112
+Delphinus_delphis                   01000000002?00010?0?010011001?1010001??00100011010110111111101000110011000000000?0?11100110111010000001301001010?000?21?11011111010001100?1010?11000011110011?1001001000000000?10000111111111111111111111111112
+Eschrichtius_robustus               10000000000?0100??0?000000001?0000101??0000000?100001000000000000000122????????0???00100?0000000000??0???0????00?001200010??000700???0?00?0?0??0???????????00?0?00?1211101??00001011000111111111111111111111112
+Eubalaena_glacialis                 10000000000?0100??0?000000000?1000?01??0000000?100001000000020000000122????????0???00100?0000000000??0120010?100?000?00010??000700???0?00?0?0??0???????????00?0?00?10111021?11101011000111111111111111111111112
+Feresa_attenuata                    01000000002?0001000?010011001?1010001??00000011010100111111101000110000000000000?0?11100110111010000000301001010?000?21?11011111010001100?1010?11000011110011?10010?1000000000?10000111111111111111111111111112
+Globicephala_macrorhynchus          01000000002?0001000?010011001?1010001??00000011010110111111101000?10000000000000?0?111?0110111010000000301001010?000?21?11000111010001100?1010?11000011110011?1001001000000000?10000111111111111111111111111112
+Globicephala_melaena                01000000002?0001000?010011001?1010001??00000011010110111111101000?10000000000000?0?111?0110111010000000301001010?000?21?11000111010001100?1010?11000011110011?1001001000000000?10000111111111111111111111111112
+Grampus_griseus                     01000000002?0001000?010011001?1010001??00000011010110111111101000?10000001000000?0?11100110111010000001301001010?000?21?11011111010001100?1010?11000011110011?1001021000000000?10000111111111111111111111111112
+Hyperoodon_planifrons               01001010100200010010110001001??000002130000000?01100010101100100000002200100010100?002020000110100110?0200000010?001120?1101101101110110110010?0???????110000011010?1000000000?10000111111111111111111111111112
+Inia_geoffrensis                    01001001010?1101?00?010001001?0010000??10100111010000110011011010111011200010000?0?111?2110111010000?01012000210?000?21?1101101101000110110?10?110?10011100???000??02000000000?10000111111111111111111111111112
+Kogia_breviceps                     01101100000?0101010?01000100110012?????0100000?010000100011?01000000021000000000?0?00200001011110001010200000011?110?1?1110?101500???1010?0?0??0???????00?000?000??21000000000?10000111111111111111111111111112
+Kogia_simus                         01101100000?0101010?01000100110012?????0100000?010000100011?01000000020000000000?0?00200001011110001010200000011?11121?1110?101500???1010?0?0??0???????00?000?000??21000000000?10000111111111111111111111111112
+Lagenodelphis_hosei                 01000000002?0001000?010011001?1010001??00000011010110111111101000110011000000000?0?1110011?1110100?0001301001010?000?21?11011111010001100?1011?11000011110010?1001001000000000?10000111111111111111111111111112
+Lagenorhynchus_acutus               01000000002?0001000?010001001?1010001??00000011010110111111101000110011000000000?0?11100110111010000001301001010?000?21?11011111010001100?1010?11000011110011?1001001000000000?10000111111111111111111111111112
+Lagenorhynchus_albirostris          01000000002?0001000?010001001?10?0001??000000110?0110111111101000?10011000000000?0?11100110111010000001301001010?000?21?11011111010001100?1011?11000011110010?10010?1000000000?10000111111111111111111111111112
+Lagenorhynchus_australis            01000000002?0001000?010001001?1010001??00000011010110111111101000110011000000000?0?11100110111010000001301001010?000?21?11011111010001100?1010?11000011110011?1001001000000000?10000111111111111111111111111112
+Lagenorhynchus_cruciger             01000000002?0001000?010001001?1010001??00000011010110111111101000110011000000000?0?11100110111010000001301001010?000?21?11011111010001100?1010?11000011110011?1001001000000000?10000111111111111111111111111112
+Lagenorhynchus_obliquidens          01000000002?0001000?010001001?1010001??00000011010110111111101000110011000000000?0?11100110111010000001301001010?000?21?11011111010001100?1010?11000011110011?1001001000000000?10000111111111111111111111111112
+Lagenorhynchus_obscurus             01000000002?0001000?010001001?1010001??00000011010110111111101000110011000000000?0?1110011?1110100?0001301001010?000?21?11011111010001100?1010?11000011110011?1001001000000000?10000111111111111111111111111112
+Lipotes_vexillifer                  01000001010?0001000?010001101??010000??10000011010110110011111000111011100000000?0?11112110111010110100010000210?000?21?1101111301000110111010?110?10010100???000??11000000000?10000111111111111111111111111112
+Lissodelphis_borealis               01000000002?0001000?010011001?1010001??00000011010110111111101000110011000000000?0?11100110111010000001301001010?000?21?11011111010001100?1010?11000011110011?1001000000000000?10000111111111111111111111111112
+Lissodelphis_peronii                01000000002?0001000?010011001?10?0001??000000110?011?111111101000110011000000000?0?1110011?1110100?00?1301001010?000?21?11011111010001100?1010?11000011110011?1001010000000000?10000111111111111111111111111112
+Megaptera_novaeangliae              10000000000?0100??0?000000000?0000101??0000000?100001000000000000000122????????0???00100?0000000000??0?0001??100?001000010??000700???0?00?0?0??0???????????00?0?00?11111100000001111000111111111111111111111112
+Mesoplodon_bidens                   01001010100200010010110001001?1100002130000000?011000101011001000000022021000111113002020000110100110?0?00000010?001120?1101101101111110101010?0???????110000111010?1000000000?10000111111111111111111111111112
+Mesoplodon_carlhubbsi               01001010100200010010110001011?1100002130000000?0110001010110010000000220210001011120020200?0110100?1010?00000010?001120?1101101101111110101010?0???????110000101110?1000000000?10000111111111111111111111111112
+Mesoplodon_densirostris             01001010100200010010110001001?1100002130000000?01100010101100100000002202100012120?002020000110100110?0?00000010?001120?1111101101111110100010?0???????11000011101121000000000?10000111111111111111111111111112
+Mesoplodon_europaeus                01001010100200010010110001001?1100002130000000?01100010101100100000002202100010111100202000011010011010?00000010?001120?110110110111111010??10?0???????110000111010?1000000000?10000111111111111111111111111112
+Mesoplodon_ginkgodens               01001010100200010010110001001?1100002130000000?011000101011001000000022021000101111002020000110100110?0?00000010?001120?110110110111111010??10?0???????110000111010?1000000000?10000111111111111111111111111112
+Mesoplodon_grayi                    01001010100200010010110001001?1100002130000000?0110001010110010000000220210001011110020200?0110100?1010?00000010?001120?110110110111111010??10?0???????110000111010?1000000000?10000111111111111111111111111112
+Mesoplodon_hectori                  01001010100200010010110001001?1100002130000000?0110001010110010000000220210001?10100020200?0110100?10?0?00000010?001120?110110110111111010??10?0???????110000111010?1000000000?10000111111111111111111111111112
+Mesoplodon_layardii                 01001010100200010010110001001?1100002130000000?0110001010110010000000220210001111140020200?0110100?10?0?00000010?001120?110110110111111010??10?0???????110000111010?1000000000?10000111111111111111111111111112
+Mesoplodon_peruvianus               01001010100200010011110001001?11000010?0000000?011000101011001000?00022021000?0120?0??020000110100110?????????10?00112??11??????????????????????????????????????????1000000000?100?0???111111111111111111111112
+Mesoplodon_stejnegeri               01001010100200010010110001001?1100002130000000?011000101011001000000022021000111213002020000110100110?0?00000010?001120?1101101101111110101010?0???????110000111011?1000000000?10000111111111111111111111111112
+Monodon_monoceros                   11000000000?0??1000?010011001?1010000??00000010110001101111101000?10022000000100?0?1110011011101000000000100??10?000?21?1101111101000110111010?110?0001111111?0001000000000000?10000111111111111111111111111112
+Neophocaena_phocaenoides            01000000001?1111000?010011001?1010010??10000011110101111011101110110011010000000?0?113011101110100000?1301001110?000?21?1101111101000110111110?11110111111001?1001000000000000?10010111111111111111111111111112
+Orcaella_brevirostris               01000000002?0001000?010011001?1010001??00000011110101111111101000110011000000000?0?11100110111010000000301000110?000?21?11011111010001100?1010?11000011110011?1001021000000000?10000111111111111111111111111112
+Orcinus_orca                        01000000002?0001000?010011001?1010001??00000011010110111111101000110000000000000?0?111001101110100000?1301000110?000?21?11011111010001100?1010?11000011110011?1001001000000000?10000111111111111111111111111112
+Peponocephala_electra               01000000002?0001000?010011001?1010001??00000011010110111111101000?10011000000000?0?11100110111010000001301001010?000?21?11011111010001100?1010?11000011110011?1001001000000000?10000111111111111111111111111112
+Phocoena_phocoena                   01000000001?1101100?010011001?1010010??100000111?0101111011101110110011010000000?0?11301110111010000001301001010?000?21?1100111101000110111110?11110111111001?10010?1000000000?10000111111111111111111111111112
+Phocoena_sinus                      01000000001?1101100?010011001?1010010??100000111?0101111011101110110011010000000?0?11301110111010000001301001010?000?21?1100111101000110111110?11110111111001?10010?1000000000?10000111111111111111111111111112
+Phocoena_spinipinnis                01000000001?1111100?010011001?1010010??10000011110101111011101110110011010000000?0?11301110111010000001301001010?000?21?1101111101000110111110?1111?111111001?10010?1000000000?10000111111111111111111111111112
+Phocoenoides_dalli                  01000000001?1101100?010011001?1010010??1000001?1?0111111011101110?10011000000000?0?11301110111010000001301001010?000?21?1101111101000110111110?11110111111001?1001001000000000?10000111111111111111111111111112
+Physeter_catadon                    0110110000??0101010?010001001000?1000??0100000?010000100011001000001021000000000?0?002000010110100010??100000010?1112101110?100410???1010?0?0??0???????00?000?000??02000000000?10000111111111111111111111111112
+Platanista_gangetica                01001001000?0001?00?010101001?1010000??0001100?000100010011001011111011000001000?0?0111210011001111010?00011?210?000?2??1101111601010110111010?0???????0100???000??12000000000?10000111111111111111111111111112
+Pontoporia_blainvillei              00000001010?1111000?111001101?1010100??10100010000100110011101000111011000100000?0?1130211011111000000101100?210?000?21?1101101101000110110?10?110?10011100???000??11000000000?10000111111111111111111111111112
+Pseudorca_crassidens                01000000002?0001000?010011001?1010001??0000001?010000111111101000110000000000000?0?1110011?1110100?0001301001010?000?21?11011111010001100?1010?11000011110010?1001001000000000?10000111111111111111111111111112
+Sotalia_fluviatilis                 01000000002?0001000?010011001?1010001??00000011010110111111101000?10011000000000?0?11100110111010000001301001010?000?21?11011111010001100?1010?11000011110011?1001001000000000?10000111111111111111111111111112
+Sousa_chinensis                     01000000002?0001000?010011001?1010001??00000011010110111111101000?10011000000000?0?11100110111010000001301001010?000?21?11011111010001100?1010?11000011110011?1001001000000000?10000111111111111111111111111112
+Sousa_teuszii                       01000000002?0001000?010011001?1010001??00000011010110111111101000?10011000000000?0?11100110111010000001301001010?000?21?11011111010001100?1010?11000011110011?1001001000000000?10000111111111111111111111111112
+Stenella_attenuata                  01000000002?0001000?010011001?1010001??00000011010110111111101000?10011000000000?0?11100110111010000001301001010?000?21?11011111010001100?1010?11000011110011?1001001000000000?10000111111111111111111111111112
+Stenella_clymene                    01000000002?0001000?010011001?1010001??00000011010110111111101000?10011000000000?0?11100110111010000001301001010?000?21?11011111010001100?1010?11000011110011?1001001000000000?10000111111111111111111111111112
+Stenella_coeruleoalba               01000000002?0001000?010011001?1010001??00000011010110111111101000?10011000000000?0?11100110111010000001301001010?000?21?11011111010001100?1010?11000011110011?1001001000000000?10000111111111111111111111111112
+Stenella_frontalis                  01000000002?0001000?010011001?1010001??00000011010110111111101000?10011000000000?0?11100110111010000001301001010?000?21?11011111010001100?1010?11000011110011?1001001000000000?10000111111111111111111111111112
+Stenella_longirostris               01000000002?0001000?010011001?1010001??00000011010110111111101000?10011000000000?0?11100110111010000001301001010?000?21?11011111010001100?1010?11000011110011?1001001000000000?10000111111111111111111111111112
+Steno_bredanensis                   01000000002?0001000?010011001?1010001??00000011010110111111101000110011100000000?0?11100110111010000001301001010?000?21?11011111010001100?1010?11000011110010?10010?1000000000?10000111111111111111111111111112
+Tasmacetus_shepherdi                01000010100100010010110001001??000002000000000?01100010101100100000001100100000100?002020000110100110?0?00000010?001121?1101101101110110100010?0???????11000001101021000000000?10000111111111111111111111111112
+Tayassua_tajacu                     1000000000??01????0?100000000?1000100??0010000?1000?1??000000?0000000000000?0000?0??????????00?????????0??0?0000?000?0?00?????10?0???0?00?0?0??0???????00??00?0?00?00000001000?00100000000000000000000000000000
+Tragulus_napu                       0000000000??0100??0?000000000?1000100??00?000??1000?1??000000?000?000000000?0000?0??????????00?????????0??0?0000?000?0?00?????10?0???0?00?0?0??0???????00??00?0?00??0000001000?00100000000000000000000000000000
+Tursiops_truncatus                  01000000002?0001000?010011001?1010001??00000011010110111111101000110011000000000?0?111?0110111010000001301001010?000?21?11011111010001100?1010?11000011110011?1001001000000000?10000111111111111111111111111112
+Ziphius_cavirostris                 01011010100000010?11110001001??100102020000000?01100010101100100000002200100010100?00202000011010011010?000000101001120?110110110111011010001010???????11000001101021000000000?10000111111111111111111111111112
+
+;
+
+
+cnames
+{ 0 Facial_plane concave flat_to_convex_(Heyning_1989);
+{ 1 Cranial_vertex symmetric asymmetric_(Muizon_1988_Heyning;
+{ 2 Supracranial_basin absent present_(Abel_1905_Heyning_1989;
+{ 3 Prenarial_basin absent present_(True_1910_Mead_1975_He;
+{ 4 Premaxillae symmetric asymmetric;
+{ 5 Premaxillae_1 left_premaxilla_lies_lateral_to left_premaxilla_enters_left_na;
+{ 6 Premaxillae_2 do_not_contribute_to_vertex_of contribute_to_vertex_(Moore_196;
+{ 7 Premaxillae_3 dorsomedial_surfaces_of_premaxi dorsomedial_surfaces_of_premaxi[state_1];
+{ 8 Premaxillae_4 thin_and_plate_to_like_over_ent thin_and_plate_to_like_anterior;
+{ 9 Fremaxillae not_displaced_laterally_from_na displaced_laterally_from_narial;
+{ 10 Premaxillae_5 no_reduction_of_posterior_edge reduction_of_posterior_edge_of only_ieft_posterior_edge_of_pro;
+{ 11 Premaxillae_at_vertex_of_skull do_not_project_more_anteriorly right_premaxilla_projects_more both_premaxillae_project_more_a;
+{ 12 Ascending_processes_of_premaxil bosses_absent bosses_present_(Flower_1867_Mui;
+{ 13 Premaxillary_sac_fossae present absent_(Heyning_1989);
+{ 14 Premaxillary_artery_grooves posterolateral_groove_does_not posterolateral_groove_does_exte;
+{ 15 Premaxillary_foremen absent present;
+{ 16 Premaxillary_foremen_shape round laterally_compressed_(Muizon_19;
+{ 17 Premaxillary_foremen_size right_and_left_equal left_much_larger_than_right;
+{ 18 Premaxillary_crest absent present_(Moore_1968);
+{ 19 Posterior_extremity_of_premaxil not_angled_inward_(faces_anteri angled_inward_(faces_medially);
+{ 20 Maxillary_to_premaxillary_sutur separate fused;
+{ 21 Maxillae abut_supraorbital_processes_of overlay_supraorbital_process_of;
+{ 22 Maxillae_1 no_crest low_crest_forms_on_supraorbital;
+{ 23 Maxillae_2 no_crest pneumatic_maxillary_crest_prese;
+{ 24 Medial_maxillary_processes absent present_(Muizon_1984_1988);
+{ 25 Facial_depression_for_maxillona absent present_(Mead_1975);
+{ 26 Rostral_portion_of_maxillae not_constricted_at_proximal_bas constricted_at_proximal_base_(M;
+{ 27 Antorbital_tubercle_(=_maxillar absent present_(Moore_1963_Heyning_198;
+{ 28 Antorbital_notch_at_base_of_ros absent present_(Moore_1963_Heyning_198;
+{ 29 Antorbital_process_at_base_of_r lies_along_lateral_edge_of_cran lies_within_supracranial_basin;
+{ 30 Vomer exposed_between_maxillae_on_pal not_exposed_between_maxillae_on;
+{ 31 Mesorostral_canal not_ossified ossified_(Moore_1963_Heyning_19;
+{ 32 Lacrimal_and_jugal_bones not_fused fused_(Flower_1869_Schulte_1917;
+{ 33 Number_of_nasal_bones two one zero_(Kuzmin_1977_Heyning_1989;
+{ 34 Shape_of_nasals_in_dorsal_view anteroposteriorly_compressed anteroposteriorly_elongate_(Mui;
+{ 35 Nasal_protuberances absent present_(Muizon_1988);
+{ 36 Nasals do_not_extend_as_high_as_fronta are_same_height_as_frontals raised_higher_than_frontals_(Mu;
+{ 37 Nasals_1 right_nasal_lies_between_premax right_nasal_does_not_lie_betwee;
+{ 38 Anterior_surface_of_nasals incline_vertically_(flat) incline_posteriorly_to_vertical incline_convex incline_anteriorly_to_vertical;
+{ 39 Narial_fossae do_not_face_ventrolaterally face_ventrolaterally;
+{ 40 Narial_fossae_1 symmetric left_much_larger_than_right;
+{ 41 Palatines not_fused_with_maxillae fused_with_maxillae_(Muizon_198;
+{ 42 Palatines_1 not_covered_by_pterygoids covered_by_pterygoids_(Muizon_1;
+{ 43 Palatines_2 positioned_medially positioned_laterally_(Muizon_19;
+{ 44 Palatine_grooves absent present_(Muizon_1984);
+{ 45 Lateral_plates_of_palatines absent present_(Muizon_1984_1988_1991);
+{ 46 Lateral_plates_of_palatines_1 do_not_form_bony_bridge_over_or form_bony_bridge_over_orbit_(Mu;
+{ 47 Pterygoids meet_at_midline widely_separated_(Flower_1883_M;
+{ 48 Lateral_plate_of_pterygoids present absent_(Kellogg_1936_Fraser_and;
+{ 49 Pterygoid_hamuli small large_(Heyning_1989_Muizon_1991;
+{ 50 Lateral_plates_of_pterygoid_ham absent present_(Muizon_1984);
+{ 51 Pterygoid_hamuli_1 have_smooth_ventral_surface have_ventral_keels_(Muizon_1988;
+{ 52 Pterygoid_hamuli_2 meet_at_midline separated;
+{ 53 Pterygoid_sinus does_not_expand_into_temporal_f expands_into_temporal_fossa_(Mu;
+{ 54 Pre_and_postorbital_lobes_of_pt absent present_(Muizon_1988_Heyning_19;
+{ 55 Temporal_fossa not_roofed_over_by_lateral_expa roofed_over_by_lateral_expansio;
+{ 56 Mesethmoid not_expanded_posterodorsally expanded_posterodorsally_(Muizo;
+{ 57 Mesethmoid_1 roofed_over_by_nasals exposed_dorsally_(Miller_1923);
+{ 58 Ethmoturbinal_bones present absent_(Yablokov_1964);
+{ 59 Exposed_surface_of_frontals greater_than_area_of_nasals less_than_or_equal_to_area_of_n;
+{ 60 Supraorbital_processes_of_front not_raised_dorsally raised_dorsally angled_ventrally_and_greatly_el;
+{ 61 Supraorbital_processes_of_front_1 no_temporal_muscle_attachment temporal_muscle_attachment_(Mea;
+{ 62 Frontals not_excavated_by_air_sinus excavated_by_air_sinus_(Muizon;
+{ 63 Frontal_protuberance_on_vertex absent present_(Muizon_1984_1988);
+{ 64 Spiny_process_of_the_squamosal absent present_(Muizon_1987);
+{ 65 Cranial_hiatus absent present_(Heyning_1989);
+{ 66 Posterior_sinus absent present_(Muizon_1984_1991);
+{ 67 Mandibular_symphysis extends_less_than_half_of_the_l extends_greater_than_half_of_th;
+{ 68 Mandibular_symphysis_1 mandibles_fused mandibles_connected_by_ligament;
+{ 69 Tooth_number_of_upper_jaw 7_to_11_in_each_side_of_each_ja polydont_(greater_than_11_teeth reduction_of_teeth_(less_than_7;
+{ 70 Tooth_number_of_lower_jaw 7_to_11_in_each_side_of_each_ja polydont_(greater_than_11_teeth reduction_of_teeth_(less_than_7;
+{ 71 Tooth_enamel smooth reticulate nodular_(Zhou_1982);
+{ 72 Teeth conical spatulate laterally_compressed_(Moore_196;
+{ 73 Teeth_1 deeply_rooted not_deeply_rooted_(Moore_1968);
+{ 74 Base_of_teeth conical exhibit_annular_swelling_(Muizo;
+{ 75 Accessory_shelf_on_posterior_te absent present_(Flower_1867);
+{ 76 Upper_tooth_rows separated_and_diverged tightly_spaced_and_run_parallel;
+{ 77 Teeth_in_females erupt_in_adulthood do_not_erupt_in_adulthood_(Moor;
+{ 78 Teeth_in_males oriented_vertically incline_posteriorly incline_anteriorly_(Moore_1968);
+{ 79 Enlarged_apical_mandibular_teet absent present_(Heyning_1989_Mead_1989;
+{ 80 Location_of_enlarged_apical_man apical on_mandibular_symphysis posterior_to_mandibular_symphys;
+{ 81 Denticles_on_teeth absent present_(McCann_1962_Moore_1968;
+{ 82 Location_of_denticles_on_teeth posterior_edge medial_edge between_medial_and_anterior_edg anterior_edge lateral_edge;
+{ 83 Tympano_to_squamosal_suture present absent_(Kasuya_1973_Muizon_1984;
+{ 84 Posterior_process_of_the_tympan equal_to_or_greater_in_size_tha much_smaller_in_size_than_tympa;
+{ 85 Density_of_bone_of_posterior_pr smooth_bone spiny_or_irregular_edges cauliflower_to_like_bony_growth rounded_and_pachyostotic_(Kasuy;
+{ 86 Anterior_spine_of_the_tympanic absent present_(Kasuya_1973_Muizon_198;
+{ 87 Lateral_furrow_of_the_tympanic absent shallow_groove deep_well_to_defined_groove_(Ka;
+{ 88 Sigmoid_process_of_the_tympanic anteriorly_to_anteroiaterally laterally_to_posterolaterally_(;
+{ 89 Involucrum_of_tympanic not_excavated excavated_(Muizon_1988);
+{ 90 Involucrum_of_tympanic_1 anterior_portion_not_expanded anterior_portion_expanded_(Muiz;
+{ 91 Size_of_bone_of_anterior_proces equal_to_or_greater_than_size_o much_smaller_than_pars_cochlea;
+{ 92 Anterior_process_of_periotic_an present absent_(ligamentous)_(Heyning_1;
+{ 93 Posterior_process_of_periotic_a present absent_(ligamentous)_(Fraser_an;
+{ 94 Shape_of_bone_of_posterior_proc robust thin_plate_(Kasuya_1973);
+{ 95 Size_of_bone_of_posterior_proce much_larger_than_pars_cochlea smaller_than_pars_cochlea_(Yama;
+{ 96 Articular_process_of_the_periot absent present_(Muizon_19#7_Messenger;
+{ 97 Styloid_process_on_the_anterior absent present_(Muizon_1988);
+{ 98 Epitubarienne_fossa absent present_(Kellogg_1936_Muizon_19;
+{ 99 Internal_aperture_of_the_fallop lies_within_internal_auditory_m does_not_lie_within_internal_au;
+{ 100 Internal_auditory_meatus pyriform circular_(Muizon_1984);
+{ 101 Tuberculum_of_malleus large_such_that_malleus_is_elon nearly_absent_such_that_the_mal;
+{ 102 Muscular_process_of_the_malleus smaller_than_the_manubrium larger_than_the_manubrium_(Muiz;
+{ 103 Cervical_vertebrae unfused C2_to_C7_fused C1_to_C7_fused Cl_C2_fused_(De_Smet_1977_Romme;
+{ 104 Transverse_processes_of_the_lum anterior_and_posterior_border_r triangular_(Muizon_1984_1985_19;
+{ 105 Ventrolateral_processes_of_the absent present_in_the_form_of_small_ra present_as_well_to_developed_el;
+{ 106 Coracoid_process_of_the_scapula present absent_(True_1904_Muizon_1984_1;
+{ 107 Acromion_process_of_the_scapula lies_along_lateral_edge_of_scap lies_along_anterior_edge_of_sca;
+{ 108 Deltopectoral_tuberosity_of_hum lies_at_proximal_end_of_humerus lies_midway_down_the_humeral_sh;
+{ 109 Olecranon_process_of_the_ulna present_as_a_distinct_process present_as_a_slightly_raised_pr absent_(Muizon_1984);
+{ 110 Panbone_in_mandible absent_(mandible_solid) present;
+{ 111 False_gills absent present_(Leatherwood_and_Reeves;
+{ 112 Prenarial_basin_1 not_fat_filled fat_filled;
+{ 113 Spermaceti_organ absent present_(Norris_and_Harvey_1972;
+{ 114 Museau_de_singe absent present_(Norris_1964_Cranford_e;
+{ 115 Throat_grooves absent present;
+{ 116 Throat_groove_shape multiple_parallel single_V_to_shaped irregular_in_number_and_shape;
+{ 117 Nasal_passages separate separate_until_just_proximal_to confluent;
+{ 118 Nasal_passages_1 oriented_vertically angled_anteriorly;
+{ 119 Left_nasal_passage straight U_to_shaped;
+{ 120 Melon absent present;
+{ 121 Melon_1 small_compared_to_that_of_odont large_(Heyning_and_Mead_1990);
+{ 122 Melon_2 not_divided_by_connective_tissu divided_by_connective_tissue;
+{ 123 Melon_3 does_not_extend_into_right_nasa extends_into_right_nasal_plug;
+{ 124 Nasal_plug symmetric asymmetric;
+{ 125 Nasal_plug_1 does_not_have_lateral_lips has_lateral_lips;
+{ 126 Cartilage_in_nasal_septum absent present;
+{ 127 Blowhole_shape comma_to_shaped_openings transverse_crescentic_apices_fa transverse_crescentic_apices_fa[state_2] longitudinal_rectangle sigmoidally_shaped_longitudinal transverse_crescentic_apices_ac longitudinal_slit diagonal_V_to_shaped;
+{ 128 Blowhole_location midpoint_of_rostrum apex_of_rostrum;
+{ 129 Blowhole_ligament absent present;
+{ 130 Blowhole_ligament_1 not_appressed_against_skull appressed_against_skull;
+{ 131 Cartilage_in_blowhole_ligament absent present;
+{ 132 Blowhole_ligament_2 not_attached_to_lateral_premaxi attached_to_lateral_premaxilla;
+{ 133 Proximal_sacs_(nasal_sac) absent present;
+{ 134 Proximal_sacs_(nasal_sac)_1 modified_into_frontal_sac modified_into_inferior_vestibul;
+{ 135 Distal_sac_(nasal_sac) absent present;
+{ 136 Posterior_nasal_sacs absent present;
+{ 137 Posterior_nasal_sacs_1 single divided;
+{ 138 Nasofrontal_sac_(anterior_secti absent present;
+{ 139 Nasofrontal_sac anterior_sac_smooth anterior_sac_trabeculate;
+{ 140 Premaxillary_sacs_(nasal_sac) absent present;
+{ 141 Premaxillary_sacs_(nasal_sac)_1 no_diverticula lateral_diverticula_in_right_pr;
+{ 142 Premaxillary_cleft not_filled_with_connective_tiss filled_with_connective_tissue_a;
+{ 143 Vestibular_sac_(nasal_sac) absent present;
+{ 144 Vestibular_sac_(nasal_sac)_1 not_pigmented lined_with_black_pigment;
+{ 145 Vestibular_sac_(nasal_sac)_2 floor_not_rigid floor_rigid;
+{ 146 Vestibular_sac_(nasal_sac)_3 undivided bilaterally_divided;
+{ 147 Vestibular_sac_(nasal_sac)_4 right_and_left_side_same_size right_side_larger;
+{ 148 Vestibular_sac_(nasal_sac)_5 no_intrinsic_muscle_in_sac intrinsic_muscle_in_sac;
+{ 149 Vestibular_sac_(nasal_sac)_floo smooth wrinkled;
+{ 150 Inferior_vestibule symmetric asymmetric;
+{ 151 Accessory_sacs_(nasal_sac) absent present;
+{ 152 Diagonal_membrane absent present;
+{ 153 Spiracular_plate smooth rugose;
+{ 154 Spiracular_cavity slitlike round;
+{ 155 Pars_posteroexternus_muscle absent present;
+{ 156 Pars_intermedius_muscle absent present;
+{ 157 Pars_anteroexternus_muscle does_not_extend_over_premaxilla extends_over_premaxilla;
+{ 158 Pars_posterointernus_muscle absent present;
+{ 159 Pars_anterointernus_muscle 1_insertion 2_insertion;
+{ 160 Vertex_muscle absent present;
+{ 161 Rostral_muscle absent present;
+{ 162 Rostral_muscle_1 does_not_originate_from_mandibl originates_from_mandible;
+{ 163 Sexual_dimorphism males_larger_than_females females_larger_than_males males_and_females_same_size_(Le;
+{ 164 Dorsal_fin absent present dorsal_hump_(Leatherwood_and_Re;
+{ 165 Maxillae_3 abut_supraorbital_process extend_posteriorly_beneath_supr;
+{ 166 Temporal_crest lies_at_ventral_surface_of_supr lies_at_dorsal_surface_of_supra;
+{ 167 Baleen absent present;
+{ 168 Palate narrow_with_flat_ventral_surfac wide_with_prominent_ventral_kee;
+{ 169 Rostrum straight transversely_compressed_and_arc transversely_compressed_and_ext;
+{ 170 Mandible mandibular_condyle_slightly_cur mandibular_condyle_rounded_and;
+{ 171 Dentary narrow_and_straight expanded_and_arched_dorsoventra;
+{ 172 Squamosal glenoid_fossa_and_zygomatic_por glenoid_fossa_and_zygomatic_por[state_1];
+{ 173 Pterygoids_1 do_not_reach_the_basicranium_po extend_posteriorly_beneath_basi;
+{ 174 Baleen_plates short_(less_than_6%_of_body_len long_(greater_than_15%_of_body;
+{ 175 Nucleus_of_lateral_olfactory_ne present absent_(Pilleri_and_Gihr_1970);
+{ 176 Ribs first_rib_not_attached_to_cervi first_rib_attached_to_several_c;
+{ 177 Manus pentadactyl tetradactyl_(Yablokov_1964_Van;
+{ 178 Sternum comprised_of_several_bones comprised_of_one_bone_(Yablokov;
+{ 179 Sternum_1 several_ribs_attach_to_sternum one_rib_attaches_to_sternum_(Ya;
+{ 180 Tympanic_membrane present_in_the_form_of_a_thin_c present_in_the_form_of_"glove_f;
+{ 181 Tympanic_bulla not_attached_to_mandibular_ramu attached_to_posterior_margin_of;
+{ 182 Middle_ear_ossicles ligamentous_attachment_to_bulla fused_to_bulla_and_joints_stiff;
+{ 183 Horizontal_caudal_fluke_for_pro absent present;
+{ 184 Flippers_as_forelimbs absent present;
+{ 185 External_hind_limbs present absent;
+{ 186 Sacral_segment_of_the_vertebrae present absen;
+{ 187 Cervical_vertebrae_1 not_compressed anteroposteriorly_compressed;
+{ 188 Haemal_arches_with_caudal_verte absent present;
+{ 189 Rotational_movement_in_the_elbo present absent;
+{ 190 Middle_ear_sinus does_not_surround_region_of_tym extends_into_the_region_around;
+{ 191 Mandibular_foremen small large;
+{ 192 External_hair present absent_or_extremely_reduced;
+{ 193 Blubber absent present;
+{ 194 Gall_bladder present absent;
+{ 195 True_vocal_cords present absent;
+{ 196 Palatine_foramina present absent;
+{ 197 Falcate_processes_of_the_basioc small large;
+{ 198 Maxillary_foramina single multiple;
+{ 199 Vomer_1 does_not_extend_posteriorly_to extends_onto_basicranium_coveri;
+{ 200 Number_of_phalanges three greater_than_3;
+{ 201 Eustachian_tube does_not_enter_pterygoid_sinus expanded_into_pterygoid_sinus;
+{ 202 Primary_blood_supply_to_brain by_way_of_internal_carotid_arte by_way_of_intravertebral_rete_m;
+{ 203 External_auditory_meatus large_with_clear_opening_to_aud small_and_obstructed_by_dense_c;
+{ 204 Body not_fusiform torpedo_shaped_or_fusiform;
+{ 205 Crus_longum_of_incus elongate_and_thin shortened_and_greatly_inflated;
+{ 206 Mallear_joint_of_incus opposite_crus_longum rotated_4¡ rotated_90¡_(Thewissen_and_Huss;
+;
+
+
+ccode  - 0.206;
+
+
+;

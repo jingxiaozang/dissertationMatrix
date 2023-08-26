@@ -1,0 +1,90 @@
+IQ-TREE multicore version 1.6.12 for Windows 64-bit built Aug 15 2019
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    LAPTOP-L33PKUPE (AVX2, FMA3, 15 GB RAM)
+Command: iqtree.exe -s project157.NEX -st MORPH -m MK+ASC -nt AUTO
+Seed:    145607 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Fri Jul 14 08:46:23 2023
+Kernel:  AVX+FMA - auto-detect threads (20 CPU cores detected)
+
+Reading alignment file project157.NEX ... Nexus format detected
+Skipping unknown block (NOTES)...
+Alignment has 69 sequences with 408 columns, 408 distinct patterns
+387 parsimony-informative, 20 singleton sites, 1 constant sites
+                Gap/Ambiguity  Composition  p-value
+   1  Nanolestes       72.79%    failed      0.00%
+   2  Peramus          70.59%    failed      0.00%
+   3  Vincelestes       9.31%    failed      0.00%
+   4  Kielantherium    81.86%    passed     35.45%
+   5  Deltatheridium   36.03%    failed      0.07%
+   6  Mayulestes       16.42%    failed      0.01%
+   7  Pucadelphys      10.29%    failed      0.05%
+   8  Eomaia           55.39%    failed      0.15%
+   9  Prokennalestes   55.39%    failed      0.02%
+  10  Murtoilestes     85.54%    passed     89.76%
+  11  Bobolestes       74.02%    passed     52.80%
+  12  Montanalestes    84.07%    passed     94.00%
+  13  Paranyctoides    75.25%    passed     47.33%
+  14  Eozhelestes      90.44%    passed     63.29%
+  15  Sheikhdzheilia   83.33%    passed     50.36%
+  16  Alostera         85.78%    failed      0.01%
+  17  Lainodon         94.36%    passed      8.73%
+  18  Avitotherium     83.33%    passed     13.24%
+  19  Gallolestes      89.71%    passed     14.86%
+  20  Parazhelestes    63.48%    passed     10.32%
+  21  Aspanlestes      64.95%    passed     16.49%
+  22  Zhelestes        61.52%    passed     61.18%
+  23  Cimolestes       63.73%    passed     54.07%
+  24  Maelestes        25.49%    passed     24.44%
+  25  Batodon          75.25%    passed     79.98%
+  26  Bulaklestes      76.23%    passed     86.05%
+  27  Daulestes        76.96%    passed     77.47%
+  28  Uchkudukodon     41.42%    passed      5.48%
+  29  Kennalestes      27.94%    passed     36.90%
+  30  Asioryctes       19.12%    failed      1.24%
+  31  Ukhaatherium     15.44%    passed      5.56%
+  32  Deccanolestes    72.79%    passed     66.51%
+  33  Kulbeckia        54.41%    passed     49.50%
+  34  Zhangolestes     87.75%    passed     99.59%
+  35  Alymlestes       94.85%    failed      3.48%
+  36  Zalambdalestes   15.20%    passed     70.01%
+  37  Barunlestes      31.62%    passed     55.59%
+  38  Gypsonictops     71.08%    failed      0.95%
+  39  Leptictis         5.39%    passed     53.04%
+  40  Purgatorius      75.49%    passed     14.47%
+  41  Protungulatum    51.47%    passed     14.39%
+  42  Oxyprimus        75.98%    failed      0.77%
+  43  Vulpavus         24.51%    passed     63.46%
+  44  Miacis           33.82%    passed     21.77%
+  45  Diacodexis       23.28%    passed     89.48%
+  46  Hyopsodus        12.01%    passed     70.25%
+  47  Meniscotherium   10.54%    passed     38.25%
+  48  Phenacodus       16.67%    passed     11.75%
+  49  Ptilocercus       3.92%    passed     53.06%
+  50  Plesiadapis      16.91%    failed      4.69%
+  51  Northarctus      12.75%    passed     24.49%
+  52  Adapis           18.63%    passed      9.24%
+  53  Tribosphenomys   63.48%    failed      0.00%
+  54  Paramys          18.14%    failed      0.00%
+  55  Rhombomylus      16.67%    failed      0.00%
+  56  Gomphos          33.33%    failed      0.01%
+  57  Mimotona         71.08%    failed      0.00%
+  58  Blarina          13.73%    passed     18.70%
+  59  Erinaceus         8.09%    passed     32.62%
+  60  Solenodon         8.58%    passed     16.03%
+  61  Eoryctes         51.47%    passed     83.36%
+  62  Potamogale        7.84%    passed     67.83%
+  63  Orycteropus      33.58%    failed      0.13%
+  64  Rhynchocyon      10.29%    failed      3.63%
+  65  Procavia          9.31%    failed      0.05%
+  66  Moeritherium     35.29%    passed      7.07%
+  67  Chaetophractus   30.88%    passed      7.37%
+  68  Bradypus         33.58%    passed     28.31%
+  69  Tamandua         40.44%    passed     87.71%
+WARNING: 33 sequences contain more than 50% gaps/ambiguity
+****  TOTAL            45.80%  22 sequences failed composition chi2 test (p-value<5%; df=5)
+Creating fast initial parsimony tree by random order stepwise addition...
+0.180 seconds, parsimony score: 2345 (based on 407 sites)
+ERROR: For your convenience alignment with variable sites printed to project157.NEX.varsites.phy
+ERROR: Invalid use of +ASC because of 1 invariant sites in the alignment

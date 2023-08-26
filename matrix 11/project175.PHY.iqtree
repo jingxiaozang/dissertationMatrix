@@ -1,0 +1,420 @@
+IQ-TREE 1.6.12 built Aug 15 2019
+
+Input file name: project175.PHY
+Type of analysis: tree reconstruction
+Random seed number: 248347
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Lam-Tung Nguyen, Heiko A. Schmidt, Arndt von Haeseler, and Bui Quang Minh
+(2015) IQ-TREE: A fast and effective stochastic algorithm for estimating
+maximum likelihood phylogenies. Mol Biol Evol, 32:268-274.
+https://doi.org/10.1093/molbev/msu300
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 163 sequences with 71 morphological sites
+Number of constant sites: 0 (= 0% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 0 (= 0% of all sites)
+Number of parsimony informative sites: 70
+Number of distinct site patterns: 71
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: MK+FQ+ASC
+
+State frequencies: (equal frequencies)
+
+Model of rate heterogeneity: Uniform
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -2486.7168 (s.e. 267.4078)
+Unconstrained log-likelihood (without tree): -302.6503
+Number of free parameters (#branches + #model parameters): 323
+Akaike information criterion (AIC) score: 5619.4336
+Corrected Akaike information criterion (AICc) score: 214923.4336
+Bayesian information criterion (BIC) score: 6350.2792
+
+**************************** WARNING ****************************
+Number of parameters (K, model parameters and branch lengths): 323
+Sample size (n, alignment length): 71
+
+Given that K>=n, the parameter estimates might be inaccurate.
+Thus, phylogenetic estimates should be interpreted with caution.
+
+Ideally, it is desirable that n >> K. When selecting optimal models,
+1. use AIC or BIC if n > 40K;
+2. use AICc or BIC if 40K >= n > K;
+3. be extremely cautious if n <= K
+
+To improve the situation (3), consider the following options:
+  1. Increase the sample size (n)
+  2. Decrease the number of parameters (K) to be estimated. If
+     possible:
+     a. Remove the least important sequences from the alignment
+     b. Specify some of the parameter values for the substitution
+        model (e.g., the nucleotide or amino acid frequencies)
+     c. Specify some of the parameter values for the rates-across-
+        sites model (e.g., the shape parameter for the discrete
+        Gamma distribution, the proportion of invariable sites, or
+        the rates of change for different rate categories under
+        the FreeRate model)
+
+Reference:
+Burnham KR, Anderson DR (2002). Model Selection and Multimodel
+Inference: A Practical Information-Theoretic Approach. Springer,
+New York.
+************************ END OF WARNING ***********************
+
+Total tree length (sum of branch lengths): 7.2217
+Sum of internal branch lengths: 3.4844 (48.2485% of tree length)
+
+WARNING: 57 near-zero internal branches (<0.0141) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Manawastaceyi' is drawn at root
+
++---Manawastaceyi
+|
++**Nymphatelinagravida
+|
+|                                                                              +-------Colymbosathonecplecticos
+|                                                                           +--|
+|                                                                           |  +**Skogsbergiellaplocus
+|                                                                        +--|
+|                                                                        |  |  +**Skogsbergiellascotti
+|                                                                        |  +--|
+|                                                                        |     +--Skogsbergiellaspinifera
+|                                                                     +--|
+|                                                                     |  |  +**Archasteropedentata
+|                                                                     |  +**|
+|                                                                     |     |     +**Bathyleberisoculata
+|                                                                     |     |  +**|
+|                                                                     |     |  |  +**BathyleberisoculataJ57063
+|                                                                     |     +--|
+|                                                                     |        |  +**Diasteropegrisea
+|                                                                     |        +--|
+|                                                                     |           +--Diasteropeschmitti
+|                                                                  +**|
+|                                                                  |  +**Archasteropeapex_Archasteropealtrix
+|                                                               +--|
+|                                                               |  |                    +**Leuroleberismackenziei
+|                                                               |  |           +--------|
+|                                                               |  |           |        |     +**Leuroleberissharpei
+|                                                               |  |           |        |  +**|
+|                                                               |  |           |        |  |  |  +**Leuroleberissurugaensis
+|                                                               |  |           |        |  |  +--|
+|                                                               |  |           |        |  |     |  +--Alphaleberisalphathrix
+|                                                               |  |           |        |  |     +--|
+|                                                               |  |           |        |  |        |     +--Amboleberisamericana
+|                                                               |  |           |        |  |        |  +--|
+|                                                               |  |           |        |  |        |  |  +--Tetraleberissp.J570561
+|                                                               |  |           |        |  |        +--|
+|                                                               |  |           |        |  |           |           +--Cyclasteropefascigera
+|                                                               |  |           |        |  |           |        +--|
+|                                                               |  |           |        |  |           |        |  +--Cyclasteropebisetosa
+|                                                               |  |           |        |  |           |     +--|
+|                                                               |  |           |        |  |           |     |  +**Tetraleberisbrevis
+|                                                               |  |           |        |  |           |  +**|
+|                                                               |  |           |        |  |           |  |  +**Tetraleberistriplex
+|                                                               |  |           |        |  |           +**|
+|                                                               |  |           |        |  |              +**Tetraleberispix
+|                                                               |  |           |        +**|
+|                                                               |  |           |           |  +**Cycloleberisgalatheae
+|                                                               |  |           |           +--|
+|                                                               |  |           |              +**Cycloleberislobiancoi
+|                                                               |  |        +--|
+|                                                               |  |        |  +--Dolasteropejohanseni
+|                                                               |  |     +**|
+|                                                               |  |     |  +**Archasteropeantarctica
+|                                                               |  |  +--|
+|                                                               |  |  |  +--Archasteropequinquesetae
+|                                                               |  +--|
+|                                                               |     |           +--Archasteropeverax
+|                                                               |     |        +**|
+|                                                               |     |        |  |     +**Xandarasteropestorthynx
+|                                                               |     |        |  |  +--|
+|                                                               |     |        |  |  |  +--Xandarasteropetrux
+|                                                               |     |        |  +--|
+|                                                               |     |        |     +**Undetermined6undetermined6ZMHK42209
+|                                                               |     |     +**|
+|                                                               |     |     |  |     +--Skogsbergiellapax
+|                                                               |     |     |  |  +--|
+|                                                               |     |     |  |  |  +--Skogsbergiellasenex
+|                                                               |     |     |  +**|
+|                                                               |     |     |     +--ArchasteropebullaDS6
+|                                                               |     |  +--|
+|                                                               |     |  |  |  +**Bathyleberisbabax
+|                                                               |     |  |  +--|
+|                                                               |     |  |     |  +--Bathyleberismonothrix
+|                                                               |     |  |     +--|
+|                                                               |     |  |        +--Bathyleberisthrix
+|                                                               |     +--|
+|                                                               |        +**Archasteropebulla
+|                                                            +--|
+|                                                            |  +**Archasteropeefficax
+|                                                         +--|
+|                                                         |  |  +--Archasteropesp.J57065
+|                                                         |  +**|
+|                                                         |     +--Prionotoleberislux
+|                                                      +--|
+|                                                      |  |        +--Archasteropemonothrix
+|                                                      |  |     +--|
+|                                                      |  |     |  |     +--Bathyleberisgrossmani
+|                                                      |  |     |  |  +--|
+|                                                      |  |     |  |  |  +--Undetermined7undetermined7ZMHK42207
+|                                                      |  |     |  +--|
+|                                                      |  |     |     +**Domromeusmerx
+|                                                      |  |  +**|
+|                                                      |  |  |  |     +--Bathyleberisgarthi
+|                                                      |  |  |  |  +**|
+|                                                      |  |  |  |  |  |  +**Bathyleberishancocki
+|                                                      |  |  |  |  |  +--|
+|                                                      |  |  |  |  |     +--Bathyleberiskurilensis
+|                                                      |  |  |  +--|
+|                                                      |  |  |     |  +--Bathyleberistoxotes
+|                                                      |  |  |     +--|
+|                                                      |  |  |        |     +--Xenoleberisbex
+|                                                      |  |  |        |  +--|
+|                                                      |  |  |        |  |  +--Xenoleberiscalifornica
+|                                                      |  |  |        +--|
+|                                                      |  |  |           +**Xenoleberisyamadai
+|                                                      |  +**|
+|                                                      |     +**ArchasteropeefficaxJ57064
+|                                                   +--|
+|                                                   |  |  +--Diasteropewirraka
+|                                                   |  +**|
+|                                                   |     |  +--Diasteropepilosa
+|                                                   |     +--|
+|                                                   |        |  +**Undetermined3undetermined3J57075
+|                                                   |        +**|
+|                                                   |           |  +--Undetermined4undetermined4J57074
+|                                                   |           +**|
+|                                                   |              +--Undetermined5undetermined5J57073
+|                                                +**|
+|                                                |  |        +--Polyleberismackenziei
+|                                                |  |     +**|
+|                                                |  |     |  +--Synasteropeserrata
+|                                                |  |  +**|
+|                                                |  |  |  |     +--Synasteropebrachythrix
+|                                                |  |  |  |  +--|
+|                                                |  |  |  |  |  +**Synasteropearnaudi_Synasteropepsitticina
+|                                                |  |  |  +--|
+|                                                |  |  |     +**Synasteropecushmani
+|                                                |  +--|
+|                                                |     |     +**Cylindroleberisbacescui
+|                                                |     |  +--|
+|                                                |     |  |  |              +--Cylindroleberisgrimaldi
+|                                                |     |  |  |           +**|
+|                                                |     |  |  |           |  +**Cylindroleberissp.J57069
+|                                                |     |  |  |        +**|
+|                                                |     |  |  |        |  |     +**Cylindroleberisminuta
+|                                                |     |  |  |        |  |  +**|
+|                                                |     |  |  |        |  |  |  +**Cylindroleberisverrucosa
+|                                                |     |  |  |        |  +**|
+|                                                |     |  |  |        |     +**Cylindroleberisthailandica
+|                                                |     |  |  |     +--|
+|                                                |     |  |  |     |  +--Cylindroleberisvibex
+|                                                |     |  |  |  +**|
+|                                                |     |  |  |  |  |  +**Cylindroleberisvariabilis
+|                                                |     |  |  |  |  +**|
+|                                                |     |  |  |  |     +**Cylindroleberisvix
+|                                                |     |  |  +**|
+|                                                |     |  |     +--Cylindroleberismarranyin
+|                                                |     +--|
+|                                                |        |  +**Prionotoleberisgyion
+|                                                |        +--|
+|                                                |           |  +**Prionotoleberispax
+|                                                |           +**|
+|                                                |              +--Prionotoleberisrex
+|                                             +--|
+|                                             |  |           +--Diasteropeprocax
+|                                             |  |        +--|
+|                                             |  |        |  |        +--Heptonemalatum
+|                                             |  |        |  |     +--|
+|                                             |  |        |  |     |  +--Parasteropezeta
+|                                             |  |        |  |  +--|
+|                                             |  |        |  |  |  |  +**Parasteropeaberrata
+|                                             |  |        |  |  |  +**|
+|                                             |  |        |  |  |     +**Parasteropemauritiana
+|                                             |  |        |  +**|
+|                                             |  |        |     +--Parasteropesohni
+|                                             |  |     +--|
+|                                             |  |     |  +--Heptonemalatex
+|                                             |  |  +--|
+|                                             |  |  |  +--Parasteropemaddocksae
+|                                             |  +**|
+|                                             |     |  +**ParasteropegamurruJ53225
+|                                             |     +**|
+|                                             |        +**Parasteropezamboangae
+|                                          +--|
+|                                          |  |              +-------Triadocyprisspitzbergensis
+|                                          |  |           +--|
+|                                          |  |           |  +--Domromeusheptathrix
+|                                          |  |        +**|
+|                                          |  |        |  +--Heptonemaserratum
+|                                          |  |     +--|
+|                                          |  |     |  +**Heptonemahomelix
+|                                          |  |  +**|
+|                                          |  |  |  +--Undetermined2undetermined2J57076
+|                                          |  +**|
+|                                          |     |  +--Monasteropebex
+|                                          |     +**|
+|                                          |        +--ParasteropegamurruJ53224
+|                                       +--|
+|                                       |  |  +**Parasteropemckenziei
+|                                       |  +**|
+|                                       |     +**Parasteropepacifica
+|                                    +**|
+|                                    |  |        +--Homasteropecurta
+|                                    |  |     +--|
+|                                    |  |     |  +**Parasteropemicrommata
+|                                    |  |  +**|
+|                                    |  |  |  +**Parasteropemuelleri
+|                                    |  +**|
+|                                    |     |        +--Homasteropetrebax
+|                                    |     |     +--|
+|                                    |     |     |  +**Parasteropepseudoquadrata
+|                                    |     |  +**|
+|                                    |     |  |  |  +**Parasteropephysinx
+|                                    |     |  |  +**|
+|                                    |     |  |     |  +**Parasteropesp.J57072
+|                                    |     |  |     +--|
+|                                    |     |  |        |  +**Synasteropesp.J57067
+|                                    |     |  |        +--|
+|                                    |     |  |           +--Synasteropesp.J57066
+|                                    |     +--|
+|                                    |        |  +**Parasteropeanommata
+|                                    |        +--|
+|                                    |           |           +--Parasteropeantyx
+|                                    |           |        +--|
+|                                    |           |        |  +--Parasteropestyx
+|                                    |           |     +--|
+|                                    |           |     |  +--Parasteropewhatleyi
+|                                    |           |  +--|
+|                                    |           |  |  |     +**Synasteropehelix
+|                                    |           |  |  |  +--|
+|                                    |           |  |  |  |  +--Synasteropehirpex
+|                                    |           |  |  +--|
+|                                    |           |  |     |  +--Synasteropemystax
+|                                    |           |  |     +**|
+|                                    |           |  |        +--Synasteropepolythrix
+|                                    |           +--|
+|                                    |              |  +**Parasteropesequax
+|                                    |              +**|
+|                                    |                 +--Skogsbergiellasp.ZMHK42206
+|                                 +--|
+|                                 |  +**Parasteropecrinita
+|                              +--|
+|                              |  +**Parasteropeprolixa
+|                           +--|
+|                           |  |                                +--Parasteropepollex
+|                           |  |                             +--|
+|                           |  |                             |  +**PostasteropemessingiJ57077
+|                           |  |                          +--|
+|                           |  |                          |  +--Postasteropecorrugata
+|                           |  |                       +**|
+|                           |  |                       |  |     +**PostasteropecorrugataJ57080
+|                           |  |                       |  |  +**|
+|                           |  |                       |  |  |  +--Synasteropesetispara
+|                           |  |                       |  +**|
+|                           |  |                       |     +**Postasteropeabaco
+|                           |  |                    +--|
+|                           |  |                    |  |  +**Postasteropebarensi
+|                           |  |                    |  +--|
+|                           |  |                    |     |  +--PostasteropebarensiJ57078
+|                           |  |                    |     +**|
+|                           |  |                    |        +**PostasteropebarensiJ57079
+|                           |  |                 +--|
+|                           |  |                 |  +**Postasteropemessingi
+|                           |  |              +--|
+|                           |  |              |  +**Synasteropeimplumis
+|                           |  |           +--|
+|                           |  |           |  +--Synasteropecalix
+|                           |  |        +--|
+|                           |  |        |  +--Prionotoleberissalomani
+|                           |  |     +--|
+|                           |  |     |  +--Synasteropebensoni
+|                           |  |  +--|
+|                           |  |  |  +--Synasteropelongiseta
+|                           |  +--|
+|                           |     +**Synasteropebrowni
+|                    +------|
+|                    |      +--Synasteropebassana
+|                 +**|
+|                 |  |          +--Asteropteronfuscum
+|                 |  |       +--|
+|                 |  |       |  |              +--Asteropterygionromei
+|                 |  |       |  |           +**|
+|                 |  |       |  |           |  +**Asteropterygionpeterseni
+|                 |  |       |  |        +**|
+|                 |  |       |  |        |  +**Asteropterygionthomassini
+|                 |  |       |  |     +**|
+|                 |  |       |  |     |  +--Asteropterygiondayi
+|                 |  |       |  |  +--|
+|                 |  |       |  |  |  |  +--Asteropterygionsetiferum
+|                 |  |       |  |  |  +--|
+|                 |  |       |  |  |     |  +--Asteropterygionoculitristis
+|                 |  |       |  |  |     +--|
+|                 |  |       |  |  |        |     +--Actinosetahummelincki
+|                 |  |       |  |  |        |  +--|
+|                 |  |       |  |  |        |  |  +**Actinosetachelispara
+|                 |  |       |  |  |        +--|
+|                 |  |       |  |  |           +--Actinosetajonesi
+|                 |  |       |  +--|
+|                 |  |       |     +**Asteropterygionmagnum
+|                 |  |    +--|
+|                 |  |    |  |        +--Asteropellamortenseni
+|                 |  |    |  |     +--|
+|                 |  |    |  |     |  +---------Microasteropteronparvum
+|                 |  |    |  |  +--|
+|                 |  |    |  |  |  +--Asteropellakalkei
+|                 |  |    |  +--|
+|                 |  |    |     |           +--Asteropellaslatteryi
+|                 |  |    |     |        +**|
+|                 |  |    |     |        |  +--AsteropellaslatteryiJ57061
+|                 |  |    |     |     +**|
+|                 |  |    |     |     |  +**Asteropellasp.J57062
+|                 |  |    |     |  +--|
+|                 |  |    |     |  |  +**AsteropellaslatteryiJ57060
+|                 |  |    |     +--|
+|                 |  |    |        |     +**Asteropellamonambon
+|                 |  |    |        |  +--|
+|                 |  |    |        |  |  +--Omegasteropeupsilon
+|                 |  |    |        +**|
+|                 |  |    |           +**AsteropellamonambonJ57059
+|                 |  +----|
+|                 |       |  +--Pteromeniscusintesi
+|                 |       +--|
+|                 |          +-----Macroasteropteronmindax
+|          +------|
+|          |      |        +--Bruuniellabeta
+|          |      |  +-----|
+|          |      |  |     +**Bruuniellabreviata
+|          |      +--|
+|          |         +**Bruuniellahazeli
++----------|
+           |  +--Vargulahilgendorfii
+           +**|
+              |   +--Euphilomedessordida
+              +---|
+                  +---Rutidermaapex
+
+Tree in newick format:
+
+(Manawastaceyi:0.0941395436,Nymphatelinagravida:0.0000029609,(((((((((((((((((((((Colymbosathonecplecticos:0.1692881466,Skogsbergiellaplocus:0.0000026361):0.0292298258,(Skogsbergiellascotti:0.0000020151,Skogsbergiellaspinifera:0.0155160127):0.0152998611):0.0292758526,(Archasteropedentata:0.0000028648,((Bathyleberisoculata:0.0000027339,BathyleberisoculataJ57063:0.0000027339):0.0000028198,(Diasteropegrisea:0.0000027581,Diasteropeschmitti:0.0482031254):0.0144026204):0.0290092675):0.0000022568):0.0144430981,Archasteropeapex_Archasteropealtrix:0.0000027489):0.0000027105,(((((Leuroleberismackenziei:0.0000020224,((Leuroleberissharpei:0.0000026383,(Leuroleberissurugaensis:0.0000028380,(Alphaleberisalphathrix:0.0146567806,((Amboleberisamericana:0.0296455322,Tetraleberissp.J570561:0.0238193893):0.0146261247,((((Cyclasteropefascigera:0.0148632840,Cyclasteropebisetosa:0.0158457108):0.0774090958,Tetraleberisbrevis:0.0000028498):0.0144143480,Tetraleberistriplex:0.0000027339):0.0000027283,Tetraleberispix:0.0000027339):0.0000025800):0.0291854688):0.0144444533):0.0144026502):0.0080159127,(Cycloleberisgalatheae:0.0072907289,Cycloleberislobiancoi:0.0096272868):0.0259062814):0.0080556419):0.1934351629,Dolasteropejohanseni:0.0662453022):0.0634156312,Archasteropeantarctica:0.0000026588):0.0000022101,Archasteropequinquesetae:0.0155153795):0.0142829684,((((Archasteropeverax:0.0150488427,((Xandarasteropestorthynx:0.0000025230,Xandarasteropetrux:0.0373909073):0.0280040392,Undetermined6undetermined6ZMHK42209:0.0000022162):0.0280031919):0.0000022309,((Skogsbergiellapax:0.0151260793,Skogsbergiellasenex:0.0471913583):0.0464589403,ArchasteropebullaDS6:0.0155158394):0.0000024590):0.0000029829,(Bathyleberisbabax:0.0000028101,(Bathyleberismonothrix:0.0316018192,Bathyleberisthrix:0.0478299606):0.0152188014):0.0459858788):0.0367033601,Archasteropebulla:0.0000024930):0.0182299296):0.0144206572):0.0142077299,Archasteropeefficax:0.0000026975):0.0142053217,(Archasteropesp.J57065:0.0364701286,Prionotoleberislux:0.0781103892):0.0000024544):0.0142058072,(((Archasteropemonothrix:0.0313906501,((Bathyleberisgrossmani:0.0155335765,Undetermined7undetermined7ZMHK42207:0.0560562387):0.0489674823,Domromeusmerx:0.0000023511):0.0310785690):0.0307339841,((Bathyleberisgarthi:0.0322737496,(Bathyleberishancocki:0.0000023172,Bathyleberiskurilensis:0.0328849387):0.0466776874):0.0000026936,(Bathyleberistoxotes:0.0309968759,((Xenoleberisbex:0.0780994532,Xenoleberiscalifornica:0.0152544029):0.0178270386,Xenoleberisyamadai:0.0000027339):0.0146606365):0.0147650299):0.0440954504):0.0000022011,ArchasteropeefficaxJ57064:0.0000020087):0.0000025703):0.0142017643,(Diasteropewirraka:0.0628718534,(Diasteropepilosa:0.0318368261,(Undetermined3undetermined3J57075:0.0000020629,(Undetermined4undetermined4J57074:0.0171086549,Undetermined5undetermined5J57073:0.0515139157):0.0000028112):0.0000020071):0.0148382227):0.0000022905):0.0286410554,(((Polyleberismackenziei:0.0328697453,Synasteropeserrata:0.0160120254):0.0000027396,((Synasteropebrachythrix:0.0334191221,Synasteropearnaudi_Synasteropepsitticina:0.0000020453):0.0160119452,Synasteropecushmani:0.0000027253):0.0150489746):0.0000028125,((Cylindroleberisbacescui:0.0000020740,(((((Cylindroleberisgrimaldi:0.0152789588,Cylindroleberissp.J57069:0.0000027339):0.0000027128,((Cylindroleberisminuta:0.0000027339,Cylindroleberisverrucosa:0.0000027339):0.0000027339,Cylindroleberisthailandica:0.0000027339):0.0000028369):0.0000027339,Cylindroleberisvibex:0.0150518954):0.0148286987,(Cylindroleberisvariabilis:0.0000027339,Cylindroleberisvix:0.0000027339):0.0000027004):0.0083155460,Cylindroleberismarranyin:0.0293574307):0.0083183721):0.0300688768,(Prionotoleberisgyion:0.0000024571,(Prionotoleberispax:0.0000027339,Prionotoleberisrex:0.0482047160):0.0000029319):0.0158275883):0.0148709829):0.0299188710):0.0000024345,((((Diasteropeprocax:0.0317515371,(((Heptonemalatum:0.0479580883,Parasteropezeta:0.0487356947):0.0151101411,(Parasteropeaberrata:0.0000027339,Parasteropemauritiana:0.0000028349):0.0000025932):0.0152821863,Parasteropesohni:0.0661885337):0.0000022367):0.0299756098,Heptonemalatex:0.0151219105):0.0148982298,Parasteropemaddocksae:0.0160730715):0.0148739993,(ParasteropegamurruJ53225:0.0000021995,Parasteropezamboangae:0.0000027339):0.0000028288):0.0000028103):0.0142365234,(((((Triadocyprisspitzbergensis:0.1647968131,Domromeusheptathrix:0.0312937959):0.0673145966,Heptonemaserratum:0.0328679193):0.0000027817,Heptonemahomelix:0.0000021061):0.0313545443,Undetermined2undetermined2J57076:0.0171076844):0.0000023340,(Monasteropebex:0.0694180152,ParasteropegamurruJ53224:0.0339863625):0.0000022129):0.0000027382):0.0142365913,(Parasteropemckenziei:0.0000027210,Parasteropepacifica:0.0000022715):0.0000025344):0.0142365847,(((Homasteropecurta:0.0422544983,Parasteropemicrommata:0.0000026039):0.0204099379,Parasteropemuelleri:0.0000028971):0.0000027464,(((Homasteropetrebax:0.0649181387,Parasteropepseudoquadrata:0.0000025735):0.0155223359,(Parasteropephysinx:0.0000026611,(Parasteropesp.J57072:0.0000029318,(Synasteropesp.J57067:0.0000027503,Synasteropesp.J57066:0.0174103737):0.0160163114):0.0160144844):0.0000023862):0.0000028380,(Parasteropeanommata:0.0000020286,((((Parasteropeantyx:0.0163412843,Parasteropestyx:0.0316044003):0.0153810980,Parasteropewhatleyi:0.0157091912):0.0154892852,((Synasteropehelix:0.0000029532,Synasteropehirpex:0.0654148475):0.0151648626,(Synasteropemystax:0.0334196463,Synasteropepolythrix:0.0152172121):0.0000025243):0.0310695221):0.0151112230,(Parasteropesequax:0.0000029012,Skogsbergiellasp.ZMHK42206:0.0806975956):0.0000028811):0.0291149231):0.0291149702):0.0144172986):0.0000027413):0.0000027062,Parasteropecrinita:0.0000026907):0.0142668106,Parasteropeprolixa:0.0000027079):0.0291363446,(((((((((((Parasteropepollex:0.0160230664,PostasteropemessingiJ57077:0.0000020078):0.0158210190,Postasteropecorrugata:0.0168901711):0.0155704601,((PostasteropecorrugataJ57080:0.0000020279,Synasteropesetispara:0.0168173567):0.0000029269,Postasteropeabaco:0.0000026999):0.0000029303):0.0000028556,(Postasteropebarensi:0.0000021206,(PostasteropebarensiJ57078:0.0187081814,PostasteropebarensiJ57079:0.0000020349):0.0000029544):0.0160122642):0.0313270338,Postasteropemessingi:0.0000027315):0.0155161476,Synasteropeimplumis:0.0000022050):0.0155675715,Synasteropecalix:0.0155647733):0.0156248346,Prionotoleberissalomani:0.0463512948):0.0151017274,Synasteropebensoni:0.0320767459):0.0151831500,Synasteropelongiseta:0.0174886729):0.0152523302,Synasteropebrowni:0.0000024951):0.0304415965):0.0193384456,Synasteropebassana:0.0170546617):0.1582006702,(((Asteropteronfuscum:0.0471600918,(((((Asteropterygionromei:0.0299185605,Asteropterygionpeterseni:0.0000027339):0.0000025015,Asteropterygionthomassini:0.0000027339):0.0000028021,Asteropterygiondayi:0.0162728342):0.0137662374,(Asteropterygionsetiferum:0.0332381659,(Asteropterygionoculitristis:0.0332950426,((Actinosetahummelincki:0.0303795665,Actinosetachelispara:0.0000027339):0.0172809847,Actinosetajonesi:0.0637654897):0.0303800290):0.0362866000):0.0204947098):0.0447198126,Asteropterygionmagnum:0.0000020207):0.0766914450):0.0305541002,(((Asteropellamortenseni:0.0154631705,Microasteropteronparvum:0.2133834906):0.0178927553,Asteropellakalkei:0.0349309579):0.0161644604,((((Asteropellaslatteryi:0.0318271898,AsteropellaslatteryiJ57061:0.0198206516):0.0000028781,Asteropellasp.J57062:0.0000027339):0.0000025086,AsteropellaslatteryiJ57060:0.0000027339):0.0157664202,((Asteropellamonambon:0.0000028782,Omegasteropeupsilon:0.0732337600):0.0157606843,AsteropellamonambonJ57059:0.0000029752):0.0000026629):0.0159045827):0.0321719913):0.0319187974,(Pteromeniscusintesi:0.0661402563,Macroasteropteronmindax:0.1254271801):0.0475105864):0.1155668798):0.0131427091,((Bruuniellabeta:0.0708826963,Bruuniellabreviata:0.0000028381):0.1296904576,Bruuniellahazeli:0.0000026250):0.0614279232):0.1453639372,(Vargulahilgendorfii:0.0663589752,(Euphilomedessordida:0.0142948361,Rutidermaapex:0.1011450080):0.0828726344):0.0000029310):0.2416381493);
+
+TIME STAMP
+----------
+
+Date and time: Tue Jul 11 19:23:34 2023
+Total CPU time used: 28.3906 seconds (0h:0m:28s)
+Total wall-clock time used: 67.1975 seconds (0h:1m:7s)
+
