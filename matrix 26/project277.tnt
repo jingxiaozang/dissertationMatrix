@@ -1,0 +1,70 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 13.07.04'
+40 12
+
+&[num]
+Erythroxylaceae               00000000000?00?000000????0000?000000?00?
+Linaceae_hugoniaceae          00?00?0000000001?0000????0?10??0?000??0?
+Ixonanthaceae                 10001000000111??00000????0?00?0010?0?0??
+Caryocaraceae                 ??030101010000?001102????0010?0?00000???
+Duckesia                      1??2011110111000011010000100101010000001
+Endopleura                    1??20101101110100011110201000?1010000?01
+Humiria                       1101000011111001101020?001110?1011111??1
+Humiriastrum                  1?010000101110100?10010??101?010?0000?01
+Hylocarpa                     1?120100101110?00111100100000?1010??00??
+Sacoglottis                   1100000010111010021000121000111010000?01
+Schistostemon                 1?01011010111010021010121000111010000?01
+Vantanea                      10230000100110010?102?0000000?1??0000??0
+
+;
+
+
+cnames
+{ 0 Ellagic_acid absent present;
+{ 1 Corolla_aestivation imbricated_or_contorted quincuncial_or_cochlear;
+{ 2 Number_of_stamen_circles one two three_or_four;
+{ 3 Number_of_stamens 20 20[state_1] 20_to_30 50;
+{ 4 Stamen_concrescense united free;
+{ 5 Sterile_stamens absent present;
+{ 6 Trifurcate_stamens absent present;
+{ 7 Anthers_thecae_number two four;
+{ 8 Connective_shape with_appendix without_appendix;
+{ 9 Anther_surface glabrous pilose;
+{ 10 Locus_number_per_anther bilocular unilocular;
+{ 11 Nectariferous_disk extrastaminal intrastaminal;
+{ 12 Number_of_stigmas two_or_more one;
+{ 13 Ovary_position superous semi-inferous;
+{ 14 Number_of_traces_in_carpels three five;
+{ 15 Number_of_ovules_locule one two;
+{ 16 Drupe_size 1.6_cm 1.6_cm[state_1];
+{ 17 Endocarp_surface smooth corrugated bullate;
+{ 18 Endocarp_type not_woody woody;
+{ 19 Endocarp_structure sharp_ribs_absent sharp_ribs_present;
+{ 20 Locule_or_valve_number range_3-5 5_only more_than_5;
+{ 21 Valve_size_of_endocarp long short;
+{ 22 Valve_from_apex_to_base no yes;
+{ 23 Valve_conspicuous yes moderately no;
+{ 24 Relative_rib-valve_width_ valves_equal_or_narrower valves_wider;
+{ 25 Foramina absent present;
+{ 26 Seed_per_locule one two;
+{ 27 Number_of_locule up_to_5 more_than_5;
+{ 28 Resinous_cavities absent present;
+{ 29 Size_of_resinous_cavities 0.7_mm up_to_7_mm;
+{ 30 Wood_vessel_elements simple scalariform;
+{ 31 Pollen_size medium_small large;
+{ 32 Pollen_shape prolate_and_or_subprolate oblate_and_or_sub-oblate;
+{ 33 Colpi_length long short;
+{ 34 Colpi_apex acute rounded;
+{ 35 Columellar_infratectum conspicuous inconspicuous;
+{ 36 Polar_area small large;
+{ 37 Colporate three two four;
+{ 38 Sexine microreticulate other;
+{ 39 Nexine disrupted_curved inconspicuous;
+;
+
+
+ccode  - 0.39;
+
+
+;

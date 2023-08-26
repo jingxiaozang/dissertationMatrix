@@ -1,0 +1,257 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 12.23.58'
+204 35
+
+&[num]
+Tupaia                       00000000100000000100000000000000000?3000010000000--00000000000000000000-0-00000000000000000--0000000000--0001000000--------0000020--00002000001000?????0?0000-000000101000000000000-?000-??101???0000010?001
+Cynocephalus                 000?00001000001001010101-00001010000000???0000000--11000010001010010120-0-00500000000001001121000000000--0001000011010-----000000100?0000?00010001?????0?0000-000?00010010000010000-?010-?0000??00011110?001
+Erinaceus                    000?000010001000001101000100000???0??00???0??????????????????????????????????00000000000000--?1--001000--0000--0???--------???????????????201?100??????010000-????00-?10?0??100?000-?0?1????0???10?1?1?1????
+Sus                          001?0??010000000000000-10000001???0???0???0??????????????????????????????????0000000000100-22?1110000?0--0000--0-??--------???????????????2111100??????030000-????010010?0??????000-00?0-???0???02?0?2??????
+Felis                        000?0??010000010000100-10000010???0??000100?0?0?0--??????????????2003?0-0-0000000000000000-22?1010010?0--0000000--3--------1111100--0????020110001?????000000-000?01100000?1101?000-00?1????00??02?0?0?0?001
+New_green_River_Bat          ????????10???????1?0?0000???????????????????????????????????????????????????????00000000000??100?????01-00??10????????????????????????????10???10??????120000?????0????1?0??????100100??????????????????????
+Icaronycteris                ????????100???????0000000??1??0?0????1??????????????????????????????????????11000000000101?121000000001-000010010?????????????????????????1000?10?0??0?100001?????011001?0??????100?00??????????????????????
+Pteropodidae                 000001211010100111101031-00?0100010000010100201010011000011000010000000-0-0001000000000?11?21?00000000?1000010000010010000000000012120000100001111000001?000300110010101100011201002101100000001013020000100
+Archaeonycteris              ????????10????0?010010000011??0??????1??????????????????????????????????????11100???0001??01110010?0?01-00?01001??????????????????????????1000?10??????100003?????0???11?0??????100??0??????????????????????
+Tanzanycteris                ???????????????????????????3??????0?????????????????????????????????????????????00010??????2?????????01-0???10012?????????????????????????2???????????????????????0??0??????????????????????????????????????
+Hassianycteris               ????????10???????100101000?21?0???0??1???????????????????????????????????????110??0?0001?202?10?000?201-00001001??????????????????????????2000?1???????100013?????00?00??0??????1011?0??????????????????????
+Palaeochiropteryx            ????????10??1?010100101000121?0?020??1??????????????????????????????????????111100000001120221000000111-00?11001??????????????????????????1000?10??????100013?????011001?0??????1011?0??????????????????????
+Emballonuridae               01000??1001012010201-1100012110002110111210000110--01000000010010010110-0-10111100000001??02?1011000102100?01001202011101001011101012000111110111?100001011131????01010110??????101110110000000?013?10221100
+Rhinopomatidae               011000110010101??212-11001121?00020111103230001010101020000010010101210-1120211100001001220111000000001-02001001001001110111000101012110011000111??????1?00130????01010111??????10101011010001?00?3010?2?001
+Craseonycteridae             011?????0011111??212-11101121?00120??11???3000100--01020000011010101010-1120111110101002110211010000201-021010002?????????????????????????2000111??????1?01132????11010110??????1010102??100???????????21???
+Nycteridae                   01301221010010111102-1100012??1110102111321000010--01010002010010000010-1000011110010102220230110000101-02101001212011010111011101111110111000111?110001?11130????00110110??????11311011100000?????????21000
+Megadermatidae               012?0011011011111312-11000120111011111102100100010101030002010010000010-1000011110011102221101010000302212101001212111010111111111112111121100111??????1?01130????0101021010112011111011110001?00?2110?21001
+Rhinolophidae                00200011010010111211-0100113??011011011132?00000101100000020100100000?0-1010311110211112021101011000302212101001211101010111111110--2101122100111??????1311130????00000201?????011111011110001000?3010220010
+Hipposideridae               00200011010010111211-1100113??011011011132?00000101100000020?00100000?0-10?0311111211112021?01000000?02212101000211?0??????11111?0--2???0221001110001001?1113010111000020110112011111111110001????????220010
+Phyllostomidae               0120000020011001111111200111110102000111010111010--110?00010?0010010100-10?01111000000010102110000003120010010102021110101010111011120110220001111110011?0111010100101011010112110111000-0111211111221220100
+Mormoopidae                  110001?0200110011111101001121?011000011???2111000--11000001110010010100-10101111000000002202210100102121011010102021111101010111011120110121001110110111101110100011010110??????10111000?011121????????20???
+Noctilionidae                01001121200110011122-12001120?011200?111010111010--11030001010010010100-1020111100000001210221000010012001001000102111010001011101112001111100111?011111401132????01010110??????10111010-0111111011220220100
+Mystacinidae                 0100122?2001100??221112001111?001001011???01110110011030001111010100020-101011110000000?000121010010311-000010?01?????????????????????????2011111??????1001111????01011110??????10011001?001010?????????????
+Myzopodidae                  110?????2001110??100202011121?000111011???01101011-01131112110011000020-0-00411100000002120221001010302101?110011?????????????????????????2000111??????1?11110????01110110??????1011110??00001??????????????
+Thyropteridae                11011011200111011100102011121?000111?11???0111000--111311121100??000?20-1102111111000002220211110110202000001010101101011101001101012000012000111??????1?11110????01110111??????1011110??000111?1021?1??????
+Furipteridae                 110?1121201011?11101101011121?010111011???01110010011111112110011100000-1102111110000002220231111110211-020021001?????????????????????????2000111??????1?11120????11010110??????1011100??00011?????????20???
+Natalidae                    110?0121200111011100001001121?000011011???01110010011111112110001100020-1000111110000001211201110100211-02012101102101011101000001211001012000111?000101?11120????11010110??????10111001000001?????????20???
+Antrozoidae                  011?????2010120??2?2-12001121?000211011???0000101011100000011101100012111120111100000002010121000010311-00011000102????????1000001101001032011111??????1?01120????01110110??????10111011000001??????????????
+Tomopeatinae                 010?????2010120??212-12001121?000211?11???0121001001100000211100000002110-20111110000001010120000011311-000122011?????????????????????????2111111??????1?01120????01111110??????1001101??000????????????????
+Molossinae                   01011??1201012111211-11001121?00021111110101210????1100000211100000002110-201111100000011112200000113120000122101020111101010010010010010421111111100101?011211101011111100111211001101100000100003111220100
+Vespertilioninae             01010121201012011101-12001121100021101111201110011-1101000111101100012100-201111000000021?02?10100103121000110101021011010110010001010010320111111000011?01120101001110110??????10111011?0000100002111?20100
+Minopterinae                 010100002010120??101-01001121?00021101110201110111-1101000111100100010100-20111100000002220231110110311-000112101?????????????????????????2111111??????1?01122????01110110??????10111000-00001???????1?20100
+Myotinae                     01010121201012011100102001121?000111011???01110111-1101000111100100012100-2011110000000212021111001031210001110010110101000100100100100103200111110?0??1?01120101001110110011121101110110000010000211122????
+Murininae                    010?????2010120??101-11001121?000211?11???0111010--11010002111001010120-10201111000000031202111100003022020110011?????????????????????????2001111??????1?01120????01110110??????10111011000001?????????2????
+Kerivoulinae                 110?????2010??0??100202001120?000211?111??0111010--1100000111110100012100-221111000000031202111101103121000110011?????????????????????????2001?????????1?01120????01110110???????0111021000001?????????20100
+
+;
+
+
+cnames
+{ 0 Ear_pinnae_1 not funnel-shaped;
+{ 1 Tragus_2 absent present;
+{ 2 Narial_structures_3 absent dermal_ridge noseleaf slit tube_nostrils;
+{ 3 M._occipitofrontalis_insertion_4 cutaneous via_tendon;
+{ 4 Nasopalatine_duct_5 present absent;
+{ 5 Paraseptal_cartilage_6 C_shaped bar_shaped cartilage_absent;
+{ 6 Vomer_epithelial_tube_7 well_developed rudimentary absent;
+{ 7 Access_olfactory_bulb_8 present absent;
+{ 8 Premax_artic_9 free normal_sutures fused;
+{ 9 Premax_nasal_branch_10 not reduced;
+{ 10 Premax_palatal_branch_11 not reduced;
+{ 11 Premax_pal_fusion_12 not_fused fused_across_midline;
+{ 12 Jugolacrimal_contact contact_present jugal_small_no_contact;
+{ 13 Anterior_palate_emargination_13_14 none shallow_emargination deep_emargination;
+{ 14 Hard_palate_15 interorbital zygo_root_or_ant;
+{ 15 Deciduous_anterior_teeth similar_to_adult hooklike_teeth;
+{ 16 Deciduous_last_premolars molariform not_molariform;
+{ 17 Upper_incisor_number_16 three two one absent;
+{ 18 Lower_incisors_17 three two one absent;
+{ 19 Upper_premolars_18 three two one;
+{ 20 Roots_on_middle_upper_P3_19 3_roots reduced_2_roots only_1;
+{ 21 Lower_premolars_20 three two;
+{ 22 Lower_molars_revised_21 tribosphenic nyctalodont myotodont fruit;
+{ 23 Angular_process_22 elongate short_or_absent;
+{ 24 Level_of_angular_process_23 below_coronoid at_level;
+{ 25 Postorbital_process_24 present not;
+{ 26 Periotic_attachment_25 sutured loose;
+{ 27 Cochlea_enlarged_26 not moderate greatly_enlarged extremely_enlarged;
+{ 28 Cochlea_27 crypto phanero;
+{ 29 Entotympanics one_or_none rostral_and_caudal_both_present;
+{ 30 Lateral_pro_of_tym_28 weak_or_absent forms_meatus;
+{ 31 Tymp_annulus_29 inclined semi_vertical;
+{ 32 Epitym_recess_30 shallow_broad deep_constricted;
+{ 33 Fossa_stapedial_31 indistinct shallow_broad deep_constricted;
+{ 34 Fenestra_rotundum_32 enlarged small_or_moderate;
+{ 35 Aquaductus_cochlea_33 large small_or_absent;
+{ 36 M_Tensor_tymp_34 single 2_tendons band absent;
+{ 37 Orbicular_apophysis_size_35 small_or_absent large;
+{ 38 Laryngeal_echolocation_36 absent present;
+{ 39 Submaxillary_glands_37 one_pair 2_pairs;
+{ 40 Right_lung_38 4_lobes 3_lobes 2_lobes undivided;
+{ 41 Left_lung_39 3_lobes 2_lobes undivided;
+{ 42 Tracheal_expansion_40 none one 2_to_8 9_to10;
+{ 43 M._geniogloss_&_hyogloss_insert_41 direct_fleshy indirect_tendon no_connection;
+{ 44 M._sternohyoid_insert_42 direct_fleshy indirect_tendon no_connection;
+{ 45 M._mylohyoideus_deep_43 absent deep_division_present;
+{ 46 M._mylohyoideus_insert_44 basihyal_raphe basihyal_and_thyrohyal;
+{ 47 M._mylohoideus_form_45 aponeurotic fleshy;
+{ 48 M._mandibulohyoideus_46 absent muscle_present;
+{ 49 M._mandibulohyoidues_47 with_muscle_fibers tendon_only;
+{ 50 M._mandibulohyoideus_48 small_bundle large;
+{ 51 M._stylohyoideus_superficial_49 slip_present absent;
+{ 52 M._stylohyoideus_deep_50 slip_present absent;
+{ 53 M._geniohyoid_origin_form_51 flat prong;
+{ 54 M._geniohyoideus_origin_52 long_tendon short_tendon mixed_tendon_fleshy fleshy;
+{ 55 M._genioglossus_origin_53 short extended;
+{ 56 Fusion_geniohy_geniogloss_54 unfused fused;
+{ 57 M._geniogloss_insert_55 not_on_basihyal basihyal;
+{ 58 M._hyoglossus_origin_56 broad_sheet two_sheets antimere basihyal;
+{ 59 M._stylogossus_bellies_57 one two_bellies;
+{ 60 M._styloglossus_origin_58 expanded_tip midpoint;
+{ 61 M._ceratohyoideus_insertion_59 includes_ceratohyal doesn't;
+{ 62 M._ceratohyoideus_insertion_60 includes_epihyal doesn't;
+{ 63 M._ceratohyoideus_insertion_61 includes_stylohyal doesn't;
+{ 64 M._thyrohyoideus_insert_62 thryo thyro_basi;
+{ 65 M._sternohyoideus_origin_63 includes_whole_manubrium medial_manub_only first_costal_only;
+{ 66 M._sternohyoideus_origin_64 doesn't includes_clavicle;
+{ 67 M._sternohyoid_reduction_65 not reduced;
+{ 68 M._sternothyroideus_origin_66 manubrium clavicle both_manubrium_and_clavicle first_costal_only;
+{ 69 M._omohyoideus_67 scapula clavicle muscle_absent;
+{ 70 Basihyal_body_68 bar_or_plate curved;
+{ 71 Curved_basihyal_69 V_shaped U_shaped;
+{ 72 Entoglossal_process_70 absent process_present;
+{ 73 Size_of_entoglossal_proc_71 small large_T_shaped very_large_capsule;
+{ 74 Ceratohyal_72 normal reduced tiny_or_absent;
+{ 75 Epihyal_73 normal reduced tiny_or_absent;
+{ 76 Stylohyal_74 curved_bar slightly_expanded_tip cleaved_tip large_lateral_foot axe-shaped_expansion swollen_lateral_half;
+{ 77 Accessory_processes_C2_3_75 absent present_on_C2_3;
+{ 78 Accessory_process_C4_76 absent present_on_C4;
+{ 79 Accessory_process_C5_77 absent present_on_C5;
+{ 80 c7t1_fusion_78 not_fused fused;
+{ 81 t1t2_fusion_79 not_fused fused;
+{ 82 Rib_vert_fusion_80 not 1st_rib_fused at_least_first_5_fused;
+{ 83 Rib_1_width_81 normal enlarged;
+{ 84 Rib_1_to_manubrium_82 not costal_1_ossified_and_fused;
+{ 85 Rib_2_to_sternum_83 to_manubmeso_joint manubrium;
+{ 86 Rib_2_to_sternum_84 via_costal_cartilage fused_ossified;
+{ 87 Costal_cartilages_mesosternum_85 6_cartilages 5_carts 4_cartilages 3_only;
+{ 88 Rib_anterior_lamellae_86 absent narrow wide;
+{ 89 Rib_posterior_lamellae_89 absent narrow wide;
+{ 90 Anterior_face_manub_2_90 small_anterior_face broad;
+{ 91 Vent_process_tip_4_91 process_absent blunt compressed_lat;
+{ 92 Vent_process_angle_5_92 acute 90_degrees obtuse bilobed;
+{ 93 Manubrium_length_6_93 elongate short;
+{ 94 Mesosternum_width_15_94 narrow broad;
+{ 95 Xiphisternum_keel_18_95 absent present;
+{ 96 Xiphi_post_shape_20_96 flared not;
+{ 97 Acromion_medial_shelf_27_97 absent medial_shelf;
+{ 98 Acromion_tip_24_98 absent anteromed_projection;
+{ 99 Acromion_tip_25_99 absent posterolateral_proj;
+{ 100 Dorsal_articular_facet_100 DAR_absent small_groove oblique_oval large_flat;
+{ 101 Infraspinous_fossa_31_102 narrow broad;
+{ 102 Infra_facets_32_103 one_facet two_facets three;
+{ 103 Infra_facets_33_104 interm_narrow subequal postero_narrow;
+{ 104 Posterolat_facet_34/35_105 not extensive;
+{ 105 Axillary_border_36_106 thick_lip blade_lip flat;
+{ 106 Clavicular_lig_pit_37_107 absent pit_present;
+{ 107 Anteromedial_flange_38_108 none present;
+{ 108 Coracoid_process_43_109 minute short_stout long_thin;
+{ 109 Coracoid_curve_41_110 ventrolateral ventral ventromedial;
+{ 110 Coracoid__tip_40_111 not flared bifurcated;
+{ 111 Superscap_process_42_112 process_present absent;
+{ 112 Clavicle_articulation_44_113 with_acromion between_acro_and_coro corocoid;
+{ 113 M._subclavius_origin_114 costal_only costal_and_sternum;
+{ 114 M_pectoralis_profundus_origin_115 costal_only costal_and_clavicle clavicle_only sternum_only;
+{ 115 M._dorsi_patagialis_116 absent muscle_present;
+{ 116 M._humeropatagialis_117 absent present;
+{ 117 M._occipitopollicalis_118 absent present;
+{ 118 M._occipitopollicalis_origin_119 none tend_anterior_division;
+{ 119 M._occipitopollicalis_120 none tend_post_division;
+{ 120 M._occipitopollicalis_inter_121 absent intermediate_belly;
+{ 121 M._occipitopollicalis_distal_122 muscle_distal tendon;
+{ 122 M._occipitopollicalis_insert_123 pollex_and_meta_II pollex_only meta_II_only;
+{ 123 M._spinotrapezius_124 not spinotrapezius_separate;
+{ 124 M._acromiodeltoideus_origin_125 includes_T4 doesn't;
+{ 125 M._acromiodeltoideus_origin_126 includes_T5 doesn't;
+{ 126 M._acromiodeltoideus_origin_127 includes_T6 doesn't;
+{ 127 M._clavotrapezius_128 not clavotrapezius_separate;
+{ 128 M._levator_scapulae_origin_129 3_to_5_verts_C2_to_7 2_verts_C4_5 atlas;
+{ 129 M._omocervicalis_130 absent muscle_present;
+{ 130 M._omocervicalis_origin_131 C2_ventral_arch C2_trans C3_and_4_trans;
+{ 131 M._omocervicalis_insertion_132 acromion_process clavicle;
+{ 132 M._serratus_anterior_origin_133 6_or_more_ribs 4_or_5_ribs 1_or_2_ribs;
+{ 133 M._latissimus_dorsi_insertion_134 ventral_ridge ventral_plus_pect_ridge;
+{ 134 M._teres_major_insertion_135 ventral_ridge pectoral_crest;
+{ 135 M._acromiodeltoideus_origin_136 acrom_plus_25_lig acrom_50_lig;
+{ 136 M._spinodeltoideus_origin_137 scapula_plus_ligament scapula_only absent;
+{ 137 M._biceps_coro_to_glen_138 corocoid_head_absent one_third half subequal corocoid_much_greater;
+{ 138 Trochiter_H_W&W_139 not_up_to_head level_with_head beyond;
+{ 139 Humeral_head_140 round oval_or_elliptical;
+{ 140 Distal_humerus_141 facets_displaced in_line;
+{ 141 Epitrochlea_142 broad narrow;
+{ 142 Entepicondylar_foramen present foramen_absent;
+{ 143 Olecranon large process_reduced_fossa_absent;
+{ 144 Ulnar_patella not ulnar_patella_present_and_ossified;
+{ 145 M._brachioradialis_143 muscle_present absent;
+{ 146 Sesamoid_magnum_trapezoid_144 absent present;
+{ 147 Sesamoid_unciform_magnum_145 absent present;
+{ 148 Sesamoid_lunar_radius_146 absent present;
+{ 149 Sesamoid_unciform_magnum_`47 absent present;
+{ 150 Sesamoid_trapezium_metacarpal_148 absent present;
+{ 151 Finger_length short_fingers greatly_elongated_fingers;
+{ 152 Longest_metacarpal 3_longest 4_longest 5_longest 3_and_4_longest 4_and_5_longest;
+{ 153 WDII_first_phalax_149 ossified not_ossified;
+{ 154 WDII_second_phalanx_150 ossified not_ossified;
+{ 155 WDII_third_phalanx_151 ossified_claw not_ossified;
+{ 156 WDIII_third_phalanx claw fully_ossified_nub partly_ossified_nub not_ossified;
+{ 157 Wing_relflection_153 normal prox_III_above term_III_IV_below;
+{ 158 M._flexor_digitorum_profundus_154 inserts_on_digit_II doesn't;
+{ 159 M._flexor_digitorum_profundus_155 inserts_on_digit_IV doesn't;
+{ 160 M._flexor_digitorum_profundus_156 inserts_on_digit_V doesn't;
+{ 161 M._extensor_digiti_quinti_157 muscle_present absent;
+{ 162 Lumbar_fusion_158 not_fused fused;
+{ 163 Sacrum_extent_159 anterior_to_acetabulum posterior;
+{ 164 Sacral_lamellae_160 absent_or_small broad;
+{ 165 Ascending_process_ilium_161 extends_above_IS_joint doesn't;
+{ 166 Dorsal_ischal_tuberosity_162 not present;
+{ 167 Pubic_spine_163 absent straight upturned;
+{ 168 Male_pubic_symphysis_164 long bar_or_short;
+{ 169 Obturator_foraman_165 normal bony_infilling;
+{ 170 M._psoa_minor_166 tendinous_half_length thick_and_fleshy;
+{ 171 M._gluteus_superficialis_167 not_differentiated glut_max_and_tensor_facica;
+{ 172 M._gluetus_minimus present not_differentiated;
+{ 173 M._sartorius present not_differentiated;
+{ 174 M._vastus_complex three_distinct_muscles two_muscles single_undifferentiated;
+{ 175 M._pirifomis_168 present absent;
+{ 176 Hindlimb_orientation normal_mammalian rotated_outward_90_degrees;
+{ 177 Distal_Femur_169 straight bent;
+{ 178 Fibula_170 well-developed thin incomplete absent;
+{ 179 Calcar_171 absent calcar_present cartilaginous_spur;
+{ 180 FDI_length first_digit_shorter all_digits_subequal;
+{ 181 FDII-IV_phalanges_172 3_phalanges only_2;
+{ 182 Tendon_lock_173 absent plicae_and_tubercles plicae_only;
+{ 183 Baculum_L5p249_174 absent present;
+{ 184 Baculum_shape_175 slipper-like shafted;
+{ 185 Pubic_nipples_176 absent present;
+{ 186 Female_genitals_L8p249_177 transverse antpost;
+{ 187 Clitorus_178 short long;
+{ 188 Ext_uterine_fission_179 more_than_65_percent 50_percent_or_less;
+{ 189 Internal_uterine_fusion_180 separate common_uterus_short large_common_uterus;
+{ 190 Uterotub_junct_182 with_papillae_or_folds without;
+{ 191 Blastocyst_L4_183 in_uterus in_ovaduct;
+{ 192 Implantation_L9_184 superficial interstitial;
+{ 193 Embryo_disc_L11_185 antimesometrial tubouterine_junction mesometrial;
+{ 194 Yolk_sac_Lp255_186 bilaminar_simple bilaminar_hypertrophy partial_trilaminar tri_free_collapse;
+{ 195 Allantoic_vessicle_Lp256_187 large medium reduced;
+{ 196 Prim_amnio_L3_188 absent transitory persists;
+{ 197 Def_chorio_L6p257_189 endotheliochorial hemochorial epitheliochorial;
+{ 198 Spinal_cord_dorsal_horns_190 70_to_80 35_to_50 0_to_25;
+{ 199 Inferior_colliculus_191 IC_smaller_than_SC subequal larger_than_SC;
+{ 200 Olfactory_bulb_connection_192 compact_connection thin_connection;
+{ 201 Liver_left_cental_lobe_193 fused_left_lateral free_or_right_central;
+{ 202 Gall_bladder_194 right_lateral umbilical;
+{ 203 Caecum_195 absent present;
+;
+
+
+ccode  - 0.203;
+
+
+;
