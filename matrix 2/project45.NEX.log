@@ -1,0 +1,160 @@
+IQ-TREE multicore version 1.6.12 for Windows 64-bit built Aug 15 2019
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    LAPTOP-L33PKUPE (AVX2, FMA3, 15 GB RAM)
+Command: iqtree.exe -s project45.NEX -st MORPH -m MK+ASC -nt AUTO
+Seed:    442015 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Jul 10 20:36:20 2023
+Kernel:  AVX+FMA - auto-detect threads (20 CPU cores detected)
+
+Reading alignment file project45.NEX ... Nexus format detected
+Skipping unknown block (NOTES)...
+Alignment has 40 sequences with 65 columns, 58 distinct patterns
+64 parsimony-informative, 1 singleton sites, 0 constant sites
+WARNING: Some sequence names are changed as follows:
+"Himantura" -> _Himantura_
+Igdabatis sigmodon -> Igdabatis_sigmodon
+Myliobatis freminvillii -> Myliobatis_freminvillii
+Myliobatis goodei -> Myliobatis_goodei
+Myliobatis aguila -> Myliobatis_aguila
+Myliobatis californicus -> Myliobatis_californicus
+Myliobatis striatus -> Myliobatis_striatus
+Myliobatis toliapicus -> Myliobatis_toliapicus
+Myliobatis dixoni -> Myliobatis_dixoni
+Myliobatis wurnoensis -> Myliobatis_wurnoensis
+Weissobatis micklichi -> Weissobatis_micklichi
+Aetobatus narinari -> Aetobatus_narinari
+Aetobatus arcuatus -> Aetobatus_arcuatus
+Aetobatus irregularis -> Aetobatus_irregularis
+Rhinoptera quadriloba -> Rhinoptera_quadriloba
+Rhinoptera bonasus -> Rhinoptera_bonasus
+Rhinoptera davisei -> Rhinoptera_davisei
+Manta hamiltoni -> Manta_hamiltoni
+
+                         Gap/Ambiguity  Composition  p-value
+   1  Rhinobatos                 7.69%    failed      0.00%
+   2  Raja                       7.69%    failed      0.00%
+   3  Heliobatis                41.54%    failed      0.32%
+   4  Asterotrygon              36.92%    failed      1.13%
+   5  Hexatrygon                15.38%    failed      0.00%
+   6  Plesiobatis                7.69%    failed      1.31%
+   7  Urolophus                  9.23%    passed      5.96%
+   8  Trygonoptera               9.23%    failed      3.24%
+   9  Urobatis                   9.23%    passed      5.96%
+  10  Urotrygon                  7.69%    failed      2.59%
+  11  Paratrygon                 7.69%    passed     26.71%
+  12  Plesiotrygon               7.69%    passed     65.73%
+  13  Potamotrygon               7.69%    passed     65.73%
+  14  _Himantura_                7.69%    passed     16.73%
+  15  Taeniura                   7.69%    passed      8.58%
+  16  Himantura                  9.23%    passed     12.36%
+  17  Hypolophites              73.85%    passed     91.08%
+  18  Dasyatis                  12.31%    passed     20.51%
+  19  Pteroplatytrygon           7.69%    passed     13.59%
+  20  Gymnura                    7.69%    passed     19.88%
+  21  Apocopodon                67.69%    passed     25.07%
+  22  Igdabatis_sigmodon        66.15%    failed      2.75%
+  23  Brachyrhizodus            69.23%    failed      3.11%
+  24  Myliobatis_freminvillii    1.54%    failed      2.97%
+  25  Myliobatis_goodei          1.54%    failed      2.97%
+  26  Myliobatis_aguila          1.54%    failed      0.70%
+  27  Myliobatis_californicus    1.54%    failed      0.27%
+  28  Myliobatis_striatus       66.15%    failed      1.97%
+  29  Myliobatis_toliapicus     66.15%    failed      0.14%
+  30  Myliobatis_dixoni         66.15%    failed      0.74%
+  31  Myliobatis_wurnoensis     66.15%    failed      0.09%
+  32  Weissobatis_micklichi     50.77%    failed      0.88%
+  33  Aetobatus_narinari         6.15%    failed      0.00%
+  34  Aetobatus_arcuatus        69.23%    failed      0.00%
+  35  Aetobatus_irregularis     69.23%    failed      0.02%
+  36  Rhinoptera_quadriloba      4.62%    failed      0.00%
+  37  Rhinoptera_bonasus         4.62%    failed      0.00%
+  38  Rhinoptera_davisei        66.15%    passed      5.39%
+  39  Mobula                    10.77%    failed      0.04%
+  40  Manta_hamiltoni           72.31%    passed     29.45%
+WARNING: 13 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                     28.23%  25 sequences failed composition chi2 test (p-value<5%; df=3)
+NOTE: Raja is identical to Rhinobatos but kept for subsequent analysis
+NOTE: Potamotrygon is identical to Plesiotrygon but kept for subsequent analysis
+NOTE: Myliobatis_goodei is identical to Myliobatis_freminvillii but kept for subsequent analysis
+Creating fast initial parsimony tree by random order stepwise addition...
+0.021 seconds, parsimony score: 146 (based on 65 sites)
+
+NOTE: 0 MB RAM (0 GB) is required!
+Measuring multi-threading efficiency up to 20 CPU cores
+Increase to 10 rounds for branch lengths
+9009 trees examined
+Threads: 1 / Time: 20.000 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -1428
+Threads: 2 / Time: 27.027 sec / Speedup: 0.740 / Efficiency: 37% / LogL: -1428
+BEST NUMBER OF THREADS: 1
+
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -774.701
+Optimal log-likelihood: -727.901
+Parameters optimization took 1 rounds (0.002 sec)
+Computing ML distances based on estimated model parameters... 0.000 sec
+WARNING: Some pairwise ML distances are too long (saturated)
+Computing BIONJ tree...
+0.005 seconds
+Log-likelihood of BIONJ tree: -727.857
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.076 second
+Computing log-likelihood of 98 initial trees ... 0.081 seconds
+Current best score: -716.599
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -713.266
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 2: -712.300
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 10: -709.122
+Iteration 10 / LogL: -709.122 / Time: 0h:0m:47s
+Iteration 20 / LogL: -709.246 / Time: 0h:0m:47s
+Finish initializing candidate tree set (20)
+Current best tree score: -709.122 / CPU time: 0.285
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 22: -705.808
+Iteration 30 / LogL: -707.640 / Time: 0h:0m:47s (0h:2m:30s left)
+Iteration 40 / LogL: -706.159 / Time: 0h:0m:47s (0h:1m:39s left)
+Iteration 50 / LogL: -711.563 / Time: 0h:0m:47s (0h:1m:9s left)
+Iteration 60 / LogL: -706.727 / Time: 0h:0m:47s (0h:0m:50s left)
+Iteration 70 / LogL: -705.969 / Time: 0h:0m:47s (0h:0m:35s left)
+Iteration 80 / LogL: -707.613 / Time: 0h:0m:47s (0h:0m:25s left)
+Iteration 90 / LogL: -719.914 / Time: 0h:0m:47s (0h:0m:17s left)
+Iteration 100 / LogL: -705.969 / Time: 0h:0m:47s (0h:0m:10s left)
+Iteration 110 / LogL: -708.860 / Time: 0h:0m:48s (0h:0m:5s left)
+Iteration 120 / LogL: -712.436 / Time: 0h:0m:48s (0h:0m:0s left)
+TREE SEARCH COMPLETED AFTER 123 ITERATIONS / Time: 0h:0m:48s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -705.808
+Optimal log-likelihood: -705.808
+Parameters optimization took 1 rounds (0.002 sec)
+BEST SCORE FOUND : -705.808
+Total tree length: 3.417
+
+Total number of iterations: 123
+CPU time used for tree search: 0.141 sec (0h:0m:0s)
+Wall-clock time used for tree search: 1.061 sec (0h:0m:1s)
+Total CPU time used: 16.234 sec (0h:0m:16s)
+Total wall-clock time used: 48.171 sec (0h:0m:48s)
+
+Analysis results written to: 
+  IQ-TREE report:                project45.NEX.iqtree
+  Maximum-likelihood tree:       project45.NEX.treefile
+  Likelihood distances:          project45.NEX.mldist
+  Screen log file:               project45.NEX.log
+
+Date and Time: Mon Jul 10 20:37:08 2023

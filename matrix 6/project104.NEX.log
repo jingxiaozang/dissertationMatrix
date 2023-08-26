@@ -1,0 +1,119 @@
+IQ-TREE multicore version 1.6.12 for Windows 64-bit built Aug 15 2019
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    LAPTOP-L33PKUPE (AVX2, FMA3, 15 GB RAM)
+Command: iqtree.exe -s project104.NEX -st MORPH -m MK+ASC -nt AUTO
+Seed:    694066 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Sat Jul 15 08:33:37 2023
+Kernel:  AVX+FMA - auto-detect threads (20 CPU cores detected)
+
+Reading alignment file project104.NEX ... Nexus format detected
+Skipping unknown block (NOTES)...
+Skipping unknown block (MACCLADE)...
+Alignment has 29 sequences with 207 columns, 202 distinct patterns
+204 parsimony-informative, 3 singleton sites, 0 constant sites
+                   Gap/Ambiguity  Composition  p-value
+   1  Tupaia              16.91%    failed      0.00%
+   2  Cynocephalus        16.43%    failed      0.00%
+   3  Erinaceus           54.11%    failed      0.00%
+   4  Sus                 55.07%    failed      0.01%
+   5  Felis               34.78%    failed      0.00%
+   6  Onychonycteris      72.46%    passed      6.90%
+   7  Icaronycteris       63.29%    failed      1.71%
+   8  Archaeonycteris     69.08%    passed     23.47%
+   9  Hassianycteris      68.12%    passed     82.82%
+  10  Palaeochiropteryx   60.87%    passed     98.16%
+  11  Pteropodidae         6.76%    failed      0.11%
+  12  Rhinolophidae       14.01%    failed      1.49%
+  13  Hipposideridae      17.39%    passed      9.85%
+  14  Megadermatidae      11.11%    failed      0.26%
+  15  Craseonycteridae    36.23%    passed      5.67%
+  16  Rhinopomatidae      13.04%    passed     30.72%
+  17  Emballonuridae      12.56%    passed     85.23%
+  18  Nycteridae          14.01%    failed      1.97%
+  19  Phyllostomidae       4.83%    passed     20.98%
+  20  Mormoopidae         13.53%    passed      7.19%
+  21  Noctilionidae        8.70%    passed     11.89%
+  22  Furipteridae        30.92%    failed      2.03%
+  23  Thyropteridae       18.36%    passed      5.21%
+  24  Mystacinidae        31.88%    passed     53.16%
+  25  Myzopodidae         35.27%    passed     44.65%
+  26  Natalidae           15.46%    passed     34.33%
+  27  Minopteridae        28.99%    passed     32.35%
+  28  Vespertilionidae    11.11%    passed     33.93%
+  29  Molossidae           7.73%    passed     27.14%
+WARNING: 7 sequences contain more than 50% gaps/ambiguity
+****  TOTAL               29.07%  11 sequences failed composition chi2 test (p-value<5%; df=5)
+Creating fast initial parsimony tree by random order stepwise addition...
+0.026 seconds, parsimony score: 725 (based on 207 sites)
+
+NOTE: 0 MB RAM (0 GB) is required!
+Measuring multi-threading efficiency up to 20 CPU cores
+Increase to 10 rounds for branch lengths
+4614 trees examined
+Threads: 1 / Time: 20.001 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -4917
+Threads: 2 / Time: 19.706 sec / Speedup: 1.015 / Efficiency: 51% / LogL: -4917
+Threads: 3 / Time: 19.290 sec / Speedup: 1.037 / Efficiency: 35% / LogL: -4917
+BEST NUMBER OF THREADS: 1
+
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -3836.310
+Optimal log-likelihood: -3735.348
+Parameters optimization took 1 rounds (0.004 sec)
+Computing ML distances based on estimated model parameters... 0.000 sec
+Computing BIONJ tree...
+0.004 seconds
+Log-likelihood of BIONJ tree: -3714.412
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.050 second
+Computing log-likelihood of 98 initial trees ... 0.135 seconds
+Current best score: -3701.234
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -3701.042
+Iteration 10 / LogL: -3701.079 / Time: 0h:0m:59s
+Iteration 20 / LogL: -3710.214 / Time: 0h:0m:59s
+Finish initializing candidate tree set (7)
+Current best tree score: -3701.042 / CPU time: 0.312
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -3701.110 / Time: 0h:0m:59s (0h:2m:25s left)
+Iteration 40 / LogL: -3707.540 / Time: 0h:0m:59s (0h:1m:33s left)
+Iteration 50 / LogL: -3701.171 / Time: 0h:0m:59s (0h:1m:2s left)
+Iteration 60 / LogL: -3701.135 / Time: 0h:0m:59s (0h:0m:41s left)
+Iteration 70 / LogL: -3702.057 / Time: 0h:0m:59s (0h:0m:26s left)
+Iteration 80 / LogL: -3701.223 / Time: 0h:1m:0s (0h:0m:15s left)
+Iteration 90 / LogL: -3701.953 / Time: 0h:1m:0s (0h:0m:7s left)
+Iteration 100 / LogL: -3705.713 / Time: 0h:1m:0s (0h:0m:0s left)
+TREE SEARCH COMPLETED AFTER 102 ITERATIONS / Time: 0h:1m:0s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -3701.042
+Optimal log-likelihood: -3701.042
+Parameters optimization took 1 rounds (0.002 sec)
+BEST SCORE FOUND : -3701.042
+Total tree length: 4.596
+
+Total number of iterations: 102
+CPU time used for tree search: 0.422 sec (0h:0m:0s)
+Wall-clock time used for tree search: 1.172 sec (0h:0m:1s)
+Total CPU time used: 35.734 sec (0h:0m:35s)
+Total wall-clock time used: 60.258 sec (0h:1m:0s)
+
+Analysis results written to: 
+  IQ-TREE report:                project104.NEX.iqtree
+  Maximum-likelihood tree:       project104.NEX.treefile
+  Likelihood distances:          project104.NEX.mldist
+  Screen log file:               project104.NEX.log
+
+Date and Time: Sat Jul 15 08:34:38 2023

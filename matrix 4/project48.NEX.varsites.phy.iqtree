@@ -1,0 +1,220 @@
+IQ-TREE 1.6.12 built Aug 15 2019
+
+Input file name: project48.NEX.varsites.phy
+Type of analysis: tree reconstruction
+Random seed number: 381729
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Lam-Tung Nguyen, Heiko A. Schmidt, Arndt von Haeseler, and Bui Quang Minh
+(2015) IQ-TREE: A fast and effective stochastic algorithm for estimating
+maximum likelihood phylogenies. Mol Biol Evol, 32:268-274.
+https://doi.org/10.1093/molbev/msu300
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 80 sequences with 643 morphological sites
+Number of constant sites: 0 (= 0% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 0 (= 0% of all sites)
+Number of parsimony informative sites: 603
+Number of distinct site patterns: 639
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: MK+FQ+ASC
+
+State frequencies: (equal frequencies)
+
+Model of rate heterogeneity: Uniform
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -20358.3327 (s.e. 495.0146)
+Unconstrained log-likelihood (without tree): -4152.1859
+Number of free parameters (#branches + #model parameters): 157
+Akaike information criterion (AIC) score: 41030.6654
+Corrected Akaike information criterion (AICc) score: 41132.9581
+Bayesian information criterion (BIC) score: 41731.8501
+
+Total tree length (sum of branch lengths): 9.0207
+Sum of internal branch lengths: 3.0505 (33.8166% of tree length)
+
+NOTE: Tree is UNROOTED although outgroup taxon 'Orycteropus_afer' is drawn at root
+
++------------Orycteropus_afer
+|
+|                                                     +--Bos_taurus
+|                                                  +--|
+|                                                  |  +--Ovis_aries
+|                                               +--|
+|                                               |  +----Giraffa_camelopardalis
+|                                            +--|
+|                                            |  +--Antilocapra_americana
+|                                         +--|
+|                                         |  |  +--Odocoileus_virginianus
+|                                         |  +--|
+|                                         |     +--Cervus_elaphus
+|                                      +--|
+|                                      |  +---Moschus_moschiferus
+|                                   +--|
+|                                   |  +--Leptomeryx
+|                                +--|
+|                                |  +-----Tragulus
+|                             +--|
+|                             |  |     +---Camelus_dromedarius
+|                             |  |  +--|
+|                             |  |  |  +---Lama_glama
+|                             |  +--|
+|                             |     +---Poebrotherium
+|                          +--|
+|                          |  +-----Protoceras_celer
+|                       +--|
+|                       |  +---Cainotherium
+|                    +--|
+|                    |  |     +--Agriochoerus
+|                    |  |  +--|
+|                    |  |  |  +---Merycoidodon_sp.
+|                    |  +--|
+|                    |     +--Libycosaurus_petrocchii
+|                 +--|
+|                 |  |              +--Hippopotamus_amphibius
+|                 |  |           +--|
+|                 |  |           |  +--Choeropsis_liberiensis
+|                 |  |        +--|
+|                 |  |        |  +---Merycopotamus_dissimilis
+|                 |  |     +--|
+|                 |  |     |  |           +--Sus_scrofa
+|                 |  |     |  |        +--|
+|                 |  |     |  |        |  |     +--Babyrousa_babyrussa
+|                 |  |     |  |        |  |  +--|
+|                 |  |     |  |        |  |  |  +---Hylochoerus_meinertzhageni
+|                 |  |     |  |        |  +--|
+|                 |  |     |  |        |     +--Potamochoerus_porcus
+|                 |  |     |  |     +--|
+|                 |  |     |  |     |  +---Tayassu_tajacu
+|                 |  |     |  |  +--|
+|                 |  |     |  |  |  +--Xenohyus_venitor
+|                 |  |     |  +--|
+|                 |  |     |     +--Perchoerus
+|                 |  |  +--|
+|                 |  |  |  |  +--Elomeryx
+|                 |  |  |  +--|
+|                 |  |  |     +---Bothriogenys
+|                 |  +--|
+|                 |     |  +--Microbunodon_minimum
+|                 |     +--|
+|                 |        +---Anthracokeryx_ulnifer
+|              +--|
+|              |  |     +--Helohyus_plicodon
+|              |  |  +--|
+|              |  |  |  |  +----Diacodexis_pakistanensis
+|              |  |  |  +--|
+|              |  |  |     +--Diacodexis_sp.
+|              |  +--|
+|              |     |        +---Archaeotherium
+|              |     |     +--|
+|              |     |     |  +--Brachyhyops_wyomingensis
+|              |     |  +--|
+|              |     |  |  +--Andrewsarchus_mongoliensis
+|              |     +--|
+|              |        |     +--Siamotherium_krabiense
+|              |        |  +--|
+|              |        |  |  +--Achaenodon_uintensis
+|              |        +--|
+|              |           +---Indohyus_indirae
+|           +--|
+|           |  +--Gobiohyus_orientalis
+|        +--|
+|        |  |                                                         +--Tursiops_truncatus
+|        |  |                                                      +--|
+|        |  |                                                      |  |  +--Inia_geoffrensis
+|        |  |                                                      |  +--|
+|        |  |                                                      |     +--Pontoporia_blainvillei
+|        |  |                                                   +--|
+|        |  |                                                   |  +---Monodon_monoceros
+|        |  |                                                +--|
+|        |  |                                                |  +----Ziphius_cavirostris
+|        |  |                                            +---|
+|        |  |                                            |   +---Kogia_breviceps
+|        |  |                                  +---------|
+|        |  |                                  |         +---Balaenoptera_acutorostrata
+|        |  |                               +--|
+|        |  |                               |  +--Dorudon_atrox
+|        |  |                         +-----|
+|        |  |                         |     +--Basilosaurus
+|        |  |                      +--|
+|        |  |                      |  |  +--Artiocetus_clavis
+|        |  |                      |  +--|
+|        |  |                      |     +--Rodhocetus_balochistanensis
+|        |  |                 +----|
+|        |  |                 |    +--Ambulocetus_natans
+|        |  |              +--|
+|        |  |              |  +--Hapalodectes_hetangensis
+|        |  |           +--|
+|        |  |           |  +--Mesonyx_obtusidens
+|        |  |        +--|
+|        |  |        |  |  +--Sinonyx_jiashanensis
+|        |  |        |  +--|
+|        |  |        |     +--Dissacus_zanabazari
+|        |  |     +--|
+|        |  |     |  |     +--Pachyaena_ossifraga
+|        |  |     |  |  +--|
+|        |  |     |  |  |  +--Harpagolestes_orientalis
+|        |  |     |  +--|
+|        |  |     |     +--Dissacus_praenuntius
+|        |  |  +--|
+|        |  |  |  +--Harpagolestes_uintensis
+|        |  +--|
+|        |     +--Eoconodon_heilprinianus
+|     +--|
+|     |  |        +-----Dicerorhinus_sumatrensis
+|     |  |     +--|
+|     |  |     |  +---Tapirus_terrestris
+|     |  |  +--|
+|     |  |  |  +----Equus_caballus
+|     |  +--|
+|     |     +--Hyracotherium
+|  +--|
+|  |  +---Phenacodus
++--|
+|  |  +--Hyopsodus
+|  +--|
+|     +-----Protungulatum
+|
+|              +-----Ailurus_fulgens
+|           +--|
+|           |  +--Canis_latrans
+|        +--|
+|        |  |  +--Nandinia_binotata
+|        |  +--|
+|        |     +----Felis_silvestris
+|     +--|
+|     |  +--Vulpavus_profectus
+|  +--|
+|  |  |      +--Thinocyon
+|  |  |   +--|
+|  |  |   |  |  +--Hyaenodon
+|  |  |   |  +--|
+|  |  |   |     +---------Patriofelis
+|  |  +---|
+|  |      +--Proviverra
++--|
+   +----Erinaceus_europaeus
+
+Tree in newick format:
+
+(Orycteropus_afer:0.2589767466,((((((((((((((((((Bos_taurus:0.0756588488,Ovis_aries:0.0722608632):0.0201708201,Giraffa_camelopardalis:0.1018133103):0.0196311692,Antilocapra_americana:0.0514571010):0.0236487651,(Odocoileus_virginianus:0.0703881530,Cervus_elaphus:0.0549716002):0.0231605170):0.0435778737,Moschus_moschiferus:0.0790220019):0.0375012751,Leptomeryx:0.0757596698):0.0256677303,Tragulus:0.1188500240):0.0357739990,((Camelus_dromedarius:0.0951215852,Lama_glama:0.0779521534):0.0432098031,Poebrotherium:0.0777846167):0.0344223235):0.0333231453,Protoceras_celer:0.1194131794):0.0377423367,Cainotherium:0.0850679977):0.0479254437,((Agriochoerus:0.0591723151,Merycoidodon_sp.:0.0801839560):0.0235826772,Libycosaurus_petrocchii:0.0705626092):0.0327493878):0.0205354926,(((((Hippopotamus_amphibius:0.0747247325,Choeropsis_liberiensis:0.0725013339):0.0753187330,Merycopotamus_dissimilis:0.0871683318):0.0509445806,((((Sus_scrofa:0.0519607831,((Babyrousa_babyrussa:0.0373879039,Hylochoerus_meinertzhageni:0.0779952840):0.0355409840,Potamochoerus_porcus:0.0554515948):0.0254775107):0.0360753352,Tayassu_tajacu:0.0948188364):0.0184662656,Xenohyus_venitor:0.0694176810):0.0539078609,Perchoerus:0.0499207548):0.0305170597):0.0364456468,(Elomeryx:0.0321912356,Bothriogenys:0.0856070697):0.0442672019):0.0227213203,(Microbunodon_minimum:0.0675537779,Anthracokeryx_ulnifer:0.0809188542):0.0198451205):0.0194217840):0.0259832053,((Helohyus_plicodon:0.0368779831,(Diacodexis_pakistanensis:0.0977287107,Diacodexis_sp.:0.0579936176):0.0540152417):0.0283182751,(((Archaeotherium:0.0832545683,Brachyhyops_wyomingensis:0.0331094423):0.0345745667,Andrewsarchus_mongoliensis:0.0747028086):0.0203330131,((Siamotherium_krabiense:0.0743087642,Achaenodon_uintensis:0.0563055049):0.0261552304,Indohyus_indirae:0.0935859471):0.0162516930):0.0357240687):0.0243711685):0.0181294390,Gobiohyus_orientalis:0.0700459013):0.0335286759,(((((((((((((((Tursiops_truncatus:0.0499886261,(Inia_geoffrensis:0.0631240919,Pontoporia_blainvillei:0.0665810313):0.0277002704):0.0213595309,Monodon_monoceros:0.0906806608):0.0460655526,Ziphius_cavirostris:0.1081569907):0.0341935833,Kogia_breviceps:0.0917195050):0.0854308940,Balaenoptera_acutorostrata:0.0842127124):0.1934369679,Dorudon_atrox:0.0478380159):0.0195980949,Basilosaurus:0.0495271442):0.1278901173,(Artiocetus_clavis:0.0613484310,Rodhocetus_balochistanensis:0.0552474831):0.0312710745):0.0725493632,Ambulocetus_natans:0.0193941681):0.0973234486,Hapalodectes_hetangensis:0.0725098986):0.0459310318,Mesonyx_obtusidens:0.0456785722):0.0176573002,(Sinonyx_jiashanensis:0.0551753230,Dissacus_zanabazari:0.0611258193):0.0208611409):0.0227568347,((Pachyaena_ossifraga:0.0533762008,Harpagolestes_orientalis:0.0361318779):0.0164966608,Dissacus_praenuntius:0.0472643856):0.0244728608):0.0257817045,Harpagolestes_uintensis:0.0662224952):0.0500210266,Eoconodon_heilprinianus:0.0504416962):0.0342765917):0.0391589137,(((Dicerorhinus_sumatrensis:0.1152326685,Tapirus_terrestris:0.0951447275):0.0367587742,Equus_caballus:0.1110047631):0.0591183555,Hyracotherium:0.0279430446):0.0620613242):0.0289696478,Phenacodus:0.0851328519):0.0309449159,(Hyopsodus:0.0426500246,Protungulatum:0.1248136275):0.0490513852):0.0556310893,(((((Ailurus_fulgens:0.1212458930,Canis_latrans:0.0611537706):0.0325698540,(Nandinia_binotata:0.0725470301,Felis_silvestris:0.1095640584):0.0268360548):0.0611789321,Vulpavus_profectus:0.0414462628):0.0275683714,((Thinocyon:0.0337071770,(Hyaenodon:0.0509590710,Patriofelis:0.1907656067):0.0353442292):0.0221123641,Proviverra:0.0575710225):0.0863744546):0.0425793202,Erinaceus_europaeus:0.1136427674):0.0502145096);
+
+TIME STAMP
+----------
+
+Date and time: Fri Jul 14 08:39:07 2023
+Total CPU time used: 22.1094 seconds (0h:0m:22s)
+Total wall-clock time used: 67.8329 seconds (0h:1m:7s)
+

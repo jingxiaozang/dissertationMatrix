@@ -1,0 +1,165 @@
+IQ-TREE multicore version 1.6.12 for Windows 64-bit built Aug 15 2019
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    LAPTOP-L33PKUPE (AVX2, FMA3, 15 GB RAM)
+Command: iqtree.exe -s project48.NEX -st MORPH -m MK+ASC -nt AUTO
+Seed:    906537 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Fri Jul 14 08:37:43 2023
+Kernel:  AVX+FMA - auto-detect threads (20 CPU cores detected)
+
+Reading alignment file project48.NEX ... Nexus format detected
+WARNING: 30 sites contain only gaps or ambiguous characters.
+Alignment has 80 sequences with 690 columns, 656 distinct patterns
+603 parsimony-informative, 40 singleton sites, 47 constant sites
+WARNING: Some sequence names are changed as follows:
+Orycteropus afer -> Orycteropus_afer
+Bos taurus -> Bos_taurus
+Ovis aries -> Ovis_aries
+Odocoileus virginianus -> Odocoileus_virginianus
+Cervus elaphus -> Cervus_elaphus
+Giraffa camelopardalis -> Giraffa_camelopardalis
+Antilocapra americana -> Antilocapra_americana
+Moschus moschiferus -> Moschus_moschiferus
+Tursiops truncatus -> Tursiops_truncatus
+Monodon monoceros -> Monodon_monoceros
+Inia geoffrensis -> Inia_geoffrensis
+Pontoporia blainvillei -> Pontoporia_blainvillei
+Kogia breviceps -> Kogia_breviceps
+Ziphius cavirostris -> Ziphius_cavirostris
+Balaenoptera acutorostrata -> Balaenoptera_acutorostrata
+Hippopotamus amphibius -> Hippopotamus_amphibius
+Choeropsis liberiensis -> Choeropsis_liberiensis
+Sus scrofa -> Sus_scrofa
+Babyrousa babyrussa -> Babyrousa_babyrussa
+Potamochoerus porcus -> Potamochoerus_porcus
+Hylochoerus meinertzhageni -> Hylochoerus_meinertzhageni
+Tayassu tajacu -> Tayassu_tajacu
+Camelus dromedarius -> Camelus_dromedarius
+Lama glama -> Lama_glama
+Dicerorhinus sumatrensis -> Dicerorhinus_sumatrensis
+Tapirus terrestris -> Tapirus_terrestris
+Equus caballus -> Equus_caballus
+Ailurus fulgens -> Ailurus_fulgens
+Canis latrans -> Canis_latrans
+Nandinia binotata -> Nandinia_binotata
+Felis silvestris -> Felis_silvestris
+Erinaceus europaeus -> Erinaceus_europaeus
+Artiocetus clavis -> Artiocetus_clavis
+Rodhocetus balochistanensis -> Rodhocetus_balochistanensis
+Dorudon atrox -> Dorudon_atrox
+Pachyaena ossifraga -> Pachyaena_ossifraga
+Sinonyx jiashanensis -> Sinonyx_jiashanensis
+Mesonyx obtusidens -> Mesonyx_obtusidens
+Dissacus praenuntius -> Dissacus_praenuntius
+Dissacus zanabazari -> Dissacus_zanabazari
+Harpagolestes orientalis -> Harpagolestes_orientalis
+Harpagolestes uintensis -> Harpagolestes_uintensis
+Hapalodectes hetangensis -> Hapalodectes_hetangensis
+Helohyus plicodon -> Helohyus_plicodon
+Ambulocetus natans -> Ambulocetus_natans
+Gobiohyus orientalis -> Gobiohyus_orientalis
+Merycoidodon sp. -> Merycoidodon_sp.
+Diacodexis pakistanensis -> Diacodexis_pakistanensis
+Diacodexis sp. -> Diacodexis_sp.
+Microbunodon minimum -> Microbunodon_minimum
+Merycopotamus dissimilis -> Merycopotamus_dissimilis
+Xenohyus venitor -> Xenohyus_venitor
+Anthracokeryx ulnifer -> Anthracokeryx_ulnifer
+Libycosaurus petrocchii -> Libycosaurus_petrocchii
+Siamotherium krabiense -> Siamotherium_krabiense
+Brachyhyops wyomingensis -> Brachyhyops_wyomingensis
+Achaenodon uintensis -> Achaenodon_uintensis
+Andrewsarchus mongoliensis -> Andrewsarchus_mongoliensis
+Eoconodon heilprinianus -> Eoconodon_heilprinianus
+Protoceras celer -> Protoceras_celer
+Indohyus indirae -> Indohyus_indirae
+Vulpavus profectus -> Vulpavus_profectus
+
+                             Gap/Ambiguity  Composition  p-value
+   1  Orycteropus_afer              28.99%    passed     17.37%
+   2  Bos_taurus                    13.04%    failed      0.34%
+   3  Ovis_aries                    14.93%    failed      1.80%
+   4  Odocoileus_virginianus        16.23%    passed     13.93%
+   5  Cervus_elaphus                17.25%    passed      7.98%
+   6  Giraffa_camelopardalis        13.91%    passed     44.89%
+   7  Antilocapra_americana         19.86%    passed      6.76%
+   8  Moschus_moschiferus           21.45%    passed     68.54%
+   9  Tragulus                      18.26%    passed     46.55%
+  10  Tursiops_truncatus            46.09%    failed      0.02%
+  11  Monodon_monoceros             50.87%    failed      0.00%
+  12  Inia_geoffrensis              51.01%    failed      0.07%
+  13  Pontoporia_blainvillei        55.22%    failed      0.08%
+  14  Kogia_breviceps               51.45%    failed      0.98%
+  15  Ziphius_cavirostris           48.70%    failed      3.37%
+  16  Balaenoptera_acutorostrata    51.74%    failed      1.57%
+  17  Hippopotamus_amphibius        16.52%    passed      5.44%
+  18  Choeropsis_liberiensis        18.99%    passed     48.49%
+  19  Sus_scrofa                    16.96%    passed     94.67%
+  20  Babyrousa_babyrussa           23.19%    passed     81.51%
+  21  Potamochoerus_porcus          23.91%    passed     83.78%
+  22  Hylochoerus_meinertzhageni    25.51%    passed     75.50%
+  23  Tayassu_tajacu                21.59%    passed     81.52%
+  24  Camelus_dromedarius           17.25%    passed     53.45%
+  25  Lama_glama                    26.52%    passed     71.79%
+  26  Dicerorhinus_sumatrensis      36.67%    passed     60.19%
+  27  Tapirus_terrestris            22.17%    passed     44.24%
+  28  Equus_caballus                13.77%    passed     68.63%
+  29  Ailurus_fulgens               19.86%    passed     60.57%
+  30  Canis_latrans                 16.52%    passed     34.87%
+  31  Nandinia_binotata             21.74%    passed      8.03%
+  32  Felis_silvestris              27.25%    passed     72.39%
+  33  Erinaceus_europaeus           18.12%    failed      0.43%
+  34  Hyopsodus                     36.09%    failed      0.07%
+  35  Hyracotherium                 45.80%    passed     23.40%
+  36  Artiocetus_clavis             58.12%    passed     69.39%
+  37  Rodhocetus_balochistanensis   87.39%    passed     19.68%
+  38  Dorudon_atrox                 38.99%    passed      8.49%
+  39  Basilosaurus                  46.81%    passed     18.80%
+  40  Pachyaena_ossifraga           64.06%    passed      8.98%
+  41  Sinonyx_jiashanensis          39.13%    passed     19.90%
+  42  Mesonyx_obtusidens            42.17%    passed     62.70%
+  43  Dissacus_praenuntius          58.70%    passed     50.44%
+  44  Dissacus_zanabazari           45.36%    passed     91.69%
+  45  Harpagolestes_orientalis      68.70%    passed     66.08%
+  46  Harpagolestes_uintensis       60.29%    passed     61.27%
+  47  Hapalodectes_hetangensis      58.12%    passed     24.29%
+  48  Helohyus_plicodon             70.72%    passed     69.60%
+  49  Ambulocetus_natans            81.74%    passed     83.25%
+  50  Gobiohyus_orientalis          60.29%    passed     37.68%
+  51  Leptomeryx                    26.52%    passed     62.97%
+  52  Poebrotherium                 23.77%    passed     96.54%
+  53  Agriochoerus                  26.23%    passed     87.39%
+  54  Merycoidodon_sp.              24.20%    passed     67.43%
+  55  Diacodexis_pakistanensis      39.86%    failed      2.43%
+  56  Diacodexis_sp.                63.19%    passed     55.13%
+  57  Perchoerus                    39.42%    passed     46.32%
+  58  Archaeotherium                25.22%    passed     17.30%
+  59  Elomeryx                      36.67%    passed     92.04%
+  60  Microbunodon_minimum          55.94%    passed     28.13%
+  61  Merycopotamus_dissimilis      58.70%    passed     43.82%
+  62  Xenohyus_venitor              83.19%    passed     24.76%
+  63  Anthracokeryx_ulnifer         58.41%    passed     77.47%
+  64  Libycosaurus_petrocchii       83.48%    passed     78.43%
+  65  Bothriogenys                  44.93%    passed     41.68%
+  66  Siamotherium_krabiense        85.51%    passed     82.01%
+  67  Cainotherium                  25.65%    passed     75.04%
+  68  Phenacodus                    40.43%    passed     54.75%
+  69  Protungulatum                 78.99%    passed     23.96%
+  70  Brachyhyops_wyomingensis      74.49%    passed     11.44%
+  71  Achaenodon_uintensis          56.23%    passed     62.59%
+  72  Andrewsarchus_mongoliensis    78.55%    passed     30.39%
+  73  Eoconodon_heilprinianus       62.32%    failed      2.72%
+  74  Protoceras_celer              41.59%    passed     93.26%
+  75  Indohyus_indirae              70.87%    passed     87.21%
+  76  Vulpavus_profectus            33.48%    failed      1.93%
+  77  Thinocyon                     36.52%    passed      9.38%
+  78  Hyaenodon                     27.83%    passed     15.62%
+  79  Patriofelis                   35.65%    passed     18.46%
+  80  Proviverra                    31.74%    passed      7.72%
+WARNING: 28 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                         41.47%  14 sequences failed composition chi2 test (p-value<5%; df=5)
+Creating fast initial parsimony tree by random order stepwise addition...
+0.194 seconds, parsimony score: 3873 (based on 643 sites)
+ERROR: For your convenience alignment with variable sites printed to project48.NEX.varsites.phy
+ERROR: Invalid use of +ASC because of 47 invariant sites in the alignment

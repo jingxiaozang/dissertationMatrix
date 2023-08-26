@@ -1,0 +1,146 @@
+IQ-TREE multicore version 1.6.12 for Windows 64-bit built Aug 15 2019
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    LAPTOP-L33PKUPE (AVX2, FMA3, 15 GB RAM)
+Command: iqtree.exe -s project46.NEX -st MORPH -m MK+ASC -nt AUTO
+Seed:    281361 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Sat Jul 15 08:31:17 2023
+Kernel:  AVX+FMA - auto-detect threads (20 CPU cores detected)
+
+Reading alignment file project46.NEX ... Nexus format detected
+Skipping unknown block (NOTES)...
+Alignment has 80 sequences with 368 columns, 315 distinct patterns
+363 parsimony-informative, 2 singleton sites, 3 constant sites
+WARNING: Some sequence names are changed as follows:
+Ophiacodon retroversus -> Ophiacodon_retroversus
+Glyptodon reticulatus -> Glyptodon_reticulatus
+Doedicurus giganteus -> Doedicurus_giganteus
+Panochthus frenzelianus -> Panochthus_frenzelianus
+Dasypus novemcinctus -> Dasypus_novemcinctus
+Zaedyus pichiy -> Zaedyus_pichiy
+Paleothyris acadiana -> Paleothyris_acadiana
+Claudiosaurus germaini -> Claudiosaurus_germaini
+Coahomasuchus kahleorum -> Coahomasuchus_kahleorum
+Desmatosuchus haplocerus -> Desmatosuchus_haplocerus
+Typothorax coccinarum -> Typothorax_coccinarum
+Paratypothorax andressorum -> Paratypothorax_andressorum
+Protosuchus richardsoni -> Protosuchus_richardsoni
+Akanthosuchus langstoni -> Akanthosuchus_langstoni
+Simosuchus clarki -> Simosuchus_clarki
+Goniopholis lucasii -> Goniopholis_lucasii
+Mahajangasuchus insignis -> Mahajangasuchus_insignis
+Alligator mississippiensis -> Alligator_mississippiensis
+Caiman crocodilus -> Caiman_crocodilus
+Gavialis gangeticus -> Gavialis_gangeticus
+Euoplocephalus tutus -> Euoplocephalus_tutus
+Pinacosaurus grangeri -> Pinacosaurus_grangeri
+Sauropelta edwardsorum -> Sauropelta_edwardsorum
+Stegosaurus stenops -> Stegosaurus_stenops
+Scelidosaurus harrisonii -> Scelidosaurus_harrisonii
+Scutellosaurus lawleri -> Scutellosaurus_lawleri
+Rapetosaurus krausei -> Rapetosaurus_krausei
+Saltasaurus loricatus -> Saltasaurus_loricatus
+Titanosauridae sp -> Titanosauridae_sp
+Proganochelys quenstedti -> Proganochelys_quenstedti
+Chelydra serpentina -> Chelydra_serpentina
+Pseudemys scripta -> Pseudemys_scripta
+Sphenodon punctatus -> Sphenodon_punctatus
+Corucia zebrata -> Corucia_zebrata
+Anguis fragilis -> Anguis_fragilis
+Anthodon serrarius -> Anthodon_serrarius
+Scutosaurus karpinskii -> Scutosaurus_karpinskii
+Bradysaurus seeleyi -> Bradysaurus_seeleyi
+Pareiasaurus serridens -> Pareiasaurus_serridens
+Owenetta rubidgei -> Owenetta_rubidgei
+Trilophosaurus buettneri -> Trilophosaurus_buettneri
+Acleistorhinus pteroticus -> Acleistorhinus_pteroticus
+Macroleter poezicus -> Macroleter_poezicus
+
+                            Gap/Ambiguity  Composition  p-value
+   1  Seymouriidae                 36.14%    failed      0.00%
+   2  Diadectomorpha               42.93%    failed      0.00%
+   3  Casea                        38.59%    failed      0.00%
+   4  Ophiacodon_retroversus       37.23%    failed      0.00%
+   5  Edaphosauridae               41.85%    failed      0.00%
+   6  Sphenacodontidae             35.87%    failed      0.00%
+   7  Gorgonopsia                  39.40%    passed     43.49%
+   8  Procynosuchus                36.96%    passed     94.53%
+   9  Morganucodon                 47.55%    passed     37.24%
+  10  Glyptodon_reticulatus        39.13%    failed      0.02%
+  11  Glyptotherium                40.76%    failed      0.08%
+  12  Doedicurus_giganteus         39.13%    failed      0.06%
+  13  Panochthus_frenzelianus      39.13%    failed      0.04%
+  14  Dasypus_novemcinctus         22.55%    failed      0.25%
+  15  Zaedyus_pichiy               22.55%    failed      0.17%
+  16  Captorhinidae                36.14%    failed      0.00%
+  17  Araeoscelidia                37.77%    failed      0.00%
+  18  Paleothyris_acadiana         41.58%    failed      0.00%
+  19  Claudiosaurus_germaini       50.00%    passed     10.85%
+  20  Younginiformes               46.74%    failed      1.00%
+  21  Kuehneosauridae              67.39%    passed     99.23%
+  22  Coahomasuchus_kahleorum      76.63%    passed     89.49%
+  23  Desmatosuchus_haplocerus     40.49%    passed     22.37%
+  24  Typothorax_coccinarum        61.96%    passed     41.40%
+  25  Paratypothorax_andressorum   86.14%    failed      0.01%
+  26  Pseudopalatus                42.93%    passed     83.83%
+  27  Rutiodon                     35.60%    passed     67.99%
+  28  Protosuchus_richardsoni      38.59%    passed     46.02%
+  29  Akanthosuchus_langstoni      85.60%    failed      0.15%
+  30  Simosuchus_clarki            47.01%    passed     15.67%
+  31  Goniopholis_lucasii          55.71%    passed     46.83%
+  32  Mahajangasuchus_insignis     44.57%    passed     34.18%
+  33  Alligator_mississippiensis    4.35%    failed      0.00%
+  34  Crocodylus                    4.89%    failed      0.00%
+  35  Caiman_crocodilus             4.89%    failed      0.00%
+  36  Gavialis_gangeticus           4.89%    failed      0.00%
+  37  Euoplocephalus_tutus         42.39%    failed      0.26%
+  38  Pinacosaurus_grangeri        45.11%    passed      6.07%
+  39  Sauropelta_edwardsorum       41.85%    failed      0.03%
+  40  Stegosaurus_stenops          35.05%    failed      0.37%
+  41  Scelidosaurus_harrisonii     54.89%    passed     25.46%
+  42  Scutellosaurus_lawleri       70.38%    passed     76.67%
+  43  Rapetosaurus_krausei         92.93%    passed     50.01%
+  44  Saltasaurus_loricatus        77.99%    passed     29.41%
+  45  Titanosauridae_sp            93.21%    passed     57.15%
+  46  Proganochelys_quenstedti     38.32%    failed      0.40%
+  47  Chelydra_serpentina          17.39%    failed      1.18%
+  48  Pseudemys_scripta            18.48%    failed      0.44%
+  49  Geochelone                   19.02%    failed      0.23%
+  50  Trionyx                      20.38%    failed      0.44%
+  51  Baena                        73.37%    passed      8.71%
+  52  Sphenodon_punctatus          14.95%    passed     93.65%
+  53  Heloderma                     5.43%    passed     93.96%
+  54  Corucia_zebrata               4.08%    passed     89.82%
+  55  Tiliqua                       5.16%    passed     40.61%
+  56  Cordylus                      4.62%    passed     54.95%
+  57  Zonosaurus                    5.16%    passed     83.06%
+  58  Anguis_fragilis              22.01%    passed     94.87%
+  59  Ophisaurus                   20.65%    passed     92.36%
+  60  Gerrhonotus                   3.26%    passed     86.62%
+  61  Elgaria                       4.08%    passed     85.74%
+  62  Glyptosaurinae               60.05%    passed     96.57%
+  63  Mesosauridae                 54.08%    failed      0.03%
+  64  Millerettidae                44.57%    failed      0.00%
+  65  Anthodon_serrarius           32.61%    passed      5.79%
+  66  Scutosaurus_karpinskii       27.45%    passed     37.41%
+  67  Bradysaurus_seeleyi          27.72%    failed      4.12%
+  68  Pareiasaurus_serridens       29.89%    passed     13.12%
+  69  Procolophon                  38.04%    passed     60.06%
+  70  Owenetta_rubidgei            54.08%    passed     36.64%
+  71  Placodus                     33.42%    passed     75.93%
+  72  Eosauropterygia              67.93%    passed     98.17%
+  73  Cyamodontoidea               47.01%    passed     92.61%
+  74  Rhynchosauria                43.48%    passed     80.87%
+  75  Trilophosaurus_buettneri     45.92%    passed     80.28%
+  76  Choristodera                 45.38%    passed     52.87%
+  77  Prolacertiformes             45.11%    passed     65.33%
+  78  Acleistorhinus_pteroticus    69.02%    failed      1.03%
+  79  Lanthanosuchidae             69.02%    failed      2.55%
+  80  Macroleter_poezicus          59.24%    failed      0.02%
+WARNING: 19 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                        39.97%  36 sequences failed composition chi2 test (p-value<5%; df=6)
+Creating fast initial parsimony tree by random order stepwise addition...
+0.143 seconds, parsimony score: 1797 (based on 365 sites)
+ERROR: For your convenience alignment with variable sites printed to project46.NEX.varsites.phy
+ERROR: Invalid use of +ASC because of 3 invariant sites in the alignment

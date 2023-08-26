@@ -1,0 +1,27 @@
+IQ-TREE multicore version 1.6.12 for Windows 64-bit built Aug 15 2019
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    LAPTOP-L33PKUPE (AVX2, FMA3, 15 GB RAM)
+Command: iqtree.exe -s project45.PHY -st MORPH -m MK+ASC -nt AUTO
+Seed:    563628 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Mon Jul 10 20:32:18 2023
+Kernel:  AVX+FMA - auto-detect threads (20 CPU cores detected)
+
+Reading alignment file project45.PHY ... Phylip format detected
+Alignment most likely contains binary sequences
+WARNING: Your specified sequence type is different from the detected one
+Alignment has 37 sequences with 65 columns, 58 distinct patterns
+60 parsimony-informative, 5 singleton sites, 0 constant sites
+WARNING: Some sequence names are changed as follows:
+"Himantura -> _Himantura
+
+ERROR: Duplicated sequence name Myliobatis
+ERROR: Duplicated sequence name Myliobatis
+ERROR: Duplicated sequence name Myliobatis
+ERROR: Duplicated sequence name Myliobatis
+ERROR: Duplicated sequence name Myliobatis
+ERROR: Duplicated sequence name Myliobatis
+ERROR: Duplicated sequence name Rhinoptera
+ERROR: Duplicated sequence name Rhinoptera
+ERROR: Please rename sequences listed above!

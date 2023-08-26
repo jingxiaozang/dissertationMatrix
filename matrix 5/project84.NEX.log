@@ -1,0 +1,111 @@
+IQ-TREE multicore version 1.6.12 for Windows 64-bit built Aug 15 2019
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    LAPTOP-L33PKUPE (AVX2, FMA3, 15 GB RAM)
+Command: iqtree.exe -s project84.NEX -st MORPH -m MK+ASC -nt AUTO
+Seed:    170739 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Jul 11 18:20:16 2023
+Kernel:  AVX+FMA - auto-detect threads (20 CPU cores detected)
+
+Reading alignment file project84.NEX ... Nexus format detected
+Skipping unknown block (NOTES)...
+Skipping unknown block (MACCLADE)...
+Alignment has 14 sequences with 39 columns, 38 distinct patterns
+36 parsimony-informative, 3 singleton sites, 0 constant sites
+WARNING: Some sequence names are changed as follows:
+Rhabdognathus aslerensis -> Rhabdognathus_aslerensis
+Rhabdognathus keiniensis -> Rhabdognathus_keiniensis
+Dyrosaurus phosphaticus -> Dyrosaurus_phosphaticus
+Dyrosaurus maghribensis -> Dyrosaurus_maghribensis
+Chenanisuchus lateroculi -> Chenanisuchus_lateroculi
+
+                          Gap/Ambiguity  Composition  p-value
+   1  Eutretauranosuchus         30.77%    failed      0.00%
+   2  Elosuchus                  23.08%    failed      0.00%
+   3  Sarcosuchus                15.38%    failed      0.00%
+   4  Terminonaris               15.38%    passed     10.63%
+   5  Arambourgisuchus           15.38%    failed      0.01%
+   6  Hyposaurus                  5.13%    failed      4.11%
+   7  Rhabdognathus_aslerensis   33.33%    failed      0.05%
+   8  Rhabdognathus_keiniensis   33.33%    failed      0.05%
+   9  Dyrosaurus_phosphaticus     7.69%    passed     41.35%
+  10  Dyrosaurus_maghribensis     7.69%    passed     26.03%
+  11  Chenanisuchus_lateroculi   23.08%    passed     72.27%
+  12  Sokotosuchus               41.03%    passed     44.77%
+  13  Phosphatosaurus            38.46%    passed     89.72%
+  14  Congosaurus                51.28%    failed      4.79%
+WARNING: 1 sequences contain more than 50% gaps/ambiguity
+****  TOTAL                      24.36%  8 sequences failed composition chi2 test (p-value<5%; df=3)
+Creating fast initial parsimony tree by random order stepwise addition...
+0.016 seconds, parsimony score: 71 (based on 39 sites)
+
+NOTE: 0 MB RAM (0 GB) is required!
+Measuring multi-threading efficiency up to 20 CPU cores
+Increase to 10 rounds for branch lengths
+37928 trees examined
+Threads: 1 / Time: 20.000 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -419
+Threads: 2 / Time: 29.643 sec / Speedup: 0.675 / Efficiency: 34% / LogL: -419
+BEST NUMBER OF THREADS: 1
+
+Estimate model parameters (epsilon = 0.100)
+1. Initial log-likelihood: -328.387
+Optimal log-likelihood: -321.816
+Parameters optimization took 1 rounds (0.002 sec)
+Computing ML distances based on estimated model parameters... 0.000 sec
+WARNING: Some pairwise ML distances are too long (saturated)
+Computing BIONJ tree...
+0.003 seconds
+Log-likelihood of BIONJ tree: -319.270
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.018 second
+Computing log-likelihood of 98 initial trees ... 0.025 seconds
+Current best score: -310.663
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -310.655
+Iteration 10 / LogL: -310.683 / Time: 0h:0m:49s
+Iteration 20 / LogL: -310.733 / Time: 0h:0m:49s
+Finish initializing candidate tree set (5)
+Current best tree score: -310.655 / CPU time: 0.077
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -310.758 / Time: 0h:0m:49s (0h:2m:1s left)
+Iteration 40 / LogL: -314.666 / Time: 0h:0m:49s (0h:1m:17s left)
+Iteration 50 / LogL: -314.306 / Time: 0h:0m:49s (0h:0m:51s left)
+Iteration 60 / LogL: -314.585 / Time: 0h:0m:49s (0h:0m:34s left)
+Iteration 70 / LogL: -310.666 / Time: 0h:0m:49s (0h:0m:22s left)
+Iteration 80 / LogL: -314.911 / Time: 0h:0m:49s (0h:0m:13s left)
+Iteration 90 / LogL: -315.499 / Time: 0h:0m:49s (0h:0m:6s left)
+Iteration 100 / LogL: -316.156 / Time: 0h:0m:49s (0h:0m:0s left)
+TREE SEARCH COMPLETED AFTER 102 ITERATIONS / Time: 0h:0m:50s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -310.655
+Optimal log-likelihood: -310.655
+Parameters optimization took 1 rounds (0.001 sec)
+BEST SCORE FOUND : -310.655
+Total tree length: 2.064
+
+Total number of iterations: 102
+CPU time used for tree search: 0.016 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.301 sec (0h:0m:0s)
+Total CPU time used: 30.078 sec (0h:0m:30s)
+Total wall-clock time used: 50.017 sec (0h:0m:50s)
+
+Analysis results written to: 
+  IQ-TREE report:                project84.NEX.iqtree
+  Maximum-likelihood tree:       project84.NEX.treefile
+  Likelihood distances:          project84.NEX.mldist
+  Screen log file:               project84.NEX.log
+
+Date and Time: Tue Jul 11 18:21:06 2023
