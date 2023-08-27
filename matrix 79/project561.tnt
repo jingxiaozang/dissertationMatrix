@@ -1,0 +1,408 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 14.42.51'
+356 34
+
+&[num]
+Pteronarcyidae            100000100-00000100001000001?000000000001110101000000100020--11000000100000200000000000000000000000000000?0000001000000?10120002110110100-000-1000010001000?1000000-01000--00000001011201010111111?111100011111??0??11011001?1?1111010??11110001001200-010001?01111211112?1220200101210-1010?00?0-0-0010000000----0000----0010000010?00-0000010000000-000000000000100
+Tettigoniidae             00000011000000000000100020-0000000000001110101001000100000--10000000100000100010000000000000000000000000000000010011001101200021100-0101-000-100-01100000010100000-01000--00000001011-0101011111101110-100-0-?-0---000110001100100-0-0-01100000001210-020?01101111111012212201?0001210-201020014-0-0010?000010001010110230010000010?00-0000000000000-000000000000100
+Zorotypidae               000000101-000001000010001010000000000001110101000000100000--00000000100000100000000000000000000000000001000000120010000101200011100-0100-000-100-0100000--?0000000-01000--00010001011?10--01111100?1110110-100-10?0000?1001110?110-101000110000001210-0???01101111?1101202230401112210-0012000120000010100000----0010----0010000010000-0000000000000-000000001000100
+Caeciliusidae             00000011100000010000100010100000000?0001110101001000000000--00000000100000100000000000100000002000?0000100000002000100020120011110100100-000-000-01100100000001000-01000--000100010112110101011110111101010110-0---00000-1110011110100-00010000001210-0100011011111121023022020200101203010?0010-0-00101000000001001100020000000010?00-0000000000000-000000001100100
+Nevrorthidae              11102?00--01010001010100010011000011110100001100000000002010100000001000??100010000000000?000?0001??0000?00?00?20000000201100001100-010001010101-11000?0?0?10100010110110-00000001010-010100111111111101?110-1011001101101011111111010-11100011001200-01100?011001????02312213111100022300020013?0122110000010110011120-00000000010000-000000000000120000002?1??100?
+Osmylidae                 10002100--000000010111010100110000111111000111000000000110101000000010000?100010000000000000000001110000000?0012000000020110000110?-010001010101-11000?010110100010110110-00000001010-0101001111111111011110-100---1101101011111111000-11100011001200-01100?011001????02312213111100022300020013?01221100000111-0011110-11000000010?00-00000000000010000000201101000
+Chrysopidae               10002100--000000010111010100110000111111000111000000000100101000000010000010001000000000000000000111000000000012100000020110000110?-010001010101-11000?010110100010?10110-00000001010-010100?111111111010110-0-0---110110101?111111010-111000?1001210-001000011001????02010?12111100020300020013-01221100000111-0001120-00000000010000-00000000000010000000201101000
+Raphidiidae               111021001-0101000000130001000010000000010001010000000000001011000000100000100010000000000000000001110000000?000?201001220100000110?-000001010101-11000?010110100010210110-00000001010310--210111011111010110-1011001101101011111111011011100010101000-00100200000110111201031101110102100100101110011010000010111010112-10000000010?00-00000000000011000000101111000
+Inocelliidae              11102?001-0101???00??300??000010000000????0?01000000000?001?110000001000??000010000000000?00000001???????0??000?2010012???00000110?-000?01?10?01-11000?010110100010210110-000000????????????????????????????????????????????????????????????010101000-00100200000110111201031101110102100100?10110011010000010111010112-10000000010200-0000000000001100000010111100?
+Sialidae                  110021011000001000001310210000000000000100020100000100002010110000001000002000100000000000000000011100000000000110000112011000011011010001010101-110001010?10100010110110-000000?101031100?10111111111001110-1011001101101011111111011011100010101000-000001001001?11110010210?111000023000200?110011110000010110000110-00000000010?00-00000000000012000000201111000
+Corydalidae               111021001-0101000000121011000000000000010002010000010030201011000000100000100010000000000000000001110000000000?1?0100112011000011011010001010101-1110010?0110100010?10110-000000?1010?01002??11?0111110??110-101100110110001?111111011011100010101200-0101010011?1211112112312021001110000021011100111100000011-0000110-00000000010?00-????????????12000000201001000
+Ommatidae                 10002?000-0000???00??300??100000000??0????1?01000000000?000?11000000100021210010000000000000000001110000000-010?--?1211001200220010-0000-100-111-01111000011010-00-011110-10110001000310--0001000011110--0-0-0-11001001101111011110000-11010000200200-020003?01-01201102000101001003020001000111013101100000????????????0?-0?????????????????????????000000001??100?
+Cupedidae                 1000-?010000001-0001130011100000000110000010110100000000000011000000100021210010000000000000000001??0000000-0100--01211001200220010-0000-100-111-01111000011010-00-011110-10110001000310--0001100011110--0-0-0-11001001101111011110001011010000200200-020003?01-0120110200010100100302000100011101310110000001?-0-201??002-03112010?00-000000000?0?0-000000001101000
+Helophoridae              110020000-0201000101040011000000000200010000010100000100000011000000100020210000000000000000000001110000000-01010011011000200220010-0000-100-011-011110000?0010-00-00110--10110001000-00--0001000001010--0-0-0-0---1000100110011110000-11010000000??0-1?-?0??01-01--1102010202010012121011100111010121000000010-0-401?0000003112010?00-000000000?0?0-000000001101000
+Trachypachidae            100020000-020100010103001100001000-200010000010000000100000011000000100021210010000000000000000001110000000-0100--?1?11000230220010-0000-100-011-011110000?0010-00-00110--101100?1000-00--0001000001110--0-0-0-0---1?00??0??0011110000-11010000200??0-0?--0??01-01--110200010200100300-011000111012121000000010-0-401?0000003112010?00-00000011010?0-000000001101000
+Xyelidae                  00000?0110100001000012000100000100011001003101010100000000100000100120002000000010000000000000010000011000000001110000030112011110100000-1010101-00-00000011110101001010--0001010101030101110110111111010100-110---1?11101111111110010-11110101001222101000100100120111211031421-2-0-??300020012-02100210010100012--10012--2000000--00-0000001100000-000000000??1001
+Tenthredinidae            000000001-10000100001?00310000010001000000310101010000000000000010012000?0010010100000000000000200000110000000?1120020030112011110100000-1010101-00-00000011010101000010--00010101010301011101001110010--100-110---1001101-1?110110010-111101010012111010001000101201?122102142110-1-??300120012-0?10????010100012--10012--2000000--00-0000001100000-000000000101001
+Diprionidae               000000001-1000010000140001000001000100010031010101000000000?0000100120002?000010100000000000000200???11?00000001120020030112011110100000-1010101-00-00000011010101000010--00010101010301011101001?10010??1?0-1??---1001101-11?101??010-111101010012111010001000101201?12210214211011-123001200?2-0?10????010100012--10012--2000000--00-0000000000000-0000000?0??1001
+Rhyacophilidae            110030001-00101-00101---4-0000110012101000310101000000202010000000001100200000111000000000000000011101000000000110000002012011111011010001111?011111001000110110011010110-0001001101030111100111111011110100-100---1101110100110110100-1111?001001200-01100100111021011221200101100211-301020011010101101100311-01310----101--2111021100110100001000-000000001101010
+Limnephilidae             000030001-00101000001---4-00001100121010003101010000002020100000000011002?0000111000000000?0000001???10000000001100000020120111110110100011111011111001000110110011010110-0001001101030110110111111011110100-100---11011111011101101?0-11111001001??0-0???0??????0????12?1??0???????????0???00???????????100011-01310----101200?11021100000000001000-000000001101010
+Micropterigidae           10002?011-0010100000140021?0000100021010??3101010000000000100000000010002000100010000000000110200000010000000001100000021121111110?-01100111100111110001?0110110011?10110-0001100101031110010110111010-1010100-0---1101111110100110100-111100?1011000-001011202-102101021020030110010113010200?1000101101100011-00--0----?-0100021021111000100000000-000000001101010
+Agathiphagidae            10004?011-001010100115-04110000100121010003101010000000000110000000010002000101010000000000110000110?10??0000001100000021121111110?-01100111110111110001?0110110111?10110?00011001010?11101101101111110101010100---1101111111101110110-111100?1011000-001011202-10?1010211000001100110-3000010?1000101101100011-02--0------0222101121111111000001100-000000001101010
+Eriocraniidae             10004?010-00?0??100??5-0??00000100121010??3?010100000000001100000000100020001000100000000?0110000111010000000001100000021121111110?-01100111100111110001?0110110111?10110-000110010?03?11001011?11101101010100-0---1101111110100110100-111100?10?1200-010111202-10?111020000120110021103000200?1000101011100211-02--?------0232101121111001000001100-000000001??1010
+Boreus                    0000200101100011000005-0210000010012101000010111100000000010101001001100210000101011010001100120011101021101101100001002001000-0-0110--1010110010?0-0010001111000110001?0-32----01110?0100?20100000010---0------------00-01100-00--000---0-000000---------------------------------------------------------0?111-20000----0010000010?00-1000000010000-111000011001000
+Caurinus                  00002?01101??0???00??5-0??000001?????0????2?01111000000?0010100001001100212000001011010001000120011101001101110100001002001000-0-011---1010??001-?0-0010--1?110001?0001?0-32----01110?0101?20100000010---0------------00-01100-00--000---0-000000---------------------------------------------------------00111-00211?0000-11000010100-1000000000000-11?0000????10-?
+Panorpidae                00000001111010110000040031100011110210100001011100100000001000100100110021000010100001000110002001110102110110110000100200100110101110010101100101110010001111000110101100000100011102010?020100011010-01111010111111111000100100111111111000010010120000101000001110111310322021200111000001001002101001002011-00001?1-00111000010?00-1000010000010-221220011101000
+Bittacidae                0000000111101011?00??400??00001111021010??0101110010000?00100010010011002100001010000100010000200111110211011001000010020010011010101001010110010111001000111100011010110000010000-10000--020101001010-0111100-10111111100100010011100-111100010012020001101001111210111312320111100111001021001000101001001010-00010----0010000010100-0000010011010-22?220011101000
+Nannochoristidae          1001100110102010002024003101000100021010000101010000001020?-000102001101210001-011001-1111000020111111011010100100001002011001101010000101011001011100100011110001101011000001000111010101020111001010-0111101011111101100110010011110-111110010010020010001001001210111310321011100010301001001100101001002010-00001?0-00111000010100-1000010011010-021110011001000
+Pulicidae                 1000--001-010110001025-011000010001210??002100--00000000000-10000101110121020--011001-1101000010111111011010100100003112000000-0-0-----001011001-00-0000--00010-01100010---------1000-00--120100000010---0------------00-0-000-00--000---0-000000---------------------------------------------------------00011-0--0?----1000000010?00-0000010001010-000310011001000
+Tipulidae                 10004?000-0000--0?1115-0410?0010?012100000-100--00000000?00-00200100010111000--0-1001--011200020011111011010100210012002000001101010000111010001110-001000011100011000111-010100-0-01000--300001001000-011?11101112100?100-0001001?010-001?10010012?31001100101011100111201202001?1000-20120001110-03-000000011-20011?1-00010000010300-1000010011000-000001001101000
+Culicidae                 10014?000-00?11000?135-0310000100012101000?100--00000000200-00010000110111000220-1001-10?1000020011111011010100?10012012000001101010000111010001010-001000011100011000111-010100-0-01-00--000000001000-011?110-11121000100-0000000-010-000-000001122??0?000000110020??02010?0--------??-0001001110-0??-??000011-0-011?1-0-001000010?00-0000000001000-000000001101000
+Bibionidae                10004?000-000010?11115-04100001010121010002100--00000000000-00000000110111000--0-1001--011000020011111011000100??0012012000001101010000111010001?10-001000011100011000111-01010000-01-0100000001001000-011?110-1??2100?100-0001000-010-001-0000011213?0-2-00101-?1100111-0--020----0---30---00?110-03-000000011-0-011?1-0?0?1000010100-0000000011000-000001001??1000
+Mengenillidae             100020000-0000--01010---4-0000-000121000000001-2100010000110010000100-102103001000?01--00-0000-001---0001-0-0000--010010000002200011-000-100-001-00-00100110010000-00010--200100010?0-00--1001000010010--0-0-0-0---00010-0-0001010-000-1011-00000?120-1---0------10?3-?22222020121201?-3????00-2-031?1---000--------0------00--000--00-0000000000000-000000001--0100
+Xenidae                   100020000-0000--01010---4-0000-000121000000001-2100010000110000000100-102103001000?01--00-0000-001---0001-0-00?0--010010000002200011-000-100-001-00-00000110010000-00010--200100010?0-?0--1001000010010--0-0-0-0---00010-0-0001010-000-1011-?0010?--------0------10?3-1?3?2?0402012010--????00???????????000--------0------00--000--00-0000000000000-000000001--0100
+
+;
+
+
+cnames
+{ 0 Orientation_of_head_-_1 orthognathous prognathous_or_slightly_inclined;
+{ 1 Shape_of_anterior_(dorsal)_side_of_head distinctly_convex very_slightly_convex_or_flat,_nearly_parallel_to_ventral_(posterior)_side;
+{ 2 Neck_region absent distinctly_developed;
+{ 3 Split_cranial_setae absent present;
+{ 4 Lateral_eyes well_developed,_with_or_without_crystalline_cones distinctly_reduced,_with_ca._10_ommatidia_and_lacking_a_corn well_developed_stemmata stemmata_closely_aggregated strongly_reduced,_1-2_stemmata_or_single_eyespot;
+{ 5 Number_of_retinula_cells_in_ommatidia_or_stemmata less_than_15 15_or_more;
+{ 6 Paired_ocelli absent present;
+{ 7 Transverse_facial_strengthening_line_(frontoclypeal_suture) absent_or_only_vaguely_indicated present_and_distinct;
+{ 8 Division_of_clpyeal_area_into_anteclyepus_and_postclypeus absent present;
+{ 9 Shape_of_clypeal_part_anterad_of_transverse_strengthening_line broader_than_long longer_than_wide,_trapezoid,_anteriorly_converging;
+{ 10 Occipital_furrow absent present;
+{ 11 Gula absent undivided_sclerotized_quadrangular_gula strongly_narrowed_gula;
+{ 12 Hypostomal_bridge absent present,_not_sperated_from_genal_area present,_distinctly_separated_from_genal_area;
+{ 13 Posterior_tentorial_grooves close_to_hind_margin_of_head_capsule shifted_anterad;
+{ 14 Dorsal_tentorial_arm well_developed,_sclerotized strongly_reduced_and_ligament-like_or_absent;
+{ 15 Shape_of_tentorium not_X-shaped,_without_constriction_between_ant_&_post__arms X-shaped,_with_distinct_constriction_between_ant_&_post__arms largely_or_completely_reduced;
+{ 16 Dorsoventral_muscle_spanning_foramen_occipitale absent present;
+{ 17 Articulation_of_labrum free fused_with_clypeus;
+{ 18 Exposure_of_anterior_epipharynx not_exposed slightly_exposed distinctly_exposed;
+{ 19 M._frontolabralis_with_attachment_to_external_wall_of_labrum absent present;
+{ 20 M._frontoepipharyngalis absent present,_inserted_on_tormae_or_posterolaterally_on_epipharynx present,_inserted_close_to_median_line present,_attached_to_messores;
+{ 21 Antennal_segmentation multisegmented,_with_antenommeres_distinctly_separated pseudo-multisegmented,_with_mid-segment_subdivided 5-7_antennomeres 4_antennomeres 3_antennomeres less_than_3_antennomeres;
+{ 22 Sensorium_on_antepenultimate_antennomere absent present;
+{ 23 Specialised_terminal_seta_of_flagellum_(FITS) absent present;
+{ 24 Number_of_extrinsic_antennal_muscles 4 3 2 1 State_4;
+{ 25 Intrinsic_antennal_muscles_(Mm._scapopedicellaris) absent present;
+{ 26 Mola absent_or_strongly_reduced present;
+{ 27 Articulated_lacinia_mobilis absent present;
+{ 28 Mandibulo-maxillary_sucking_apparatus absent present;
+{ 29 Poison_channel_of_maxillary_stylet absent present;
+{ 30 Position_of_maxilla retracted protracted,_cardines_at_level_of_prementum,_max_groove_absen;
+{ 31 Maxillolabial_complex absent present;
+{ 32 Shape_of_the_proximal_parts_of_the_maxilla not_transverse transverse;
+{ 33 Posteromesal_process_of_cardo/proximal_element_of_the_maxilla absent present;
+{ 34 Galea_and_lacinia present_as_discrete_structures extensively_or_completely_united;
+{ 35 Stipital_flexor_muscles_of_lacinia_and_galea both_present one_muscle absent;
+{ 36 M._craniocardinalis well_developed absent;
+{ 37 Maxillary_palp absent present;
+{ 38 M._craniodististipitalis absent present;
+{ 39 M._submentopraementalis absent present;
+{ 40 M._praementoparaglossalis absent present;
+{ 41 M._praementoglossalis absent present;
+{ 42 Apical_prelabial_region without_process_or_extension_or_with_short_unsclerotised_ligula with_wedge-shaped,_strongly_sclerotised_ligula sclerotised_prelabial_extension_distinctly_developed together_with_hypopharynx_foming_compact_lobe_with_salivary;
+{ 43 Salivary_duct absent well_developed strongly_narrowed,_without_recognisable_lumen;
+{ 44 Cervix absent present;
+{ 45 Legs absent present;
+{ 46 Number_of_leg_segments more_than_4 3;
+{ 47 Claws double single absent;
+{ 48 Larval_segment_XI absent present;
+{ 49 Retractile_prolegs_on_segments_II-VII absent present;
+{ 50 Conical_ventral_protuberances_on_segments_I-VIII absent present;
+{ 51 Setiferous_lateral_filaments absent present;
+{ 52 Cerci absent present;
+{ 53 Urogomphi_on_segment_IX absent present;
+{ 54 Terminal_hooks absent single_hook_on_fleshy_lobes_of_segment_X single_hook_on_subdivided_prolegs_with_scerotised_elements double_hooks_on_unsclerotised_proleg;
+{ 55 Malpighian_tubules all_free several_cryptonephric_malpighian_tubules;
+{ 56 Larval_habitat terrestrial semiaquatic aquatic;
+{ 57 Endoparasitism_of_larvae absent present;
+{ 58 Movability_of_pupal_mandible absent present;
+{ 59 Size_of_pupal_mandible not_hypertrophied hypertrophied;
+{ 60 Exposure_of_posterior_head_region fully_exposed at_least_partly_retracted;
+{ 61 Orientation_of_head orthognathous proganthous_or_slightly_inclined;
+{ 62 Rostrum absent_or_extremely_short elongated,_not_including_maxillary_and_labial_elements elongated,_including_maxillary_and_labial_elements;
+{ 63 Frontal_apodeme absent present;
+{ 64 Shape_of_posterior_head_capsule not_concave concave;
+{ 65 Postgenal_bridge absent present,_not_delimited_laterally present,_laterally_delimited;
+{ 66 Dense_vestiture_of_microtrichia absent present;
+{ 67 Clypeus not_inflected inflected;
+{ 68 Shape_of_posterior_tentorium not_collar-like collar-like completely_absent;
+{ 69 Movability_of_labrum absent present;
+{ 70 Mouthfield_sclerite absent present;
+{ 71 Labro-epipharyngeal_food_canal absent present;
+{ 72 M._frontolabralis absent present,_origin_on_frons present,_origin_on_clypeus;
+{ 73 M._frontoepipharyngalis_presence absent present;
+{ 74 Insertion_of_antenna anteriorly_between_compound_eyes,_adjacent anteriorly_between_compound_eyes,_not_adjacent laterally;
+{ 75 Number_of_antennomeres more_than_11 11_or_less,_flagellomeres_not_forming_clava 11_or_less,_flagellomeres_forming_clava 8_or_less,_flagellomeres_flabellate;
+{ 76 Intercalary_sclerite_in_lateral_scapo-pedicellar_membrane absent present;
+{ 77 Shape_and_size_of_mandible not_elongated_and_blade-like_or_lamelliform elongated,_flattened_or_lamelliform blade-like;
+{ 78 Mandibular_mola distinctly_developed strongly_reduced_or_absent State_2;
+{ 79 Haustellum absent present;
+{ 80 Labio-maxillary_complex absent present;
+{ 81 Dorsal_concavitiy_of_anterior_labium_for_reception_of_elements_of_the_paired_mouthparts absent present;
+{ 82 Cardines not_fused_to_labial_elements fused;
+{ 83 Fusion_of_stipites_and_anterior_postmentum absent present;
+{ 84 Galea vestigial_or_absent distinctly_developed;
+{ 85 Galea_enfolds_lateral_part_of_labrum_and_lateral_mandibular_base absent present;
+{ 86 Shape_of_lacinia not_elongated_and_blade-like elongated_and_blade-like;
+{ 87 Salivary_channel_of_lacinia absent present;
+{ 88 Sensorium_on_3rd_maxillary_palpomere absent present;
+{ 89 M._craniocardinalis_presence absent present;
+{ 90 Origin_of_M._tentoriocardinalis_and_M._tentoriostipitalis tentorium frontoclypeal_region laterally_from_the_head_capsule;
+{ 91 Flexion_points_between_maxillary_palpomeres_1_and_2_and_3_and_4 absent present;
+{ 92 Arched_sclerite_with_long_piliform_scales_formed_by_postlabium absent present;
+{ 93 Internal_ridge_of_maxillolabial_plate_or_postlabium absent present;
+{ 94 Number_of_labial_palpomeres 3 5 2_or_less;
+{ 95 Secondary_subdivision_of_apical_labial_palpomere absent indistinct distinct,_appearing_as_two_separate_palpomeres;
+{ 96 Shape_of_apical_labial_palpomere not_spoon-shaped spoon-shaped;
+{ 97 Paraglossae vestigial_or_absent,_without_muscles present;
+{ 98 M._praementoparagossalis absent present;
+{ 99 M._praementoglossalis_presence absent present;
+{ 100 Size_of_Mm._praementopalpales not_enlarged enlarged;
+{ 101 Sclerotised_sitophore_plate absent present;
+{ 102 Epipharyngopharyngeal_lobe_reaching_into_pharynx_posteriorly absent present;
+{ 103 Size_of_M._clypeopalatalis not_enlarged enlarged,_two_major_subcomponents_and_multiple_bundles arranged_as_a_longitudinal_row_of_small_bundles;
+{ 104 Transverse_muscle_of_the_epipharynx absent present;
+{ 105 Precerebral_pharyngeal_pumping_chamber_within_chitinous_clasps absent present;
+{ 106 Postcerebral_pharyngeal_pumping_apparatus absent present;
+{ 107 Strongly_developed_intrinsic_muscle_of_salivarium absent present;
+{ 108 Configuration_of_brain_and_suboesophageal_complex distinctly_separated_by_the_circumoesophageal_connectives forming_a_compact_ganglionic_mass_around_the_pharynx;
+{ 109 Membranes_interconnecting_thoracic_sclerites exposed reduced,_not_exposed;
+{ 110 Dorsal_cervical_sclerite absent present;
+{ 111 Lateral_cervical_sclerite absent single_pair_of_sclerites_present two_pairs_of_sclerites_present;
+{ 112 Posteromedian_corner_of_lateral_cervical_sclerite not_protruding protruding_towards_prosternum fused_in_midline_(forming_a_jugulare);
+{ 113 Lateral_cervical_sclerite_and_propleuron not_fused partly_fused entirely_fused;
+{ 114 Length_of_pronotum shorter_than_pterothoracic_nota longer_than_pterothoracic_nota;
+{ 115 Lateral_connection_of_pronotum_and_propleuron absent partly_or_completely_connected;
+{ 116 Prothoracic-mesopleural_connection absent pronotal_and_anterior_mesepisternal_process_connected posterior_propleuron_connected_to_anterior_mesepisternum pronotum_and_propleura_connected_by_intersegmental_sclerites;
+{ 117 Externally_visible_part_of_prothoracic_basisternum small_or_absent large;
+{ 118 Prothoracic_precoxal_bridge absent present basisternum_and_propleuron_attached,_but_not_fused;
+{ 119 Profurcal_arm_and_propleura not_connected not_fused,_connected_by_muscle firmly_fused specifically_articulated;
+{ 120 Profurca_with_free_dorsal_arms absent present;
+{ 121 Prospina absent present;
+{ 122 Protrochantin absent distinctly_reduced well_developed fused_with_propleura;
+{ 123 Antenna-cleaning_apparatus_of_fore_leg absent formed_by_pre-apical_tibial_spur_and_the_distal_part_of_the_pr formed_by_an_apical_tibial_spur_and_the_inner_side_of_the_pro-basitar formed_by_2_protibial_spurs_and_a_comb_of_smaller_spines_between_t;
+{ 124 Movable_epiphysis_of_fore_tibia absent present;
+{ 125 Relative_size_of_pterothoracic_segments th2=th3 th2>th3 th2<th3;
+{ 126 Relative_size_of_wings equally_sized fore_wings_distinctly_larger hind_wings_distinctly_larger;
+{ 127 Median_mesonotal_suture absent present;
+{ 128 Membranous_area_between_mesoscutellum_and_mesopostnotum absent present;
+{ 129 Specific_locking_device_of_mesoscutellum absent present;
+{ 130 Mesothoracic_postalar_bridge absent present,_mesopostnotum_and_mesepimeron_firmly_fused;
+{ 131 Size_of_mesothoracic_postalar_bridge broad small;
+{ 132 Lateral_part_of_mesopostnotum small,_pointed enlarged,_tongue-like;
+{ 133 Mesothoracic_prealare absent present;
+{ 134 Mesothoracic_tegular_arm absent present;
+{ 135 Elongated_ventral_process_of_mesothoracic_pleural_ridge absent present;
+{ 136 Mesothoracic_meron_and_epimeron separate broadly_fused;
+{ 137 Mesosternum externally_exposed invaginated;
+{ 138 Mesofurca_and_-epimeron disrete fused;
+{ 139 Ventral_mesosternal_process_(below_mesofurca)_forming_sterno-coxal_joint absent present;
+{ 140 Size_of_ventral_mesosternal_process not_elongated elongated;
+{ 141 Mesospina absent present;
+{ 142 Proximal_part_of_mesocoxae recessed_into_coxal_cavities not_recessed_into_coxal_cavities;
+{ 143 Mesocoxae distinctly_sepapared_from_each_other closely_adjacent_medially;
+{ 144 Mesothoracic_sternocoxale continuous_with_anterior_eucoxa,_articulated_with_post._part continuous_with_posterior_eucoxa,_articulated_with_ant._part anteriorly_and_posteriorly_articulated;
+{ 145 Mesocoxal_meron absent present;
+{ 146 Mesotrochantin absent present;
+{ 147 Size_of_mesotrochantin well_developed small;
+{ 148 Transverse_ridge_of_mesoscutum absent present;
+{ 149 Alacristae absent present;
+{ 150 Metathoracic_postalar_bridge absent present,_metapostnotum_and_metepimeron_firmly_fused;
+{ 151 Metathoracic_tegular_arm absent present;
+{ 152 Metapostnotum single_sclerite medially_divided;
+{ 153 Size_of_metapostnotum small_to_moderately_sized strongly_elongated,_shield-like;
+{ 154 Metapostnotum_and_first_abdominal_tergum not_fused firmly_fused;
+{ 155 Metathoracic_katepisternum absent present;
+{ 156 Elongated_ventral_process_of_metathoracic_pleural_ridge absent present;
+{ 157 Metasternum externally_exposed invaginated;
+{ 158 Fusion_of_metafurca_and_-epimeron absent present;
+{ 159 Position_of_metafurca posterior_end_of_discriminal_ridge anterior_end_of_discriminal_ridge;
+{ 160 Anteromedian_metafurcal_process_closely_associated_with_metadiscrimen absent present;
+{ 161 Ventral_metasternal_process_(below_metafurca)_forming_sterno-coxal_joint absent present;
+{ 162 Size_of_ventral_metasternal_process not_elongated elongated;
+{ 163 Connection_between_metafurcal_arm_and_epimeral_apophysis no_connection muscular_connection connected_by_tendon completely_fused;
+{ 164 Metatrochantin absent present,_externally_visible internalised;
+{ 165 Orientation_of_metacoxae not_transverse transverse;
+{ 166 Metacoxae distinctly_delimited_from_each_other adjacent_or_allmost_adjacent_medially;
+{ 167 Metacoxal_meron absent present;
+{ 168 Metathoracic_meron_and_epimeron separate broadly_fused;
+{ 169 Metathoracic_sternocoxale continuous_with_anterior_eucoxal_sclerotisation,_articulated_with_po continuous_with_posterior_coxal_sclerotisation,_articulated_with_ante articulated_with_anterior_and_posterior_part_of_metacoxa;
+{ 170 Fore_wings wings elytra halteres clasping_organs;
+{ 171 Hind_wings wings halteres peg-like_sclerites;
+{ 172 Transverse_hindwing_folding_mechanism absent present;
+{ 173 Number_of_costal_cross_veins more_than_five less_than_five;
+{ 174 Dense_vestiture_of_scales_on_wings absent present;
+{ 175 Hamuli absent present,_connecting_fore_wings_and_hind_wings;
+{ 176 Insertion_site_of_the_anterior_pronoto-cervical_muscle lateral_cervical_sclerite_or_posterolateral_head_capsule corpotentorium;
+{ 177 M._profurca-phragmalis absent present;
+{ 178 Origin_of_M._profurca-phragmalis profurca posteriormost_part_of_propleura;
+{ 179 M._pronoto-coxalis_posterior absent present;
+{ 180 M._pronoto-trochanteralis absent present;
+{ 181 Origin_propleura-occipital_muscle anterodorsal_edge_of_propleuron close_to_propleural_ridge propleural_apodeme profurca;
+{ 182 M._prospina-mesopleuralis absent present;
+{ 183 M._procoxa-cervicalis absent present;
+{ 184 Origin_of_M._procoxa-cervicalis lateral_cervical_sclerite corpotentorium;
+{ 185 Orientation_of_both_bundles_of_M._procoxa-cervicalis parallel_to_each_other crossing_each_other;
+{ 186 Origin_of_M._profurca-tentorialis laterally_on_corpotentorium posteroventrally_on_head_capsule gula anteroventral_area_of_cervical_membrane;
+{ 187 M._profurca-spinalis absent present,_connecting_profurca_and_-spina present,_interconnecting_profurcal_arms;
+{ 188 M._profurca-mesospinalis absent present;
+{ 189 M._profurca-mesofurcalis strongly_reduced_or_absent present;
+{ 190 M._prospina-mesofurcalis absent present;
+{ 191 M._profurca-coxalis_medialis absent present;
+{ 192 M._prospina-coxalis absent present;
+{ 193 M._mesoscutello-postnotalis absent present;
+{ 194 M._mesonoto-sternalis absent present;
+{ 195 M._mesonoto-coxalis_posterior absent present;
+{ 196 M._mesonoto-trochanteralis absent present;
+{ 197 M._mesofurca-phragmalis absent present;
+{ 198 Insertion_of_M._mesofurca-phragmalis muscular by_long_thin_tendon;
+{ 199 Size_of_M._prophragma-mesanepisternalis strongly_developed moderately_sized_to_small;
+{ 200 Number_of_bundles_of_M._prophragma-mesanepisternalis 1 2;
+{ 201 M._mesonoto-basalaris absent present;
+{ 202 Insertion_of_M._mesonoto-basalaris immediately_mediad_of_basalar_stalk ventrolateral_part_of_basalar_disc;
+{ 203 M._mesonoto-pleuralis_anterior absent present;
+{ 204 Number_of_distinct_bundles_of_M._mesonoto-pleuralis_anterior 1 2;
+{ 205 M._mesonoto-pleuralis_medialis absent present;
+{ 206 Size_of_M._mesonoto-pleuralis_medialis moderate large;
+{ 207 M._mesonoto-pleuralis_posterior absent present;
+{ 208 Bundle_of_M._mesonoto-pleuralis_posterior_originating_on_dorsal_third_of_pleural_ridge absent present;
+{ 209 Bundle_of_M._mesonoto-pleuralis_posterior_originating_on_pleural_arm absent present;
+{ 210 Insertion_of_M._mesonoto-pleuralis_posterior posterolateral_mesoscutal_rim posterior_mesonotal_process fourth_axillary_sclerite;
+{ 211 M._mesanepisterno-axillaris absent present;
+{ 212 M._mesepimero-subalaris absent present;
+{ 213 M._mesopleura-subalaris absent present;
+{ 214 M._mesopleura-sternalis absent present;
+{ 215 M._mesofurca-pleuralis absent present;
+{ 216 Origin_of_M._mesofurca-pleuralis without_tendon with_a_tendon;
+{ 217 M._mesofurca-metanepisternalis absent present;
+{ 218 Insertion_of_M._mesobasalare-trochantinalis trochantin anterior_mesocoxal_rim;
+{ 219 M._mesanepisterno-coxalis_posterior absent present;
+{ 220 M._mesospina-metafurcalis absent present;
+{ 221 M._metascutello-postnotalis absent present;
+{ 222 M._metanoto-sternalis absent present;
+{ 223 M._metanoto-coxalis_posterior absent present;
+{ 224 M._metafurca-phragmalis absent present;
+{ 225 M._metanoto-basalaris absent present;
+{ 226 Insertion_of_M._metanoto-basalaris immediately_mediad_of_basalar_stalk ventrolateral_part_of_basalar_disc;
+{ 227 M._metanoto-pleuralis_anterior absent present;
+{ 228 M._metanoto-pleuralis_medialis absent present;
+{ 229 M._metanoto-pleuralis_posterior absent present;
+{ 230 Insertion_of_M._metanoto-pleuralis_posterior posterolateral_margin_of_metascutum posterior_metanotal_process;
+{ 231 M._metanepisterno-axillaris absent present;
+{ 232 M._metepimero-subalaris absent present;
+{ 233 M._metafurca-pleuralis absent present;
+{ 234 Insertion_of_M._metabasalare-trochantinalis metatrochantin anterior_metacoxal_rim;
+{ 235 Bundle_of_M._metafurca-trochanteralis_with_origin_on_discrimen absent present;
+{ 236 Muscle_between_second_abdominal_sternum_and_metacoxa absent present;
+{ 237 Furcostigmal_muscle_between_metafurcal_arm_and_first_abdominal_stigma absent present;
+{ 238 Arolium absent present;
+{ 239 Ventral_hairy_soles_on_tarsomeres absent present,_microtrichia_without_pedestal present,_microtrichia_with_pedestal;
+{ 240 Hairy_pulvilli absent present;
+{ 241 Tegula_in_the_fore_wing absent present;
+{ 242 Shape_of_anterior_notal_wing_process_of_the_mesonotum nearly_triangular_in_shape elongate_triangular_tip_directed_anteriorly not_triangular_in_shape;
+{ 243 Shape_of_the_posterior_notal_wing_process_of_the_mesonotum long_and_slender_process_(at_least_two_times_longer_than_wide) other_shape no_distinct_PNP_present;
+{ 244 Shape_of_fore_wing_4Ax 4Ax_absent approximately_as_wide_as_long,_approximately_triangular clearly_(more_than_2_times)_longer_than_wide about_twice_as_long_as_wide;
+{ 245 Distal_tip_of_fore_wing_4Ax bent_anteriorly not_bent_anteriorly;
+{ 246 Fore_wing_1Ax individual_sclerite fused_to_notum_or_absent;
+{ 247 Angle_between_distal_margins_of_body_and_neck_of_fore_wing_1Ax less_than_120Â° between_120Â°_and_180Â° 180Â°_or_more;
+{ 248 Shape_of_neck_of_fore_wing_1Ax narrow,_distal_margin_without_projections distal_margin_with_more_or_less_distinct_projection no_distinction_between_neck_and_body_possible;
+{ 249 Transition_from_body_to_neck_in_fore_wing_1Ax continuous neck_and_body_distinctly_separated_(by_incision_or_abrupt_change_o;
+{ 250 Radial_plate_of_fore_wing absent present;
+{ 251 Contact_between_base_of_radial_vein_(BR)_and_2Ax_of_fore_wing BR_not_fused_to_2Ax,_membranous_intersection_present BR_approx_as_wide_as_2Ax_and_fused_to_it BR_approx_half_as_wide_as_2Ax_and_fused_to_it BR_connected_to_2Ax_via_a_narrow_sclerotized_stripe_(1/3_or_less_of_the_width_of_the_2Ax);
+{ 252 Contact_of_the_2Ax_to_the_1Ax_in_the_fore_wing complete_proximo-caudal_part_of_2Ax_articulates_with_1Ax proximo-caudal_part_of_2Ax_separated_from_1Ax_by_a_membranous articulation_between_2Ax_and_1Ax_formed_by_proximo-cranial_and_di;
+{ 253 Number_of_elements_of_fore_wing_3Ax 1 2;
+{ 254 Shape_of_fore_wing_3Ax narrow,_more_than_4_times_longer_than_wide plate_like,_at_most_3_times_longer_than_wide narrow,_elongated,_3_to_4_times_longer_than_wide,_perpendicular_pr;
+{ 255 Orientation_of_distal_tip_of_fore_wing_3Ax_(wing_extended) cranially_orientated distally_orientated;
+{ 256 Caudal_arm_of_fore_wing_3Ax no_recognisable_separation_between_caudal,_distal_and_proximal_ar caudal_arm_recognisable,_parallel-sided;
+{ 257 Distance_of_the_articulation_of_the_distal_area_of_3Ax_from_the_notal_margin at_least_2_times_the_maximum_width_of_the_1Ax less_than_2_times_the_maximum_width_of_the_1Ax;
+{ 258 Median_plates_of_fore_wing absent separate fused;
+{ 259 Length_of_mesothoracic_posterior_wing_process_(PWP) ends_on_the_same_level_as_basalare distinctly_overtops_basalare;
+{ 260 Externally_visible_mesothoracic_subalare with_process_in_the_middle_of_the_dorsal_margin without_process dorsally_deeply_emarginate absent;
+{ 261 Shape_of_externally_visible_mesothoracic_subalare aproximatly_as_long_as_high longer_than_high;
+{ 262 Tegula_of_hind_wing absent present;
+{ 263 Subtegula_of_hind_wing distinct,_embracing_anterior_wing_margin small_sclerite_in_the_dorsal_wing_membrane absent;
+{ 264 Proportions_of_flat_part_of_anterior_notal_wing_process_(ANP)_of_hind_wing about_as_long_as_wide distinctly_wider_than_long clearly_longer_than_wide absent;
+{ 265 Humeral_plate_of_hind_wing separated_from_costal_vein_by_membrane formed_by_widened_end_of_costal_vein not_recognisable,_missing_or_indistinguishably_fused_to_costal_vein;
+{ 266 Shape_of_anterior_notal_wing_process_of_hind_wing nearly_triangular with_bifurcate_apex not_bifurcate_and_triangular;
+{ 267 Shape_of_posterior_notal_wing_process_(PNP)_of_hind_wing long_and_slender_process,_at_least_2_times_longer_than_wide long_and_widened_apically shorter,_distinctly_less_than_2_times_longer_than_wide absent;
+{ 268 4Ax_in_the_hind_wing absent not_U-shaped_with_the_open_side_anteriorly_directed U-shaped_with_the_open_side_anteriorly_directed;
+{ 269 Width_of_neck_of_hind_wing_1Ax distinctly_narrower_than_head_region_of_1Ax,_with_approximately_stra distinctly_narrower_than_head_region,_distal_margin_concave about_as_wide_as_indistinct_head_region very_slender_with_a_distinct_process_at_its_distal_margin extremely_short_or_absent;
+{ 270 Orientation_of_head_and_neck_of_hind_wing_1Ax head_and_neck_cranially_directed head_and/or_neck_bent_at_about_90Â°_distally head_absent;
+{ 271 Proximo-caudal_part_of_body_of_hind_wing_1Ax distinctly_longer_than_disto-caudal_part as_long_as_disto-caudal_part part_shorter_than_disto-caudal_part;
+{ 272 Distal_part_hind_wing_1Ax_body curved,_tip_pointing_caudally tip_of_pointing_distally tip_absent,_distal_corner_blunt,_rounded;
+{ 273 Caudal_margin_of_body_of_hind_wing_1Ax concave straight convex;
+{ 274 Angle_alpha_between_metathoracic_1Ax_and_notal_margin wider_than_50Â° between_25Â°_and_50Â° less_than_25Â°;
+{ 275 Length_ratio_of_1Ax_and_notum notum_more_than_3.8_times_longer notum_3-3.8_times_longer notum_2-3_times_longer notum_1.3-2_times_longer;
+{ 276 Angle_between_distal_margins_of_body_and_neck_of_hind_wing_1Ax less_than_110Â° wider_than_110Â°;
+{ 277 Shape_and_configuration_of_hind_wing_basiradiale not_fused_with_2Ax at_least_half_as_wide_as_2Ax_and_fused_to_it less_than_half_as_wide_as_2Ax_and_fused_to_it;
+{ 278 Position_of_contact_between_hind_wing_basiradiale_and_2Ax middle_of_BR_cranial_margin proximo-cranial_area_of_BR disto-cranial_area_of_2Ax;
+{ 279 Shape_of_hind_wing_2Ax_in_dorsal_view triangular semicircular elongated_and_rod-shaped irregular;
+{ 280 Lateral_process_of_hind_wing_2Ax_extending_under_body_of_1Ax absent present;
+{ 281 Caudal_process_of_hind_wing_3Ax absent present;
+{ 282 Contact_between_caudal_process_of_hind_wing_3Ax_and_posterior_notal_wing_process_(PNP)_or_4Ax apical_parts_of_caudal_process_and_PNP_in_contact contact_extended_over_a_longer_distance 3Ax_without_notal_contact_area,_articulates_with_caudo-distal_tip_of;
+{ 283 Shape_of_the_distal_process_of_hind_wing_3Ax with_one_tip distal_process_absent 3Ax_fused_to_bases_of_anal_veins;
+{ 284 Number_of_parts_of_hind_wing_3Ax one_element more_than_one_element;
+{ 285 Axillary_muscle_disc_of_hind_wing absent present;
+{ 286 Shape_of_metathoracic_posterior_notal_wing_process_(PNP)_in_ventro-lateral_view large_sclerite_with_long_caudal_process not_large_and/or_without_caudal_process;
+{ 287 Shape_of_metathoracic_basalare_(Ba) simple_plate ventral_plate_and_dorsal_extended_head extended_head_or_knob narrow_crescent_shaped_sclerite two_separate_simple_Ba_sclerites;
+{ 288 Shape_of_dorsal_head_of_metathoracic_basalare at_least_as_wide_as_the_widest_part_of_the_ventral_plate narrower;
+{ 289 Process_of_anterior_margin_of_metathoracic_basalare absent present,_connected_to_the_anterior_wing_margin;
+{ 290 Shape_of_the_knob_of_the_metathoracic_basalare simple_convexity very_small long_and_flat large_and_distended;
+{ 291 Cavity_for_knob_of_metathoracic_basalare_at_ventral_side_of_hind_wing ventral_bases_of_subcosta_(BSc)_and_humerus_simple,_pit_absent humerus_and_BSc_together_form_cavity_for_reception_of_basalar_kno cavity_formed_by_BSc_only;
+{ 292 Position_of_pleuro-axillary_joint fulcrum_articulates_with_2Ax fulcrum_articulates_with_1Ax_and_2Ax fulcrum_articulates_with_1Ax fulcrum-2Ax_joint_is_replaced_by_a_joint_formed_by_basalare_(Ba)_and;
+{ 293 Length_of_metathoracic_pleural_wing_process_(PWP) ends_on_same_level_with_basalare_(Ba) distinctly_overtops_Ba;
+{ 294 Size_of_externally_visible_metathoracic_subalare between_one_sixth_and_one_third_of_length_of_notum size_exceeds_one_third_of_notal_length less_than_one_sixth_of_notal_length;
+{ 295 Shape_of_externally_visible_metathoracic_subalare longer_than_high about_as_long_as_high;
+{ 296 Process_of_dorsal_margin_of_externally_visible_metathoracic_subalare absent present;
+{ 297 Field_of_sensilla_trichodea_in_membrane_between_subalare_and_dorsal_epimeral_margin absent present;
+{ 298 Close_association_between_metapostnotum_and_tergum_I absent present;
+{ 299 Fusion_of_abdominal_tergites_and_sternites_IX not_fused partly_fused fused_and_forming_a_ring-like_structure;
+{ 300 Tergum_VIII ventral_margins_normal,_not_enlarged saddle-shaped,_ventral_margins_enlarged connected_with_ventral_sclerites_by_slender_sclerite_band fused_with_ventral_sclerites;
+{ 301 Ventral_sclerites_of_segment_VIII_(gonocoxae_and_gonapophyses) distinct not_distinct;
+{ 302 Connection_of_gonocoxae_VIII_of_right_and_left_body_half absent fused_ventromedially;
+{ 303 Connection_of_gonapophyses_VIII_of_right_and_left_body_half separate fused;
+{ 304 Length_of_ventral_sclerites_of_segment_VIII not_distinctly_longer_than_tergum_VIII gonapophyses_elongate,_distinctly_longer_than_tergum_VIII entire_sclerotisation_strongly_prolonged_caudally_(gonocoxae_and_g;
+{ 305 Degree_of_fusion_of_terminal_segments_(IX_-_XI) clearly_separated terminal_segments_partially_fused completely_fused,_segmental_margins_not_traceable;
+{ 306 Sclerotisation_of_tergum_IX evenly_sclerotised ventral_margins_of_sclerotised_area_enlarged all_parts_weakly_sclerotised sclerotisation_not_continuous,_band-like fusion_with_ventral_sclerites;
+{ 307 Length_of_tergum_IX about_as_long_as_preceding_tergites about_half_as_long_as_preceding_tergites;
+{ 308 Ventral_sclerites_of_segment_IX absent present;
+{ 309 310._Gonocoxae,_gonapophyses_and_gonoplacs_IX all_elements_well_developed gonapophyses_reduced gonapophyses_and_gonoplacs_reduced;
+{ 310 Fusion_of_gonocoxae_IX_of_right_and_left_body_half absent fused_ventromedially fused_dorsomedially;
+{ 311 Fusion_of_gonapophyses_IX_of_right_and_left_body_half absent basally_fused completely_fused;
+{ 312 Lenght_of_ventral_sclerites_of_segment_IX not_markedly_longer_than_tergum_IX only_gonocoxae_caudally_prolonged gonapophyses_and_gonoplacs_caudally_prolonged only_gonoplacs_caudally_prolonged;
+{ 313 Median_closure_of_sclerotisation_of_tergum_X absent present_with_tergite_X_distinctly_sclerotised present_with_tergite_X_weakly_sclerotised;
+{ 314 Fusion_of_tergum_X_with_ventral_sclerotised_elements_of_segment_X absent fused_to_form_sclerotized_ring;
+{ 315 Cercus absent_or_vestigial present socii;
+{ 316 Retractability_of_postabdominal_segments not_or_only_very_slightly_retractable segments_posteriorly_tapering,_not_fused,_telescoping_(tube-like) segments_IX_+_X_(XI)_fused,_retractable_into_segment_VIII segment_IX_and_gonocoxae_VIII_retractible_(between_tgVIII_&_stVII);
+{ 317 Anterior_apophyses_VIII absent one_pair_on_gonocoxae_VIII two_pairs_on_tergum_VIII_and_gonocoxae_VIII one_pair_on_a_composite_formation_of_tergum_VIII_and_gonocoxae_V;
+{ 318 Posterior_apophyses_IX absent one_pair_originating_from_a_ventral_area one_pair_originating_from_a_dorsal_area;
+{ 319 Extrusion_of_terminal_segments by_hemolymph_pressure segment_VIII_and_terminal_unit_(segments_IX_-_XI)_extruded_by_musc gonocoxae_VIII_and_segment_IX_extruded_by_muscle_force;
+{ 320 Spermathecal_process_of_genital_chamber absent present,_sclerotised present,_unsclerotised;
+{ 321 Spermathecal_duct absent present;
+{ 322 Mesocuticle_in_the_spermathecal_duct absent present;
+{ 323 Muscularis_of_spermathecal_duct absent mainly_longitudinal_fibres mainly_circular_fibres longitudinal_and_circular_fibres_mixed;
+{ 324 Spermathecal_gland absent present;
+{ 325 Bursa_copulatrix absent present;
+{ 326 Size_of_bursa_copulatrix moderate enlarged,_balloon-like;
+{ 327 Muscle_06_(isVII-VIII06) absent present;
+{ 328 Muscle_08_(isVII-VIII08) absent present;
+{ 329 Muscle_11_(isVII-VIII11) absent present;
+{ 330 Muscle_12_(isVII-VIII12) absent present;
+{ 331 Muscle_24_(isVIII-IX11) absent present;
+{ 332 Muscle_29_(isX-XI02) absent present;
+{ 333 Muscle_34_(intraIX03) absent present;
+{ 334 Muscle_35_(intraIX04) absent present;
+{ 335 Muscle_48_(tVIII01) absent present;
+{ 336 Muscle_55_(seVIII-gc01) absent present;
+{ 337 Muscle_56_(seVIII-gc02) absent present;
+{ 338 Muscle_59_(seIX-gc02) absent present;
+{ 339 Trichobothria_field_on_tergum_X absent present;
+{ 340 Shape_of_the_trichobothria_field_on_tergum_X dense_circular_spot dense,_band-like loosely_arranged_trichobothria;
+{ 341 Elongation_of_tergite_IX absent present State_2;
+{ 342 Genitalic_capsule_of_males absent present,_basistyli_not_fused present,_basistyli_fused;
+{ 343 Stylar_organ_on_dististylus absent present;
+{ 344 Sperm_pump_with_genital_folds_enclosing_the_pumping_chamber absent with_movable_chamber_and_longitudinal_tegimen_formed_by_roof_of with_movable_chamber_and_pistil_formed_by_median_lobe_of_fulcrum with_movable_pistil_formed_by_roof_of_endophallus;
+{ 345 Aedeagus_apodeme_with_median_longitudinal_lamella absent well_developed vestigial,_serving_as_lever_of_the_pistill_levator;
+{ 346 Sperm_pump_formed_by_modified_endophallus absent present;
+{ 347 Accumulated_trichobothria_on_anal_segment absent present,_forming_a_band present,_forming_a_rosette;
+{ 348 Acanthae_of_proventriculus_close-set,_prominently_elongated absent present;
+{ 349 Number_of_Malpighian_tubules more_than_20 8_or_less;
+{ 350 Ovarioles panoistic meroistic;
+{ 351 Telotrophic_ovarioles_of_specialised_type absent present;
+{ 352 Appearance_of_fully_developed_compound_eyes_including_external_apparatus before_penultimate_(pupal)_stage at_pupal_stage;
+{ 353 External_wing_buds_in_immature_stages absent present;
+{ 354 Male_sex_chromosomes not_homogametic homogametic;
+{ 355 Haplo-diploidy absent present;
+;
+
+
+ccode  - 0.355;
+
+
+;

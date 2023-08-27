@@ -1,0 +1,85 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 14.39.20'
+43 24
+
+&[num]
+Weinbergina_opitzi                   0000031110010-0000--00000--2---000000000010
+Brachyopterus_stubblefieldi          00011?0000000-0000--000010?????0?0000000020
+Parastylonurus_ornatus               0000100110000-0000--00000110010000100000000
+Stoermeropterus_conicus              0000111000011000010000001100010100001010010
+Stoermeropterus_latus                0000111?0?0???00010000001??0?11100001010000
+Stoermeropterus_nodosus              00001???0????????????????10001110000?010011
+Vinetopterus_struvei                 1000131000011000010000001000???0001110?0011
+Vinetopterus_martini                 10?01310000???00010000001?0????0001110?0011
+Moselopterus_ancylotelson            0000131100011000010000001000?10010111101011
+Moselopterus_elongatus               0000131100011000010000001000???01011110101?
+Onychopterella_augusti               00?01??11?111000010101000????0-001100010000
+Onychopterella_kokomoensis           001013111011??00010101000000?0-001100010000
+Dolichopterus_macrocheirus           0000101110111111110111010110010000100000000
+Eurypterus_remipes                   011010111111111101111111000010-010100001000
+Hughmilleria_socialis                001111111011111101110111011100-010100000000
+Tylopterella_boylei                  00101??????????????????????????001100000000
+Megalograptus_ohioensis              11111212111111110111012-000100-011100000100
+Mixopterus_kiaeri                    01111?121011111101110111000100-010100100100
+Strobilopterus_princetonii           00001??10?1111011101110101??010000100???010
+Erieopterus_microphthalmus           010013110111111101110110001010-010100100000
+Rhenopterus_diensti                  0000100000000-0000--0000100000-001100100000
+Octoberaspis_ushakovi                00000????01?????02--002-002200-002100000030
+Loganamaraspis_dunlopi               00???31???000-??????????002200-0121000??020
+Diploaspis_casteri                   001101?00?1????002--002-0??2???002100201031
+
+;
+
+
+cnames
+{ 0 Anterior_margin_of_carapace unornamented denticulate;
+{ 1 Carapace_genal_facets absent present;
+{ 2 Lateral_eye_shape crescentic expanded;
+{ 3 Lateral_eye_position_on_carapace central anterior;
+{ 4 Lateral_eyes_associated_with_ophthalmic_ridge present absent;
+{ 5 Suture_on_ventral_plates Eurypterus-type Hughmilleria-_orHallipterus-type Megalograptus-type Erieopterus-type;
+{ 6 Transverse_suture_on_ventral_plates present abselnt;
+{ 7 Morphology_of_spines_prosomal_appendages_IIâ€“IV reduced_(length_<_width_of_podomere) regular_(width_â‰ˆ_width_of_podomere) enlarged_)(length_>_width_of_podomere);
+{ 8 Mobility_of_spines_on_appendages_IIâ€“IV fixed moveable;
+{ 9 Function_of_appendage_V solely_walking_or_prey_capture adapted_to_aid_in_balance_during_swimming;
+{ 10 Prosomal_appendage_VI walking_leg swimming_leg;
+{ 11 Shape_of_proximal_podomere_of_appendage_VI narrow_(L/Wâ‰¥2.0) expanded_(L/W<2.0);
+{ 12 Anterior_margin_of_coxa_VI undifferentiated expanded_to_form_ear;
+{ 13 Shape_of_ear_on_coxa_VI triangular rectangular/subquadrate;
+{ 14 Length_of_podomeres_VI-4_and_VI-5 VI-5â‰¥VI-4 VI-4>VI-5;
+{ 15 Distal_podomere_margin_of_VI-6_modified absent present;
+{ 16 VI-7_lateral_margins unornamented serrated;
+{ 17 Podomere_7a_on_appendage_VI absent present_on_posterior_of_appendage present_on_anterior_of_appendage;
+{ 18 Width_of_posterior_VI-7a narrow_(less_than_50%_of_width_of_VI-7) wide_(more_than_50%);
+{ 19 Shape_of_posterior_VI-7a oval triangular;
+{ 20 VI-8_lateral_margins unornamented serrated;
+{ 21 Morphology_of_VI-8/VI-9_joint_joint flush VI-9_set_into VI-8;
+{ 22 Length_of_VI-9_(as_ratio_of_VI-8) large_(>50%_of_VI-8_length) small_(<22%_of_VI-8_length) totally_absent;
+{ 23 Shape_of_podomere_VI-9 spinose triangular,_pentagonal_or_oval;
+{ 24 Podomere_cuticular_morphology rounded ridged;
+{ 25 Metastoma_anterior smooth_or_shallow_notch deeply_notched;
+{ 26 Shape_of_posterior_margin_of_metastoma rounded flattened_or_recurved angular;
+{ 27 Genital_operculum_morphology consisting_of_three_visible_segments consisting_of_two_visible_segments unfused;
+{ 28 Morphology_of_type-A_genital_appendage furca_fused unfused;
+{ 29 Spatulae_on_type-A_genital_appendage absent present;
+{ 30 Morphology_of_genital_spatulae angular rounded;
+{ 31 Moveable_preabdominal_spines absent present;
+{ 32 Postabdominal_epimera present absent;
+{ 33 Preabdominal/postabdominal_boundary between_7th_and_8th_segments between_6th_and_7th_segments between_4th_and_5th_segments;
+{ 34 Postabdomen undifferentiated narrowing_from_preabdomen;
+{ 35 Posterior_margin_of_segments_7-9 smooth dentate;
+{ 36 Posterior_margin_of_segments_10-12 smooth dentate;
+{ 37 Telson_shape straight curved paddle-like;
+{ 38 Telson_base flattened bulbous_expansion;
+{ 39 Telson_margin smooth serrated;
+{ 40 Opisthosoma_lateral_division none trilobed;
+{ 41 Primary_dorsal_ornamentation scales closely_spaced_pustules none coarse_pustules;
+{ 42 Row_of_node-like_scales_on_dorsal_opisthosomal_segments absent present;
+;
+
+
+ccode  - 0.42;
+
+
+;

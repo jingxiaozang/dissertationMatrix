@@ -1,0 +1,185 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 14.49.13'
+125 42
+
+&[num]
+Phenacodontids                    0-110000000001201110000---0-00001-000001000?020200000100---1100000000-1100200021010-0100??-0-0-0011110---0?01001002000--00?00
+Radinskya                         0??100000000?0???1??0-????????000000000100?0000000000101101010?0000??????????????????-???????????????????0???????????????????
+Phenacolophids                    ?????????????120001?000---0-10001-00000010001203310110010012121010000-0000200022010-010021103101-121100--1?????000?000--000?0
+Tethytheres                       1000010101101?001111000---0-001-1-0000002-112000300021230010001020202111312000021-0-0001?02032000012000203?00000012011--01101
+Hyracoids                         0-001101111011001110000---10001-1-0001212-01221231011101110000102020100030000012000-1001111031100012000202?02?0?111011--01102
+Hallensia                         0-?2100?1102011021101010001011000000001000000100000001111101000011102001?020000200101031111131001112110001?011001010120000102
+H._leporinum                      0-?2?01?1????1?121?01010001011000000011000?2010100000111110001?0011????????????1?1102?111011?1???????????1?????????????????0?
+Palaeosyops                       0-?2100?1?0001201210100---0-10001-1-022111021212100111211001110110200-013022001001002101202232102122100202?0110?1020?21-00102
+Lambdotherium                     0-1210011100012130101010001011000-000221000202121001112110010101102010002120000001202101202232102222101202?011011020121-00102
+Isectolophus                      0-????0?1??001200000200---11101-1-0102212-0--00030022023000001012120100131220113000-2041303232100203011203???????????21-0????
+Homogalax                         0-?2100?110001201200100---0-10001-0102211101200030012022100000012120100121210103001-2041202232100103011203????011020121-00102
+Cardiolophus                      0-?210011?0001201200000---0-1000000002211101100030012122100000012120100120210103001-1041201232100103011103???????????????????
+Orientolophus                     ?????????????????????????????????????210111110002001102210000000202????????????300102041101131101112101002???????????????????
+Cymbalophus                       ????????????????2?10?010000-10000000011011?110002001102210000000201?1100?010001200112131201132101112001112???????????????????
+Systemodon                        ????????1?????012010?010000-100000000110110110002001102210000000201011002010001200112131201132102122001112???????????????????
+Sifrhippus                        0-???????????10121100010001011000000000000?100001000012110000100101011001010001200102121100111001112100001????101??112001?102
+Arenahippus_grangeri              0-1210111101010131100010101011000000000000010000000001211000010010101100101100020010201011011100001211000100?1111?21120010102
+Xenicohippus_craspedotum          0-??????1????101301011101010110000000000000200000000012110000100101011013111110100212010110011000013011001???????????2001011?
+Xenicohippus_grangeri             ????????1?????01?01?11111010110000000000000200000000012110000100101111113121110200212020110111000013011101???????????????????
+Xenicohippus_osborni              0-12101111010101201011111010110000000000000200000000012110000100101111113121110200212020110111000013011101?012111021120010102
+Pliolophus_vulpiceps              0-?2?01?1?02?101211010121010100000000100000200010000012110000100101011002010000200212010110112000012110101????????21?20010?02
+Protorohippus_montanum            0-?210111????1013110101110101100000001000002000110000121100001002010110020110002002120211001?21000121111010??????????200101??
+Protorohippus_venticolum          0-12101111020101311010121010110100000100000201011001112110000100201011012011000100212021200022100012111201?012111021120020102
+Orohippus_major                   ????????1?????01?0?0111211101101011-0110000201011001012110010100201011?13122110100212021210022100011100201???????????20??????
+Orohippus_pumilus                 0-1210111102010130101112110-1101011-0110000202021001112200010100201011113122010000212021200022100011100201?012111021120120112
+Epihippus                         0-?2101?1102010130?02112110-1101011-01100001020210011122000101002010111131220100002120202000221000111002011??????????201201??
+Triplopus                         0-?1100?1?0001202010210---11101-010110202-1--003310220230011100121200-1130220103000-214130323211-3-0---2-2?0??1??021121-00102
+Hyrachyus                         0-110000000001112010100---11101-010102202-1--003310220230012100121202011302201031-0-2140303232-1-3-0---2-2?011101021121-00102
+Protapirus                        21111001110201212010110---11101-1-0101102-1--003310220230011000121202111302201031-0-2130303132-1-3-0---2-3?????010???????????
+Helaletes                         11?1100?1?00??203010100---11101-1-0110202-1--003310220230012110121202011302201131-0-214130313211-3-1100203???????????????????
+Heptodon                          10?21001110001102010110---11101-1-0111112-1--003310220230111110121202101201201031-0-214130313211-211100203?0??011021121-00102
+Eomoropus                         0-?2100?1?00?11020?0100---10101-1-011221111102033112202301101100112021112012001101112121303132001211100201????????2??21-0?1??
+Lophiaspis                        ??????0??????????1??100---10101-1-011220111112033112202301101100212???????22000110112041303132002211100201???????????????????
+Lophiodon                         0-????0????0??202-11100---10101-1-1-12212-1--20331122023011111002120100020020002100-2041303132001212100203???????????????????
+Pachynolophus                     0-?2100?110201113?1010100010110000000211000101013000102200010101012020012021001001211131202131101122110201?0?????000?20000102
+Propachynolophus                  ?????????????111201010110010110000000211000001012000111110010101012020012020001101101111211131001113100101????????10???????0?
+Lophiotherium                     ??????????????103010101000101101011-011100110202200101211101010110202111312211100121212121213111-122110201???????????????????
+Propalaeotherium                  10121011110202012?10101100101101011-02110010020230111022110102002020200120220010012121213032321021?2100201?111011010120000102
+Plagiolophus                      11121011110202102011111200101101011-012110101212311210221102020020202111302200100121213131323211-12311020211??011?0012000??02
+Anchilophus                       ?????????????????0?02110000-1101011-0211100020133102202301020300202????????????00121214030323211-22??????2???????????????????
+Palaeotherium                     11121011110202101011211200101101011-012110102212311220230102030020202111302201100120213030323211-2231102021111011000120000102
+Mesolambdolophus                  ??????????????213??????????????????????????????????????????????????0100?001?0010010?201?2112????1??30101?????????????????????
+
+;
+
+
+cnames
+{ 0 narial_incision shallow deep State_2;
+{ 1 narial_incision_extent to_level_of_P1 beyond_P1;
+{ 2 Foramen_fr_the_frontal_diploic_vein absent present;
+{ 3 Lacrimal-nasal_structure no_contact narrow broad;
+{ 4 Lacrimal_tubercle absent present;
+{ 5 Contact_of_frontal_and_maxilla_in_orbital_border absent present;
+{ 6 Optic_foramen significantly_anterior_of_the_posterior_group_of_foramina close_to_the_posterior_group_of_foramina;
+{ 7 Morphology_of_the_posterior_portion_of_the_palatine notch_or_foramen_for_palatine_neurovascular_group notch_or_foramen_absent;
+{ 8 Maxillary_tuber small large_and_forming_portion_of_the_floor_of_the_orbit;
+{ 9 Foramen_rotundum confluent_with_sphenorbital_fissure present_as_a_seperate_foramen;
+{ 10 Zygomatic_length rear_margin_located_rostral_to_posterior_border_of_glenoid_fossa extending_to_posterior_border_of_glenoid_fossa;
+{ 11 Position_of_basicranial_foramina foramen_ovale_and_middle_lacerate_foramen_distant close_but_not_completely_confluent completely_confluent;
+{ 12 Mastoid_process_of_the_petrosal_between_squamosal_and_exoccipital present absent_(amastoidy);
+{ 13 Braincase short_(rostrum_longer_than_basicranium) moderate_(rostrum_approximately_equal_in_length_to_basicranium) elongate_with_centrally_located_orbit_(basicranium_longer_than_rostrum);
+{ 14 Placement_of_posterior_margin_of_symphysis anterior_to_P1 about_level_to_P1 posterior_to_P1;
+{ 15 Shape_of_symphysis short_and_broad long_and_constricted,_wasp_waisted;
+{ 16 C-P1_and/or_C-P1_diastema absent short_(<_P2_length) moderate_(_>_or_>>_P2_length) long_(_>>_P2_length);
+{ 17 P1-P2_and/or_P1-P2_diastema absent short_(<_P2_length) moderate_(_>_or_>>_P2_length);
+{ 18 I3_distal_cusps present absent;
+{ 19 P1 present absent;
+{ 20 P2_medial_cusp absent single twinned;
+{ 21 P2_metacone_and_paracone_relative_position close distant;
+{ 22 P3_paraconule absent present;
+{ 23 P3_paraconule_position always_posterior_(on_protoloph) predominantly_anterior always_anterior;
+{ 24 P3_paraconule_placement medial lingual;
+{ 25 P3_paraconule_connection connected_to_medially_placed_protocone seperate_loph_with_no_connection_to_posterior_protocone_(in_effect_molariform);
+{ 26 P3_postprotocrista absent present;
+{ 27 P3_postprotocrista_form incomplete lophoid,_joining_ectoloph;
+{ 28 P3_metacone_size smaller_than_paracone equal_to_paracone;
+{ 29 P3_metaconule absent present;
+{ 30 P4_paraconule present absent;
+{ 31 P4_paraconule_position on_line_between_paracone_and_protocone significantly_anterior_of_a_line_formed_between_the_protocone_and_paracone;
+{ 32 P4_metaconule present absent;
+{ 33 P4_metaconule_position on_line_between_metacone_and_protocone detached_from_protocone_and_postero-lingual,_on_metaloph;
+{ 34 P4_postprotocrista present absent;
+{ 35 P4_postprotocrista_morphology incomplete,_not_joining_ectoloph lophoid,_joining_ectoloph;
+{ 36 Upper_premolar_metacone_position_relative_to_the_paracone distal disto-lingual;
+{ 37 Upper_molar_parastyle_size small moderate large;
+{ 38 Upper_molar_parastyle_height low moderate high;
+{ 39 Upper_molar_parastyle main_mass_of_parastyle_anterior_to_paracone main_mass_of_parastyle_buccal_to_continuation_of_the_line_that_the_paracone_and_metacone;
+{ 40 Upper_molar_paraconule distinct_and_seperate enclosed_in_loph absent;
+{ 41 Upper_molar_paraconule_size subequal_with_protocone small;
+{ 42 Upper_molar_ectocingulum continuous broken_at_paracone;
+{ 43 Paraconule/protocone_position paraconule_mesiodistally_distanced_from_protocone_with_oblique_preprotocrista_joining_the_paraconule_lingually paraconule_and_protocone_close_with_less_oblique_linkage near_transverse_preprotocrista_joining_paraconule_and_protocone;
+{ 44 Upper_molar_protoloph_groove deep_and_completlely_seperating_paraconule_and_protocone shallow absent;
+{ 45 Upper_molar_mesostyle absent sometimes_present_and_small,_often_as_ridge_or_cingular_bead always_present_and_large;
+{ 46 Upper_molar_paracone round flattened_buccally;
+{ 47 Upper_molar_paracone_and_metacone_position on_line slightly_W_shaped significantly_W_shaped paracone_buccal,_metacone_lingual;
+{ 48 Upper_molar_metaconule_and_metaloph_morphology metaconule_strong metaconule_weak,_forming_slight_step_in_mesiolingual_margin_of_metaloph_in_a_portion_of_individuals state_1_invariant metaconule_weak,_with_metaloph_scarcely_or_not_stepped;
+{ 49 Upper_molar_metacone_shape round flattened_buccally;
+{ 50 Upper_molar_protocone_and_hypocone_shape appx_linear_extensions_of_protoloph_and_metaloph distally_recurved;
+{ 51 Upper_molar_ectoloph_completeness incipient_(low_centrocrista) moderate_(notched_at_centrocrista) complete_(high_at_centrocrista);
+{ 52 Upper_molar_protoloph incipient sublophoid lophoid;
+{ 53 Upper_molar_protoloph-ectoloph_junction unnotched notched;
+{ 54 Preparaconule_crista_connection_with_ectoloph crista_directed_toward_parastyle toward_preparacrista,_sometimes_joining_it toward_preparacrista,_always_joining_it;
+{ 55 Upper_molar_metaloph absent incipient sub-lophoid lophoid;
+{ 56 Upper_molar_metaloph-ectoloph_junction unnotched notched;
+{ 57 Upper_molar_metaloph_orientation longitudinal_to_slightly_oblique extremely_oblique;
+{ 58 Pre-M3_metaloph-ectoloph_junction anterior_to_metacone toward_metacone;
+{ 59 Pre-M3_metastyle_shape straight slightly_externally_deflected very_externally_deflected;
+{ 60 M3_metacone_position equivalent_to_M2_metacone_position lingually_shifted_relative_to_M2_metacone_position;
+{ 61 M3_metastyle short moderate long extremely_long;
+{ 62 Molar_postcingulum thin inflated;
+{ 63 Upper_molar_relative_width narrow_(about_as_wide_as_long) broad_(much_wider_than_long);
+{ 64 Upper_molar_buccal_and_lingual_cusps_convergence_angle >100` >90`_and_<100` <90`;
+{ 65 Upper_molar_protocone-hypocone_seperation_relative_to_paracone-metacone_seperation approximately_equal greater;
+{ 66 Relative_molar_size M3_<_M2,_M3_<_M2 M3_<_M2,_M3_>_M2 M3_>_M2,_M3_>_M2;
+{ 67 P2_size small_and_simple_relative_to_the_molar_series large_and_blade-like_relative_to_the_molar_series;
+{ 68 P3_metaconid absent small large;
+{ 69 P3_metaconid_position close_to_protoconid buccal_to_protoconid_and_distant,_closer_to_margin_of_tooth_than_to_protoconid;
+{ 70 P3_size <_20%_smaller_than_M1_kinear_dimensions >20%_smaller_than_M1_linear_dimensions;
+{ 71 P3_hypoconid small large;
+{ 72 P3_talonid_shape strong_bowl weak_bowl weak_lateral_ridge strong_lateral_ridge;
+{ 73 P3_relatively_large,_with_a_trapezoidal_shape triangular trapezoidal;
+{ 74 P4_entoconid absent often_present_but_small always_present;
+{ 75 P4_posterior_half_with_distict_ridge_connecting_hypoconid_and_entoconid never sometimes always;
+{ 76 P4_talonid_morphology talonid_width_appx_equal_to_that_of_the_trigonid talonid_much_wider_than_trigonid;
+{ 77 P4_size significantly_smaller_than_M1 slightyl_smaller_than_M1;
+{ 78 Premolar_paralophid_complex very_short short long;
+{ 79 Crisitid_obliqua_position_on_the_protolophid at_metaconid_-_metastylid slightly_lingual middle buccal;
+{ 80 Cristid_obliqua large_crest_that_contacts_the_posterior_wall_of_the_trigonid smaller_crest;
+{ 81 Lower_molar_cristid_obliqua_anterior_attachment low high;
+{ 82 Lower_molar_metaconid untwinned twinned_but_second_cusp_small twinned_with_cusps_equal_in_size;
+{ 83 Lower_molar_metaconid_seperation small large;
+{ 84 Lower_molar_metastylid distinct small absent;
+{ 85 Molar_paralophoid_complex short long;
+{ 86 Paracristid_angle_relative_to_long_axis_of_tooth >>_50` >>_40` >>30` >>20` >>10`;
+{ 87 Paracristid_bend_at_mesiobuccal_angle rounded sharp;
+{ 88 Lower_molar_protolophid deeply_notched slightly_notched incipiently_lophoid lophoid;
+{ 89 Lower_molar_protolophid_posterior_margin steep gradual;
+{ 90 Lower_molar_hypolophid deeply_notched slightly_notched incipiently_lophoid lophoid;
+{ 91 Orientation_of_the_hypolophid straight slightly_inclined very_inclined;
+{ 92 Lower_molar_hypolophid_shape State_0 predominantly_type_I predominantly_type_II predominantly_type_III;
+{ 93 Lower_molar_buccal_and_lingual_cusps_convergence_angle >_40` >_20`_and_<_40` <_20`;
+{ 94 Lower_penultimate_molar_hypoconulid_position distant_from_hypolophid_(significant_gap_between_cusps) closely_appressed_(little_or_no_gap_between_hypolophid_and_hypoconulid);
+{ 95 Pre-M3_postcristid_branch present absent;
+{ 96 Lower_molar_postcristid buccal middle lingual;
+{ 97 Pre-M3_hypoconulid strong reduced very_small absent;
+{ 98 Pre-M3_displacement_of_hypoconulid buccal middle lingual;
+{ 99 M3_hypoconulid_basin absent reduced moderate large;
+{ 100 M3_heel_width wide narrow;
+{ 101 M3_heel_length short long;
+{ 102 M3_heel_shape uncrenulated_spike crenulated;
+{ 103 M3_hypolophid weak moderate strong;
+{ 104 M3_hypoconulid_connection straight_across triple_junction_connection_with_postcristid;
+{ 105 Wear_patterns flat more_vertical_along_2,_2a,_10,_9_but_equal vertical_with_elaboration_along_1,_2,_6,_7 vertical_with_elaboration_along_2,_2a,_8,_7,_7a;
+{ 106 Schmelzmuster Hunter-Schreger_bands_with_interprismatic_matrix_parallel_or_slightly_inclined_to_the_prism_directions Hunter-Schreger_bands_with_interprismatic_matrix_plates;
+{ 107 Cervical_series much_shorter_than_thoracic_series about_as_long_as_thoracic_series;
+{ 108 Number_of_lumbar_vertebrae fewer_than_six six_or_seven more_than_seven;
+{ 109 Number_of_sacral_vertebrae fewer_than_five five six;
+{ 110 Ilium short,_simple,_rounded exteneded,_wedge-shaped,_with_concave_iliac_crest_and_complex_tuber_coxae;
+{ 111 Supratrochlear_foramen_of_humerus absent present;
+{ 112 Entepicondylar_foramen present absent;
+{ 113 Carpal_arrangement lunate-unciform_contact lunate-unciform_never_touch;
+{ 114 Metacarpals longer_than_metatarsals appx_equal_to_metatarsals shorter_than_metatarsals;
+{ 115 Trochanter_major_of_femur low high;
+{ 116 Fovea_capitis central_depression notch;
+{ 117 Astragalo-navicular_contact round flat saddle-shaped;
+{ 118 Astragulus_with_a_saddle-shaped_navicular_contact_and tall_with_distinctly_seperated_trochlea_from_lower_astragalo-navicular_table short_and_squat with_trochlea_incorparated_into_main_mass_of_astragalus;
+{ 119 Astragulus_that_has_tall_trochlea_and medial_trochlea_with_distant_groove_at_antero-distal_end no_groove,_medial_trochlea_connects_fully_with_distal_astragalo-navicular_table;
+{ 120 Astragalar_trochlea_inclined vertical inclined_but_<10` >10`;
+{ 121 Astragalo-Cuboid_contact present absent;
+{ 122 Astragalar_foramen present absent;
+{ 123 Tarsal_arrangement cuboid-metarsal_III_contact_absent cuboid-metatarsal_III_contact_present;
+{ 124 Metatarsal_I_and_V no_reduction four_functional_digits three_functional_digits;
+;
+
+
+ccode  - 0.124;
+
+
+;

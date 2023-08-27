@@ -1,0 +1,144 @@
+nstates num 10;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 14.47.30'
+81 45
+
+&[num]
+Weinbergina_opitzi                      00000-0-?003100110000010-00-00000--0000000000---0022-0---000000000000001100000000
+Brachyopterus_stubblefieldi             00180-00101?0?0000000000-00-00000--00000000010??10???????0?001000000000---000000?
+Parastylonurus_ornatus                  00100-000010000110000000-00-00000--000000000011110000001000001100010000000000000?
+Stoermeropterus_conicus                 00100-001011100000000011000-00001000000000001100100010010100010001301001100000000
+Stoermeropterus_latus                   00100-00101110??????00???00-00001000000000001???100010?1110001000110100000000000?
+Stoermeropterus_nodosus                 00100-00101??????????????????????????????????10010001001110001000?20100110010000?
+Vinetopterus_struvei                    01100-001013100000000011000-00001000000000001000100010???00001101100?001100100000
+Vinetopterus_martini                    01100-?010131??0000000???00-00001000000000001?0?10???????00001101100?00110010000?
+Moselopterus_ancylotelson               00100-001013100100000011000-00001000000000001000100010?10010011011010101100100000
+Moselopterus_elongatus                  00100-001013100100000011000-00001000000000001000100010???010011011010101100?00000
+Onychopterella_augusti                  00150-?0101???01100?1011000-00001010001000000??0?0?????0-00101100000100000?00000?
+Onychopterella_kokomoensis              00150-10101310011000101??00-00001010001000000000100010?0-00101100020100000?00000?
+Dolichopterus_macrocheirus              00120-012010100210001011111001111012011011010111100110010000011000100000000000000
+Eurypterus_remipes                      00131010101010011001101120100100111100111000000010011010-010011000000100010011001
+Hughmilleria_socialis                   00170-122111110110001011201101001110001110100010?012-200-01011100000000000000011?
+Tylopterella_boylei                     00150-10101??????????????????????????????????????0???????00101100000000000000000?
+Megalograptus_ohioensis                 0112101040121012111110112010010011100012----00301012-100-011011000000010000011001
+Mixopterus_kiaeri                       00121010401?101211101011201111001110001110000000?012-200-01001110001001000000000?
+Strobilopterus_princetonii              00110-01301??001000?11111011011010120110100001?1?0???00100000110000???0110?000000
+Erieopterus_microphthalmus              00141100101310010001101120100100111000110000001010011010-01001100011000000000000?
+Rhenopterus_diensti                     00170-001010000000000000-00-00000--000000000100010000000-001011100010000000000000
+Octoberaspis_ushakovi                   00030-00000????????010??????0?002--00002----002001200000-00202100010000220000000?
+Loganamaraspis_dunlopi                  00030-?0???310??????0000-0??????????????????002001200000-01202100000??0---000000?
+Diploaspis_casteri                      00030-100001???0000?10??????00002--00002----0???01200????00202100002010220010000?
+Paraeurypterus_anatoliensis             00121001101?1??1100?10???010????????????????0???10???????0?00?????????00100010001
+Pentlandopterus_minor                   00121001101?????????10???010?????????????????????0???????01001100000000110000000?
+Chasmataspis_laurencii                  00000-10101?????????0?00-00-00000--000------0???01???????00202110000001220010000?
+Buffalopterus_pustulosus                00110-0110131???????11??????????????????????????100110?0-000011000120101101000000
+Syntomopterella_richardsoni             00110-0130131???????1?????????1011120?1?1???0?????????????????????????0110100000?
+Dolichopterus_jewetti                   00120-0120???00210011011111001111012011011010110100110010000011000100000100?00000
+Ruedemannipterus_stylonuroides          10160-01201?????????10???11001?1101?011010110????0???????0????????????0110000000?
+Clarkeipterus_testudineus               10020-01201?????????10???11001?1101?0?1010010???????????????????????????100?00???
+Clarkeipterus_otisius                   10020-01201?????????????????????????????????????????????????????????????100??????
+Erieopterus_eriensis                    0011110010131?01000?1011201001001110001100000???100110???010011000?0000000000000?
+Eurypterus_henkeni                      0013101010101??1100?1011201001001110001110000000?0?????0-010011000100100010011001
+Eurypterus_tetragonophalmus             00131010101010011001101120100100111100111000000010011010-010011000200100010011001
+Eurypterus_leopoldi                     00131010101?????????1??????????0111100111000000???????????0????0002001?001001100?
+Eurypterus_pittsfordensis               001310101010100110011011201001001111001110000000?0???????000011000200100010011001
+Eurypterus_henningsmoeni                0013101010101?0????11011201001001111001110000000?0?????0-010011000200100010011001
+Orcanopterus_manitoulinensis            10170-10201??002100010???0??0?001110001010010110?012-1???01011100000000000000010?
+Pterygotus_anglicus                     00130-1221111103---01011201101001111001110100000?012-200-000011000020100000000111
+Adelophthalmus_sievertsi                00170-1010111003---01011201101001111101110100000?012-2010010011000000000000000112
+Eurypterus_dekayi                       001310101010100110011011201001001110001110000000?0011010-010011000200000000010001
+Carcinosoma_newlini                     00190-10201?101211101011201111001111001111010000?012-200-01001110000000000000000?
+Nanahughmilleria_norvegica              00170-101011100110001011201101001111101110100100?012-2010000111000000000000000111
+
+;
+
+
+cnames
+{ 0 Angular_projection_on_the_anterior_of_the_carapace absent present;
+{ 1 Anterior_margin_of_carapace unornamented denticulate;
+{ 2 Carapace_genal_spines present absent;
+{ 3 Carapace_shape horseshoe_or_wide-horseshoe semicircular quadrate trapezoidal wide-rectangular subquadrate campanulate parabolic spatulate triangular;
+{ 4 Carapace_genal_facets absent present;
+{ 5 Angle_of_genal_facets low_angle high_angle;
+{ 6 Lateral_eye_shape crescentic expanded;
+{ 7 Size_of_palpebral_lobe small large absent;
+{ 8 Lateral_eye_position centrilateral centrimesial antelateral central antemesial;
+{ 9 Lateral_eye_abuts_carapace_margin absent present;
+{ 10 Lateral_eyes_associated_with_ophthalmic_ridge present absent;
+{ 11 Suture_on_ventral_plates Eurypterus-type Hughmilleria-_or_Hallipterus-type Megalograptus-type Erieopterus-type;
+{ 12 Transverse_suture_on_ventral_plates present absent;
+{ 13 Chelicerae small able_to_extend_beyond_marginal_rim;
+{ 14 Relative_lengths_of_appendages_II-V increasing_posteriorly forward_appendages_enlarged;
+{ 15 Morphology_of_spines_on_prosomal_appendages_IIâ€“IV reduced_[length_<_width_of_podomere] regular_[length_â‰ˆ_width_of_podomere] enlarged_[length_>_width_of_podomere] absent;
+{ 16 Mobility_of_spines_on_appendages_IIâ€“IV fixed moveable;
+{ 17 Orientation_of_spines_on_appendages_IIâ€“IV ventral anterior;
+{ 18 Spines_on_appendages_IIâ€“IV_thickened_and_highly_sclerotised absent present;
+{ 19 Function_of_appendage_V solely_walking_or_prey-capture adapted_to_aid_in_balance_during_swimming;
+{ 20 Prosomal_appendage_VI walking_leg swimming_leg;
+{ 21 Length_of_prosomal_appendage_VI long short_[barely_projecting_from_beneath_carapace];
+{ 22 Shape_of_proximal_podomere_of_appendage_VI narrow_[L/Wâ‰¥2.0] expanded_[L/W<2.0];
+{ 23 Anterior_margin_of_coxa_VI undifferentiated expanded_to_form_â€˜earâ€™;
+{ 24 Shape_of_â€˜earâ€™_on_coxa_VI triangular rectangular subquadrate/semicircular;
+{ 25 Angle_between_VI-3_and_VI-4 180Ëš not_180Ëš;
+{ 26 Length_of_podomeres_VIâ€“4_and_VIâ€“5 VIâ€“5>VIâ€“4 VIâ€“4â‰¥VIâ€“5;
+{ 27 Length_of_podomeres_VIâ€“4_when_VI-5_is_not_longer >VIâ€“3_and_VI-5 VIâ€“3_and_VIâ€“5;
+{ 28 Podomere_VI-5_bordering_podomere_VI-7 absent present;
+{ 29 Distal_podomere_margin_of_VIâ€“6_modified absent present;
+{ 30 VIâ€“7_lateral_margins unornamented serrated;
+{ 31 Angular_projection_on_the_anterior_of_podomere_VI-7 absent present;
+{ 32 Podomere_7a_on_appendage_VI absent present_on_posterior_of_appendage present_on_anterior_of_appendage;
+{ 33 Width_of_posterior_VIâ€“7a narrow_[less_than_50%_width_of_VIâ€“7] wide_[more_than_50%];
+{ 34 Shape_of_posterior_VIâ€“7a oval triangular;
+{ 35 VIâ€“8_lateral_margins unornamented small_serrations enlarged_serrations;
+{ 36 VIâ€“8_anterior_projection absent present;
+{ 37 Additional_moveable_lobe_on_VI-8 absent present;
+{ 38 Morphology_of_VIâ€“8/VIâ€“9_joint joint_flush VIâ€“9_set_into_VIâ€“8;
+{ 39 Length_of_VIâ€“9_(as_ratio_of_VIâ€“8) large_[>50%_of_VIâ€“8_length] small_[<22%_of_VIâ€“8_length] totally_absent;
+{ 40 Shape_of_podomere_VIâ€“9 spinose triangular,_pentagonal_or_oval;
+{ 41 VIâ€“9_margin no_ornament serrated;
+{ 42 VIâ€“9_position centrally_on_podomere_8 migrating_towards_posterior_of_podomere_8;
+{ 43 VIâ€“9_expanded absent present;
+{ 44 Podomere_cuticular_morphology rounded ridged;
+{ 45 Metastoma_anterior smooth_or_shallow_notch deeply_notched;
+{ 46 Shape_of_posterior_margin_of_metastoma rounded truncated/flattened angular notched;
+{ 47 Metastoma_width as_broad_or_broader_than_long narrow;
+{ 48 First_segment_expressed_dorsally expressed folded_under_carapace;
+{ 49 Microtergite absent present;
+{ 50 Genital_operculum_morphology consisting_of_three_visible_segments consisting_of_two_visible_segments unfused;
+{ 51 Morphology_of_anterior_opercular_plate fully_expressed lateral_expression_only completely_supressed;
+{ 52 Thickness_of_anterior_opercular_plate fully_expressed narrow;
+{ 53 MOP_and_POP_morphology separate/with_clear_suture without_suture_but_with_ornament_differentiation without_suture_and_without_ornament_differentiation;
+{ 54 Morphology_of_type_A_genital_appendage_furca fused unfused;
+{ 55 Spatulae_on_type_A_genital_appendage absent present;
+{ 56 Morphology_of_spatulae angular rounded;
+{ 57 Moveable_preabdominal_spines absent present;
+{ 58 Postabdominal_epimera present absent;
+{ 59 Preabdominal/postabdominal_boundary between_7th_and_8th_segments between_6th_and_7th_segments between_4th_and_5th_segments;
+{ 60 Epimera_on_segment_7 absent present;
+{ 61 Number_of_segments_in_postabdomen 3 5_or_6 9;
+{ 62 Postabdomen undifferentiated narrowing_from_preabdomen;
+{ 63 Caudal_postabdoment absent present;
+{ 64 Posterior_margin_of_segments_7â€“9 smooth dentate;
+{ 65 Posterior_margin_of_segments_10â€“12 smooth dentate;
+{ 66 Epimera_on_pretelson absent angular rounded sexually_dimorphic;
+{ 67 Telson_shape straight curved paddle-like;
+{ 68 Telson_base flattened bulbous_expansion;
+{ 69 Telson_margin smooth serrated;
+{ 70 Opisthosoma_lateral_division none trilobed;
+{ 71 Primary_opisthosomal_ornamentation scales closely_spaced_pustules coarse_pustules;
+{ 72 Primary_carapace_ornamentation scales closely_spaced_pustules coarse_pustules;
+{ 73 Principal_scale_on_carapace absent present;
+{ 74 Carapace_ornament_including_elongate_pustules_that_angle_away_from_the_lateral_eyes_and_curve_around_the_carapace_margin absent present;
+{ 75 Row_of_node-like_scales_on_dorsal_opisthosomal_segments absent present;
+{ 76 Ornamentation_of_angular_scales_across_posterior_of_tergite_segments absent present;
+{ 77 Longitudinal_rows_of_angular_scales_on_tergites absent present;
+{ 78 Ornament_of_chevron_scales absent present;
+{ 79 Ornament_of_linguoid_scales absent present;
+{ 80 Form_of_posterior_margin_of_articulating_facet_on_tergites row_of_pustules row_of_scales groove;
+;
+
+
+ccode  - 0.80;
+
+
+;

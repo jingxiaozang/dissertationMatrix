@@ -1,0 +1,187 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 14.06.01'
+114 55
+
+&[num]
+Eoredlichia_intermedia                     000000000000000000000000-000001000000000-000-0-00-00000-000000000000000000-0-0-0000-000---00-00-???????????000-0-0
+Altiocculus_harrisi                        110000000000010100000000-000000-10011200-000-0-10-0?????????10111012100100-0-0-2-00-11100000-00-??????????????????
+Elrathia_kingii                            110000000000010100000000-000001010012200-000-0-10-0?????????30111012100100-100-0001-11100000-00-0-100000000000-0-0
+Ehmaniella_apolabella                      010000000000010100000000-000001010011200-000-0-10-0??????????0???????????0-0-0-2-???11100000-00-0-100000000000-0-0
+Lermontovia_dzevanovskii                   0000000000000001000000011000000-000111110000-0-00-0?????????10000001100000-0-0-0000-000---00-00-??????????????????
+Modocia_kohli                              010000000000110100000000-000100-100120010000-0-00-0?????????30001011100000-000-0001-11100000-00-??????????????????
+Marjumia_typa                              010000000000000100010000-000000-10011100-000-0-00-0?????????00000000100000-0-10001-0100---00-00-??????????????????
+Olenus_wahlenbergi                         00001010000021010000000100000010000111011110-0-00-00000-000020000110100000-0-0-0001-10100000-00-10001000000100-0-0
+Parabolina_spinulosa                       01001000000021000000000100000010000111011110-0-00-00000-000040000110000000-0-100001-100---00-00-10001000000100-0-0
+Leptoplastus_crassicorne                   01001000000021000000000100000010000000011010-0-00-00000-000040000010000000-0-100001-100---00-00-10001000000000-0-0
+Aphelaspis_brachyphasis                    100001--00003101000000010000001000011100-000-0-00-00000-00004??????0100000-0-0-0001-10100000-00-10001000110100-0-0
+Crepicephalus_buttsi_montanaensis          000010000000011100010000-000101010011000-002-2-00-0?00100000?????????????10110-1-1-011110000-00-0-100000000000-0-0
+Coosella_prolifica                         010010100000311100000000-000100-10011200-000-0-00-0??????????????????????0-110-1-1-011110000-00-0-100000000000-0-0
+Tricrepicephalus_taxanus                   010000000001011100000000-000101010011100-002-0-00-0?????????4000101110000100-0-1-1-011100000-00-??????????????????
+Solenopleura_canaliculata                  010010000000310110-00000-010000-??????00-000-0-1??0??????????????????????0-100-3-???110---00-00-??????????????????
+Paraselenopleura_gregaria                  010010000000310110-00000-0100010010---00-000-2-00-0?????????00001010100000-0-0-0000-110---00-00-??????????????????
+Kawina_arnoldi                             110011--00112100000000010000000-110---00-111010-0-001010001040021013100000-0-111-1-1100---00-011??????????????????
+Anacheirurus_frederici                     0100100000012100000000010000001010011100-111010-0-1000??00?040001010100000-0-101-1-1100---00-010??????????????????
+Ceraurinella_typa                          0100100000012100000100012000001010011100-111010-1010101000004000101310000100-101-1-0100---00-010??????????????????
+Ceraurinella_nahanniensis                  0100100000012100000100012000001010011100-111010-101010100000??0010?310000100-101-1-0100---00-01110001000110100-0-0
+Parapilekia_olesnaensis                    010010000001210000000000-000001000010100-111010-0-100110000040000000100000-0-10001-1100---00-01-??????????????????
+Calyptaulax_annulata                       000001--00012100000001012000000-10011200-111010-0-00100-0000401110?0100010-0-0-3-1-1110---00-00-10001000110100-0-0
+Flexicalymene_senaria                      020011--0001210000000000-000000-10011200-111010-0-001010010040111000100010-0-0-3-1-0110---00-00-10001000110100-0-0
+Isotelus_parvirugosus                      010201--0000010011--2-010000000-110---00-000-0-00-00200-000150110033100000-0-0---2--1-0---00-00-1000----001000-0-0
+Lopnorites_rectispicatus                   010010100000010011--00010000000-100111011110-0-00-0?????????5011001010000110-0-3-1-111100000-00-??????????????????
+Proceratopyge_promisca                     0100101000000100000000010000000-100111011110-0-00-0?????????5011001010000110-0-3-1-111100000-00-??????????????????
+Remopleurides_caelatus                     100021--10003100000000010000000-00011100-010-0-00-00210-0001??10???3100000-1-1-1-???10100000-00-1000----111000-0-0
+Remopleurides_eximius                      100021--1000310011--2-010000000-00011100-010-0-00-00210-000140101013100000-1-1-1-00-10100000-00-??????????????????
+Asaphus_expansus                           010211--0000010011--2-010000000-110---00-000-0-00-00200-000150110033100000-0-0-3-1-2110---00-00-??????????????????
+Harpides_atlanticus                        220000110002---100110010-000010-10012?00-000-0-00-0??????????0????????????????????????????????????????????????????
+Eskoharpes_palanasus                       120000110012---100010010-000111010112100-000-0-00-00000-0010???1????100000-??????00-1??????????-??000?00???000-0-0
+Harpes_macrocephalus                       120000110012---100010010-000111010112100-000-0-00-0?????????10111011100000-0-0-1-00-11100000-00-??????????????????
+Eoharpes_benignensis                       120000110012---100010010-000110-10112100-000-0-00-00000-001000111011100000-0-0-1-00-11100000-00-??????????????????
+Entomaspis_radiatus                        2200001100101--1000100010000110-10012100-002-2-00-00??0-00???????????????0-0-0-001-011100000-00-??????????????????
+Holotrachelus_punctillosus                 110010000011200011--000100000010110---00-000-0-00-001112001050021013100000-0-11001-1100---00-011??????????????????
+Aulacopleura_wulongensis                   110000100000010111--10010000000-10011200-111010-100?????????20111012100000-0-0-1-01-11100000-00-11010101000010-001
+Aulacopleura_konincki                      110000100000010111--10010000000-10011200-111010-10000011011110111012100000-0-0-1-01-11100000-00-???????????010-001
+Aulacopleura_longecornuta                  010000000000010111--10010000000-10011100-111010-100?????????10111012100000-0-0-0101-11100000-00-??????????????????
+Cyphaspis_dabrowni                         011101--0100010011--11011001001110011200-111111-110011110111??11???1101000-0-0-01???11101001010-??0101010000111111
+Otarion_huddyi                             011101--0100210111--11010001001110011100-111111-11001111011141111011100000-0-0-011-111101001010-???????????0111111
+Maurotarion_periergum                      010000000100010111-01000-000001010011100-111011-10000111011130111011101000-0-0-0101-11100001010-??????????????????
+Maurotarion_struszi                        0100000001?0010111--1100-000001110011100-1110110100??????????1????????????????????????????????0-??0101010000110101
+Brachymetopus_germanicus                   011101--010----111--11010000001010012100-111111-100?????????50111021101000-0-0-5-1-111100001010-??????????????????
+Rorringtonia_kennedyi                      101000101100310100000000-000001010011100-000-0-00-0?????????50111011100000-0-0-3-1-111100100-00-??????????????????
+Scharyia_micropyga                         101000000101110110-00000-100001010011100-111010-0-0?????????50111021100000-0-0-3-1-111100000-10-0-11010100000101-0
+Bathyurellus_nitidus                       101001--0110010010-111010000001010012100-000-0-00-0?????????50111010101000-0-0-3-1-111100000-00-???????????000-0-0
+Bathyurus_ulu                              10?001--1110010010-000012000000-10012100-000-1000-0011100111??11???1100000-0-0-1-1-111100010-00-0-01010????000-?-0
+Proetus_talenti                            101001--1110110011--11010000001010012100-000-1000-0011110111?011???0100000-0-0-3-???11100001100-0-110101000000-0-0
+Phillipsia_belgica                         101001--11100100001111012000000-10012100-100-1000-001111011150111020101000-0-0-4-1-211100101110-??????????????????
+Gerastos_tuberculatus_macrocensis          101001--1110010010-111010000000-10011200-00101000-0?????????50111010100000-0-0-3-1-111100001100-??????????????????
+Tropidocoryphe_bassei                      101001--1100110111--1000-100001010011110-000-0-00-0?????????50001021000000-0-0-3-1-111100100-00-??????????????????
+Hintzecurus_paragenalatus                  010100000000000100010000-000000-10001000-111010-100?????????51010010100000-0-0-0101-11100000-00-??110100000010-???
+Politicurus_politus                        010100000000300100010000-000001100000000-000-0-00-0?????????51010010100000-0-0-011-111100000-00-??????????????????
+Toernquistia_sanchezae                     001010000100010100000000-000001010011100-011010000010???11??51111011110010-0-0-1-01-11101010-00-111101100000110100
+Dimeropyge_speyeri                         010101--0100210011--2-011000000-10011100-111111-10010???11??51111011110010-0-0-1-1-011101010-00-1111011000001101-0
+
+;
+
+
+cnames
+{ 0 Eye_angle diverging_posteriorly equilateral diverging_anteriorly;
+{ 1 Compound_eye_size_(as_percentage_of_cephalon) Greater_than_30_percent 20_to_29_percent Less_than_15_percent;
+{ 2 Compound_eye_shape eye_completely_shaded_dorsally_by_palpebral_lobe_-_visual_surface_with_crescentic_outline eye_bulging_out_beyond_palpebral_lobe_-_visual_surface_scimitar-shaped;
+{ 3 Compound_eyes_sit_atop_free_cheek absent_[eye_visual_surface_set_into_free_cheek] present,_globular_[visual_surface_sits_atop_free_cheek_and_projects_above_it_with_roughly_spherical_outline] present,_turreted_[visual_surface_sits_atop_free_cheek_and_projects_above_it_with_angular_outline_and_flat_dorsal_surface];
+{ 4 Compound_eye_position posterior_of_cephalon_[0_to_45_percent] midline_or_anterior_[48_percent_plus] eye_encompasses_entire_cephalon_length;
+{ 5 Eye_ridges_expressed_dorsally_on_exoskeleton present absent;
+{ 6 Eye_ridges angled_anteriorly_[greater_than_110_degrees] equal_to_compound_eye_[90_to_110_degrees];
+{ 7 Ridge_insertion_on_compound_eye anterior_of_eye mid-point_of_eye;
+{ 8 Position_of_palpebral_lobe main_body_distant_from_axial_furrow main_body_abuts_axial_furrow;
+{ 9 Extent_of_posterior_(glabella-ward)_expansion_of_palpebral_lobe equal_to_or_larger_than_visual_surface smaller_than_visual_surface;
+{ 10 Cephalon_shape_(length:width_ratio) wider_than_long_[less_than_or_equal_to_0.55] equilaterial_[greater_than_0.55];
+{ 11 Posterior_suture_position avoids_outer_margin cuts_through_outer_margin skirts_margin;
+{ 12 Suture_angle_from_compound_eye 30_to_45_degrees greater_than_or_equal_to_60_degrees less_than_or_equal_to_0_degrees 10_to_20_degrees;
+{ 13 Angle_of_sutures_as_they_cross_the_anterior_margin parralel converging;
+{ 14 Cephalic_sutures_with_marked_inward_curve_just_prior_to_cephalic_margin absent present;
+{ 15 Glabella_extent_(length_of_glabella_as_proportion_of_cephalic_length) extends_to_cephalon_anterior_[greater_than_75_percent] extends_to_cephalon_midline_or_posterior_[less_than_or_equal_to_75_percent];
+{ 16 Effacement_of_S3 S3_deeply_incised S3_effaced;
+{ 17 Effacement_of_S2 S2_deeply_incised S2_effaced;
+{ 18 Positioning_of_S2_&_S3 well_spaced S3_&_S2_close_together,_L3_expanded;
+{ 19 Length_of_S3/S2 approximately_50_percent_of_glabella_width short,_approximately_25_percent_of_glabella_width;
+{ 20 Relationship_of_L1_to_glabella part_of_glabella_(not_separated_by_S1) detached_from_glabella_(S1_extends_to_occipital_ring,_separating_L1_from_glabella) fully_merged_with_glabella_(S1_shallow_of_effaced);
+{ 21 Size_of_L1 approximately_25_percent_of_glabella reduced,_less_than_25_percent_of_glabella;
+{ 22 Lateral_inflation_of_cephalon_alongside_L1_(ala) absent present;
+{ 23 Anterior_narrowing_of_glabella_(measured_across_base_of_frontal_glabellar_lobe) width_at_anterior_less_than_75_percent_width_at_base width_at_anterior_greater_than_75_percent_width_at_base;
+{ 24 Form_of_broad_glabella_anterior less_than_100_percent_width_of_base 100_percent_width_of_base greater_than_100_percent_width_of_base;
+{ 25 Glabella_with_suddent_constriction_about_1/3_from_anterior glabella_margins_exhibit_constant_rate_of_narrowing glabella_margins_with_sudden_constriction;
+{ 26 Anterior_portion_of_cephalic_border_broadens_into_"lip" width_remains_unchanged broadened_into_'lip';
+{ 27 Paired_row_of_spines_projecting_laterally_from_lateral_margin absent present;
+{ 28 Cephalic_lateral_margin_demarcated_by_broad_trough absent present;
+{ 29 Cephalon_margin_differentiated_into_broad_fringe_ornamented_with_sensorial_pits absent present;
+{ 30 Axial_structure_on_occipital_ring absent present;
+{ 31 Form_of_occipital_axial_structure raised_node enlarged_spine;
+{ 32 Position_of_genal_spine_divergence_from_cephalon lateral,_anterior_to_cephalon_posterior_margins posterolateral_margin,_posterior_margin_of_cephalon_curves_down_into_genal_spine;
+{ 33 Genal_spines_purely_vestigial fully_expressed vestigial;
+{ 34 Broad_genal_spines width_of_genal_spines_less_than_or_equal_to_15_percent_width_of_cephalon width_of_genal_spines_greater_than_20_percent_width_of_cephalon;
+{ 35 Genal_spine_curvature strong_curvature slight_curvature;
+{ 36 Genal_spine_angle_of_divergence high_(greater_than_or_equal_to_30_degrees moderate_(11_to_29_degrees) reduced_(less_than_orequal_to_10_degrees);
+{ 37 Length_of_genal_spines greater_than_100_percent_dorsal_median_cephalic_length 35_to_100_percent_dorsal_median_cephalic_length less_than_or_equal_to_30_percent_dorsal_median_cephalic_length;
+{ 38 Presence_of_narrow_ridge_located_in_outer_field_of_cephalon_between_the_glabella/compound_eyes_and_the_lateral_margin,_potentially_an_expression_of_the_paradoublural_line absent present;
+{ 39 Internal_pattern_of_anastomising_veins_expressed_on_dorsal_cuticle_layer not_expressed,_present_only_as_internal_structures expressed_dorsally;
+{ 40 Degree_of_expression_of_anastomising_veins faintly_expressed,_veins_shallow fully_expressed,_veins_deeply_incised;
+{ 41 Sculpture_of_free_cheek_(region_outside_of_compound_eyes_but_before_lateral_margin) granules pustules;
+{ 42 Sculpture_of_fixed_cheek_(region_between_compound_eyes_and_glabella) granules pustules;
+{ 43 Sculpture_of_glabella_anterior_(region_anterior_of_S1) granules pustules effaced;
+{ 44 Density_of_anterior_glabella_pustules sparse_[and_small] dense_[and_large];
+{ 45 Sculpture_of_glabella_posterior_(region_posterior_of_S1) granules pustules effaced;
+{ 46 Density_of_posterior_glabella_pustules sparse_[and_small] dense_[and_large];
+{ 47 Granular_sculpture_punctuated_by_enlarged_pustules absent present;
+{ 48 Extension_of_cephalic_sculpture_onto_genal_spines absent present;
+{ 49 Extent_of_cephalon_ornamentation_on_genal_spines entire_length_of_genal_spine proximal_regions_only;
+{ 50 Fixed_and_free_cheeks_of_cephalon_pitted absent present;
+{ 51 Hypostome_with_unsclerotised_anterior_portion_lacking_mineralization absent present;
+{ 52 Hypostome_with_paired_posterior_projections absent present,_short_spinous_projections present,_enlarged_projections_resulting_in_'forked'_morphology;
+{ 53 Breadth_of_shoulders short,_not_extending_beyond_maximum_width_of_hypostome_body broad,_extending_beyond_maximum_width_of_hypostome_body;
+{ 54 Form_of_hypostome_median_body median_body_undivided median_body_divided;
+{ 55 Form_of_division_of_median_body division_formed_by_lateral_grooves_that_do_not_meet_medially division_formed_by_deep_groove_that_entirely_transverses_median_body posterior_median_body_entirely_separated_from_anterior_median_body;
+{ 56 Extent_of_hypostome_doublure/rim present_along_entire_lateral_and_posterior_margins_ present_at_posterior_margin_only_;
+{ 57 Form_of_hypostome_posterior_angles rounded,_so_hypostome_appears_lobate_ angular,_so_hypostome_appears_quadrate/shield-shaped_;
+{ 58 Position_of_hypostome_constriction anterior_quarter midpoint;
+{ 59 Hypostome_dimensions elongate_[length_greater_than_width,_l/w_ratio_greater_than_1.30]_ equilateral_[length_approximately_equal_to_width,_l/w_ratio_0.80"-"1.05]_;
+{ 60 Free_thoracic_tergite_count 14-15 18+ 16 13 11-12 7-10;
+{ 61 Enlarged_thoracic_spine_on_sixth_tergite absent present;
+{ 62 Form_of_pleural_spines_on_anterior_tergites_(1-6) acute,_spinous blunt,_curved;
+{ 63 Form_of_pleural_spines_on_posterior_tergites_(7-n) acute,_spinous blunt,_curved blunt,_quadrate_or_lobate;
+{ 64 Reduction_of_pleural_spines_on_first_trunk_tergite partially_reduced,_pleural_spine_termination_straight,_spine_small undifferentiated;
+{ 65 Reduction_of_pleural_spines_on_second_trunk_tergite undifferentiated partially_reduced,_spine_small;
+{ 66 Commencement_of_narrowing_of_axial_rings 4th_axial_ring 3rd_axial_ring terminal_pre-pygidial_axial_ring expanding_until_mid-ring_before_narrowing_commences,_pre-pygidial_axial_ring_same_width_as_first_post-cephalic_axial_ring;
+{ 67 Percentage_of_tergite_width_occupied_by_axial_region 36-45_percent 30-35_percent 20-25_percent greater_than_45_percent;
+{ 68 Axis_with_central_node_on_each_segment present absent;
+{ 69 Tubercular_swellings_in_pleural_field_alongside_axis absent present;
+{ 70 Row_of_tubercles_across_the_posterior_margin_of_each_tergite absent present;
+{ 71 Sculpture_of_dense_granules_interspersed_with_larger_tubercles absent present;
+{ 72 Tergites_showing_marked_deflection_at_fulcrum absent present;
+{ 73 Pygidium_bearing_macropleural_spines absent present;
+{ 74 Pygidial_macropleural_spines_on_anteriormost_segment,_delinetated_from_rest_of_pygidium_by_furrow absent present;
+{ 75 Pygidium_with_medial_posterior_indentation absent present;
+{ 76 Degree_of_posteromedial_pygidial_indentation gentle_(slight_indentation) acute_(clear_indentation);
+{ 77 Pygidium_with_pleural_spines_besides_macropleural_spines absent present;
+{ 78 Form_of_pygidial_pleural_spines spinous quadrate_or_lobate;
+{ 79 Number_of_axial_rings_in_pygidium 4/5 3 2 7/8 22 14;
+{ 80 Form_of_terminal_ring_in_4/5 fully_expressed suppressed,_partially_merged_with_terminal_piece;
+{ 81 Size_of_pygidium_in_relation_to_cephalon_(quantified_via_comparison_of_boxxed_area_plots) micropygous_[pygidium_occupies_less_than_23_percent_area_of_cephalon]_ isopygous_[pygidium_occupies_25"-"110_percent_area_of_cephalon] macropygous_[greater_than_150_percent_area_of_cephalon];
+{ 82 Degree_of_micropygosity extreme_micropygosity_[0"-"5_percent]_ micropygous_[10"-"23_percent];
+{ 83 Degree_of_isopygosity extreme_subisopygosity_[25"-"32_percent] subisopygous_[35"-"90_percent] isopygous_[90"-"105_percent];
+{ 84 Gross_pygidial_morphology simple,_paddle-like_[broadest_at_posterior] tail-like_[broadest_at_anterior_or_mid-point];
+{ 85 Termination_of_pleural_grooves at_pygidial_boundary before_pygidial_boundary;
+{ 86 Pygidial_border_(dorsal_expression_of_ventral_doublure)_demarcated_by_visible_groove absent present;
+{ 87 Pygidial_border_developed_into_broad_pleural_fields absent present;
+{ 88 Pygidial_border_overturned_onto_inflated_pygidial_border absent present;
+{ 89 Interpleural_furrows_encroach_onto_demarcated_border absent present;
+{ 90 Dense,_unordered_sculpture_of_scales/pustules absent present;
+{ 91 Row_of_four_tubercles_on_each_axial_ring absent present;
+{ 92 Axial_tubercles_on_lateral_ribs_of_pleura present absent;
+{ 93 Row_of_tubercles_on_lateral_ribs_of_pleura absent present;
+{ 94 Terminal_piece_of_pygidium_compsed_of_axial_region_and_two_posteriorly_oriented_lappets absent present;
+{ 95 Form_of_lappets long,_produced_into_spines short,_reduced;
+{ 96 Early_protaspids_with_paired_posterior_spines absent present;
+{ 97 Fate_of_posterior_spines_by_end_of_protaspid_stage spines_retained_into_meraspid_stage spines_lost_during_protaspid_stage_;
+{ 98 Protaspids_with_posterior_medial_indentation absent present;
+{ 99 Form_of_glabella_in_protaspids circumscribing_furrows_effaced,_glabella_comprising_a_globular_axial_structure_that_extends_for_length_of_cephalon_ tapering,_with_preglabellar_field_;
+{ 100 Protaspid_glabellar_segmentation subdued fully_traversing_glabella,_resembling_full_body_segmentation;
+{ 101 Position_of_initial_compound_eye_formation_in_early_protaspids anterior_margin_[within_45_degrees_of_either_side_of_midline] lateral_margin_[beyond_45_degrees_of_either_side_of_midline];
+{ 102 Protaspid_eye_ridges fully_expressed suppressed;
+{ 103 Late_protaspid_stages_with_tubercular_swilling_on_occiiptial_ring absent present;
+{ 104 Protaspids_with_median_spines absent present;
+{ 105 Protaspids_with_anterior_spines absent present;
+{ 106 Protaspid_with_doublure_curved_inward_resulting_in_overall_globular_morphology absent present;
+{ 107 Meraspid_stages_with_coarse_tubercles_on_the_fixed_cheek absent present;
+{ 108 Meraspid_stages_with_a_row_of_tubercles_on_fixed_cheek_either_side_of_glabella absent present;
+{ 109 Meraspid_stages_with_three_pairs_of_tubercles_on_glabella absent present;
+{ 110 Spacing_of_three_glabellar_tubercle_pairs equilateral anterior_two_pairs_compressed_together_;
+{ 111 Meraspid_stages_with_row_of_short_spines_at_pygidium_fulcrum absent present;
+{ 112 Number_of_tubercles_on_fixed_cheek_row 3 2;
+{ 113 Tubercle_on_eye_ridge_in_meraspid absent present;
+;
+
+
+ccode  - 0.113;
+
+
+;

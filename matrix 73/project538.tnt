@@ -1,0 +1,48 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 14.04.58'
+19 11
+
+&[num]
+Leonodus                0000100200000?000?0
+Antarctilamna           110?00102?00?000000
+Phoebodus               131??0100?200?????0
+Diplodoselache          211?100222001011010
+Hagenoselache           22001?0212110?????1
+Lebachacanthus          21221?02?210?011011
+Orthacanthus            212210031210011211?
+Plicatodus              220110021211212211?
+Reginaselache           2101100102001?11?1?
+Triodus                 2200110202112122111
+Xenacanthus             221?110212?0212211?
+
+;
+
+
+cnames
+{ 0 number_of_tooth_cusps two more_than_three three;
+{ 1 relative_length_of_lateral_vs_median_cusps no_median_cusps median_cusp(s)_<half_height_of_lateral_cusps median_cusps_shorter_but_>half_height_of_lateral_cusps median_and_lateral_cusps_equal_height median_cusp_higher_than_lateral_cusps_(cladodont);
+{ 2 cusp_cutting_edges_(carinae) absent smooth serrated;
+{ 3 cusp_cristae cristae_straight wavy_vertically_oriented_cristae absent;
+{ 4 labial_nutrient_foramina present absent;
+{ 5 coronal_button separated_from_cusps close_to/contiguous_with_cusps;
+{ 6 outline_of_tooth_base subcircular_or_labiolingually_elongate mesiodistally_elongate;
+{ 7 prominent_basal_tubercle absent present,_horseshoe_shaped present,_circular_with_concave_depression present,_circular_without_depression;
+{ 8 nutrient_foramina_on_basal_surface large,_1_or_2 large,_>2 small_and_few;
+{ 9 enameloid_layer_on_teeth present_on_upper_half_of_cusp present_on_whole_cusp absent;
+{ 10 composition_of_tooth_cusps trabecular_dentine_basal_core_plus_orthodentine orthodentine trabecular_dentine;
+{ 11 composition_of_tooth_base trabecular_dentine orthodentine;
+{ 12 composition_of_coronal_button trabecular_dentine_dome_with_orthodentine_cap orthodentine trabecular_dentine;
+{ 13 dorsal_spine present,_posterior_to_neurocranium present,_articulates_with_neurocranium;
+{ 14 spine_cross-section nodose_ridged,_triangular_or_laterally_compressed circular_cross-section,_double_row_of_denticles_ventrally_(i.e._along_trailing_edge) dorsoventrally_compressed_distally,_lateral_rows_of_denticles;
+{ 15 spine_composition trabecular_dentine_with_orthodentine_outer_layer_forming_ridges trabecular_dentine,_rough_surface_texture trabecular_dentine,_smooth_surface_texture;
+{ 16 adult_spine_width/length_ratio robust,_<1:12 slender,_>1:12;
+{ 17 Meckel''s_cartilage_prearticular_protuberance absent present;
+{ 18 dermal_denticles polyodontode monodontode;
+;
+
+
+ccode  - 0.18;
+
+
+;

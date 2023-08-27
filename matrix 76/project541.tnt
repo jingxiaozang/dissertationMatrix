@@ -1,0 +1,122 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 14.06.32'
+71 33
+
+&[num]
+Weinbergina_opitzi                    000000000000000000-0000000000000?0000--000---00000100000000000001000000
+Alkenopterus_brevitelson              001000000000000???????????0?1-00?0?00--010???000000100001000000010001?0
+Brachyopterella_pentagonalis          000000??01001001111???1--?0?1-0000000--010????00??0?????0?0?0?000010101
+Brachyopterus_stubblefieldi           00000000?100000?????1-00000?1-00?0?00--0000?0000000000000000000000000?1
+Ctenopterus_cestrotus                 010000001?01000??11?0101200?1-01?0?00--000???000001?0???010?00011000000
+Cyrtoctenus_wittebergensis            100010000000011???????00111????00?00???101???000000000100001010010000?0
+Drepanopterus_abonensis               001100100000010100-1001--1001-0000000--10111-10000000000001000101000000
+Drepanopterus_?_bembycoides           00000000?0000??0-10??????0001-00?0?010100001000000000000100000001000000
+Drepanopterus_pentlandicus            001?00?0?0000?????????1--???1-00?0?00--?0111-10000000000001000101000000
+Hallipterus_excelsior                 000100110?000111011??????0?0??????????????????????0?????????1?00?010?00
+Hardieopterus_macrophthalmus          00000010?000000100-1??????0?000000?00--0010110010000100100??11101000000
+Hibbertopterus_scouleri               000010100000010????1??0011011-00?0000--00111-00000000000000101001000000
+Kiaeropterus_cyclophthalmus           000000000100100???????????0?1-00?0??0--010???00000000??????00000?0001??
+Kokomopterus_longicaudatus            000000????0000?????10000000?0100?0010--00101100100000000000001001000000
+Lamontopterus_knoxae                  000000????????????????????0?0100?0?00--001???001000000000000??0010000?0
+Laurieipterus_elegans                 010000001001000111110101200?1-0?00000--000001000000?????01??00001100?00
+Megarachne_servinei                   10000010000001????????1--1011-0???0????101????0011??????????000??000??0
+Moselopterus_ancylotelson             00000000?000000??0-0000000001-00?0101000000100000000000010?000001010010
+Mycterops_matthieui                   10??00????00010????????????????????????????????01?????0?0???0?0??010??0
+Pagea_sturrocki                       000001????01001100-10101200?1-01?0000--00000101?00000110001000011111001
+Parastylonurus_ornatus                00000000?000000100-1000000001-0100000--00001100000000110001000001000000
+Rhenopterus_diensti                   000000000000000100-11-1--0001-0000000--01001000000010000101000111000110
+Stylonurella_spinipes                 00000100?000000100-1?11000001-0100000--000???01000000???????00001110000
+Stylonurus_powriensis                 00000110?001001?????????????1-01?0?00--000???000000000000110000110000?0
+Tarsopterella_scotica                 00000011?000001?????????????????????????01???00000001001000?1100?0100?0
+Vinetopterus_struvei                  000000000000000???????????0???00?0?0110?0????0000000001010?00?001000000
+Woodwardopterus_scabrosus             000000????000?????????1--10?1-00?0?00--101????0011000??0?0?1000010000?0
+Eurypterus_remipes                    0000000000100000-0-0000000001-10?11011100001000000000010000000001000000
+Hughmilleria_socialis                 0000000000100000-100000000000010?11011100001000000000000000000001000000
+Onychopterella_augusti                00000000?0?0000????0??0000001-10?010101000???000000000?000?000001000000
+Pagea_plotnicki                       00000110?001001?????11???00?1-0??0?0???000???010000001110???000111100?1
+Leiopterella_tetliei                  000000?????????100-1??100??01-0?0000???010010?1000????????????0?1000?11
+Pagea_symondsii                       00000110?001001??0-1????????????????????????????????????????000?1111?01
+
+;
+
+
+cnames
+{ 0 Antero-median_carapace_protrusion absent present;
+{ 1 Denticulate_anterior_margin_of_carapace absent present;
+{ 2 Carapace_marginal_rim_broad absent present;
+{ 3 Row_of_pustules_along_inside_of_marginal_rim absent present;
+{ 4 Prosomal_posterolateral_lobes absent present;
+{ 5 Prosoma_quadrate absent present;
+{ 6 Median_ridge_between_lateral_eyes_(Plotnick_1983) absent present;
+{ 7 Circular_plateau_ornamentation_anterior_to_median_ridge absent present;
+{ 8 Position_of_median_eyes_on_carapace median_third anterior_third;
+{ 9 Ocellar_area absent present;
+{ 10 Lateral_eye_shape crescentic expanded;
+{ 11 Palpebral_lobe_circular absent present;
+{ 12 Lateral_eyes_converging_and_placed_anteriorly_on_carapace absent present;
+{ 13 Round_lens_overlying_lateral_eyes absent present;
+{ 14 Orbital_ridges absent present;
+{ 15 Transverse_suture_on_ventral_plates absent present;
+{ 16 Transverse_suture_curving_back_at_midline absent present;
+{ 17 Suture_on_ventral_plates epistoma_absent epistoma_present;
+{ 18 Rostral_field absent present;
+{ 19 Ventral_plates_widen_anteriorly absent present;
+{ 20 Appendage_III spiniferous_with_paired_spines spiniferous_with_single_spines;
+{ 21 Pairs_of_spines_per_podomere_on_prosomal_appendage_III one_pair two_or_more_pairs;
+{ 22 Prosomal_appendage_IV spiniferous non-spiniferous;
+{ 23 Pairs_of_spines_per_podomere_on_prosomal_appendage_IV one_pair two_or_more_pairs;
+{ 24 Spines_on_prosomal_appendage_IV moveable_spines both_moveable_and_fixed_spines fixed_spines;
+{ 25 Blade-like_structures_on_podomeres_of_anterior_appendages absent present;
+{ 26 Rachis absent present;
+{ 27 Coxal_laden absent present;
+{ 28 Prosomal_appendage_V spiniferous non-spiniferous;
+{ 29 Spines_on_prosomal_appendage_V_reduced absent present;
+{ 30 Prosomal_appendage_VI walking_leg swimming_leg;
+{ 31 Appendage_VI_reaching_to_pretelson absent present;
+{ 32 Shape_of_proximal_podomere_of_appendage_VI narrow_(L/W>or=2.0) expanded_(L/W<2.0);
+{ 33 Distal_podomere_margin_of_VI-6_modified absent present;
+{ 34 Ear_on_coxa_VI absent present;
+{ 35 Appendage_VI_showing_lateral_serrations absent present;
+{ 36 Podomere_7a_on_sixth_prosomal_appendage absent present;
+{ 37 Width_of_VI-7a narrow_(less_than_50%_of_width_of_VI-7) wide_(more_than_50%);
+{ 38 Shape_of_VI-7a oval triangular;
+{ 39 Longitudinal_grooves_on_podomeres absent present;
+{ 40 Podomeres_ridged absent present;
+{ 41 Podomeres_thicken_distally absent present;
+{ 42 Cleft_metastoma absent present;
+{ 43 Anterior_margin_of_metastoma notch_absent notch_present;
+{ 44 Posterior_margin_of_metastoma rounded flattened_or_recurved;
+{ 45 Paired_tubercles_on_opisthosomal_tergites_2-5 absent present;
+{ 46 Opisthosoma_narrower_than_carapace absent present;
+{ 47 Marginal_rim_on_opisthosoma absent present;
+{ 48 Positive_opisthosomal_differentiation_of_third_order_first_segment absent present;
+{ 49 Second_tergite_developed_into_round_macrotergite absent present;
+{ 50 Preabdominal_epimera absent present;
+{ 51 Caudal_postabdomen absent present;
+{ 52 Lateral_pleurae absent present;
+{ 53 Pretelson_elongated absent present;
+{ 54 Pretelson_postlaterally_expanded absent present;
+{ 55 Dorsal_pretelson_lobes absent present;
+{ 56 Telson_shortened absent present;
+{ 57 Telson_elongate absent present;
+{ 58 Dorsal_median_keel_on_telson absent present;
+{ 59 Paired,_broad_rounded_ventral_keels_on_telson absent present;
+{ 60 Carapace_ornament_of_large_lunate_scales_surrounding_and_pointing_away_from_the_central_area_and_eyes absent present;
+{ 61 Row_of_large,_tongue-shaped_scales_on_posterior_margin_of_opisthosomal_segments absent present;
+{ 62 Pustular_ornamentation absent present;
+{ 63 Acicular_scales_on_opisthosoma absent present;
+{ 64 Podomere_VI-5. half_the_width_of_VI-4 equal_width_of_VI-4;
+{ 65 Lateral_carapace_margin continuous stepped;
+{ 66 Carapace_anterior rounded angular;
+{ 67 Carapace_vaulted absent present;
+{ 68 Metasoma bulky gracile;
+{ 69 Groove_running_across_doublure absent present;
+{ 70 Carapace_position_of_greatest_width posterior_third median_third;
+;
+
+
+ccode  - 0.70;
+
+
+;

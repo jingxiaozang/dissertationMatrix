@@ -1,0 +1,134 @@
+nstates num 8;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 14.49.51'
+97 19
+
+&[num]
+Clidastes_propython                 20510211101010110050012??4??????010??011?10000?10???0122??03130000002??10????200002?1?????0?01010
+Kourisodon_puntledgensis            ?051??110?101?1120500120?401??10?10110?10100000????0?12??00301????00210?01001200002-1-1??0010?010
+Yaguarasaurus_columbianus           1000011?1000111120001?0??1110?0?0?111?01?100110?1000??0??00????????0?????????????????????0100?0?1
+Russellosaurus_coheni               000002101000101010000000010200000101000003001101?000000200010?100????????????????????????010?10?1
+Tethysaurus_nopcsai                 0000?210110010101000?00?0?120?0001?211017?0011?110?0?0020000???0??000???10000?????0??????00001001
+Tylosaurus_kansasensis              323101000110100111504130?1?1????010210?12?000?4???000131?000?11000?11???????01??1????????010000?0
+Tylosaurus_proriger                 3231010001101001?05011100101012001021021210001421?00013100001110010?10011100010110100001001000010
+Ectenosaurus_clidastoides           ?04102001010111100101?0??00200??00?24-?21000010??0?00112?000011?0?001????100?2?0??120100?0100101?
+Angolasaurus_bocagei                ?????0??0?00101110100?0?0???????001211?141000??01????1???00002100??0????1????????????????010?10?2
+Selmasaurus_russelli                ????????0?0010012062510003020????0??2?127000010??110?????????????1????????????????????????????1?3
+Selmasaurus_johnsoni                10000?100000100100605100010?0??000?22012710001001110010000000?1111001????????????????????110011?1
+Platecarpus_planifrons              000000100100111110201?100?020000001020124100010??1100100000001100?01?????00002?0??1?0?0??01001012
+Platecarpus_tympaniticus            0010001001101001?131?0100002000010102?22511101111110010001100310010?10001100121010100000111011013
+Latoplatecarpus_willistoni          0020101002201300123?1030?00100001010102251110?31111001000?10131111011???11001????????????210?1013
+Plioplatecarpus_nichollsae          002010100220020112322030100????01010122251110?3??110??00?21????11101101?11001310111???0?1210?101?
+''Platecarpus_somenensis''          0020101002201301123220301?0101?010101022?1110132?21001001?11231111?1????11001????????????21011013
+Plioplatecarpus_primaevus           00201??0022113012242304112?0????202213325211013010110100122223111102101?11??231112101002121??1013
+Plioplatecarpus_houzeaui            ???010??0221130122423041?0001?212022133262110?101120????122213?11?121???11232????????????2??11013
+Plioplatecarpus_marshi              0120?1??022?02010????0?1????1?21202??3??6?11?1201???12002222?????112101?1123??11121??????2?01??13
+
+;
+
+
+cnames
+{ 0 Premaxilla_predental_rostrum absent present,_short_and_obtuse_in_lateral_view present,_distinctly_pointed_in_lateral_view present,_large_and_rectangular_in_lateral_view;
+{ 1 Median_dorsal_ridge_on_premaxilla absent present,_only_on_broad_dentigerous_portion present,_on_both_dentigerous_portion_and_narrow_internarial_ramus;
+{ 2 Premaxilla_rostrum_end_in_dorsal_aspect semicircular/broadly_parabolic sub-trapezoid scalloped 'U'-shaped conical/narrowly_parabolic 'V'-shaped;
+{ 3 Premaxillo-maxillary_suture_length short,_suture_posteriorly_terminating_anywhere_between_first_and_third_maxillary_teeth_inclusive long,_suture_posteriorly_terminating_anywhere_above_or_posterior_to_the_fourth_maxillary_tooth;
+{ 4 Posterior_terminus_of_premaxillo-maxillary_suture confluent_with_anteriorly_deepest_portion_of_maxilla precedes_anteriorly_deepest_portion_of_maxilla;
+{ 5 Maxillary_tooth_count 12 between_13_and_15 more_than_15;
+{ 6 Prefrontal_participation_in_forming_posterolateral_border_of_external_naris_(cf._Bell,_1997:_character_38) absent present;
+{ 7 Prefrontal_supraorbital_process_(cf._Bell,_1997:_character_29) process_absent,_or_present_as_very_small_rounded_knob distinct_to_large,_triangular_or_rounded,_overhanging_wing;
+{ 8 Frontal_width_(Bell,_1997:_character_10) element_broad_and_short long_and_narrow;
+{ 9 Frontal_narial_emargination_(cf._Bell,_1997:_character_11) frontal_not_embayed_anteriorly_on_each_side_by_posterior_end_of_naris,_lacking_anterolateral_process narrow_embayment_present,_resulting_in_forming_closely_spaced_anterolateral_processes broad_embayment_present,_resulting_in_widely_separated_anterolateral_processes;
+{ 10 Frontal_median_dorsal_eminence absent_or_present_as_anteriorly_confined_weak_bulge long_and_acute_crest_moderately_well_developed long_and_acute_crest_highly_developed,_accompanied_by_strong_parasagittal_excavations_on_both_sides;
+{ 11 Frontal_table_in_lateral_view straight arched,_as_a_result_of_sloping_anterior_to_parietal_foramen;
+{ 12 Frontal_interorbital_constriction absent present;
+{ 13 Shape_of_frontal_preorbital_margins converge_anteriorly_to_form_triangular_anterior_frontal_outline distinctly_diverge_immediately_anterior_to_orbits_but_re-converge_anteriorly straight_and_remain_sub-parallel_with_each_other_leading_to_widely_separated_anterolateral_processes sinusoidal_in_outline,_ending_in_widely_separated_anterolateral_processes;
+{ 14 Frontal_ventral_separation_ridge_(cf._Bell,_1997:_character_30) absent present,_preventing_prefrontal_from_contacting_postorbitofrontal_posteriorly;
+{ 15 Frontal_ala_shape_(Bell,_1997:_character_13) sharply_acuminate more_broadly_pointed_or_rounded;
+{ 16 Frontal_ala_posterior_border posteromedially_inclined transversely_oriented anteromedially_inclined;
+{ 17 Dorsal_posteromedian_border_of_frontal_and_parietal_foramen_contact frontal_does_not_participate_in_forming_anterior_border_of_parietal_foramen,_foramen_well_separated_from_frontal_by_at_least_one_foramen_length frontal_approaches_or_touches_anterior_extremity_of_parietal_foramen_but_without_or_minimally_forming_indentation frontal_touches_anterior_extremity_of_parietal_foramen_and_is_distinctly_indented_to_surround_or_directly_border_anterior-half_of_parietal_foramen;
+{ 18 Parietal_table_outline nearly_equilateral_triangle longer_than_wide,_anterior_border_gently_convex longer_than_wide,_anterior_border_bilobate as_wide_as_long_and_pentagonal vaguely_bell-shaped,_with_lateral_borders_posteriorly_converging_but_without_meeting lateral_borders_remain_semi-parallel_with_each_other_without_meeting_posteriorly highly_elongate_with_lateral_borders_slowly_converging_posteriorly_but_never_meeting;
+{ 19 Parietal_foramen_relative_size_on_dorsal_surface small intermediate large;
+{ 20 Parietal_foramen_morphology_in_dorsal_aspect nearly_circular short_oval_with_curved_sides,_with_length:width_ratio_less_than_1.5 elongate_oval_with_curved_sides,_with_length:width_ratio_greater_than_1.5 elongate_oval_with_straight_sides,_with_length:width_ratio_greater_than_1.5 teardrop-shaped_with_apex_pointing_anteriorly broadly_teardrop-shaped_with_apex_pointing_posteriorly;
+{ 21 Parietal_foramen_ventral_opening_(cf._Bell,_1997:_character_25) opening_is_level_with_main_ventral_surface opening_surrounded_by_rounded,_elongate_ridge;
+{ 22 Length_of_postorbital_process_of_parietal forms_anteromedial_border_of_supratemporal_fenestra,_visible_in_dorsal_aspect forms_anteromedial_border_of_supratemporal_fenestra,_concealed_in_dorsal_aspect forms_entire_anterior_border_of_supratemporal_fenestra_with_its_broad,_posteriorly_sloping_surface_dorsally_exposed forms_entire_anterior_border_of_supratemporal_fenestra_with_its_narrow_dorsal_plateau_forming_small_portion_of_horizontal_skull_table_posterior_to_frontal_ala same_as_(3),_except_process_much_more_dorsally_exposed,_so_much_that_parietal_and_frontal_ala_divide_skull_table_corner_sub-equally;
+{ 23 Descensus_processus_parietalis_posterior_border originates_anterior_to_parietal_fossa originates_at_level_of_parietal_fossa_and_process_posteriorly_extends_well_beyond_it;
+{ 24 Postorbitofrontal_frontal-parietal_wing_dorsal_surface bears_broad,_single_facet_for_receiving_frontal_ala bears_distinct_anterior_and_posterior_facets_for_frontal_ala_and_parietal_postorbital_process,_respectively;
+{ 25 Postorbitofrontal_jugal_process ventrally_projecting_with_well-developed_anteroventral_projection ventrally_projecting_with_small_anteroventral_projection ventrally_projecting,_short_and_cup_shaped ventrally_projecting,_clasping_distal_end_of_jugal_in_form_of_'U' laterally_projecting,_broadly_rounded_and_wing-like;
+{ 26 Postorbitofrontal_squamosal_process_(cf._Bell,_1997:_character_34) reaches_end_of_supratemporal_fenestra does_not_reach_end_of_supratemporal_fenestra;
+{ 27 Jugal_posteroventral_process_(cf._Bell,_1997:_character_40) absent present_forming_rounded_or_obtuse_corner present_forming_acute,_posteriorly_projecting_keel;
+{ 28 Jugal_ascending_ramus distally_ending_in_broad_and_concave_articulation_with_postorbitofrontal distally_attenuating_to_end_as_slender_rod;
+{ 29 Jugal_ascending_ramus_length clearly_less_than_50%_horizontal_ramus_length approximately_50%_horizontal_ramus_length clearly_more_than_50%_horizontal_ramus_length;
+{ 30 Ectopterygoid_process long,_comprising_expanded_distal_articulation_process_with_ectopterygoid_and_stalk-like_proximal_shaft long,_without_or_with_little_distal_expansion short,_without_distal_expansion;
+{ 31 Ectopterygoid_process_orientation projects_anterolaterally_from_dentigerous_body projects_laterally_at_right_angle;
+{ 32 Anterior_border_of_quadrate_cephalic_condyle excavated_posteriorly straight,_forming_right_angle_with_long_axis_of_suprastapedial_process straight_or_nearly_straight,_forming_obtuse_angle_with_long_axis_of_suprastapedial_process;
+{ 33 Thickness_of_quadrate_ala_(cf._Bell,_1997:_character_51) thin thick;
+{ 34 Quadrate_ala_anterior_surface concave relatively_planar bulges_anterolaterally;
+{ 35 Suprastapedial_process_length_(cf._Bell,_1997:_character_44) clearly_longer_than_two-thirds_quadrate_height about_two-thirds_quadrate_height clearly_shorter_than_two-thirds_quadrate_height;
+{ 36 Infrastapedial_process absent present,_not_contacting_suprastapedial_process present,_contacting_but_not_fusing_with_suprastapedial_process present,_distal_end_fusing_with_suprastapedial_process dorsally_sends_tongue-like_lamina_to_fuse_with_and_overlap_suprastapedial_process_posterodistally;
+{ 37 Quadrate_shaft_posteroventral_bulging virtually_absent,_border_straight small_with_convex_posterior_border moderate_in_size_with_straight_posterior_border large_with_convex_posterior_border;
+{ 38 Quadrate_mandibular_condyle_outline transversely_elongate_saddle-shaped transversely_elongate,_roughly_spindle-shaped transversely_elongate,_curved_teardrop-shaped transversely_narrow_triangle_with_its_vertex_pointing_medially;
+{ 39 Quadrate_mandibular_condyle_main_surface_(cf._Bell,_1997:_character_61) concave planar convex;
+{ 40 Quadrate_stapedial_pit_morphology sub-reniform elongate,_slit-like rectangular sub-hexagon narrow,_keyhole-shaped broad_oval_with_straight_lateral_borders broad_oval_with_curved_lateral_borders inverted_teardrop-shaped;
+{ 41 Quadrate_ala_posteroventral_extension_(cf._Bell,_1997:_character_50) ascends_posterodorsally_at_more_than_60_degrees_from_horizontal ascends_posterodorsally_about_45_degrees_from_horizontal extends_posteriorly_around_lateral_rim_of_mandibular_condyle_with_very_subtle_ascent_towards_posterior_end diminishes_ventrally,_forming_low,_roughened_area_on_lateral_face_of_mandibular_condyle;
+{ 42 Quadrate_dorsal_median_ridge_(cf._Bell,_1997:_character_58) relatively_thin_and_elevated_crest low,_broadly_inflated_dome;
+{ 43 Quadrate_vertical_median_ridge sharp,_crest-like broadly_rounded;
+{ 44 Medial_flange_along_vertical_median_ridge_of_quadrate absent present;
+{ 45 Basisphenoid_basipterygoid_process_shape_(cf._Bell,_1997:_character_64) relatively_narrow_with_articular_surface_facing_mostly_anterolaterally somewhat_thinner,_more_fan-shaped_with_posterior_extension_of_articular_surface_causing_more_lateral_orientation;
+{ 46 Basal_tubera short_and_low,_laterally_projecting_and_widely_separated_from_each_other short,_more_ventrally_projecting_but_remain_widely_separated short,_ventrally_projecting,_closely_spaced_but_not_inflated,_with_distinct_ventral_migration_of_pitted_lateral_surface short,_ventrally_projecting,_closely_spaced_and_highly_inflated,_with_clear_ventral_migration_of_pitted_lateral_surface longitudinally_elongate,_projecting_ventrolaterally_at_about_45_degrees_from_sagittal_plane;
+{ 47 Otosphenoidal_crest_on_prootic absent present,_laterally_covering_seventh_cranial_nerve_exit_on_prootic present,_laterally_covering_both_seventh_and_ninth_cranial_nerve_exits_on_prootic_and_opisthotic,_respectively;
+{ 48 Jugular_and_condylar_(=_hypoglossal)_foramina externally_separate_on_braincase externally_fused;
+{ 49 Squamosal_parietal_process_outline very_low modest_in_development_and_roughly_triangular well_developed_and_rectangular/parallelogram_in_outline;
+{ 50 Anteroventral_projection_of_squamosal_quadrate_process absent short,_less_than_half_quadrate_process_length highly_elongate,_greater_than_half_quadrate_process_length;
+{ 51 Squamosal_quadrate_process_posterior_notch absent present;
+{ 52 Posterior_edentulous_ramus_on_dentary small,_no_more_than_15%_marginal_border_length_present large,_about_20%_marginal_border_length_present;
+{ 53 Dentary_medial_parapet_height lower_than_lateral_dentary_wall same_height_as_lateral_wall deeper_than_lateral_wall;
+{ 54 Anterior_edentulous_prow_on_dentary absent present,_projection_small_and_squared_in_lateral_view present,_projection_small_and_round_in_lateral_view present,_projection_broad_and_rectangular_in_lateral_view;
+{ 55 Dentary_tooth_count 12_or_fewer between_13_and_15 more_than_15;
+{ 56 Splenial-angular_articulation_surface_(cf._Bell,_1997:_character_73) smooth,_single_vertical_ridge-and-groove_articulation_surface obliquely_oriented_numerous_ridge-and-groove_articulation_surface smooth_articulation_surface_in_outline_of_pear;
+{ 57 Coronoid_posterodorsal_process_angle acute 90_degrees obtuse;
+{ 58 Coronoid_posterodorsal_process_development well_developed moderate significantly_reduced;
+{ 59 Surangular_lateral_profile post-coronoid_portion_longer,_deepening_anteriorly_with_straight_dorsal_and_ventral_borders post-coronoid_portion_longer,_deepening_anteriorly_with_slight_dorsal_curvature post-coronoid_portion_longer,_dorsal_and_ventral_borders_running_sub-parallel_with_each_other,_curving_dorsally post-coronoid_and_coronoid_portion_sub-equal_in_length,_with_anteriorly_diverging_post-coronoid_part_preceded_by_attenuated_coronoid_region;
+{ 60 Anterior_surangular_foramen short,_less_than_one-third_coronoid_suture_length moderately_long,_greater_than_one-third_but_clearly_less_than_half_coronoid_suture_length extremely_long,_approaching_or_exceeding_half_coronoid_suture_length;
+{ 61 Portion_of_coronoid_suture_that_occurs_anterior_to_splenio-angular_(=_intramandibular)_joint does_not_exist,_coronoid_suture_terminating_posterior_to_this_joint only_20%_or_less_portion_of_suture_extending_beyond_joint greater_than_20%_and_up_to_30%_extending_beyond_joint greater_than_30%_extending_beyond_joint;
+{ 62 Retroarticular_process_ventral_foramina_(cf._Bell,_1997:_character_82) no_large_foramina_on_ventral_(or_lateral)_face one_to_three_large_foramina_present;
+{ 63 Participation_of_articular_in_forming_glenoid_fossa clearly_greater_than_50% 50%_or_less_than_50%_total_area;
+{ 64 Surangular-articular_suture_on_glenoid_surface terminating_anterior_to_posterior_border terminating_at_posterior_border;
+{ 65 Atlas_neural_arch_(Bell,_1997:_character_91) notch_present_in_anterior_border no_notch_in_anterior_border;
+{ 66 Zygapophyses present_throughout_prepygal_vertebrae absent_posterior_to_fifth_dorsal_vertebra;
+{ 67 Zygosphenes_and_zygantra_in_post-axis_cervical_vertebrae well_developed incompletely_developed/vestigial completely_absent;
+{ 68 Vertebral_condyle_shape_(Bell,_1997:_character_101) condyles_of_anteriormost_trunk_(=_dorsal)_vertebrae_extremely_dorsoventrally_depressed slightly_depressed essentially_equidimensional;
+{ 69 Prepygal_vertebrae_number_(cf._Bell,_1997:_character_105) 32_or_fewer 39_or_more;
+{ 70 Pygal_vertebrae_count lower_than_10 10_or_more;
+{ 71 Caudal_dorsal_expansion_(Bell,_1997:_character_108) neural_spines_of_tail_all_uniformly_shortened_posteriorly several_spines_dorsally_elongated_behind_middle_of_tail;
+{ 72 Haemal_arch_and_spine_complex fused_to_caudal_centra articulates_with_haemapophyses;
+{ 73 Scapular_neck_constriction absent present;
+{ 74 Scapular_condylar_surface_length greater_than_30%_blade_length about_30%_blade_length less_than_30%_blade_length;
+{ 75 Length_ratio_between_anteroventral_border_and_posteroventral_border_of_scapular_blade 1:2.5_or_less about_1:2 about_1:1.5 about_1:1;
+{ 76 Scapula_and_coracoid_size_(cf._Bell,_1997:_character_113) scapula_smaller_than_coracoid two_elements_sub-equal_in_size scapula_larger_than_coracoid;
+{ 77 Humerus_length:_(Bell,_1997:_character_121) humerus_distinctly_elongate,_about_three_or_more_times_longer_than_distal_width greatly_shortened,_about_1.5_to_two_times_longer_than_distal_(antero-posterior)_width length_and_distal_width_virtually_equal distal_width_slightly_greater_than_length;
+{ 78 Surface_of_humeral_head deltoid,_pectoral,_and_postglenoid_processes_widely_separated_from_head processes_not_clearly_separated_from_articular_surface_of_head;
+{ 79 Shape_of_humeral_head relatively_planar conspicuously_domed;
+{ 80 Humerus_pectoral_crest_position_(cf._Bell,_1997:_character_125) anteroproximal_corner_of_humerus middle_of_proximal_region_of_humerus;
+{ 81 Humerus_pectoral_crest_thickness thin thickened_and_enlarged,_but_proximal_humeral_surface_antero-posteriorly_longer_than_dorso-ventrally_thick thickened_and_inflated,_making_proximal_humeral_surface_nearly_as_thick_as_long;
+{ 82 Humerus_ectepicondyle_(cf._Bell,_1997:_character_127) short_and_bulbous present_as_flange present_as_tubular_prominence;
+{ 83 Radiale absent present,_radiale_larger_than_intermedium/centrale present,_radiale_smaller_than_intermedium/centrale;
+{ 84 Ulnare_(cf._Bell,_1997:_character_130) enters_posteroventral_margin_of_antebrachial_foramen excluded_from_foramen;
+{ 85 Distal_carpal_I absent present;
+{ 86 Metacarpal_I_expansion_(Bell,_1997:_character_134) spindle-shaped,_elongate broadly_expanded;
+{ 87 Number_of_phalanges_in_first_manal_digit 3-4 5 6 more_than_6;
+{ 88 Ischiadic_tubercle_size_(Bell,_1997:_character_139) elongate short;
+{ 89 Degree_of_marginal_tooth_root_exposure little_exposed,_tooth_root_constituting_less_than_25%_tooth_height_above_dental_margin moderately_exposed,_tooth_root_constituting_between_25%_and_30%_tooth_height_above_dental_margin highly_exposed,_tooth_root_constituting_nearly_one-third_tooth_height_exposed_above_dental_margin_and_inflated;
+{ 90 Marginal_tooth_crown_cross-section_at_base laterally_highly_compressed,_ellipsoid sub-circular;
+{ 91 Marginal_tooth_surface_(Bell,_1997:_character_83) finely_striate_medially not_medially_striate;
+{ 92 Premaxillary_teeth not_procumbent procumbent,_main_long_axis_of_teeth_forming_about_110_to_120_degree_angle_with_dental_margin_of_premaxilla;
+{ 93 Pterygoid_tooth_base_(cf._Bell,_1997:_character_42) large,_occupying_nearly_entire_width_of_pterygoid_body small,_occurring_on_narrow_ridge_along_lateral_margin_of_ventral_pterygoid_surface;
+{ 94 Quadrate_mid-shaft_medial_bending absent present;
+{ 95 Scapular_blade elongate_along_axis_perpendicular_to_condylar_surface elongate_along_axis_parallel_with_condylar_surface;
+{ 96 Basioccipital_canal:_(Bell_and_Polcyn,_2005:_character_67) no_canal a_small_pair_separated_by_median_septum a_large_pair_separated_by_median_septum a_single_bilobate_canal;
+;
+
+
+ccode  - 0.96;
+
+
+;

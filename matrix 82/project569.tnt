@@ -1,0 +1,100 @@
+nstates num 15;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 14.48.05'
+60 22
+
+&[num]
+Eryops                   00000010000010000000000000000001000000000200000?000020100011
+Acroplous                02110011002?-000011110101020020200011010000000??01?0?010????
+Isodectes                12210011102?-0000110101110000302000102110????????1?0???1???1
+Trimerorhachis           12110110001110000000000010200301011000000??????1110000100000
+Dvinosaurus              122100000022-000001100101010031112010010?0100110110000010010
+Tupilakosaurus           122111010122-0011011111111?003?00201001?01?0010?1100?00111?0
+Thabanchuia              122110011122-0011111111111?00321020110110??001031100?0011100
+Neldasaurus              012101100022-0000000000000?00301010100000?0000?01130000000??
+Sclerocephalus           01110110000000000000000???2?11010201000?????????????????????
+Lydekkerina              01100010000000010000110000011101011101000001000111000100001?
+Rhineceps                01100110000000000000000000000001011001000?0100011100010000?0
+Watsonisuchus            001001100000110100101100000111010110010000010001110012100001
+Derwentia                121111?0000110011110100010110201011111000?1002??????????????
+Bothriceps               112111?00022-001100011101021111102011211021004110200001011?0
+Keratobrachyops          121111?0000111110000111010211211120102100110130122010110????
+Xenobrachyops            121111?00022-001001012100021011112010210111004130121?010????
+Banksiops                121111?00012-0011011111?102111210?011211021004?3?3210000????
+Batrachosuchus           121111?00022-0011011121?102102210??11210121004130321????????
+Vigilius                 121111?00022-0011011121110?10311020112101210041303?12110??2?
+Vanastega                1?2????0??22-0011?1112101021021101011211??100??303210110????
+Pelorocephalus           121111?0000111111010121000210101110112110010130202301110001?
+Siderops                 121111?000011111101012100021001101011211??101302??301110001?
+
+;
+
+
+cnames
+{ 0 sk_l State_0 State_0 State_0 State_1 State_1 State_1;
+{ 1 orb1 State_0 State_0 State_0 State_1 State_1 State_1 State_2 State_2 State_2;
+{ 2 sul State_0 State_0 State_0 State_1 State_1 State_1 State_2 State_2 State_2;
+{ 3 jug State_0 State_0 State_0 State_1 State_1 State_1;
+{ 4 lac State_0 State_0 State_0 State_1 State_1 State_1;
+{ 5 mx1 State_0 State_0 State_0 State_1 State_1 State_1;
+{ 6 nar State_0 State_0 State_0 State_1 State_1 State_1;
+{ 7 lep State_0 State_0 State_0 State_1 State_1 State_1;
+{ 8 prf State_0 State_0 State_0 State_1 State_1 State_1;
+{ 9 pof State_0 State_0 State_0 State_1 State_1 State_1;
+{ 10 otn State_0 State_0 State_0 State_1 State_1 State_1 State_2 State_2 State_2;
+{ 11 th1 State_0 State_0 State_0 State_1 State_1 State_1 State_2 State_2 State_2;
+{ 12 th2 State_0 State_0 State_0 State_1 State_1 State_1;
+{ 13 sqp State_0 State_0 State_0 State_1 State_1 State_1;
+{ 14 qjp State_0 State_0 State_0 State_1 State_1 State_1;
+{ 15 ptp State_0 State_0 State_0 State_1 State_1 State_1;
+{ 16 pteo State_0 State_0 State_0 State_1 State_1 State_1;
+{ 17 orb2 State_0 State_0 State_0 State_1 State_1 State_1;
+{ 18 ptfl State_0 State_0 State_0 State_1 State_1 State_1;
+{ 19 ptpl1 State_0 State_0 State_0 State_1 State_1 State_1;
+{ 20 ptpl2 State_0 State_0 State_0 State_1 State_1 State_1;
+{ 21 ptpl3 State_0 State_0 State_0 State_1 State_1 State_1 State_2 State_2 State_2;
+{ 22 ptq1 State_0 State_0 State_0 State_1 State_1 State_1;
+{ 23 ptq2 State_0 State_0 State_0 State_1 State_1 State_1;
+{ 24 ptsq State_0 State_0 State_0 State_1 State_1 State_1;
+{ 25 pti State_0 State_0 State_0 State_1 State_1 State_1;
+{ 26 quc State_0 State_0 State_0 State_1 State_1 State_1 State_2 State_2 State_2;
+{ 27 bo State_0 State_0 State_0 State_1 State_1 State_1;
+{ 28 ptpa State_0 State_0 State_0 State_1 State_1 State_1;
+{ 29 cu State_0 State_0 State_0 State_1 State_1 State_1 State_2 State_2 State_2 State_3 State_3 State_3;
+{ 30 vod State_0 State_0 State_0 State_1 State_1 State_1 State_2 State_2 State_2;
+{ 31 psp State_0 State_0 State_0 State_1 State_1 State_1 State_2 State_2 State_2;
+{ 32 cul State_0 State_0 State_0 State_1 State_1 State_1;
+{ 33 teethpe State_0 State_0 State_0 State_1 State_1 State_1 State_2 State_2 State_2;
+{ 34 ectf State_0 State_0 State_0 State_1 State_1 State_1;
+{ 35 ipt State_0 State_0 State_0 State_1 State_1 State_1;
+{ 36 stv State_0 State_0 State_0 State_1 State_1 State_1;
+{ 37 exo1 State_0 State_0 State_0 State_1 State_1 State_1 State_2 State_2 State_2;
+{ 38 exo2 State_0 State_0 State_0 State_1 State_1 State_1;
+{ 39 exo3 State_0 State_0 State_0 State_1 State_1 State_1;
+{ 40 ptf State_0 State_0 State_0 State_1 State_1 State_1;
+{ 41 pqf State_0 State_0 State_0 State_1 State_1 State_1 State_2 State_2 State_2;
+{ 42 sqqj State_0 State_0 State_0 State_1 State_1 State_1;
+{ 43 ptr State_0 State_0 State_0 State_1 State_1 State_1;
+{ 44 pts State_0 State_0 State_0 State_1 State_1 State_1;
+{ 45 ptar State_0 State_0 State_0 State_1 State_1 State_1 State_2 State_2 State_2 State_3 State_3 State_3 State_4 State_4 State_4;
+{ 46 ptcol State_0 State_0 State_0 State_1 State_1 State_1;
+{ 47 chtf State_0 State_0 State_0 State_1 State_1 State_1 State_2 State_2 State_2 State_3 State_3 State_3;
+{ 48 sens State_0 State_0 State_0 State_1 State_1 State_1 State_2 State_2 State_2;
+{ 49 pga State_0 State_0 State_0 State_1 State_1 State_1 State_2 State_2 State_2 State_3 State_3 State_3;
+{ 50 pgaart State_0 State_0 State_0 State_2 State_2 State_2 State_3 State_3 State_3;
+{ 51 artl State_0 State_0 State_0 State_1 State_1 State_1;
+{ 52 pmf State_0 State_0 State_0 State_1 State_1 State_1 State_2 State_2 State_2;
+{ 53 prap State_0 State_0 State_0 State_1 State_1 State_1 State_2 State_2 State_2;
+{ 54 cort State_0 State_0 State_0 State_1 State_1 State_1;
+{ 55 pgat State_0 State_0 State_0 State_1 State_1 State_1;
+{ 56 ic1 State_0 State_0 State_0 State_1 State_1 State_1;
+{ 57 ic2 State_0 State_0 State_0 State_1 State_1 State_1;
+{ 58 cl State_0 State_0 State_0 State_1 State_1 State_1 State_2 State_2 State_2;
+{ 59 cb State_0 State_0 State_0 State_1 State_1 State_1;
+;
+
+
+ccode  - 0.59;
+
+
+;

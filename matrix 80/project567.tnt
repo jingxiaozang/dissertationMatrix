@@ -1,0 +1,128 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 14.46.55'
+86 24
+
+&[num]
+Protungulatum               0000000000001000000000?011000000000000???????????????000101000001110100???2???0???0?0?
+Chriacus                    11010001000001111010001011000000010011000000000000000000101000001110010???????????0?00
+Arctocyon                   01000001011001010011001000001010110000011001101020100000111000010020010101210100000100
+Arctocyonides               0000000001100101001200101100101011001100000000100000000010101001???0??01001200?0000000
+Loxolophus                  00000001011011000010001010001000020011??1001101000?3?000001000010100010?000200???00?00
+Periptychus                 1000111002100100000010012102201012000100100110101101?000010000010100100001210?????0?00
+Mithrandir                  10000011001101000000100011121010020001001?011010?1?1?000101000001100100???22??????0?00
+Ectoconus                   10101110021100000000100021122010100000001001101011?100000?10?001???0?001112200???00?00
+Hyopsodus                   10101110021100000000100001102000010011010010000000?20000100000001110000001110101000000
+Haplomylus                  ?001001100101211000100000110100011001100001000???112?10020120111122100????????????0?0?
+Apheliscus                  00000001001112110000000000101000110011??0000000??112?100201201111201000??????????0????
+Tetraclaenodon              0111001100111200001100011110200111001100000001001013?0012010010?010010000?2100????0?00
+Ectocion                    11110011002212010012001111112001110011100?10012011?3?00120121001110010000?220??1??0?00
+Meniscotherium              01110011002222111012000021112001231111100010012011131011201200020110100101201101100100
+Phenacodus                  01110011002212010012000111112001110011100010012011?3?0112012?1010110100001200111100100
+Homogalax                   11110021103022111112002121102100231111100110012111131010??11??0112101011?12211?1100?00
+Hyracotherium               11110021103022111112012111112101231111100110012111131010211111010220101101221111100100
+Diacodexis                  0000000100001100000000001100000001001110011000011111101020121101100100101022010?100000
+Rhynchocyon                 00010011201011101002002?2111200010021000001000?00112?110201201120220001000200001000?00
+Procavia                    11110011103022111102013121112001231311101110000111101110211201201210011101221001011111
+Pleuraspidotherium          0111001010222210100000212?112000011201111101000??100000010100001001?10?00?210101100100
+Orthaspidotherium           011100001022121010000?2011002000010100???1?????????????010100001011?10?00?210101?00100
+Moeritherium                111100011040121010120131211120002?0301001000000??100101201030101111?10?000211001?01112
+Radinskya                   0?11001?0040221011020??????????????????????????????????????????????????101??100100?1?0
+
+;
+
+
+cnames
+{ 0 P2_protocone absent_ present_;
+{ 1 P3_metacone absent_ present_;
+{ 2 P4_protocone small_or_absent_ sub-equal_in_size_to_paracone_;
+{ 3 P4_metacone absent_ present_;
+{ 4 P4 distinctly_enlarged not_enlarged_;
+{ 5 P3-P4_paracone not_laterally_compressed anteroposteriorly_elongated_and_laterally_compressed_;
+{ 6 P4_conules no_conules_ paraconule_and/or_metaconule_ paraconule_and_metaconule_are_incorporated_into_the_protoloph_and_metaloph;
+{ 7 M1-2_parastyles_project labially_or_anterolabially_ anteriorly_;
+{ 8 9._M3 smaller_than_M2_ larger_than_M2_ extremely_reduced_or_absent_;
+{ 9 Molar_and_premolar_enamel not_wrinkled_or_folded wrinkled_ heavily_folded_;
+{ 10 Molar_relief cusps_acute_ bunodont_ bunoselenodont_ lophodont_ bunolophodont_;
+{ 11 Mesostyle_on_M1-2_ absent_ small_and_cingular_ well-developed_;
+{ 12 Ectoflexus_on_M2_ deep_ shallow_ absent_;
+{ 13 Stylar_shelf_on_M1-2 strong_ reduced_ absent_ New_state;
+{ 14 Postprotocrista_on_M1-2 developed_ not_developed_;
+{ 15 Cuspules_on_the_parastylar_lobe_of_M1-2 present_ absent_;
+{ 16 Protocone_expansion expanded_lingually_ not_expanded_lingually_;
+{ 17 Hypoloph_on_M1-2 absent_ present_;
+{ 18 Lingual_cingulum_on_M1-2 absent_ present_;
+{ 19 Hypocone_on_M1-2_ small,_cingular_or_absent_ moderately_developed_ equal_in_size_to_the_protocone;
+{ 20 Pericone_on_upper_molars small_or_absent large,_almost_equal_to_the_hypocone;
+{ 21 Lower_jaw_postcanine_diastema short_or_absent_ long_;
+{ 22 Lower_canines slightly_enlarged_(larger_than_the_incisors_and_p1_ significantly_enlarged_ smaller,_or_equal_in_size_to_i3_ absent_;
+{ 23 Metaconid_on_p3 absent_ present_;
+{ 24 Paraconid_on_p4 absent_or_reduced_ anteriorly_projecting_ lingual_;
+{ 25 Metaconid_on_p4 absent_ present_;
+{ 26 The_p4_talonid simple,_with_one_cusp_ with_more_than_one_cusp_;
+{ 27 The_p4 much_narrower_than_m1_ close_to_m1_in_width_ distinctly_swollen_;
+{ 28 Lower_molar_talonid much_lower_than_the_trigonid_ only_slightly_lower_than_the_trigonid_ same_height_as_the_trigonid;
+{ 29 The_m1-3_metaconid inflated_ not_inflated_;
+{ 30 protocristid just_one_crest_connecting_protoconid_and_metaconid there_is_a_"-'second"--_protocristid,_curved_posteriorly_;
+{ 31 Metastylid_on_m1-3 absent_ present_;
+{ 32 The_m3 unreduced_ significantly_reduced_or_absent_ enlarged_;
+{ 33 Paraconid_on_m1-2 unreduced_ reduced_and_twinned_with_the_metaconid_ shifted_towards_the_midline_of_the_tooth incorporated_into_the_protolophid_;
+{ 34 Hypoconulid_on_m1-2 cusped_ crest-like_;
+{ 35 Hypoconulid_on_m3 well-developed small_ absent_ forms_a_separate_lobe_;
+{ 36 Talonid_of_m2 longer_or_equal_than_the_trigonid_ shorter_than_the_trigonid_;
+{ 37 Talonid_width_of_m2 less_than_the_trigonid_ sub-equal_to_trigonid_;
+{ 38 Greater_tuberosity_of_humerus even_with_the_head_ projects_above_the_head_;
+{ 39 Humeral_head spherical_ anteroposteriorly_elongated_;
+{ 40 Deltopectoral_crest sharp_and_long_ weak_and_short_ tall_and_robust_;
+{ 41 Entepicondylar_foramen present_ absent_;
+{ 42 Supratrochlear_foramen absent_ present_;
+{ 43 Medial_epicondyle moderately_developed_ prominent_;
+{ 44 Lateral_supracondylar_ridge not_enlarged_ slightly_enlarged_;
+{ 45 Lateral_articular_shelf_of_the_humerus absent_ present_;
+{ 46 Olecranon not_enlarged,_straight_ greatly_enlarged_and_inflected_medially_ deflected_posteriorly_;
+{ 47 Number_of_functional_digits_in_the_hand five_ fewer_than_five_;
+{ 48 Distal_phalanges_of_the_forelimb_shape laterally_compressed_(typical_claw)_ hoof-like,_flattened_dorsoventrally_ very_elongated,_flattened;
+{ 49 Greater_trochanter_of_the_femur even_or_lower_than_the_head taller_than_the_head_;
+{ 50 Orientation_of_lesser_trochanter_of_the_femur medially_ posteromedially_;
+{ 51 Third_trochanter_of_the_femur small_and_proximally_placed_ small_and_displaced_distally_ large_and_placed_proximally large_and_displaced_distally_;
+{ 52 Fovea_capitis_of_the_femur centrally_positioned marginally_positioned_ absent_;
+{ 53 Tibia_and_fibula not_fused_ fused_distally_;
+{ 54 Contact_between_talus_and_cuboid present_ absent_;
+{ 55 Lateral_process_on_talus present_and_small_ large_and_shelf-like_ completely_absent_;
+{ 56 Trochlear_articular_surface_of_the_talus no_posterior_extension_ only_medial_rim_extends_posteriorly_ extends_onto_the_posterior_side_of_the_trochlea_;
+{ 57 Talar_ectal_facet narrow_ broad_;
+{ 58 Medial_trochlear_ridge_of_the_talus absent_ present_;
+{ 59 Trochlear_groove_of_the_talus New_state moderately_deep_(U-shaped)_ deep_(V-shaped)_ absent_;
+{ 60 Talar_sustentacular_facet circular_ elongated_;
+{ 61 Talar_canal present_ absent_;
+{ 62 Cotylar_fossa absent_ present,_facing_laterally_ facing_dorsally_;
+{ 63 Tuber_calcanei short_ intermediate_in_length_ long_;
+{ 64 Talar_and_sustentacular_facets_of_the_calcaneus not_confluent_ confluent_;
+{ 65 Talar_facet_of_the_calcaneus_(orientation) sub-parallel_to_the_long_axis_of_calcaneus_ oriented_at_45Âº_to_the_calcaneus_ nearly_90Âº_;
+{ 66 Talar_facet_of_the_calcaneus_(shape) gently_convex_ strongly_convex_ divided_into_two_surfaces_;
+{ 67 Fibular_facet_of_calcaneus flat_ highly_convex_;
+{ 68 Sustentacular_facet_of_the_calcaneus no_distal_extension has_a_distal_extension_;
+{ 69 Peroneal_tubercle small_or_absent_ large_;
+{ 70 Number_of_functional_digits_in_the_foot five_ fewer_than_five_;
+{ 71 Supraorbital_process absent_ present_;
+{ 72 Contact_of_frontal_and_maxilla_in_the_orbit absent_ present_;
+{ 73 Lacrimal_tubercle absent_ present_;
+{ 74 Height_of_mandibular_condyle_relative_to_dentition below_the_level_of_dentition _even_with_the_superior_aspect_of_dentition_ substantially_superior_to_t0he_dentition_;
+{ 75 Rostral_opening_of_the_infraorbital_canal over_P4_or_M1_ rostral_to_or_above_P3_ between_P3_and_P4_;
+{ 76 Shape_of_nasals posteriorly_narrow_with_a_wedge-like_suture_with_the_frontals_ posteriorly_broad_with_transverse_suture_with_the_frontals_;
+{ 77 Preglenoid_process absent_ present_;
+{ 78 Sulcus_on_promontorium_for_internal_carotid_artery present_ absent_;
+{ 79 80._Alisphenoid_canal absent_ present_;
+{ 80 Mastoid_foramen present_ absent_;
+{ 81 Postglenoid_foramen present_ absent_;
+{ 82 Coronoid_canal_of_dentary absent_ present_;
+{ 83 Foramen_rotundum absent_ present_;
+{ 84 Upper_incisors_ all_incisors_smaller_than_canines One_pair_of_upper_incisors_greatly_enlarged_;
+{ 85 Posterior_corner_of_the_orbit_superior_to M2_or_further_caudally M1 premolars_;
+;
+
+
+ccode  - 0.85;
+
+
+;
