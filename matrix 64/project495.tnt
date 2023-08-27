@@ -1,0 +1,103 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 13.54.24'
+66 19
+
+&[num]
+Dendrerpeton                     000000000000000000000000000000000000000000000000000000000?0000000?
+Sclerocephalus                   0000001000000000000000000000000000000000000000000?011011001001002?
+Eryopidae                        0000001?000?00000000000000000000000000010000000000000011000001002?
+Micromelerpeton                  1?1000??001?0000000?1001000111100000?0100000000101010011010001011?
+Amphibamus                       1100110011111111111?11011?11011122121111010100112?1100111100010100
+Platyrhinops                     1100?00?01111110011?11011?11001112121111010010111?1100111?00011000
+Doleserpeton                     110001001111111111111101111110112212111?01001011201100111?00000110
+Eoscopus                         110000??001101100001110111011011120211110100101121120?110?00011110
+Micropholis                      11101?1?00110111000110?001001?10120211110101101000?211111?10010001
+Tersomius                        1110001100110111010110000101101?1???????0??????0?01210111?10001111
+Ecolsonia                        1110001000000000000110100101110001010011001?0010000110112?1011000?
+Trematopidae                     111000000000000000011010110110000101001100100000000100112?10110?0?
+Dissorophinae                    11?10000001100100?011010110111000101102210110110000100111?0111000?
+Cacopinae                        111100000011001000011010110111000101102210110110000100111?00110?0?
+Pasawioops                       1110101100110111000?100001011010???????????????1010211111?10011?10
+Plemmyradytes                    1??????10?111???00111?0?1000101????111?1???????12?121?1?1?10??0101
+Georgenthalia                    11?00101??11?11100??100110101?1????????????????1211???1?2?10011110
+Gerobratachus                    ?????110101111111011?1?0??1?11??2211?1??11?1101121111?1??1?0011?0?
+Rubeostratilia_texensis          1?1010010?111111000?00000101101????????????????10101??111?10011110
+
+;
+
+
+cnames
+{ 0 Pal_ex State_0 State_1;
+{ 1 Quad_proc State_0 State_1;
+{ 2 Vom_depr State_0 State_1;
+{ 3 prsph_dent State_0 State_1;
+{ 4 parsph_dent_field State_0 State_1;
+{ 5 pspsh_basal_plate State_0 State_1;
+{ 6 vom_dent_field State_0 State_1;
+{ 7 Vom_fang State_0 State_1;
+{ 8 pal_fang State_0 State_1;
+{ 9 ect_fang State_0 State_1;
+{ 10 pt-vom State_0 State_1;
+{ 11 pt_flange State_0 State_1;
+{ 12 pt_pal State_0 State_1;
+{ 13 pal,_ect State_0 State_1;
+{ 14 interpt_vacuity State_0 State_1;
+{ 15 choana State_0 State_1;
+{ 16 pedicelly State_0 State_1;
+{ 17 bicuspidity State_0 State_1;
+{ 18 labyrinthodonty State_0 State_1;
+{ 19 narial_flange State_0 State_1;
+{ 20 prefr_proc State_0 State_1;
+{ 21 tabular_size State_0 State_1;
+{ 22 tabular-squ State_0 State_1;
+{ 23 pp_length State_0 State_1;
+{ 24 squ-st State_0 State_1;
+{ 25 semilunar_flange State_0 State_1;
+{ 26 suprat_length State_0 State_1;
+{ 27 suprat_flange State_0 State_1;
+{ 28 prefr-pofr State_0 State_1;
+{ 29 skull_width State_0 State_1;
+{ 30 palp._oss. State_0 State_1;
+{ 31 stapes State_0 State_1;
+{ 32 pleurocentr State_0 State_1 State_2;
+{ 33 rip_length State_0 State_1 State_2;
+{ 34 ant._rib_morph. State_0 State_1;
+{ 35 humerus:_shaft State_0 State_1 State_2;
+{ 36 humerus:_spinator State_0 State_1;
+{ 37 humerus:_head State_0 State_1;
+{ 38 interclavicle State_0 State_1 State_2;
+{ 39 illium State_0 State_1 State_2;
+{ 40 cleithrum:_head State_0 State_1;
+{ 41 Cleithrum:_size State_0 State_1;
+{ 42 scapula State_0 State_1;
+{ 43 presacr._count State_0 State_1;
+{ 44 ventral_scutes State_0 State_1;
+{ 45 carapace State_0 State_1;
+{ 46 tail State_0 State_1;
+{ 47 prf_shape State_0 State_1;
+{ 48 Otic-orbit State_0 State_1 State_2;
+{ 49 tab_post_proj State_0 State_1;
+{ 50 skull_shape State_0 State_1;
+{ 51 Alary_process State_0 State_1 State_2;
+{ 52 Curvature_marg_teeth State_0 State_1;
+{ 53 Carotid_formaina State_0 State_1;
+{ 54 Skull_table State_0 State_1;
+{ 55 Meckelian_foramen State_0 State_1;
+{ 56 External_nares State_0 State_1 State_2;
+{ 57 Lengthenin_of_maxilla State_0 State_1;
+{ 58 Squamosal_shape State_0 State_1;
+{ 59 Knobby_exostosis State_0 State_1;
+{ 60 Otic_notch State_0 State_1;
+{ 61 Contour_of_occiput State_0 State_1;
+{ 62 frontal State_0 State_1;
+{ 63 internarial_fontanelle State_0 State_1;
+{ 64 interorbital_zodth State_0 State_1 State_2;
+{ 65 prefrontql-lacrimal State_0 State_1;
+;
+
+
+ccode  - 0.65;
+
+
+;

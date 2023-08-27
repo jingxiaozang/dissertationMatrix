@@ -1,0 +1,152 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 13.59.51'
+107 27
+
+&[num]
+Enaliarctos_emlongi               00000000000000?000?0000000000000?000?0000000000000000010000001000000000001000000000??0?0?00???1?????????0??
+Pteronarctos_goedertae            00000010000000?01100010000002110?1010100102000000000001000000000000000100100?00?000???0?????????????????0??
+Arctocephalus_pusillus            00110111110011101210010011212114011111201021101101202010011010131212113001020021111101111122000001110000111
+Arctophoca_gazella                00100100110202211211010011212114011111101111000100202010010001130112213102000021111101111122000001100000000
+Arctophoca_tropicalis             01100111110101111211010011212114001111001021000100002000000000131112213001001021111101111122000021100110020
+Arctophoca_philippii              01100110110010?11220010011201114001111001021100100002000011001130112213002000121111101111122000001100001020
+Arctophoca_australis              00100111110001101211010011212114001111201011100100002010011000131112113002010021111101111122000001100000020
+Arctophoca_galapagoensis          00100111110002101221010011201114011111201121100100002000011000131112213001001021111101111122000001100000020
+Callorhinus_ursinus               00020001111000?11211020000202113001111101101101100000000000100010112113001121021111101111102110111100001000
+Zalophus_californianus            0010001011000??11210010011212003011111101121100110201100001100012112113002220021111101111122200001100001101
+Zalophus_wollebaeki               0010001011?001011210010011212014011111101121100100101100000100112112113003020021111101111122200001100001101
+Zalophus_japonicus                001000101100022112100100112121030111112011211001102011000001100121121130021100211111?11111222000011000010?1
+Eumetopias_jubatus                0110111011011??11211000011212002111111101121011110201000000011110112213001200121111101111112300001100000121
+Neophoca_cinerea                  0110011011000??012110000110021140011110011210001102000111001001122121130021010211111?11111223000011110?1101
+Phocarctos_hookeri                011000001100012012101000112111140011112111020001112020011000101121121130021010211111?11111223000011110?0101
+Otaria_byronia                    101000101101021113112311212121021111112210221111122020011111100122122130031210211111?1111122300002110000101
+Pithanotaria_starri               ?00000?0????1???11??0?0????1???4?0?111????????0?00?000?000????1101022?200100??00??1101100?0?????????????0??
+Hydrarctos_lomasiensis            ?0100110110000?012210?001121111401111120112?1???0000?01000100?1121122120020?0021111????????1???????????????
+Thalassoleon_mexicanus            00100010110200?1122000001121210200111120102100010001201000001?11010221200100?0001110011101001?0?????????1??
+Thalassoleon_macnallyae           ?0??????????02??12??0???????2114?0?????01101101?0000000000010?1?01????2??20??010??1001110110??0?????????0??
+USNM_263570                       ?0?000?????000?012??0?0???????????11110?1??????1??????????????11??0??12?010?????????????????????????????0??
+Thalassoleon_inouei               ???????????????????????????????????????010011011???????110??0???21?????????0?000111?????????????????????0??
+Proterozetes_ulysses              ?1001100110022?01220010011112004011111001?2100111020200000000?11211???30?21??121??11????1???????????????1??
+Callorhinus_gilmorei              ????00??????00??1?????????????14???????001?????????????000000?1001122120010??010111101110?11????????????0??
+Neophoca_palatina                 ?110????110?0???1?200?0?1121211??1?11??0110110010000?01???????01??1???2?012?????????????????????????????1??
+Proneotherium_repenningi          ?1120110?0000?001200020000002000?001110010000?10002000100001001100010000000??00??00??0???000????????????0??
+Odobenus_rosmarus                 ?0101?221121???0?300231221011101??121000110011011132??01011001320113213?1320101110111001?1000?0?00000000100
+
+;
+
+
+cnames
+{ 0 Height_of_skull <_32%_basal_length_of_skull >_32%_or_polymorphic_for_this_trait;
+{ 1 Dorsal_surface_of_skull_at_forehead Flat Slightly_to_strongly_convex;
+{ 2 Rostrum:_widest_portion Posterior_to_canines At_canines;
+{ 3 Facial_angle Less_than_or_equal_to_65 Polymorphic Greater_than_65;
+{ 4 Premaxilla:_prenarial_process Large,_forming_a_half-circle_in_dorsal_view,_and_giving_a_tapered_appearance_to_the_snout Reduced_to_a_low_ridge_in_dorsal_view,_enhances_overall_bluntness_of_snout;
+{ 5 Premaxilla:_depth_of_fossa_between_canine_and_incisor Shallow_or_absent Deep;
+{ 6 Premaxilla:_contact_with_nasals Contact_limited_to_the_lateral_margins_of_the_anterior_half_of_nasals Contact_between_the_premaxilla_and_nasal_extends_to_midway_along_the_lateral_margins_of_the_nasal,_or_greater Contact_limited_to_anterior_terminus_of_nasals_with_limited_or_no_contact_along_the_lateral_margins;
+{ 7 Premaxilla:_lateral_view Gradual_slop_from_nasal_region_to_prenarial_region Strongly_concave Premaxilla_mostly_excluded_from_lateral_view;
+{ 8 Maxilla:_fossa_muscularis Present Absent;
+{ 9 Maxilla:_nasiolabialis_fossa Present_and_well_developed Absent_or_poorly_developed;
+{ 10 Maxilla:__surface_of_posterodorsal_portion Flat Inflated Inflated_due_to_development_of_canines;
+{ 11 Maxillo-palatine_suture:_anterior_edge Straight_or_M_shaped Polymorphic Rounded;
+{ 12 Maxilla:_diastema_between_upper_P4_and_M1 Absent Present Present_and_greatly_elongated;
+{ 13 Maxilla:_diastema_between_upper_M1_and_M2 Absent Polymorphic Present;
+{ 14 Size_of_diastema_between_M1_and_M2 Slight_diastema Polymorphic Large_diastema;
+{ 15 Maxilla:_visibility_of_infraorbital_foramen_in_lateral_view Visible_ Not_visible_;
+{ 16 Maxilla:_embrasure_pit_between_P4_and_M1 Deep Shallow_or_absent;
+{ 17 Maxilla:_palatine_process Terminates_at_last_molar Extends_to_past_anterior_margin_of_temporal_fossa Extends_to_approximate_level_of_postorbital_process_of_zygomatic Extends_past_the_level_of_the_postorbital_process_of_zygomatic;
+{ 18 Nasal-frontal_suture Tranverse V-shaped W-_shaped;
+{ 19 Nasals:_anterior_flaring Lateral_walls_parallel_and_largely_straight,_with_minor_anterior_flaring Lateral_wall_concave,_with_extreme_flaring_of_the_anterior_portion_of_the_nasals;
+{ 20 Palate:_surface Flat_to_slightly_concave Polymorphic Deeply_concave;
+{ 21 Palate:_length Long_(53-60%_basal_length_of_skull) Short_(45-52%_basal_length_of_skull) Extremely_Short_(<_45%_basal_length_of_skull) Extremely_Long_(>_60%_basal_length_of_skull);
+{ 22 Palatine:_shape_of_posterior_edge Arched_or_triangular Straight;
+{ 23 Pterygoid:_hamular_processes Minor_dorsoventral_development Enlarged,_with_extensive_dorsoventral_development Absent;
+{ 24 Orbit:_anterior_margin Indistinct_ridge_connecting_antorbital_process_with_zygomatic_arch Low_ridge_connecting_antorbital_process_with_zygomatic_arch Ridge_developed_into_prominent_anterior_plate;
+{ 25 Antorbital_process Indistinct_but_present small_ridge_on_frontal Well_developed prominent_on_frontal_and_maxilla prominent_only_on_maxilla absent;
+{ 26 Construction_of_Antorbital_Process From_frontal_and_maxilla From_frontal_only From_maxilla_only;
+{ 27 Breadth_of_skull_across_antorbitals Less_than_or_equal_to_breadth_of_rostrum Greater_than_breadth_of_rostrum;
+{ 28 Frontal-maxilla_suture V-shaped Straight,_tranverse Divergent,_often_with_expansion_of_the_frontal_into_maxilla_as_a_lobe;
+{ 29 Constriction_between_braincase_and_orbital_region_in_dorsal_view Narrowest_constriction_between_braincase_and_supraorbital_processes Narrowest_constriction_adjacent_to_anterior_margin_of_braincase;
+{ 30 Frontal:_shape_of_intertemporal_margin Concave Straight;
+{ 31 Frontal:_supraorbital_process_shape Supraorbital_ridge Completely_absent Large,_lateral_margins_expanded,_giving_SOP_a_more_rectangular_shape Polymorphic Large_and_triangular;
+{ 32 Frontal:_angle_between_SOP_and_anterior_orbital_margin Greater_than_60 Polymorphic Less_than_or_equal_to_60;
+{ 33 Frontal:_anterior_root_of_sagittal_crest Crest_emerges_from_region_of_the_SOP,_either_from_one_point_or_slightly_bifid Anterior_emergence_of_crest_bifid,_and_preceded_by_prominent_divergent_crests_that_originate_on_the_posterior_portion_of_the_SOP;
+{ 34 Lacrimal Distinct Fuses_early_in_ontogeny_to_maxilla_and_frontal;
+{ 35 Orbital_vacuities:_position Absent Present_and_anteriorly_positioned Present_and_posteriorly_positioned;
+{ 36 Orbital_vacuities:_Extent_of_bone_reduction Minor,_small_foramen_or_fissure Major,_large_foramen_or_greatly_widened_suture;
+{ 37 Zygomatic_arch:_ventral_view Laterally_bowed Unbowed_or_slightly_medially_bowed;
+{ 38 Zygomatic_arch:_region_posterior_to_postorbital_process Thin Polymorphic Thick;
+{ 39 Squamosal:_mastoid_and_postglenoid_process_contact Separated Polymorphic Closely_appressed;
+{ 40 Relationship_of_mastoid_process_with_paraoccipital_process Close_to_paraoccipital_process_connected_via_low_discontinous_ridge Close_to_paraoccipital_process_connected_via_high_discontinous_ridge Distant_from_paraoccipital;
+{ 41 Basioccipital:_shape Trapezoidal Rectangular;
+{ 42 Carotid_canal Broad,_with_no_overlap_by_tympanic Polymorphic Tympanic_bulla_overlaps_or_partially_overlaps_the_canal,_excluding_much_of_it_from_view_on_the_ventral_surface;
+{ 43 Tympanic_bulla:_posterior_projection Absent_or_indistinct Short Long_and_well_developed;
+{ 44 Tympanic_bulla:__angle_between_posterior_and_lateral_margins Greater_than_90 Approximately_90;
+{ 45 Tympanic_bullae:_ventral_surface Bulbous Flat_or_concave;
+{ 46 Tympanic_bulla:_complex_ornamentation Absent_from_ventral_surface Present_on_ventral_surface;
+{ 47 Periotic:_pit_for_tensor_tympani Present Absent;
+{ 48 Parietal:_anterolateral_corner_of_braincase Forms_a_right_angle Smoothly_merges_with_orbital_region;
+{ 49 Parietal:_lateral_protuberances Absent Polymorphic Present;
+{ 50 Occipital:_exposure_in_dorsal_view Visible_as_a_triangular_wedge_between_nuchal_crests Polymorphic Not_visible_or_only_present_as_a_very_small_triangular_wedge_in_dorsal_view Visible_as_a_rounded_crescent;
+{ 51 Sagittal_crest Present Absent Polymorphic Separate_temporal_ridges_present;
+{ 52 Sagittal_crest:_shape Low_ridge Convex Low,_increases_in_height_posteriorly;
+{ 53 Sagittal_Crest:_location Largely_confined_to_braincase Emergence_of_sagital_crest_in_orbital_region,_extending_to_braincase;
+{ 54 Nuchal_crests:_shape_in_lateral_view Project_from_dorsal_surface_of_the_back_of_the_sagittal_crest_anteroventrally_over_the_top_of_the_mastoid_to_the_external_auditory_meatus Curved:_traces_the_posterior_margin_of_the_skull_onto_the_mastoid_process;
+{ 55 Mandible:_shape_of_ventral_margin Straight Sinuous;
+{ 56 Mandible:_genial_tuberosity Absent_or_weakly_developed Large_genial_tuberosity;
+{ 57 Mandible:_development_of_digastric_insertion Transversely_rounded Sharp_crest;
+{ 58 Mandible:_angular_process_shape Narrow Broad Reduced_to_low_triangular_ridge_or_bump Absent_or_indistinct;
+{ 59 Mandible:_medial_shelf_of_angular_process Does_not_form_medial_shelf Forms_small_medial_shelf;
+{ 60 Mandible:_base_of_coronoid Narrow_(Less_than_42%_of_mandible_length) Broad_(Greater_than_or_equal_to_42%_of_mandible_length);
+{ 61 Length_of_masseteric_fossa Long_(_>_28%_length_of_mandible) Short_(<_28%_length_of_mandible;
+{ 62 Extension_of_upper_toothrow Extends_to_level_of_the_maxillary_base_of_the_zygomatic_arch Extends_to_level_of_anterior_portion_of_temporal_fossa Extends_to_or_past_level_of_middle_of_temporal_fossa Well_anterior_to_the_level_of_the_maxillary_base_of_the_zygomatic_arch;
+{ 63 Upper_postcanine_tooth_row Laterally_concave Straight_and_parallel Laterally_convex Postcanine_tooth_row_kinked_at_approximately_P3;
+{ 64 Postcanines:_labial_cingulum Absent Polymorphic Present;
+{ 65 Premolars:_P2-P3_accessory_cusps Absent,_a_well_developed_paracone_and_metacone_instead Absent_or_small_cusps_present Well_developed_cusps_present;
+{ 66 Upper_P3:_rooting Double-rooted Single-rooted;
+{ 67 Upper_P3-P4:_crowns Three_cusps Two_cusps,_paracone_emphasized One_cusp Peglike_crown Complex_labial_cusps;
+{ 68 Protocone Present_and_well-developed Present_but_vestigial,_often_worn_away Absent;
+{ 69 Upper_P4:_protocone_shelf Present Absent;
+{ 70 Upper_P4:_rooting Three-rooted Three-rooted_with_posterior_root_bilobed Double-rooted Single-rooted;
+{ 71 Molar_wear Unworn_or_slight_wear Molars_heavily_worn,_reduced_to_flat_button;
+{ 72 Upper_M1 Present Absent;
+{ 73 Upper_M1:_rooting Triple_rooted Double-rooted Polymorphic Single-rooted;
+{ 74 Upper_M2 Present Polymorphic Absent;
+{ 75 Lower_tooth_row_length Long_(>_40%_of_length_of_mandible) Polymorphic Short_(<_40%_of_length_of_mandible;
+{ 76 Lower_P1:_crown_size Smaller_than_crowns_of_p2-4 Similar_in_size_to_p2-4;
+{ 77 Lower_P1:_root_width Root_or_alveolus_is_same_diameter_as_p2-4 Root_or_alveolus_smaller_in_diamater_than_p2-4;
+{ 78 Lower_P2:_rooting Double Double_or_bilobate Polymorphic Single;
+{ 79 Lower_P3-4:_rooting Double Single;
+{ 80 Lower_M1-2:_trigonid_and_talonid Present Supressed;
+{ 81 Lower_M1:_metaconid Reduced Absent;
+{ 82 Lower_M2 Present Absent;
+{ 83 Vertebral_foramen Proportionally_same_size_as_in_terrestrial_carnivores Enlarged;
+{ 84 Cervical_vertebrae:_size Larger_than_thoracic_and_lumbar,_spinal_canal_less_than_one-half_diameter_of_centrum Smaller_than_thoracic_and_lumbar,_with_spinal_canal_nearly_as_large_as_centrum;
+{ 85 Lumbar_vertebrae:_tranverse_processes Long Short;
+{ 86 Scapula:_secondary_spine Absent Present;
+{ 87 Humerus:_supinator_ridge Well_developed Absent_or_poorly_developed;
+{ 88 Radius:_position_of_pronator_teres_process Positioned_on_the_distal_60%_of_the_radius Positioned_on_the_proximal_40%_of_the_radius;
+{ 89 Femur:_fovea_for_teres_femoris_ligament Present_and_well-developed Strongly_reduced_or_absent;
+{ 90 Tibia_and_fibula Unfused Polymorphic Fused_proximally;
+{ 91 Calcaneum:_secondary_shelf_of_sustentaculum Absent_or_developed_as_a_thin_groove Developed_as_narrow_shelf Developed_as_wide_shelf;
+{ 92 Baculum:_apex Tranversely_narrow Tranversely_narrow,_resembles_a_figure_8_in_anterior_view Broad_with_keels Broad_with_keels,_with_further_expansion_laterally;
+{ 93 Postcruciate_sulcus Absent Present;
+{ 94 Pseudosylvian_sulcus Weakly_present_or_absent 'present,_deep' Strongly_developed reduced_or_absent;
+{ 95 Posterior_ectosylvian_gyrus Broad_and_convulated Narrow_and_unconvulated;
+{ 96 Head_tuft_in_males Absent Present_in_the_form_of_a_crown Present_in_form_of_small_tuft;
+{ 97 Mane Absent Present_in_males Present_in_males_and_exaggerated;
+{ 98 Tooth_pigmentation Absent Present;
+{ 99 Coloration:_sexual_dimorphism_in_contrast Absent Male_has_bolder_patterns_or_darker_coloration_than_female;
+{ 100 Coloration:_sexual_dimorphism_in_color Absent Females_gray_dorsally;
+{ 101 Coloration:_facial_pattern Absent Face_pale;
+{ 102 Coloration:_contrast_between_dorsal_and_ventral_surfaces Absent_or_slight Strongly_contrasting;
+{ 103 Coloration:_contrast_between_nape_and_crown_in_males Absent Present;
+{ 104 Body_size Small_taxa_(<300_kg) Large_taxa_(>300_kg);
+{ 105 Haul_out_site_preference Beach_type_environments Polymorphic Rocky,_boulder_type_environments;
+{ 106 Thigomatism Weak Strong;
+;
+
+
+ccode  - 0.106;
+
+
+;

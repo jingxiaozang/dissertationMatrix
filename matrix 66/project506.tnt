@@ -1,0 +1,185 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 13.57.30'
+137 30
+
+&[num]
+Ancestor                        00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+Captorhinidae                   0000000000000000?000000?010000000000000000000?0000001000000000000?0000000000000000?0000000000?000000?0?0100000000000000000000000000000000
+Araeoscelidia                   110000000000000101000000000030?00000000?000001000000010100000000000000000000100000?0000000100000000100?0100011000000000000000000000000000
+Claudiosaurus                   010000000010000101000000111030200001000?00000?00000201010?00000000100?000000100000?0010001?00110000100?1000001011110000000011011100000000
+Younginiformes                  1100000000100001010000000?0030100000110?000001000000010?100100000010000000001000000000000?100?10000?00?10000110000?0?00000011010100000010
+Rhynchosauria                   1000110000100000010101331110101100001101001000001000010010010000?01011000000100000?0?00000?00110000100?100?011000001000000011010101010111
+Trilophosaurus                  11001?0000?00100110?003311?0100?000?11000?120?000000010?10010000?01011??0000100000?001000??0?110000100?100001100?001000000011010100010111
+Prolacertiformes                110011010010000?010?0?0?11?0302100?1110?0010010000000101?00100000010?1?0000010?000??0100011001100000?0?1000011000001?00000?110101000??11?
+Choristodera                    1200110100100000010000131110101100?0110?0111010?100001010001000000100110000010000011010100?0?110001100?10000110000?120000001101110?010111
+Archosauriformes                ??001101001000???1010???11?030110000110?0???010??000?101?00100000010?1?0000010?0100??10?0?100110000100?100?011000?010000000110??10001?111
+Kuehneosauridae                 100000000010000101000002111010210011111?01000100?000?10?00010000001011000000101010?11?0001?0?????????1?100001?0000212000001110101??0?????
+Rhynchocephalia                 1000000000?000??01?10???11?010?0000111?10??00100000001011001010000101?0001001000000?000001100110000100?100001100002000000011101010100?111
+Squamata                        1?00000000?00??001?00???11?01021001?11110?0???00?000010110010100001011?00?0010000001?0000110?1?00001?0?10000110000?10?0000111010101001111
+Testudines                      0?00000000100?00??00000311?0000100001100000?000??0001101000?0?00????0??0000010?0000100000000?100000100??001000000??1000?0010000110100?111
+Placodus                        02111011002001?101001?00111020010000110100100111101100001021001110101000000010111001110100010110011110?1001100111001202100111011121001100
+Cyamodus                        021110100?20000?01001203111020010000010000110?011011100?1021001100101?0000?0101?10010101???1?1?0011?20?????10?1110??201?0111?????????????
+Corosaurus                      001010100020000111?000101110102001??1001011101?1?00000??1111000011011100010010100111110101001110111111110111001111002011011110111110011??
+Cymatosaurus                    0211101022200?01?1100??011102120011?100?0?110??1100000110?2?00001101111001????100111??0??00001??????????0???0?000000?0??011110111????????
+Augustasaurus                   0020102?2220100121001033111022201?1?100012112111110000??01210000010211101?0111110111?10???00?10?011??10?03?10?121131211??????????????????
+Pistosaurus                     002010202220100121?01133111022201?1?10011211???1?00000???????000110111101100?1?0011??10???00?1???????11103??0?1?11312110????11???????????
+Plesiosaurus                    0000100??22000000100103311102220101?100112112111110200??010100000011111010011011011101010000?101011??101041100?110312-02?111012110?001000
+Simosaurus                      02001000122000100100021111102020000110000021012100020011010100001012111001001010001111010000110111111101021100101111201210111121111101100
+Germanosaurus                   02111010022100011120?111111120200???100?00?????1?00??????????0001111????0?????????????????00?1??????????0????????????0???????????????????
+Nothosaurus                     021110100?2100110??002?21111202000?11000012?1121100?0011012100001102111101?01010001101?11?0011?1111?21010211001??1?0201210111121111101100
+Lariosaurus                     021110100?21001102?002211111?02000??100001201??1?00100??01210000110211110?10101000?101?210000101111??10102110011111020?3?1111121101101100
+Wumengosaurus                   0120102000?0000??1???2001110302?0???11??0??0????????????0??1?0000010?10?0?00?0?000???11100?0?1??11???1?10???0011?10010200?1?1??1121101100
+Serpiano-Neustico               110010000?2000?10?000000111030200001110100201??1000210??0001100000101101011010100011011110000101011?2101021100101??0?0?3??111121121101100
+Anaro-Dactylo                   1100100000200001010000001110302000??110100201??1000210??0001100000101101011010100011010110000101111??10102110?10100010130011?1?????0?????
+Keichousaurus                   1000100012200011010?0203110030210001100?002011?10002?0?0100110000000110101101?100011011?10000101111121010211001??1111?0200111121111001100
+Dianopachysaurus_dingi          120010000020001111000200111030200?0?100?00?0????????????00?1?0000000??????10????0????11110???10??1???101????00111110200201??1121121001100
+
+;
+
+
+cnames
+{ 0 Bones_in_the_dermatocranium distinctly_sculptured relatively_smooth;
+{ 1 Preorbital_and_postorbital_region_of_skull of_subequal_length preorbital_region_distinctly_longer postorbital_region_distinctly_longer;
+{ 2 Snout relatively_short elongated_with_broad_anterior_termination elongated_and_tapering_anteriorly;
+{ 3 Distinct_snout_constriction_in_adult absent present;
+{ 4 Premaxillae-MorphoBank_1 small large,_forming_most_of_snout_in_front_of_external_nares;
+{ 5 Postnarial_process_of_premaxilla absent present,_excluding_maxilla_from_posterior_margin_of_external_naris;
+{ 6 External_nares not_retracted retracted_with_a_longitudinal_diameter_appraoching_or_exceeding_half_the_longitudinal_diameter_of_the_orbit retracted,_narrow,_and_with_a_longitudinal_diameter_that_is_distinctly_less_than_half_the_longitudinal_diameter_of_the_orbit;
+{ 7 Nasal(s)_-_MorphoBank_1 shorter_than_frontal(s) longer_than_frontal(s);
+{ 8 Nasal(s)_-_MorphoBank_2 not_reduced reduced absent;
+{ 9 Nasal(s)_-_MorphoBank_3 meet_in_dorsomedial_suture fused are_seperated_from_one_another_by_nasal_processes_of_the_premaxillae_extending_back_to_the_frontal_bone(s);
+{ 10 Lacrimal is_present_and_enters_the_external_naris remains_excluded_from_the_external_naris absent;
+{ 11 Dorsal_exposure_of_prefrontal large reduced;
+{ 12 Prefrontal without_slender_anteromedial_process with_slender_anteromedial_process_entering_between_maxilla_and_premaxilla;
+{ 13 Frontal_-_MorphoBank_1 forms_the_dorsal_margin_of_the_orbit excludes_from_the_dorsal_margin_of_the_orbit_by_a_contact_of_prefrontal_and_postfrontal;
+{ 14 Frontal(s)_in_adult paired fused;
+{ 15 Distinct_posterolateral_processes_of_frontal(s) absent present;
+{ 16 Frontal_-_MorphoBank_2 widely_separated_from_the_upper_temporal_fossa narrowly_approaches_the_upper_temporal_fossa enters_the_anteromedial_margin_of_the_upper_temporal_fossa;
+{ 17 Postfrontal large_and_plate-like with_distinct_lateral_process_overlapping_the_dorsal_tip_of_the_postorbital with_reduced_lateral_process_and_hence_more_of_an_elongate_shape;
+{ 18 Jugal-MorphoBank_1 extends_anteriorly_along_the_ventral_margin_of_the_orbit is_restricted_to_a_position_behind_the_orbit_but_enters_the_latter's_posterior_margin is_restricted_to_a_position_behind_the_orbit_without_reaching_the_latter's_posterior_margin;
+{ 19 Jugal-MorphoBank_2 extends_backwards_no_farther_than_to_the_middle_of_the_cheek_region extends_nearly_to_the_posterior_end_of_the_skull;
+{ 20 Jugal-MorphoBank_3 remains_excluded_from_the_upper_temporal_arch enters_the_upper_temporal_arch;
+{ 21 Parietal(s)_in_adult paired fused_in_their_posterior_part_only fully_fused;
+{ 22 Parietal_skull_table broad weakly_constricted strongly_constricted_(at_least_posteriorly) forming_a_sagittal_crest;
+{ 23 Pineal_foramen close_to_the_middle_of_the_skull_table weakly_displaced_posteriorly strongly_displaced_posteriorly displaced_anteriorly;
+{ 24 Postparietals present absent;
+{ 25 Tabulars present absent;
+{ 26 Supratemporals present absent;
+{ 27 Temporal_region_of_skull relatively_high strongly_depressed;
+{ 28 Upper_temporal_fossa absent present_and_subequal_in_size_or_slightly_larger_than_the_orbit present_and_distinctly_larger_than_orbit present_and_distinctly_smaller_than_orbit;
+{ 29 The_anteromedial_corner_of_the_upper_temporal_fossa is_not is_partially is_fully_floored_by_a_descensus_from_the_postorbital,_which_together_with_neighboring_elements_(postfrontal,_parietal)_separates_it_from_orbit;
+{ 30 Lower_temporal_fossa absent present_and_closed_ventrally present_but_open_ventrally;
+{ 31 Squamosal descends_to_ventral_margin_of_skull remains_broadly_separated_from_ventral_margin_of_skull;
+{ 32 A_box-like_suspensorium_of_the_squamosal absent present;
+{ 33 Dstinct_notch_of_squamosal_to_receive_distal_tip_of_paroccipital_process absent present;
+{ 34 Quadratojugal present absent;
+{ 35 Anterior_process_of_quadratojugal present absent;
+{ 36 Quadrate covered_by_squamosal_and_quadratojugal_in_lateral_view exposed_in_lateral_view;
+{ 37 Posterior_margin_of_quadrate straight concave;
+{ 38 Lateral_conch_on_quadrate absent present;
+{ 39 Dorsal_wing_of_epipterygoid approximately_as_broad_as_its_base narrower_than_its_base;
+{ 40 Braincase located_at_posterior_end deeply_recessed_below_parietal_skull_roof_(or_parietal_sagittal_crest);
+{ 41 Occipital_crest absent present_but_squamosals_do_not_meet_behind_parietal present_and_squamosals_meet_behind_parietal;
+{ 42 Occiput with_paroccipital_process_forming_the_lower_margin_of_the_posttemporal_fossa_and_extending_laterally paroccipital_processes_trending_posteriorly plate-like_with_no_distinct_paroccipital_process_and_with_strongly_reduced_posttemporal_fossae;
+{ 43 Mandibular_articulations approximately_at_level_with_occipital_condyle displaced_to_a_level_distinctly_behind_occipital_condyle positioned_anterior_to_the_occipital_condyle;
+{ 44 Supraoccipital exposed_more_or_less_vertically_on_occiput exposed_more_or_less_horizontally_at_posterior_end_of_parietal_skull_table U-shaped;
+{ 45 Contact_between_exoccipitals_and_the_basioccipital_condyle present absent;
+{ 46 Basioccipital_tubera free in_complex_relation_to_the_pterygoid,_as_they_extend_ventrally in_complex_relation_to_the_pterygoid,_as_they_extend_laterally;
+{ 47 Palate kinetic akinetic;
+{ 48 Premaxillae-MorphoBank_2 enter_internal_naris are_excluded_from_internal_naris;
+{ 49 Posterior_palatine_vacuities absent present;
+{ 50 Pterygoids longer_than_palatines shorter_than_palatines;
+{ 51 Pterygoid_flanges well_developed_and_transversely_oriented well_developed_and_longitudinally_oriented strongly_reduced;
+{ 52 Ectopterygoid present absent;
+{ 53 Suborbital_fenestra absent present;
+{ 54 Internal_carotid_passage enters_basicranium enters_quadrate_ramus_of_pterygoid;
+{ 55 Splenial_bone enters_the_mandibular_symphysis remains_excluded_therefrom;
+{ 56 Distinct_coronoid_process_of_lower_jaw absent present;
+{ 57 Strongly_projecting_lateral_ridge_of_surangular_defining_the_insertion_area_for_superficial_adductor_muscle_fibers_on_the_lateral_surface_of_the_lower_jaw absent present;
+{ 58 Mandibular_symphysis short somewhat_enforced elongated_and_"scoop"-like;
+{ 59 Retroarticular_process_of_lower_jaw absent present;
+{ 60 Trough_on_dorsal_surface_of_retroarticular_process absent present;
+{ 61 Teeth set_in_shallow_or_deep_sockets superficially_attache_to_bone;
+{ 62 Durophagous_dentition,_including_much_enlarged_palatine_tooth_plates absent present;
+{ 63 Number_of_premaxillary_teeth four_or_more three_or_less;
+{ 64 Anterior_(premaxillary_and_dentary)_teeth upright_or_only_sightly_procumbent strongly_procumbent;
+{ 65 Premaxillary_and_anterior_dentary_fangs absent present;
+{ 66 One_or_two_enlarged_teeth_on_maxilla present absent;
+{ 67 The_maxillary_tooth_row is_restricted_to_a_level_in_front_of_the_posterior_margin_of_the_orbit extends_backwards_to_a_level_below_the_posterior_corner_of_the_orbit_and/or_the_anterior_corner_of_the_upper_temporal_fossa extends_backwards_to_a_level_below_the_anterior_one_third_to_one_half_of_the_upper_temporal_fossa;
+{ 68 Teeth_on_pterygoid_flange present absent;
+{ 69 Vertebrae-MorphoBank_1 notochordal non-notochordal;
+{ 70 Vertebrae-MorhpoBank_2 amphicoelous platycoelous or_other;
+{ 71 Vertebral_centrum distinctly_constricted_in_ventral_view with_parallel_lateral_edges;
+{ 72 Subcentral_foramina absent present;
+{ 73 Zygosphene-zygantrum_articulation absent present;
+{ 74 Zygapophyseal_pachyostosis absent present;
+{ 75 Number_of_cervical_vertebrae less_than_30 more_than_30;
+{ 76 Cervical_centra rounded_ventrally keeled_ventrally;
+{ 77 Parapophysis does_not_shift_backwards_on_centrum_along_the_cervical_vertebral_column does_shift_backwards_on_centrum_along_the_cervical_vertebral_column;
+{ 78 Cervical_intercentra present absent;
+{ 79 Distal_articular_surface_on_transverse_processes_of_dorsal_vertebrae oblong evenly_rounded;
+{ 80 Transverse_processes_of_neural_arches_of_the_dorsal_region relatively_short distinctly_elongated;
+{ 81 Distal_end_of_transverse_processes_of_dorsal_vertebrae not_increasing_in_diameter distinctly_thickened;
+{ 82 Sutural_facets_receiving_the_pedicels_of_the_neural_arch_on_the_dorsal_surface_of_the_centrum_in_the_dorsal_region narrow expanded_into_a_cruciform_or_"butterfly-shaped"_platform;
+{ 83 Dorsal_intercentra present absent;
+{ 84 Anteroposterior_trend_of_increasing_inclination_of_pre-_and_postzygapophyses_within_the_dorsal_and_sacral_region absent present;
+{ 85 A_distinct_free_anterior_process_of_cervical_ribs absent present;
+{ 86 Pachyostosis_of_dorsal_ribs absent present;
+{ 87 The_number_of_sacral_ribs two three four_or_more;
+{ 88 Distinct_expansion_of_distal_head_of_sacral_ribs present absent;
+{ 89 Sacral_(and_caudal)_ribs_or_transverse_processes_and_their_respective_centrum sutured fused;
+{ 90 Mineralized_sternum absent present;
+{ 91 Median_gastral_element angulated straight;
+{ 92 The_medial_gastral_rib_element always_only_has_a_single_lateral_process may_have_a_two-pronged_lateral_process;
+{ 93 Cleithrum present absent;
+{ 94 Clavicles-MorphoBank_1 broad_medially narrow_medially;
+{ 95 Clavicles-MorphoBank_2 do_not_meet_in_front_of_the_interclavicle meet_in_an_interdigitating_anteromedial_suture;
+{ 96 Anterolaterally_expanded_corners_of_clavicles absent present;
+{ 97 Clavicle applied_to_the_anterior_(lateral)_surface_of_scapula applied_to_the_medial_surface_of_scapula;
+{ 98 The_relationship_between_clavicles_and_interclavicle in_simple_overlapping_contact anteromedioventral_end_of_clavicle_embraces_lateral_tip_of_interclavicle_in_a_complex_contact;
+{ 99 Interclavicle rhomboidal T-shaped;
+{ 100 Posterior_process_on_(T-shaped)_interclavicle elongate short rudimentary_or_absent;
+{ 101 Scapula represented_by_a_broad_blade_of_bone with_a_constriction_separating_a_ventral_glenoidal_portion_from_a_posteriorly_directed_dorsal_wing;
+{ 102 The_dorsal_wing_or_process_of_the_eosauropterygian_scapula tapers_to_a_blunt_tip is_ventrally_expanded_at_its_posterior_end;
+{ 103 Supraglenoid_buttress present absent;
+{ 104 Number_of_coracoid_ossifications one two;
+{ 105 Coracoid of_rounded_contours slightly_waisted strongly_waisted with_expanded_medial_symphysis_and_ridge-like_thickening_of_the_bone_extending_from_glenoid_facet_posteriorly_along_lateral_edge_of_the_bone,_coracoid_foramen_not_enlarged with_expanded_medial_symphysis_and_ridge-like_thickening_of_the_bone_extending_from_glenoid_facet_transversely_through_the_bone,_coracoid_foramen_much_enlarged;
+{ 106 Coracoid_foramen enclosed_by_coracoid_ossification between_coracoid_and_scapula;
+{ 107 Pectoral_fenestration absent present;
+{ 108 Limbs short_and_stout long_and_slender;
+{ 109 Foot short_and_broad long_and_slender;
+{ 110 Humerus rather_straight "curved";
+{ 111 Deltopectoral_crest well_developed reduced absent;
+{ 112 Insertional_crest_for_latissimus_dorsi_muscle prominent reduced;
+{ 113 Epicondyles_of_humerus prominent reduced;
+{ 114 Ectepicondylar_groove open_and_notched_anteriorly open_without_anterior_notch closed absent;
+{ 115 Entepicondylar_foramen present absent;
+{ 116 Radius shorter_than_ulna longer_than_ulna approximately_of_the_same_length;
+{ 117 Distal_end_of_ulna not_expanded distinctly_expanded;
+{ 118 Total_number_of_carpal_ossifications more_than_3 3 2;
+{ 119 Iliac_blade well_developed reduced_but_projecting_beyond_level_of_posterior_margin_of_acetabular_portion_of_ilium reduced_and_no_longer_projecting_beyond_posterior_margin_of_acetabular_portion_of_ilium absent,_i.e._reduced_to_simple_dorsal_stub;
+{ 120 Pubis with_convex_ventral_(medial)_margin with_concave_ventral_(medial)_margin;
+{ 121 Obturator_foramen_in_adult closed open;
+{ 122 Thyroid_fenestra absent present;
+{ 123 Acetabulum oval circular;
+{ 124 Femoral_shaft stout_and_straight slender_and_sigmoidally_curved;
+{ 125 Internal_trochanter well_developed reduced;
+{ 126 Intertrochanteric_fossa deep distinct_but_reduced rudimentary_or_absent;
+{ 127 Distal_femoral_condyles prominent not_projecting_markedly_beyond_shaft;
+{ 128 Anterior_femoral_condyle_relative_to_posterior_condyle larger_and_extending_further_distally smaller/equisized_and_of_subequal_extent_distally;
+{ 129 Total_number_of_tarsal_ossifications four_or_more three two;
+{ 130 Perforating_artery passes_between_astragalus_and_calcaneum between_the_distal_heads_of_tibia_and_fibula_proximal_to_the_astragalus;
+{ 131 The_proximal_concavity_of_astragalus absent present;
+{ 132 Calcaneal_tuber absent present;
+{ 133 Distal_tarsal_1 present absent;
+{ 134 Distal_tarsal_5 present absent;
+{ 135 Metatarsal_5-MorphoBank_1 long_and_slender distinctly_shorter_than_the_other_metatarsals_and_with_a_broad_base;
+{ 136 Metatarsal_5-MorphoBank_2 straight "hooked";
+;
+
+
+ccode  - 0.136;
+
+
+;

@@ -1,0 +1,77 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 14.00.47'
+39 20
+
+&[num]
+Enaliarctos_emlongi                   000000000000000000000000000000000000000
+Pteronarctos_goedertae                001000000000000000000000000100000000000
+Desmatophoca_oregonensis              001000001001001001000000000100000001000
+Allodesmus_gracilis                   001000011011010001000000011110101102001
+Monachus_monachus                     000000001001000100000000000101000000011
+Erignathus_barbatus                   0010000?000110000000000000010000000001?
+Callorhinus_ursinus                   000000001000011?00000000000110101102010
+Proneotherium_repenningi              000000001000001000000000000100000000001
+Kamtschatarctos_sinelnikovae          00100?0010000?10???????0000100010001001
+Neotherium_mirum                      001000001000011000000000000100010001001
+Imagotaria_downsi                     0120000010?0011001000100010101?1??020?1
+Pelagiarctos_sp.                      012100001000????01000100010?01010001001
+Pontolis_magnus                       00210001101110011?010000111110010002002
+Gomphotaria_pugnax                    01110001100000102?0110101111?0??110?113
+Dusignathus_santacruzensis            012000011111001001010010111110111102112
+Dusignathus_seftoni                   1121000?111100101?0110101111????110?11?
+Protodobenus_japonicus                010000001110101001110000210110101112?11
+Ontocetus_emmonsi                     012110111101101001110000210110101112?11
+Valenictus_chulavistensis             1111111?110110002?2????1??????????1??1?
+Odobenus_rosmarus                     11110110110111112?110002210110101112?13
+
+;
+
+
+cnames
+{ 0 Mandible:_fusion_of_mandibular_symphysis Absent Present;
+{ 1 Mandible:_length_of_mandibular_symphysis Less_than_50%_of_length_of_horizontal_ramus Greater_than_50%_of_length_of_horizontal_ramus;
+{ 2 Mandible:_genial_tuberosity Absent_or_indistinct Present,_developed_as_small_tubercle_or_process_on_anterior_portion_of_ramus_in_lateral_view 'Present Present_and_well_developed,_extends_well_below_ventral_margin_of_ramus_in_lateral_view State_2;
+{ 3 Mandible:_anterior_portion_of_symphyseal_region Smooth,_compact_bone 'Smooth,_compact_bone' Rugose,_vascular_bone 'Rugose,_vascular_bone';
+{ 4 Mandible:_horizontal_ramus horizontal upturned;
+{ 5 Mandible:_mandibular_furrow absent anterodorsal_end_of_mandibles_have_a_longitudinal_furrow_anteriorly;
+{ 6 Mandible:_edentulous_mandibular_terminus absent present;
+{ 7 Mandible:_posteroventral_terminus_of_mandibular_symphysis Same_level_or_anterior_to_p1_or_p2 Posterior_to_the_level_of_p2;
+{ 8 Mandible:_depth_of_horizontal_ramus deepest_part_of_horizontal_ramus_posterior_to_mandibular_symphysis deepest_part_of_horizontal_ramus_at_posteroventral_terminus_of_symphysis;
+{ 9 Mandible:_mandibular_arch Nearly_parallel Sharply_divergent;
+{ 10 Mandible:_ventral_border Straight Sinuous;
+{ 11 Mandible:_enlarged_digastric_insertion Absent Present;
+{ 12 Mandible:_mandibular_condyle At_or_slightly_above_level_of_tooth_row Elevated_above_tooth_row;
+{ 13 Mandible:_mandibular_foramen Directed_anteroventrally Directed_anterodorsally;
+{ 14 Mandible:_medial_shelf_of_angular_process Does_not_form_medial_shelf Forms_small_medial_shelf;
+{ 15 Mandible:_base_of_coronoid_process Narrow_(Less_than_42%_of_mandible_length) 'Narrow_(Less_than_42%_of_mandible_length)' Broad_(Greater_than_or_equal_to_42%_of_mandible_length) 'Broad_(Greater_than_or_equal_to_42%_of_mandible_length)';
+{ 16 Lower_incisors:_number 2_incisors 1_incisor incisors_absent;
+{ 17 Lower_Incisors:_relative_size Lower_incisors_of_equal_size,_form_transverse_arcade 'Lower_incisors_of_equal_size,_form_transverse_arcade' Lateral_incisors_greater_in_size_than_medial_incisors,_medial_incisor_placed_posteromedial_to_lateral_incisor 'Lateral_incisors_greater_in_size_than_medial_incisors,_medial_incisor_placed_posteromedial_to_lateral_incisor';
+{ 18 Lower_canines:_size_compared_to_upper_canines 'Nearly_equal_(100-80%)_and_caniniform' Nearly_equal_(100-80%)_and_caniniform 'Reduced_(75-20%)_and_premolariform' Reduced_(75-20%)_and_premolariform Lower_canine_absent;
+{ 19 Lower_canine:_posterior_crista present absent;
+{ 20 Lower_canines:_longitudinal_fluting Absent Present;
+{ 21 Lower_canines:_root Oval_or_circular_in_cross_section Bilobate_in_cross_section_or_prominent_longitudinal_labial_sulcus;
+{ 22 Lower_canines:_orientation Not_procumbent_and_vertically_oriented Procumbent;
+{ 23 Lower_premolars P1-4_Present P1-3_present,_P4_Absent Premolars_absent;
+{ 24 Postcanines:_tooth_enamel Well_developed Thin_or_patchy Cementum_only;
+{ 25 Postcanines:_crowns Laterally_compressed Bulbous;
+{ 26 Postcanines:_root_lobes Root_lobes_of_postcanine_teeth_of_equal_or_narrower_width_than_crowns Root_lobes_of_postcanine_teeth_inflated_and_wider_than_crowns;
+{ 27 Lower_postcanines:_tooth_row_length Long_(length_of_tooth_row_greater_than_40%_of_the_mandible_length) 'Long_(length_of_tooth_row_greater_than_40%_of_the_mandible_length)' 'Short_(length_of_tooth_row_less_than_or_equal_to_40%_of_the_mandible_length)' Short_(length_of_tooth_row_less_than_or_equal_to_40%_of_the_mandible_length);
+{ 28 Lower_postcanines:_paraconid_cusps Present_and_well_developed Absent_or_reduced;
+{ 29 Lower_postcanines:_lingual_cingula Present_and_smooth Present_and_rough_or_crenulated.;
+{ 30 Lower_premolars:_hypoconid_cusps Present Absent;
+{ 31 Lower_postcanines:_talonid_basin Absent Slight_concavity_or_small_shelf;
+{ 32 Lower_P2:_rooting Double_or_bilobate Single;
+{ 33 Lower_P3-4:_rooting Double Single;
+{ 34 Lower_M1 Present Absent;
+{ 35 Lower_postcanines:_metaconid Present Reduced Absent;
+{ 36 Lower_M1:_rooting Double_rooted Single_rooted;
+{ 37 Lower_M2 Present Absent;
+{ 38 Postcanine_tooth_wear Absent Minor_wear_on_anterior_and_posterior_cusps_or_apical_wear Large_wear_facets_on_anterior_and_posterior_edges Heavily_worn_and_polished;
+;
+
+
+ccode  - 0.38;
+
+
+;

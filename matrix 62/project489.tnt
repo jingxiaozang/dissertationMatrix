@@ -1,0 +1,307 @@
+nstates num 8;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 13.53.18'
+243 46
+
+&[num]
+Theropoda                          000000000000000000000000000000000--0000000000000-000000000000000000-00000000000010-000000-0000000000000000000-000000000000000000000000000-00000-000001000000000001100-0000000000000000000000000000000-00000000000000000000--00000000000000?001??000
+Prosauropoda                       -00000000000000000000000000000000--00000000000000000000000000000000-00000000000110-0000-0-1000000000000000000-000000000000000000000000000-00000-000000000000000001000-0000000000010000000000000000000-000000000000000000000000000000000000?001??000
+Quiowanlong                        ?????????????????????????????????????????????????????????????????????????????1??011010101??????????????????????????????????????????????????0???????????????????????????????????????????111010?000??????????????????????????????????????????0?0??11-
+Erketu_ellisoni                    ----------------------------------------------------------------??----------110-011111101---?????????????????????---?????-????????????????10?-??????1------?-1-????????????-??-?-------?????-??-?????--?-?111??10111?00-?????????????????--010----1
+Euhelopus                          01110-11--1----10-------0----?-?11?--011??------------1001?-----111011121?1011-70111011011210101111011001-03--01--------------------------1011------110010000-110101-------------------111??011?01112011001101-10111-00-11101?11-1--?11?-0-0-0--110
+Vulcanodon                         ----------------0-------------------------------0--?-------------------------0-----------------------------1----0--0-00-------100001------------00--10---------1010-11101001----0-----001-00010101011001--000-00001000010-1001001000011000?---???00
+Shunosaurus                        01100011011000000001??000001110110001001100000000?000110000?101?111011120?00000411-100100-210000100000000-010-0000100000000000110000000-0-0-00111010100000000001010110101001010000011010110001010?012-0100-10111001010011110111011111111100?010000?
+Barapsaurus                        ---------------------------------------------------------------------1-0----00--01---0100--10101101110100001100-0--0-00-------1100000000-----01-00-0110000000-0101011110100------------01100010101012001000101111-1-10---010-------1--11-0?001??00-
+Omeisaurus                         111000110110000-01011000010111?1100?1??11100-0-0-0-00110000-1---111011111-0001070111010-0-3101-11011100000021101-010010000000011000-000---100-11000011000-0000010101101010010100000011101100010101012-000-01011--010100111111111111111111000-100000
+Mamenchisaurus                     1110-0111010000-0-010000010-1101110-10-111-00----0-0-11000011011111011110000110?01010101103101011011101000021-0--011010000000011000-000---10001100-0110---00-0010101111010011101-0001---11000---01012-01001101-1101110-11-101-1-1111--1--0??-1??00?
+Patagosaurus                       1-100-11--------0------??--??-?---??-????1??-----?????-0?-???--?1?10111???0001??011-00100-?10101101??0100002?-0-???-?00-?---?-1???0-000?-?1-00-?00??110-0-000?0101111110100-????-???????1100010101012-01000001--??---?--101011--?-?-?-?-?0?011??00?
+Jobaria                            11110011111100010101100001011201110?10?11?000--000?001000--??--?11101110000001?4011000100-310101111111000002110100100000001100110000000?-?10001?00101101010000010101111010010111000011111100010101112-010011011101111001111011111---?-?--0-0--0000-
+Haplocanthosaurus                  ------------?-?---------------------------------0---------------------------01?4011000100-21010110111100000211010?10000000110011000000??-?1100??10??100001000???????--?????-????-??????11100010101112-0100------?-?--?---??-?---?---?-?-?0-?100000-
+Nigersaurus                        0011011100--10011-0010--1----201110?2?????10011001?01110-100?--?21110212010101?4011001110-3?--0?01--?--?01-??---???-?00---???1?----??--11?1100-?--???1020-00--1??0??--?????-????-???????--?-0?-??-1?----?-------?----?---??-?---?---?-?-?-?0--???-?
+Limaysaurus                        -------2-01--0011100100-1---1?0-110-20----10010--11011------------1--212---101--011000100--1110---111000011---0-0010000000110111002000011-1-----10--11020-000101000111101001----00------11--010?01112-0-00-----1-1-1-0--10001111---------0?---???0-
+Amargasaurus                       -------2--1--00101111-1101111-------------00111011-011----------------1-----001401-010101051111-1-1--0000-12--1----0-0--1------------0-------0------1--0-1----0101011010-001------------1100-------1200-00-------------------------------0?0--??1--
+Brachytrachelopan                  ----------------------------------------------------------------------------00--01--10111131101-111110000-1---1----------------------------10------------------------------------------1?--------------1-0--------------------------------?--1???--
+Dicraeosaurus                      00-11--2--0--00-01111111011112-----1-0--10001110101011110-------221202121--0011301101010113111110011100000121-1-0?11000010110112000000011?11001?00??110001000-0101011110???1????-??????11100110100012-0100110111011110--111111-11---?11-?0??01??00?
+Suuwassea                          00-----2-1-------00--111010-1---100--------00-00-10-11---1------2-----12-1-0011-011000-110--010-----------------00---10--------------000---10-------11000100---10100--------------------------------------1---11------0-111110-1-1-1011---?010???--
+Diplodocus                         001111120111111101011101010112111000201110000100001011110101101-221202121110011601101111115101111111100000021111001101111111011211111001111100110010110001000001010111101001-----------11100110100012-010111011101111001111111111111-11110?010??000
+Barosaurus                         ----------------------------------------------------------------------------01--011-1111115101111111100000021-?-0-11011111110112111110011-11-01-00-011-0-----00?0???--10?001-1--0-----111100110100012001001--1110-1110---11111-----------0?010??000
+Tornieria                          0------------01-----01-1010---------------0-0-00-00--1----------------1-1-1------1---1--------------------------0----1111-1101121011000-------------110001---00101011110---1------------1100--?-00012-01011--101011110--------------------?---???0-
+Apatosaurus                        001111120111111-010111-101011211100020?1?0000100000011----------2212021211--011601101011115101111111100000021-110011000011110112110000011111001100101100110000010101101010011111000011111100110100012001001101110111101111111111?111111110?010??000
+Camarasaurus                       11110011111100010101100101011200110110111100000000100110011111111110111210000103011010101131010110111100100211010010000000110111000000000-100-1010101101010000010101111010011111110011111100011101112-010011011101111001111011111111111110001000000
+Brachiosaurus                      -----------------------------------------------?----------------------------?1----?--------101111?11110010121?01----000-0011001-0-----------1-------1-----000--101---------2-----------11101-------1210000------------------------------------111--
+Giraffatitan                       1111001111-100010101100001011211110010111100000?0110011011111112111001121000110401?001100-3101?11?11110010021?0-0-100000001100110000000---1011--10-01101010000-1010111101102111111111011110101110111211000110111111110011110111-1111-111-010101110-
+Paluxysaurus                       --1---11------------???????????????????????????????????????????????01112-00011--011-01-00--1010111-1--001-021---0????0000011011100000000--1011--10--110101000001010111101?02--1-1-11---11-0?01?10111211100010111??????????????????????????-0---????
+Abysodon                           11?100?101010??10-?100?001011?0111001-0??-?0?0???1000?00010-?-?212?201?210101?0--110-0???????????????????????????????0?????????????????????0?????????1?10?????0??10???????????11?111?????????????????????????????????????????????????????01???11???
+Malawisaurus                       11-----1--1----------------------10-------?---?0-----1100-------1-10-11210-011--1100011-0--10-01-01-110111031-----1--10000111011000100000-101-0-11-01-----00011101011000100---1--111------------111-2-1-----11110-------1--------1-1-----1-00001??-
+Rapetosaurus                       0011-111-10-000-010101010111020-1112111---1100100-110100111-----11110212100011-71100011-0-510101101011011103?-0-?-1--10-1-11-01100---100--101---11--111010100111011011001101--111011---11101010011112-11011---110-------11?0--1-11-------1?001???1-
+Nemegtosaurus                      0--1-011-10100010101010101110201111211111?11001100010110111--01?111002121000-------------?-----?----??------?-??-----------------?--?----?-----?--??-----------???---------------------?--?--?-----?--------------------------------------?----??--
+Isisaurus                          ----------------------------------------------------------------------------11--110000100--101011010100?1103120------10-001101110001010---1--10-11-0101010----1101111101---------------111110110111-------------------------------?-------?0--??11-
+Alamosaurus                        ----------------------------------------------------------------??----------11--1100001-0--1010110101101110-----01231100101101110001010-------0-1111111011?1?11?11101100111---1111112--???1?0??0111??----0----???------------------------0?0--???1-
+Saltasaurus                        -------------00--101-00101----------------01000101---1----------------------11--011000110--1010111101101110312011--1-10--0111111000101110-1-----11-011101-11111111101101111----?----2--11111011011112-11111111110------------------------1?100??11-
+Neuquensaurus                      ----------------------------------------------------------------------------11--010-00100--101-1111-1?0111031-0-1-2111001011-111000101110-------1---11101-11111111101101111------------1111101-011112-11111111-10111111-1110-----1-------1?10-???11
+Opisthocoelicaudia                 ----------------------------------------------------------------------------11---------0104101011110110111031-0?01221200001101110001000100--110-1111111011111111111011011111--1111112--1111?0100111121111-11111101111111111011111111011110?---??111
+Europasaurus                       1111-01111-1001101-01-10010111011100101---100000-11001-001111-1-1110-11110-101--011000000--101011011110010011--001-000000-11001-00000000--110-0010-011010000000101011110100---11------111101-11101112-01001--111011110-11-1---1--1-1--11--?010????-
+Epachthosaurus                     ----------------------------------------------------------------------------11-------------10-01--10-?0110?3----0--1-1001-1--0110-0-?1000-------1--?1--------11101--1-00-101--1111-12--1-11--------1--110------10--1?1111----11-1-?-0----0?---???--
+Cetiosaurus                        ----------------------------------------------------------------------1-----01-4010000100--101?11000??10000-----0-0--0001-???01-0000?0000-100-0-00--110001000001-10-1110---1--110-------1100-10?-1012-00-00--11---------------------------?010??00-
+Ferganasaurus                      ----------------------------------------------------------------------------01----------------0---------0--21-0-0000-000--1100110-01?00-------------1---------010101111-0011--110000-11-1100010101-02-01001--11111-1-0--------------------?---???00
+Sonidosaurus                       ----------------------------------------------------------------------------11----------------01-11-----11-----------2--------110-00------------1---------------------------------------1101--101-----------------------------------------?---???1-
+Andesaurus                         ----------------------------------------------------------------?-----------11--------------0-------1--010------0----0-------0----0--0----------1---1-------------------------------------------1-1---------------------------------------?---???1-
+Cedarosaurus                       ----------------------------------------------------------------------------11---------------1-------?--1------------010-----01---00-00-------0?1---1-0---0----0-1??111-1002----1------------------1---------------------------------1-1--?---???--
+Gondwanatitan                      ----------------------------------------------------------------------------11----------0------11-------11-3-------1-110------110001-10---1-1---1---1-----------1110-------------------1-111----1-1----------1----------------------------?--1??1--
+Bor_guve_Dorsal_Vertebra           ??????????????????????????????????????????????????????????????-????????????????????????????10?011110?1?0?1????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????-
+Bor_guve_Caudal_Vertebrae          ????????????????????????????????????????????????????????????????????????????????????????????????????????????????0?????????????????000000??????????????????????????????????????????????????????????????????????????????????????????????????????????-
+
+;
+
+
+cnames
+{ 0 Posterolateral_processes_of_premaxilla_and_lat-_eral_processes_of_maxilla,_shape_(Wilson,_2002) without_midline_contact with_midline_contact_forming_marked_narial_depression,_subnarial_foramen_not_visible_laterally;
+{ 1 remaxillary_anterior_margin,_shape_(Wilson,_2002) without_step with_marked_step,_anterior_portion_of_skull_sharply_demarcated;
+{ 2 Maxillary_border_of_external_naris,_length_(Wilson,_2002) short,_making_up_much_less_than_one-fourth_narial_perimeter long,_making_up_more_than_one-_third_narial_perimeter;
+{ 3 Preanteorbital_fenestra_(Wilson,_2002) absent present;
+{ 4 Subnarial_foramen_and_anterior_maxillary_foramen,_position_(Wilson,_2002) well_distanced_from_one_another separated_by_narrow_bony_isthmus;
+{ 5 Anteorbital_fenestra,_max_diameter_(Wilson,_2002) much_shorter_than_orbital_maximum_diameter subequal_to_orbital_maximum_diameter;
+{ 6 Antorbital_fossa_(Wilson,_2002) present absent;
+{ 7 External_nares_(Wilson,_2002) terminal retaracted_to_level_of_orbit retracted_between_orbits;
+{ 8 External_nares,_maximum_diameter_(Wilson,_2002) shorter__than_max_orbit_diameter longer_than_max_orbit_diameter;
+{ 9 Orbital_ventral_margin,_anteroposterior_length_(Wilson,_2002) broad,_with_subcircular_orbital_margin reduced,_with_acute_orbital_margin;
+{ 10 Lacrimal,_anterior_process_(Wilson,_2002) present absent;
+{ 11 JugalÐectopterygoid_contact_(Wilson,_2002) present absent;
+{ 12 Jugal,_contribution_to_anteorbital_fenestra_(Wilson,_2002) absent/reduced large,_bordering_approximately_one-third_its_perimeter;
+{ 13 Prefrontal,_posterior_process_size_(Wilson,_2002) small,_not_projecting_far_posterior_of_frontalÐnasal_suture elongate,_approaching_parietal;
+{ 14 Prefrontal,_posterior_process_shape_(Wilson,_2002) flat hooked;
+{ 15 Postorbital,_ventral_process_shape_(Wilson,_2002) transversely_narrow broader_transversely_than_anteroposteriorly;
+{ 16 Postorbital,_posterior_process_(Wilson,_2002) present absent;
+{ 17 Frontal,_contribution_to_supratemporal_fossa_(Wilson,_2002) present absent;
+{ 18 Frontals,_midline_contact_in_adults_(Wilson,_2002) sutured fused;
+{ 19 Frontal,_anteroposterior_length_(Wilson,_2002) approximately_twice_minimum_transverse_breadth less_than_minimum_transverse_breadth;
+{ 20 Parietal_occipital_process,_dorsoventral_height_(Wilson,_2002) short,_less_than_the_diameter_of_the_foramen_magnum deep,_nearly_twice_the_diameter_of_the_foramen_magnum;
+{ 21 Parietal,_contribution_to_post-temporal_fenestra_(Wilson,_2002) present absent;
+{ 22 Postparietal_foramen_(Wilson,_2002) absent present;
+{ 23 Parietal,_distance_separating_supratemporal_fenestrae_(Wilson,_2002) less_than_the_long_axis_of_supratemporal_fenestra twice__the_long_axis_of_supratemporal_fenestra;
+{ 24 Supratemporal_fenestra,_presence_(Wilson,_2002) present absent;
+{ 25 Supratemporal_fenestra,_long_axis_orientation_(Wilson,_2002) anteroposterior transverse;
+{ 26 Supratemporal_fenestra,_maximum_diameter_(Wilson,_2002) much_longer_than_foramen_magnum subequal;
+{ 27 Supratemporal_region,_anteroposterior_length_(Wilson,_2002) temporal_bar_longer_anteroposteriorly_than_transversely. temporal_bar_shorter_anteroposteriorly_than_transversely.;
+{ 28 Supratemporal_fenestra_(Wilson,_2002) not_visible_laterally,_obscured_by_temporal_bar visible_laterally,_temporal_bar_shifted_ventrally;
+{ 29 Laterotemporal_fenestra,_anterior_extension__(*additional_state_added_to_original_character_30_of_Wilson_2002) posterior_to_orbit reaches_midpoint_of_orbit reachs_rostal_margin_of_orbit;
+{ 30 SquamosalÐquadratojugal_contact(Wilson,_2002) present absent;
+{ 31 Quadratojugal,_anterior_process_length(long,_anterior_process_more_than_twice_as_long_as_dorsal_process) short,_anterior_process_shorter_than_dorsal_process long,_anterior_process_more_than_twice_as_long_as_dorsal_process;
+{ 32 Quadrate_fossa_(Wilson,_2002) absent present;
+{ 33 Quadrate_fossa,_depth_(Wilson,_2002) shallow deeply_invaginated;
+{ 34 Quadrate_fossa,_orientation:_(Wilson,_2002) posterior posterolateral;
+{ 35 Palatobasal_contact pterygoid_with_small_facet dorsomedially_oriented_hook rocker-like_surface_for_basipterygoid_articulation;
+{ 36 Pterygoid,_transverse_flange_(i.e._ectopterygoid_process)_position_(Wilson,_2002) posterior_to_orbit between_orbit_and_antorbital_fenestra anterior_to_antorbital_fenestra;
+{ 37 Pterygoid_quadrate_flange_size_((Wilson,_2002)) large,_palatobasal_and_quadrate_articulation_well_seperated small,_palatobasal_and_quadrtae_articulations_approach;
+{ 38 Pterygoid,_plaatal_ramus_shape_(Wilson,_2002) straight_at_level_of_dorsal_margin_of_quadrate_ramus stepped,_raised_above_level_of_quadrate_ramus;
+{ 39 Palatine,_lateral_ramus_of_shape_(Wilson,_2002) plate_shaped_(long_maxillary_contact) rod-shaped_(narrow_maxillary_contact);
+{ 40 Epipterygoid_(Wilson,_2002) present absent;
+{ 41 Vomer,_anterior_articulation_(Wilson,_2002) maxilla premaxilla;
+{ 42 Suppraoccipital_height_(Wilson,_2002) twice_foramen_magnum subequal_or_less_to_foramen_magnum_height;
+{ 43 Paroccipital_process,_ventral_nonarticular_surface_(Wilson,_2002) absent present;
+{ 44 Cirsta_prootica_(Wilson,_2002) rudimentary expanded_into_dorsolateral_leaf_like_process;
+{ 45 Basipterygoid_processes_(Wilson,_2002) short,_approx_twice_basal_diameter long,_at_least_4x_basal_diameter;
+{ 46 Angle_of_divergence_between_basipterygoid_processes_(Wilson,_2002) approx_45_desgrees less_than_30_degrees;
+{ 47 Basal_tubera_anetroposterior_depth_(Wilson,_2002) approximately_half_of_height sheetlike,_20%_dorsoventral_hegiht;
+{ 48 Basal_tubera,_breadth_(Wilson,_2002) much_broader_than_occipital_condyle narrower_than_occipital_condyle;
+{ 49 Basioccipital_depression_between_foramen_magnum_and_occipital_condyle_(Wilson,_2002) absent present;
+{ 50 Basisphenois/basipterygoid_recess_(Wilson,_2002) present absent;
+{ 51 Basisphenoid-quadrate_contact_(Wilson,_2002) absent present;
+{ 52 Basipterygoid_process_orientation_(Wilson,_2002) perpendicular_to_skull_roof approx_45_degree_angle_to_skull_roof;
+{ 53 Occipital_region_of_skull_(Wilson,_2002) anteroposteriorly_deep,_paroccipital_processes_oriented_posterolaterally flat,_paroccipital_processes_oriented_transversely;
+{ 54 Dentary,_depth_of_anterior_end_of_ramus: slightly_less_than_that_of_dentary_at_midlength 150%_minimum_depth;
+{ 55 Dentary,_anteroventral_margin_shape_(Wilson,_2002) gently_rounded sharply_projectling_traingular_process_or_chin;
+{ 56 Dentary_symphysis_angled_(Wilson,_2002) angled_15degrees_or_more_anteriorly_)_axis_of_jaw_ramus perpendicular_to_axis_of_jaw_ramus;
+{ 57 External_mandibular_fenestra_(Wilson,_2002) present absent;
+{ 58 Surangular_depth_(Wilson,_2002) less_than_twice_maximum_depth_of_the_angular more_than_2.5_depth_of_maximum_depth_of_the_angular;
+{ 59 Surangular_ridge_seperating_adductor_and_articular_fossae_(Wilson,_2002) absent present;
+{ 60 Adductor_fossa,_medial_wall_depth_(Wilson,_2002) shallow deep,_prearticular_dorsoventrally_expanded;
+{ 61 Splenial_posterior_process_position_(Wilson,_2002) medial_to_angular intervenes_between_angular_and_prearticular;
+{ 62 Posterodorsal_process_of_splenial_(Wilson,_2002) present absent;
+{ 63 Coronoid_(Wilson,_2002) extending_to_dorsal_margin_of_jaw reduced,_not_extending_dorsal_to_splenial absent;
+{ 64 Tooth_rows_(Wilson,_2002) narrowly_arched,_anterior_portion_V-shaped broadly_arched,_anterior_part_of_tooth_rows_U-shaped rectangular,_tooth_bearing_portion_of_jaw_perpendicular_to_jaw_rami;
+{ 65 Tooth_row_(Wilson,_2002) ends_below_orbit ends_below_anteorbital_fenestra ends_anterior_of_anteorbital_fenestra;
+{ 66 crown-crown_occlusion_(Wilson,_2002) absent present;
+{ 67 tooth_wear_(Wilson,_2002) inerlocking_v_shaped_facets high_angle_planar_facets low_angle_planar_facets;
+{ 68 Tooth_crowns,_orientation_(Wilson,_2002) crowns_do_not_overlap aligned_slightly_anterolingually,_crowns_overlap;
+{ 69 tooth_cross_section_shape_at_midcrown_(Wilson,_2002) eliptical d-shaped cylindircal;
+{ 70 Enamel_surface_(Wilson,_2002) smooth wrinlkled;
+{ 71 tooth_denticles_(Wilson,_2002) present absent_posterior absent_both_sides;
+{ 72 Dentary_teeth_(Wilson,_2002) more_than_20 less_than_17;
+{ 73 Replacement_teeth_per_alveolus_(Wilson,_2002) two_or_less more_than_4;
+{ 74 Tooth_orientation_(Wilson,_2002) perpendicular oriented_anteriorly_relative_jaw;
+{ 75 Teeth,_lonituidnal_grooves_in_lingual_aspect_(Wilson,_2002) absent present;
+{ 76 Presacral_bone_texture_(Wilson,_2002) solid camellate;
+{ 77 Presacral_pneumatopores_(pleurocoels)_(Wilson,_2002) absent present;
+{ 78 Atlantal_Intercentrum,_occipital_facet_shape_(Wilson,_2002) rectangular_in_lateral_view,_length_of_dorsal_aspect_subequal_to_that_of_ventral_aspect, expanded_anteroventrally_in_lateral_view,_anteroposterior_length_of_dorsal_aspect_shorter_than_that_of_ventral_aspect.;
+{ 79 Cervical_number_(modified_from_Wilson,_2002_with_states_5-7_added) nine_or_less ten eleven twelve thirteen fourteen fifteen sixteen_or_more;
+{ 80 Cervical_arch_lamination_(Wilson,_2002) well-developed,_with_well-defined_laminae_and_coels rudimentary,_diapophyseal_laminae_only_feebly_developed_if_present.;
+{ 81 Cervical_centra,_articular_face_morphology_(Wilson,_2002) amphicoelus opisthocoelus.;
+{ 82 Cervical_pneumatopores_(pleurocoels)_shape_(Wilson,_2002) simple,_undivided complex,_divided_by_bony_septae;
+{ 83 Anterior_cervical_hieght:width_ratio_(Wilson,_2002) equal_or_less approximately_1.25.;
+{ 84 Anterior_cervical_neural_spines_(Wilson,_2002) single bifid;
+{ 85 Midcervical_centra,_anteroposterior_length/height_of_posterior_face:_(states_modified_from_character_86_of_Wilson,_2002) <4.0 4.0+;
+{ 86 Mid-cervical_neural_arches,_height_(Wilson,_2002) less__posterior_centrum_face greater;
+{ 87 Centrprezygapophyseal_lamina_(Wilson,_2002) single divided;
+{ 88 Posterior_cervicals,_anterior_dorsals_-_neural_spines_(Wilson,_2002) single bifid;
+{ 89 Posterior_cervical_and_anterior_dorsal_bifid_neural_spines,_median_tubercle:_(Wilson,_2002) absent present;
+{ 90 Number_of_dorsals_(Wilson,_2002) fifteen fourteen thirteen twelve eleven ten_or_less;
+{ 91 Dorsal_neural_spine_breadth_(Wilson,_2002) narrow borader_transversely_than_anteroposteriorly;
+{ 92 Dorsal_neural_spine_height_(Wilson,_2002) twice_centrum_length three_times_centrum_length_or_more;
+{ 93 anterior_dorsal_centra_(Wilson,_2002) amphicoelous opisthocoelous;
+{ 94 ddle_and_posterior_dorsal_neural_arches,_centropostzygapophyseal_lamina_(cpol)_(Wilson,_2002) single divided;
+{ 95 Middle_and_posterior_dorsal_neural_arches,_anterior_centroparapophyseal_lamina_(acpl)_(Wilson,_2002) absent present;
+{ 96 Middle_and_posterior_dorsal_neural_arches,_prezygoparapophyseal_lamina_(prpl)_(Wilson,_2002) absent present;
+{ 97 Middle_and_posterior_dorsal_neural_arches,_posterior_centroparapophyseal_lamina_(pcpl) absent present;
+{ 98 Middle_and_posterior_dorsal_neural_arches,_spinodiapophyseal_lamina_(spdl)_(Wilson,_2002) absent present;
+{ 99 Middle_and_posterior_dorsal_neural_arches_spinopostzygapophyseal_lamina_(spol)_((Wilson,_2002) single divided;
+{ 100 Middle_and_posterior_dorsal_neural_arches,_spinodiapophyseal_lamina_(spdl)_and_spinopostzygapophyseal_lamina_(spol)_contact_(Wilson,_2002) absent present;
+{ 101 Middle_and_posterior_dorsal_neural_spines,_shape:_tapering_or_not_flaring_distally_(Wilson,_2002) tapering_or_maintining_shape_distally flared_distally_with_pendant_tirangular_lateral_processes;
+{ 102 Middle_and_posterior_dorsal_neural_arches,_ÔinfradiapophysealÕ_pneumatopore_between_acdl_and_pcdl_(Wilson,_2002) absent present;
+{ 103 Middle_and_posterior_dorsal_neural_spines,_orientation_(Wilson,_2002) vertical inclined_20_degrees_or_more_posterodorsally;
+{ 104 Posterior_dorsal_centra,_articular_face_shape_(Wilson,_2002) amphicoelous opisthocoelous;
+{ 105 Posterior_dorsal_neural_arches,_hypospheneÐ_hypantrum_articulations_(Wilson,_2002) present absent;
+{ 106 Posterior_dorsal_neural_spines,_shape_(Wilson,_2002) rectangular_through_most_of_length ÔpetalÕ_shaped,_expanding_transversely_through_75%_of_its_length_and_then_tapering;
+{ 107 Sacral_vertebrae,_number_(Wilson,_2002) three_or_fewer four five six;
+{ 108 Sacrum,_sacricostal_yoke_(Wilson,_2002) absent present;
+{ 109 Sacral_vertebrae_contributing_to_accetabulum_(modified_from_Wilson,_2002_with_one_additional_state) 1-3 2-4 4-6;
+{ 110 Sacral_neural_spine,_length_(Wilson,_2002) approx_twice_centrum_length three_times_centrum_length;
+{ 111 Sacrl_ribs,_dorsoventral_lenght_(Wilson,_2002) low,_not_projecting_beyond_dorsal_margin_of_ilium high,_projecting_beyond_dorsal_margin_of_ilium;
+{ 112 Caudal_bone_texture_(Wilson,_2002) solid spongy_with_large_internal_cells;
+{ 113 Caudal_vertebrae,_number_(Wilson,_2002) more_than_45 less_than_35;
+{ 114 al_transverse_processes_(Wilson,_2002) persist_through_caudal_20_or_more_posteriorly disappear_by_caudal_15 disappear_by_caudal_10;
+{ 115 First_Caudal_centrum,_articular_face_shape_(Wilson,_2002) flat procoelous opisthocoelous biconvex;
+{ 116 First_Caudal_neural_arch,_coeal_on_lateral_aspect_of_neural_spine_(Wilson,_2002) absent present;
+{ 117 Anterior_caudal_centra_(excluding_the_first),_articular_face_shape_(Wilson,_2002) amphiplatyan procoelous opisthocoelous;
+{ 118 Anterior_caudals_centra,_pleurocoels_(Wilson,_2002) absent present;
+{ 119 Anterior_caudal_centra,_length_(Wilson,_2002) same_length_for_first_20_centra length_doubles_over_first_20;
+{ 120 Anterior_caudal_neural_arches,_spinoprezygapophyseal_lamina_(sprl):_(Wilson,_2002) absent resent_and_extending_onto_lateral_aspect_of_neural_spin;
+{ 121 Anterior_caudal_neural_arches,_spinoprezygapophyseal_lamina_(sprl)-spinopostzygapophyseal_lamina_(spol)_contact_(WIlson,_2002) absent present,_forming_a_prominent_lamina_on_the_lateral_aspect_of_the_neural_spine;
+{ 122 Anterior_caudal_neural_arches,_prespinal_lamina_(Wilson,_2002) absent present;
+{ 123 Anterior_caudal_neural_arches,_postspinal_lamina_(Wilson,_2002 absent present;
+{ 124 Anterior_caudal_neural_arches,_postspinal_fossa_(Wilson,_2002) absent present;
+{ 125 Anterior_caudal_neural_spine,_transverse_breadth_(WIlson,_2002) breadth_is_50%_length wider_than_long;
+{ 126 Anterior_caudal_transverse_processes,_proximal_depth_(Wilson,_2002)` shallow,_on_centrum_only deep,_extend_from_centrum_to_neural_arch;
+{ 127 Anterior_caudal_transverse_processes,_shape_(an_additional_state_was_added_to_character_128_of_Wilson,_2002) all_tapering only_first_is_wing-like_and_untapering all_are_wing-like;
+{ 128 Anterior_caudal_transverse_processes,_diapophyseal_laminae_(acdl,_pcdl,_prdl,_podl)_(Wilson,_2002) absent present;
+{ 129 Anterior_caudal_transverse_processes,_anterior_centrodiapophyseal_lamina_(acdl),_shape_(Wilson,_2002) single divided;
+{ 130 Anterior_and_middle_caudal_centra cylindrical quadrangular,_flat_ventrally_and_laterally triangular_in_anterior_view,_with_flat_ventral_surface;
+{ 131 Anterior_and_middle_caudal_centra,_ventral_longitudinal_hollow_(Wilson,_2002) absent vent_hollow;
+{ 132 Middle_caudal_neural_spines,_orientation: angled_posterodorsally angled_vertically;
+{ 133 Middle_and_posterior_caudal_centra,_anterior_articular_face_shape_(Wilson,_2002) Flat Procoelous Opisthocoelous;
+{ 134 Posterior_caudal_centra,_shape_(Wilson,_2002) cylindrical dorsoventrally_flattened,_breadth_at_least_twice_height;
+{ 135 Distal_caudals,_articular_face_(modified_from_WIlson_2002,_with_one_state_added) platycoelous biconvex opisthocoelous;
+{ 136 Distalmost_biconvex_caudal_centra,_length-height_ratio_(Wilson,_2002) less_than_4 greater_than_5;
+{ 137 Distalmost_bioconvex_caudal_centra_(Wilson,_2002) ten_or_less more_than_30;
+{ 138 Cervical_rib,_tuberculum-capitulum_angle_(Wilson,_2002) greater_than_90_degrees less_than_90_degrees,_rib_ventrolateral_to_centrum;
+{ 139 Cervical_ribs,_length_(Wilson,_2002) much_longer_than_centrum,_overlapping_as_many_as_three_subsequent_vertebra, shorter_than_centrum,_little_or_no_overlap;
+{ 140 Dorsal_ribs,_pneumatic_openings_(Wilson,_2002) absent present;
+{ 141 Anterior_dorsal_ribs,_cross-sectional_shape_(WIlson,_2002) subcircular plank-like,_anteroposterior_breadth_more_than_three_times_mediolateral_breadth;
+{ 142 ForkedÕ_chevrons_with_anterior_and_posterior_projections_(Wilson,_2002) absent present;
+{ 143 ForkedÕ_chevrons,_distribution_(Wilson,_2002) distal_tail_only throughout_caudal_vertebrae;
+{ 144 Chevrons,_ÔcrusÕ_bridging_dorsal_margin_of_haemal_canal_(Wilson,_2002) present absent;
+{ 145 evron_haemal_canal,_depth_(Wilson,_2002) short,_approximately_25%_chevron_length. long,_approximately_50%__chevron_length.;
+{ 146 Chevrons_(Wilson,_2002) persist_through_80_%_of_tail dissappaer_by_caudal_30;
+{ 147 Posterior_chevrons,_distal_contact_(Wilson,_2002) fused open;
+{ 148 Posture bipedal obligate_quadrupedal;
+{ 149 Scapular_acromian_process_(Wilson,_2002) narrow broad,_width_mre_than_150%_minium_width_of_blade;
+{ 150 Scapular_blade_orientation_(Wilson,_2002) perpendicular_to_coracoid_articulation 45_degree_angle_with_coracoid_articulation;
+{ 151 Scapula_blade_(Wilson,_2002) acromial_edge_unexpanded rounded_expansion_on_acromian_side raquet_shaped;
+{ 152 Scapula_glenoid_orientation_(Wilson,_2002) flat_or_lateral_facing stongly_beveled_medially;
+{ 153 Scapula_blade,_basal_cross_section_(Wilson,_2002) flat/rectangular D-shaped;
+{ 154 Coracoid,_proximodistal_length_(Wilson,_2002) less_than_length_of_scapular_articulation approximately_2x_scapular_articulation_length;
+{ 155 Coracoid,_anterovenral_margin_shape_(Wilson,_2002) rounded rectangular;
+{ 156 Coracoid,_infraglenoid_lip_(Wilson,_2002) absent present;
+{ 157 Sternal_Plate_shape_(Wilson,_2002) oval cresentic;
+{ 158 humerus_proximolateral_corner_shape_(Wilson,_2002) rounded square;
+{ 159 Humeral_deltopectoral_attachment,_development_(WIlson,_2002) prominent reduced_to_a_low_crest_or_ridge;
+{ 160 Humeral_deltopectoral_crest,_shape_(Wilson,_2002) relatively_narrow_throughout_length markedly_expanded_distally;
+{ 161 Humeral_midshaft_cross-section,_shape_(Wilson,_2002) circular elliptical,_with_long_axis_orientated_transversely;
+{ 162 Humeral_distal_condyles,_articular_surface_shape_(Wilson,_2002) restricted_to_distal_portion_of_humerus exposed_on_anterior_portion_of_humeral_shaft;
+{ 163 Humeral_distal_condyle,_shape_(Wilson,_2002) divided undivided;
+{ 164 Ulna,_proximal_condyle_(Wilson,_2002) subtriangular triradiate_with_deep_radial_fossa;
+{ 165 Ulnar_proximal_condylar_processes,_relative_lengths_(WIlson,_2002) subequal unequal,_anterior_arm_longer;
+{ 166 Ulnar_olecranon_process,_development_(Wilson,_2002) prominent,_projecting_above_proximal_articulation rudimentary,_level_with_proximal_articulation;
+{ 167 Ulna,_length-to-proximal_breadth_ratio_(Wilson,_2002) gracile stout;
+{ 168 Radius,_distal_condyle_shape_(Wilson,_2002) round subrectangular,_flattened_posteriorly_and_articulating_in_front_of_ulna;
+{ 169 Radius,_distal_bredth_(Wilson,_2002) slightly_larger twice_midshaft__breadth;
+{ 170 Radiusdistal_condyle_oreintation_(Wilson,_2002) perpendicular bevelled_20_degrees_to_shaft;
+{ 171 Humerus:_femur_ratio_(Wilson,_2002) less_than_.6 more_than_.6 more_than_9.;
+{ 172 Carpal_bones,_number_(Wilson,_2002) 3_or_more 2_or_less;
+{ 173 Carpal_bones,_shape_(Wilson,_2002) round block_shaped;
+{ 174 Metacarpus,_shape_(Wilson,_2002) spreading bound,_with_subparallel_shafts_and_articular_surfaces_that_extend_half_their_length;
+{ 175 Metacarpals,_shape_of_proximal_surface_in_articulation_(Wilson,_2002) gently_curving,_forming_a_90_degree_arc Ushaped,_subtending_a_270_degree_arc;
+{ 176 Longest_metacarpal-to-radius_ratio_(Wilson,_2002) close_to_.3 .45_or_more;
+{ 177 Metacarpals_(Wilson,_2002) III_longest,_I_and_V_short I_longest,_decrease_laterally;
+{ 178 MCI,_distal_shape_(Wilson,_2002) divided undivided;
+{ 179 MC_I,_distal_condyle_(Wilson,_2002) beveled_20_degrees perpendicular;
+{ 180 Manual_phalanges_of_digit_II_and_III_(Wilson,_2002) 2-3-4-3-2 2-2-2-2-2 absent/unossified;
+{ 181 Manual_phlanx_I-1_(Wilson,_2002) rectangular wedge-shaped;
+{ 182 Manual_nonungual_phalanges_(Wilson,_2002) long broader_than_long;
+{ 183 Pelvis_anterior_breath_(Wilson,_2002) narrow,_ilia_longer_anteroposteriorly_than_distance_separating_preacetabular_processes broad,_distance_between_preacetabular_processes_exceeds_anteroposterior_length_of_ilia;
+{ 184 Ilium:_Ischial_peduncle_(Wilson,_2002) large,_prominent low,_rounded;
+{ 185 Ilium_dorsal_margin_(Wilson,_2002) flat semicircular;
+{ 186 Ilium,_preacetabular_process,_orientation_(Wilson,_2002) anterolateral perpendicular_to_body_axis;
+{ 187 Iliac_preacetabulur_shape_(Wilson,_2002) pointed,_arching_ventrally semicricular,_with_posteroventrl_excursion_of_cartilage_cap;
+{ 188 Pubis,_ambiens_process_development_(Wilson,_2002) small,_confluent_with_anterior_margin_of_pubis. prominent,_projecting_anteriorly_from_anterior_margin_of_pubis.;
+{ 189 Pubic_apron,_shape_(Wilson,_2002) flat_(straight_symphysis) canted_anteromedially_(gentle_S-shaped_symphysis);
+{ 190 Puboischial_contact_(states_modified_from_character_191_of_Wilson,_2002) less_than_40%_length_of_pubis greater_than_40%_lenght_of_pubis;
+{ 191 Ischium_blade_length_(Wilson,_2002) ischium_shorter_than_public_blade ischium_equal/longer_than_pubic_blade;
+{ 192 Ischium_blade,_shape_(Wilson,_2002) emarginate_distal_to_pubic_peduncle no_emargination;
+{ 193 Ischia,_distal_shaft_shape_(Wilson,_2002) triangular,_depth_increases_medially bladelike,_subequal_medial_and_lateral_depth;
+{ 194 Ishia,_distal_shafts,_cross_section_(Wilson,_2002) V_shaped,_forming_angle_of_50_degrees_to_each_other flat,_nearly_coplanar;
+{ 195 Femur,_fourth_trochanter_(Wilson,_2002) prominent reduced_to_ridge_or_crest;
+{ 196 Femur:_lesser_trochanter_(Wilson,_2002,_with_thid_state_added_after_Upchurch_et_al._2004) well-developed weakly_developed absen;
+{ 197 Femoral_midshaft_transverse_diameter_(Wilson,_2002) subequal_to_anteroposterior_diameter. 125Ð150%_of_anteroposterior_diameter. at_least_185%_(2)_anteroposterior_diameter.;
+{ 198 Femoral_shaft,_lateral_margin_shape:_(Wilson,_2002) straight proximal_one-third_deflected_medially;
+{ 199 Femoral_distal_condyles,_relative_transverse_breadth_(Wilson,_2002) subequal tibial_much_broader_than_fibular;
+{ 200 Femoral_distal_condyles,_orientation_(Wilson,_2002) perpendicular_or_slightly_bevelled_dorsolaterally__relative_to_femoral_shaft or_bevelled_dorsomedially_approximately_10_degrees_relative_to_femoral_shaft;
+{ 201 Femoral_distal_condyles,_articular_surface_shape_(Wilson,_2002) restricted_to_distal_portion_of_femur expanded_onto_anterior_portion_of_femoral_shaft;
+{ 202 Tibial_proximal_condyle,_shape_(Wilson,_2002) narrow,_long_axis_anteroposterior expanded_transversely,_condyle_subcircular;
+{ 203 Tibial_cnemial_crest,_orientation_(Wilson,_2002) projecting_anteriorly projecting_laterally;
+{ 204 Tibia,_distal_breadth_(Wilson,_2002) approximately_125%_midshaft_breadth or_more_than_twice_midshaft_breadth;
+{ 205 Tibial_distal_posteroventral_process,_size_(Wilson,_2002) broad_transversely,_covering_posterior_fossa_of_astragalus, shortened_transversely,_posterior_fossa_of_astragalus_visible_posteriorly.;
+{ 206 Fibula,_proximal_tibial_scar,_development_(Wilson,_2002) not_well-marked well_marked_and_deepening_anteriorly.;
+{ 207 Fibula,_lateral_trochanter_(Wilson,_2002) absent present;
+{ 208 Fibula,_distal_condyle,_size__(Wilson,_2002) subequal_to_shaft, expanded_transversely,_more_than_twice_midshaft_breadth;
+{ 209 Astragalus,_shape__(Wilson,_2002) rectangular wedge_shaped,_with_reduced_anteromedial_corner.;
+{ 210 Astragalus,_foramina_at_base_of_ascending_process__(Wilson,_2002) present absent;
+{ 211 Astragalus,_ascending_process_length__(Wilson,_2002) limited_to_the_anterior_two-thirds_of_astragalus extending_to_the_posterior_margin_of_the_astragalus.;
+{ 212 Astragalus,_posterior_fossa_shape__(Wilson,_2002) undivided divided_by_vertical_crest.;
+{ 213 Astragalus,_transverse_length_(Wilson,_2002) length_50%_greater_than_proximodistal_height subequal_to_proximodistal_height;
+{ 214 Calcaneum_(Wilson,_2002) present absent/unossified;
+{ 215 Distal_tarsals_3_and_4_(Wilson,_2002) present absent_or_unossified;
+{ 216 Metatarsus,_posture_(Wilson,_2002) bound spreading;
+{ 217 Metatarsal_I,_proximal_condyle,_transverse_axis_orientation perpendicular_to_shaft angled_ventromedially_about_15_degrees_to_angle_of_shaft;
+{ 218 Metatarsal_I,_distal_condyle,_transverse_axis_orientation_(Wilson,_2002) perpedicular_to_axis_of_shaft angled_dorsomedial_to_axis_of_shaft;
+{ 219 MT_I,_distal_condyle,_posterolateral_projection absent present;
+{ 220 MT_I,_min_shaft_width less_than_that_of_MTII-IV greater_than_that_of_MT_II-IV;
+{ 221 MT_I_and_MTV,__proximal_condyle_size_(Wilson,_2002) smaller_than_those_of_MT_II_and_IV subequal_to_those_of_MT_II_and_IV;
+{ 222 MT_III_length__(Wilson,_2002) more_than_30%_tibia_length less_than_25%_tibia_length;
+{ 223 MT_III_and_IV_minimium_diameters__(Wilson,_2002) subequal_to_length_of_MT_I_and_II less_than_65%_length_of_MT_I_and_II;
+{ 224 MT_V_length_(Wilson,_2002) much_shorter_than_MT_IV at_least_70%_of_MT_IV;
+{ 225 Pedal_nonungual_phalanges,_shape__(Wilson,_2002) longer_proximodistally_than_broad_transversely broader_transversely_than_long_proximodistally;
+{ 226 Pedal_digits_IIÐIV,_penultimate_phalanges,_development_(Wilson,_2002) subequal_in_size_to_more_proximal_phalanges rudimentary_or_absent;
+{ 227 Pedal_unguals aligned_to_digit_axis deflected_lateral_to_digi_axis;
+{ 228 Pedal_ungual_I,_length_compared_to_digit_II_(Wilson,_2002) subequal 25%_larger_than_digit_II;
+{ 229 Pedal_ungual_I,_length_compared_to_MTI_(Wilson,_2002) shorter_than_MT_I longer_than_MTI;
+{ 230 Pedal_ungual_1,_shape_(Wilson,_2002) broader_transvsersely_than_dorsoventrally sickle_shaped,_much_deeper_dorsoventrally_than_broad_transvsersely;
+{ 231 Pedal_ungual_II-III,_shape_(Wilson,_2002) broader_transversely_than_dorsoventrally sickle-shaped,_much_deeper_dorsoventrally_than_broad_transversely;
+{ 232 Pedal_digit_IV_ungual_development_(Wilson,_2002) subequal_in_size_to_unguals_of_pedal_digits_II_and_III rudimnetary/asbent;
+{ 233 Osteoderms_(WIlson,_2002) absent present;
+{ 234 Dentary,_posteroventral_process__(Chure_et_al.,_2010). single forked;
+{ 235 Cervical_prezyagapopyhses_(Powell,_1986) extend_beyond_anterior_margin_of_centrum do_not_extend_beyond_anterior_margin_of_centrum;
+{ 236 Cervical_parapophyses,_dorsal_excavation_(Upchurch_et_al._2004) absent present;
+{ 237 Middle_and_posterior_cervical_vertebrae,_ventral_keel_(Upchurch_et_al._2004) absent present;
+{ 238 First_caudal,_transverse_process_(Chure_et_al._2010) blade-shaped with_prominent_ventral_buldge;
+{ 239 Anterior_caudals,_prezygodiapophyseal_lamina_(Chure_et_al._2010) absent present;
+{ 240 Ilium,_highest_point_on_dorsal_margin_(Upchurch_et_al._2004) occurs_posterior_to_base_of_pubic_process occurs_anterior_to_base_of_pubic_process;
+{ 241 Ishium,_distal_shaft_width_vs_length_(Upchurch_et_al._2004) narrow,_less_than_15%_of_shaft_length wide,_more_than_15%_of_shaft_length;
+{ 242 Astragalus_(after_Upchurch_and_Wilson,_2009) caps_most_or_all_of_the_distal_end_of_the_tibia reduced_so_that_medial_edge_of_tibia_is_uncapped;
+;
+
+
+ccode  - 0.242;
+
+
+;
