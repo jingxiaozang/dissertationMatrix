@@ -1,0 +1,131 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 13.50.21'
+69 44
+
+&[num]
+Atractosteus_spatula                 010000010100010000?0101001000-0-001000000-00010011??000000-0000-00000
+Eurycormus_speciosus                 000-0?000000000-0000000?-?000-0000?00000?000000000??00000000000000012
+Pholidophorus_bechei                 000-?0000000?00-01000?0?-?00?-000000000000000000000000000000000000112
+Pholidophorus_macrocephalus          000-00000000?00--?000000-0000-000000000000000000000000000000000010112
+Amiopsis_prisca                      1?1100000000?000??01???0??00000?0??00?000??0111?0???000???0011??0001?
+Amiopsis_lepidota                    1?110000000000000001001000000000000000000000111000??00011000110000011
+Amiopsis_woodwardi                   1?1100?0000000000101?010000000000000000000?0111000?100011000110000011
+Amiopsis_damoni                      1?110000000000000101?01000000000000000000000111000??0001100011?000011
+Amiopsis_dolloi                      1?110?0000000000??01001?00000000000000000000111000??0001100011?000011
+Solnhofenamia_elongata               11121000000000000101001000000000?00100000021111000?100011000110000011
+Calamopleurus_cylindricus            111211110000000000121121111000000000000000001110001100001000110100011
+Pachyamia_latimaxillaris             1112??110000?010?0?2111?0?0111111111111110?????000?10001100011?00?011
+Pachyamia_mexicana                   1112?1110000001000121110000111111111111101?1111000??0001100011?000011
+Vidalamia_catalunica                 1?12??1100000000001211100001111111110?0000001110001?00011000110000011
+Cyclurus_oligocenicus                1??2??1111111121?1010?1?00000?000?00000000?0111000??0?0110?0?1?00101?
+Cyclurus_macrocephalus               1?12??1111111121?1010010?0000000000000000000111000??0001100??1?001011
+Cyclurus_ignotus                     11122?11111111211101001000000000000000000000111000??00011000110001011
+Cyclurus_valenciennesi               11122??111111121??0100100000000?000?00?00??0111000??0?0???00?1?001011
+Cyclurus_fragosus                    11122?11111111?111010010000000000000000?00001110001?00011000110001011
+Cyclurus_efremovi                    11?22?11111111211101001000000000000000000000111000?100011000110001011
+Cyclurus_gurleyi                     11?22?111111112111010010000000000000000000001110001100011010110001011
+Cyclurus_kehreri                     111221111111112111010010000000000000000000001110001100011000110001011
+Amia_pattersoni                      11122?111111112000010010?00000000000000100001110001100011000110001011
+"Amia"_hesperia                      11122?111111112000010010?0000000000000000?0?1??000??0??11??0110001011
+Amia_scutata                         1?122?111111113000010010000000000000000100001110001100011000110001011
+Amia_calva                           11?221111111113000010010000000000000000100001110001100011000110001011
+Sinamia_zdanskyi                     000?00?000000?00?-010110??00?0000000000000001??1111100011000110000011
+Ikechaoamia_orientalis               0?000?00000?0?00?-01001???00000?00?000000?00111111??0001100011??0001?
+Ikechaoamia_meridionalis             0?000??000000?00?-010?1?0?000000000000000?00111111??00011000110?00011
+Caturus_furcatus                     000-00000000000001011000?10000000000000000300000001111111000110010111
+Amblysemius_pachyurus                0?0-0?00000000000101100000000-00000000000000000000??11111000100?10111
+Liodesmus_gracilis                   0?0-0?0000?00000?10110000?0000000000000000?0001000??11011000110010111
+Liodesmus_sprattifarmis              0?0-0?0000?00000?101100???0000000000000000?0001000??11011000?10010111
+Ionoscopus_cyprinoides               010000000000000000?100000100000000?0000000000000000000011000111000011
+Ophiopsis_procera                    10?21?000000000???0100000?0?000?000000000?1000?00???00011111?11000011
+Macrepistius_arenatus                1002??01?0?0??1????1000?0?0????000?0000000100??00?0000?1?1111?1?00011
+Oshunia_brevis                       0000?000000?0?0000?1000?0000000000?000000?1?0000000000011011111000011
+Watsonulus_eugnathoides              000-000000000000010300000000?00000000000000000?0000000000000110000011
+Maliamia_gigas                       ????????????????????????11???????????????????????????????????????????
+Calamopleurus_mawsoni                1?12????00??0?0???1???2????00?0??0??????????111???????0?????????0?0??
+Melvius_thomasi                      ???2???1?0?????0?0??10???????1??1???????0??????0????0??????0?1?0?????
+Melvius_chauliodous                  ???2???1?0?????0?0??10????????????1?????0??????0?0??0??????0?1???????
+Nipponamia_satoi                     1??2????00????????0????0???????????????0?0??11?0????0?????0?????0?01?
+Pseudamiatus_heintzi                 1?12???1?1???????0?10???????0?0?000000????0?1??000??0??1?0?0?1????011
+
+;
+
+
+cnames
+{ 0 Solid,_perichordally_ossified,_diplospondylous_centra_in_adult-sized_individuals. absent present;
+{ 1 Posterior_extent_of_exoccipitals_in_adult-sized_individuals reaches_posterior_margin_of_occiput does_not_reach_posterior_margin_of_occiput;
+{ 2 Anteriorly_projecting_spine-like_processes_on_neural_and-or_haemal_arches. absent present;
+{ 3 Lateral_fossae_of_vertebral_centra_of_adult-sized_individuals present,_with_two_pits_on_each_side_of_most_centra present,_with_three_or_more_pits_on_each_side_of_most_of_the_centra absent,_centra_smoothsided;
+{ 4 Number_of_supraneurals 15_or_more 13_to_14 5_to_11;
+{ 5 Articular_ossification_of_lower_jaw a_single_element,_or_two_elements_tightly_sutured_to_each_other two_separate_elements_not_in_contact_with_each_other;
+{ 6 Presence/absence_of_suborbital_bones one_or_more_present absent;
+{ 7 Strength_of_ornamentation_on_dermal_bones_of_skull weak_and/or_fine strong,_coarse;
+{ 8 Hypural-ural_centra_fusion_in_adult-sized_individuals all_hypurals_autogenous_(separate)_from_the_ural_centra all_but_first_hypural_fused_to_corresponding_centra;
+{ 9 Presence/absence_of_large_parapophyses_fused_to_most_of_the_abdominal_centra absent present;
+{ 10 Presence/absence_of_substantial_scapulocoracoid_ossification_in_adult-sized_individuals one_or_more_elements_present_in_the_shoulder_girdle absent;
+{ 11 Presence/absence_of_supraorbital_bones two_or_more_present absent;
+{ 12 Urodermals_in_the_caudal_skeleton present absent;
+{ 13 Presence/absence_of_sclerotic_ring_ossification. present absent;
+{ 14 Size_and_shape_of_dorsal_fin short,_with_straight_to_falcate_margin,_14-25_segmented_rays_and_14-_25_proximal_radials medium_long,_with_bow-shaped_or_straight_margin,_30-34_segmented_rays,_and_an_estimated_30-34_proximal_radials very_long,_with_bowshaped_margin,_36-47_segmented_rays,_and_37-48_dorsal_proximal_radials extremely_long,_with_bow-shaped_margin,_48-53_segmented_rays,_and_49-54_proximal_radials];
+{ 15 Morphology_of_teeth_on_anterior_coronoid_and_vomer conical,_with_pointed_tips styliform,_with_broadly_rounded_or_flattened_tips;
+{ 16 Anterior_extent_of_parasphenoid_tooth_patch extends_well_anterior_to_the_lateral_ascending_arms_of_parasphenoid short,_does_not_extend_anterior_to_the_lateral_ascending_arms,;
+{ 17 Empty_character_18 State_0 State_1;
+{ 18 Number_of_ural_centra 10_or_fewer 11_to_22;
+{ 19 Shape_of_preopercle L-shaped,_1_=_crescentshaped,_long_and_narrow crescent-shaped,_wide_in_middle_tapering_dorsally_and_ventrally ovoid State_3;
+{ 20 Morphology_of_caps_of_the_jaw_teeth_in_adult-sized_individuals 0_=_round_in_cross-section,_not_sharply_carinate labiolingually_compressed,_sharply_carinate_(keeled);
+{ 21 Lateral_edge_of_posttemporal_in_adult-sized_individuals shorter_than_length_of_anterior_edge elongate,_about_equal_to_or_greater_than_width_of_anterior_edge;
+{ 22 Shape_of_posterior_margin_of_caudal_fin forked convexly_rounded straight_and_nearly_vertical;
+{ 23 Elongation_of_opercular_process_of_hyomandibula absent present;
+{ 24 Number_of_tooth_rows_on_coronoids two_or_more_rows_for_at_least_part_of_one_or_more_coronoids one_row;
+{ 25 Arrangement_of_vomerine_teeth tooth_patch_with_two_to_several_rows_of_teeth tooth_patch_with_only_a_single_anterior_marginal_row,_plus_one_or_more_teeth_in_a_longitudinal_series_perpendicular_to_the_anterior_marginal_row;
+{ 26 Presence/absence_of_dermopterotic_ribs absent present;
+{ 27 Number_of_epurals 2-8 10-15;
+{ 28 Shape_of_basipterygium proximal_end_flat_and_widened_anteriorly proximal_end_long_and_rodlike,_without_significant_widening_anteriorly;
+{ 29 Postmaxillary_process_under_postmaxillary_notch tiny_or_absent thick_and_elongate;
+{ 30 Morphology_of_pleural_ribs distal_ends_pointed_or_with_rounded_points distal_ends_flatly_truncated,_even_in_large_adults;
+{ 31 Shape_of_gular subtriangular_or_subrectangular_with_acute_rounded_anterior_apex broad,_oval,_without_acute_anterior_apex;
+{ 32 Peculiar_ornamentation_pattern_of_strongly_defined,_converging_lines_on_opercles_in_adult-sized_individuals absent present;
+{ 33 Frontal_width_in_adult-sized_individuals relatively_wide,_with_a_width-to-length_ratio_of_0.26_to_-0.65 relatively_narrow,_with_a_width-to-length_ratio_of_0.13_to_0.21;
+{ 34 Shape_of_dermopterotic greatly_widened_posteriorly_and_tapered_anteriorly subrectangular,_not_substantially_tapered_anteriorly_or_widened_posteriorly;
+{ 35 Width_of_opercle narrow,_with_width-toheight_ratio_of_0.56_to_1.06 wide,_with_width-toheight_ratio_in_range_of_1.07_to_1.39;
+{ 36 Presence_of_an_interfrontal_fontanelle_in_adultsized_individuals absent:_frontals_sutured_to_each_other_medially_for_their_entire_length frontals_separated_for_about_one-half_their_length_or_more_by_a_fontanelle;
+{ 37 Position_of_dermosphenotic_relative_to_orbit_in_adult-sized_individuals anterior_or_anteroventral_margin_of_dermosphenotic_included_in_circumorbital_margin,_even_in_large_individuals_of_200_mm_SL_or_more dermosphenotic_excluded_from_orbital_margin_in_large_individuals_of_200_mm_SL_or_more;
+{ 38 Shape_of_supramaxilla elongate extremely_deep,_shaped_like_a_rounded_triangle;
+{ 39 Number_of_preural_vertebral_centra_(preural_centra_=_abdominal_plus_preural_caudal_centra) 40_to_73 75_to_82;
+{ 40 Shape_of_posterior_end_of_posttemporal_in_adultsized_individuals elongate,_with_rounded_apex_or_apices elongate_but_abruptly_truncated;
+{ 41 Ventral_transverse_ridge_of_gular. absent present;
+{ 42 Shape_of_anterior_subinfraorbital_bone_in_adultsized_individuals short,_subrectangular,_longer_than_deep subrectangular,_deeper_than_long long,_very_thin,_tubelike posteriorly_expansive,_tapering_anteriorly;
+{ 43 Number_of_epaxial_procurrent_caudal_fin_rays 0_to_11 12_to_15;
+{ 44 Presence/absence_of_fringing_fulcra_on_median_fins present absent;
+{ 45 One-to-one_arrangement_of_hypurals_and_caudal_fin_rays last_few_hypurals_each_articulate_with_the_bases_of_several_caudal_fin_rays each_hypural_normally_bears_a_single_caudal_ray;
+{ 46 Number_of_ossified_ural_neural_arches normally_four_or_more normally_2_or_fewer;
+{ 47 Number_of_parietal_bones. paired_parietals_normally_present only_a_single_median_parietal_present;
+{ 48 Number_of_pairs_of_extrascapular_bones only_one_pair_present three_pairs_normally_present;
+{ 49 Dermopterotic_length_to_parietal_length dermopterotic_significantly_longer lengths_about_equivalent;
+{ 50 Presence/absence_of_opisthotic present absent;
+{ 51 Presence/absence_of_pterotic present absent;
+{ 52 Shape_of_maxilla_extremely_slender_and_rod-like no yes;
+{ 53 Number_of_branchiostegal_rays 21_or_fewer 22_or_more;
+{ 54 Numerous_paired,_block-like_ural_neural_arch_ossifications. absent present;
+{ 55 Dermosphenotic_attachment_to_skull_roof_in_adultsized_individuals loosely_attached_on_the_skull_roof_or_hinged_to_the_side_of_skull_roof firmly_sutured_into_skull_roof,_forming_part_of_it;
+{ 56 Shape_of_rostral_bone plate-like_or_short_tube-like,_without_lateral_horns roughly_V-shaped,_with_lateral_horns;
+{ 57 Lacrimal_shape longer_than_deep,_and_smaller_than_orbit deeper_than_long,_and_massive_(about_size_of_orbit);
+{ 58 Posterior_extent_of_maxilla extends_to_below_posterior_orbital_margin does_not_extend_below_posterior_orbital_margin;
+{ 59 Presence/absence_of_lateral_line_canal_in_maxilla absent present;
+{ 60 Symplectic_involvement_in_jaw_joint does_not_articulate_with_lower_jaw distal_end_articulates_with_articular_bone_of_lower_jaw;
+{ 61 Shape_of_posterior_margin_of_maxilla convexly_rounded_or_straight excavated_(concave_or_with_a_posterior_maxillary_notch_present;
+{ 62 Innerorbital_flange_of_dermosphenotic smooth,_without_sensory_canal =_bearing_sensory_canal_tube;
+{ 63 Posterior_margin_of_gular smooth deeply_scalloped_with_a_series_of_sharp_points_and_concavities;
+{ 64 Shape_of_haemal_spines spine-like_or_rodlike broadly_spatulate_in_the_transverse_plane;
+{ 65 Relative_size_of_uppermost_postinfraorbital_in_adult-sized_individuals short,_much_shorter_than_lowermost_postinfraorbital long,_about_equal_in_length_to_lowermost_postinfraorbital;
+{ 66 Orientation_of_preural_haemal_and_neural_spines_near_caudal_peduncle positioned_at_about_250_to_450_from_the_horizontal strongly_inclined_to_nearly_horizontal;
+{ 67 Presence/absence_of_interopercle absent present;
+{ 68 Number_of_supramaxillae none one two;
+;
+
+
+ccode  - 0.68;
+
+
+;

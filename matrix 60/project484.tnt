@@ -1,0 +1,88 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 13.50.53'
+50 20
+
+&[num]
+Cynognathus                        0000000?0????0?00????00000000000000000??00?0000000
+Diademodon                         00000010000?00?0100?000010?00000000001000100001001
+Trirachodon                        000000100?1?00?2201?001?10001000010012000110001000
+Langbergia_modisei                 00000010001000?0201?000010101000011012000110100000
+Cricodon_metabolus                 010000?0001100?0201?001??010?0?0??001200011000???0
+Andescynodon                       00000020010?10?13101101120?010???01123111100??????
+Massetognathus                     00111121?21110003100201120001110112123001100101100
+Exaeretodon                        11101221120?10103101211111020111111123111101111000
+Luangwa_drysdalli                  000000100211010?3100101010010??0?100230011000?????
+Scalenodon_angustifrons            000000100?11110231001010210?10?0?00023011100?11?0?
+Mandagomphodon_hirschsoni          1111?020?21100113100101??????01???1123001100??????
+Traversodon                        0000002012110111310020101?0????0??1123?01100??????
+Gomphodontosuchus                  00111121120?10??3101201???0????0??1123111100??????
+Pascualgnathus                     10000010000?0?0231????1100001??0?01123?011001?????
+Scalenodontoides                   111??221?20?10?031012111?1021??1?21?23111100??????
+Menadon                            01111121120?1012310?201?21020??0??10231111011?????
+Dadadon                            000??02112111112?????01?3?????????1123?111001?????
+Santacruzodon                      000??021121110003101201?3?00??????21230011001?????
+Sinognathus_gracilis               000000101010000?2?0??0111?000?????1??1???01?010??1
+Beishanodon_youngi                 0?00001012120000?????0111?0???00001??1??00??011111
+
+;
+
+
+cnames
+{ 0 Number_of_upper_incisors Four Three;
+{ 1 Incisor_size: small Large;
+{ 2 Diastema_between_upper_incisors_and_canine: Present Absent;
+{ 3 Upper_canine_size Large Reduced;
+{ 4 Lower_canine_size Large Reduced;
+{ 5 Position_of_paracanine_fossae_in_relation_to_the_upper_canine anteromedial Medial Posteromedial;
+{ 6 Overall_morphology_of_the_upper_postcanines_in_occlusal_view: sectorial ovoid-elliptical rectangular-trapezoidal;
+{ 7 Shouldering_in_upper_postcanines absent present;
+{ 8 Inclination_of_the_last_upper_postcanines_in_relation_to_the_axis_of_the_skull: absent_or_small oblique;
+{ 9 Location_of_the_transverse_crest_of_upper_postcanines central anterior posterior;
+{ 10 Number_of_cusps_in_the_transverse_crest_of_the_upper_postcanines Two Three_or_more New_state;
+{ 11 Central_cusp_of_upper_transverse_crest midway_between_buccal_and_lingual_cusps closer_to_lingual_cusp close_to_labial_cusp;
+{ 12 Posterior_cingulum_on_upper_postcanines present Absent New_state;
+{ 13 External_cingulum_on_the_anterior_portion_of_the_upper_postcanines absent present;
+{ 14 Anterolingual_cusp_in_upper_postcanines absent present;
+{ 15 Number_of_cusps_in_the_sectorial_border_(i.e.,_labial_margin)_of_the_upper_postcanines more_than_two two one;
+{ 16 Overall_morphology_of_lower_postcanines_in_occlusal_view sectorial circular ovoid-elliptical quadrangular;
+{ 17 Position_of_the_transverse_crest_in_lower_postcanines central anterior;
+{ 18 Number_of_cusps_in_the_transverse_crest_of_the_lower_postcanines two three;
+{ 19 Size_of_the_anterior_cusps_in_the_lower_postcanines labial_lower_than_lingual labial_higher_than_lingual.;
+{ 20 Anterior_cingulum_in_the_lower_postcanines cuspules_disposed_on_the_entire_margin one_or_more_cuspules_located_anterolabially absent;
+{ 21 Internarial_bar present absent;
+{ 22 Maxillary_labial_platform_lateral_to_the_post-_canine_series absent present;
+{ 23 Parietal_foramen_in_adults present absent;
+{ 24 Zygomatic_process_of_the_jugal slightly_projected, conspicuously_projected absent UNKNOWN_STATE;
+{ 25 Posterior_extension_of_the_jugal_above_the_squamosal_in_the_zygoma absent_or_with_a_small_extension well_developed;
+{ 26 Coronoid_process_of_the_mandible covers_the_last_postcanine_in_lateral_view does_not_cover_last_postcanine;
+{ 27 Dentary_angle not_projecting_posteriorly weakly_projecting well_projecting_posteriorly;
+{ 28 Snout longer_than_temporal_region subequal substantially_shorter_than_tem-_poral_region;
+{ 29 Incisive_foramen posteriorly_closed_by_maxilla completely_enclosed_by_premaxilla;
+{ 30 Ectopterygoid present absent;
+{ 31 Maxilla_in_margin_of_the_subtemporal_fenestra excluded included;
+{ 32 Epipterygoid-quadrate_contact present squamosal_interposed;
+{ 33 Temporal_fenestra widest_posteriorly same_width_throughout widest_in_the_middle;
+{ 34 Incisor_cutting_margins serrated smoothly_ridged denticulated;
+{ 35 Canine_serrations present absent;
+{ 36 Axis_of_the_posterior_part_of_maxillary_tooth_row directed_toward_the_lateral_rim_of_the_subtemporal_fenestra directed_toward_the_center_of_the_fenestra directed_toward_the_medial_rim_of_the_fenestra;
+{ 37 Postcanine_tooth_row_in_adults formed_by_sectorial conical,_gomphodont,_and_sec-_torial gomphodont_and_sectorial gomphodont_only;
+{ 38 Posterior_cingulum_in_the_lower_postcanines present absent;
+{ 39 Anterior_cingulum_in_the_upper_postcanines present absent;
+{ 40 Deep_occlusal_basins_in_the_postcanines absent present;
+{ 41 Postcanine_occlusion absent present;
+{ 42 Shearing_planes_between_the_outer_surface_of_the_main_cusp_of_the_lower_and_the_inner_surface_of_the_main_cusps_of_the_upper_postcanines present absent;
+{ 43 Incisor_procumbency absent present;
+{ 44 Extent_of_maxillary_tooth_row essentially_antorbital extending_substantially_subor-_bitally;
+{ 45 Posterior_extent_of_secondary_palate_in_rela-_tion_to_the_anterior_border_of_orbit significantly_anterior_to_the_anterior_border roughly_at_the_same_level_as_the_anterior_border;
+{ 46 Intertemporal_crest_in_dorsal_view Extending_to_or_close_to_posterior_border_of_temporal_fenestra shortening_anteriorly_with_ob-_vious_posterior_bifurcation;
+{ 47 Major_palatine_foramen at_maxillary/_palatine_suture penetrating_palatine;
+{ 48 Extent_contribution_of_palatine_to_secondary_bony_osseous_palate far_less_than_one-third_of_the_palate more_than_one-_third_of_the_palate;
+{ 49 Posterior_border_of_secondary_palate_in_relation_to_maxillary_tooth_row close_to_midlevel_of_postcanine_tooth_row close_to_posterior_end_of_tooth_row;
+;
+
+
+ccode  - 0.49;
+
+
+;

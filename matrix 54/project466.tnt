@@ -1,0 +1,176 @@
+nstates num 11;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 13.43.59'
+151 7
+
+&[num]
+Allenopithecus          ?????????????????1000?2?00021?20???????201210100?1???????????0??100??500021111100?0???1????????20??2?02121122??2210????????201140000011091?000?1?11?010
+Cercocebus              0000020222011110?510222100131030100011020022010111011110011122002021?5000120230000101010112221211012?2210112222222100021121202121001002031?002222122011
+Lophocebus              2222222221210220?100001200130220222212120111112100222101000202112024?5000111233000120221002222010210?2211112200121112112010002120001002031?216112110011
+Macaca                  2221202010011001?50001100012113000002022011110112112002112202222200??5101711231002022012111200212121?2210112211111122011201102121001001131?011002121011
+Mandrillus              0120010221210011?411222200121130000000020011500001100120012202002020?5000322210222102210211112220012?2210113222120112010121202121001000151?002001111002
+Papio                   0010002110000220?300011200031240021022220121201220200111222211002023?5000222231222200012011122200200?2210113200111100000001002121001000131?205211100002
+Theropithecus           2202222000222102?410000010022040222111220120201402022202100012222023?5000722220240220000020000010110?2211112000002221222102002122111001051?216120102202
+
+;
+
+
+cnames
+{ 0 C1 State_0 [state_1] 2;
+{ 1 C2 State_0 [state_1] 2;
+{ 2 C3 State_0 [state_1] 2;
+{ 3 C4 State_0 [state_1] 2;
+{ 4 C5 State_0 [state_1] 2;
+{ 5 C6 State_0 [state_1] 2;
+{ 6 C7 State_0 [state_1] 2;
+{ 7 C8 State_0 [state_1] 2;
+{ 8 C9 State_0 [state_1] 2;
+{ 9 C10 State_0 [state_1] 2;
+{ 10 C11 State_0 [state_1] 2;
+{ 11 C12 State_0 [state_1] 2;
+{ 12 C13 State_0 [state_1] 2;
+{ 13 C14 State_0 [state_1] 2;
+{ 14 C15 State_0 [state_1] 2;
+{ 15 C16 State_0 [state_1] 2;
+{ 16 C17 State_0 [state_1] 2 3 4;
+{ 17 C18 State_0 [state_1] 2 3 4 5 6;
+{ 18 C19 State_0 [state_1] 2;
+{ 19 C20 State_0 [state_1] 2 3 4 5 6 7 [state_8];
+{ 20 C21 State_0 [state_1] 2 3 4 5 6 7;
+{ 21 C22 State_0 [state_1] 2;
+{ 22 C23 State_0 [state_1] 2;
+{ 23 C24 State_0 [state_1] 2;
+{ 24 C25 State_0 [state_1] 2 3;
+{ 25 C26 State_0 [state_1] 2;
+{ 26 C27 State_0 [state_1] 2 3 4;
+{ 27 C28 State_0 [state_1] 2 3 4 5 6;
+{ 28 C29 State_0 [state_1] 2 3;
+{ 29 C30 State_0 [state_1] 2;
+{ 30 C31 State_0 [state_1] 2 3 4 5 6 7 8;
+{ 31 C32 State_0 [state_1];
+{ 32 C33 State_0 [state_1] 2;
+{ 33 C34 State_0 [state_1] 2;
+{ 34 C35 State_0 [state_1] 2;
+{ 35 C36 State_0 [state_1] 2;
+{ 36 C37 State_0 [state_1] 2;
+{ 37 C38 State_0 [state_1] 2;
+{ 38 C39 State_0 [state_1] 2;
+{ 39 C40 State_0 [state_1] 2 3;
+{ 40 C41 State_0 [state_1] 2;
+{ 41 C42 State_0 [state_1] 2;
+{ 42 C43 State_0 [state_1] 2;
+{ 43 C44 State_0 [state_1] 2;
+{ 44 C45 State_0 [state_1] 2 3 4 5;
+{ 45 C46 State_0 [state_1] 2 3 4;
+{ 46 C47 State_0 [state_1] 2 3 4;
+{ 47 C48 State_0 [state_1] 2 3 4 5 6 7 8;
+{ 48 F1 State_0 [state_1] 2;
+{ 49 F2 State_0 [state_1] 2;
+{ 50 F3 State_0 [state_1] 2;
+{ 51 F4 State_0 [state_1] 2;
+{ 52 F5 State_0 [state_1] 2;
+{ 53 F6 State_0 [state_1] 2;
+{ 54 F7 State_0 [state_1] 2;
+{ 55 F8 State_0 [state_1] 2;
+{ 56 F9 State_0 [state_1] 2;
+{ 57 F10 State_0 [state_1] 2;
+{ 58 F11 State_0 [state_1] 2;
+{ 59 F12 State_0 [state_1] 2;
+{ 60 F13 State_0 [state_1] 2;
+{ 61 F14 State_0 [state_1] 2;
+{ 62 F15 State_0 [state_1] 2;
+{ 63 F16 State_0 [state_1] 2;
+{ 64 F17 State_0 [state_1] 2 3 4;
+{ 65 F18 State_0 [state_1];
+{ 66 F19 State_0 [state_1] 2 3;
+{ 67 F20 State_0 [state_1] 2 3 4 5 6 7 8;
+{ 68 F21 State_0 [state_1] 2;
+{ 69 F22 State_0 [state_1] 2 3 4 5 6 7 8 9;
+{ 70 F23 State_0 [state_1] 2;
+{ 71 F24 State_0 [state_1];
+{ 72 F25 State_0 [state_1];
+{ 73 F26 State_0 [state_1] 2 3 4 5 6 7 8;
+{ 74 F27 State_0 [state_1] 2 3 4;
+{ 75 F28 State_0 [state_1] 2;
+{ 76 F29 State_0 [state_1] 2 3 4;
+{ 77 F30 State_0 [state_1] 2 3 4;
+{ 78 F31 State_0 [state_1] 2 3 4 5 6;
+{ 79 F32 State_0 [state_1] 2;
+{ 80 F33 State_0 [state_1] 2 3 4;
+{ 81 F34 State_0 [state_1] 2;
+{ 82 F35 State_0 [state_1] 2;
+{ 83 P1 State_0 [state_1] 2;
+{ 84 P2 State_0 [state_1] 2;
+{ 85 P3 State_0 [state_1] 2;
+{ 86 P4 State_0 [state_1] 2;
+{ 87 P5 State_0 [state_1] 2;
+{ 88 P6 State_0 [state_1] 2;
+{ 89 P7 State_0 [state_1] 2;
+{ 90 P8 State_0 [state_1] 2;
+{ 91 P9 State_0 [state_1] 2;
+{ 92 P10 State_0 [state_1] 2;
+{ 93 P11 State_0 [state_1] 2;
+{ 94 P12 State_0 [state_1] 2;
+{ 95 P13 State_0 [state_1] 2;
+{ 96 P14 State_0 [state_1] 2;
+{ 97 P15 State_0 [state_1] 2;
+{ 98 P16 State_0 [state_1] 2;
+{ 99 P17 State_0 [state_1] 2;
+{ 100 P18 State_0 [state_1];
+{ 101 P19 State_0 [state_1] 2;
+{ 102 P20 State_0 [state_1] 2;
+{ 103 P21 State_0 [state_1] 2;
+{ 104 P22 State_0 [state_1] 2;
+{ 105 P23 State_0 [state_1];
+{ 106 P24 State_0 [state_1];
+{ 107 P25 State_0 [state_1] 2 3;
+{ 108 P26 State_0 [state_1] 2 3 4;
+{ 109 P27 State_0 [state_1] 2;
+{ 110 P28 State_0 [state_1] 2;
+{ 111 P29 State_0 [state_1] 2;
+{ 112 P30 State_0 [state_1] 2;
+{ 113 P32 State_0 [state_1] 2;
+{ 114 P33 State_0 [state_1] 2;
+{ 115 M1 State_0 [state_1] 2;
+{ 116 M2 State_0 [state_1] 2;
+{ 117 M3 State_0 [state_1] 2;
+{ 118 M4 State_0 [state_1] 2;
+{ 119 M5 State_0 [state_1] 2;
+{ 120 M6 State_0 [state_1] 2;
+{ 121 M7 State_0 [state_1] 2;
+{ 122 M8 State_0 [state_1] 2;
+{ 123 M15 State_0 [state_1] 2;
+{ 124 M16 State_0 [state_1];
+{ 125 M17 State_0 [state_1] 2;
+{ 126 M18 State_0 [state_1];
+{ 127 M19 State_0 [state_1] 2 3 4;
+{ 128 M20 State_0 [state_1] 2;
+{ 129 M21 State_0 [state_1];
+{ 130 M22 State_0 [state_1] 2;
+{ 131 M23 State_0 [state_1] 2 3;
+{ 132 M24 State_0 [state_1];
+{ 133 M25 State_0 [state_1] 2;
+{ 134 M26 State_0 [state_1] 2 3;
+{ 135 M27 State_0 [state_1] 2;
+{ 136 M28 State_0 [state_1] 2 3 4 5 6 7 8 9 10;
+{ 137 M29 State_0 [state_1];
+{ 138 M30 State_0 [state_1] 2;
+{ 139 M31 State_0 [state_1] 2 3 4;
+{ 140 M32 State_0 [state_1] 2 3 4;
+{ 141 M33 State_0 [state_1] 2 3 4 5 6 7 8;
+{ 142 M34 State_0 [state_1] 2;
+{ 143 M35 State_0 [state_1] 2;
+{ 144 M36 State_0 [state_1] 2;
+{ 145 M37 State_0 [state_1] 2;
+{ 146 M38 State_0 [state_1] 2;
+{ 147 M39 State_0 [state_1] 2;
+{ 148 M40 State_0 [state_1] 2;
+{ 149 M41 State_0 [state_1] 2 3 4;
+{ 150 GMean__BodySize State_0 [state_1] 2;
+;
+
+
+ccode  - 0.150;
+
+
+;
