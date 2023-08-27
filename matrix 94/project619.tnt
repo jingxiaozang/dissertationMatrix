@@ -1,0 +1,148 @@
+nstates num 7;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 14.57.57'
+89 41
+
+&[num]
+Scutigera_coleoptrata                   000000000000-0000000600-000?0000000000000000?00000000-0000-0000-0-00----00-----001000?0--
+Lithobius_forficatus                    11111100000000000000100000000000000000000000001000000-00-0-0100-0-00----00-----000-01?0--
+Mecistocephalus_tahitiensis             112111000023200100000010101-0000000100000000-1?21??03-00-0--????0-00----00-----000-01?0--
+Plutonium_zwierleini                    11211111112120111100?11040110110001111001000002201013-0010011??01-120-010100001000-01000-
+Theatops_erythrocephalus                11211111112100011100511031110110001111101100002201013-00100?10?010120-010100001000-01000-
+Theatops_posticus                       11211111112100011100511040110110001111001000002201013-0010011???1-120-010100001000-01000-
+Cryptops_australis                      11211111111100010000420010111001010100000010001200014-0100121???0-120-010100110000-01000-
+Cryptops_hortensis                      11211111112100010000420000111001010100000010001200014-01001211000-120-010100010000-01020-
+Cryptops_spinipes                       11211111112100010000420010111001010100000010001200014-0100121???0-120-010110110000-010200
+Paracryptops_weberi                     11211111112100010000430020111001010100000010001201014-010012????0-120-010100010000-01000-
+Kethops_utahensis                       112111111122000100003200100100000101111000100012010?3-0010011???00120-010111100000-011000
+Newportia_divergens                     11211111112210010000321120111000010111100100002200013-00100?1???00120-0101111000011100211
+Newportia_longitarsis_stechowi          112111111122100100003201201110000101011001000022000?3-0010011???00120-0101111000010100210
+Newportia_monticola                     112111111122100100003201201110000101011001000022010?3-0010011?0000120-0101111000010101210
+Newportia_stolli                        11211111112210010000320120111000010111100100002200013-0010011???00120-0101111000011100211
+Tidops_collaris                         11211111112200010000330020111000010101100100002201003-00???21???00120-0101111000010101210
+Ectonocryptoides_quadrimeropus          11211111112210010000320120111000010100100100002200013-00100?1???00120-010111100000-101010
+Scolopocryptops_ferrugineus             11211111112200010110321130000000001111100101002201013-0010011?0000120-010111100000-010000
+Scolopocryptops_spinicaudus             11211111112200010110321131000000001111100101002201013-0010011???00120-010111100000-010000
+Dinocryptops_miersii                    11211111112210010110321131000000001111100101002201013-0010011???00120-010111100000-010000
+Scolopendra_canidens                    1121111111210100010021103000001010101011010100111001211000003?1?0112111100-----000-0100--
+Scolopendra_cingulata                   11211111112101000100211030000010101010110101001110012110000031100012111100-----000-0100--
+Scolopendra_laeta                       1121111111210100010021103000001010101011010100111001201000003???0012111100-----000-0100--
+Scolopendra_morsitans                   11211111112101000100211030000010101010110101001110012010000031100012111110-----000-0100--
+Scolopendra_oraniensis                  1121111111210100010021103000001010101011010100111001211000003???0112111100-----000-0100--
+Scolopendra_pinguis                     1121111111210100010021103000000000101011010100111001201000003???0012111110-----000-0100--
+Cormocephalus_aurantiipes               11211111112101000101211130000010101000110101001110012010000031?00012111100-----000-0102--
+Cormocephalus_hartmeyeri                1121111111210100010121113000000010100011010100111001201000003???0012111000-----000-0100--
+Cormocephalus_rubriceps                 1121111111210100010121113000000010100011010100111001201000003???00121?1100-----000-0102--
+Akymnopellis_chilensis                  1121111111210100010021103000000010100011010100111001201000003?100112101100-----000-0100--
+Arthrorhabdus_formosus                  1121111111210100010021104000001010101011110100111001201000003???0012100100-----000-0100--
+Campylostigmus_orientalis               11211111112101000101?1113000000010100011010211111001200000003???00?????????????000-0102??
+Scolopendropsis_bahiensis               1121111111210100010121103001001010101001110100111001211000003???0-12101100-----000-0101--
+Notiasemus_glauerti                     11211111112101000100211030010000101000100101001200014-0000002???0012111000-----000-0100--
+Asanada_brevicornis                     11211011112101000100011040110000101000001001001210014-1000002???0-12100000-----110-0100--
+Asanada_socotrana                       11211011112101000100011040110000101000001000001210014-1000002???0-12100000-----110-0100--
+Otostigmus_astenus                      11211111112100100100211030000000001011100101001110111-1001002?1100120-1100-----000-0100--
+Alipes_crotalus                         11211111112100100100211030000000001011100001001110111-1000002???00120-1100-----000-0100--
+Ethmostigmus_rubripes                   11211111112110100100210030000000001011100101001110111-100100211100120-1100-----000-0100--
+Rhysida_nuda                            11211111112110100100211030000000001011100101001110111-1000002?1100120-1100-----000-0100--
+Edentistoma_octosulcatus                11211111112110100100021030000000001000101002111110011-1001002???00110-0000-----020-0100--
+
+;
+
+
+cnames
+{ 0 Shape_of_head_capsule domed flattened;
+{ 1 Trochanter_on_second_maxilla separated_from_prefemur fused_to_prefemur_with_incomplete_articulation;
+{ 2 Coxosternite_of_maxillipede_sclerotised_in_midline coxae_separated_medially coxosternal_plates_meeting_medially,_hinge_flexible midline_sclerotised,_inflexible;
+{ 3 Maxillipede_tarsungulum separate_tarsus_and_pretarsus tarsus_and_pretarsus_fused;
+{ 4 Position_of_spiracle dorsal pleural;
+{ 5 Coxal_organs absent present;
+{ 6 Four_laminae_of_mandible_intersect_at_cruciform_suture absent present;
+{ 7 Dorsal_brush_on_tarsus_of_second_maxilla absent present;
+{ 8 Tergite_of_maxillipede_segment_and_first_pedigerous_segment separate_tergites single_tergite;
+{ 9 Gonopods_in_female present absent;
+{ 10 Hinge_between_articles_of_maxillipede_telopodite absent_(entire_femur_and_tibia) hinge_between_trochanteroprefemur_and_tibia hinge_between_trochanteroprefemur_and_tarsungulum;
+{ 11 Number_of_pedigerous_post-maxillipede_segments 15 21 23 47;
+{ 12 Segmental_distribution_of_spiracles on_macrosegments,_excluding_segment_7 on_macrosegments,_including_segment_7 on_all_trunk_segments_except_maxillipede_and_ultimate_pedigerous_segment;
+{ 13 Atrium_of_spiracle_covered_by_tripartite_flap absent present;
+{ 14 Spiracles_with_floor_of_atrium_raised_into_humps humps_absent humps_present;
+{ 15 Eyes present absent;
+{ 16 Depigmented_ocular_patches absent present;
+{ 17 Setation_of_basal_antennal_articles basal_few_articles_bear_numerous_setae_dorsally,_with_setae_grading_in_density_as_short_sensilla_become_more_numerous_on_more_distal_articles basal_few_articles_glabrous_or_with_few_setae_dorsally,_with_abrupt_transition_to_more_distal_articles_that_have_dense_short_sensilla;
+{ 18 Antennal_sensilla mostly_normal_trichoid_sensilla mostly_collared_sensilla;
+{ 19 Basal_plates_at_posterolateral_corners_of_head_plate absent present;
+{ 20 Structure_of_claw_of_second_maxillary_telopodite digitiform_claw,_without_accessory_spines three_thick,_elongate_spines_with_interspersed_thin_spines robust_median_claw_with_pair_of_slender_spines_on_each_side pectinate_claw hook-like_claw_with_ventral_flange two_curved_processes,_one_above_the_other claw_lacking;
+{ 21 Tooth_plates_of_maxillipedes plates_absent plates_with_strongly_chitinized_tooth_margins strongly_chitinized_anterior_margin_of_coxosternite_without_plates blunt,_hyaline_plate,_bearing_no_tooth_margin;
+{ 22 Trochanteroprefemoral_process_on_maxillipede absent present;
+{ 23 Median_embayment_in_posterior_margin_of_maxillipede_coxosternite absent present;
+{ 24 Position_of_poison_calyx not_extending_more_deeply_than_into_tibia extending_into_distal_part_of_trochanteroprefemur extending_half_length_of_trochanteroprefemur extending_into_distal_part_of_trochanteroprefemur_or_to_articulation_with_coxosternum extending_deeply_into_coxosternum;
+{ 25 Form_of_posion_calyx straight_or_arcuate serpentine;
+{ 26 Pre-_and_metatergites pretergite_incompletely_defined strong_pretergite_set_off_from_metatergite_by_continuous,_transverse_suture;
+{ 27 Tergite_margination margins_present_on_more_than_last_tergite restricted_to_last_tergite_only;
+{ 28 Crescentic_sulci_on_tergites absent_on_all_tergites present_on_most_tergites;
+{ 29 Shape_of_ultimate_tergite not_substantially_longer_than_penultimate_tergite nearly_twice_as_long_as_penultimate_tergite;
+{ 30 Median_suture_on_ultimate_tergite absent present;
+{ 31 Line_of_skeletal_thickening_across_sternites_originating_at_coxa absent present;
+{ 32 Complete_paramedian_sutures_on_sternum absent present;
+{ 33 Endosternite absent present;
+{ 34 Setae_on_locomotory_legs strong,_numerous slender,_sparse;
+{ 35 Structure_of_tarsi_of_locomotory_legs divided_into_two_articles undivided,_at_least_internally;
+{ 36 Tarsal_spurs_of_locomotory_legs absent present;
+{ 37 Tibial_spurs_of_locomotory_legs absent present;
+{ 38 Coxopleural_process_of_ultimate_leg absent present;
+{ 39 Dorsomedial_prefemoral_process_on_ultimate_leg absent present;
+{ 40 Strongly_thickened,_pincer-shaped_ultimate_leg absent present;
+{ 41 Armature_of_ventral_side_of_prefemur_of_ultimate_leg spines_and_spinous_processes_absent,_as_on_locomotory_legs spine(s)_or_spinose_process(es)_present;
+{ 42 Saw_teeth_on_ventral_side_of_ultimate_leg_tibia_and_tarsus_I absent present;
+{ 43 Fan_bristles_expanded_onto_lamina_dentifera_of_mandible absent present,_confined_to_dorsal_part_of_mandible covering_entire_surface_of_lamina_dentifera;
+{ 44 Length_of_mandibular_tooth_row tooth_row_much_more_than_half_length_of_gnathal_edge tooth_row_less_than_half_length_of_gnathal_edge;
+{ 45 Medial_labral_part_of_epipharynyx large_median_tooth,_extensive_area_between_labral_bristle_bands small_median_tooth,_area_between_labral_bristle_bands_a_narrow_strip;
+{ 46 Medial_sclerotisation_of_labral_part_of_epipharynx absent_(paired_lateral_bars) sclerotisation_continuous_from_median_tooth_to_border_with_clypeal_part sclerotisation_confined_to_region_immediately_proximal_to_median_tooth,_discontinuous_with_border_with_clypeal_part;
+{ 47 Differentiation_of_labral_bristles narrow_band_of_pectinate_bristles_laterally,_wide_band_of_simple_bristles_medially band_of_short,_simple_bristles_laterally_and_longer_simple_bristles_medially long,_simple_bristles_across_width_of_band;
+{ 48 Width_of_labral_bristle_field restricted_medially_on_distal_sclerotisation_of_submarginal_armature completely_covering_distal_sclerotisation_of_submarginal_armature;
+{ 49 Node-_or_spine-like_scales_across_proximal_labral_part_of_epipharynx absent present;
+{ 50 Curvature_of_border_between_labral_and_clypeal_parts_of_epipharynx subtransverse_or_gently_convex_distally strongly_convex_distally;
+{ 51 Single_row_of_bullet-shaped_sensilla_at_proximal_margin_of_field_of_branching_spines_at_border_between_labral_and_clypeal_part_of_epipharynx absent present;
+{ 52 Sensillar_field(s)_on_clypeal_part_of_epipharynx medial_cluster_of_sensilla_proximally,_near_mouth_opening crescentic_or_ovate_fields_of_sensilla_laterally large_field_of_sensilla_across_medial_clypeal_part_of_epipharynx,_separated_from_spine_field_by_a_substantial_expanse_that_bears_scattered_pores band_of_sensilla_medially,_immediately_proximal_to_spine_field lenticular_field_of_sensilla_immediately_proximal_to_spine_field;
+{ 53 Differentiation_of_a_proximomedial_cluster_of_button-shaped_sensilla_at_edge_of_main_sensilla_cluster_on_clypeal_part_of_epipharynx absent_(sensilla_cluster_uniform) present;
+{ 54 Elongate_/_figure-8_shaped_group_of_two_smooth_scutes_surrounding_each_sensillum_on_clypeal_part_of_epipharynx absent present;
+{ 55 Lid-like_cover_along_distal_edge_of_sensilla_on_clypeal_part_of_epipharynx absent present;
+{ 56 Paired_lateral_cluster_of_sensilla_on_clypeal_part_of_epipharynx both_groups_positioned_laterally,_widely_separated_from_each_other positioned_medially,_with_each_group_closely_approximating_each_other_near_midline;
+{ 57 Elongate,_distally_branching_spines_with_apices_directed_distomedially_on_clypeal_part_of_epipharynx absent present;
+{ 58 Extent_of_lateral_longitudinal_bands_of_scales_on_clypeal_part_of_epipharynx not_confluent_across_midline confluent_across_midline,_developed_proximomedially_as_polygonal_scales;
+{ 59 Sensilla_on_Schlundplatte single_grouping_of_sensilla,_continuous_across_midline paired_lateral_groupings_of_sensilla sensilla_absent;
+{ 60 Bristles_on_lateral_flap_of_hypopharynx lateral_flaps_lacking_tuft_of_bristles discrete_tuft_of_bristles_on_each_lateral_flap,_median_region_devoid_of_bristles,_spines_or_scales bristles_on_each_lateral_flap_confluent_across_midline,_with_identical_bristles_developed_in_median_region tuft_of_bristles_on_each_lateral_flap_connected_by_band_of_scales_or_short_spines_across_midline;
+{ 61 Asymmetry_of_oviducts left_and_right_oviducts_symmetrical left_oviduct_rudimentary_or_absent;
+{ 62 Ventral_invagination_in_spermatophore absent present;
+{ 63 Orientation_of_testicular_vesicles longitudinal,_parallel_to_central_deferens_duct oblique_to_deferens_duct;
+{ 64 Longitudinal_median_suture_on_anterior_part_of_T1,_bifurcating_into_two_oblique_sutures_posteriorly longitudinal_median_suture_and_oblique_sutures_absent longitudinal_median_suture_and_oblique_sutures_present;
+{ 65 Spinulation_of_coxopleural_process spine(s)_confined_to_apex_or_with_few_dorsal_spines_markedly_separated_from_apical_cluster spines_scattered_along_length_of_long,_slender_process;
+{ 66 Gizzard_with_plicate_walls_differentiated_at_posterior_end_of_foregut absent present;
+{ 67 Length_of_foregut not_extending_further_than_pedigerous_trunk_segment_2 extending_to_pedigerous_trunk_segment_5 extending_to_pedigerous_trunk_segments_10-16;
+{ 68 Posteriorly_directed_spines_along_plicae_of_gizzard absent present;
+{ 69 Arrangement_of_posteriorly_directed_spines_on_plicae single grouped;
+{ 70 Plicae_covered_by_scales_that_each_bear_a_single_spine scales_with_spines_absent spine-bearing_scales_present;
+{ 71 Posterior_lobes_in_front_of_cardiac_valve_on_gizzard absent present_as_one_to_several_rows;
+{ 72 Cardiac_valve entirely_enveloped_by_midgut extended_cardiac_valve_largely_anterior_to_midgut;
+{ 73 Posterior_part_of_foregut_organised_as_a_sieve_with_stiff,_anterior_directed_projections absent present;
+{ 74 Anterior_gizzard_projections_with_pigmented_base_bearing_spinose_scales_or_spines,_distal_part_translucent,_tapering,_bearing_dense_hairs absent present;
+{ 75 Shape_of_main_zone_of_sieve_projections evenly_curved kinked_near_midlength,_with_distal_part_more_strongly_directed_forwards;
+{ 76 Longitudinally_patterned_bands_of_trichomes_on_basal_half_of_sieve_projections absent_(hairs,_if_present,_not_patterned) present;
+{ 77 Distal_half_of_sieve_projections_twisted,_branching_into_large,_irregularly_curved_spines_that_bear_small_subsidiary_spines absent present;
+{ 78 Sieve_projections_covered_by_multifurcating_scales__that_spirally_encircle_the_projection,_branching_into_slender,_needle-like_spines absent present;
+{ 79 Antennal_shape filiform,_gently_attenuate strongly_tapering_distally;
+{ 80 Longitudinal_groove(s)_along_dorsal_side_of_femur_of_ultimate_leg absent single_median_groove paired_grooves;
+{ 81 Tarsomeres_in_tarsus_2_of_ultimate_leg undivided_tarsus_2 tarsus_2_with_numerous_tarsomeres;
+{ 82 Definition_of_tarsomeres_in_tarsus_2_of_ultimate_leg regular irregular;
+{ 83 Ventral_spinose_processes_on_ultimate_leg_femur absent present;
+{ 84 Pretarsal_claw_on_ultimate_leg absent present;
+{ 85 W-shaped_sutures_on_T1 absent,_paramedian_sutures,_when_present,_either_continuous_to_anterior_transverse_suture_or_terminating_behind_that_suture present,_with_paramedian_sutures_originating_at_the_posterior_apices_of_the_W;
+{ 86 Longitudinal_sutures_on_head_plate absent median_unpaired paired;
+{ 87 Rows_of_small_pineapple-shaped_projections_at_anteriormost_part_of_gizzard_sieve_lacking_kinked_tips,_bearing_short_spines_along_most_of_their_length_and_coarse_spike-like_spines_at/near_their_tips absent present;
+{ 88 Terminal_part_of_large_pineapple-shaped_projections_of_gizzard projection_evenly_tapering,_tip_filamentous projection_bifid,_with_a_short,_conical_tip_emerging_from_the_notch;
+;
+
+
+ccode  - 0.88;
+
+
+;

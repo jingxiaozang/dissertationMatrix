@@ -1,0 +1,99 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 14.54.57'
+60 21
+
+&[num]
+Platyrrhinus_albericoi               1100303?212011212?121010?11111101212011111011010200121111211
+Platyrrhinus_aquilus                 11101130223012212?121210011111110112011110101010200121101221
+Platyrrhinus_aurarius                101030312220221121121210011111000212011110101010100121211221
+Platyrrhinus_brachycephalus          1001214121?112?11?00101??11111?1?11?0?01101010102211212112?1
+Platyrrhinus_chocoensis              101020?1?22?11111?0?1?1001111100021?0?211?1020101001212102?1
+Platyrrhinus_dorsalis                101030312120121?11011210011111?0021?0121??1120102001212112?1
+Platyrrhinus_ismaeli                 101030312120122121?11110?11111?0?2121121?11?1010200121111221
+Platyrrhinus_helleri                 1001??312??1111?2?11101?01111101?1110?21101010102111212?1201
+Platyrrhinus_infuscus                10103?32??12120?1?12111??1111111?21201111111?0102001210102?1
+Platyrrhinus_lineatus                100120312131122120221010?111110?0?120111101??010200121011221
+Platyrrhinus_masu                    10103011?23112212?011?10111111?002120111?11?10102001212112?1
+Platyrrhinus_matapalensis            1001203221211?0?2?00101??11111?1?1110?111010?010201121211??1
+Platyrrhinus_nigellus                10103?3122?0122?2?011?10011111?0??1?011110?0?010200?21?11221
+Platyrrhinus_nitelinea               111131321230011111221010011111100212011111111010200121201221
+Platyrrhinus_recifinus               10012030213122212011111?011111110111011110102010200121210201
+Platyrrhinus_umbratus                101021312220112111111?1001111110?212?10111101010200121200221
+Platyrrhinus_vittatus                111030322230112?1?11101001111110021201?111111010210121111221
+Carollia_subrufa                     0--021020201120100211000000000000000-110000001020001001000?0
+Sturnira_erythromos                  0--100200000232120010000?00000000000-01000000001100000000020
+Uroderma_magnirostrum                100120302221110?00220001111110001011101000101111100110210201
+Vampyrodes_caraccioli                10013031213102101?111010011110?01210-11110010110110110211121
+
+;
+
+
+cnames
+{ 0 Facial_stripes absent present;
+{ 1 Brightness_of_facial_stripe dorsomedial_and_ventrolateral_stripes_obviously_subequal dorsomedial_stripe_more_marked_than_the_ventrolateral_stripe;
+{ 2 Facial_stripe_coloration brilliant_white dark;
+{ 3 Basal_protuberance_where_the_genal_vibrissae_are_implanted absent present;
+{ 4 Number_of_vibrissae_surrounding_the_margins_of_the_noseleaf_in_a_single_array nine_vibrissae_present eight_vibrissae_present seven_vibrissae_present six_vibrissae_present;
+{ 5 Number_of_vibrissae_present_on_the_upper_lip_ventral_to_the_vibrissae_that_surround_the_margins_of_the_noseleaf one_vibrissa_present_on_each_side_of_the_face two_vibrissae_present;
+{ 6 Number_of_submental_vibrissae_on_each_side_of_the_chin absence_of_submental_vibrissae two_submental_vibrissae_present three_submental_vibrissae_present four_submental_vibrissae_present five_submental_vibrissae_present;
+{ 7 Interramal_vibrissae absence one_interrramal_vibrissa_present two_interramal_vibrissae_present;
+{ 8 Inferior_border_of_horseshoe inferior_border_with_no_distinct_boundary_between_horseshoe_and_lip inferior_border_partially_joined_to_the_upper_lip inferior_border_completely_free;
+{ 9 Parallel_folds_located_in_the_pinna absent poorly_marked_but_distinguishable well_marked;
+{ 10 Dorsal_stripe absent indistinct definite_but_narrow brilliant_white_and_wide;
+{ 11 Length_of_the_dorsal_fur Long_8_mm medium_average_6.30_7.50_mm short_6.30_mm;
+{ 12 Bands_of_contrast_in_the_dorsal_fur Bicolored tricolored tetracolored;
+{ 13 Bands_of_contrast_in_the_ventral_fur Unicolored bicolored tricolored tetracolored;
+{ 14 Hair_on_the_dorsum_of_the_feet Sparse_and_short intermediate_in_density_and_length dense_and_long;
+{ 15 Posterior_edge_of_the_uropatagium V_shaped U_shaped;
+{ 16 Distribution_of_the_fringe_of_hair_on_the_edge_of_the_uropatagium Absent usually_hairy_occassionally_sparsely densely_haired;
+{ 17 Posterior_border_of_the_hard_palate U_shaped V_shaped;
+{ 18 Postorbital_process Absent_or_poorly_developed moderately_developed well-developed;
+{ 19 Paraoccipital_process Poorly_developed_almost_imperceptible moderately_developed well_developed;
+{ 20 Apophysis_in_the_paraoccipital_process Present absent;
+{ 21 Fossa_on_the_squamosal_end_of_the_zygomatic_arch_lateral_to_the_the_glenoid_fossa Absent_or_almost_imperceptible shallow deep;
+{ 22 Posterior_clinoid_processes Absent present;
+{ 23 Upper_median_incisors In_contact without_contact;
+{ 24 Lobulation_of_the_upper_lateral_incisors Monolobed bilobed;
+{ 25 Alignment_of_P3_in_the_toothrow P3_aligned_along_the_axis_of_the_toothrow P3_aligned_transversally_to_the_toothrow;
+{ 26 Size_of_the_P3_with_regard_to_P4 P3_slightly_smaller_than_P4 P3_about_half_size_of_P4;
+{ 27 Stylar_cusps_on_the_posterior_face_of_P4 P4_lacking_stylar_cusps_or_with_one_stylar_cusp_present two_stylar_cusps_present;
+{ 28 Sulcus_on_the_posterior_face_of_P4 absent present;
+{ 29 Sulcus_on_the_anterior_face_of_P4 absent present;
+{ 30 Fossa_on_the_hypoconal_basin_of_P4 Shallow deep;
+{ 31 M1_Parastyle absent present;
+{ 32 M1_Mesostyle absent present;
+{ 33 Labial_cingulum_at_the_base_of_the_M1_metacone absent present stylar_cusp_on_the_labial_cingulum_of_the_M1_metacone;
+{ 34 Sulcus_on_the_posterior_face_of_the_M1_paracone absent present;
+{ 35 Lingual_cingulum_on_the_base_of_the_M1_metacone absent lingual_cingulum_present_at_the_base_of_the_M1_metacone stylar_cusp_on_the_lingual_cingulum_of_the_M1_metacone;
+{ 36 Sulcus_on_the_posterior_face_of_the_paracone_not_joined_to_the_cingulum_of_the_lingual_face_of_the_metacone_on_M1 absent present;
+{ 37 M1_metastyle absent present;
+{ 38 M1_protocone Well_developed_large moderately_developed small_and_blunt;
+{ 39 M2_parastyle absent present;
+{ 40 Labial_cingulum_of_the_M2_paracone absent present;
+{ 41 Stylar_cusp_on_the_lingual_face_of_the_M2_paracone absent present;
+{ 42 M2_metastyle absent present;
+{ 43 Stylar_cusp_on_the_lingual_face_of_the_M2_metacone absent present;
+{ 44 Lingual_cingulum_of_the_M2_metacone absent lingual_cingulum_of_the_M2_metacone_restricted_to_the_metacone lingual_cingulum_of_the_M2_metacone_continuous_to_the_paracone;
+{ 45 M2_hypoconal_basin Developed rudimentary_or_small;
+{ 46 Two_sulci_on_the_lingual_face_of_the_main_cone_of_p4 absent present;
+{ 47 Cones_on_the_posterior_face_of_p4_one_lingual_and_the_other_one_labial Two_cones_present one_cone_present_on_either_the_labial_or_lingual_face no_cones_present;
+{ 48 Labial_and_lingual_cingulum_of_p4 Both_cingula_absent only_one_cingulum_present_either_the_lingual_or_labial both_cingula_present;
+{ 49 Stylid_cusps_on_the_anterior_or_antero_lingual_face_of_the_main_cone_of_p4 absent one_stylid_cusp_present two_stylid_cusps_present;
+{ 50 Stylid_cusp_on_the_posterior_face_of_the_main_cone_of_p4 absent present;
+{ 51 m1_paraconid Present absent;
+{ 52 m1_cingulum absent only_the_labial_cingulum_present both_labial_and_lingual_cingula_present;
+{ 53 Stylid_cusps_on_the_anterior_face_of_the_m1_protoconid Absent present;
+{ 54 m1_metaconid Well_developed poorly_developed absent;
+{ 55 m2_hypoconid Present absent;
+{ 56 Stylid_cusp_between_the_metaconid_and_protoconid_on_m2 Absent present;
+{ 57 Cingula_on_m2 Both_cingula_labial_and_lingual_absent labial_cingulum_present both_cingula_present;
+{ 58 Third_and_fifth_metacarpal_arrangement Length_of_M_III_>_M_V length_of_M_III_=_M_V length_of_M_III_>_M_V;
+{ 59 Insertion_of_the_posterior_edge_of_the_plagiopatagium Onto_the_ankle_region onto_the_first_metatarsal;
+;
+
+
+ccode  - 0.59;
+
+
+;

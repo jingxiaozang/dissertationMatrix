@@ -1,0 +1,77 @@
+nstates num 11;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 14.57.26'
+42 17
+
+&[num]
+Priapulus                0--0-10--0--00000-------010--------0----00
+Euperipatoides           08210100-1000000100?---001010-0---00----00
+Parastygarctus           0000-100-100000010-----010-1--0---00----00
+Aysheaia                 0300-10--0--0000101-013001011-0---00----00
+Megadictyon              020101100???0001101-113001111-0---00----0?
+Kerygmachela             0200-10--1?00001101-01300111?-10-001011000
+Opabinia                 0601110--1110001101-110010-?--10-??1001011
+Pambdelurion             020101100???0001101-113001011-10-00101100?
+Anomalocaris             0531011101111101111-111000-0--10---1101111
+Laggania                 0531011101111111111-112000-0--10---1101110
+Hurdia_victoria          010101111111??1?111-112000-0--10---1100010
+Fuxianhuia               001110---1111101110010-110-1-0110100----00
+Leanchoilia              142110---110??01111-10-110-1-0110110----00
+Martinssonia             124110---0--100?1100---010-1-122--10----00
+Misszhouia               194110---0--11021101----10-1-1121110----00
+Olenoides                1?3110---11010001101---110-1-1121110----00
+Weinbergina              175110---110100?110----110-1-1120110----00
+
+;
+
+
+cnames
+{ 0 Sclerotization_of_cuticle_into_hard,_articulated_tergal_exoskeleton absent present;
+{ 1 Number_of_segments_in_cephalon_and_body_excluding_terminal_segment_and/or_telson 5 9 12 13 14 15 16 17 20 26 33;
+{ 2 Number_of_cephalic_segments 1 2 3 4 5 7;
+{ 3 Mouth_position terminal ventral;
+{ 4 Orientation_of_mouth esophagus_directed_dorsoventrally esophagus_directed_anteriorly_(mouth_directed_posteriorly);
+{ 5 Radially_arranged_circumoral_structures_(papillae,_plates,_lamellae) absent present;
+{ 6 Circumoral_structures_plate-like,_radially_arranged,_with_teeth_at_inner_margins_of_plates absent present;
+{ 7 Structure_of_mouth_part_apparatus variable_number_of_undifferentiated_plates 32_plates_with_differentiation_of_four_enlarged_plates_in_a_cross_arrangement;
+{ 8 Inner_rows_of_teeth_within_mouth_part absent present;
+{ 9 Eyes absent present;
+{ 10 Eye_structure ocellus-like_or_pigment_spots large,_compound/ommatidial-type;
+{ 11 Eye_stalks sessile stalked;
+{ 12 Preoral_forehead_plate_(hypostome) absent present;
+{ 13 Arcuate_anterior_sclerite absent present;
+{ 14 Weakly_sclerotized_dorsoanterior_carapace(s) absent present;
+{ 15 Serially_repeated_midgut_glands absent reniform,_submillimetric_lamellar radiating_tubular_diverticula;
+{ 16 Paired_appendages absent present;
+{ 17 Arthropodization_of_any_appendage_(pivot_joints,_sclerotized_podomeres_separated_by_soft_arthrodial_membrane) absent present;
+{ 18 Form_of_anteriormost_cephalic_appendage antennae_or_chelicerae frontal_appendage;
+{ 19 Antennal_structure short,_relatively_few_articles,_locomotory_or_feeding_form long,_multiannulated_sensorial_flagellum;
+{ 20 Position_of_frontal_appendage lateral ventral;
+{ 21 Frontal_appendage_structure robust_with_at_least_one_terminal_spine_and_one_joint,_and_fewer_than_4_lateral_spines more_than_4_spines_developed_along_inner_margin_(not_confined_to_tip);
+{ 22 Spinose_great_appendage_style unpaired_annulated_proboscis-like_structure_with_branching_tip 15_segments_with_a_double_row_of_short_ventral_spines single_row_of_elongated_ventral_spines_with_fewer_than_15_articles annulated_lobopodous;
+{ 23 Nature_of_post-cephalic_articulation overlapping_pleurae_not_present overlapping_pleurae_present;
+{ 24 Trunk_annuli absent present;
+{ 25 Trunk_annulation absent present;
+{ 26 Organization_of_trunk_annulation homonomous heteronomous;
+{ 27 Trunk_walking_legs absent present;
+{ 28 Appendicules_on_lobopod_limbs absent present;
+{ 29 Number_of_endopod_segments_in_sclerotized_locomotory_limbs more_than_7_segments,_excluding_the_terminal_claw at_most_5-7_segments,_excluding_the_terminal_claw;
+{ 30 Trunk_exites/exopods absent trunk_exites trunk_exopod;
+{ 31 Form_of_exite/exopod gill-like_lanceolate_blades_in_association_with_lateral_lobes paddle-like,_with_or_without_fringe_of_marginal_setae slender_rod_with_lamellae_and/or_spines;
+{ 32 Exite_with_bipartite_shaft_and_lamellar_setae_attached_to_margin_of_proximal_lobes absent_(non-lamellipedian_limbs) present;
+{ 33 Exite_and_endopod_fused absent present;
+{ 34 Anteroposteriorly_compressed_protopodite_with_gnathobasic_endites_in_postantennal/post-frontal_appendages absent present;
+{ 35 Lateral_flaps_(body_extends_laterally_into_imbricated,_unsclerotized_flaps) absent present;
+{ 36 Strengthening_rays_on_lateral_flaps absent present;
+{ 37 Longitudinal_("gill-like")_wrinkling_on_distal_part_of_flaps absent present;
+{ 38 Definition_of_lateral_flaps poorly_defined prominent,_well-defined;
+{ 39 Posterior_tapering_of_lateral_lobes absent present;
+{ 40 Dorsal_bands_of_lanceolate_blades absent present;
+{ 41 Posterior_tagma_composed_of_three_paired_tail_flaps absent present;
+;
+
+
+ccode  - 0.41;
+
+
+;

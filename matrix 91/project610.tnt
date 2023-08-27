@@ -1,0 +1,134 @@
+nstates num 9;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 14.56.02'
+69 47
+
+&[num]
+Matsucoccus_gallicolus                    80?0001000--1000010000100100210012000?00000--01111111020-00-0000-0--0
+Pseudococcus_longispinus                  7010000000--1000310000101000200003000100100--00000000-20-00-0000-1000
+Icerya_purchasi                           8000000000--00001000001001000100100001000010000001001120-00-0000-0--0
+Puto_yuccae                               8010000000--0000310000100100010012000100100--00000000020000-0000-1000
+Newsteadia_floccosa                       511000000111110101000001200110101101000101102111110000121012001011100
+Newsteadia_morrisoni                      211000000111100121001001200110101101000101102111110000121011001011100
+Newsteadia_monikae                        211000000111100121000001200110102101100101102111110000121012000011100
+Newsteadia_caledoniensis                  31100000011101002100001120011010111100010110211111000?121011001011100
+Newsteadia_minima                         611000000111110101000001200110102101000101102111110000121011001011000
+Newsteadia_americana                      611000000111110101000001200110102101000101102111110000021012001011100
+Newsteadia_africana                       611000000111?10121000001200110101101010101102111110000021012001011100
+Jermycoccus_boliviensis                   3000000001111001220010111001101003110001001210110000000-000-001001100
+Neomixorthezia_brazilana                  300000020111100132001201100110102111020100121111111110021003102001100
+Neomixorthezia_machupicchui               300000020111100132001211100110102111010100121111111110021003002001100
+Neonipponorthezia_regina                  201000000111110122100201100110102111020100111?????????011012001001010
+Nipponorthezia_ardisiae                   201000020111110022110201100110101301020100101111111000131002101001110
+Nipponorthezia_obscura                    201000020111110022111211100110102101010100101111111000131002101001110
+Nipponorthezinella                        20??000?011111102201?201200100112?0???????????????????13?00010??00???
+Nipponorthezinella_guadalcanalia          201000020111101022010201200100112001020100101????????1131000101001110
+Arctorthezia_occidentalis                 700000000100110001100000001011101101010100122011111101021032111001000
+Arctorthezia_pseudoccidentalis            600000000100110001100000001011101101010100122011111101021132111001000
+Arctorthezia_cataphracta                  700000000100110001000000001011101101010100121111111111021012111001000
+Graminorthezia_graminis                   700000000100110022001011001011201001010100122011111101101013100001000
+Graminorthezia_tillandsiae                700000000100110021000011001011200001010100122????????1021012100001000
+Graminorthezia_minor                      700000000100?10?2100?0110010?1?00301010100122????????1121012100001000
+Orthezia_urticae                          700000000100110022010001001011201001000100122111111111021013000101000
+Orthezia_ambrosicola                      700000000100110021011011001011200001000100122111111111021013000101000
+Orthezia_annae                            700000000100110022011011001011200001010100122111111111121013000101000
+Orthezia_graminicola                      700000000100110031110011001011201001010100122111111111021013000101000
+Orthezia_newcomeri                        700000000100110031110001001011201001010100122111111111021033000101000
+Praelongorthezia_artemisiae               7000010001001100311000110000?1?01?01010100122111111111011013000101000
+Praelongorthezia_praelonga                700001000100110022000001000011201101010100122011111111011013000101000
+Matilorthezia_angolaensis                 20110001111111012111120110011010100100110012000001001110-00400?001001
+Insignorthezia_insignis                   70000000010011003200000110100120110101010010201111111210-023100101000
+Ortheziolacoccus_madecassa                20?10001111111112110010110010001211?001100121??00?00?2120004003001101
+Ortheziolamameti_guineensis               200100011111110121101201100100002011001100120?000?0010120014?03001001
+Ortheziola_vejdovskyi                     2001000111111101220012011001001011100111001221110?1112111022003001001
+Mixorthexia_reynei                        300000020111100121111201100110102011020100121?????????111013000001100
+Mixorthezia_monticola                     3000000201111001211112011001101021110101001211????1112011013001001100
+Acropygorthezia_williamsi                 10?0000000--0001200000211001000003000101000--11111110020-00---00-0--0
+Mixorthezia_dominicana                    3000000?011110013101?201100100002?0?01????????????????01101?10??01???
+Mixorthezia_kozari2                       3000000?011110013101?201100100002?1?01????1???????????01101?10??01???
+Newsteadia_succini                        31?00000011111002110?001100110101???02????1???????????02101210??11???
+Arctorthezia_antiqua                      70?000000100110111000001001010101?0?01????????????????02101211??01???
+Arctorthezia_baltica                      ?01000000100110?21000000001010101?0?01????????????????02111211??01???
+Burmorthezia_kotejai                      ?010100000--000011010100000000002?0?01????????????????0210?310??01?0?
+Burmorthezia_insolita                     ?0?0100000--000011010100000000002?0?01????????????????0210?310??01?0?
+
+;
+
+
+cnames
+{ 0 Number_of_antennal_segments 1 2 3 4 5 6 7 8 9;
+{ 1 First_antennal_segment_conspicuously_larger_than_other_segments no yes;
+{ 2 Labium_segmentation one two;
+{ 3 Three_setae_inserted_on_one_basal_socket_at_the_apex_of_labium absent present;
+{ 4 Stiff_setae_on_2nd_segment_ absent present;
+{ 5 Cephalic_plate_on_dorsal_surface_of_head absent present;
+{ 6 Number_of_tarsal_segments._ one two;
+{ 7 Pseudobasal_antennal_segment absent well-developed not_distinctly_separated_from_the_antennae;
+{ 8 Eye_fused_to_antennal_base_ no yes;
+{ 9 Differentiated_setae_on_last_antennal_segment absent present;
+{ 10 Length_of_differentiated_apical_seta_ Short_ Long_;
+{ 11 Type_of_differenciated_apical_seta blunt/stout hair-like;
+{ 12 Flagellate_sensory_setae_on_terminal_segment absent present;
+{ 13 Type_of_unspecialized_antennal_setae hair-like spine-like;
+{ 14 Unspecialized_antennal_setae straight curved;
+{ 15 Subapical_seta_on_terminal_segment absent present;
+{ 16 Longest_antennal_segment first_segment second_segment terminal_segment segment_between_the_second_and_terminal;
+{ 17 Dimensions_of_first_segment width>length lengh>width squared_shape;
+{ 18 Shape_of_1st_antennal_segment straight curved;
+{ 19 Shape_of_terminal_segment filliform clavate reduced;
+{ 20 Microseta_on_apex_of_terminal_antennal_segment_ absent present;
+{ 21 Number_of_undifferenciated_setae_on_terminal_antennal_segment less_than_20 between_20_and_60 more_than_60;
+{ 22 Eye_shape stalked sessile absent;
+{ 23 Femur_and_trochanter unfused fused;
+{ 24 Tibia_and_tarsus distinctively_separated_(with_tarsus_less_wide_than_tibia) separated_by_a_fine_suture fused;
+{ 25 Articulation_between_tibia_and_tarsus_ no yes;
+{ 26 Enlarged_spine_between_tibia_and_tarsus no yes;
+{ 27 Ratio_of_length_of_tibia_and_tarsus tibia_longer_than_tarsus tarsus_longer_than_tibia;
+{ 28 Claw_digitule hair-like spine-like clavate;
+{ 29 Claw_Denticle absent present;
+{ 30 Setae_on_tibia_and_tarsus all_hair-like all_spine-like spine-like_ventral_+_hair-like;
+{ 31 Leg_setae straight curved;
+{ 32 Number_of_rows_of_setae_on_tarsus few_(<5) medium_(6-9) numerous_(>10);
+{ 33 Number_of_sensory_pores_on_trochanter 3_pores 4_pores more_than_4 2_pores;
+{ 34 Sensory_seta_between_tibia_and_tarsus_ absent present;
+{ 35 Sensory_pore_between_tibia_and_tarsus absent present;
+{ 36 Strong_spine_on_coxa absent present;
+{ 37 Apical_segment_of_labium_ almost_as_broad_as_base,_not_elongated narrow long_and_apex_almost_as_broad_as_base;
+{ 38 Thumb_like_pores absent present;
+{ 39 Quadrilocular_pores_on_dorsum absent present;
+{ 40 Trilocular_pores_triangle_shaped absent present;
+{ 41 Tubular_ducts_without_ductule absent present;
+{ 42 Ovisac_band absent present;
+{ 43 Spines_in_ovisac_band absent 2_or_less_rows more_than_2_rows;
+{ 44 Number_of_loculi_on_pores_in_ovisac_band more_than_10 between_5_and_10 up_to_4;
+{ 45 Spiracle_on_1st_abdominal_segment absent present;
+{ 46 Spiracle_on_2nd_abdominal_segment absent present;
+{ 47 Spiracle_on_3rd_abdominal_segment absent present;
+{ 48 Spiracle_on_4th_abdominal_segment absent present;
+{ 49 Spiracle_on_5th_abdominal_segment absent present;
+{ 50 Spiracle_on_6th_abdominal_segment absent present;
+{ 51 Spiracle_on_7th_abdominal_segment absent present;
+{ 52 Spiracle_on_8th_abdominal_segment absent present;
+{ 53 Position_of_abdominal_spiracles ventral dorsal both;
+{ 54 Dorsal_wax_plate completely_covering_the_dorsum not_completely_covering_the_dorsum no_wax_plate;
+{ 55 Submedial_dorsal_wax_plates absent present_and_well_separated present_and_fused_to_median_plates present_on_abdominal_segments_only;
+{ 56 Submedial_dorsal_wax_plates_divided_segmentally no yes;
+{ 57 Circular_pore_clusters absent present;
+{ 58 Ventral_wax_plate_on_thorax absent completely_covering_the_ventral_surface weakly_present_compared_to_dorsum present_with_holes_on_marginal_thoracic_segments;
+{ 59 Number_of_marginal_wax_plate_ 8 9 10 11 wax_plates_not_well_separated;
+{ 60 Median_wax_lobes absent present;
+{ 61 Dorsal_midline_triangular_wax_lobes_ absent present;
+{ 62 Thoracic_spiracles_pores absent with_4_loculi_pores pores_with_a_middle_spine_ with_more_than_4_loculi_pores;
+{ 63 Band_of_spines_around_thoracic_spiracles absent present;
+{ 64 Wax_plates_protruding_forwardly no yes;
+{ 65 Anal_ring absent present;
+{ 66 Setae_on_anal_rings Length_>_diameter_of_anal_ring Length_<_diameter_of_anal_ring;
+{ 67 Lateral_anal_seta_length same_as_other_setae signifcantly_shorter_than_other_setae;
+{ 68 Sclerotized_plate_anterior_to_anal_ring absent present;
+;
+
+
+ccode  - 0.68;
+
+
+;

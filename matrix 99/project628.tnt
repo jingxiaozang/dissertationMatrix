@@ -1,0 +1,83 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 15.00.41'
+50 15
+
+&[num]
+Temnodontosaurus                   00000000000000000000000000000000000000000000000000
+Ichthyosaurus                      000000100?00001?1000001000000001000?1?010110100010
+Stenopterygius                     ?00?1110?0000000100010111?110000000?000000111?0000
+Ophthalmosaurus_icenicus           01010111111110001011111101110101110111111001110010
+Chacaicosaurus                     ???1???0??????????00?????????0??0?010000100???????
+Brachypterygius                    01000?0?00?1?????121?10????1?11101111111100???????
+Arthropterygius                    ?????????????????0201??11?1?0101110?1??0?????00???
+Mollesaurus                        ????1??00?0????11?111?00??????????????????????????
+Caypullisaurus                     ???10?0?000???110????110???11111100112101102?10?11
+Aegirosaurus                       ?0001?110111?1001????1???????1?100111111?1021?0011
+Platypterygius_australis           01100000100101020121111011111111100112101102010111
+Platypterygius_hercynicus          01100?100?01110?1?2?1???1?10111110011210110??1101?
+Maiaspondylus                      11100?1?01?1?????0????10?????1?10011?1?0?10???10??
+Athabascasaurus                    10?00?0011?110010?2?11?0?1?????????????????201????
+Sveltonectes                       10101?11011111???02111000?110111000?11111102?10111
+
+;
+
+
+cnames
+{ 0 Crown_striation Present Smooth;
+{ 1 Base_enamel poorly_defined well_defined;
+{ 2 Root_section Rounded Quadrangular;
+{ 3 Dentition_reduction Absent Edentulous_adults;
+{ 4 Tooth_size_relative_to_basioccipital_width >_3 <_1.5;
+{ 5 Process_postpalatinis_pterygoidei Absent Present;
+{ 6 Maxilla_anterior_process extending_anteriorly_as_far_as_the_nasal_or_further_anteriorly Reduced;
+{ 7 Descending_process_of_the_nasal_on_the_dorsal_border_of_the_nares Absent Present;
+{ 8 Mx_nares no_contact contact;
+{ 9 Processus_supranarialis_of_the_premaxilla Present Absent;
+{ 10 Processus_narialis_of_prefrontal Absent Present;
+{ 11 Jugal_ant._margin between_Mx_&_Lac Fan_covers_Mx;
+{ 12 Sagittal_eminence Present Absent;
+{ 13 Frontal_processus_temporalis Absent Present;
+{ 14 Supratemporal_-_postorbital_contact Absent Present;
+{ 15 Squamosal_shape Triangular squared lost;
+{ 16 Quadratojugal_exposure Large Small,_covered;
+{ 17 Basipterygoid_processes Short Wing-like;
+{ 18 Basioccipital_extracondylar_area Wide Reduced Extremely_reduced;
+{ 19 Basioccipital_peg Present Absent;
+{ 20 Stapes_head_size Small Large;
+{ 21 Angular_lateral_exposure Small Extensive;
+{ 22 Cervical_centra_extension Middle_dorsal Anterior_dorsal;
+{ 23 Anterior_caudals_height ?_3.5 ?_4;
+{ 24 Fluke_centra_laterally_compress. Laterally_compressed Rounded;
+{ 25 Neural_spines_of_atlas-axis fused not_fused;
+{ 26 Apical_chevrons Present Lost;
+{ 27 Prominent_acromion_process_of_scapula Absent Present;
+{ 28 anteromedial_process_of_coracoid Present Absent;
+{ 29 Plate-like_dorsal_ridge_on_humerus Absent Present;
+{ 30 Protruding_deltopectoral_crest_on_humerus Absent Present;
+{ 31 Humerus_prox/distal_ends distal_wider equal_or_prox_wider;
+{ 32 Humerus_anterodistal_facet_for_acessory_zeugopodial_element Absent Present;
+{ 33 Post_delfected_Ulnar_facet Absent Present;
+{ 34 Humerus/inetmedium_contact Absent Present;
+{ 35 Pisiform Absent Present;
+{ 36 Notching_anterior_edge_forefin Present Absent;
+{ 37 Posterior_enlargement_of_forefin No One_digit Two_or_more_digits;
+{ 38 Preaxial_digits Absent Present;
+{ 39 Longipinnate_or_latipinnate_forefin Longipinnate Latipinnate;
+{ 40 Zeugo-_to_autopodial_elements_flattened_and_plate-like Flat Thick;
+{ 41 Tighly_packed_rectangular_phalanges Absent_rounded_phalanges Present;
+{ 42 Digital_bifurcation Absent Frequently_occurs_digit_IV;
+{ 43 Ischium_-_pubis_fusion Absent Fused_W/_obturator_foramen Fused_W/O_obturator_foramen;
+{ 44 Ischium_shape Flattened Rod-like;
+{ 45 Femur_trochanters Absent Present;
+{ 46 Femur_-_astragalus_contact Absent Present;
+{ 47 Femur_anterodistal_facet Absent Present;
+{ 48 Tibia_shaft Notched Straight;
+{ 49 Postaxial_digits_hindfin Absent Present;
+;
+
+
+ccode  - 0.49;
+
+
+;
