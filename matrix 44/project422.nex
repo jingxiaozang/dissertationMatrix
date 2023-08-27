@@ -1,0 +1,1143 @@
+#NEXUS
+
+    [ File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-26 20.35.19 ]
+
+    BEGIN TAXA;
+    DIMENSIONS NTAX=42;
+    TAXLABELS
+    		'Hutchinsoniella'
+		'Artemia'
+		'Homarus'
+		'Scutigerina'
+		'Lithobius'
+		'Scutigerella'
+		'Hanseniella'
+		'Acerentulus'
+		'Neocondeellum'
+		'Baculentulus'
+		'Xenylla'
+		'Onychiurus'
+		'Tetrodontophora'
+		'Neanura'
+		'Morulina'
+		'Orchesella'
+		'Folsomia'
+		'Tomocerus'
+		'Sminthurinus'
+		'Campodeidae'
+		'Campodea'
+		'Lepidocampa'
+		'Catajapyx'
+		'Metajapyx'
+		'Heterojapyx'
+		'Parajapyx'
+		'Dilta'
+		'Petrobius'
+		'Machiloides'
+		'Allomachilis'
+		'Tricholepidion'
+		'Lepisma'
+		'Thermobia'
+		'Texoreddellia'
+		'Squamigera'
+		'Callibaetis'
+		'Choroterpes'
+		'Anax'
+		'Libellula'
+		'Forficula'
+		'Labidura'
+		'Locusta'
+    ;
+    ENDBLOCK;
+
+    BEGIN CHARACTERS;
+	DIMENSIONS NCHAR=189;
+	FORMAT DATATYPE=STANDARD GAP=- MISSING=? SYMBOLS="0123456789";
+	CHARLABELS
+		 [1] 'Compound eye'
+		 [2] 'Compound eye medial margins (Kraus 1998, ch. 29)'
+		 [3] 'Compound eye stalked, basally articulated'
+		 [4] '"Tetraconate" eye ultrastructure (Paulus 1979)'
+		 [5] 'Primary pigment cells (Paulus 1979)'
+		 [6] 'Chiasmata in optic lobe (Strausfeld 1998)'
+		 [7] 'Ocelli (Bitsch and Bitsch 2000, ch. 8)'
+		 [8] 'Median eyes fused to naupliar eyes (Lauterbach 1983)'
+		 [9] 'Antennal segmentation'
+		 [10] 'Antennal musculation'
+		 [11] 'Johnston''s organ in antennal pedicel'
+		 [12] 'Sensory organ of third antennal segment (D''Haese, ch. 10)'
+		 [13] 'Postantennal organs (Bitsch and Bitsch 1998, ch. 5)'
+		 [14] 'Antennal vessels (Pass 1991, Bitsch and Bitsch 1998, ch. 18)'
+		 [15] 'Antennal ampullae indirectly compressed by pharynx movements (Pass 2000)'
+		 [16] 'Antennal pulsatile organs (Pass 2000)'
+		 [17] 'Head orientation (Bitsch and Bitsch 2000, ch. 3)'
+		 [18] 'Scales'
+		 [19] 'Frontal line (Bitsch and Bitsch 2000, ch. 4)'
+		 [20] 'Clypeofrontal sulcus (Bitsch and Bitsch 2000, ch. 5)'
+		 [21] 'Entognathy'
+		 [22] 'Linea ventralis (Koch 1997, Kraus 1998, ch. 18)'
+		 [23] 'Admentum differentiated ventrally between prementum and oral fold on each side of head capsule (Koch 1997), developing from po'
+		 [24] 'Labium (second maxilla bordering mouthKraus and Kraus 1994)'
+		 [25] 'Superlinguae'
+		 [26] 'Mandibular condylus and connection with head (Koch 1997)'
+		 [27] 'Mandibular articulation (Furst von Lieven 2000, Staniczek 2000)'
+		 [28] 'Mandibular form (Kristensen 1981)'
+		 [29] 'Mandibular teeth'
+		 [30] 'Mandible with large, stalked molar process and tapering incisor process (Koch 2001)'
+		 [31] 'Mandibular prostheca (Bitsch and Bitsch 2000, ch. 14)'
+		 [32] 'Distal-less expression in mandible'
+		 [33] 'Maxillary palpi'
+		 [34] 'Lacinia (Kristensen 1981)'
+		 [35] 'Labial (second maxillary) endites'
+		 [36] 'Apical segment of labial (second maxillary) palp (Kristensen 1998, ch. 60)'
+		 [37] 'Labial (second maxillary) palp (Bitsch and Bitsch 2000, ch. 18)'
+		 [38] 'Larval labium (second maxilla)'
+		 [39] 'Opening of ectodermally-derived salivary glands (Bitsch and Bitsch 1998, ch. 8)'
+		 [40] 'Position of median salivary gland opening'
+		 [41] 'Anterior tentorium'
+		 [42] 'Anterior tentorial apodemes (Koch 2000)'
+		 [43] 'Posterior suspension of anterior apodemes to cranial wall (Koch 2000)'
+		 [44] 'Head apodemes fused anteriorly with hypopharyngeal sclerites and with transverse sclerites (Bitsch & Bitsch 2002)'
+		 [45] 'Posterior tentorial apodemes (Bitsch and Bitsch 2002)'
+		 [46] 'Corporotentorium'
+		 [47] 'Fulturae or reduced to hypopharyngeal suspensorium (Bitsch and Bitsch 2000, ch. 19)'
+		 [48] 'Anterior dorsal muscle forming gnathal lobe flexor (Kluge 1999, Koch 2001)'
+		 [49] 'Origin of ventral tentorial adductors (Staniczek 2000)'
+		 [50] 'Mandibulo-hypopharyngeal muscle (Staniczek 2000)'
+		 [51] 'Tentorio-mandibular muscles (Kristensen 1975, Beutel and Gorb 2001, ch. 29)'
+		 [52] 'Transverse stipital muscle'
+		 [53] 'Tentorio-lacinial muscle (Kristensen 1975)'
+		 [54] 'Protocerebrum (Bitsch and Bitsch 1998, ch. 1)'
+		 [55] 'Deutocerebrum (Bitsch and Bitsch 1998, ch. 2)'
+		 [56] 'Tritocerebral commissures (Bitsch and Bitsch 1998, ch. 3)'
+		 [57] 'Epipharyngeal ganglia (Francois 1969, Kristensen 1991)'
+		 [58] 'Pseudocommissure of stomatogastric nervous system'
+		 [59] 'Circumesophageal ring (Gereben-Krenn and Pass 1999)'
+		 [60] 'Cephalic excretory organs (Bitsch and Bitsch 1998, ch. 13)'
+		 [61] 'Postoccipital ridge (Kristensen 1975, Staniczek 2000)'
+		 [62] 'Two cervical sclerites (Kristensen 1981)'
+		 [63] 'Lateral cervical sclerite in three pieces'
+		 [64] 'Position of ambulatory legs'
+		 [65] 'Discoid pronotum (Kristensen 1981)'
+		 [66] 'Pronotum overlapping propleuron'
+		 [67] 'Prothorax tergum (D''Haese, ch. 71)'
+		 [68] 'Trunk heterotergy (Ax 1999)'
+		 [69] 'M. scutello-postnotalis III (Beutel and Gorb 2001, ch. 59)'
+		 [70] 'Pleural sutures (Boudreaux 1979)'
+		 [71] 'Pteropleura tilted backward, notum small'
+		 [72] 'Trochantin (Kristensen 1981)'
+		 [73] 'Separate coxopleuron (Kristensen 1975)'
+		 [74] 'Sternal part of the trunk (thorax) (Bitsch and Bitsch 2000, ch. 23)'
+		 [75] 'Mesothoracic basisternal fold (Kristensen 1975)'
+		 [76] 'Two pairs wings'
+		 [77] 'Wing flexion'
+		 [78] 'Forewings truncate'
+		 [79] 'Sclerotization of forewing (Kristensen 1981)'
+		 [80] 'Prominent precostal field'
+		 [81] 'Basal wing brace (Kukalova-Peck 1985)'
+		 [82] 'Forewing media fusion'
+		 [83] 'Anal furrow (Hennig 1969)'
+		 [84] 'Enlarged hindwing vannus (Kristensen 1981)'
+		 [85] 'Vannus pleated (Kristensen 1981)'
+		 [86] 'Locomotory limbs'
+		 [87] 'Coxa-body articulation'
+		 [88] 'Mobility of pleural articulation of coxa'
+		 [89] 'Legs I'
+		 [90] 'Male forelegs clasping'
+		 [91] 'Jointed "knee"'
+		 [92] 'Femoro-tibial articulation'
+		 [93] 'Tarsi'
+		 [94] 'Tibiotarsal setae of T row (D''Haese, ch. 88)'
+		 [95] 'Tibiotarsal M setae (D''Haese, ch. 89)'
+		 [96] 'Ratio tibiotarsus:claw (D''Haese, ch. 94)'
+		 [97] 'Pretarsus (Beutel and Gorb 2001)'
+		 [98] 'Pretarsal claws (Hennig 1969, 1981, Kristensen 1975)'
+		 [99] 'Hairy adhesive soles of two proximal tarsomeres (Beutel and Gorb 2001)'
+		 [100] 'Claw pad, one claw transformed into thickened attachment organ (Beutel and Gorb 2001)'
+		 [101] 'Thoracic leg musculature (Manton 1972, Kristensen 1991)'
+		 [102] 'Two coxal proprioreceptor organs (Lombardo 1973, Hennig 1981)'
+		 [103] 'Trunk endoskeleton in each segment (Bitsch and Bitsch 2000, ch. 25)'
+		 [104] 'Metaspina (Kristensen 1975)'
+		 [105] 'Pleural apodeme'
+		 [106] 'Pterothoracic muscles (Kristensen 1975)'
+		 [107] 'Indirect wing muscles (Boudreaux 1979)'
+		 [108] 'Metathoracic tergosternal wing elevators'
+		 [109] 'Metathoracic and abdominal sternum I fused'
+		 [110] 'Spiracles (Bitsch and Bitsch 2000, ch. 44)'
+		 [111] 'Direct spiracular musculature (Whiting et al. 1997ch. 25)'
+		 [112] 'Posterior tracheation of leg (Kristensen 1975)'
+		 [113] 'Abdominal segmentation'
+		 [114] 'Ventral tube'
+		 [115] 'Shape of ventral tube (D''Haese, ch. 104)'
+		 [116] 'Furcula'
+		 [117] 'Pseudocelli (D''Haese, ch. 124 + 125)'
+		 [118] 'Pseudopores (Deharveng, 1978, D''Haese, ch. 130)'
+		 [119] 'Paired larval gills'
+		 [120] 'Posterior tracheal larval gills'
+		 [121] 'Eversible vesicles (Bitsch and Bitsch 2000, ch. 34)'
+		 [122] 'Sixth abdominal segment (D''Haese, ch. 122)'
+		 [123] 'Pregenital abdominal styli'
+		 [124] 'Abdominal sterna (Kristensen 1998, ch. 67)'
+		 [125] 'Female SVII (Hennig 1981)'
+		 [126] 'Gonopore'
+		 [127] 'Paired female genital openings (Kristensen 1975, Boudreaux 1979)'
+		 [128] 'Anal valves (D''Haese, ch. 117)'
+		 [129] 'Cerci'
+		 [130] 'Cerci forcipate, unisegmented, strongly sclerotized'
+		 [131] 'Paired, articulated furcal rami'
+		 [132] 'Paired terminal spinnerets (Kraus 1998, ch. 49)'
+		 [133] 'Caudal filament'
+		 [134] 'Male median caudal filament'
+		 [135] 'Ovipositor'
+		 [136] 'Gonangulum in ovipositor base (Hennig 1969)'
+		 [137] 'Female gonopod, used to manipulate single eggs (Ax 1999)'
+		 [138] 'Male gonopods or gonocoxites (Bitsch and Bitsch 2000ch. 39)'
+		 [139] 'Position of gonocoxites'
+		 [140] 'Male styli'
+		 [141] 'Male styli IX'
+		 [142] 'Male parameres (Bitsch and Bitsch 2000, ch. 42)'
+		 [143] 'Male penes (Bitsch and Bitsch 2000, ch. 43)'
+		 [144] 'Male accessory copulatory organs'
+		 [145] 'Dorsal vessel ostia  (Bitsch and Bitsch 1998, ch. 17)'
+		 [146] 'Open-ended chambers enclosing paired excurrent ostia'
+		 [147] 'Dorsal vessel'
+		 [148] 'Ventral vessel (Bitsch and Bitsch 1998ch. 17)'
+		 [149] 'Digestion'
+		 [150] 'Crop (Bitsch and Bitsch 1998, ch. 6)'
+		 [151] 'Proventriculus (Bitsch and Bitsch 1998, ch. 7)'
+		 [152] 'Proventricular neck, before anterior enlarged portion'
+		 [153] 'Gastric caeca (Bitsch and Bitsch 1998, ch. 9)'
+		 [154] 'Peritrophic membrane (Bitsch and Bitsch 1998, ch. 10)'
+		 [155] 'Pyloric region (Bitsch and Bitsch 1998, ch. 11)'
+		 [156] 'Proctodeum (Bitsch and Bitsch 1998, ch. 12)'
+		 [157] 'Malpighian tubules (Bitsch and Bitsch 1998, ch. 14)'
+		 [158] 'Ventral nerve cord (Bitsch and Bitsch 1998, ch. 4)'
+		 [159] 'Tendinous struts'
+		 [160] 'Tracheal system (Bitsch and Bitsch 1998, ch. 15)'
+		 [161] 'Ovary (Bitsch and Bitsch 1998, ch. 20)'
+		 [162] 'Arrangement of ovarioles (Bitsch and Bitsch 1998, ch. 20)'
+		 [163] 'Location of ovary germarium (Bitsch and Bitsch 1998, ch. 21)'
+		 [164] 'Ovary (Bitsch and Bitsch 1998, ch. 22)'
+		 [165] 'Seminal receptacle or spermatheca (Bitsch and Bitsch 1998, ch. 23)'
+		 [166] 'Testis (Bitsch and Bitsch 1998, ch. 24)'
+		 [167] 'Arrangement of testicular follicles (Bitch and Bitsch 1998, ch. 24)'
+		 [168] 'Location of testicular germ tissue (Bitsch and Bitsch 1998, ch. 25)'
+		 [169] 'Form of spermatozoa (Bitsch and Bitsch 1998, ch. 26)'
+		 [170] 'Spiral ridge on nucleus of sperm (Dohle 1985)'
+		 [171] 'Supernumary axonemal tubules (peripheral singlets)'
+		 [172] 'Protofilaments in wall of accessory tubules of axoneme (Dallai and Afzelius 1999, Jamieson et al. 1999)'
+		 [173] 'Medial microtubules in axoneme (Jamieson et al. 1999)'
+		 [174] 'Sperm axoneme sheaths'
+		 [175] 'Sperm centriole adjunct (Jamieson et al. 1999)'
+		 [176] 'Pair of elongate, cristate mitochondrial derivatives in sperm'
+		 [177] 'Sperm conjugation (Kristensen 1998, ch. 62)'
+		 [178] 'Egg cleavage (Bitsch and Bitsch 1998, ch. 30)'
+		 [179] 'Dorsal closure of embryo (Machida and Ando 1998)'
+		 [180] 'Amniotic cavity (Machida and Ando 1998)'
+		 [181] 'Egg tooth on embryonic cuticle of second maxilla (Dohle 1985)'
+		 [182] 'Rotation of labial Anlagen (Ikeda and Machida 1998)'
+		 [183] 'Postembryonic development'
+		 [184] 'Subimago (Kristensen 1975)'
+		 [185] 'Imaginal lifespan'
+		 [186] 'Habitat of nymphs'
+		 [187] 'Female broodcare of eggs and first one or two free-living nymphs'
+		 [188] 'Jumping by abdominal push'
+		 [189] 'Insemination mode (Bitsch and Bitsch 1998, ch. 29)'
+	;
+	STATELABELS
+		1
+		'Developed'
+		'Dispersed (including myriapod ocelli/stemmata)'
+		'Absent'
+		,
+		2
+		'Not medially contiguous'
+		'Medially contiguous'
+		,
+		3
+		'Eye sessile'
+		'Eye stalked'
+		,
+		4
+		'More than four cone cells, more than eight retinular cells'
+		'Four crystalline cone cells, eight retinular cells'
+		,
+		5
+		'Corneagenous cells not primary pigment cells'
+		'Corneagenous cells are two primary pigment cells'
+		,
+		6
+		'No chiasmata (ScutigeraStrausfeld in Klass and Kristensen 2001)'
+		'Chiasma between lamina ganglionaris and medulla'
+		'Two chaismata, between lamina ganglionaris and medulla / between medulla and lobula'
+		,
+		7
+		'Present (median eyes, including naupliar eyes)'
+		'Absent'
+		,
+		8
+		'Absent'
+		'Present'
+		,
+		9
+		'Multisegmented'
+		'Reduced to a few segments'
+		'Unjointed'
+		'Antenna absent'
+		,
+		10
+		'Antennal articles individually musculated'
+		'Annulated antenna lacking independently musculated articles'
+		,
+		11
+		'Absent'
+		'Present'
+		,
+		12
+		'Without papillae'
+		'Hidden by well developed papillae'
+		,
+		13
+		'Present (Bellonci''s organ possibly homologousKlass and Kristensen 2001)'
+		'Absent'
+		,
+		14
+		'Pair connected to aorta'
+		'Pair separate from aorta'
+		'Absent'
+		,
+		15
+		'Absent'
+		'Present'
+		,
+		16
+		'Absent'
+		'Pulsatile organ with fronto-pharyngeal compressor'
+		'Pulsatile organ with ampullo-pharyngeal, ampullo-ampullary and ampullo-aortic dilators'
+		,
+		17
+		'Hypognathous'
+		'Prognathous'
+		'Mouth directed backwards'
+		,
+		18
+		'Absent'
+		'Present'
+		'Absent on antennae'
+		,
+		19
+		'Inverted, Y-shaped line'
+		'Reduced to coronal suture'
+		'Weak to absent'
+		,
+		20
+		'Absent'
+		'Present'
+		,
+		21
+		'Mouthparts not retracted into pocket in head-capsule'
+		'Hypertrophy of pleural folds, maxillae and mandibles in separate gnathal pouches'
+		'Pleural folds almost fused ventrally, maxillae and mandibles in single gnathal pouch'
+		,
+		22
+		'Absent'
+		'Present'
+		,
+		23
+		'Absent'
+		'Present'
+		,
+		24
+		'Second maxillae separate'
+		'Fused'
+		'Basally obliterated'
+		,
+		25
+		'Absent'
+		'Present'
+		'Interlocking with galea (Koch 1997, Kristensen 1998)'
+		,
+		26
+		'Basic condylus and ligament connecting base of mandibles with lateral wall of head capsule'
+		'Basic condylus and mandibular ligament reduced'
+		,
+		27
+		'Monocondylic'
+		'Dicondylic'
+		'Ball-and socket articulation between clypeal condyle and mandibular ridges'
+		,
+		28
+		'Broad'
+		'Stylettiform'
+		,
+		29
+		'Lateral'
+		'Terminal, forming shovel-like pars incisivus (Koch 2001)'
+		,
+		30
+		'Absent'
+		'Present'
+		,
+		31
+		'Absent'
+		'Present (lacinia mobilis not homologousRichter et al. 2002)'
+		,
+		32
+		'Transient expression at least'
+		'No expression at any stage'
+		,
+		33
+		'Smaller than thoracic leg (Crustaceamaxillary endopodal palp smaller than thoracic endopods)'
+		'Enlarged'
+		'Reduced or vestigial'
+		'Absent'
+		,
+		34
+		'Broad'
+		'Slender rod'
+		,
+		35
+		'Single lobe'
+		'Bilobed (Kristensen 1998, ch. 40)'
+		'Several lobate endites on second maxillary protopod'
+		,
+		36
+		'Narrow'
+		'Widened'
+		,
+		37
+		'3 segments'
+		'4 segments'
+		'Short, 1-segmented, or replaced by row of short setae'
+		'Setigerous plate'
+		'Absent'
+		'5 segments'
+		'Endopod of 6 segments and terminal spine'
+		'Endopodal palp with 2 segments'
+		,
+		38
+		'Not prehensile'
+		'Prehensile'
+		,
+		39
+		'Pair, at base of second maxillae'
+		'Unpaired, median'
+		,
+		40
+		'Midventral groove of labium'
+		'Salivarium'
+		,
+		41
+		'Absent (Diplura coded following Bitsch and Bitsch 2002)'
+		'Ectodermal invaginations (Folsom''s arms homologousBitsch and Bitsch, 2002)'
+		'Fulcro-tentorium'
+		,
+		42
+		'Separate rod-like apodemes'
+		'Anterior part of tentorial apodemes forms arched, hollow plates that approach each other mesially but remain separate'
+		'Anterior tentorium an unpaired roof'
+		,
+		43
+		'Absent'
+		'Present'
+		,
+		44
+		'Transverse sclerites absent'
+		'Transverse sclerites present'
+		,
+		45
+		'Absent'
+		'Present as metatentorium'
+		,
+		46
+		'Absent'
+		'Present'
+		,
+		47
+		'Present'
+		'Absent'
+		,
+		48
+		'Dorsal remotor forms cranial adductor'
+		'Dorsal promotor (anterior dorsal muscle) forms gnathal lobe flexor'
+		,
+		49
+		'On intergnathal connective lamina'
+		'On anterior tentorial arm (intergnathal connective lamina absent)'
+		,
+		50
+		'Absent'
+		'Present'
+		,
+		51
+		'Several bundles'
+		'One thin bundle or absent'
+		,
+		52
+		'Present'
+		'Absent'
+		,
+		53
+		'Present'
+		'Absent'
+		,
+		54
+		'Two hemispheres'
+		'Two dorsal lobes and two posterior lobes'
+		,
+		55
+		'Well-developed lobes, receiving antennary nerves'
+		'Small lobes, without antennary nerves'
+		,
+		56
+		'1 or 2 free commissures'
+		'Commissure in subesophageal ganglion'
+		,
+		57
+		'Small'
+		'Enlarged'
+		,
+		58
+		'Without entognathous position'
+		'With entognathous position'
+		,
+		59
+		'Present'
+		'Absent'
+		,
+		60
+		'1 or 2 pairs of complete nephridial organs'
+		'Pair of labial kidneys'
+		'Absent'
+		,
+		61
+		'Absent'
+		'Lateral'
+		'Continuous'
+		,
+		62
+		'Absent'
+		'Present'
+		,
+		63
+		'Absent'
+		'Present'
+		,
+		64
+		'Postcephalic segments 1-3'
+		'Postcephalic segments 2-16'
+		'Postcephalic segments 1-12'
+		'Postcephalic segments 5-8 (second to fifth pereiopods)'
+		,
+		65
+		'Absent'
+		'Present'
+		,
+		66
+		'Absent'
+		'Present'
+		,
+		67
+		'Developed'
+		'Reduced, without setae'
+		,
+		68
+		'Absent'
+		'Present (long tergites on pedigerous segments 1, 3, 5, 7, 8, 10, 12 and 14)'
+		,
+		69
+		'Present'
+		'Absent'
+		,
+		70
+		'Absent'
+		'Not slanting forward'
+		'Slanting forward'
+		,
+		71
+		'No'
+		'Yes'
+		,
+		72
+		'Absent'
+		'Present'
+		'Trochantin episternal sulcus'
+		'Absent in meso- and metathorax'
+		,
+		73
+		'Yes'
+		'No'
+		,
+		74
+		'Each segment includes a large sternum'
+		'Sternal area divided into 2 hemisternites'
+		'Mostly membranous, showing only a pair of small sclerites'
+		'Y-shaped ridge on sternal plates'
+		'Sternites extended rearward to form substernal laminae'
+		,
+		75
+		'Absent'
+		'Present'
+		,
+		76
+		'Absent'
+		'Present'
+		,
+		77
+		'Absent'
+		'Present'
+		,
+		78
+		'No'
+		'Yes'
+		,
+		79
+		'Membranous'
+		'Sclerotized'
+		,
+		80
+		'Absent'
+		'Present'
+		,
+		81
+		'Absent'
+		'Present'
+		,
+		82
+		'Absent'
+		'MA + MP'
+		'MA + R'
+		,
+		83
+		'Absent'
+		'Present'
+		,
+		84
+		'Small'
+		'Enlarged'
+		,
+		85
+		'No'
+		'Yes'
+		,
+		86
+		'7-segmented'
+		'6-segmented'
+		'Tibiotarsus'
+		,
+		87
+		'Ventral'
+		'None (arthrodial membrane)'
+		'Dicondylic'
+		'Pleural'
+		,
+		88
+		'Mobile'
+		'Immobile'
+		,
+		89
+		'Locomotory appendages'
+		'Maxillipede housing poison gland'
+		'Sensory'
+		'First maxillipede resembling (second) maxilla'
+		,
+		90
+		'Absent'
+		'Present'
+		,
+		91
+		'Absent'
+		'Present'
+		'Rotating pivot (Manton 1972Kristensen 1998, ch. 14)'
+		,
+		92
+		'Moncondylic'
+		'Dicondylic'
+		,
+		93
+		'Not subdivided'
+		'3-segmented'
+		'5-segmented'
+		'2-segmented'
+		,
+		94
+		'Absent'
+		'Present'
+		,
+		95
+		'Absent'
+		'Present'
+		,
+		96
+		'Much more than 2'
+		'Between 1 and 2'
+		,
+		97
+		'Retained as a small separate sclerite and attached claws'
+		'Separate sclerite reduced, transformed into planta and unguitractor plate'
+		,
+		98
+		'Two'
+		'One'
+		,
+		99
+		'Absent'
+		'Present'
+		,
+		100
+		'Absent'
+		'Present'
+		,
+		101
+		'Without trochanteral femur-twisting muscles'
+		'With such muscles'
+		,
+		102
+		'Absent'
+		'Present'
+		,
+		103
+		'Pair of lateral connective plates'
+		'Pair of sternocoxal rods'
+		'Complex connective endoskeleton'
+		'With cuticular spinae on connective endoskeleton'
+		'Endoskeleton mainly cuticular'
+		,
+		104
+		'Present'
+		'Absent'
+		,
+		105
+		'Not strongly developed in meso-&metathorax'
+		'Strongly developed'
+		,
+		106
+		'Present'
+		'Absent'
+		,
+		107
+		'Developed'
+		'Reduced'
+		,
+		108
+		'Present'
+		'Weak'
+		,
+		109
+		'No'
+		'Yes'
+		,
+		110
+		'6 or 7 pairs of trunk spiracles on segments with long tergites (post-maxillipede segments 3, 5, 8, 10, 12 and 14)'
+		'One pair, on side of head'
+		'3 pairs, on thorax only'
+		'Up to 4 pairs on thorax and 7 pairs on abdomen'
+		'2 pairs of thoracic spiracles'
+		,
+		111
+		'Absent'
+		'Present'
+		,
+		112
+		'Absent'
+		'Present'
+		,
+		113
+		'Abdomen of 11 segments + telson (=12)'
+		'11 segments'
+		'10 segments'
+		'Six segments'
+		,
+		114
+		'Absent'
+		'Present'
+		,
+		115
+		'Cylindrical, elongate (optical section circular), longer than wide'
+		'Not prominent (optical section oval), wider than long'
+		,
+		116
+		'Absent'
+		'Present'
+		,
+		117
+		'Absent'
+		'Present'
+		,
+		118
+		'Absent'
+		'Present'
+		,
+		119
+		'Absent'
+		'Present, lateral'
+		,
+		120
+		'Absent'
+		'Present'
+		,
+		121
+		'Coxal vesicles on more than 5 abdominal segments'
+		'One pair of coxal vesicles on < 5 abdominal segments'
+		'Vesicles at distal part of first abdominal appendage (leglet or collophore) (Klass and Kristensen 2001)'
+		'Absent'
+		,
+		122
+		'Simple'
+		'Bilobate'
+		,
+		123
+		'Proximal to coxae'
+		'Reduced, styli'
+		'Absent'
+		,
+		124
+		'Large'
+		'Reduced'
+		,
+		125
+		'Small'
+		'Large'
+		,
+		126
+		'Near back of body, on segment XVII'
+		'On sternite of trunk segment IV'
+		'On abdominal segment XI'
+		'On abdominal segment V'
+		'Between abdominal segments VIII and IX'
+		'Abdominal segment VIII (female), X (male)'
+		'On sixth pereion segment (=abdominal segment III of Hexapoda)'
+		'On twelfth pereion segment (=abdominal segment IX of Hexapoda)'
+		'On sixth pereion segment in female, eighth pereion segment in male'
+		,
+		127
+		'Absent'
+		'Present'
+		,
+		128
+		'Subequal, not overlapping'
+		'Ventral paired valves overlapping dorsal unpaired valve'
+		,
+		129
+		'Absent'
+		'Present'
+		,
+		130
+		'Absent'
+		'Present'
+		,
+		131
+		'Absent'
+		'Present'
+		,
+		132
+		'Absent'
+		'Present'
+		,
+		133
+		'Absent'
+		'Present, long'
+		'Short'
+		,
+		134
+		'Without sensory cones'
+		'With sensory cones'
+		,
+		135
+		'Absent'
+		'Present'
+		'Vestigial'
+		'Third valvulae forming sheath'
+		,
+		136
+		'Absent'
+		'Present'
+		,
+		137
+		'Absent'
+		'Present'
+		,
+		138
+		'Pair of gonopods on trunk segment XVII'
+		'Gonocoxites'
+		'Absent'
+		,
+		139
+		'Fused into single segment borne by segment XI'
+		'Two pairs on segments VIII and IX or only on IX'
+		'Fused into subgenital plate'
+		,
+		140
+		'Expressed'
+		'Suppressed'
+		,
+		141
+		'Not claspers'
+		'Claspers'
+		,
+		142
+		'Absent'
+		'Pair of lateral plates on segment IX'
+		'Sclerites included in phallic complex'
+		,
+		143
+		'Absent'
+		'Paired penes on segment XI'
+		'Paired penes on segment IX'
+		'Median penis'
+		,
+		144
+		'Absent'
+		'Present'
+		,
+		145
+		'Dorsal vessel elongated, with 7-15 pairs of ostia'
+		'Dorsal vessel with 3-6 pairs of ostia'
+		'Short heart in posterior part of cephalothorax, with few pairs of ostia'
+		,
+		146
+		'Absent'
+		'Present'
+		,
+		147
+		'Rear end open, bidirectional flow'
+		'Rear end closed'
+		,
+		148
+		'Supraneural'
+		'Subneural'
+		'Absent'
+		,
+		149
+		'Extracellular'
+		'Intracellular (HomarusBarker and Gibson 1977)'
+		,
+		150
+		'Absent'
+		'Differentiated, posterior in esophagus'
+		,
+		151
+		'Absent'
+		'Present'
+		,
+		152
+		'Absent'
+		'Present'
+		,
+		153
+		'Absent'
+		'Present'
+		,
+		154
+		'Present'
+		'Absent'
+		,
+		155
+		'Short, simple sphincter or valvula'
+		'Sphincter followed by pyloric chamber'
+		'Short, with ring of flattened cells'
+		,
+		156
+		'Devoid of large posterior dilation'
+		'Having rectal ampulla with differentiated papillae'
+		,
+		157
+		'Elongate tubules'
+		'Short papillae'
+		'Absent'
+		,
+		158
+		'Long chain'
+		'3 pairs thoracic ganglia, 4-6 pairs abdominal'
+		'Several ganglia fused together'
+		'All abdominal ganglia fused with metathoracic'
+		,
+		159
+		'Absent'
+		'Present, anchoring cuticle'
+		,
+		160
+		'Tracheae not interconnected'
+		'Tracheae with transverse and longitudinal connections'
+		'Absent'
+		,
+		161
+		'Elongated sacs'
+		'Ovarioles'
+		,
+		162
+		'Pectinate'
+		'Grouped, inserted into lateral oviduct'
+		,
+		163
+		'In ovarian wall'
+		'In apical part of each egg tube'
+		,
+		164
+		'Follicles connected with ovarian epithelium'
+		'Panoistic'
+		'Meroistic-polytrophic'
+		,
+		165
+		'Dorsal'
+		'Lateral at base of ovipositor'
+		'Seminal receptacle on each side of head'
+		'Absent'
+		,
+		166
+		'Elongate sacs, sometimes fused'
+		'Several follicles'
+		,
+		167
+		'Pectinate'
+		'Grouped'
+		,
+		168
+		'Ventral or laterodorsal'
+		'Apical'
+		,
+		169
+		'Elongate, flagellate, motile'
+		'Encysted, motile at fecundation'
+		'Immotile, aflagellate'
+		,
+		170
+		'Absent'
+		'Present'
+		,
+		171
+		'Absent'
+		'Present'
+		,
+		172
+		'13'
+		'16'
+		,
+		173
+		'Present'
+		'Absent'
+		,
+		174
+		'Absent'
+		'Present'
+		,
+		175
+		'Present'
+		'Absent'
+		'Crystalline accessory bodies developed from the centriole'
+		,
+		176
+		'Absent'
+		'Present'
+		,
+		177
+		'Absent'
+		'Spermatozoa paired'
+		,
+		178
+		'Total and equal'
+		'Early total cleavage followed by superficial'
+		'Superficial cleavage'
+		,
+		179
+		'Definitive dorsal closure (dorsal covering of embryo participates in the definitive dorsal closure)'
+		'Provisional dorsal closure (embryonic dorsal covering degenerates without participating in definitve closure, which is exclusively derived from the embryo)'
+		,
+		180
+		'Absent'
+		'Present, open'
+		'Present, closed (amnioserosal fold fuses beneath the embryo)'
+		,
+		181
+		'Absent'
+		'Present'
+		,
+		182
+		'Absent'
+		'Present'
+		,
+		183
+		'Anamorphosis'
+		'Epimorphosis'
+		,
+		184
+		'Present'
+		'Absent'
+		,
+		185
+		'Normal, feeding'
+		'Shortened, nonfeeding'
+		,
+		186
+		'Terrestrial'
+		'Aquatic'
+		,
+		187
+		'Absent'
+		'Present'
+		,
+		188
+		'Absent'
+		'Present'
+		,
+		189
+		'Indirect, via stalked spermatophore'
+		'Indirect, via droplets'
+		'Indirect, via spermatophore in web'
+		'Indirect, via spermatolophids'
+		'Indirect, claspers'
+		'Copulation'
+		
+	;
+	MATRIX
+	'Hutchinsoniella'		          2-----1-000-????202000000??0000?0-2060--0---0010-?-?-00????0000----0?0-0-0-0---------?1-000??-----?-00???---0----0-0000-3-20061-0-100-0-02---000?????00-10??2?020-1??0-?20----100????-0?0-00?
+	'Artemia'		                  001100012-0-?2-020--00000??0-0002----0--0---0010-?-?-0000010000----0?0-0-?-0---------?1-000??-----?-00???---0----0-0000-3-2?071-0-100-0-02---0000012?00-100020020-0??0-?20----1000?00-000-005
+	'Homarus'		                  00110201010-?0-020??00000??000000-2070--0---0010-?-?-00000100003---0?0-0-0-0---------??-300??-----?-00???---0----0-0000-3-20081-0-000-0-02---00020?11?1?10002?020-0??0-?20----1000?00-000-00?
+	'Scutigerina'		              0000001-010-00-0102100000000000?0--0500-100100010000000000100001---1?0-000-0---------00-10003---010000000---0000-0-000003-20000-0-000-0-10---0000010000-000000000-0000-0010-000002?01-0000001
+	'Lithobius'		                10000?1-000-00-010210000000000000--0100-100100010000000000000001---1?0-000-0---------00-10003---010000000---0000-0-000003-20000-0-000-0-10---0000010000-000000000-0000-0010-000002001-0000002
+	'Scutigerella'		             2-----1-000-00-0100000011000001?3-0-40--100100010000000000000002---0?0-002-0---------00-00000---000000100---0100-0-000000-00010-0-010-0-02---0000??00???00??00000-0020-?000-00000000000000000
+	'Hanseniella'		              2-----1-000-00-0100000011000001?3-0-40--100100010000000000000002---0?0-002-0---------00-00000---000000100---0100-0-000000-00010-0-010-0-02---0000??00???00??00000-0020-?000-00000000000000000
+	'Acerentulus'		              2-----1-3---0---102021021001-00?0100201020?0000000000111111200000000?0-00300---------12-20100000010000200---0---00-000002010020?0-000-0-010--1100012100-011012020-1130-1100-10000?????000000?
+	'Neocondeellum'		            2-----1-3---0---102021021001-00?0100201020?0000000000111111200000000?0-00300---------12-20100000010000200---0---00-000002010020?0-000-0-010--1100012100-011012020-1130-1??????????????000000?
+	'Baculentulus'		             2-----1-3---0---102021021001-00?0100201020?0000000000111111200000000?0-00300---------12-20100000010000200---0---00-000002010020?0-000-0-010--1100012100-011012020-1130-1??????????????000000?
+	'Xenylla'		                  10011000100002--100021021000000?200-4010?00?000000100000110000000000?0-10100---------21-00100111010000200---0---31110000202003010-000-0-02---0001012000-002023120-0230-0100-00110010001000000
+	'Onychiurus'		               10011000100102--100021021000000?200-4010?00?000000100000110000000000?0-10100---------21-00100111010000200---0---31110000202003000-000-0-02---0001012000-002023120-0230-0100-00110010001000000
+	'Tetrodontophora'		          10011000100102--1000210210000001200-4010?00?000000100000110000000000?0-10100---------21-001001?1010000200---0---31111000202003000-000-0-02---0001012000-002023120-0230-0100-00110010001000000
+	'Neanura'		                  10011000100002--100021021001-00?200-4010?00?000000100000110000000000?0-10100---------21-00100111010000200---0---31111000212003010-000-0-02---0001012000-?02023120-0230-0100-00110010001000000
+	'Morulina'		                 10011000100002--100021021001-00?200-4010?00?000000100000110000000000?0-10100---------21-001001?1010000200---0---31110000212003010-000-0-02---0001012000-?02023120-0230-0100-00110010001000000
+	'Orchesella'		               10011000100002--100021021000000?200-40101000000000100000110000000010?0-10100---------21-00100000010000200---0---31010100202003000-000-0-02---0001012000-00202?120-0230-0100-00110010001000000
+	'Folsomia'		                 10011000100002--100021021000000?200-40101000000000100000110000000010?0-10100---------21-00100000010000200---0---31010100202003000-000-0-02---0001012000-002023120-0230-0?????????010001000000
+	'Tomocerus'		                10011000100002--1100210210000001200-40101000000000100000110000000010?0-10100---------21-00100000010000200---0---31010100202003000-000-0-02---0001012000-002023120-0230-0?????????010001000000
+	'Sminthurinus'		             1001100010000?--00?021021000000?200-4010?00?000000100000110?00000010?0-10100---------21-00100000010000200---0---31010000202003000-000-0-02---0001012000-0?2?23?20-0230-1100-00110010001000000
+	'Campodeidae'		              2-----1-000-10-0100010112100101?200030100---000000000000000000000000?0-10300---------10-00200---000010200---020020-000000-10040-10000-0-02---0000002000-000110000-1230-1??????????????1000000
+	'Campodea'		                 2-----1-000-10-0100010112100101?200030100---000000000000000000000000?0-10300---------10-00200---000010200---020020-000000-10040-10000-0-02---0000002000-000110000-1230-1001000110210011000000
+	'Lepidocampa'		              2-----1-000-10-0100010112100101?200030100---000000000000000000000000?0-10300---------10-00200---000010200---020020-000000-10040-10000-0-02---0000002000-000110000-1230-1?????????210011000000
+	'Catajapyx'		                2-----1-000-10-0101010112100100?200020100---000000000001000000000000?0-10300---------10-00200---000010300---030020-000000-10040-11000-0-011--0000002000-0?0?2001101130-10010001102??01100000?
+	'Metajapyx'		                2-----1-000-10-0101010112100100?200020100---000000000001000000000000?0-10300---------10-00200---000010300---030020-000000-10040-11000-0-011--0000002000-0?0?2001101130-10010001102??01100000?
+	'Heterojapyx'		              2-----1-000-10-0101010112100100?200020100---000000000001000000000000?0-10300---------10-00200---000010300---030020-000000-10040-11000-0-011--0000002000-0?0?2001101130-1??????????????100000?
+	'Parajapyx'		                2-----1-000-10-0101010112100100?200020100---000000000001000000000000?0-10300---------10-00200---000010300---030020-000000-10040-11000-0-011--0000002000-0?0?2001101130-1??????????????100000?
+	'Dilta'		                    01011000011-1100012000011000010?10100011111010000000000000001000000000-30000---------13000111---100000201---040010-000000-10050-10001010011002300002000-1001000010111101001100210111001000011
+	'Petrobius'		                01011000011-1100012000011000010?10100011111010000000000000001000000000-30000---------13000111---100000201---040010-000000-10050-10001010011002300002000-1001000010111101001100210111001000011
+	'Machiloides'		              010???00011-1???022000011000010?10100011111010000000000000?01000000000-30000---------13000111---100000201---040010-000000-11050-10001010011000300002000-1001000010111101??????????????1000010
+	'Allomachilis'		             010???00011-1???022000011000010?10100011111010000000000000?01000000000-30000---------13000111---100000201---040010-000000-11050-10001010011000300002000-1001000010111101??????????????1000010
+	'Tricholepidion'		           000??100011-1???000100010010000?0001101112101010000010000??120000000?0-?0000---------13000112---100000200---041010-000000-10050-10001111011002300002010-??01000111113111001100211?????1000002
+	'Lepisma'		                  0001111-011-1100010100010010000100011011121010101100100000012000000000-10400---------13000111---100000200---041010-000001-11050-1000101101100230000201101001000111113111001100211212001000002
+	'Thermobia'		                0001111-011-1100010100010010000100011011121010101100100000012000000000-10400---------13000111---100000200---041010-000001-11050-100010110110023000020110?001000111113111001100211212001000002
+	'Texoreddellia'		            2-----1-011-1???010100010010000?00011011121010101100100000?12000000000-10000---------13000111---100000200---041010-000000-11050-10001111011002300002010-?0010001111131110?????????????1000003
+	'Squamigera'		               2-----1-011-1???010100010010000?00011011121010101100100000?12000000000-10000---------13000111---100000200---041010-000000-11050-10001111011002300002010-?0010001111131110?????????????1000003
+	'Callibaetis'		              000?1200011-12--000100011010001?0000001112101110110100000012200000001100000100001100013101112---100101400000040020-000103-20051-1000100-01201220000201101001010111110111001010200212001011005
+	'Choroterpes'		              000?1200011-12--000100011010001?0000001112101110110100000012200000001100000100001100013101112---100101400000040020-000103-20051-1000100-01201220000201101001010111110111001010200212001011005
+	'Anax'		                     00011200011-111000010001002000??0000011112101110111110000012201000001110000100001100013100111---100001400100041120-000013-20050-1000201101200231001201101001010111110111001100210212001101004
+	'Libellula'		                00011200011-111000010001002000??0000011112101110111110000012201000001110000100001100013100111---100001400100041120-000013-20050-1000201101200231001201101001010111110111001100210212001101004
+	'Forficula'		                000???1-011-1101100100010020000?000000111210111011111000001221001000?202101111100211113100111---101001410111141120-000003-20150-11000-2-0121-200001201101001010111110111001101210212001100105
+	'Labidura'		                 000???1-011-1101100100010020000?000000111210111011111000001221001000?202101111100211113100111---101001410111141120-000003-20150-11000-2-0121-200001201101001010111110111001101210212001100105
+	'Locusta'		                  00011200011-110200010001002000010000001112101110111110000012210001000101100110110111113100112---100001410100041110-000003-20050-10000-3101200230011201111001010111110111001100210212001100005
+    ;
+    ENDBLOCK;
+
+          BEGIN ASSUMPTIONS;
+      TYPESET * UNTITLED = unord: 1 - 189;
+      ENDBLOCK;
+      BEGIN MACCLADE;
+Version 4.0 84 ; LastModified -1117197031 ; FileSettings editor 0 0 1 1 ; Singles 100 ; Editor 0001100111111110010001001 0 24 Geneva 9 100 1 all ; EditorPosition 44 6 947 1227 ; TreeWindowPosition 46 6 955 1230 ; ListWindow Characters closed Geneva 9 50 10 273 847 000 ; ListWindow Taxa closed Geneva 9 50 10 276 490 100000 ; ListWindow Trees closed Geneva 9 50 10 276 490 ; ListWindow TypeSets closed Geneva 9 50 10 276 490 ; ListWindow WtSets closed Geneva 9 50 10 276 490 ; ListWindow ExSets closed Geneva 9 50 10 276 490 ; ListWindow CharSets closed Geneva 9 50 10 276 490 ; ListWindow TaxSets closed Geneva 9 50 10 276 490 ; ListWindow CharPartitions closed Geneva 9 50 10 276 490 ; ListWindow CharPartNames closed Geneva 9 50 10 276 490 ; ListWindow WtSets closed Geneva 9 50 10 276 490 ; ChartWindowPosition 52 30 942 1220 ; StateNamesSymbols closed Geneva 9 10 50 30 148 220 ; WindowOrder Data ; OtherSymbols &/ 00 ?- ; Correlation 0 0 1000 0 0 10011010 ; Salmo 00000001 ; EditorFile 2 ; ExportHTML _ MOSS 100 110000 ; PrettyPrint 10 ; EditorToolsPosition 833 46 115 165 ; TreeWindowProgram 10 ; TreeWindow 0000 ; Continuous 0 3 1 ; Calculations 0000001 ; SummaryMode 0 0 0 ; Charts Geneva 9 (normal) 0010 ; NexusOptions 0 0 50 001011001 ; TipLabel 1 ; TreeFont Geneva 9 (normal) ; TreeShape 1.0 1.0 0100 ; TraceLabels 0101 ; ChartColors 0 0 65535 9 0 1 ; ChartBiggestSpot 1 ; ChartPercent 10 ; ChartBarWidth 10 1 ; ChartVerticalAxis 10101 ; ChartMinMax 0 ; TraceAllChangesDisplay 1 1 ; BarsOnBranchesDisplay 0 0 60000 10000 10000 10000 10000 60000 65000 65000 65000 6 1 0000101 ; ContinuousBranchLabels 0 ; AllStatesBranchLabels 1 ; IndexNotation 2 1 ; PrintTree 10.00 2 2 2 2 2 2 2 2 2 2 2 Geneva 9 (normal) Geneva 10 (normal) Geneva 9 (normal) Geneva 9 (normal) Geneva 9 (bold ) Geneva 9 (normal) Geneva 9 (normal) 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 1 1 0 0 -39 4 -40 0 1 2 1 8 0 0 0 2 1000111000000000000100000111000 ; MatchChar 00 . ; EntryInterpretation 01 ; ColorOptions 00 ; TreeTools 0 5 4 0 10 4 0 00100111111101110 ; EditorTools 0 0 0 1000 0 0 6 3 0 100000101110001 ; PairAlign 2 2 3 2 1 1 2 1 3 1010 ; BothTools 1 ;
+ENDBLOCK;

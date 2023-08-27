@@ -1,0 +1,122 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 13.34.14'
+77 27
+
+&[num]
+Sargocentron_vexillarium          00000?00000000000000000000010000000000010000001000000001101000000000010?00000
+Beryx_decadactylus                00000??00000000001??000?00001000000000?000000010?00?000?001000010??0?00??0000
+Polymixia_berndti                 00000?00000000000000000?00000001000000?00000000000000001000000000000100?00000
+Lateolabrax_japonicus             01011000111101100100100111100000011110111110011011000001101111101000011001201
+Mioplosus_labricoides             1?111?0011?????0??0?1?0?1110100?0011?0?01??00010?1??00011011111020?0?1???0001
+Priscacara_serrata                1?011?1?100?00?00?0?10??0111010?0010101011100000??0?00011001111010100110112??
+Priscacara_liops                  1?011?1?100????0????10??0111010?001?101001100000??0?00011001111010100110112??
+Roccus_saxatilis                  11011011100100100100100001110101011110100110000000000001100111101010011011211
+Roccus_chrysops                   11011001100100100100100001110101011110100110000000000001100111101010011011211
+Morone_americana                  11011011100100100100100001110101011100100000000000000001100111101010011011211
+Morone_mississippiensis           11011011100100100100100001110101011100100000000000000001100111101010011011211
+Dicentrarchus_labrax              01011001100100100100100001100101011000101110000000000001100101101010010?11211
+Lates_mariae                      01111100111100101101111111100000000110111111101101000101101111101000011100011
+Lates_calcarifer                  011111001111001011??111111100000001?1111111110110100010110112110100001??000?1
+Siniperica                        01100?00110001101101110111100000000????11111101100010011100011101010111010000
+Centropomus_parallelus            11001000100000000100000000000000000001100110002000000001100101101000101100001
+Centropomus_undecimalis           11001000100000000100000000000000000001100110002000000001100101101000101100001
+Mycteroperca_tigris               110010000000001010100000111110101?2001002111002000001011100210001001100?00100
+Serranus_subligarius              110110000000011010000000011111101?2011000110001000001011100110001000101000100
+Macquaria_australasica            11001010000000101000000010011000010010000001001011110001100111111001010?00000
+Percichthys_trucha                01000?10000000101000001?10001000010010000000001001110001101111111001100?00000
+Lepomis_macrochirus               0101101100001111??10000000011100000010002111100011110001101110011010100?00000
+Micropterus_dolomieu              0100100000000111??10000001011000000010002111100011110001100110011010100?00000
+Perca_flavescens                  11000?1010000111??00000011011100010010000000111011001001111210002111011001200
+Stizostedion_vitreum              21000?0000000111??00100111011110010011001000111011001001111210012111111001201
+Pseudaphritis_urvillii            11010?000???0111??10000??10111001?0000000000?10110001?010212?001211111???1200
+Niphon                            ??1?0?0?010?0011???00?00??0?????00?01001?????1???00?1001110?100?10??1010?1200
+
+;
+
+
+cnames
+{ 0 Vomer,_shape_of_tooth_patch Trapezoidal_to_ovate Narrow,_v-shaped_tooth_patch Vomerine_teeth_reduced_to_a_few_large_teeth;
+{ 1 Orbitosphenoid Present Absent;
+{ 2 Pterotic,_enclosure_of_lateral_line_canal absent_or_incomplete complete;
+{ 3 Frontals,_midline_suture joined_along_entire_midline separated_by_supraoccipital_crest;
+{ 4 Frontoparietal_crests absent present;
+{ 5 Frontoparietal_crests,_sensory_pore_on_dorsal_margin absent present;
+{ 6 Supraoccipital_crest,_shape long_and_low height_and_length_roughly_equal;
+{ 7 Supraoccipital_crest,_horizontal_shelf_projecting_laterally_at_mid-height present absent;
+{ 8 Supraoccipital_crest,_shape_of_dorsal_margin blade-like significantly_expanded_laterally;
+{ 9 Sphenotic,_horizontal_shelf absent present;
+{ 10 Mesethmoid,_anterolaterally_facing_projection absent present;
+{ 11 Lateral_ethmoid-lacrimal_articulation,_orientation entirely_or_primarily_in_the_horizontal_plane primarily_in_the_vertical_plane;
+{ 12 Lacrimal,_shape rectangular square;
+{ 13 Lacrimal,_serration_on_ventral_margin present absent;
+{ 14 Non-lacrimal_suborbital_bones,_ventral_margins serrate smooth;
+{ 15 Subocular_shelf_present_on_third_infraorbital present absent;
+{ 16 Subocular_shelf,_shape quadrangular ovate;
+{ 17 Subocular_shelf,_anterior_extension present absent;
+{ 18 Post-temporal,_ornamentation_of_posterior_margin Denticulate Smooth;
+{ 19 Post-temporal,_depression_on_medial_face Absent Present,_connection_site_of_post-temporal_with_tunica_externa;
+{ 20 Epiotic,_strong_posterior_projection Absent Present;
+{ 21 Symplectic,_shape straight_or_slightly_tapered with_sharp_anterior_bend;
+{ 22 Metapterygoid_lamina Broad_and_well-developed reduced_to_a_notch_and_a_ridge;
+{ 23 Exoccipital,_articular_facet_shape Ovate Bean-shaped;
+{ 24 Ethmovomerine_region,_number_of_facets_for_articulation_with_palatine one two;
+{ 25 Premaxilla,_articular_and_ascending_processes indistinct separate_along_entire_margine;
+{ 26 Premaxilla,_lateral_ridge_running_dorsoventrally_on_articular_process absent present;
+{ 27 Premaxilla,_shape_of_dorsal_crest flat_to_convex triangular;
+{ 28 Premaxilla,_maxillary_shelf_or_groove_on_external_surface present absent;
+{ 29 Supramaxillary_bones present absent;
+{ 30 Dentary_teeth_morphology villiform caniniform;
+{ 31 Basihyal_dentition absent present;
+{ 32 Ceratohyal_foramen present absent;
+{ 33 Ceratohyal_foramen_development complete incomplete,_partial_loss_of_upper_strut;
+{ 34 Opercular_spine_count 0/1 2 3;
+{ 35 Urohyal,_posterior_margin concave_or_flat convex;
+{ 36 Shape_of_articular_process_of_urohyal strut-like,_cylindrical flattened_laterally_into_a_blade-like_structure;
+{ 37 Morphology_of_ventral_surface_of_urohyal v-shaped_channel_or_incomplete_tube flate_and_perpendicular_to_the_dorsoventral_axis,_or_convex;
+{ 38 Spine_of_urohyal_shape fused_to_form_single_spine spine_bifurcate;
+{ 39 Preoperculum,_noteworthy_spine_on_posterior_margin_of_corner absent present;
+{ 40 Preopercule,_ornamentation_of_the_ventral_border_of_the_horizontal_limb serrate large,_triangular_spines smooth;
+{ 41 Interopercle,_ornamentation_of_margin serrate smooth;
+{ 42 Subopercle,_ornamentation_of_margin serrate smooth;
+{ 43 Preopercle,_enclosure_of_sensory_canal_on_ascending_limb contained_in_open_"gutter" partially_enclosed;
+{ 44 Preopercle,_enclosure_of_sensory_canal_on_horizontal_limb contained_in_open_channel partially_enclosed;
+{ 45 Precaudal_vertebrae,_number 10-12 14_or_more;
+{ 46 Second_neural_spine,_expansion does_not_contact_first_neural_spine partial_articulation_between_first_and_second_neural_spines second_spine_contacts_first_along_entire_border;
+{ 47 Fourth_neural_spine,_articulation_with_dorsal_pterygiophores without_specialized_groove with_groove_for_insertion_of_third_dorsal_pterygiophore;
+{ 48 Posterior_abdominal_haemal_arches bridged_ventrally open;
+{ 49 First_haemal_spine,_configuration first_haemal_spine_fused_to_parapophyses partial_fusion_only;
+{ 50 First_haemal_spine,_transverse_expansion absent,_transverse_processes_directed_ventrally_or_ventromedially present,_transverse_processes_directed_ventrolaterally,_forming_a_wing-shaped_projection;
+{ 51 First_haemal_spine,_anterior_face flat_or_slightly_folded_anteriorly forming_a_sharp,_anteromedially-directed_groove;
+{ 52 Uroneural_pair,_number two one;
+{ 53 Epural_count three two;
+{ 54 Hypurals,_fusion absent present_between_hypurals_three_and_four;
+{ 55 Hypurapophysis absent present;
+{ 56 Length_of_spinous_dorsal_fin shorter_than_soft-rayed_dorsal_fin longer_than_or_subequal_in_length_to_soft-rayed_dorsal_fin;
+{ 57 Supraneural_bones,_number three two one;
+{ 58 Supernumerary_dorsal_fin_spines present,_two_or_more_spines_attach_to_first_pterygiophore absent,_one_spine_in_serial_correspondence_only;
+{ 59 Caudal_fin_ray_count 17_or_more 15 State_2;
+{ 60 Caudal_fin_shape deeply_forked shallowly_forked straight_to_slightly_convex;
+{ 61 Caudal_fin,_spur_on_posteriormost_procurrent_ray absent present;
+{ 62 Ray_preceeding_spur_shortened ray_not_shortened ray_shortened;
+{ 63 Anal_pterygiophores,_number_anterior_to_first_haemal_spine one two three_or_more;
+{ 64 Anal_fin_spine_count four three two;
+{ 65 First_anal_pterygiophore,_associated_anal_spines two one;
+{ 66 Proximal_radial_of_the_first_anal_fin_pterygiophore,_anteromedial_ridge wide narrow;
+{ 67 Radial_attachment_to_scapulocoracoid radials_i-iii_insert_on_scapula,_iv_in_the_interspace_between_scapula_and_coracoid i-ii_insert_on_scapula,_iii_inserts_in_interspace,_iv_inserts_on_coracoid;
+{ 68 Cleithrum,_ornamentation_on_posterior_margin denticulate smooth;
+{ 69 Cleithrum,_ventral_expansion_on_posterior_plate absent present;
+{ 70 Pelvic_bones,_post-pelvic_process absent present;
+{ 71 Pelvic_bones,_shape_of_post-pelvic_process spearhead_or_knob-shaped short,_massive_expansion;
+{ 72 Pelvic_bones,_accessory_sub-pelvic_keel present absent;
+{ 73 Pattern_of_posterior_scalelet_distribution imbricate,_cycloid,_or_pseudoctenoid ordered,_columnar_distribution;
+{ 74 Scales,_resorption_of_old_ctenii absent_to_slight strong complete;
+{ 75 Lateral_line,_auxiliary_row_of_lateral_line_scales_above/below_the_main_row absent present;
+{ 76 Lateral_line,_expansion_onto_posterior_margin_of_caudal_fin absent_or_nearly_so significant_(>1/3_of_caudal_fin_depth);
+;
+
+
+ccode  - 0.76;
+
+
+;

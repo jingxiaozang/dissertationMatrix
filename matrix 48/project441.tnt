@@ -1,0 +1,310 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 13.39.51'
+231 61
+
+&[num]
+Deinopis                          0000000000-000000000000000000-00-00000000000000-00000000000000000-0000000-------000-0000000-0-000000000000000000-0000----000000000000000000000-0--------000-00--00000000000---------000000000000?00000?0000000---0000000--0000--00000-0
+Uloborus                          00010000000200100001000000000-00-00000000000001?10000000100110000-0001000-------000-1000000-0-000010000011110000-000000-0000010000000011000100-0--------000-010000000000000---------10000000000001000000010001-001010000-00100-?00010-0
+Araneus                           00000000000110001101000000111001010000000000000-0000000011011000101-11000-------10140000000-0-110011001-1?1100?1010100010001012001110012000110-10000000-100-010000000000000---------2100110011001111101000000000000?0000-000000000000-0
+Araniella                         10000000011110001101000000111000-10000000?00000-0000000010001000100010100-------10120100000-0-110011001-1?21000??10100010001012001010012000110-10000000-10??010000000100010---------110011001000111010?0000?????????000????00??000??0-0
+Cyclosa                           00000000011110001101000000111000-10000000100000-0000000010001110100011000-------10121000000-0-110011001-111100?1010100010001012001110011000110-10000000-10??010000000110010---------100011001100111110100100000000010000-00001-000000-1
+Perilla                           000000000111100011010000?0111000-10000000100000-0000001-00001010?01-10000-------10140100000-0-010010000-11110000-1011???0001012000110002000101010000000-10???10000000000000---------20001??011001111101?00000?00????0??????1????0???21?
+Singafrotypa                      11000000001110001101000000001000-10000000100000-0000000000001010101-10100-------00140100000-0-010011001-1??????1?10100110001100001110012000110-10000000-10??110000000000000---------21001100110011111???????????????????????????0??????
+Argiope_aurantia                  00010000001101112201000031111000-10000000000000-00000000?0011100100010100-------10140100000-0-000011000112210011010100010101110000001001000110-10000000-100-010100000100000---------1100110011111000001001000000000??000-000100001?00-0
+Argiope_argentata                 00010000001101112201001031111000-10000000000000-0010000010111100100010100-------10140100001012000011001-12210001010100010111012000000001000110-10000000-100-110100000110000---------1100110011111100001001?0000000010000-?00100001100-0
+Acusilas                          00000000010200001101000000111000-10000000100000-0000000010001010100010100-------000-0100001010000011001-11110000-1010??10101100010001001000100-10000000-1010110000000000000---------0000110011011110001000001??01??10000-??0????1???210
+Caerostris                        11011000001111102101000000111010-00000010000000-0000000120010100100110110-------000-0101001112100011001-11110001010100010101100000000002000100-0--------101010--00000111000---------1000110010001000001001000??00??00000-?0001-010000-0
+Linyphia                          00000100010200101111100000000-00-0010-110000000-0001011-100010000-1-11000-------000-1000001010000010001-11200000-11011100001101000000001000110-11-31000-000-00--00001-----0---------100011000000110001--001----------------001-?00-10-0
+Pimoa                             00000100010200001111000100000-00-0011-110000000-0001011-100010000-1-11000-------000-0100000-0-000000001-11110000-11011100001100?00000001000110-10041000-0010010000000000000---------100000000000110001--001----------------001-?0?-10-0
+Steatoda                          00000000010200101111000100000-00-0101-11001---0-0000111-10001000101-11000-------000-1000000-0-000010001-11110000-11010101001100000200000000100-0--------000-011000010110000---------100011000000110002--001----------------0001?00-00-0
+Nesticus                          00000100010201101111100100000-00-0101-10001---0-0000111-100010000-1-01000-------000-1000000-0-000010000011110000-11110101001100010200001000110-10031100-0010011000011-----0---------100000000000110002--001----------------0001000-00-0
+Epeirotypus                       10000000010201101101000000000-00-0001-100000000-0000001-10001000101-11100-------010-1000000-0-000010000001110000-11110100001100000000000000100-10000000-001?010000000100000---------110000000000100000100000001010000000-11001-?00000-0
+Tetragnatha                       00000100010200100000010000000-00-0100001000000100000001-01001000101-11000-------1114101-00--------00--0?1-000100-1011010000010?110001101111100-12-11100-010-10--00000112000---------100011000000110000000000001010000000-11101-100000-0
+Glenognatha                       00000000010200100100000000000-00-0000001001---100000011-10001001101-11000-------110-101-00--------00--0??-11?100-10111100001101100200100011100-12-11000-010-00--00000112000---------100011000000100000000??0?1-0?00????---110??10???0-?
+Pachygnatha                       00000000010200100100010100000-00-0000001001---100000011-10001000101-11000-------110-101-00--------00--0??-000100-10011100001101100200100011100-12-11100-010-00--00000112000---------100011000000110000000??0?010???????????????10???0-?
+Azilia                            00000100010200100001000100101000-00000010000000-0000001-100010000-1-11000-------00100000000-0-000010000111211000-10100100000100000001101000100-10011000-001000--00000000000---------210011000000100000000000000010010000-?11000?01000-0
+Dolichognatha                     00000000011200010001000?00000-00-01000010000000-0000011-210100000-1-01000-------00141000000-0-0001100000?1100000-10110100000101010001000100101010011100-001000--00000000000---------210011010000010000000000000010000000-110000?00000-1
+Meta                              00000100010200001101100000111001001000010000000-0000001-10001000100011000-------00140000100-0-000110001-11200000-10110100001100000000000000101110011000-101000--00000110000---------210011110000000000100000001010000000-110000000000-0
+Metellina                         00000100010200101101000000001000-0001-010000000-0000011-10011000?01-11000-------00141000000-0-000010001-11200000-10110100001101000000001000101110011000-100-00--00000110000---------21001101000011000010000000101???000????10??000000-0
+Chrysometa                        00000100010200001101000000101000-00000010000000-0000011-1?0010000-1-11000-------01141000001011000010001-11110000-10110100001101010001101000101010011100-000-?0--00000110000---------11001???0000?10000100000001010000000-110000?0???10?
+Leucauge                          00000100010200101101101000101000-0000001000000110000001-100010000-1-11000-------11101000000-0-000010001-01211001010110110001100000000101100100-10011000-001000--00000111100---------101011000000110000?000?0001010000000-110000100000-0
+Opadometa                         00000100010210101101001000001010-0000001000000110010001-12001000101-11000-------11101000000-0-000001110-0121100??10?10110000101000010100100101010011000-001000--00000111100---------0010?10000001?00000000?000101??00000-???????????0-0
+Deliochus                         00000000010210101101000000100-00-10000000100000-0000011-10001000?0?011000-------000-1000001011001010001-11010001010110100?01100000000001000110-?0--0----100-10--0000000000110-10000010001100000111000010000020100??10000-?0001-?1000110
+Phonognatha_graeffei              11000000011210101101000030101000-10000000100000-0000011-100010?0100011000-------000-00010010?0000010001-12010000-10110100?01101010001001101110-10050000-000-00--00001-----110-10001012001100100011000010001011-00?011001000001-?0000210
+Phonognatha_melanopyga            10000000011210101101000000101000-10000000100000-0000011-12001010101-11000-------000-0000001010000010001-11000001110110100?01100010000002001110-0--------100-10--00001-----110-100000100011001000110000??????????????????????????1???21?
+Clitaetra_episinoides             00000000000200110001001031000-10-00001000000000-0000000113001000110011000100001010101000010-0-000010000011110000-101101100101020?000?0010001?0-101210110001000--01001-----10110000000001111000001100001?0001???????????????0????0???0-0
+Clitaetra_perroti                 00000000000200110001001001000-00-00001000000000-0000000113001000110011000100001010101000010-0-000010000011110000-10110100010102000000001000100-101210110001000--01001-----101000000000011110000011000???????????????????????????0??????
+Clitaetra_clathrata               00010000000200110001001031000-00-10001000000010-0000001-13001000110011000100001110100000100-0-000010110011110000-10110110?101020?000?0010001?0-101210110001000--01001-----1010000000000111100000110000??????????????????????????0???0-?
+Clitaetra_irenae                  00010000000200110001000031000-00-00001000000010-0000000113001100110011000100001010100000100-0-000010110111110000-10110110?101020?000?0010001?0-101210110001000--01001-----10100000000001110000001?000011000111-101111011012001-?01110-0
+Clitaetra_simoni                  000100000?0200110001001031100-00-10001000000010-000000??13001000110011100100001110101000100-0-00001011001??????0-10110110??????????????????????????????????????????????????????????????????????????????????????????????????????????????
+Clitaetra_thisbe                  000000000?0200110001000001000-00-00001000000000-0000000110001000110011000100000000101000000-0-0000100000111100?0-1??1??????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+Nephila_clavipes                  11?0?000001110111101000020111001010001000000000-1110000111001000100010100100100010130100100-0-00000100000011?001010110110111012000000002000110-101210110001100--00001-----101100020002011101000011000010111011-001111001102001-001010-0
+Nephila_sexpunctata               11000000001110101101000040111000-10001000001000-1110000110001000100010100????00000110100100-0-00000100000011000??10110110111012000000001000100-101210110001??0--00001-----10110002000??111????001?0000101?1?1???0?????0????00???0???0-?
+Nephila_constricta                11?0100000111010110100004011111101000100000?000-111000?101001000100110100101000000130100001110000001001-1121?0011101101?0111012000000001000110-101210111001100--00001-----101100010000011101000011000010??10????????????????????0???0-?
+Nephila_fenestrata                11111000001110101101000020111011010001001000000-11100001??001000100110100100100000110100101011100001001-11110011110110110111012000000001000110-101210110001100--00001-----111000011100011101000011000010101011-00??110011?2001-0010?0-0
+Nephila_senegalensis              11001000001110101101000000111001010001000000000-1110000101001000100010100100100010110101100-0-0100110001?1110001010110110111012000000001000110-101210110001100--00001-----10110002000201110100001100001010101??00??110011??00???0?0?0-1
+Nephila_sumptuosa                 11011000001110101101000040111011110001000001000-1110000101001000100010100100100000110101100-0-000001000001110000-10110110111012000000001000110-101210110001?00--00001-----10110001000201110100001100001????0???????11??1????????????0-?
+Nephila_inaurata                  11001000001110111101000000111111110001001001000-1110000101001000100010100100100000110101100-0-000001000112110001110110110111012000000002000110-101210110001100--00001-----101100010002011101000011000010111011-001111001102001-?010?0-1
+Nephila_ardentipes                1100100000111011??01000010111111110001001000000-11100001100010001001101000------00110101100-0-00000100011211000??10110110111012000000002000110-101210110001?00--00001-----10100001000?01110100????000??????????????????????????????????
+Nephila_turneri                   11111000001110101101000040111111110001001000000-1110000111001000100110100100010010110100100-0-000001000001110001010110110111012000000002000110-101210110001100--00001-----1011000100020111010000110000??1??????????????????????????????
+Nephila_komaci                    1111100000111010??01000?40111111110001001000000-1110000101001000100110100100010000110101100-0-000001000001110001010110110???????????????????????????????????????????????????????????020??????????1000??????????????????????????????????
+Nephila_pilipes                   1100?000001110101101000000111001010001000001000-1110000101001000100110100101000000130101100-0-000001000001110001110110110111012000000001000100-101210111001100--00001-----101100000002011101000011000010111011-001011001112001-001110-0
+Nephila_antipodiana               111110000011101011010000?0111011110001000000100-1110000101001000100110100100100010110101100-0-000001000001110000-1011011011101200000000?000110-101210110001100--00001-----101100020002011101000011000010???0???????????????00???0???0-?
+Nephila_clavata                   11010000001110101101000031111011010001000000100-1110000110001000100010100100100010110101100-0-000001001-01110000-10110110111012000000002000110-101210110001100--00001-----1110000100020111010000110000?????????????????????????????????
+Nephila_plumipes                  11?1?0000011101?1101000040111011110001000000000-1110000110001000100?101000------101?010?100-0-000001000011110001110110110111012000000002000110-101210110001?00--00001-----10110002010201110100001100001010101??00??110011??00???000?0-1
+Nephila_edulis                    110110000011101?1101000040111011010001000000000-11100001100010001000101000------00110100100-?1000001000101110000-10110110111012000000001000110-101210110001?00--00001-----10110002000201110100001100001010101??00??110011??00???0???0-?
+Herennia_multipuncta              00110001101100100001001011111010-10001000001000-0000000120101100100110110110000010100100001110000001001-11210011110110110110012000000001000110-10120010-001000--10001-----110-0111000001110100011?0000110001???1???????????00???1???0-0
+Herennia_etruscilla               00110001001100100001001011111010-10001000000000-0000000120101100100110110110000010100100001110000001001-11210011110110110110012000000001000110-10120010-0010?0--10001-----110-0111000001110???011?0000110001???10????1?????00???1???0-0
+Herennia_deelemanae               00110001001100100001001011111010-10001000000000-00000001101010001001101100------10100100001110000001001-1??????111???????110012000000001000110-1012?010-0010?0--10001-----110-0111000001110?????1?000??????????????????????????????????
+Herennia_papuana                  00110001001100100001001011111010-10001000001000-0000000110101100100010110110000010100100001110000001001-1??????1110110110110012000000001000110-10121010-001000--10001-----110-00110000011101000110000011000111-1011??111??2001-010010-0
+Herennia_tone                     00110001?01100110001001011111010-10001000001100-00000001101011001001101100------10100100001110000001001-1121001111????????????????????????????????????????????????????????1?0-?1110?000????????????????????????????????????????????????
+Herennia_gagamba                  00110001101100100001000011111010-10001000001100-00000001101011001001101100------10100100001011000001001-112100?1110110110?????????????????????????????????????????????????1?0-?1110?000????????????????????????????????????????????????
+Herennia_agnarssoni               00110001001100110001001011111010-10001000000100-00000001101011001001101100------10100100001110000001001-1??????1110110110?????????????????????????????????????????????????1?0-????????0????????????????????????????????????????????????
+Nephilengys_malabarensis          11000010001110100001000011111000-10001000000000-00000001100010001000101010------10120100001011000011001-11110010-10110110110012000000002000110-101210110001100--00101-----110-0011000001110100101100001000111??10??11001?1?001-01???100
+Nephilengys_papuana               11000010001110100001000031111000-10001000001000-00000001100010001000101010------10120100001011000011001-11110010-10110110110012000000002000110-101210110001100--00101-----110-00110000011101001011000010001111-10?0110011?2001-?1101100
+Nephilengys_cruentata             11010010001110100001000011111010-10001000000000-00000001100010001000101010------1012010100110-100001001-12110001110110110110012000000002000110-101210110001100--00101-----110-00110000011101000010000010001111-101111001112001-01101100
+Nephilengys_borbonica             11010010001110100001000011111010-10001000001000-00000001100010001000101010------1012010100110-100001001-11110001010110110110012000000002000110-101210110001100--00101-----110-0011000001110100001100001000111??1011110011?2001-?110?100
+
+;
+
+
+cnames
+{ 0 Female_cephalic_region low conspicuously_high;
+{ 1 Female_carapace piriform oval_with_wide_head_region;
+{ 2 Female_carapace_edge smooth ridged;
+{ 3 Female_carapace_edge_1 glabrous_or_with_few_hairs with_an_extensive_row_of_hairs;
+{ 4 Female_median_pair_of_prosomal_tubercles absent present;
+{ 5 Fovea_(female_carapace) inconspicuous pronounced;
+{ 6 Female_carapace_macrospines absent present;
+{ 7 Female_carapace_warts absent present;
+{ 8 Female_carapace_V-mark absent present;
+{ 9 Female_carapace_hairs present absent;
+{ 10 Female_median_eye_region rounded median_eyes_on_a_tubercle;
+{ 11 Female_lateral_eye_region lateral_eyes_on_separate_tubercles lateral_eyes_on_a_single_tubercle rounded;
+{ 12 Female_LE_separation_from_ME not_widely_separated widely_separated;
+{ 13 Posterior_eye_row_(dorsal_view) straight_to_recurved procurved;
+{ 14 Female_PME less_than_one_PME_diameter_apart one_PME_diameter_or_more_apart;
+{ 15 Female_PLE_size equal_or_less_than_PME larger_than_PME;
+{ 16 PME_canoe_tapetum absent full narrow;
+{ 17 PLE_canoe_tapetum absent full narrow;
+{ 18 Female_clypeus_height low_(less_than_three_AME_diameters) equal_or_more_than_three_AME_diameters;
+{ 19 Endites very_long_(>2x_width) short_(length_<2x_width);
+{ 20 Labium_and_sternum separate fused;
+{ 21 Female_sternum_(1) separate fused_to_pleura;
+{ 22 Female_sternum_(2) longer_than_wide as_wide_or_wider_than_long;
+{ 23 Sternal_slit_sensilla present absent;
+{ 24 Female_sternum_color_pattern inconspicuously_colored uniformly_orange/red medially_dark,_laterally_pale medially_light,_laterally_dark with_yellow_spots_corresponding_to_tubercles;
+{ 25 Sternal_white_pigment absent present;
+{ 26 Female_sternal_tubercle_I absent present;
+{ 27 Female_sternal_tubercle_II absent present;
+{ 28 Female_sternal_tubercle_III absent present;
+{ 29 Female_sternal_tubercle_III_(2) small large_round_projection;
+{ 30 Female_sternal_tubercle_IV absent present;
+{ 31 Female_frontal_sternal_tubercle absent present;
+{ 32 Frontal_sternal_tubercle small large_projection;
+{ 33 Female_chilum absent present;
+{ 34 Female_chelicerae massive_(width_>_1/2_length) slender_(width_<_1/2_length);
+{ 35 Cheliceral_ectal_margins smooth with_stridulatory_striae;
+{ 36 Cheliceral_boss present absent;
+{ 37 Cheliceral_boss_surface smooth striated;
+{ 38 Prosomal_supracheliceral_lobe_(PSL) present absent;
+{ 39 Cheliceral_furrow denticulated smooth;
+{ 40 Coxae_3_and_4 round with_tubercle;
+{ 41 Female_first_femur more/less_straight sigmoidal;
+{ 42 Femoral_macrosetae present absent;
+{ 43 Femoral_(I,_II)_macrosetae_length long short,_stout;
+{ 44 Female_femur_1_group_of_prolateral_long_spines absent present;
+{ 45 Spine_socket_color same_as_legs dark;
+{ 46 Dorsal_femoral_trichobothria absent present;
+{ 47 Femur_IV_trichobothria scattered in_rows;
+{ 48 Female_tibia_I_tufts absent present;
+{ 49 Female_tibia_II_tufts absent present;
+{ 50 Female_tibia_IV_tufts absent present;
+{ 51 Patella-tibia_autospasy absent present;
+{ 52 Ventral_tarsus_IV_setae irregular comb-like;
+{ 53 Tarsus_4_median_claw long_(as_long_or_longer_than_the_main_claw) short_(shorter_than_the_paired_main_claw);
+{ 54 Sustentaculum present absent;
+{ 55 Sustentaculum_angle wide,_diverging_from_other_setae narrow,_parallel_to_other_setae;
+{ 56 Female_abdomen_length very_long_(>2_x_width) long_(longer_than_wide,_but_<2x_width) short_(as_wide_as_long_or_wider);
+{ 57 Female_abdomen_width elliptical widest_anteriorly widest_posteriorly pentagonal;
+{ 58 Female_lateral_abdominal_margin smooth with_3-4_pairs_of_lobes;
+{ 59 Female_anterior_abdominal_humps absent present;
+{ 60 Female_mid-abdominal_humps present absent;
+{ 61 Female_abdomen_tip rounded truncated;
+{ 62 Female_abomen_caudal_part protrudes_somewhat_beyond_spinnerets_(caudal/whole_abd._less_than_0.2) protrudes_considerably_beyond_spinnerets_(ratio_caudal/whole_abdomen_>_0.2);
+{ 63 Tracheal_spiracle posterior advanced;
+{ 64 Female_ventro-median_sclerotizations absent paired_sclerotizations;
+{ 65 Female_ventro-median_sclerotizations_1 1-5_pairs 7-11_pairs;
+{ 66 Female_ventro-lateral_abdominal_sclerotizations present absent;
+{ 67 Ventro-lateral_abdominal_sclerotizations one_paired_line_of_small_dots sclerotizations_in_several_lines;
+{ 68 Female_dorso-median_abdominal_apodemes absent 3-5_prominent_pairs;
+{ 69 Female_dorso-lateral_abdominal_sclerotizations present absent;
+{ 70 Female_dorso-central_abdominal_sclerotizations absent present;
+{ 71 Female_abdominal_sigillae absent present;
+{ 72 Female_anterior_abdomen without with_a_broad_light-pigmented_band;
+{ 73 Female_abdominal_dorsal_pattern inconspicuous conspicuous;
+{ 74 Female_dorsum_dark_spots absent present;
+{ 75 Female_dorsum_longitudinal_light_lines absent present;
+{ 76 Female_dorsum_paired_light_spots absent present;
+{ 77 Female_dorsum_wide_notched_band absent present;
+{ 78 Female_dorsum_"butterfly"_pattern absent present;
+{ 79 Female_dorsum_"grid"_pattern absent present;
+{ 80 Female_abdomen_tip_color no_different_to_the_subapical_abdomen paired_white_dots_around_spinnerets;
+{ 81 Female_abdomen_silver_pigment_spots absent present;
+{ 82 Female_venter_light_pigmented_pattern absent present;
+{ 83 Female_venter_light_pigmented_pattern_form one_central_light_area transverse_line(s) four_large_spots numerous_spots longitudinal_lines;
+{ 84 Booklung_cover grooved smooth;
+{ 85 Area_around_female_book_lung_spiracle little_sclerotized strongly_sclerotized;
+{ 86 Epigynal_plate present absent;
+{ 87 Posterior_epigynal_plate round grooved;
+{ 88 Epigynal_ventral_area low swollen;
+{ 89 Epigynal_posterior_area round tongue-shaped;
+{ 90 Epigynal_openings simple in_chambers;
+{ 91 Chamber_opening_position medial lateral;
+{ 92 Epigynal_septum absent present;
+{ 93 Epigynal_septum_shape simple_border_between_chambers extensive,_broader_posteriorly extensive,_broader_anteriorly;
+{ 94 Epigynal_paired_sclerotized_pocket absent present;
+{ 95 Epigynal_scape absent present;
+{ 96 Paired_epigynal_flap absent present;
+{ 97 Epigynum_posterior without_a_membrane with_a_membrane;
+{ 98 Anterior_epigynal_area with_a_pair_of_apodemes round;
+{ 99 Cuticle_anterior_to_the_epigynal_area rounded depressed;
+{ 100 Epigynal_anterior_area round depressed;
+{ 101 Epigynal_lateral_area round curved;
+{ 102 Copulatory_opening_position caudal ventral;
+{ 103 Caudal_copulatory_openings on_the_posterior_sclerotized_epigynal_margin anterior_to_the_posterior_margin;
+{ 104 Copulatory_opening_form elongated_slit_openings rounded_openings;
+{ 105 Copulatory_duct_morphology flattened_duct_(longer_than_wide,_flat) tube_(longer_than_wide,_cylindrical) broad_attachment_to_body_wall_(wider_than_long);
+{ 106 Spermathecae lobed spherical oval;
+{ 107 Spermathecae_separation wide_(separated_more_than_2_widths) small_or_none_(separated_less_than_two_widths);
+{ 108 Spermathecal_sclerotization well_sclerotized membranous;
+{ 109 Fertilization_ducts present absent;
+{ 110 Epigynal_sclerotized_arch absent present;
+{ 111 Female_copulatory_aperture never_plugged sometimes_plugged_with_emboli_a/o_conductors;
+{ 112 Female_copulatory_plugs emboli emboli_plus_(embolic)_conductors;
+{ 113 Cribellum present absent;
+{ 114 ALS_piriform_gland_spigot_bases normal reduced;
+{ 115 PMS_nubbin absent present;
+{ 116 PMS_aciniform_field extensive sparse;
+{ 117 PLS_mesal_cylindrical_gland_spigot_base subequal_to_other_PLS_cylindrical_spigot larger;
+{ 118 PLS_mesal_cylindrical_gland_spigot_position central peripheral;
+{ 119 PLS_aggregate-flagelliform_relation aggregates_apart_from_flagelliform distal_aggregate_spigots_embrace_flagelliform;
+{ 120 PLS_aggregate_gland_spigot normal large;
+{ 121 Male_size more_than_half_the_size_of_female less_than_0.4_female;
+{ 122 Male_dorsal_abdomen cuticle_soft with_scutum;
+{ 123 Male_lateral_eyes separate juxtaposed;
+{ 124 Male_cephalic_region narrower_than_in_female same_proportion_to_cephalothorax_as_in_female;
+{ 125 Male_clypeus as_in_female more_horizontal;
+{ 126 Male_v._female_cheliceral_size same larger smaller;
+{ 127 Male_cheliceral_clasping_spurs absent present;
+{ 128 Male_paturon_posteriorly smooth with_a_tubercle;
+{ 129 Male_coxa_I_hook absent present;
+{ 130 Male_leg_II_tibial_macrosetae similar_to_those_on_tibia_I stronger_and_more_robust absent;
+{ 131 Male_endite_tooth absent present;
+{ 132 Male_endite_depression absent present;
+{ 133 Male_palpal_trochanter short_(twice_the_width_or_less) long_(more_than_twice_the_width);
+{ 134 Male_palpal_femoral_tubercle absent present;
+{ 135 Male_palpal_patella_macrosetae none one two;
+{ 136 Male_palpal_tibia_length short_(not_exceeding_1.5_times_its_width) long_(exceeding_1.5_times_its_width);
+{ 137 Cymbium entire constricted;
+{ 138 Cymbium_length short_(less_than_2X_width) long_(more_than_2X_width);
+{ 139 Cymbium_orientation dorsal mesal;
+{ 140 Cymbial_ectal_margin sclerotized_as_cymbium transparent;
+{ 141 Cymbial_basal_process_(CBP) absent present;
+{ 142 CBP_shape simple_projection complex,_with_further_apophyses;
+{ 143 Paracymbium_(P) absent present;
+{ 144 Paracymbium_attachment integral intersegmental articulated;
+{ 145 Paracymbial_base_sclerotization like_cymbium less_sclerotized;
+{ 146 Paracymbium_morphology short_basal_structure,_more_or_less_hook-shaped longer_than_wide_and_finger-like flat_and_roughly_rectangular U-shaped flat_and_roughly_triangular Phonognatha_condition;
+{ 147 Paracymbium_edge glabrous with_setae;
+{ 148 Anterior_paracymbial_apophysis_(APA) absent present;
+{ 149 Paracymbial_margin_fold absent present;
+{ 150 Paracymbium_apically rounded with_a_prong;
+{ 151 Paracymbial_apical_prong short long;
+{ 152 Tegulum_in_ectal_view same_size_as_or_larger_than_subtegulum smaller_than_subtegulum;
+{ 153 Sperm_reservoir normal enlarged;
+{ 154 Reservoir_course spiraled with_a_switchback;
+{ 155 Ventral_tegular_switchback single double;
+{ 156 Ejaculatory_duct within_the_entire_length_of_embolus joins_distal_embolus;
+{ 157 Median_apophysis_(MA) absent present;
+{ 158 Median_apophysis without_sperm_duct with_a_loop_of_the_sperm_duct;
+{ 159 Median_apophysis_thread-like_spur absent present;
+{ 160 Apical_tegular_apophysis_(ATA) absent present;
+{ 161 Ventral_tegular_apophysis_(VTA) absent present;
+{ 162 Mesal_tegular_apophysis_(MTA) absent present;
+{ 163 Theridiid_tegular_apophysis_(TTA) absent present;
+{ 164 Conductor_(C) present absent;
+{ 165 Conductor_size small_(less_than_half_bulb_volume) large_(more_than_half_bulb_volume);
+{ 166 Conductor_form rounded grooved_for_embolus;
+{ 167 Conductor_and_embolus_association separate embolus_enclosed_in_conductor embolus_and_conductor_spiral;
+{ 168 Conductor_secondary_apophysis absent present;
+{ 169 Conductor_lobe absent present;
+{ 170 Embolic_conductor_(EC) absent present;
+{ 171 EC_membrane absent present;
+{ 172 EC_shape complex finger_like;
+{ 173 Finger_EC short long;
+{ 174 EC_(division) not_subdivided subdivided_into_more_sclerites;
+{ 175 Distal_EC_flap absent present;
+{ 176 EC_edge smooth ridged;
+{ 177 EC_curvature more/less_straight sigmoidal bent_distally;
+{ 178 EC_tip straight with_a_hook;
+{ 179 EC_subdistal_protuberance absent present;
+{ 180 Embolus_(E)_length long_(>2x_CB) medium_(0.5-1.5_CB_length) short_(<1/2_cymbium);
+{ 181 Embolus_form thin thick filiform;
+{ 182 Embolus_sclerotization normal_(sclerotized) unsclerotized;
+{ 183 Embolus-tegulum_orientation parallel 90_deg.;
+{ 184 Embolus-tegulum_membrane absent present;
+{ 185 Embolus_base thin enlarged_(=_radix);
+{ 186 Embolus_base_distal_part smooth denticulated;
+{ 187 Embolic_apophysis absent present;
+{ 188 Radical_membrane absent present;
+{ 189 Stipes absent present;
+{ 190 Embolus_constriction absent present;
+{ 191 Embolus smooth hooked;
+{ 192 E_distal_apophysis present absent;
+{ 193 Embolus_tip flat cylindrical;
+{ 194 Distal_hematodocha absent present;
+{ 195 Subterminal_apophysis absent present;
+{ 196 Terminal_apophysis absent present;
+{ 197 Web_architecture orb sheet gum_foot;
+{ 198 Orb-web_angle horizontal_(0-45_deg) vertical_(46-90_deg);
+{ 199 Orb_shape round rectangular;
+{ 200 Silk_color white golden;
+{ 201 Zig-zag_stabilimentum absent present;
+{ 202 Barrier_(3D)_web absent present;
+{ 203 Hub_position aerial against_substrate;
+{ 204 Hub_relative_position central displaced_up displaced_down;
+{ 205 Hub_bite-out present absent;
+{ 206 Hub closed open;
+{ 207 Hub-cup absent present;
+{ 208 Hub_loop_-_non-sticky_spiral_transition gradual abrupt;
+{ 209 Radius_construction cut_and_reeled doubled;
+{ 210 Radius_attachment_on_frame attached_singly attached_twice;
+{ 211 Secondary_(split)_radii absent present;
+{ 212 Tertiary_(split)_radii absent present;
+{ 213 Pseudoradii absent present;
+{ 214 Sticky_spiral spiralling parallel;
+{ 215 Non-sticky_spiral removed persists_in_web;
+{ 216 NSS_form linear zig-zag_Nephila_form;
+{ 217 First_SS_spiral-NSS_contact NSS_contacted no_contact;
+{ 218 Sticky_spiral_localization oL1 iL1 oL4;
+{ 219 Web_posture flexed_legs_I,_II extended_legs_I,_II;
+{ 220 Argiope_posture absent present;
+{ 221 Attack_behavior wrap-bite bite-wrap;
+{ 222 Wrap-bite_silk dry sticky;
+{ 223 Cheliceral_clasp absent present;
+{ 224 Bulbus_detachment_(eunuchs) absent present;
+{ 225 Body_shake absent present;
+{ 226 Side_change absent when_in_danger,_slipping_to_other_side_of_orb;
+{ 227 Partial_web_renewal absent present;
+{ 228 Retreat absent off-web in_web;
+{ 229 Retreat_form silken_tube utilization_of_a_leaf;
+{ 230 Debris_web_decoration absent present;
+;
+
+
+ccode  - 0.230;
+
+
+;

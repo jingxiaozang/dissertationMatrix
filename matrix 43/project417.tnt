@@ -1,0 +1,69 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 13.34.54'
+39 12
+
+&[num]
+Procavia_capensis                  0100000100011000210--110000022011000000
+Chrysochloris                      0010200000200020000--001010100000000010
+Rhynchocyon_cirnei                 1110001000000010000--000001030012011001
+Leptorycteropus_guilielmi          ???????00?????????1???0010?00?1000?01?1
+Myorycteropus_africanus            10??????????????0?1020?10110?0100??1111
+Orycteropus_abundulafus            10010121111111012011011010110111001110?
+Orycteropus_afer                   100110101020001011101111010011101120101
+Orycteropus_crassidens             1001??10??2?001011101011010??????????01
+Orycteropus_depereti               100101200?111101??11011????????????????
+Orycteropus_djourabensis           10011010??20001010100111011011100120101
+Orycteropus_gaudryi                10010121?1111101201101111111?1110011101
+Orycteropus_mauritanicus           10?1?121111???0???11011?????????10?1101
+
+;
+
+
+cnames
+{ 0 Facial_surface_of_lacrimal absent_or_slight distinct;
+{ 1 Lacrimal_foramen facial orbital;
+{ 2 Caudal_tympanic_process_of_the_petrosal reduced shields_posterior_bulla;
+{ 3 Mastoid_exposure_in_ventral_basicranium_and_occipital_region moderate_to_extensive reduced_to_absent;
+{ 4 Position_of_the_temporal_line high low State_2 State_2;
+{ 5 Nuchal_line_(lambdoid_crest)_(in_dorsal_view) rectilinear V-shaped;
+{ 6 Relative_position_of_the_anterior_border_of_the_orbit_(in_lateral_view):_anterior_to_M2 above_M3 above_M2 State_2 State_2;
+{ 7 Ventralmost_point_of_the_maxilloÐjugal_suture_(in_lateral_view) caudal_to_M3 above_M3;
+{ 8 Palatine_groove absent present;
+{ 9 Palate_breadth broad slender;
+{ 10 Relative_position_of_the_post-palatine_foramina at_the_level_of_the_M2 at_the_level_of_M3 caudal_to_M3;
+{ 11 Shape_of_the_post-palatine_torus rectilinear curved;
+{ 12 Relative_position_of_the_post-palatine_torus caudal_to_M3 at_the_level_of_M3;
+{ 13 Lateral_wall_of_the_pterygoid smooth with_ridges;
+{ 14 Extension_of_the_interorbital_constriction also_including_the_palatine formed_strictly_by_the_frontal,_orbitosphenoid,_and_alisphenoid no_orbital_constriction;
+{ 15 Configuration_of_the_cranio-mandibular_articulation flat_or_slightly_convex_on_the_mandible with_a_tubercle_on_the_glenoid_cavity,_and_a_concave_surface_on_the_mandible;
+{ 16 Angle_between_the_mandibular_rami_(in_lateral_view) inferior_to_60_degrees between_60_and_73_degrees superior_to_73_degrees;
+{ 17 Position_of_the_articular_condyle_of_the_mandible_with_respect_to_the_coronoid_process separated_by_a_mandibular_notch in_contact;
+{ 18 Dental_microstructure not_tubulidentate tubulidentate;
+{ 19 Shape_of_the_upper_molar_outline_(in_occlusal_view) rectangular trapezoid;
+{ 20 Lingual_groove_on_the_upper_molars_(in_occlusal_view) shallow deep State_2 State_2;
+{ 21 Orientation_of_the_upper_molars_alveoli_with_respect_to_the_palatine_plan_(in_caudal_view) perpendicular oblique;
+{ 22 Canines present absent;
+{ 23 Development_of_the_deltoid_crest_on_the_humerus weak_and_not_projected_laterally strong_and_projected_laterally;
+{ 24 Shape_of_the_olecranon_fossa_on_the_humerus oval_and_bounded_proximally triangular,_ascend¥ing_in_the_middle;
+{ 25 Breadth_of_the_distal_epiphysis_of_the_humerus slender broad;
+{ 26 Relative_orientation_of_the_articulation_axis_of_the_trochlear_notch_on_the_ulna_(in_ventral_view) perpendicular_to_the_diaphysis oblique_to_the_diaphysis;
+{ 27 Shape_of_the_oblique_rim_on_the_radius_(dorsal_view) sharp blunt,_with_muscular_insertion_marks;
+{ 28 Number_of_sacral_vertebrae five six between_five_and_seven three;
+{ 29 Relative_orientation_of_the_caput_femoris_(in_proximal_view) mediodorsal_to_lateroventral mediolateral ball-like_caput_femoris,_no_orientation;
+{ 30 Pectineal_tubercle absent present;
+{ 31 Relative_position_of_the_articular_facet_for_the_sesamoid_bone_of_the_gastrocnemius_muscle_on_the_femur_(in_lateral_view) at_the_level_of_the_diaphysis recessed,_ventral_to_the_diaphysis_line;
+{ 32 Development_of_the_tibial_tuberosity_on_the_tibia_femur concave_and_slender flat_and_broad flat_and_slender;
+{ 33 Falciform_process_on_the_proximal_epiphysis_of_the_that_is_longer_than_the_tibia absent present;
+{ 34 Relative_length_of_the_tibia_and_the_femur equal_length tibia_longer_than_the_femur femur_longer_than_the_tibia;
+{ 35 Relative_development_of_the_tibial_crest short_and_merging_abruptly_with_the_diaphysis long_and_merging_in_a_gentle_slop,_close_to_the_middle_of_the_diaphysis;
+{ 36 Mediolateral_shape_of_the_tibial_diaphysis_(in_dorsal_view) straight curved;
+{ 37 Cotyloid_facet_of_the_talus concave_and_developed vertical_and_negligible;
+{ 38 Astragalar_posteromedial_process small_or_absent prominent;
+;
+
+
+ccode  - 0.38;
+
+
+;

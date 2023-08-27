@@ -1,0 +1,85 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 13.40.32'
+43 24
+
+&[num]
+Euparkeria_capensis                      00001000000??0000??000?0000?0?000000000?000
+Paleorhinus_scurriensis                  1100???1?0?10?1??????000001?0??000?0??00001
+Paleorhinus_bransoni                     110011?10011030010?01000001?0?100000001011?
+Paleorhinus_sawini                       111??0?101???2?010?01000001?0?1001031?101??
+Brachysuchus_megalodon                   12?110110111012010???01110100?10011?11???1?
+Angistorhinus                            121??0110011012010?0101010100?10011??0???1?
+Rutiodon_carolinensis                    121??111001??2?010?01?1120000011000??0???11
+Phytosaurus_doughtyi                     1?1??1?????????????0101220010111?001???????
+Leptosuchus_crosbiensis                  1211?1110120?12001000012200101110002?1???1?
+Leptosuchus_imperfecta                   12???11?0?2?????010???1?2?0?0??1?00??1?????
+Leptosuchus_studeri                      12111111012001210100001220010011000211???1?
+Leptosuchus_adamanensis                  1220011101210120010?111121000011100?0121112
+Machaeroprosopus_lithodendrorum          12?0?111012??12001100?1220000011100??1???12
+Machaeroprosopus_zunii                   1?1??1?????????????01011210001?1?001??2????
+Smilosuchus_gregorii                     122001111120012001201111210000111001?12??12
+PEFO_31218                               122??1110?2??120???001122101?111100??1???1?
+PEFO_34239                               122??1?10?2???2????001122101?111100??1???1?
+AMNH_fr_30646                            12200111012011200100011221011111100111211??
+PEFO_34034                               1????1110?????2010?01112210001?1?00??121???
+Leptosuchomorpha                         121??11100200120010000122101011110011121112
+Pseudopalatus_mccauleyi                  122??1121120012001110222110011122001202?112
+Pseudopalatus_pristinus                  12200112101002201???12221101111220012021112
+Mystriosuchus_westphali                  122001121111022111?00200010?1012100?00???1?
+Pseudopalatus_jablonskiae                1????1?????????????01??10101?0?22000??211??
+
+;
+
+
+cnames
+{ 0 Character_1 State_0 State_1;
+{ 1 Character_2 State_0 State_1 State_2;
+{ 2 Character_3 State_0 State_1 State_2;
+{ 3 Character_4 State_0 State_1;
+{ 4 Character_5 State_0 State_1;
+{ 5 Character_6 State_0 State_1;
+{ 6 Character_7 State_0 State_1;
+{ 7 Character_8 State_0 State_1 State_2;
+{ 8 Character_9 State_0 State_1;
+{ 9 Character_10 State_0 State_1;
+{ 10 Character_11 State_0 State_1 State_2;
+{ 11 Character_12 State_0 State_1;
+{ 12 Character_13 State_0 State_1;
+{ 13 Character_14 State_0 State_1 State_2 State_3;
+{ 14 Character_15 State_0 State_1 State_2;
+{ 15 Character_16 State_0 State_1;
+{ 16 Character_17 State_0 State_1;
+{ 17 Character_18 State_0 State_1;
+{ 18 Character_19 State_0 State_1 State_2;
+{ 19 Character_20 State_0 State_1;
+{ 20 Character_21 State_0 State_1;
+{ 21 Character_22 State_0 State_1 State_2;
+{ 22 Character_23 State_0 State_1 State_2;
+{ 23 Character_24 State_0 State_1 State_2;
+{ 24 Character_25 State_0 State_1 State_2;
+{ 25 Character_26 State_0 State_1;
+{ 26 Character_27 State_0 State_1;
+{ 27 Character_28 State_0 State_1;
+{ 28 Character_29 State_0 State_1;
+{ 29 Character_30 State_0 State_1;
+{ 30 Character_31 State_0 State_1;
+{ 31 Character_32 State_0 State_1 State_2;
+{ 32 Character_33 State_0 State_1 State_2;
+{ 33 Character_34 State_0 State_1;
+{ 34 Character_35 State_0 State_1;
+{ 35 Character_36 State_0 State_1 State_2 State_3;
+{ 36 Character_37 State_0 State_1 State_2;
+{ 37 Character_38 State_0 State_1;
+{ 38 Character_39 State_0 State_1 State_2;
+{ 39 Character_40 State_0 State_1;
+{ 40 Character_41 State_0 State_1;
+{ 41 Character_42 State_0 State_1;
+{ 42 Character_43 State_0 State_1 State_2;
+;
+
+
+ccode  - 0.42;
+
+
+;

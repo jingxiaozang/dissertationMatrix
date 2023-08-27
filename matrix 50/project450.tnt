@@ -1,0 +1,72 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 13.41.12'
+14 40
+
+&[num]
+Poa_holciformis                      1101?1?00?00?0
+Piptochaetium_medium                 31100011011100
+Piptochaetium_lasianthum             31111011011100
+Pappostipa_vaginata_a                10?00010010100
+Nassella_pampagrandensis             00011011011100
+Piptochaetium_montevidensis          311111?1011100
+Piptochaetium_napostaense            31100011011100
+Nassella_melanosperma                00200011011100
+Nassella_arcuata                     0020?011011100
+Nassella_novari                      00201011011100
+Jarava_leptostachya                  10?01000010100
+Jarava_media                         10?00000010100
+Jarava_plumosula                     10201000010100
+Piptatherum_miliaceum                10011200011100
+Aciachne_acicularis                  ?0010000101120
+Anatherostipa_brevis                 10010000010010
+Hesperostipa_comata                  10000011011100
+Aciachne_flagellifera                ?0010000101120
+Achnatherum_inebrians                10001010010000
+Achnatherum_chingii                  10000010010002
+Achnatherum_psilantherum             10001010010000
+Pappostipa_vaginata_b                10?00010010100
+Orysopsis_asperifolia                000110000111?0
+Achnatherum_bromoides                10010000010002
+Ortachne_erectifolia_a               1001000000??20
+Amelichloa_brachychaeta              10010010010100
+Amelichloa_caudata                   10010010010100
+Amelichloa_brevipes                  10010010010102
+Ptilagrostis_porteri                 10010010?1???2
+Austrostipa_nodosa                   00000010?1110?
+Ortachne_erectifolia_b               1001000000??20
+Achnatherum_diegoense                10001010010002
+Anatherostipa_orurensis              10011000010000
+Hesperostipa_neomexicana             10001011011100
+Achnatherum_multinode                10000000010002
+Achnatherum_eminens                  10001000010000
+Austostipa_elegantissima             00?00010?11101
+Amelichloa_clandestina               10010010010102
+Aciachne_pulvinata                   ?0010000101120
+Amelichloa_ambigua                   10010010010100
+
+;
+
+
+cnames
+{ 0 Lemma_margins flat,_strongly_overlapping flat,_not_or_only_slightly_overlapping slightly_involute conspicuously_involute;
+{ 1 Palea_shape flat_on_the_abaxial_surface bikeeled_on_the_abaxial_surface;
+{ 2 Palae_length half_the_length_of_the_lemma_to_equal_the_length_of_the_lemma__ longer_than_the_lemma_ shorter_than_half_the_length_of_the_lemma_;
+{ 3 Callus_shape acute_or_subacute blunt_or_truncate;
+{ 4 Awn persistent deciduous;
+{ 5 Compression_of_the_floret absent_or_slightly_compressed laterally_or_conspicuously_compressed dorsally_and_conspicuously_compressed__;
+{ 6 Awn_or_awn-like_tip straight_or_curved_not_geniculate geniculate_or_bi-geniculate;
+{ 7 Conspicuous_crown absent present;
+{ 8 Glumes_texture membranous indurated;
+{ 9 Disarticulation_of_the_awn_or_awnlike_tip_and_the_lemma_ absent present;
+{ 10 Palea_texture membranous indurated;
+{ 11 Lemma_texture membranous indurated;
+{ 12 Glumes_length longer_than_the_floret equal_to_the_floret shortert_than_the_floret;
+{ 13 Lemma_apex minutely_2-tooted_or_without_any_tooth with_one_tooth with_two_conspicuous_teeth;
+;
+
+
+ccode  - 0.13;
+
+
+;

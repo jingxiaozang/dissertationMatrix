@@ -1,0 +1,119 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 13.37.13'
+65 36
+
+&[num]
+Proteroiulus_fuscus                     ?----------0--0-00------000?0-0-------000020-000---0-0----00-0000
+Lithobius_variegatus_rubriceps          0-0-00-----0--0-00------00000-0------0000000000111110110000101111
+Paralamyctes_validus                    0-0-00-----0--0-00------00000-0------0000000000111110110011101111
+Anopsobius_neozelanicus                 0-0-00-----0--0-00------000-0-0------0000000000111111110011101111
+Craterostigmus_tasmanianus              0-0-00-----0--0-00------000-0-0-------000000000112112001-00111111
+Scolopendra_viridis                     0---00-----0--0-00------00000-0-------000000000112112001-00111211
+Sphendononema_guildingii                0010111010111212110000010021101101100121111111100000-000100101110
+Sphendononema_rugosa                    001011?01011121211000001002110110110?121111111100000-000100101110
+Scutigerina_weberi                      100-00000101000000---0-01111102000010111111111100000-000100101110
+Scutigerina_malagassa                   100-00000101000000---0-01111102000010111111111100000-000100101110
+Madagassophora_hova                     100-0000010100000111-0001111102000010111111111100000-000100101110
+Scutigera_coleoptrata                   1010111110211111110000000021221100000221111111100000-000100101110
+Scutigera_nossibei                      1010111110211111110000000021101100000221111111100000-000100101110
+Dendrothereua_nubila                    10101110100110110111-0000121121100100221111111100000-000100101110
+Dendrothereua_homa                      10101110100110110111-0000121121100100221111111100000-000100101110
+Tachythereua_sp.                        1010111110211?1110--00-01020101100000221111111100000-000100101110
+Thereuonema_tuberculata                 1010111110211111112000000020101100100221111111100000-000100101110
+Thereuonema_turkestana                  1010111110211111112000000020101100100221111111100000-000100101110
+Thereuopoda_clunifera                   1111111110211111110010010020101110001221111111100000-000100101110
+Thereuopoda_longicornis                 1111111110211111110010010020101110001221111111100000-000100101110
+Thereuopodina_n.sp.                     1010111110211111110000000020101100000221111111100000-000100101110
+Pilbarascutigera_incola                 1010111110211111110010000020101100001221111111100000-000100101110
+Allothereua_maculata                    1010111110211111111001000020101100000221111111100000-000100101110
+Allothereua_linderi                     1010111110211111111001000020101100100221111111100000-000100101110
+Allothereua_bidenticulata               1010111110211111111001000020101100100221111111100000-000100101110
+Allothereua_serrulata                   1010111110211111111101100020101100100221111111100000-000100101110
+Parascutigera_festiva                   10101111102111110111-1000020101100100221111111100000-000100101110
+Parascutigera_latericia                 10101111102111110111-1000020101100100221111111100000-000100101110
+Parascutigera_nubila                    10101110112111110110-0000020101100100221111111100000-000100101110
+Parascutigera_sphinx                    10101111102111110110-1000020101100100221111111100000-000100101110
+Parascutigera_guttata                   10101111102111110100-1000020101100?00221111111100000-000100101110
+Parascutigera_qld_1                     10101111102111110100-1000020101100000221111111100000-000100101110
+Parascutigera_qld_2                     10101111102111110100-1000020101100000221111111100000-000100101110
+Parascutigera_qld_3                     10101111102111110100-1000020101100100221111111100000-000100101110
+Ballonema_gracilipes                    101011?110211?110110-0000021101100100221111111100000-000100101110
+Seychellonema_gerlachi                  1010111110211?1?0130-0000020111110001221111111100000-000100101110
+
+;
+
+
+cnames
+{ 0 Proportions_of_antennal_articles as_long_as_wide much_wider_than_long;
+{ 1 Spines_on_basal_half_of_first_flagellum_of_antenna absent present;
+{ 2 Anterior_(antennal)_branch_of_antennocellar_suture present absent;
+{ 3 Course_of_projections_on_cephalic_sutures posterior_part_subparallel posterior_part_divergent;
+{ 4 Ventral_spine-bristle_on_prefemur_of_second_maxilla absent present;
+{ 5 Pair_of_distal_spine-bristles_on_tibia_of_second_maxilla absent present;
+{ 6 Cluster_of_sensilla_at_apex_of_proximal_fork_in_hypopharynx absent present;
+{ 7 Sclerotised_lateral_bulge_in_proximal_fork_in_hypopharynx absent present;
+{ 8 Groove_along_lateral_bar_of_labral_trapezoid absent present;
+{ 9 Tubercles_along_lateral_bar_of_labral_trapezoid absent present;
+{ 10 Structure_of_bristles_on_labral_trapezoid wide_field_of_pectinate_bristles all_simple narrow_outer_band_of_pectinate_bristles,_wide_inner_band_of_simple_bristles;
+{ 11 Labral_trapezoid_with_two_median_sensillar_clusters absent present;
+{ 12 Arrangement_of_tripartite_sensilla_clusters_on_proximal_labral_part_of_epipharynx median_group_between_lateral_clusters median_group_completely_distal_to_lateral_clusters;
+{ 13 Median_sensilla_of_tripartite_cluster_on_proximal_labral_part_of_epipharynx antero-posteriorly_aligned_pair side-by-side_pair diamond-shaped_group_of_four_sensilla;
+{ 14 Lateral_field_of_spines_on_clypeal_part_of_epipharynx absent present;
+{ 15 Position_of_median_sensillar_cluster_on_clypeal_part_of_epipharynx transverse_bands_of_sensilla_immediately_proximal_to_dense_median_spine_field transversely_ovate_cluster_of_sensilla_distinctly_separated_from_dense_median_spine_field transverse_bands_of_sensilla_within_dense_median_spine_field;
+{ 16 Large_unpaired_tergal_spines_associated_with_trichoid_sensilla_(="bristles"_of_standard_scutigeromorph_descriptive_nomenclature_) absent present;
+{ 17 Tergal_spinulae_and_spiculae absent present;
+{ 18 Form_of_tergal_spinulae_and_spiculae short_triangular_spiculae setiform,_tapering_spiculae,_shorter_than_bristles needle-like_spiculae,_as_long_as_bristles spinulae_only;
+{ 19 Density_of_tergal_spinulae_and_spiculae one_spicula_or_spinula_for_each_of_several_scutes spiculae_at_margins_of_nearly_all_scutes;
+{ 20 Kind_of_bristle_paired_with_spines_on_TT5-7 Stachelborsten Tastborsten;
+{ 21 Length_of_paired_spines_at_bristle_bases short,_flat,_triangular_spines elongate,_conical_spines,_often_more_than_half_length_of_bristle;
+{ 22 Thickened_spicula_clustered_in_patches_around_bristles_and_spines absent present;
+{ 23 Vaulting_of_stoma_saddles weak_or_moderate strong;
+{ 24 Median_embayment_in_posterior_margin_of_sternites shallow_or_lacking strong;
+{ 25 Coxa_and_sternites_of_posterior_segments_with_dense_covering_of_hairs_between_bristles hairs_absent hairs_present;
+{ 26 Carinae_on_legs absent weak strong;
+{ 27 Paired_spine-bristles_at_end_of_first_tarsal_segment absent present;
+{ 28 Segmental_distribution_of_tarsal_papillae absent_on_all_legs present_on_legs_1-14 on_legs_1-9_only;
+{ 29 Differentiation_of_tarsal_papillae_between_successive_tarsomeres equally_developed_on_each_consecutive_tarsomere alternating_large_and_small_papillae_on_successive_tarsomeres_on_anterior_trunk_legs papillae_lacking_on_each_second_tarsomere;
+{ 30 Resilient_sole-hairs absent single_pair_with_base_distomedial_to_tasal_papilla two_pairs,_one_with_base_disto-medial_to_tarsal_papilla,_one_with_base_proximo-latera_to_tarsal_papilla;
+{ 31 Spine-bristles_at_distal_end_of_tibia all_legs_with_two_spine-bristles_in_1/1_arrangement several_posterior_legs_with_3_spine-bristles_in_1/2_arrangement;
+{ 32 Shape_of_female_subanal_plate dorsal_and_ventral_margins_curved,_posterior_termination_rounded ventral_margin_straighter_than_curved_dorsal_margin,_posterior_termination_pointed_or_with_process;
+{ 33 Length_of_proarthron_of_female_gonopod_relative_to_mesarthron proarthron_at_least_90%_length_of_mesarthron proarthron_less_than_70%_length_of_mesarthon;
+{ 34 Sinus_between_inner_sides_of_of_mesarthron_of_female_gonopod sinus_broad,_semicircular sinus_deep,_narrow,_parallel-sided;
+{ 35 Single_row_of_coarse_spines_along_inner_margin_of_metarthron_of_female_gonopod spine_row_absent spine_row_present;
+{ 36 Arrangement_of_sensilla_on_ventral_surface_of_metarthron_of_female_gonopod in_single_row_for_most_of_or_entire_length_of_metarthron two-_or_more_deep_for_most_of_or_entire_length_of_metarthron;
+{ 37 Form_of_male_gonopods_on_first_genital_segment segmented lamelliform slender_styles;
+{ 38 Form_of_male_gonopods_on_second_genital_segment absent blunt_cones slender_styles;
+{ 39 Maxillary_organ absent present;
+{ 40 Single_large_stomatotergite_over_trunk_segments_7-9 separate_plates single_plate;
+{ 41 Tarsus_form one_or_two_articles flagelliform,_multiarticulate;
+{ 42 Position_of_spiracles pleural dorsal_opening_on_tergum sternal,_at_base_of_legs;
+{ 43 Shaft_organ_on_antennal_scape absent present;
+{ 44 Dornenkamm_on_maxiilipede_tarsus absent present;
+{ 45 Projection_of_hypopharynx_as_an_elongate_tongue short_hypopharynx elongate_hypopharynx;
+{ 46 Chevron-shaped_row_of_transversely_compressed,_triangular_denticles_at_border_between_labral_and_clypeal_parts_of_epipharynx absent present;
+{ 47 Flattening_of_head_capsule domed flattened;
+{ 48 Trochanter_on_second_maxilla separated_from_prefemur fused_to_prefemur_with_incomplete_articulation;
+{ 49 Forcipular_coxosternite_sclerotised_in_midline coxae_separated_in_midline coxosternal_plates_meeting_medially,_hinge_flexible midline_sclerotised,_inflexible;
+{ 50 Tarsungulum_on_forcipule separate_tarsus_and_pretarsus tarsus_and_pretarsus_fused;
+{ 51 Coxal_organs absent present;
+{ 52 Distribution_of_coxal_organs on_last_four_pairs_of_legs on_last_two_pairs_of_legs on_last_pair_of_legs_only;
+{ 53 Single_transverse_seta_projecting_medially_from_labral_side_piece absent present;
+{ 54 Plumose_setae_on_inner_surface_of_tarsus_of_second_maxilla absent present;
+{ 55 Female_gonopod_and_egg_manipulation forcipulate_gonopod,_used_to_manipulate_single_eggs gonopod_lacking,_mother_humps_egg_cluster;
+{ 56 Form_of_female_gonopod three_articles,_the_basal_article_bearing_spurs_(macrosetae),_terminal_article_with_a_broad_claw two_articles,_the_proximal_article_of_each_gonopod_pair_partly_joined,_the_distal_article_a_spine;
+{ 57 Pleurite_of_forcipular_segment discontinuous_ventromedially continuous_ventromedially;
+{ 58 Distal_spinose_projections_on_anterior_side_of_tibia_of_legs_1-11 absent present;
+{ 59 Forcipular_segment with_locomotory_limb incorporated_into_head_as_forcipule_with_fang_and_poison_gland;
+{ 60 Forcipular_tooth_plates absent present;
+{ 61 Special_heterotergy absent present;
+{ 62 Number_of_post-forcipular_trunk_leg_pairs Proteroiulus_state 15 21;
+{ 63 Anisostigmophory spiracles_on_all_pedigerous_trunk_segments_from_second_segment spiracles_associated_with_long_tergites_only;
+{ 64 Molar_plate_on_mandible present absent;
+;
+
+
+ccode  - 0.64;
+
+
+;

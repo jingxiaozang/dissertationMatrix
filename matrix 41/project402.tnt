@@ -1,0 +1,130 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 13.33.13'
+80 32
+
+&[num]
+Promartes                   00-00-0--00--10-110000010200-01-001110001000110000011100000001300011100000000010
+Oligobunis                  -0-000--------0------0----00----10011000100-11110011100-010011300011100000000010
+Megalictis                  -000000-00010-0-1110000101001011000110001001111201001000010311310011100000000010
+Zodiolestes                 -1000----00-0-0--10--00---00-21-0-11100010011111000110000103113100111000000000--
+Pseudobassaris              00000-0--000-0000100-0000010100-10111000100001000001110-01001-?0100011010-0110--
+Amphicyondon                -0-00-0-0001-0--01-0-001-000101-0-0110011000000000000000000010?10000100000010-0-
+Paragale                    -0-0010--00---00111--0011110--10--0110001000100103000-0-01121-4--01010-001000---
+Plesictis                   -0-0010-0100---01110-01000021-10101-10001000---0000-00---10----00---1000--------
+Potamotherium               1001110-00000100111011001102100021011001000011000001000-0103113000100000010000-1
+Plesiogale                  000011----0--00011---00---0---002-022000100011020101000-01121-4--0101000010000--
+Bathygale                   -0000-0-000--00-111--0110110--001-011000100-010----11-0-0-001-4--010000000------
+Mustelictis                 ---00----00-0-0-0----0100002--1-1-01100000001100010-10010100-1?00010-001---11---
+Promephitis                 -1-00---00111-0-111--0010-01-11--0122000100001011000002000120-41101010000000-101
+Cephalogale                 --1000---000--11011--00---00-00--001100000000000000-0120000300?000001000000110--
+Amphicticeps                ---00----00---0001---000--10---0--01-00010000000010-000-010001?10010000-00-00---
+Hesperocyon                 00000---00000000000100000102111010111000000001010001100000001100001000000-1110-1
+Trochictis                  ---00---00000---1100--010200001---1110001000---0100-1----11---------10-0--------
+Kinometaxia                 -1000-0--00---0-11---0112202-----102-0----011-------------121-4--0101---10------
+Ailurus_fulgens             000-0-11000-0101011010000110010010122001110000001500111111030010110211100-0--010
+Gulo_gulo                   0000000000000100111000010210121010011000000111020000100-01021-410011100010000010
+Lontra_canadensis           -0-2110100000100111001011000100020012002000001001300100-01121-410100110010000011
+Martes_americana            000000000000010011100001021010101-211000000011010000100-01121-410011100010001010
+Mephitis_mephitis           1110000000111100111000010011120011222001100100001401102-01130-4100111000110--111
+Mustela_frenata             1000101001000100111000010100121011222000000111020100100-01121-4100111000100--010
+Mydaus                      10100101001011001110000100110-001-122001011100001501100-01130-4100021100000--111
+Phoca_vitulina              1010010-0100000011101100111-1-1-2021100----0------10-----11---4--------0---11010
+Potos_flavus                000-010-1000010011100001111112111022200110000---13001110111300?110021000100--000
+Procyon_lotor               001-000-1000010011100001021012111001100111000-0014001110111300101002101100000000
+Spilogale_putorius          1110000001111100111000010111-2001-222001000100001400102001120-4100101000110--111
+Taxidea_taxus               0011001010000111111--0010200001010022002110011000200002-01141-4100111100100--011
+Ursus_arctos                000-000-0001011101102000000100101002200111100--01500000100030000100210001-0--010
+Vulpes_vulpes               011-0-1--00000000001000002001010102010000000000000011021000000000010000000011001
+
+;
+
+
+cnames
+{ 0 Anterior_opening_of_palatine_canal At_maxilla-palatine_suture Anterior_to_suture;
+{ 1 Posterior_margin_of_secondary_palate Posterior_to_M1 Even_with_M1;
+{ 2 Sagittal_partition_of_nasal_cavity_by_vomer Posterior_edge_anterior_to_posterior_end_of_horizontal_lamina_of_vomer At_or_adjacent_to_horizontal_lamina;
+{ 3 Infraorbital_canal_diameter Small Large Very_Large;
+{ 4 Infraorbital_canal_orientation Anteriorly_oriented Anteroventrally_oriented;
+{ 5 Position_of_sphenopalatine_relative_to_posterior_palatine_foramina In_a_distinct_common_fossa No_common_fossa;
+{ 6 Posterior_carotid_foramen Posterior_to_suture_of_basiocccipital/_basishenoid_suture Level_or_anterior_to_suture;
+{ 7 Position_of_stylomastoid_foramen_and_articulation_of_tympanohyal_with_basicranium Tympanohyal_in_a_common_fossa_or_immediately_posteromedial_to_foramen Separated_by_a_bony_bridge;
+{ 8 Posterior_lacerate_and_jugular_foramina_ "Fused"_into_single_foramen Separate_with_jugular_posterolateral_to_posterior_lacerate_foramen;
+{ 9 Paroccipital_process Moderately_to_strongly_developed,_projecting_posteriorly Weak_or_absent;
+{ 10 Lateral_swelling_of_cranium_dorsal_to_mastoid_process Absent_ Present;
+{ 11 Condyloid_canal Present Absent;
+{ 12 Osseous_tentorium Present Absent;
+{ 13 Size_of_palatine Midline_length_of_palatine_less_than_midline_length_of_maxilla Greater;
+{ 14 Posterior_width_of_palate Wider_than_width_at_canines Subequal;
+{ 15 Lacrimal Rostral_flange_reduced_or_absent Orbital_flange_greatly_reduced_to_area_surrounding_lacrimal_foramen;
+{ 16 Alisphenoid_canal Present Absent;
+{ 17 Broadening_of_the_basioccipital_between_auditory_bullae Absent Present;
+{ 18 Ectotympanic_contributes_to_external_auditory_meatus No Yes;
+{ 19 Entotympanic_septum Absent Present;
+{ 20 Excavation_in_basioccipital_accommodating_inferior_petrosal_sinus Small_or_indistinct Large,_excavation_distinct Excavation_extremely_deep;
+{ 21 Postorbital_region Not_elongate_in_adults Greatly_elongate_in_adults;
+{ 22 Cranial_Cresting Dorsal_cranial_crests_Y-shaped_in_adults X-shaped_to_parallel_parasagittal_crests;
+{ 23 Posterior_carotid Adjacent_to_fossa_containing_posterior_lacerate_foramen Separated_from_fossa;
+{ 24 Posterior_lacerate_foramen Smaller_than_extrnal_auditory_meatus_opeing Enlarged,_greater_then_meatus State_2;
+{ 25 Smallest_width_of_auditory_bulla_between_posterior_lacerate_and_sylomastoid_foramina Smaller_than_diameter_of_stylomastoid_foramen Greater_than_stylomastoid,_with_posterior_margin_of_ectotmypanic_in_front_of_posterior_border_of_fossa_containing_posterior_lacerate_foramen_ Greater_than_stylomastoid,_with_posterior_margin_of_ectotmypanic_situated_behind_fossa;
+{ 26 Shape_of_infraorbital_foramen Elongate Round;
+{ 27 Position_of_infraorbital_foramen Above_anterior_edge_of_P4 Above_mid-posterior_portion_of_P4 Above_P3;
+{ 28 Hypoglossal_foramen_relative_to_groove_between_occipital_condyle_and_paroccipital_process Inline_with_groove Anterior_to_groove;
+{ 29 Suprameatal_fossa Absent Small Large;
+{ 30 Inflation_of_auditory_bull Restricted_to_immediately_medial_to_external_meatus Increased_and_expanded_medially_and_posteriorly;
+{ 31 Ethmoid_foramen Small Large;
+{ 32 Relative_length_of_frontal_and_parietal_midline Frontal_less_than_parietal Frontal_and_parietal_subequal Frontal_much_longer_than_parietal;
+{ 33 Placement_of_the_postglenoid_foramen Medial_placement More_lateral,_external_near_edge_of_skull;
+{ 34 Shape_of_mastoid_process_ Forms_a_distinct_process,_extending_further_or_subequal_with_the_paroccipital_process Blunt_and_rounded,_does_not_project_significantly,_more_a_mastoid_swelling Thin_plate_of_bone,_no_process;
+{ 35 P1 2-rooted 1-rooted Absent;
+{ 36 p1 2-rooted 1-rooted Absent;
+{ 37 P2 Present Absent;
+{ 38 p2 Present Absent;
+{ 39 P4_medial_shelf Absent Moderately_developed Extensive_with_posterior_projection_to_end_of_metastylar_blade;
+{ 40 P4_protocone No_distinct_cusp Distinct_cusp;
+{ 41 P4_hypocone Absent Present;
+{ 42 P4_shape Large,_with_length_similar_to_M1_and_metastyle_developed Much_shorter_than_M1_with_reduced_metastyle;
+{ 43 p4_posterior_accessory_cusp Present Absent;
+{ 44 M1_shape Buccal_anterioposterior_length_large_percentage_of_transverse_width,_paracone/metacone_well_developed Aneteroposteriorly_smaller_than_transverse_with_reduced_metacone/paracone;
+{ 45 M1_postprotocrista Present Absent_or_minimally_developed;
+{ 46 M1_orientation_of_preprotocrista Extends_lingually_to_posterolingually_from_parastyle_to_protocone Extends_mostly_posteriorly_and_is_elongate_and_divided_into_cuspules;
+{ 47 m1_metaconid Large Much_smaller_than_other_trigonid_cusps Absent;
+{ 48 m1_talonid_length Less_than_trigonid Subequal_to_trigonid;
+{ 49 m1_talonid_morphology Lingual_rim_complete_with_hypoconid_and_shallow_basin Lingual_rim_absent_with_prominent_hypoconid No_basin,_hypoconid_and_entoconid_well_developed_with_a_buccal_cingulum Strong_lingual_rim_and_basin,_cusps_poorly_developed Prominent_basin_and_rim_hypoconid_and_entoconid_well_developed Basin_rim_complete_with_many_accessory_cuspules;
+{ 50 m2 Present Absent;
+{ 51 Shape_of_incisor_row Straight Parabolic;
+{ 52 P4_protocone Medial_or_posterior_to_paracone Anterior_to_paracone;
+{ 53 m2_talonid Without_elongate_talonid_or_enlarged_hypoconiuld Elongate_and_enlarged_hypoconulid_present;
+{ 54 M1_hypocone Absent Present Hypocone_formed_by_swelling_of_the_cingulum_ridge;
+{ 55 M2_hypocone Absent Present;
+{ 56 Metaconules_on_upper_molars Un-enlarged Enlarged;
+{ 57 m3_ Present Absent;
+{ 58 P4_carnassial_notch Present_ Absent;
+{ 59 M1_form Lingual_half_shorter_than_buccal_half,_anterior_and_posterior_margins_not_parallel Lingual_half_shorter_than_buccal_half,_anterior_and_posterior_margins_parallel Subequal_lingual_and_buccal_halves,_separated_by_"waist" Subequal_lingual_and_buccal_halves,_no_"waist"_present Buccal_much_shorter_than_lingual_with_non-parallel_margins;
+{ 60 M1_anterior/posterior_cingula Not_continuous Continuous_around_base_of_protocone;
+{ 61 M2_buccal_border Situated_behind_buccal_half_of_M1 Situated_behind_lingual_hald_of_M1;
+{ 62 M2 3_rooted,_smaller_than_P4 3_rooted_subequal_to_P4 1_rooted Absent;
+{ 63 m2_metaconid Present Not_differentiated;
+{ 64 m2_entoconid/entoconulid Poorly_differentiated Prominent_cusps;
+{ 65 M1_protocone_height_relative_to_metacone Protocone_shorter Subequal;
+{ 66 M1_parastyle_projection_labially_further_than_metastyle No Yes;
+{ 67 M1_parastyle_orientation Buccally_and_anteriorly Buccally Absent;
+{ 68 P3_posterior_accessory_cusps Present Absent;
+{ 69 M1_hypoconulid Absent Present;
+{ 70 M2_hypoconulid_heel Absent Present;
+{ 71 Angular_process_of_dentary At_or_below_level_of_tooth_row Above_tooth_row;
+{ 72 External_cingula_of_upper_molars Present Absent_or_very_reduced;
+{ 73 M1_metacone-metaconule_crest Absent Present;
+{ 74 I2-I3_diastema Absent Present;
+{ 75 C-P1_diastema Absent Present;
+{ 76 P1-P2_diastema Absent Present;
+{ 77 Upper_incisor_heteromorphy I3_>_I1,I2 All_subequal_in_size;
+{ 78 Lower_incisor_heteromorphy i1_subequal_in_size_to_i2 i1_small_and_crowded;
+{ 79 Lower_incisors Vertical Procumbent;
+;
+
+
+ccode  - 0.79;
+
+
+;

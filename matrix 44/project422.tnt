@@ -1,0 +1,249 @@
+nstates num 9;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 13.35.33'
+189 42
+
+&[num]
+Hutchinsoniella          2-----1-000-????202000000??0000?0-2060--0---0010-?-?-00????0000----0?0-0-0-0---------?1-000??-----?-00???---0----0-0000-3-20061-0-100-0-02---000?????00-10??2?020-1??0-?20----100????-0?0-00?
+Artemia                  001100012-0-?2-020--00000??0-0002----0--0---0010-?-?-0000010000----0?0-0-?-0---------?1-000??-----?-00???---0----0-0000-3-2?071-0-100-0-02---0000012?00-100020020-0??0-?20----1000?00-000-005
+Homarus                  00110201010-?0-020??00000??000000-2070--0---0010-?-?-00000100003---0?0-0-0-0---------??-300??-----?-00???---0----0-0000-3-20081-0-000-0-02---00020?11?1?10002?020-0??0-?20----1000?00-000-00?
+Scutigerina              0000001-010-00-0102100000000000?0--0500-100100010000000000100001---1?0-000-0---------00-10003---010000000---0000-0-000003-20000-0-000-0-10---0000010000-000000000-0000-0010-000002?01-0000001
+Lithobius                10000?1-000-00-010210000000000000--0100-100100010000000000000001---1?0-000-0---------00-10003---010000000---0000-0-000003-20000-0-000-0-10---0000010000-000000000-0000-0010-000002001-0000002
+Scutigerella             2-----1-000-00-0100000011000001?3-0-40--100100010000000000000002---0?0-002-0---------00-00000---000000100---0100-0-000000-00010-0-010-0-02---0000??00???00??00000-0020-?000-00000000000000000
+Hanseniella              2-----1-000-00-0100000011000001?3-0-40--100100010000000000000002---0?0-002-0---------00-00000---000000100---0100-0-000000-00010-0-010-0-02---0000??00???00??00000-0020-?000-00000000000000000
+Acerentulus              2-----1-3---0---102021021001-00?0100201020?0000000000111111200000000?0-00300---------12-20100000010000200---0---00-000002010020?0-000-0-010--1100012100-011012020-1130-1100-10000?????000000?
+Neocondeellum            2-----1-3---0---102021021001-00?0100201020?0000000000111111200000000?0-00300---------12-20100000010000200---0---00-000002010020?0-000-0-010--1100012100-011012020-1130-1??????????????000000?
+Baculentulus             2-----1-3---0---102021021001-00?0100201020?0000000000111111200000000?0-00300---------12-20100000010000200---0---00-000002010020?0-000-0-010--1100012100-011012020-1130-1??????????????000000?
+Xenylla                  10011000100002--100021021000000?200-4010?00?000000100000110000000000?0-10100---------21-00100111010000200---0---31110000202003010-000-0-02---0001012000-002023120-0230-0100-00110010001000000
+Onychiurus               10011000100102--100021021000000?200-4010?00?000000100000110000000000?0-10100---------21-00100111010000200---0---31110000202003000-000-0-02---0001012000-002023120-0230-0100-00110010001000000
+Tetrodontophora          10011000100102--1000210210000001200-4010?00?000000100000110000000000?0-10100---------21-001001?1010000200---0---31111000202003000-000-0-02---0001012000-002023120-0230-0100-00110010001000000
+Neanura                  10011000100002--100021021001-00?200-4010?00?000000100000110000000000?0-10100---------21-00100111010000200---0---31111000212003010-000-0-02---0001012000-?02023120-0230-0100-00110010001000000
+Morulina                 10011000100002--100021021001-00?200-4010?00?000000100000110000000000?0-10100---------21-001001?1010000200---0---31110000212003010-000-0-02---0001012000-?02023120-0230-0100-00110010001000000
+Orchesella               10011000100002--100021021000000?200-40101000000000100000110000000010?0-10100---------21-00100000010000200---0---31010100202003000-000-0-02---0001012000-00202?120-0230-0100-00110010001000000
+Folsomia                 10011000100002--100021021000000?200-40101000000000100000110000000010?0-10100---------21-00100000010000200---0---31010100202003000-000-0-02---0001012000-002023120-0230-0?????????010001000000
+Tomocerus                10011000100002--1100210210000001200-40101000000000100000110000000010?0-10100---------21-00100000010000200---0---31010100202003000-000-0-02---0001012000-002023120-0230-0?????????010001000000
+Sminthurinus             1001100010000?--00?021021000000?200-4010?00?000000100000110?00000010?0-10100---------21-00100000010000200---0---31010000202003000-000-0-02---0001012000-0?2?23?20-0230-1100-00110010001000000
+Campodeidae              2-----1-000-10-0100010112100101?200030100---000000000000000000000000?0-10300---------10-00200---000010200---020020-000000-10040-10000-0-02---0000002000-000110000-1230-1??????????????1000000
+Campodea                 2-----1-000-10-0100010112100101?200030100---000000000000000000000000?0-10300---------10-00200---000010200---020020-000000-10040-10000-0-02---0000002000-000110000-1230-1001000110210011000000
+Lepidocampa              2-----1-000-10-0100010112100101?200030100---000000000000000000000000?0-10300---------10-00200---000010200---020020-000000-10040-10000-0-02---0000002000-000110000-1230-1?????????210011000000
+Catajapyx                2-----1-000-10-0101010112100100?200020100---000000000001000000000000?0-10300---------10-00200---000010300---030020-000000-10040-11000-0-011--0000002000-0?0?2001101130-10010001102??01100000?
+Metajapyx                2-----1-000-10-0101010112100100?200020100---000000000001000000000000?0-10300---------10-00200---000010300---030020-000000-10040-11000-0-011--0000002000-0?0?2001101130-10010001102??01100000?
+Heterojapyx              2-----1-000-10-0101010112100100?200020100---000000000001000000000000?0-10300---------10-00200---000010300---030020-000000-10040-11000-0-011--0000002000-0?0?2001101130-1??????????????100000?
+Parajapyx                2-----1-000-10-0101010112100100?200020100---000000000001000000000000?0-10300---------10-00200---000010300---030020-000000-10040-11000-0-011--0000002000-0?0?2001101130-1??????????????100000?
+Dilta                    01011000011-1100012000011000010?10100011111010000000000000001000000000-30000---------13000111---100000201---040010-000000-10050-10001010011002300002000-1001000010111101001100210111001000011
+Petrobius                01011000011-1100012000011000010?10100011111010000000000000001000000000-30000---------13000111---100000201---040010-000000-10050-10001010011002300002000-1001000010111101001100210111001000011
+Machiloides              010???00011-1???022000011000010?10100011111010000000000000?01000000000-30000---------13000111---100000201---040010-000000-11050-10001010011000300002000-1001000010111101??????????????1000010
+Allomachilis             010???00011-1???022000011000010?10100011111010000000000000?01000000000-30000---------13000111---100000201---040010-000000-11050-10001010011000300002000-1001000010111101??????????????1000010
+Tricholepidion           000??100011-1???000100010010000?0001101112101010000010000??120000000?0-?0000---------13000112---100000200---041010-000000-10050-10001111011002300002010-??01000111113111001100211?????1000002
+Lepisma                  0001111-011-1100010100010010000100011011121010101100100000012000000000-10400---------13000111---100000200---041010-000001-11050-1000101101100230000201101001000111113111001100211212001000002
+Thermobia                0001111-011-1100010100010010000100011011121010101100100000012000000000-10400---------13000111---100000200---041010-000001-11050-100010110110023000020110?001000111113111001100211212001000002
+Texoreddellia            2-----1-011-1???010100010010000?00011011121010101100100000?12000000000-10000---------13000111---100000200---041010-000000-11050-10001111011002300002010-?0010001111131110?????????????1000003
+Squamigera               2-----1-011-1???010100010010000?00011011121010101100100000?12000000000-10000---------13000111---100000200---041010-000000-11050-10001111011002300002010-?0010001111131110?????????????1000003
+Callibaetis              000?1200011-12--000100011010001?0000001112101110110100000012200000001100000100001100013101112---100101400000040020-000103-20051-1000100-01201220000201101001010111110111001010200212001011005
+Choroterpes              000?1200011-12--000100011010001?0000001112101110110100000012200000001100000100001100013101112---100101400000040020-000103-20051-1000100-01201220000201101001010111110111001010200212001011005
+Anax                     00011200011-111000010001002000??0000011112101110111110000012201000001110000100001100013100111---100001400100041120-000013-20050-1000201101200231001201101001010111110111001100210212001101004
+Libellula                00011200011-111000010001002000??0000011112101110111110000012201000001110000100001100013100111---100001400100041120-000013-20050-1000201101200231001201101001010111110111001100210212001101004
+Forficula                000???1-011-1101100100010020000?000000111210111011111000001221001000?202101111100211113100111---101001410111141120-000003-20150-11000-2-0121-200001201101001010111110111001101210212001100105
+Labidura                 000???1-011-1101100100010020000?000000111210111011111000001221001000?202101111100211113100111---101001410111141120-000003-20150-11000-2-0121-200001201101001010111110111001101210212001100105
+Locusta                  00011200011-110200010001002000010000001112101110111110000012210001000101100110110111113100112---100001410100041110-000003-20050-10000-3101200230011201111001010111110111001100210212001100005
+
+;
+
+
+cnames
+{ 0 Compound_eye Developed Dispersed_(including_myriapod_ocelli/stemmata) Absent;
+{ 1 Compound_eye_medial_margins_(Kraus_1998,_ch._29) Not_medially_contiguous Medially_contiguous;
+{ 2 Compound_eye_stalked,_basally_articulated Eye_sessile Eye_stalked;
+{ 3 "Tetraconate"_eye_ultrastructure_(Paulus_1979) More_than_four_cone_cells,_more_than_eight_retinular_cells Four_crystalline_cone_cells,_eight_retinular_cells;
+{ 4 Primary_pigment_cells_(Paulus_1979) Corneagenous_cells_not_primary_pigment_cells Corneagenous_cells_are_two_primary_pigment_cells;
+{ 5 Chiasmata_in_optic_lobe_(Strausfeld_1998) No_chiasmata_(ScutigeraStrausfeld_in_Klass_and_Kristensen_2001) Chiasma_between_lamina_ganglionaris_and_medulla Two_chaismata,_between_lamina_ganglionaris_and_medulla_/_between_medulla_and_lobula;
+{ 6 Ocelli_(Bitsch_and_Bitsch_2000,_ch._8) Present_(median_eyes,_including_naupliar_eyes) Absent;
+{ 7 Median_eyes_fused_to_naupliar_eyes_(Lauterbach_1983) Absent Present;
+{ 8 Antennal_segmentation Multisegmented Reduced_to_a_few_segments Unjointed Antenna_absent;
+{ 9 Antennal_musculation Antennal_articles_individually_musculated Annulated_antenna_lacking_independently_musculated_articles;
+{ 10 Johnston''s_organ_in_antennal_pedicel Absent Present;
+{ 11 Sensory_organ_of_third_antennal_segment_(D''Haese,_ch._10) Without_papillae Hidden_by_well_developed_papillae;
+{ 12 Postantennal_organs_(Bitsch_and_Bitsch_1998,_ch._5) Present_(Bellonci's_organ_possibly_homologousKlass_and_Kristensen_2001) Absent;
+{ 13 Antennal_vessels_(Pass_1991,_Bitsch_and_Bitsch_1998,_ch._18) Pair_connected_to_aorta Pair_separate_from_aorta Absent;
+{ 14 Antennal_ampullae_indirectly_compressed_by_pharynx_movements_(Pass_2000) Absent Present;
+{ 15 Antennal_pulsatile_organs_(Pass_2000) Absent Pulsatile_organ_with_fronto-pharyngeal_compressor Pulsatile_organ_with_ampullo-pharyngeal,_ampullo-ampullary_and_ampullo-aortic_dilators;
+{ 16 Head_orientation_(Bitsch_and_Bitsch_2000,_ch._3) Hypognathous Prognathous Mouth_directed_backwards;
+{ 17 Scales Absent Present Absent_on_antennae;
+{ 18 Frontal_line_(Bitsch_and_Bitsch_2000,_ch._4) Inverted,_Y-shaped_line Reduced_to_coronal_suture Weak_to_absent;
+{ 19 Clypeofrontal_sulcus_(Bitsch_and_Bitsch_2000,_ch._5) Absent Present;
+{ 20 Entognathy Mouthparts_not_retracted_into_pocket_in_head-capsule Hypertrophy_of_pleural_folds,_maxillae_and_mandibles_in_separate_gnathal_pouches Pleural_folds_almost_fused_ventrally,_maxillae_and_mandibles_in_single_gnathal_pouch;
+{ 21 Linea_ventralis_(Koch_1997,_Kraus_1998,_ch._18) Absent Present;
+{ 22 Admentum_differentiated_ventrally_between_prementum_and_oral_fold_on_each_side_of_head_capsule_(Koch_1997),_developing_from_po Absent Present;
+{ 23 Labium_(second_maxilla_bordering_mouthKraus_and_Kraus_1994) Second_maxillae_separate Fused Basally_obliterated;
+{ 24 Superlinguae Absent Present Interlocking_with_galea_(Koch_1997,_Kristensen_1998);
+{ 25 Mandibular_condylus_and_connection_with_head_(Koch_1997) Basic_condylus_and_ligament_connecting_base_of_mandibles_with_lateral_wall_of_head_capsule Basic_condylus_and_mandibular_ligament_reduced;
+{ 26 Mandibular_articulation_(Furst_von_Lieven_2000,_Staniczek_2000) Monocondylic Dicondylic Ball-and_socket_articulation_between_clypeal_condyle_and_mandibular_ridges;
+{ 27 Mandibular_form_(Kristensen_1981) Broad Stylettiform;
+{ 28 Mandibular_teeth Lateral Terminal,_forming_shovel-like_pars_incisivus_(Koch_2001);
+{ 29 Mandible_with_large,_stalked_molar_process_and_tapering_incisor_process_(Koch_2001) Absent Present;
+{ 30 Mandibular_prostheca_(Bitsch_and_Bitsch_2000,_ch._14) Absent Present_(lacinia_mobilis_not_homologousRichter_et_al._2002);
+{ 31 Distal-less_expression_in_mandible Transient_expression_at_least No_expression_at_any_stage;
+{ 32 Maxillary_palpi Smaller_than_thoracic_leg_(Crustaceamaxillary_endopodal_palp_smaller_than_thoracic_endopods) Enlarged Reduced_or_vestigial Absent;
+{ 33 Lacinia_(Kristensen_1981) Broad Slender_rod;
+{ 34 Labial_(second_maxillary)_endites Single_lobe Bilobed_(Kristensen_1998,_ch._40) Several_lobate_endites_on_second_maxillary_protopod;
+{ 35 Apical_segment_of_labial_(second_maxillary)_palp_(Kristensen_1998,_ch._60) Narrow Widened;
+{ 36 Labial_(second_maxillary)_palp_(Bitsch_and_Bitsch_2000,_ch._18) 3_segments 4_segments Short,_1-segmented,_or_replaced_by_row_of_short_setae Setigerous_plate Absent 5_segments Endopod_of_6_segments_and_terminal_spine Endopodal_palp_with_2_segments;
+{ 37 Larval_labium_(second_maxilla) Not_prehensile Prehensile;
+{ 38 Opening_of_ectodermally-derived_salivary_glands_(Bitsch_and_Bitsch_1998,_ch._8) Pair,_at_base_of_second_maxillae Unpaired,_median;
+{ 39 Position_of_median_salivary_gland_opening Midventral_groove_of_labium Salivarium;
+{ 40 Anterior_tentorium Absent_(Diplura_coded_following_Bitsch_and_Bitsch_2002) Ectodermal_invaginations_(Folsom's_arms_homologousBitsch_and_Bitsch,_2002) Fulcro-tentorium;
+{ 41 Anterior_tentorial_apodemes_(Koch_2000) Separate_rod-like_apodemes Anterior_part_of_tentorial_apodemes_forms_arched,_hollow_plates_that_approach_each_other_mesially_but_remain_separate Anterior_tentorium_an_unpaired_roof;
+{ 42 Posterior_suspension_of_anterior_apodemes_to_cranial_wall_(Koch_2000) Absent Present;
+{ 43 Head_apodemes_fused_anteriorly_with_hypopharyngeal_sclerites_and_with_transverse_sclerites_(Bitsch_&_Bitsch_2002) Transverse_sclerites_absent Transverse_sclerites_present;
+{ 44 Posterior_tentorial_apodemes_(Bitsch_and_Bitsch_2002) Absent Present_as_metatentorium;
+{ 45 Corporotentorium Absent Present;
+{ 46 Fulturae_or_reduced_to_hypopharyngeal_suspensorium_(Bitsch_and_Bitsch_2000,_ch._19) Present Absent;
+{ 47 Anterior_dorsal_muscle_forming_gnathal_lobe_flexor_(Kluge_1999,_Koch_2001) Dorsal_remotor_forms_cranial_adductor Dorsal_promotor_(anterior_dorsal_muscle)_forms_gnathal_lobe_flexor;
+{ 48 Origin_of_ventral_tentorial_adductors_(Staniczek_2000) On_intergnathal_connective_lamina On_anterior_tentorial_arm_(intergnathal_connective_lamina_absent);
+{ 49 Mandibulo-hypopharyngeal_muscle_(Staniczek_2000) Absent Present;
+{ 50 Tentorio-mandibular_muscles_(Kristensen_1975,_Beutel_and_Gorb_2001,_ch._29) Several_bundles One_thin_bundle_or_absent;
+{ 51 Transverse_stipital_muscle Present Absent;
+{ 52 Tentorio-lacinial_muscle_(Kristensen_1975) Present Absent;
+{ 53 Protocerebrum_(Bitsch_and_Bitsch_1998,_ch._1) Two_hemispheres Two_dorsal_lobes_and_two_posterior_lobes;
+{ 54 Deutocerebrum_(Bitsch_and_Bitsch_1998,_ch._2) Well-developed_lobes,_receiving_antennary_nerves Small_lobes,_without_antennary_nerves;
+{ 55 Tritocerebral_commissures_(Bitsch_and_Bitsch_1998,_ch._3) 1_or_2_free_commissures Commissure_in_subesophageal_ganglion;
+{ 56 Epipharyngeal_ganglia_(Francois_1969,_Kristensen_1991) Small Enlarged;
+{ 57 Pseudocommissure_of_stomatogastric_nervous_system Without_entognathous_position With_entognathous_position;
+{ 58 Circumesophageal_ring_(Gereben-Krenn_and_Pass_1999) Present Absent;
+{ 59 Cephalic_excretory_organs_(Bitsch_and_Bitsch_1998,_ch._13) 1_or_2_pairs_of_complete_nephridial_organs Pair_of_labial_kidneys Absent;
+{ 60 Postoccipital_ridge_(Kristensen_1975,_Staniczek_2000) Absent Lateral Continuous;
+{ 61 Two_cervical_sclerites_(Kristensen_1981) Absent Present;
+{ 62 Lateral_cervical_sclerite_in_three_pieces Absent Present;
+{ 63 Position_of_ambulatory_legs Postcephalic_segments_1-3 Postcephalic_segments_2-16 Postcephalic_segments_1-12 Postcephalic_segments_5-8_(second_to_fifth_pereiopods);
+{ 64 Discoid_pronotum_(Kristensen_1981) Absent Present;
+{ 65 Pronotum_overlapping_propleuron Absent Present;
+{ 66 Prothorax_tergum_(D''Haese,_ch._71) Developed Reduced,_without_setae;
+{ 67 Trunk_heterotergy_(Ax_1999) Absent Present_(long_tergites_on_pedigerous_segments_1,_3,_5,_7,_8,_10,_12_and_14);
+{ 68 M._scutello-postnotalis_III_(Beutel_and_Gorb_2001,_ch._59) Present Absent;
+{ 69 Pleural_sutures_(Boudreaux_1979) Absent Not_slanting_forward Slanting_forward;
+{ 70 Pteropleura_tilted_backward,_notum_small No Yes;
+{ 71 Trochantin_(Kristensen_1981) Absent Present Trochantin_episternal_sulcus Absent_in_meso-_and_metathorax;
+{ 72 Separate_coxopleuron_(Kristensen_1975) Yes No;
+{ 73 Sternal_part_of_the_trunk_(thorax)_(Bitsch_and_Bitsch_2000,_ch._23) Each_segment_includes_a_large_sternum Sternal_area_divided_into_2_hemisternites Mostly_membranous,_showing_only_a_pair_of_small_sclerites Y-shaped_ridge_on_sternal_plates Sternites_extended_rearward_to_form_substernal_laminae;
+{ 74 Mesothoracic_basisternal_fold_(Kristensen_1975) Absent Present;
+{ 75 Two_pairs_wings Absent Present;
+{ 76 Wing_flexion Absent Present;
+{ 77 Forewings_truncate No Yes;
+{ 78 Sclerotization_of_forewing_(Kristensen_1981) Membranous Sclerotized;
+{ 79 Prominent_precostal_field Absent Present;
+{ 80 Basal_wing_brace_(Kukalova-Peck_1985) Absent Present;
+{ 81 Forewing_media_fusion Absent MA_+_MP MA_+_R;
+{ 82 Anal_furrow_(Hennig_1969) Absent Present;
+{ 83 Enlarged_hindwing_vannus_(Kristensen_1981) Small Enlarged;
+{ 84 Vannus_pleated_(Kristensen_1981) No Yes;
+{ 85 Locomotory_limbs 7-segmented 6-segmented Tibiotarsus;
+{ 86 Coxa-body_articulation Ventral None_(arthrodial_membrane) Dicondylic Pleural;
+{ 87 Mobility_of_pleural_articulation_of_coxa Mobile Immobile;
+{ 88 Legs_I Locomotory_appendages Maxillipede_housing_poison_gland Sensory First_maxillipede_resembling_(second)_maxilla;
+{ 89 Male_forelegs_clasping Absent Present;
+{ 90 Jointed_"knee" Absent Present Rotating_pivot_(Manton_1972Kristensen_1998,_ch._14);
+{ 91 Femoro-tibial_articulation Moncondylic Dicondylic;
+{ 92 Tarsi Not_subdivided 3-segmented 5-segmented 2-segmented;
+{ 93 Tibiotarsal_setae_of_T_row_(D''Haese,_ch._88) Absent Present;
+{ 94 Tibiotarsal_M_setae_(D''Haese,_ch._89) Absent Present;
+{ 95 Ratio_tibiotarsus:claw_(D''Haese,_ch._94) Much_more_than_2 Between_1_and_2;
+{ 96 Pretarsus_(Beutel_and_Gorb_2001) Retained_as_a_small_separate_sclerite_and_attached_claws Separate_sclerite_reduced,_transformed_into_planta_and_unguitractor_plate;
+{ 97 Pretarsal_claws_(Hennig_1969,_1981,_Kristensen_1975) Two One;
+{ 98 Hairy_adhesive_soles_of_two_proximal_tarsomeres_(Beutel_and_Gorb_2001) Absent Present;
+{ 99 Claw_pad,_one_claw_transformed_into_thickened_attachment_organ_(Beutel_and_Gorb_2001) Absent Present;
+{ 100 Thoracic_leg_musculature_(Manton_1972,_Kristensen_1991) Without_trochanteral_femur-twisting_muscles With_such_muscles;
+{ 101 Two_coxal_proprioreceptor_organs_(Lombardo_1973,_Hennig_1981) Absent Present;
+{ 102 Trunk_endoskeleton_in_each_segment_(Bitsch_and_Bitsch_2000,_ch._25) Pair_of_lateral_connective_plates Pair_of_sternocoxal_rods Complex_connective_endoskeleton With_cuticular_spinae_on_connective_endoskeleton Endoskeleton_mainly_cuticular;
+{ 103 Metaspina_(Kristensen_1975) Present Absent;
+{ 104 Pleural_apodeme Not_strongly_developed_in_meso-&metathorax Strongly_developed;
+{ 105 Pterothoracic_muscles_(Kristensen_1975) Present Absent;
+{ 106 Indirect_wing_muscles_(Boudreaux_1979) Developed Reduced;
+{ 107 Metathoracic_tergosternal_wing_elevators Present Weak;
+{ 108 Metathoracic_and_abdominal_sternum_I_fused No Yes;
+{ 109 Spiracles_(Bitsch_and_Bitsch_2000,_ch._44) 6_or_7_pairs_of_trunk_spiracles_on_segments_with_long_tergites_(post-maxillipede_segments_3,_5,_8,_10,_12_and_14) One_pair,_on_side_of_head 3_pairs,_on_thorax_only Up_to_4_pairs_on_thorax_and_7_pairs_on_abdomen 2_pairs_of_thoracic_spiracles;
+{ 110 Direct_spiracular_musculature_(Whiting_et_al._1997ch._25) Absent Present;
+{ 111 Posterior_tracheation_of_leg_(Kristensen_1975) Absent Present;
+{ 112 Abdominal_segmentation Abdomen_of_11_segments_+_telson_(=12) 11_segments 10_segments Six_segments;
+{ 113 Ventral_tube Absent Present;
+{ 114 Shape_of_ventral_tube_(D''Haese,_ch._104) Cylindrical,_elongate_(optical_section_circular),_longer_than_wide Not_prominent_(optical_section_oval),_wider_than_long;
+{ 115 Furcula Absent Present;
+{ 116 Pseudocelli_(D''Haese,_ch._124_+_125) Absent Present;
+{ 117 Pseudopores_(Deharveng,_1978,_D''Haese,_ch._130) Absent Present;
+{ 118 Paired_larval_gills Absent Present,_lateral;
+{ 119 Posterior_tracheal_larval_gills Absent Present;
+{ 120 Eversible_vesicles_(Bitsch_and_Bitsch_2000,_ch._34) Coxal_vesicles_on_more_than_5_abdominal_segments One_pair_of_coxal_vesicles_on_<_5_abdominal_segments Vesicles_at_distal_part_of_first_abdominal_appendage_(leglet_or_collophore)_(Klass_and_Kristensen_2001) Absent;
+{ 121 Sixth_abdominal_segment_(D''Haese,_ch._122) Simple Bilobate;
+{ 122 Pregenital_abdominal_styli Proximal_to_coxae Reduced,_styli Absent;
+{ 123 Abdominal_sterna_(Kristensen_1998,_ch._67) Large Reduced;
+{ 124 Female_SVII_(Hennig_1981) Small Large;
+{ 125 Gonopore Near_back_of_body,_on_segment_XVII On_sternite_of_trunk_segment_IV On_abdominal_segment_XI On_abdominal_segment_V Between_abdominal_segments_VIII_and_IX Abdominal_segment_VIII_(female),_X_(male) On_sixth_pereion_segment_(=abdominal_segment_III_of_Hexapoda) On_twelfth_pereion_segment_(=abdominal_segment_IX_of_Hexapoda) On_sixth_pereion_segment_in_female,_eighth_pereion_segment_in_male;
+{ 126 Paired_female_genital_openings_(Kristensen_1975,_Boudreaux_1979) Absent Present;
+{ 127 Anal_valves_(D''Haese,_ch._117) Subequal,_not_overlapping Ventral_paired_valves_overlapping_dorsal_unpaired_valve;
+{ 128 Cerci Absent Present;
+{ 129 Cerci_forcipate,_unisegmented,_strongly_sclerotized Absent Present;
+{ 130 Paired,_articulated_furcal_rami Absent Present;
+{ 131 Paired_terminal_spinnerets_(Kraus_1998,_ch._49) Absent Present;
+{ 132 Caudal_filament Absent Present,_long Short;
+{ 133 Male_median_caudal_filament Without_sensory_cones With_sensory_cones;
+{ 134 Ovipositor Absent Present Vestigial Third_valvulae_forming_sheath;
+{ 135 Gonangulum_in_ovipositor_base_(Hennig_1969) Absent Present;
+{ 136 Female_gonopod,_used_to_manipulate_single_eggs_(Ax_1999) Absent Present;
+{ 137 Male_gonopods_or_gonocoxites_(Bitsch_and_Bitsch_2000ch._39) Pair_of_gonopods_on_trunk_segment_XVII Gonocoxites Absent;
+{ 138 Position_of_gonocoxites Fused_into_single_segment_borne_by_segment_XI Two_pairs_on_segments_VIII_and_IX_or_only_on_IX Fused_into_subgenital_plate;
+{ 139 Male_styli Expressed Suppressed;
+{ 140 Male_styli_IX Not_claspers Claspers;
+{ 141 Male_parameres_(Bitsch_and_Bitsch_2000,_ch._42) Absent Pair_of_lateral_plates_on_segment_IX Sclerites_included_in_phallic_complex;
+{ 142 Male_penes_(Bitsch_and_Bitsch_2000,_ch._43) Absent Paired_penes_on_segment_XI Paired_penes_on_segment_IX Median_penis;
+{ 143 Male_accessory_copulatory_organs Absent Present;
+{ 144 Dorsal_vessel_ostia__(Bitsch_and_Bitsch_1998,_ch._17) Dorsal_vessel_elongated,_with_7-15_pairs_of_ostia Dorsal_vessel_with_3-6_pairs_of_ostia Short_heart_in_posterior_part_of_cephalothorax,_with_few_pairs_of_ostia;
+{ 145 Open-ended_chambers_enclosing_paired_excurrent_ostia Absent Present;
+{ 146 Dorsal_vessel Rear_end_open,_bidirectional_flow Rear_end_closed;
+{ 147 Ventral_vessel_(Bitsch_and_Bitsch_1998ch._17) Supraneural Subneural Absent;
+{ 148 Digestion Extracellular Intracellular_(HomarusBarker_and_Gibson_1977);
+{ 149 Crop_(Bitsch_and_Bitsch_1998,_ch._6) Absent Differentiated,_posterior_in_esophagus;
+{ 150 Proventriculus_(Bitsch_and_Bitsch_1998,_ch._7) Absent Present;
+{ 151 Proventricular_neck,_before_anterior_enlarged_portion Absent Present;
+{ 152 Gastric_caeca_(Bitsch_and_Bitsch_1998,_ch._9) Absent Present;
+{ 153 Peritrophic_membrane_(Bitsch_and_Bitsch_1998,_ch._10) Present Absent;
+{ 154 Pyloric_region_(Bitsch_and_Bitsch_1998,_ch._11) Short,_simple_sphincter_or_valvula Sphincter_followed_by_pyloric_chamber Short,_with_ring_of_flattened_cells;
+{ 155 Proctodeum_(Bitsch_and_Bitsch_1998,_ch._12) Devoid_of_large_posterior_dilation Having_rectal_ampulla_with_differentiated_papillae;
+{ 156 Malpighian_tubules_(Bitsch_and_Bitsch_1998,_ch._14) Elongate_tubules Short_papillae Absent;
+{ 157 Ventral_nerve_cord_(Bitsch_and_Bitsch_1998,_ch._4) Long_chain 3_pairs_thoracic_ganglia,_4-6_pairs_abdominal Several_ganglia_fused_together All_abdominal_ganglia_fused_with_metathoracic;
+{ 158 Tendinous_struts Absent Present,_anchoring_cuticle;
+{ 159 Tracheal_system_(Bitsch_and_Bitsch_1998,_ch._15) Tracheae_not_interconnected Tracheae_with_transverse_and_longitudinal_connections Absent;
+{ 160 Ovary_(Bitsch_and_Bitsch_1998,_ch._20) Elongated_sacs Ovarioles;
+{ 161 Arrangement_of_ovarioles_(Bitsch_and_Bitsch_1998,_ch._20) Pectinate Grouped,_inserted_into_lateral_oviduct;
+{ 162 Location_of_ovary_germarium_(Bitsch_and_Bitsch_1998,_ch._21) In_ovarian_wall In_apical_part_of_each_egg_tube;
+{ 163 Ovary_(Bitsch_and_Bitsch_1998,_ch._22) Follicles_connected_with_ovarian_epithelium Panoistic Meroistic-polytrophic;
+{ 164 Seminal_receptacle_or_spermatheca_(Bitsch_and_Bitsch_1998,_ch._23) Dorsal Lateral_at_base_of_ovipositor Seminal_receptacle_on_each_side_of_head Absent;
+{ 165 Testis_(Bitsch_and_Bitsch_1998,_ch._24) Elongate_sacs,_sometimes_fused Several_follicles;
+{ 166 Arrangement_of_testicular_follicles_(Bitch_and_Bitsch_1998,_ch._24) Pectinate Grouped;
+{ 167 Location_of_testicular_germ_tissue_(Bitsch_and_Bitsch_1998,_ch._25) Ventral_or_laterodorsal Apical;
+{ 168 Form_of_spermatozoa_(Bitsch_and_Bitsch_1998,_ch._26) Elongate,_flagellate,_motile Encysted,_motile_at_fecundation Immotile,_aflagellate;
+{ 169 Spiral_ridge_on_nucleus_of_sperm_(Dohle_1985) Absent Present;
+{ 170 Supernumary_axonemal_tubules_(peripheral_singlets) Absent Present;
+{ 171 Protofilaments_in_wall_of_accessory_tubules_of_axoneme_(Dallai_and_Afzelius_1999,_Jamieson_et_al._1999) 13 16;
+{ 172 Medial_microtubules_in_axoneme_(Jamieson_et_al._1999) Present Absent;
+{ 173 Sperm_axoneme_sheaths Absent Present;
+{ 174 Sperm_centriole_adjunct_(Jamieson_et_al._1999) Present Absent Crystalline_accessory_bodies_developed_from_the_centriole;
+{ 175 Pair_of_elongate,_cristate_mitochondrial_derivatives_in_sperm Absent Present;
+{ 176 Sperm_conjugation_(Kristensen_1998,_ch._62) Absent Spermatozoa_paired;
+{ 177 Egg_cleavage_(Bitsch_and_Bitsch_1998,_ch._30) Total_and_equal Early_total_cleavage_followed_by_superficial Superficial_cleavage;
+{ 178 Dorsal_closure_of_embryo_(Machida_and_Ando_1998) Definitive_dorsal_closure_(dorsal_covering_of_embryo_participates_in_the_definitive_dorsal_closure) Provisional_dorsal_closure_(embryonic_dorsal_covering_degenerates_without_participating_in_definitve_closure,_which_is_exclusively_derived_from_the_embryo);
+{ 179 Amniotic_cavity_(Machida_and_Ando_1998) Absent Present,_open Present,_closed_(amnioserosal_fold_fuses_beneath_the_embryo);
+{ 180 Egg_tooth_on_embryonic_cuticle_of_second_maxilla_(Dohle_1985) Absent Present;
+{ 181 Rotation_of_labial_Anlagen_(Ikeda_and_Machida_1998) Absent Present;
+{ 182 Postembryonic_development Anamorphosis Epimorphosis;
+{ 183 Subimago_(Kristensen_1975) Present Absent;
+{ 184 Imaginal_lifespan Normal,_feeding Shortened,_nonfeeding;
+{ 185 Habitat_of_nymphs Terrestrial Aquatic;
+{ 186 Female_broodcare_of_eggs_and_first_one_or_two_free-living_nymphs Absent Present;
+{ 187 Jumping_by_abdominal_push Absent Present;
+{ 188 Insemination_mode_(Bitsch_and_Bitsch_1998,_ch._29) Indirect,_via_stalked_spermatophore Indirect,_via_droplets Indirect,_via_spermatophore_in_web Indirect,_via_spermatolophids Indirect,_claspers Copulation;
+;
+
+
+ccode  - 0.188;
+
+
+;
