@@ -1,0 +1,277 @@
+#NEXUS
+
+    [ File output by Morphobank v3.0 ?; 2023-07-28 01.21.57 ]
+
+    BEGIN TAXA;
+    DIMENSIONS NTAX=21;
+    TAXLABELS
+    		'Antagminae'
+		'Cliffiidae'
+		'Olenidae'
+		'Lonchocephalidae'
+		'Calymenidae'
+		'Homalonotidae'
+		'Carmonidae'
+		'Eucalymenidae'
+		'Pilekiidae'
+		'Cheiruridae'
+		'Hammatocnemidae'
+		'Pliomerinae'
+		'Encrinuridae'
+		'Diaphanometopinae'
+		'Gyrometopinae'
+		'Prosopiscidae'
+		'Pterygometopidae'
+		'Phacopidae'
+		'Dalmanitacea'
+		'Acastacea'
+		'Actinopeltis'
+    ;
+    ENDBLOCK;
+
+    BEGIN CHARACTERS;
+	DIMENSIONS NCHAR=40;
+	FORMAT DATATYPE=STANDARD GAP=- MISSING=? SYMBOLS="01234";
+	CHARLABELS
+		 [1] 'Arching ? of cranidial anterior margin'
+		 [2] 'Cranidial anterior border'
+		 [3] 'Preglabellar field'
+		 [4] 'Glabellar expansion'
+		 [5] 'Auxiliary impression system on frontal glabellar lobe'
+		 [6] 'Glabellar furrows nearly effaced'
+		 [7] 'S4'
+		 [8] 'Orientation of S3'
+		 [9] 'Length ? of S3'
+		 [10] 'Relative length ? of lateral glabellar lobes'
+		 [11] 'Orientation of S2'
+		 [12] 'S2 in contact with axial furrow'
+		 [13] 'Incision of S1 versus S2-S3'
+		 [14] 'Shape of S1'
+		 [15] 'Course of S0'
+		 [16] 'Occipital spine'
+		 [17] 'Eye type'
+		 [18] 'Eye ridges'
+		 [19] 'Circumocular sutures'
+		 [20] 'Genal pitting'
+		 [21] 'Granulate prosopon'
+		 [22] 'Muscle impression scar on fixigena near base of glabella'
+		 [23] 'Course of posterior branch of facial suture'
+		 [24] 'Rostral plate'
+		 [25] 'Doublure terrace lines'
+		 [26] 'Functional hypostomal suture'
+		 [27] 'Hypostomal anterior wing process in association with anterior boss'
+		 [28] 'Maculae'
+		 [29] 'Shouldering of hypostomal margin behind midlength ?'
+		 [30] 'Hypostomal margin spines'
+		 [31] 'Length of hypostomal border ?'
+		 [32] 'Posteromedian embayment in hypostomal margin'
+		 [33] 'Swollen nodes on proximal part of thoracic pleurae'
+		 [34] 'Thoracic pleural articulating facet'
+		 [35] 'Pygidial margin'
+		 [36] 'Number of pygidial pleurae'
+		 [37] 'Number of pygidial axial rings-pleural ribs'
+		 [38] 'Pseudoarticulating half-rings'
+		 [39] 'Pygidial pleural furrows'
+		 [40] 'Pygidial border'
+	;
+	STATELABELS
+		1
+		'flat or weakly arched medially'
+		'strongly arched medially, with rolled doublure'
+		,
+		2
+		'lengthening sagittally ?'
+		'equal length or shorter sagittally'
+		,
+		3
+		'absent'
+		'present'
+		,
+		4
+		'glabella parallel-sided or narrowing forward'
+		'glabella broadening forward'
+		,
+		5
+		'indistinct'
+		'ovate, circular'
+		'triangular/rhomboid'
+		,
+		6
+		'absent ?'
+		'present'
+		,
+		7
+		'distinct, separate from S3'
+		'indistinct'
+		'merged with S3 exsagittally'
+		,
+		8
+		'inclined forward sagittally'
+		'inclined backward sagittally'
+		'reduced to apodemal pits'
+		,
+		9
+		'short ?'
+		'sinuous, equal to or longer than S2'
+		,
+		10
+		'L1>L3'
+		'L3>L1'
+		,
+		11
+		'declined backward sagittally'
+		'transverse'
+		'inclined forward sagittally'
+		,
+		12
+		'present'
+		'absent ?'
+		,
+		13
+		'subequal or grading in incision backward'
+		'S1 much more strongly incised than S2-S3'
+		,
+		14
+		'evenly convex'
+		'sigmoid'
+		,
+		15
+		'transverse'
+		'arched forward medially, occipital ring much shorter abaxially'
+		,
+		16
+		'node'
+		'elongate spine with stout base'
+		'absent'
+		,
+		17
+		'holochroal'
+		'schizochroal'
+		'blind'
+		,
+		18
+		'present'
+		'absent'
+		,
+		19
+		'present'
+		'absent'
+		,
+		20
+		'absent'
+		'present'
+		,
+		21
+		'present'
+		'absent'
+		,
+		22
+		'absent'
+		'present'
+		,
+		23
+		'opisthoparian'
+		'gonatoparian'
+		'proparian'
+		'fused'
+		,
+		24
+		'broadly trapezoidal'
+		'narrow, tapering ventrally, with sinuous connective sutures'
+		'absent'
+		,
+		25
+		'present'
+		'absent'
+		,
+		26
+		'absent ?'
+		'present'
+		,
+		27
+		'absent'
+		'present'
+		,
+		28
+		'absent or indistinct'
+		'distinct or prominent'
+		,
+		29
+		'weak or absent'
+		'prominent'
+		,
+		30
+		'absent'
+		'present'
+		,
+		31
+		'shorter or subequal sagittally'
+		'elongated sagittally'
+		,
+		32
+		'absent'
+		'present'
+		,
+		33
+		'absent'
+		'present'
+		,
+		34
+		'weak or absent (with free spine short or absent'
+		'epifacetal'
+		'absent ?'
+		,
+		35
+		'entire'
+		'with free pleural tips/spines'
+		,
+		36
+		'five or fewer'
+		'six or more'
+		,
+		37
+		'equal'
+		'greater number of rings'
+		,
+		38
+		'absent'
+		'present'
+		,
+		39
+		'distinct'
+		'indistinct'
+		,
+		40
+		'present ?'
+		'absent'
+		
+	;
+	MATRIX
+	'Antagminae'		                 0010000000000000000000000000000000000000
+	'Cliffiidae'		                 0010001100000000?000000???????????010000
+	'Olenidae'		                   0110001100000100000010000000000000000000
+	'Lonchocephalidae'		           0010001100000001001010000100000000000000
+	'Calymenidae'		                1010001100000102000001101111100101000001
+	'Homalonotidae'		              1010001100000102000001111110000101000001
+	'Carmonidae'		                 100000120??0000221?0000111?0100101000011
+	'Eucalymenidae'		              1100001200000102?0?0000?0???????0?010001
+	'Pilekiidae'		                 0100002100000002001100201?10000002100101
+	'Cheiruridae'		                0100001100000002001100201110000012100001
+	'Hammatocnemidae'		            01010000012000120111000001?0000012100011
+	'Pliomerinae'		                0101001101000012001100201110001001100011
+	'Encrinuridae'		               0101002111100010001100201111011001101001
+	'Diaphanometopinae'		          01000100000000020110?020????????01100001
+	'Gyrometopinae'		              0101011111010012001100201???????01001101
+	'Prosopiscidae'		              010000111110000220?1003?????????01010100
+	'Pterygometopidae'		           0101101111200012111100221111001001011001
+	'Phacopidae'		                 0101101111211012111000221110011001011101
+	'Dalmanitacea'		               0101201111110010111100221101011001011100
+	'Acastacea'		                  0101201111111012111100221101010001011100
+	'Actinopeltis'		               01010010012000020111002011?0000012100001
+    ;
+    ENDBLOCK;
+
+          BEGIN ASSUMPTIONS;
+      TYPESET * UNTITLED = unord: 1 - 40;
+      ENDBLOCK;
+      

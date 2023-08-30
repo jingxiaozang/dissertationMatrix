@@ -1,0 +1,132 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 16.12.39'
+58 56
+
+&[num]
+Pucadelphys_andinus                      000001010110100001000000020?0000010---002000?00?10-0000000
+Andinodelphys_cochambensis               0000010?01101000010000000200????010---002000100010-0000000
+Mayulestes_ferox                         000001140110100001?010100110?000010---002000001?10-0001000
+Didelphis_marsupialis                    00000101011010000120000012100110001?110001001011?120000000
+Caluromys_philander                      002000010101100001200010120100000?000000010100111120000000
+Lestodelphys_halli                       000001120110100001000000121101?001001100120110110120000000
+Marmosa_murina                           001001020111100001200000120101?001000000010110110??0000000
+Dromiciops_gliroides                     0000002000022000000000001201010001000010120011201110000001
+Djarthia_murgonensis                     ?00001020110101???2000000200??????????????????????????????
+Ankotarinja_tirarensis                   ?????1?20??0101???2000000200??????????????????????????????
+Keeuna_woodburnei                        ?????10201?1101????0000002?0??????????????????????????????
+Yarala_burchfieldi                       ?0?001120210000111?100001202010101002?0001?0101?1??000011?
+Echymipera_kalubu                        110011030210100111?100001001010001?010000100111110-1110110
+Perameles_nasuta                         01001103021010011111000010011100011020011200111110-1110110
+Myrmecobius_fasciatus                    10200----------1001-0010--001000010000011200102110-000000?
+Mayigriphus_orbus                        ??????????????????2011010201??????????????????????????????
+Mutpuracinus_archibaldi                  100001120111000????0100?021??100?1??000102011?21?11010000?
+Barinya_wangala                          1001011201100001?1200000020111001101000102011021111000000?
+Sminthopsis_floravillensis               ?????1?20?11000????010000202??????????????????????????????
+Sminthopsis_murina                       1??0011201110001112010000202011011000011121111211111100001
+Sminthopsis_crassicaudata                110001120110000111?000000102111011000011121111211111100001
+Planigale_maculata                       1100012200110001112010110202010011000011121110211110000001
+Ningaui_yvonneae                         1?00012201110001112010010?0201101100001112111021?11110000?
+Murexia_longicaudata                     100001120110000111100000020?01001101001112111021111000000?
+Murexechinus_melanurus                   10?0011201110001112000010200010011000011121110211111000000
+Paramurexia_rothschildi                  1000011201110001111000010?01010011010111121110211110000000
+Phascomurexia_naso                       101001120112000111?000010201010011010011121110211110100000
+Myoictis_melas                           1020011201100001?12000020200?1?0010000?11211?021111000000?
+Phascogale_tapoatafa                     10?0011201110001010000000200110011000011121110211110000001
+Antechinus_flavipes                      1110011201100001112000000202?10011000011121110211111100000
+Parantechinus_apicalis                   11200122011?00010120110202011110???000?11211?021???0000001
+Pseudantechinus_bilarni                  10000112?110000101301101020101101100001112111121111110000?
+Pseudantechinus_macdonnellensis          11?00112?110000101?011010201?1001100001112111021111110000?
+Antechinomys_laniger                     1100011201110001111010000202111011000011121111211111100001
+Dasycercus_cristicauda                   113--12200110001?13011020202111011000011121110211110100001
+Dasykaluta_rosamondae                    103--12200110001113011010202110011000011121110211110000001
+Dasyuroides_achilpatna                   ?????1221-?1000????011020202??????????????????????????????
+Dasyuroides_byrnei                       1?3--1121-100001013011020201111011?00011121110211111000001
+Neophascogale_lorentzii                  1020010202100001112000000200?1?00100001112111?21111100000?
+Phascolosorex_dorsalis                   102001120?11000111200001020001?011000011121110211110000000
+Dasyurus_dunmalli                        ???????????????1??201111020???????????????????????????????
+Dasyurus_hallucatus                      103-01121-110001013001010201?1?011000?11121110211110000001
+Dasyurus_maculatus                       103-01221-1001010130011102020110110?1011121110211110000001
+Dasyurus_albopunctatus                   103--1120011000101300102020101?0?102001112111021111000000?
+Glaucodon_ballaratensis                  ???????????????1?13011120202??????????????????????????????
+Sarcophilus_harrisii                     103-01221-10010101311112?202110011022011121110211110000001
+Muribacinus_gadiyuli                     ??0011110111000????00010020???????????????????????????????
+Badjcinus_turnbulli                      10???1111-110001?12001100101?1?0??00100002001?1100-000000?
+Nimbacinus_dicksoni                      1000111101110001?10000100201110011?2100102001?1100-0?0000?
+Thylacinus_macknessi                     ?????1?400????0???0010200?01??????????????????????????????
+Thylacinus_potens                        ??00011400?2?00????010??0?12?100??????????????????????????
+Thylacinus_cynocephalus                  1000011400120001110010200?121100?11210010200111100-000000?
+Ngamalacinus_timmulvaneyi                ??0011?101?1000????000100201??????????????????????????????
+Wabulacinus_ridei                        ?????1?400?2??0????01?1?02????????????????????????????????
+Tyarrpecinus_rothi                       ?????1?400?1000???????????????????????????????????????????
+Maximucinus_muirheadae                   ?????1?101?1000???????????????????????????????????????????
+
+;
+
+
+cnames
+{ 0 Upper_incisor_number. 5 4;
+{ 1 Morphology_of_C1. Caniniform premolariform;
+{ 2 Height_of_P3. Higher_crowned_than_P2 subequal_in_height lower_crowned_than_P2 absent;
+{ 3 Shape_of_P3_in_occlusal_view. Laterally_compressed_-_much_longer_than_wide bulbous_and_ovate_-_not_markedly_longer_than_wide;
+{ 4 Posterolingual_cuspule_present_or_absent_on_P3. Absent present;
+{ 5 Relative_size_of_paracone_and_metacone_M2-3. Paracone_and_metacone_equal_or_almost_equal_in_size_to_metacone metacone_larger_than_paracone;
+{ 6 Metacone_on_M4. Present_and_distinct_from_metastylar_corner_of_tooth present_but_not_distinct_from_metastylar_corner_of_tooth absent;
+{ 7 Shape_and_orientation_of_the_centrocrista_(unordered). centrocrista_straight,_apex_terminating_close_to_level_of_talon_basin centrocrista_weakly_v-shaped centrocrista_strongly_v-shaped centrocrista_incomplete,_breaching_the_ectoloph centrocrista_straight,_with_apex_well_above_talon_basin;
+{ 8 Preparacrista_on_M1 present absent;
+{ 9 Orientation_of_preparacrista_on_M1 M1_preparacrista_oriented_anterobuccally_relative_to_long_axis_of_the_tooth M1_preparacrista_forms_a_near_perpendicular_angle_with_respect_to_the_long_axis_of_the_tooth M1_preparacrista_runs_posterobuccally_relative_to_long_axis_of_the_tooth;
+{ 10 Relative_lengths_of_M3_and_M4_preparacristae. M4_preparacristae_shorter_than_or_equal_to_that_of_M3 M4_preparacristae_longer_than_that_of_M3;
+{ 11 Size_of_stylar_cusp_B_on_M3. Large small absent;
+{ 12 Relative_size_of_stylar_cusp_B_and_stylar_cusp_D_on_M2-3. stylar_cusp_D_present_and_much_larger_than_stylar_cusp_B stylar_cusp_D_present_but_smaller_or_subequal_to_stylar_cusp_B stylar_cusp_D_absent;
+{ 13 Relationship_of_stylar_cusp_D_to_metacone. Not_appressed appressed;
+{ 14 "Central_cusp" absent present;
+{ 15 Lower_incisor_number. 4 3;
+{ 16 i3_bilobed_or_not_bilobed. Not_bilobed bilobed;
+{ 17 i2_morphology. Not_staggered staggered;
+{ 18 Height_of_p3_relative_to_p2. p3_higher_crowned_than_p2 subequal_in_height smaller_than_p2 absent;
+{ 19 Presence_or_absence_of_hypoconulid_notch. Present absent;
+{ 20 Entoconid_size. Large reduced_or_absent;
+{ 21 Size_of_metaconid_on_m1_relative_to_that_of_m2-4. Metaconid_of_m1_not_reduced_relative_to_that_of_m2-4 Metaconid_of_m1_reduced_relative_to_that_of_m2-4;
+{ 22 Size_of_metaconid_in_m2-4. Large reduced absent;
+{ 23 Size_of_paraconid_in_m1. Large reduced,_but_still_identifiable_as_a_distinct_cusp absent;
+{ 24 Posterior_cingulid_in_m1-3. present absent;
+{ 25 Anterior_point_of_termination_of_the_cristid_obliqua_in_m3_with_respect_to_carnassial_notch_formed_by_postprotocristid_and_metacristid. lingual_to_carnassial_notch Beneath_carnassial_notch buccal_to_carnassial_notch;
+{ 26 Relative_size_of_m4_to_that_of_m3. m4_smaller_than_m3 m4_larger_than_or_equal_to_m3;
+{ 27 Number_of_distinct_cusps_on_m4_talonid. Three_cusps two_cusps one_cusp;
+{ 28 Presence_or_absence_of_orbital_crest. Absent present;
+{ 29 Presence_or_absence_of_maxillopalatine_fenestrae. absent present;
+{ 30 Presence_or_absence_of_palatine_fenestrae. absent present;
+{ 31 Presence_or_absence_of_anterior_palatal_fenestrae. absent present;
+{ 32 Presence_or_absence_of_complete_posterolateral_palatine_foramen. Present absent;
+{ 33 Presence_or_absence_of_accessory_posterolateral_palatine_foramen. Present absent;
+{ 34 Contribution_of_alisphenoid_and_periotic_to_primary_foramen_ovale. Delimited_by_alisphenoid_anteriorly_and_periotic_part_of_the_petrosal_posteriorly delimited_by_alisphenoid_only;
+{ 35 Presence_or_absence_of_secondary_foramen_ovale_formed_by_anteriorly_directed_strut_of_alisphenoid_tympanic_process. Absent present_but_incomplete present_and_complete;
+{ 36 Presence_or_absence_of_secondary_foramen_ovale_formed_by_mesial_fold_in_alisphenoid_tympanic_process. Absent present_but_incomplete present_and_complete;
+{ 37 Presence_or_absence_of_contribution_to_secondary_foramen_ovale_by_posteriorly_directed_strut_in_alisphenoid. Absent present_but_incomplete present_and_complete;
+{ 38 Ventral_facial_nerve_canal. Absent present;
+{ 39 Squamosal_epitympanic_sinus. Absent present;
+{ 40 Bones_contributing_to_hypotympanic_sinus_roof(unordered). alisphenoid_and_petrosal alisphenoid_only alisphenoid,_petrosal_and_squamosal;
+{ 41 Size_of_alisphenoid_tympanic_process. Absent poorly_developed well_developed;
+{ 42 Length_of_the_internal_jugular_canal. Does_not_extend_anteriorly_to_the_basisphenoid extends_to_basisphenoid;
+{ 43 Presence_or_absence_of_a_well_developed_posteroventral_lip_formed_by_a_mesially_directed_process_in_the_pars_petrosa,_enclosing_the_internal_jugular_ventrally. Absent present;
+{ 44 Presence_or_absence_of_transverse_canal. Absent present;
+{ 45 Frontal-squamosal_or_alisphenoid-parietal_contact_on_the_lateral_wall_of_the_braincase. alisphenoid-parietal_contact. Frontal-squamosal_contact.;
+{ 46 Morphology_of_the_rostral_tympanic_process_of_the_petrosal. Absent present_but_small,_not_enclosing_a_sinus present_and_large,_enclosing_a_distinct_sinus;
+{ 47 Paroccipital_process Absent Present;
+{ 48 Morphology_of_foramen_for_the_greater_petrosal_nerve. Distinct_from_primary_foramen_ovale confluent_with_primary_foramen_ovale;
+{ 49 Tubal_foramen Absent present;
+{ 50 Morphology_of_tubal_foramen_(unordered). slit-like_and_incomplete_anteroventrally ovoid,_with_sulcus_in_pars_petrosa sulcus_in_alisphenoid_tympanic_process;
+{ 51 Shape_of_nasals. Nasals_posteriorly_expanded not_posteriorly_expanded;
+{ 52 Maxilla-nasal_contact. Maxilla-nasal_contact_longer_than_premaxilla-nasal_contact premaxilla_contact_longer_than_maxilla-nasal_contact;
+{ 53 Posterior_extension_of_nasals. Nasals_extend_posteriorly_beyond_the_anterior_rim_of_the_orbit do_not_extend_posteriorly_beyond_the_orbit;
+{ 54 Frontal-maxillary_contact. Present absent;
+{ 55 Morphology_of_jugal. Jugal_not_Y-shaped jugal_Y-shaped;
+{ 56 Antorbital_fossa. absent present;
+{ 57 Presence_or_absence_of_prootic_canal. Present absent;
+;
+
+
+ccode  - 0.1 3.5 7.8 10 13 15.17 19.21 26 28.34 38.40 42.45 47.57 + 2 6 9 11.12 14 18 22.25 27 35.37 41 46;
+
+
+;

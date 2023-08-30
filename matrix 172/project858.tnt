@@ -1,0 +1,163 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 16.12.11'
+115 30
+
+&[num]
+Pucadelphys_andinus                1??01??10000?100-111100?1?000-?00200011000021001100000101?1110110110001101101210011112?101121101011110011?0012000?0
+Mayulestes_ferox                   11010--20101?000-11??????????0?0??0?1?1121????????0000????101110002100110110111001101200011?11100?1110??????10001?0
+Didelphis_marsupialis              1011101000001101100110011121000002110012101200011000001010100001012001110110111011100210010111000110-01011001210010
+Caluromys_philander                21011111000010211010100100210000131110122012000310000010101000210021000001110211011102000100011001010010010111100?0
+Marmosa_murina                     11?0101?0111?001101010000020001123100011200210030000001000110120010-000100101210011001010?0?11?102010010000111100?0
+Dromiciops_gliroides               1100111100011011111110000-?11000321001121012000010010001101011200010020100111210020001100101010002110010000102220?0
+Djarthia_murgonensis               ????????????????????????????????????????????????????????????????????????????????????????????????????????010112220?0
+Echymipera_kalubu                  0001110100010101111021100000111032101100010210031020?010100-11100111101200101100111?010100120010100111011?00012?1?0
+Perameles_nasuta                   01011101000100011110211101101110231011000102100300201010100-1110002110030010110011111201001200101101120111010121100
+Myrmecobius_fasciatus              12011?02100110010011110200201010111000000100-0021100100210101000002102010110121102111101011011000211021011000122111
+Sminthopsis_murina                 0?0010?201111011011010000-000010221011010102200000010010011111100021010300101210021010000112020002110210000101220??
+Sminthopsis_crassicaudata          0?0010220111?001011011000-000110221000111000-0000011?0????110?200???0?0300101100021010100110010002110110???????????
+Planigale_maculata                 210010220101?0?1011011000-100000211000011000-00000110001111012200021010?0010121001100000011?1200021100101?010122???
+Murexia_longicaudata               ???????????????????????1?000?0002311110001010013100000100010112100210?0210101210021110?1010?12000?01001???????2?0?1
+Murexechinus_melanurus             110110120001?0010110100000101010231010000102101300110000001111200021000110101110021011010111120001010110110001221??
+Paramurexia_rothschildi            020110020121?0010010110100?010002310100101011001010000100011111100210?0100101210021?1000011112000111011011?001?21??
+Phascomurexia_naso                 110110220101?00100101111001000002310110101120012011000100011012100200?0100101210021?000000101201020112101?000122???
+Myoictis_melas                     220110220111?001011011?00020001023101001111210?101110000011111100021010200101110011111010112120002010110100001220??
+Phascogale_tapoatafa               12011021011110110010101000200010231011000102100310110010101111100?11010?0010000002000000011002100101011010100122111
+Antechinus_flavipes                ?10110120111000101101100001000102310110111012?02001100000?11121000210?02001012100210100001101110010101101000012001?
+Parantechinus_apicalis             2100???1000110?1010010?00-11?00?31101?021101200110????00000-1110002102?20010?21?11111000110?12?00101011011100122?1?
+Antechinomys_laniger               ??011?2?0??1?10???1111010??101103?100001010100?10001?0000010120000210?0300000100121?11000112111002110001100101220?1
+Dasycercus_cristicauda             220110220001101100101???0?20?01???1011??1?01000???11001001101120002101110010121002111000010001100201001111100122111
+Dasyuroides_byrnei                 22001?22011100010110100100000010130001000100-0?00011?000001011101021020200001110021?00000110020002110010110101?21??
+Dasyurus_hallucatus                22011022011110010010111200?010102310100001021012102000000?111?100021??0211101110021010110100011001110011???????????
+Dasyurus_maculatus                 21111021112110010010100200?1101123101100011210131011000011101110002102020010121001101001010112000111010011100122111
+Dasyurus_albopunctatus             220110221121?001001011010120001023101000100100112010001000101110002?0102?0101?1?021000000101110002110010???????????
+Sarcophilus_harrisii               2201102101211101000021020020001123101011101210120010?00000111011002102020010120?111010100102110001110110111001?211?
+Nimbacinus_dicksoni                2111010101211000-11?100?????00000110????0?12100???10011021111110002100110110121112100100011??100010102?0110001?21??
+Thylacinus_cynocephalus            2011112001211101001110021010001013101100010120000010000010111020002100020100010012100210001201000101020010000122111
+
+;
+
+
+cnames
+{ 0 Atlantal_foramen_or_notch. entirely_absent incomplete_notch complete_foramen;
+{ 1 Atlas_transverse_foramen. entirely_absent incomplete_notch complete_foramen;
+{ 2 Atlas,_posterior_extention_of_the_transverse_processes. does_not_extend_beyond_caudal_facets_for_axis_articulation extends_beyond_caudal_facets;
+{ 3 Atlas,_cranial_articular_facets_shape. entirely_concave dorsal_edge_curved;
+{ 4 Atlas_ventral_arches. not_fused fused;
+{ 5 Atlas,_suture_lines_for_fusion_of_intercentrum. absent two_sutures_present;
+{ 6 Atlas,_development_of_ventral_tubercle. absent protuberance tubercle_well_developed;
+{ 7 Atlas,_transverse_process_craniocaudal_length_with_respect_to_the_dorsal_hemal_arches_craniocaudal_length. longer subequal shorter;
+{ 8 Atlas,_neural_process/protuberance. absent present;
+{ 9 Axis,_posterior_extention_of_spinous_(neural)_process. does_not_extend_beyond_neural_processes extends_beyond_neural_arches;
+{ 10 Axis,_spinous_process,_dorsal_profile_in_lateral_view. convex flat at_least_partly_concave;
+{ 11 Axis,_dens_cranial_extention_relative_to_the_cranial_tip_of_the_spinous_process. same_level_or_barely_anterior distinctly_anterior;
+{ 12 Axis_caudal_articular_surface_fovea_shape. round oval;
+{ 13 Axis,_inferior_portion_of_neural_arches_shape_in_lateral_view. narrow wide,_craniocaudally;
+{ 14 Axis,_ventral_tubercle_shape. uniform_crest two_separate_lobes without_lobes_or_crest;
+{ 15 Axis,_transverse_foramen. absent_or_incomplete complete_foramen;
+{ 16 Axis,_bone(s)_enclosing_transverse_foramen. enclosed_by_cervical_rib_and_axis_transverse_process enclosed_by_axis_transverse_process_only;
+{ 17 Axis,_suture_between_rib_and_axis. not_visible clearly_identifiable;
+{ 18 Axis,_postzygapophysis_(caudal_articular_fovea)_orientation. dorsoventrally,_or_almost_dorsoventarlly_orientated antero-posteriorly_orientated;
+{ 19 C3_transverse_process. one_head two_heads;
+{ 20 C4_and_C5_transverse_processes. one_head two_heads C5_has_three_heads;
+{ 21 C5_transverse_process_heads_overlap_transversally. absent present;
+{ 22 Articulation_between_C4_and_C5_bodies_shape. flat saddle;
+{ 23 C6_neural_process_shape. absent protuberance lamina;
+{ 24 C3_-_C6_neural_process_size_with_respect_to_the_spinous_process_of_the_axis. smaller subequal;
+{ 25 Relative_size_between_C_6_and_C7_neural_processes. C7_taller C6_similar_size_or_taller_than_C7;
+{ 26 C7_transverse_foramen. absent present,_notch present,_complete_foramen;
+{ 27 C7_transverse_process_direction. lateral ventrolateral;
+{ 28 C5_and_T1_body_length. subequal_or_C5_longer_than_T1 C5_anteroposterorly_shorter_than_T1;
+{ 29 First_thoracic_vertebra_with_a_tall_neural_process_relative_to_other_vertebrae. T1 T2;
+{ 30 First_thoracic_vertebra_with_prezygopophysis_facing_latterally. T2 T3;
+{ 31 Position_of_the_first_thoracic_vertebra_with_a_low_and_craniocaudally_expanded_spinous_process. up_to_and_including_T10 T11 T12 T13;
+{ 32 Position_of_the_diaphragnatic_vertebrae_(pre-_and_post-zygopophysis_vertical). up_to_and_including_T9 T10 T11 T12;
+{ 33 Position_of_the_first_vertebrae_where_the_accessory_process_is_differentiated_from_the_transverse_process. T6 T7 T8 T9;
+{ 34 Caudal_extention_of_the_postzygapophysis_of_T2_-_T8. absent present;
+{ 35 Lumbar_vertebrae,_intervertebral_space_(dorsal_view). clearly_evident reduced_or_absent;
+{ 36 Extension_of_mammillary_process_in_L3. does_not_extend_beyond_articulation_with_L2 extended_beyond_articulation_with_L2;
+{ 37 L3,_midline_ventral_ridge. absent present;
+{ 38 L4,_transverse_process_length. longer_or_subequal_to_width_of_centrum shorter_than_width_of_centrum;
+{ 39 L4,_neural_process_length_vs_height. height_greater_than_anteroposterior_length height_and_length_roughly_equivalent anteroposterior_length_greater_than_height;
+{ 40 Orientation_L3_-_L4_neural_processes. anteriorly_orientated dorsoventrally_(vertically)_orientated posteriorly_orientated;
+{ 41 Ventral_extension_of_L4_-_L6_transverse_processes. not_extending_beyond_vertebral_body extending_beyond_vertebral_body;
+{ 42 Number_of_vertebrae_in_contact_with_the_ilium. one two;
+{ 43 S1_neural_process,_presence. absent small_proturberance well_developed,_laminar;
+{ 44 Neural_process_size_on_S1_-_S2. S1_and_S2_spinous_processes_similar_size S1_taller_than_S2 S2_neural_process_absent;
+{ 45 Fusion_of_transverse_processes_on_S1_-_S2. present absent;
+{ 46 Fusion_of_transverse_processes_on_S2_-_Ca1. absent present;
+{ 47 Presence_of_proturberance_or_neural_processes_on_first_3_caudal_vertebrae. absent only_on_Ca1 processes_on_Ca1_-_Ca2 processes_on_Ca1_-_Ca3;
+{ 48 Position_of_the_first_caudal_vertebra_with_articulation_only_through_vertebral_body_(not_with_the_transverse_processes). up_to_and_including_Ca5-6 Ca6-7 Ca7-8;
+{ 49 Ca3_transverse_process_heads. two_or_square one;
+{ 50 First_rib,_torsion_of_shaft. absent slightly_twisted base_edge_twisted_perpendicular_to_neck_edge;
+{ 51 First_rib,_neck_length_subequal_to_length_of_shaft. absent present;
+{ 52 First_rib,_neck_curvature. absent,_neck_roughly_straight present,_noticably_curving_upwards;
+{ 53 First_rib,_noticeable_Angle_on_distal_edge_of_shaft. absent present;
+{ 54 Development_of_keel_in_the_manubrium. weakly_developed well_developed;
+{ 55 Maximum_length_of_manubrium_in_relation_to_maximum_width. long,_narrow_manubrium subequal short,_wide_manubrium;
+{ 56 Costal_tubercles_of_manubrium,_location. notiably_in_anterior_portion approximatly_midlength located_in_posterior_portion;
+{ 57 Manubrium,_cephalic_extremity_level_in_relation_to_costal_tubercles. lower_or_equal_to_tubercles cephalic_extremity_raised;
+{ 58 Scapula,_coracoid_process. absent/small_pedicle present;
+{ 59 Scapula,_coracoid_process_shape. process_extends_both_beyond_and_below_glenoid process_extends_below_but_not_beyond_glenoid process_extends_beyond_but_not_below_glenoid;
+{ 60 Scapular_spine_width_at_neck_level. subequal_to_infraspinous_fossa wider_than_infraspinous_fossa;
+{ 61 Scapular_posterior_border_raised. absent slightly_raised distinctly_raised,_almost_reaching_height_of_spine;
+{ 62 Scapula,_infraspinous_vs_supraspinous_fossa_width_at_neck_level. infraspinous_fossa_narrower subequal supraspinous_fossa_narrower;
+{ 63 Scapula,_caudal_angle. acute rounded;
+{ 64 Scapular_notch_extension. less_than_half_of_scapula half_or_further_extension_of_scapula;
+{ 65 Scapula,_ventral_extension_of_acromion. extends_beyond_glenoid does_not_extend_beyond_level_of_glenoid;
+{ 66 Scapula,_metacromion_process. absent present_but_not_a_distinguishable_process_from_spine_and_acromion_extension present;
+{ 67 Scapula,_extension_of_metacromion_process. does_not_extend_beyond_level_of_posterior_border extends_beyond_posterior_border;
+{ 68 Crest_on_medial_aspect_of_scapula,_near_the_posterior_border. absent present;
+{ 69 Scapula,_infraglenoid_fossa. absent present_but_shallow present_and_deep;
+{ 70 Humerus,_capitulum_shape. spherical cylindrical;
+{ 71 Humerus,_olecranon_fossa_or_foramen. absent small_fossa large_fossa foramen;
+{ 72 Humerus,_supracondyloid_(entepicondylar)_foramen. present absent;
+{ 73 Humerus,_extension_of_the_deltopectoral_crest. restricted_to_the_proximal_half reaching_distal_half;
+{ 74 Humerus,_deltopectoral_crest_notably_developed. absent present;
+{ 75 Humerus,_distal_extension_of_capitulum_and_trochlea. trochlea_longer_or_equal_extension longer_proximal_extension_of_capitulum;
+{ 76 Humerus,_capitulum_lateral_extension. absent present;
+{ 77 Humerus,_medial_epicondyle_expansion. absent barely_expanded,_about_the_same_width_as_trochlea notably_expanded,_wider_than_trochlea;
+{ 78 Humerus,_degree_of_flare_for_supinator_crest. small,_does_not_extend_to_a_significant_degree well_developed,_extends_proximally_and_laterally.;
+{ 79 Humerus,_proximal_process_on_the_supinator_ridge. absent present;
+{ 80 Ulna,_shape_of_the_proximal_posterior_border. curved straight;
+{ 81 Ulna,_extension_of_the_fossa_for_the_exterior_ligament. restricted_to_olecraneon extended_to_trochlear_notch extends_beyond_trochlear_notch;
+{ 82 Ulna,_mesial_extension_of_the_greater_sigmoid_cavity. not_extended distinctly_extended,_beyond_level_of_the_anconeal_process.;
+{ 83 Ulna,_anconeal_process_development_lateral_side. present_and_well_developed adheared_to_side_of_olcraneon_or_absent;
+{ 84 Ulna,_anconeal_process_development. adheared_to_side_of_olecraneon well_developed_and_projecting;
+{ 85 Ulna,_olecraneon_process,_length_relative_to_semilunar_notch_(trochlear+sigmoid)_length. shorther_than_semilunar_notch subequal olecraneon_longer_than_notch;
+{ 86 Distal_ulna_width_relative_to_distal_radius. ulna_much_narrower_than_distal_radius ulna_broad,_subequal_to_distal_width_of_radius;
+{ 87 Radius,_lateral_compression. little_or_no_lateral_compression notably_compressed_laterally;
+{ 88 Radius,_anterio-posterior_compression. absent present;
+{ 89 Radius,_development_of_the_bicipital_tuberosity. scarcely_marked well_developed;
+{ 90 Pelvis,_iliac_wing_forming_a_large_blade. absent present;
+{ 91 Pelvis,_angle_formed_by_the_two_rami_of_the_ischium_in_posterior_view. acute_angle,_less_than_90_degrees right_angle,_equal_to_90_degrees oblique_angle,_greater_than_90_degrees;
+{ 92 Pelvis,_caudal_portion_of_ischium_body_curved_laterally_(other_than_ischiatic_turberosity). absent,_almost_straight present,_curved;
+{ 93 Femur,_lesser_trochanter_size. small_tubercle,_not_extensive_medially large,_forms_extended_flange very_large,_flange_extended_medially_beyond_the_level_of_the_head;
+{ 94 Relative_height_of_greater_trochanter_to_femoral_head. greater_trochanter_lower_or_equal trochanter_higher;
+{ 95 Femur,_trochanteric_fossa,_depth. deep shallow;
+{ 96 Femur,_trochanteric_fossa,_length. short long,_extending_to_or_beyond_base_of_lesser_trochanter;
+{ 97 Tibia_length_relative_to_femur_length. tibia_shorter tibia_subequal_to_femur tibia_noticably_longer;
+{ 98 Tibia,_cnemial_crest_development. sharp,_raised weak,_rounded;
+{ 99 Tibia,_groove_or_fossa_on_posterior_aspect_of_proximal_shaft. absent present;
+{ 100 Tibia,_groove_or_fossa_on_posterior_aspect,_shape. shallow_groove_or_fossa deep,_elongate_fossa;
+{ 101 Tibia,_groove_or_fossa_on_lateral_aspect_of_proximal_shaft. absent present_and_shallower_than_fossa_on_posterior_aspect present_and_deeper_or_subequal_to_fossa_on_posterior_aspect;
+{ 102 Head_of_fibula,_shape. not_fan_shaped noticably_fan_shaped;
+{ 103 Comparitive_length_of_fibula_and_tibia. fibula_longer_or_equal_to_length_of_tibia fibula_shorter_than_tibia;
+{ 104 Astragalus,_ridge_between_nedial_and_lateral_astragalotibial_facets. absent present;
+{ 105 Astragalonavicular_facet_connection_with_sustentacular_facet. absent present;
+{ 106 Astragalar_foramen. absent present;
+{ 107 Lateral_astragalotibial,_shape. concave not_concave;
+{ 108 Calcaneal_anterior_peroneal_tubercle_shape. small_protuberance large,_approximatly_half_or_more_the_width_of_the_calcaneus;
+{ 109 Calcaneal_anterior_peroneal_tubercle_position. protruding_anteriorly_beyond_calcaneocuboid_facet anterior,_nonprotruding at_a_distance_from_anterior_end_of_calcaneum;
+{ 110 Calcaneocuboid_facet_of_the_calcaneus. not_subdivided_into_separate_facets subdivided_into_distal_(CaCud)_and_proximal_(CaCup)_facets subdivided_into_auxiliary_(CaCua),_lateral_(CaCul)_and_medial_facets;
+{ 111 Calcaneal_sustentacular_facet_and_posterior_calcaneoastragalar_facets_merging. separate narrow_connection merged;
+{ 112 Calcaneal_facet_for_fibula. absent present;
+{ 113 Cuboid_medial_plantar_process_forms_grove. absent present;
+{ 114 Calcaneum_accessory_facet_anterior_to_sustentacular_facet absent present;
+;
+
+
+ccode  + 0.1 6.7 23 26 31.33 39.40 43.44 47.48 50 55.56 61.62 66 69 71 77 81 85 91 93 97 110.111 - 2.5 8.22 24.25 27.30 34.38 41.42 45.46 49 51.54 57.60 63.65 67.68 70 72.76 78.80 82.84 86.90 92 94.96 98.109 112.114;
+
+
+;

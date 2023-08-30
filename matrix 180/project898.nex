@@ -1,0 +1,469 @@
+#NEXUS
+
+    [ File output by Morphobank v3.0 ?; 2023-07-28 01.10.56 ]
+
+    BEGIN TAXA;
+    DIMENSIONS NTAX=12;
+    TAXLABELS
+    		'Leopardus pardalis'
+		'Puma concolor'
+		'Neofelis nebulosa'
+		'Panthera leo'
+		'Panthera onca'
+		'Panthera pardus'
+		'Panthera tigris'
+		'Panthera uncia'
+		'Panthera blytheae'
+		'Panthera atrox'
+		'Panthera palaeosinensis'
+		'Panthera spelaea'
+    ;
+    ENDBLOCK;
+
+    BEGIN CHARACTERS;
+	DIMENSIONS NCHAR=81;
+	FORMAT DATATYPE=STANDARD GAP=- MISSING=? SYMBOLS="01234";
+	CHARLABELS
+		 [1] 'CRAN: Nasal-frontal suture'
+		 [2] 'CRAN: Frontoparietal suture'
+		 [3] 'CRAN: Lambdoidal-coronal sutures'
+		 [4] 'CRAN: Parietal process at dorsal frontoparietal suture'
+		 [5] 'CRAN: Anterior bulge overhanging infraorbital canal'
+		 [6] 'CRAN: Infraorbital foramen'
+		 [7] 'CRAN: Dorsal process, maxilla'
+		 [8] 'CRAN: Dorsal rostrum profile'
+		 [9] 'CRAN: Posterior first caudal ethmoturbinal scroll'
+		 [10] 'CRAN: Frontal sinus'
+		 [11] 'CRAN: Jugal-squamosal suture'
+		 [12] 'CRAN: Zygomatic arch'
+		 [13] 'CRAN: Jugal postorbital process'
+		 [14] 'CRAN: Paroccipital process'
+		 [15] 'CRAN: Nasal width at aperture'
+		 [16] 'CRAN: Nasal width at fronto-maxillary suture'
+		 [17] 'CRAN: Nasal length'
+		 [18] 'CRAN: Palate length'
+		 [19] 'CRAN: Pterygoid palate'
+		 [20] 'CRAN: Frontonasal depression'
+		 [21] 'CRAN: Jugal position over infraorbital canal'
+		 [22] 'CRAN: Anterior palatine foramen and sulci, ventral view'
+		 [23] 'CRAN: Ventral border of premaxilla and maxilla'
+		 [24] 'CRAN: Parassagittal crest at postorbital process'
+		 [25] 'CRAN: Connection between palatal flange and edge of posterior palate at M1/'
+		 [26] 'CRAN: Relative positions of posterior palatine canal opening and sphenopalatine foramen'
+		 [27] 'CRAN: Jugal-Maxillary suture, medial side'
+		 [28] 'CRAN: Premaxillary processes medial of the anterior palatine foramina'
+		 [29] 'BASICRAN: Auditory meatus longitudinal ridge'
+		 [30] 'BASICRAN: Malleus processus muscularis'
+		 [31] 'BASICRAN: Malleus processus brevis'
+		 [32] 'BASICRAN: Incus articulation with malleus'
+		 [33] 'BASICRAN: Stylomastoid foramen groove'
+		 [34] 'BASICRAN: Angle between long axes of bulla and skull'
+		 [35] 'BASICRAN: Entotympanic process'
+		 [36] 'BASICRAN: Foramen rotundum projection'
+		 [37] 'BASICRAN: Fossa for posterior lacerate and condylar foramina'
+		 [38] 'BASICRAN: Stylomastoid foramen'
+		 [39] 'BASICRAN: Distance between anterior bulla and glenoid ridge'
+		 [40] 'MAND: Mandibular ramus ventral profile'
+		 [41] 'MAND: Mandibular symphysis angle relative to horizontal ramus'
+		 [42] 'MAND: Mandibular ramus to symphysis transition'
+		 [43] 'MAND: Anterodorsal curvature of anterior mandibular symphysis'
+		 [44] 'MAND: Mandible depth anterior to p3'
+		 [45] 'DENT: dP4/ parastyle and metastyle roots'
+		 [46] 'DENT: dP3/ accessory cusp'
+		 [47] 'DENT: P2'
+		 [48] 'DENT: P3 parastyle'
+		 [49] 'DENT: C1/ length'
+		 [50] 'DENT: C1/ cross section'
+		 [51] 'DENT: m/1 length'
+		 [52] 'DENT: c/1 length'
+		 [53] 'DENT: P4/ m/1 carnassial notch'
+		 [54] 'DENT: p4 cusp alignment relative to entire tooth'
+		 [55] 'DENT: p/3 posterior cingulum'
+		 [56] 'DENT: P3/ small cusp on labial edge of posterior cingulum'
+		 [57] 'DENT: P4/ labial ridges'
+		 [58] 'DENT: C1/ labial ridges'
+		 [59] 'DENT: P3, lingual expansion of crown'
+		 [60] 'DENT: P3, location of lingual crown expansion'
+		 [61] 'POSTCRAN: clavicle'
+		 [62] 'POSTCRAN: cracoid process of scapula'
+		 [63] 'POSTCRAN: astragalus sustentacular facet'
+		 [64] 'POSTCRAN: distal plantar border of astragalus'
+		 [65] 'POSTCRAN: Distinct crest on posteromedial rim of trochanteric fossa on femur'
+		 [66] 'POSTCRAN: intertrochanteric crest on femur'
+		 [67] 'SOFT: Contracted pupil'
+		 [68] 'SOFT: Medial face of claw sheath compared to lateral face'
+		 [69] 'SOFT: Hyoid'
+		 [70] 'SOFT: Presence of whorl of hair'
+		 [71] 'SOFT: Mane'
+		 [72] 'SOFT: Fur on dorsal snout'
+		 [73] 'SOFT: Lateral face and upper neck'
+		 [74] 'SOFT: large pad of fibro-elastic tissue at rostral end of vocal folds'
+		 [75] 'SOFT: Thyroarytenoid folds of larynx'
+		 [76] 'SOFT: Connection between hyoid apparatus and larynx'
+		 [77] 'SOFT: form of epihyal'
+		 [78] 'Vocalization: prusten'
+		 [79] 'Vocalization: puff'
+		 [80] 'Vocalization: roar sequence'
+		 [81] 'Vocalization: grunt'
+	;
+	STATELABELS
+		1
+		'State 0: at or anterior to maxillary-frontal suture'
+		'State 1: posterior to maxillary-frontal suture'
+		,
+		2
+		'State 0: posterior to postobrital constriction'
+		'State 1: at postorbital constriction'
+		,
+		3
+		'State 0: converge along occipital crest'
+		'State 1: separate along occipital crest'
+		,
+		4
+		'State 0: absent'
+		'State 1: present'
+		,
+		5
+		'State 0: present'
+		'State 1: absent'
+		,
+		6
+		'State 0: single'
+		'State 1: double'
+		,
+		7
+		'State 0: wide and rounded'
+		'State 1: truncated and tapered'
+		,
+		8
+		'State 0: tapered or concave'
+		'State 1: convex'
+		,
+		9
+		'State 0: posterior to postorbital process'
+		'State 1: anterior to postorbital process'
+		,
+		10
+		'State 0: in anterior postorbital region'
+		'State 1: posterior to postorbital region'
+		,
+		11
+		'State 0: adjacent to postorbital process'
+		'State 1: not adjacent to postorbital process'
+		,
+		12
+		'State 0: slender relative to condylobasal length'
+		'State 1: wide relative to condylobasal length'
+		,
+		13
+		'State 0: large'
+		'State 1: reduced'
+		,
+		14
+		'State 0: large and ventrally directed'
+		'State 1: reduced and ventrally directed'
+		'State 2: reduced and posteriorly directed'
+		,
+		15
+		'State 0: narrow relative to condylobasal length'
+		'State 1: intermediate relative to condylobasal length'
+		'State 2: wide relative to condylobasal length'
+		,
+		16
+		'State 0: narrow relative to condylobasal length'
+		'State 1: wide relative to condylobasal length'
+		,
+		17
+		'State 0: relatively short'
+		'State 1: relatively long'
+		,
+		18
+		'State 0: relatively short'
+		'State 1: intermediate'
+		'State 2: relatively long'
+		,
+		19
+		'State 0: narrow relative to condylobasal length'
+		'State 1: wide relative to condylobasal length'
+		,
+		20
+		'State 0: absent'
+		'State 1: present'
+		,
+		21
+		'State 0: not ventrally expanded'
+		'State 1: ventrally expanded'
+		'State 2: expanded to maxilla both medially and ventrally in dorsal/lateral view'
+		'State 3: excluded by maxilla'
+		,
+		22
+		'State 0: equal in size'
+		'State 1: sulci longer'
+		'State 2: sulci shorter'
+		,
+		23
+		'State 0: gradually ends at canine border'
+		'State 1: angles anteriorly, not arching'
+		'State 2: arches then turns sharply anteriorly near canines'
+		,
+		24
+		'State 0: recurved posteriorly at tip'
+		'State 1: perpendicular to sagittal axis'
+		,
+		25
+		'State 0: smooth'
+		'State 1: angular'
+		,
+		26
+		'State 0: Close together, distance between them equal or smaller than the diameter of palatine canal opening'
+		'State 1: Located far apart, distance between them larger than diameter of palatine canal opening'
+		,
+		27
+		'State 0: suture extends poteriorly, then cuts ventrally at the base of the zygomatic arch'
+		'State 1: suture gradually extends posteroventrally to the base of the zygomatic arch, no sharp turn'
+		,
+		28
+		'State 0: end at the posterior border of the anterior palatine foramen or forms a stubby extension'
+		'State 1: sharply extend posteriorly past the position of the anterior palatine foramen and the premaxilla-maxilla suture leading from the medial border of the canines.'
+		,
+		29
+		'State 0: absent'
+		'State 1: present'
+		,
+		30
+		'State 0: short with tapered apex'
+		'State 1: large and cylindrical'
+		,
+		31
+		'State 0: small or not deflected'
+		'State 1: enlarged and anteriorly deflected'
+		,
+		32
+		'State 0: small'
+		'State 1: enlarged'
+		,
+		33
+		'State 0: ectotympanic and squamosal fused with mastoid process to form bony ridge or continuous surface'
+		'State 1: separated from mastoid '
+		,
+		34
+		'State 0: shallow'
+		'State 1: obtuse ?'
+		,
+		35
+		'State 0: narrow and raised'
+		'State 1: wide and flattened'
+		,
+		36
+		'State 0: anterior'
+		'State 1: lateral'
+		,
+		37
+		'State 0: oval and rounded'
+		'State 1: wide and triangular'
+		,
+		38
+		'State 0: small and slit-like'
+		'State 1: enlarged'
+		,
+		39
+		'State 0: wide, anteropsoterior extent of space close to length of bulla'
+		'State 1: narrow'
+		,
+		40
+		'State 0: concave'
+		'State 1: convex'
+		'State 2: straight'
+		,
+		41
+		'State 0: anteriorly inclined [>130Â°] '
+		'State 1: weakly inclined [110-120Â°]'
+		,
+		42
+		'State 0: smooth'
+		'State 1: abrupt'
+		,
+		43
+		'State 0: absent'
+		'State 1: present'
+		,
+		44
+		'State 0: shallower than depth at p4/m1'
+		'State 1: deeper than depth at p4/m1'
+		,
+		45
+		'State 0: separated'
+		'State 1: fused'
+		,
+		46
+		'State 0: distinct and rounded'
+		'State 1: reduced and flattened'
+		,
+		47
+		'State 0: always or nearly always present and unreduced'
+		'State 1: frequently absent or reduced'
+		,
+		48
+		'State 0: short relative to P3 length'
+		'State 1: long relative to P3 length'
+		,
+		49
+		'State 0: not elongate relative to condylobasal length'
+		'State 1: elongate relative to condylobasal length'
+		,
+		50
+		'State 0: oval'
+		'State 1: almost round'
+		,
+		51
+		'State 0: not elgonate relative to mandible length'
+		'State 1: elongate relative to mandible length'
+		,
+		52
+		'State 0: not elongate relative to mandible length'
+		'State 1: elongate relative to mandible length'
+		,
+		53
+		'State 0: narrow, diverging towards crown tip'
+		'State 1: wide, parallel'
+		,
+		54
+		'State 0: straight, symmetrical'
+		'State 1: offset from central axis with expanded postero-lingual cingular shelf'
+		,
+		55
+		'State 0: raised and distinct from posterior accessory cusp'
+		'State 1: not distinct, and fused with enlarged posterior accessory cusp'
+		,
+		56
+		'State 0: absent'
+		'State 1: present'
+		,
+		57
+		'State 0: absent'
+		'State 1: present, converging at tip of crown'
+		,
+		58
+		'State 0: absent'
+		'State 1: present'
+		,
+		59
+		'State 0: present'
+		'State 1: absent'
+		,
+		60
+		'State 0: at the level of the main cusp'
+		'State 1: distal/posterior to the level of the main cusp'
+		,
+		61
+		'State 0: relatively small and straight'
+		'relatively large, markedly curved with expanded sternal end'
+		,
+		62
+		'State 0: medially projecting, hook-like process'
+		'State 1: reduced to a smooth surface on anteromedial face of supraglenoid tubercle'
+		,
+		63
+		'State 0: small, restricted to distal portion of body'
+		'State 1: extended posteriorly'
+		,
+		64
+		'State 0: smooth, undeveloped'
+		'State 1: lip produced to a knob or hook'
+		,
+		65
+		'State 0: absent'
+		'State 1: present'
+		,
+		66
+		'State 0: poorly defined'
+		'State 1: well defined and deep'
+		,
+		67
+		'State 0: narrow and slit-like'
+		'State 1: round'
+		,
+		68
+		'State 0: less developed'
+		'State 1: equally developed'
+		,
+		69
+		'State 0: fully ossified'
+		'State 1: partly fused with cartilagious epihyal'
+		,
+		70
+		'State 0: between and behind ears'
+		'State 1: behind ears and down the neck'
+		'State 2: between the shoulders'
+		,
+		71
+		'State 0: absent'
+		'State 1: occasionally present'
+		'State 2: present'
+		,
+		72
+		'State 0: not extending to rhinarium'
+		'State 1: extending to rhinarium'
+		,
+		73
+		'State 0: with longitudinal stripes'
+		'State 1: unpatterned/spotted'
+		,
+		74
+		'State 0: absent'
+		'State 1: present'
+		,
+		75
+		'State 0: divided'
+		'State 1: undivided'
+		,
+		76
+		'State 0: synovial'
+		'State 1: ligamentous'
+		,
+		77
+		'State 0: bony or cartilaginous'
+		'State 1: ligamentous'
+		,
+		78
+		'State 0: absent'
+		'State 1: present'
+		,
+		79
+		'State 0: absent'
+		'State 1: present'
+		,
+		80
+		'State 0: absent'
+		'State 1: present'
+		,
+		81
+		'State 0: absent'
+		'State 1: present'
+		
+	;
+	MATRIX
+	'Leopardus pardalis'		               0000?000100001000000020011010001000010111100000000000000010000?000000000000?00000
+	'Puma concolor'		                    0001?000000101210210110001010000000111121100000101000100000000?011100000000?00000
+	'Neofelis nebulosa'		                0000??1111?112110100220110001000111111101011101010010110011-000010010000000?01000
+	'Panthera leo'		                     01101?110101002102100101111111001111010200001101000001100101101101111221111110111
+	'Panthera onca'		                    011010110111002101100101011111101111011201001101000001000101001001111201111111011
+	'Panthera pardus'		                  011010100101012102100001011111001111011100001101000001100101001001111201111?10111
+	'Panthera tigris'		                  1111101101?1002112110111111110001111110100001101000101100101000010111111111011000
+	'Panthera uncia'		                   01-01010101100210111302111101011111111111001110001110010011-010001111001101?11000
+	'Panthera blytheae'		                01-01010?1110000001120211101-----?-0--111000--1101--10011101??????-------????----
+	'Panthera atrox'		                   01101011010100210210010111111???1111011100001?010000011001011????????????????????
+	'Panthera palaeosinensis'		          01001010??0100110210011111?1????111111110101??01000001100?01?????????????????????
+	'Panthera spelaea'		                 01101011010100210210011111111???1111011100001101000001100101?????????????????????
+    ;
+    ENDBLOCK;
+
+          BEGIN ASSUMPTIONS;
+      TYPESET * UNTITLED = unord: 1 - 81;
+      ENDBLOCK;
+      BEGIN MESQUITE;
+MESQUITESCRIPTVERSION 2 ; TITLE AUTO ; tell ProjectCoordinator ; timeSaved 1362937949562 ; getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa ; tell It ; setID 0 6881471937990225056 ; endTell ; getEmployee #mesquite.charMatrices.ManageCharacters.ManageCharacters ; tell It ; setID 0 5908278079489310022 ; mqVersion 275 ; checksumv 0 3 1787455843 null getNumChars 67 numChars 67 getNumTaxa 12 numTaxa 12 short true bits 15 states 15 sumSquaresStatesOnly 2400.0 sumSquares 2400.0 longCompressibleToShort false usingShortMatrix true NumFiles 1 NumMatrices 1 ; mqVersion ; endTell ; getWindow ; tell It ; suppress ; setResourcesState false false 100 ; setPopoutState 400 ; setExplanationSize 0 ; setAnnotationSize 0 ; setFontIncAnnot 0 ; setFontIncExp 0 ; setSize 1280 929 ; setLocation -4 0 ; setFont SanSerif ; setFontSize 10 ; getToolPalette ; tell It ; endTell ; desuppress ; endTell ; getEmployee #mesquite.charMatrices.BasicDataWindowCoord.BasicDataWindowCoord ; tell It ; showDataWindow #5908278079489310022 #mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindowMaker ; tell It ; getWindow ; tell It ; setExplanationSize 30 ; setAnnotationSize 20 ; setFontIncAnnot 0 ; setFontIncExp 0 ; setSize 1180 862 ; setLocation -4 0 ; setFont SanSerif ; setFontSize 10 ; getToolPalette ; tell It ; setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam ; endTell ; setActive ; setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam ; colorCells #mesquite.charMatrices.NoColor.NoColor ; colorRowNames #mesquite.charMatrices.TaxonGroupColor.TaxonGroupColor ; colorColumnNames #mesquite.charMatrices.CharGroupColor.CharGroupColor ; colorText #mesquite.charMatrices.NoColor.NoColor ; setBackground White ; toggleShowNames on ; toggleShowTaxonNames on ; toggleTight off ; toggleThinRows off ; toggleShowChanges on ; toggleSeparateLines off ; toggleShowStates on ; toggleAutoWCharNames on ; toggleAutoTaxonNames off ; toggleShowDefaultCharNames off ; toggleConstrainCW on ; toggleBirdsEye off ; toggleShowPaleGrid off ; toggleShowPaleCellColors off ; togglePaleInapplicable on ; toggleShowBoldCellText off ; toggleAllowAutosize on ; toggleColorsPanel off ; toggleDiagonal on ; setDiagonalHeight 80 ; toggleLinkedScrolling on ; toggleScrollLinkedTables off ; endTell ; showWindow ; getWindow ; tell It ; forceAutosize ; endTell ; getEmployee #mesquite.charMatrices.ColorByState.ColorByState ; tell It ; setStateLimit 9 ; toggleUniformMaximum on ; endTell ; getEmployee #mesquite.charMatrices.ColorCells.ColorCells ; tell It ; setColor Red ; removeColor off ; endTell ; getEmployee #mesquite.categ.StateNamesStrip.StateNamesStrip ; tell It ; showStrip off ; endTell ; getEmployee #mesquite.charMatrices.AnnotPanel.AnnotPanel ; tell It ; togglePanel off ; endTell ; getEmployee #mesquite.charMatrices.CharReferenceStrip.CharReferenceStrip ; tell It ; showStrip off ; endTell ; getEmployee #mesquite.charMatrices.QuickKeySelector.QuickKeySelector ; tell It ; autotabOff ; endTell ; getEmployee #mesquite.charMatrices.SelSummaryStrip.SelSummaryStrip ; tell It ; showStrip off ; endTell ; getEmployee #mesquite.categ.SmallStateNamesEditor.SmallStateNamesEditor ; tell It ; panelOpen true ; endTell ; endTell ; endTell ; endTell ;
+ENDBLOCK;
+BEGIN MESQUITECHARMODELS;
+ProbModelSet * UNTITLED = Mk1 ? : 1 - 67 ;
+ENDBLOCK;

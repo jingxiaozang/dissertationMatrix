@@ -1,0 +1,191 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 16.13.22'
+32 141
+
+&[num]
+Dantya_tryx                           00010010010010000222010112111100
+Nealella_monothrix                    0001001001001?010222010012111000
+Adelta_theta                          102100200?0010001001001222111010
+Alphasarsiella_altrix                 102000100100110012?2000112111011
+Alphasarsiella_anax                   102000100100110012?2000112111011
+Ancohenia_hawaiiensis                 11011120111221111220011110010110
+Anscottiella_crispata                 110110212112211112?2001121011010
+Anscottiella_tumidicosta              10021120111221111222001121011010
+Anscottiella_vertex                   11011121211221111?22001121011010
+Chelicopia_arostrata                  1111102011011111102?011100010100
+Chelicopia_fax                        11121011221221111022010110010100
+Chelicopia_lorica                     100110101212211111210101?0010100
+Chelicopia_pertinex                   11221021221221111002010110010100
+Chelicopia_radix                      11121021221221111022010110010100
+Chelicopia_squameospinosa             11211020121221111001010010010100
+Chelicopia_tasmanensis                11211010111221111220011110010100
+Chelicopia_triplex                    11211021221221111020011110010000
+Cymbicopia_brevicostata               102000201100111112220002?1011010
+Cymbicopia_cervix                     001100200100111112220011?1011010
+Cymbicopia_climax                     102100200?0011111222001111011010
+Cymbicopia_hanseni                    10210020110011111222000221011010
+Eurypylus_chavturi                    00011010111221111022000221011010
+Eurypylus_darwinensis                 10021011220111111222000211011010
+Eurypylus_eagari                      10011010110111111222001211011010
+Eurypylus_hapax                       10111010120111111222001121011010
+Eurypylus_matrix                      11011000110111111220000021011010
+Eurypylus_pulcher                     11011000111221111222000221011000
+Eurypylus_rex                         11221021221221111022001221011001
+Eurypylus_rousei                      10011010110011111022001221011010
+Eurypylus_setiferus                   11011011210111111001001201011010
+Eusarsiella_absens                    11011000121221111001000122111010
+Eusarsiella_africana                  111010101100111110??000222111011
+Eusarsiella_alata                     111010212101111110020???22111010
+Eusarsiella_antipex                   11111011210111111021000022111010
+Eusarsiella_asciformis                110110001101111110210010?2111010
+Eusarsiella_athrix                    11011011220111111222000022111010
+Eusarsiella_bakeri                    1100101121122111102200?222111010
+Eusarsiella_bedoyai                   10001010110111111021001222111010
+Eusarsiella_bex                       11101010110111111220000122111010
+Eusarsiella_capillaris                11001010110111111?21001222111010
+Eusarsiella_carinata                  1100?010110111111?0?00122211101?
+Eusarsiella_childi                    112110101?0111111222000022111000
+Eusarsiella_claviformis               11101020111221111022001222111010
+Eusarsiella_concentricostata          1111101121122?1110220002221110??
+Eusarsiella_cornuta                   110010112?1221111?01001222111010
+Eusarsiella_costata                   1100101121122111122?001222111010
+Eusarsiella_cresseyi                  11201010120011111002000222111000
+Eusarsiella_culteri                   110010121?0011111222000222111010
+Eusarsiella_dentifera                 11111010111221111221001122111010
+Eusarsiella_dispar                    11201011210111111222000022111010
+Eusarsiella_dominicana                11011020100111111220000022111010
+Eusarsiella_donabbotti                1100101121122?1110210010221110?0
+Eusarsiella_dornellasae               110010101100111110??0002221110?0
+Eusarsiella_edax                      11201000110111111220000022111010
+Eusarsiella_eli                       10001021200111111212000022111010
+Eusarsiella_elofsoni                  11201011210111111221000022111010
+Eusarsiella_fallomagna                11111000110111111220000022111010
+Eusarsiella_falx                      110010200100?1111021000222111010
+Eusarsiella_fax                       11101020111221111022000222111010
+Eusarsiella_gettlesoni                11001010120101111022000122111010
+Eusarsiella_gomoiui                   110010101100111110?1001222111010
+Eusarsiella_greyi                     11201001210111111222000022111010
+Eusarsiella_iayx                      11211011210111111220000022111010
+Eusarsiella_janicea                   10001020111220111021000222111010
+Eusarsiella_bryanjuarezi              10011001210111111212000022111010
+Eusarsiella_longipenna                11001011210011111022001222111010
+Eusarsiella_lunata                    10011010110011111022001222111010
+Eusarsiella_magna                     1101?001210111111211000022111010
+Eusarsiella_maurae                    11211010110101111022000122111010
+Eusarsiella_microthrix                11011011110111111220001122111010
+Eusarsiella_neapolis                  11001010110011111022001222111010
+Eusarsiella_nodimarginis              1100100121??11111221000122111010
+Eusarsiella_ocula                     11011010110001111020000222111010
+Eusarsiella_ovalis                    10111011221221111002001222111010
+Eusarsiella_ozotothrix                01011010120110111?21122322111010
+Eusarsiella_paniculata                11001000110111111021000022111010
+Eusarsiella_phrix                     11201011210111111200001022111010
+Eusarsiella_pilipollicis              110010112?12211110210002?2111000
+Eusarsiella_pseudospinosa             1001101011122111100000?22211101?
+Eusarsiella_punctata                  11011001220111?112220011221110??
+Eusarsiella_radiicosta                11011001221221111222000122111010
+Eusarsiella_reticulata                10011000110111111220000022111010
+Eusarsiella_rudescui                  11001010110010111022000222111010
+Eusarsiella_ryanae                    112010200101111110??000222111010
+Eusarsiella_saengeri                  112010112101111112?00000?2111010
+Eusarsiella_segrex                    11111010110111111221000122111010
+Eusarsiella_serrata                   11001000110111111020000022111010
+Eusarsiella_spicata                   11111010110111111?12001122111010
+Eusarsiella_spinosa                   11001011211221111122000222111010
+Eusarsiella_springthorpei             11101000110111111220000022111010
+Eusarsiella_syrinx                    01001011210111111021001222111010
+Eusarsiella_texana                    110110101112211?1?22000122111010
+Eusarsiella_tryx                      1120101121011111120?000122111011
+Eusarsiella_tubipora                  11001010110111111001001222111010
+Eusarsiella_tumida                    10111011210111111221000022111010
+Eusarsiella_uncus                     11011000120111111221001022111010
+Eusarsiella_vema                      11211010110111111210000222111010
+Eusarsiella_venezuelensis             1001100010011111122?000122111010
+Eusarsiella_vernix                    11211011211221111220000122111010
+Junctichela_lex                       100110101112211110?2000220001010
+Junctichela_margalefi                 1001101011001111102?000220001010
+Junctichela_pax                       11211010121221111022000220001010
+Metasarsiella_benthedi                11001010111221111222000112111010
+Metasarsiella_caleyi                  11001021211221111222001212111010
+Metasarsiella_vibex                   11001020111221111222001212111010
+Neomuelleriella_hispida               102010100200?10112?0010202111110
+Neomuelleriella_klomax                11211011221221011022010312111101
+Neomuelleriella_nex                   1122102?020111011022010312111100
+Neomuelleriella_zealandica            1010101011001100102?011201011100
+Parasarsiella_poorei                  112110001101111112020000?2111010
+Sarsiella_anommata                    1100100121122011102?122222111011
+Sarsiella_armata                      11001011211221111?12122222111000
+Sarsiella_capsula                     11111000111221111022122222111010
+Sarsiella_fadeevi                     1100101121122?1110021222221110??
+Sarsiella_japonica                    11101011221221111022122222111010
+Sarsiella_longicornis                 110010012112211112021222221110?0
+Sarsiella_maculata                    11001011211221111122122222111010
+Sarsiella_multispinosa                11001011211221111?12122222111010
+Sarsiella_nana                        11001011210111111012122222111010
+Sarsiella_oryx                        11111001211221111022122222111000
+Sarsiella_parvispinosa                11001011211221111?10122222111010
+Sarsiella_pugnax                      110110012112211110221222?2111000
+Sarsiella_spinulosa                   11001011210011111?22122222111010
+Sarsiella_striata                     1101100??11221111022122122111010
+Sarsiella_varix                       1110100121122111102?122222111000
+Sarsiella_verae                       11001001211221111222122222111010
+Spinacopia_antarctica                 102100100?00010012221222021111?1
+Spinacopia_bisetula                   10210010010011001220000102111111
+Spinacopia_crux                       1011002001001001100?001212111110
+Spinacopia_illex                      11110020010010011021000212111100
+Spinacopia_mastix                     10000010000011001220000002111111
+Spinacopia_menziesi                   10210000000011001221000002111111
+Spinacopia_ningalooi                  11010021221221011220001212111110
+Spinacopia_octo                       101000100000010012220000021111?1
+Spinacopia_rex                        10100010000011001202000102111101
+Spinacopia_sandersi                   10100010000011001220000102111111
+Spinacopia_sandix                     101100200100110110210012?2111110
+Spinacopia_syrinx                     10210020010110011021001212111111
+Spinacopia_torus                      10200010000011001222000002111111
+Spinacopia_trox                       10110020010110011020000202111110
+Spinacopia_variabilis                 102100100?00?1001220000002111111
+
+;
+
+
+cnames
+{ 0 'Rostrum: pronounced (0); absent or very small (1) ?' pronounced absent_or_very_small;
+{ 1 'Anterior incisure on the shell: present (0); absent (1) [0.75]' present absent;
+{ 2 'Fossae on the shell: rough (0); present but small (1); absent (2) [0.5]' Rough Present_but_small Absent;
+{ 3 'Caudal process on the shell: present and prominent (0); present but small (1); absent (2) [0.75]' Present_and_prominent Present_but_small Absent;
+{ 4 'Posterior infold: with a row of prominent bristles starting from posterior part (0); only two prominent dorsal bristles present postero-dorsally, others much smaller and usually scattered (1) ?' With_a_row_of_prominent_bristles_starting_from_posterior_part_ Only_two_prominent_dorsal_bristles_present_postero-dorsally,_others_much_smaller_and_usually_scattered;
+{ 5 'L1: c-, f-, and g-bristles: normal (0); claw-like (1) ?' Normal Claw-like;
+{ 6 'Number of bristles intero-distally on the fused third and fourth segments of L1: three (0); two (1); one (2) [0.5]' three two one;
+{ 7 'Endopod on the L2: dimeric (0); monomeric (1); trimeric (2) [0.75]' dimeric monomeric trimeric;
+{ 8 'Second segment on the endopod L2: prominent and clearly divided (0); very short and almost fused with the previous one (1); absent (2) [0.75]' Prominent_and_clearly_divided Very_short_and_almost_fused_with_the_previous_one_ Absent;
+{ 9 'Number of bristles on the first segment of endopod L2: three (0); two (1); one (2) [0.5]' Three Two One;
+{ 10 'Apical bristle(s) on the endopod L2: present (0); absent (1) [0.75]' Present Absent;
+{ 11 'Apical bristle on the endopod of L2: present and long (0); present and short (1); absent (2) [0.75]' Present_and_long Present_and_short Absent;
+{ 12 'Number of apical bristles on the endopod L2: two (0); one (1); zero (2) [0.75]' Two One Zero;
+{ 13 'Number of bristles on the terminal segment of exopod L2: three (0); two (1) [0.75]' Three Two;
+{ 14 'Coxale endite on the L3: bifurcate, prominent and surrounded with spinous bristles (0); reduced to a single spine or absent (1) [0.75]' Prominent_and_surrounded_with_spinous_bristles_ Reduced_to_a_single_spine_or_absent_;
+{ 15 'Expopod on the L3: with a clear segment and apical bristle(s) (0); absent or only bristle left (1) ?' with_a_clear_segment_and_apical_bristle(s) absent_or_only_bristle_left;
+{ 16 'Endopodal segments of L3: at least one with more than two claws (0); all with one claw (1) ?' at_least_one_with_more_than_two_claws all_with_one_claw;
+{ 17 'Number of bristles on the exopod L4: two (0); one (1) [0.5]' two one three;
+{ 18 'Number of bristles on the endite of L6: two (0); one (1); [0.5]' two one 3_or_more;
+{ 19 'Number of distal brisles on the L6: more than 14 (0); 12 or 13 (1); 11 or fewer (2) [0.5]' more_than_14 12_or_13 11_or_fewer;
+{ 20 'Distal end of the L7: with teeth at least on one side (0); without teeth (1) ?' with_teeth_at_least_on_one_side without_teeth;
+{ 21 'Distal end of the L7 with: teeth on both sides (0); on one side only (1); on neither side (2) ?' teeth_on_both_sides_ on_one_side_only on_neither_side;
+{ 22 'L7, Number of teeth in each comb: more than 3 (0); 3 or fewer (1); no teeth on the comb (2); [0.75]' more_than_3 3_or_fewer no_teeth_on_the_comb;
+{ 23 'Number of opposite pairs on the bell-bearing bristles distally on L7: more than two (0); two (1); one (2) [0.75]' more_than_2 two one none;
+{ 24 'Number of claws on the furca: 7 or more (0); 6 (1); 5 or fewer (2) [0.75]' 7_or_more 6 5_or_fewer;
+{ 25 'Number of claws fused with furcal lamellae: three (0); two (2); one (2) ?' three two one;
+{ 26 'Second claw on the furca: fused with lamellae (0); free (1) ?' fused_with_lamellae free;
+{ 27 'Third claw on the furca: fused with lamellae (0); free (1) ?' fused_with_lamellae free;
+{ 28 'Fourth claw on the furca: fused with lamellae (0); free (1) ?' fused_with_lamellae free;
+{ 29 'Claws on the furca: gradually decreasing in length (0); one of the claws being shorter than its neighbours (1) ?' gradually_decreasing_in_length_ one_of_the_claws_being_shorter_than_its_neighbours_;
+{ 30 'Bellonci organ: segmented (0); not segmented or segmentation not clear (1) [0.75]' segmented not_segmented_or_segmentation_not_clear;
+{ 31 'Lateral eye: present (0); absent (1) [0.75]' present absent;
+;
+
+
+ccode  - 0.31;
+
+
+;

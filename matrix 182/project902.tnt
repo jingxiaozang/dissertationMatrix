@@ -1,0 +1,59 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 16.20.24'
+27 14
+
+&[num]
+Antagminae                  000000000000000000020000000
+Lonchocephalidae            000000100000001001??00001??
+Solenopleuropsinae          0000000000000000010?10101??
+Solenopleurinae             000000100100000?0???00001??
+Proetida                    101121000101000001001100010
+Lichida                     110112001100000001021111111
+Odontopleurida              110112001100002001100111100
+Calymenidae                 120111100100102110121020100
+Homalonotidae               120111100100102010121020100
+Cheiruridae                 010111100110111100010110100
+Encrinuridae                110101100110112100110010101
+Pterygometopidae            110101100110112110110010101
+Phacopidae                  1101011101?10120101?0010100
+Dalmanitacea                010101110110011?101?00101??
+
+;
+
+
+cnames
+{ 0 Cranidial_anteromedian_border absent present;
+{ 1 Marginal_spines_on_protocranidial_anterior_border absent sparse dense_row;
+{ 2 Preglabellar_field absent present;
+{ 3 Anterior_axial_furrow_(fossular)_pits large small_or_indistinct;
+{ 4 Glabellar_shape expanding_forward parallel_sided barrel_shaped;
+{ 5 Paired_glabellar_tubercles absent tubercles_present coarse_spines;
+{ 6 Transglabellar_furrows absent moderate_to_strongly_incised;
+{ 7 Frontal_glabellar_lobe_with_longitudinal_furrows_defining_depressed_abaxial_region absent present;
+{ 8 Isolated_preoccipital_lateral_glabellar_lobes absent present;
+{ 9 Median_occipital_node absent present;
+{ 10 Exoskeleton_pitting absent present;
+{ 11 Eye_ridges present absent;
+{ 12 Eye_lobe_swellings_along_anterior_margin_of_protocranidium absent present;
+{ 13 Strongly_proparian_(librigena_does_not_extend_to_posterior_half_of_protocranidium) present absent;
+{ 14 Fixigenal_spine_(pf) absent present with_small_subsidiary_spine;
+{ 15 Three_large_protocranidial_marginal_spines_("af",_"mf",_"pf"_of_Palmer_[1962]) absent present;
+{ 16 Arching_of_lateral_margins gentle steep;
+{ 17 Librigenal_spine absent present;
+{ 18 Dense_row_of_librigenal-rostral_border_spines absent present;
+{ 19 Number_of_marginal_spines_on_hypostome_(excluding_posteromedian_spine) 0 6 8;
+{ 20 Elongate_protopygidium_(axis_well_in_advance_of_posterior_margin) absent present;
+{ 21 Paired_axial_spines_on_protopygidium absent present;
+{ 22 Marginal_spines_on_protopygidium absent present present,_branching;
+{ 23 Broad,_flattened_protopygidial_pleural_tips absent present;
+{ 24 Protopygidial_border_furrow present absent;
+{ 25 Protopygidial_doublure_(in_section) curved flat;
+{ 26 Terrace_lines_on_protopygidial_doublure absent present;
+;
+
+
+ccode  - 0.26;
+
+
+;

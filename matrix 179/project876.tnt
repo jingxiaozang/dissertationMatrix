@@ -1,0 +1,199 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 16.16.17'
+137 44
+
+&[num]
+Phascolotherium_bucklandi                ?0???00???????000001000000????????????????????????0?00200000000000000000000000000100000000003000000000001000000??????????????????????????
+Amphilestes_broderipi                    ?0????1???????1011000010100???????????????????????0?0020000000000000000000000000010000000002310000000000101100???????????????????????????
+Tinodon_bellus                           ?????11?00????000100000000??00000000?0??000000?0?00?001000000010101100000000000010000000000220000?00000020001000?????????????????????????
+Yermakia_domitor                         ?00??11???????0011000?0000???0000000?0?000000000100?001000000010101100000000000210000000000010000000000000?010???????????????????????????
+Gobiotheriodon_infinitus                 ?10???00??????00????????????00000000?0?0000??000000??0100100001?101100000000000210100000000011001000000??0???0???????????????????????????
+Kiyatherium_cardiodens                   ?1?11?0000000010100?00000001000000000000000000010000?0100000001010110000000000021000000000001000100000010?001000?????????????????????????
+Zhangheotherium_quiquecuspidens          ?11??10???????0???0?00?0??010?0000000000000000000?0?0020??001010101100000000000210?000000000?100?000100100000000100??01000000211?00000100
+Maotherium_sinense                       01110000?00000001?0?000000010000000000000000000000000030??001010101100000000000210?000000001210010?????10?00?000100??01000000211?00000100
+Maotherium_asiaticum                     01110000?000?00???0?0000???20?00000000000000000001000030??001010101100000000000210?0000000012100100?100100001000100??01000000211?00000100
+Spalacotherium_tricuspidens              ?1???010?0100000100?000000?3010000000000100000010000?03102001010101100000000000111001100010?0101000?00001100100??????????????????????????
+Spalacolestes_cretulablatta              ????????????????100?0??000?3?2000000011??0?00?01010?00311200101010110100000000011101110001???001011??1001????0???????????????????????????
+Groebertherium_stipanicici               ?????????????????????????????2000011?11??0101?01010????112?1001?111111?0000200011111010011???????????????????????????????????????????????
+Dryolestes_priscus                       ???????1?1????1?211201001014021000110100111001110100104112010011212111101002000201110100110201110001000011?1?1?0?????????????????????????
+Dryolestes_leiriensis                    101001111110001120120100101402100011010011100111?100104112010011212111101002000201110100110201110001000011110110???1????????????????00???
+Laolestes_eminens                        ?01??110?1110011201101101014021000110100111010?1?100104112010011212111101002000101110100110201110001000011110110?????????????????????????
+Krebsotherium_lusitanicum                ?0?00110111110112011010010140210001101001110001101001041120100112121111010020002011101001102111110010000111101?0?????????????????????????
+Guimarotodus_inflatus                    ?????11???????1120120100101???????????????????????0?104112010011212111101002000201110100110??11100010000?111?????????????????????????????
+Amblotherium_gracile                     ?0100?10??????2?20110100101?021000110100101000010100104112010011212110000002000101111100110201110001000111110010?????????????????????????
+Amblotherium_pusillum                    ?01??00?11????10211?0100101?02100011010010100001?100?04112010011212110000002000101111100110201110001000111110010?????????????????????????
+Achyrodon_nanus                          ?01??01011112011211?0100101402100011010??01010010100?041??010011212111100002000201110000110201110001000?211100?0?????????????????????????
+Phascolestes_mustelulus                  ?000100111112012211101?0101402100011010??01010010100?041??0100112121111000020002011100001112?111?001000021110020?????????????????????????
+Crusafontia_cuencana                     ?00???1???????1221110110101?02100011010??0100001?10?10411201001121211100100200010111110011123111000000002111012??????????????????????????
+Euthlastus_cordiformis                   ???????0????????????????????11000011?100100000011100?????????????????????????????????????1???????????????????????????????????????????????
+Tathiodon_agilis                         ???????0????????????????????02000011?10010100001110010?00200001121111100100200020111010011?????0??0??????????????????????????????????????
+Paurodon_valens                          ?00??000??????0320110100101?11000011?10010000001010010?0021000102111100000010002011101001100?1000001000?1?1200???????????????????????????
+Henkelotherium_guimarotae                ???0???0?01110??201?01001012010000110100100010011100?03???000011?11110000001000?0?11??0011???11??00100001111011??110?11?011102101?0?10111
+Drescheratherium_acutum                  1??01??0?01110????????????12010000110100100010011100?????????????????????????????????????1?????????????????????0?1???????????????????????
+Amphitherium_prevostii                   ?00???1???????20210101?0101???????????????????????0?10300100001011111000211111000111001011020000000100001022111??????????????????????????
+Palaeoxonodon_ooliticus                  ?????????????????????????????1200011?10010100001110????001?0001011111?00211311100011001011????????0??????????????????????????????????????
+Amphibetulimus_krasnolutskii             ??????????????????????????????????????????????????0????10?00001012111200211?11000011001011??30010?0?100??0??11???????????????????????????
+Nanolestes_drescherae                    ?0????1??010002421010110101??0200011?10010100001110?00200200001011111100211311000011001011002000100010001?2211???????????????????????????
+Arguimus_khosbajari                      ??????????????2?21000210101???????????????????????0?00100200001011111000211311100011001011?2?000001?????1???10???????????????????????????
+Mozomus_shikamai                         ????????????????21010200101???????????????????????0?00200200001012111200?113110?0?11001011???00000001??0102200???????????????????????????
+Peramus_tenuirostris                     ??????001010002421000210101000200011010100?00001100?00000200001012111?0021131110001100101100?0000000111010220010?????????????????????????
+Kielantherium_gobiensis                  ??????????????????????????1??1200012?10100000001101?00100100001012111200211311200011001011?00000000011??????00???????????????????????????
+Prokennalestes_spp                       ?00?0111001010202?00001010100120001201010000000110101001010000101111110021131121111100101102100000001110112200?1?????????1111210?10??????
+Vincelestes_neuquenianus                 021000001111100321110110101000000011011???000?10000000000010001011110000000101020111001001100100101??110111101201011010001110200010111011
+Cronopio_dentiacutus                     0??0100100102000?11??220?1?1122000?0011??0100?1101000011121?11101?11???1?000000?0?110?0001020111011??1?11??01001000010111111?101001??????
+Leonardus_cuspidatus                     ???????1?????????101132?01??12200000011??0111?10010111?11210101010110001000000010111000001?????1??1????????????1?????????????????????????
+Reigitherium_bunodontum                  ?????????????????1111221?0??0??11111???????1?????10?01?11200101?1?11?0?1000000012111010101??21?1??1?????2????0???????????1??1???0????????
+Mesungulatum_houssayi                    ???????1?01??????1????2?01??02211011111??0111?100101???11200101110110001000000012111010001?????1?????????????????????????????????????????
+Coloniatherium_cilinskii                 ?2?00011?0113103110?1321010102?11011111??0111?1001010111120010111?110?010000000121110100010221110?1??1??2???10???????????1111111001??????
+Peligrotherium_tropicalis                02000011?0113103?1????21??0102211111111??0011?100101111112001011101100?10000000121110101010221111?1??10020??1021000?0?01?1111011001??????
+Necrolestes_patagonensis                 10?000?10011200021021?001??01220002?0?????????10?1001001121?11111011?0?100000?020111000001100111001??10120221021?0?01?011??111001011010??
+
+;
+
+
+cnames
+{ 0 Maxillary_incisor absent present;
+{ 1 Lower_incisors,_number four_or_more three fewer_than_three;
+{ 2 Lower_anteriormost_incisor_(i1)_enlargement_and_procumbency absent present_both_procumbent_and_enlarged_more_than_50%_the_second_incisor_(i2);
+{ 3 Upper_canine,_height long,_at_least_twice_the_height_of_tallest_postcanine short,_less_than_twice_the_height_of_the_tallest_postcanine;
+{ 4 Upper_canine,_number_of_roots two one;
+{ 5 Lower_canine,_shape caniniform_(unlike_premolars) premolariform_(similar_in_shape_and_size_with_last_premolar,_possibly_with_posterior_cingulid_or_cingulid_cusp);
+{ 6 Lower_canine,_number_of_roots one two;
+{ 7 Upper_postcanine_tooth-row straight arcuate;
+{ 8 Diastema_separating_P1_from_P2_(distance_equal_or_larger_than_half_of_the_P1)._Taxa_missing_P1_or/and_P2_coded_inapplicable. present absent;
+{ 9 Ultimate_upper_premolar similar_in_length_or_shorter_and_narrower_than_M1 robust,_about_twice_longer_and_similar_in_width_with_M1;
+{ 10 Ultimate_upper_premolar,_anterior_accessory_cusp distinct_crown_cusp cingular_cusp_or_absent;
+{ 11 Ultimate_upper_premolar,_posterior_accessory_cusp distinct_crown_cusp cingular_cusp_or_absent;
+{ 12 Ultimate_upper_premolar,_cingulum complete_around_the_crown only_labial_cingulum no_cingulum labial_and_distal_cingulum;
+{ 13 Ultimate_upper_premolar,_supernumerary_roots absent present;
+{ 14 Lower_premolars,_number three_or_less four five_or_more;
+{ 15 Lower_premolars,_relative_size gradual_increase_in_size_posteriorly p2_smaller_than_p1_and_p3 p1-2_similar_in_size_and_distinctly_smaller_than_p3-4 only_p3-4_present gradual_increase_in_size_but_ultimate_premolar_smaller_than_penultimate;
+{ 16 Lower_premolars,_anterior_accessory_cusp distinct_cusp_on_all_premolars distinct_cusp_on_ultimate_premolar,_precingulid_or_absent_on_more_anterior_premolars precingulid_or_absent_on_all_premolars;
+{ 17 Lower_premolars,_lingual_cingulid continuous incomplete_or_absent;
+{ 18 Ultimate_lower_premolar,_size_relative_to_first_molar lower_or_subequal taller;
+{ 19 Ultimate_lower_premolar,_W/L_ratio 0.50_or_less between_0.51_and_0.70 0.71_or_greater;
+{ 20 Ultimate_lower_premolar,_molarization premolariform molariform,_with_three_trigonid_cusps_forming_a_triangle;
+{ 21 Ultimate_lower_premolar,_symmetry_of_the_main_cusp_a_(protoconid) symmetrical,_anterior_and_posterior_cutting_edges_are_straight_and_equal_or_subequal_in_length asymmetrical,_anterior_edge_is_convex_in_outline_than_the_posterior_edge asymmetrical,_posterior_edge_is_concave_in_outline_and_longer_than_the_anterior_edge asymmetrical,_anterior_edge_is_concave_and_longer_than_the_posterior_edge;
+{ 22 Ultimate_lower_premolar,_distinct_distal_cingulid_cusp_d absent,_labial_and_lingual_cingulids_if_present_converging_to_the_pointed_posterior_end_of_the_crown present_as_cingulid_cusp posterior_part_of_the_crown_rectangular,_with_a_prominent_transverse_distal_cingulid;
+{ 23 Ultimate_lower_premolar,_supernumerary_roots absent present;
+{ 24 Ultimate_lower_premolar_cusp_c_(between_main_cusp_a_and_cingulid_cusp_d) present absent;
+{ 25 Ultimate_lower_premolar,_distal_root_(taxa_with_single_root_coded_inaplicable) subequal_to_mesial_root large_elongated_root,_more_than_50%_of_crown_length;
+{ 26 Replacement_in_first_molariform_locus present absent;
+{ 27 Upper_molars,_number three_or_less four five six seven_or_eight;
+{ 28 Upper_molars,_contact upper_molars_extensively_contact_each_other upper_molars_do_not_contact_each_other,_or_barely_do_so;
+{ 29 Upper_molar_shape_(calculated_on_widest_molar_in_series_when_possible) as_long_as_wide,_or_longer_(L/W_>_0.99) wider_than_long_(0.75_<_L/W_<_0.99) much_wider_than_long_(L/W_<_0.75);
+{ 30 Upper_molars,_labial_cingulum long,_extending_between_marginally_placed_small_stylocone_(or_parastyle)_and_metastyle reduced_to_a_short_ridge_between_metastyle_and_enlarged_stylocone_and_displaced_somewhat_lingually reduced_to_few_marginal_cusplets_or_absent;
+{ 31 Upper_molars,_precingulum narrow_and_closely_attached_to_crown,_to_absent developed_forming_a_lingual_cusp;
+{ 32 Upper_molars,_postcingulum narrow_and_closely_oppressed_to_crown,_to_absent developed_forming_a_lingual_cusp;
+{ 33 Upper_molars,_pre-_and_postcingulum_elevation pre-_and_postcingulum_bbsent,_or_little_differentiated,_or_close_to_crown_base elevated_reaching_occlusal_surface;
+{ 34 Upper_molars,_number_of_roots two three one;
+{ 35 Upper_molars,_third_(lingual)_root_(taxa_with_single_root_coded_inaplicable) absent supporting_paracone supporting_protocone;
+{ 36 First_upper_molar,_supernumerary_roots absent present;
+{ 37 Upper_molars,_cusp_B present absent;
+{ 38 Upper_molars,_metacone_(=cusp_C) present absent;
+{ 39 Upper_molars,_metacone_(=cusp_C),_position_relative_to_paracone_(taxa_with_metacone_absent_coded_inaplicable) labial approximately_the_same_level;
+{ 40 Upper_molars,_metacone_(=cusp_C),_shape_and_size_(taxa_with_metacone_absent_coded_inaplicable) cusp-like,_smaller_but_compatible_in_size_with_paracone crest-like,_distinctly_smaller_than_paracone;
+{ 41 Upper_molars,_preparacrista extended_labially_or_mesiolabially_towards_parastyle_or_small_stylocone recurved_distally_towards_enlarged_and_central_stylocone;
+{ 42 Upper_molars,_stylocone,_size_relative_to_metacone_(=cusp_C)_or_paracone_(if_metacone_is_absent) smaller subequal_or_larger;
+{ 43 Upper_posterior_molars,_stylocone_position along_buccal_edge separated;
+{ 44 Upper_molars,_median_crest_between_stylocone_and_paracone absent_or_poorly_defined strongly_developed_at_least_in_some_molars;
+{ 45 Upper_molars,_crest_between_stylocone_and_metacone_(taxa_with_metacone_absent_coded_inaplicable) absent present;
+{ 46 Upper_molars,_ectoflexus present absent;
+{ 47 Upper_molars,_parastylar_lobe absent present;
+{ 48 Upper_molars,_postmetacrista_cusp_(cusp_''C'') absent present;
+{ 49 Upper_molars,_lingual_cingulum_(taxa_with_protocone_coded_as_present) present absent;
+{ 50 Upper_molars,_with_a_functional_lingual_protocone_that_grinds_against_a_basin_on_the_lowers_(for_taxa_with_unknown_upper_molars_inferred_from_lowers) absent present;
+{ 51 Penultimate_and_ultimate_upper_molars,_both_have_"last_molar"_appearance_with_reduced_metastylar_region absent present;
+{ 52 First_lower_molar,_trigonid_angle between_180_and_80_grad. less_than_80_grad.;
+{ 53 First_lower_molar,_supernumerary_roots absent present;
+{ 54 Lower_molars,_number three_or_less four five six_or_seven eight_or_nine;
+{ 55 Lower_molars,_unilateral_hypsodonty absent present;
+{ 56 Lower_molars,_length_to_width_ratio_(L/W) more_than_1.1 1.1_or_less;
+{ 57 Lower_molars,_minimum_trigonid_angle between_180_and_91_grad. between_90_and_61_grad. less_than_60_grad.;
+{ 58 Lower_molars,_contact lower_molars_contact_each_other_somewhere_along_the_mesial_and_distal_edges_of_the_crown lower_molars_do_not_contact_each_other,_being_separated_by_interdental_spaces;
+{ 59 Lower_molars,_roots_(taxa_with_single_root_coded_inaplicable) equal distal_root_much_smaller_and_labially_placed;
+{ 60 Lower_molars,_roots_section oval_or_circular or_mesiodistally_compressed;
+{ 61 Lower_molars,_roots_separation roots_divided incipient_or_incomplete_separation;
+{ 62 Lower_molars,_main_cusps_labiolingual_compression_(at_the_level_of_the_cusp_base_but_above_the_cingulid) present absent;
+{ 63 Lower_molars,_relative_height_of_the_primary_cusp_a_(protoconid)_to_cusp_c_(metaconid)_(measured_as_the_height_ratio_of_a_and_c_from_the_bottom_of_the_valley_between_the_two_adjacent_cusp,_on_m1) posterior_cusp_c_is_less_than_40%_of_the_primary_cusp_a_(protoconid) posterior_cusp_c_is_more_than_40%_of_cusp_a;
+{ 64 Lower_molars,_paracristid-protocristid_in_occlusal_view in_one_line uppercase_lambda_shaped D-shaped;
+{ 65 Lower_molars,_paracristid_and_protocristid,_lowest_point approximately_at_the_same_level distinctly_higher_on_protocristid higher_on_paracristid;
+{ 66 Lower_molars,_protocristid_orientation longitudinal oblique transverse;
+{ 67 Lower_molars,_labial_curvature_of_protoconid_(cusp_a)_at_the_base_level_relative_to_the_curvature_of_paraconid_(cusps_b)_and_metaconid_(cusp_c) cusps_a,_b,_and_c_have_the_same_degree_of_bulging cusp_a_is_far_more_bulging_than_cusps_b,_c;
+{ 68 Lower_molars,_paraconid,_direction almost_vertical,_parallel_to_protoconid mesiodorsally_directed,_deviated_from_protoconid;
+{ 69 Lower_molars,_paraconid,_size_relative_to_metaconid subequal about_twice_shorter_or_absent higher;
+{ 70 Lower_molars,_metaconid pointed blunt,_or_chisel-like,_or_bifid;
+{ 71 Lower_molars,_paraconid_and_metaconid_proximity bases_widely_separated bases_approaching_each_other_becoming_confluent_or_single_cusp;
+{ 72 Lower_molars,_distal_metacristid absent incomplete complete;
+{ 73 Lower_molars,_cristid_obliqua absent present;
+{ 74 Lower_molars,_hypoflexid absent_or_shallow deep;
+{ 75 Lower_molars,_talonid absent_or_cingulid_cusp_d present,_single-cusped,_heel-like_(talonid_cusp_somewhat_lingual_to_paraconid-metaconid_line) present,_single-cusped,_shelf-like_(talonid_cusp_on_paraconid-metaconid_line) present,_two_or_three_cusped;
+{ 76 Lower_molars,_talonid_to_trigonid_ratio narrow_(talonid_<40%_of_trigonid) wide_(talonid_is_>40%_of_trigonid);
+{ 77 Lower_molars,_talonid_elevation talonid/protoconid_height_ratio_<_20% talonid/protoconid_height_ratio_>_20%;
+{ 78 Lower_molars,_talonid_basin absent incipient present;
+{ 79 Lower_molars,_precingulid_or_cingulid_cuspule_f cusp_f_present precingulid_present both_absent;
+{ 80 Lower_molars,_mesial_transverse_cingulid absent present_as_a_continuous_shelf_bellow_the_trigonid_without_occlusal_function present,_having_occlusal_contact_with_the_upper_molar;
+{ 81 Lower_molars,_cingulid_cuspule_e present absent;
+{ 82 Lower_molars,_lingual_cingulid_on_trigonid complete incomplete_or_absent;
+{ 83 Lower_molars,_posterior_lingual_cingulid distinctive weak_or_absent;
+{ 84 Lower_molars,_labial_cingulid absent_or_incomplete complete;
+{ 85 Lower_molars,_posterolabial_cingulid_(postcingulid) absent_or_short extending_between_talonid_and_the_base_of_protoconid;
+{ 86 Lower_molars,_hypoconid_(cusp_d) at_the_cingulid_level elevated_above_the_cingulid_level;
+{ 87 Lower_molars,_accessory_cusps_on_labial_side absent present;
+{ 88 Lower_molars,_extensive_wear_in_hypoflexid_(facet_3) absent present;
+{ 89 Wear_facets developed_by_extensive_wear_of_the_cusps,_which_changes_the_shape_of_the_crown or_basic_crown_shape_present_upon_eruption_of_the_teeth,_with_only_limited_remodeling_by_wear_facets;
+{ 90 Anterior_end_of_dentary_upturned_dorsally_so_the_incisors_placed_above_the_level_of_molars absent present;
+{ 91 Mandibular_symphysis,_posterior_end at_canine_or_p1 anterior_to_canine at_p2-3_or_more_posterior;
+{ 92 Posterior_mental_foramen,_position in_canine_and_anterior_premolar_region at_penultimate_premolar at_ultimate_premolar at_first_molar_or_more_posterior;
+{ 93 Ratio_of_dentary_height_to_crown_height_under_tallest_molar_(measured_on_lingual_side) less_than_twice twice_or_more;
+{ 94 Height_of_mandibular_ramus_between_canine_and_last_molariform sub-uniform becomes_higher_posteriorly;
+{ 95 Dentary,_height_of_labial_alveolar_border_relative_to_the_lingual_border at_least_80% less_than_80%;
+{ 96 Masseteric_fossa,_ventral_border present_as_a_low_and_broad_crest present_as_a_well-defined_and_thin_crest;
+{ 97 Dentary,_masseteric_process absent present;
+{ 98 Meckelian_groove_in_adults present vestigial_or_absent;
+{ 99 Meckelian_groove,_extension_(taxa_without_Meckelian_groove_coded_inapplicable) does_not_reach_mandibular_symphysis_anteriorly extended_between_mandibular_symphysis_and_mandibular_foramen;
+{ 100 Meckelian_groove,_orientation_(taxa_without_Meckelian_groove_coded_inapplicable) convergent_on_ventral_border parallel_to_ventral_border;
+{ 101 Mandibular_foramen,_position_to_coronoid_process near_the_level_of_the_anterior_border_of_the_coronoid_process the_distance_between_the_mandibular_foramen_and_the_level_of_beginning_of_the_anterior_edge_of_the_coronoid_process_is_greater_than_length_of_two_middle_molars;
+{ 102 Mandibular_foramen_dorsal_to_prominent_longitudinal_ridge absent present;
+{ 103 Coronoid_process anteroposteriorly_broad narrow,_separated_from_condylar_process_by_deep_mandibular_notch;
+{ 104 Tilting_of_the_coronoid_process_of_dentary_(measured_as_the_angle_between_the_alveolar_line_and_anterior_border_of_coronoid_process) coronoid_process_is_strongly_reclined_and_the_coronoid_angle_is_obtuse_(>135°) coronoid_process_less_reclined_(135–115°) coronoid_process_is_near_vertical_and_the_coronoid_angle_small_(95–115°);
+{ 105 Pterygoid_fossa restricted_to_a_small_area_posterior_to_mandibular_foramen expanded_on_coronoid_process;
+{ 106 Pterygoid_crest present,_reaching_dentary_condyle present,_extending_to_base_of_angular_process absent;
+{ 107 Angular_process absent present,_as_extension_of_medial_pterygoid_shelf present,_divergent_from_medial_pterygoid_shelf;
+{ 108 Coronoid,_or_its_attachment_scar,_in_adults present absent;
+{ 109 Retromolar_space,_at_least_half_the_length_of_the_last_molar present absent;
+{ 110 Dentary_peduncle,_orientation dentary_condyle_is_continuous_with_the_semicircular_posterior_margin_of_the_dentary dentary_peduncle_forms_an_angle_less_than_40_degrees_to_the_alveolar_margin dentary_peduncle_forms_an_angle_of_40_degrees_or_greater_to_the_alveolar_margin;
+{ 111 Rostrum,_sharp_constriction_in_front_of_M1 absent present;
+{ 112 Septomaxilla present,_with_a_ventromedial_shelf present,_without_the_septomaxillary_shelf;
+{ 113 Zygomatic_arch,_maximum_vertical_depth_relative_to_the_length_of_the_skull between_10-20% between_5-7%;
+{ 114 Lacrimal,_facial_part_outline large,_triangular_and_pointed_anteriorly small_and_rectangular_or_crescentic;
+{ 115 Lacrimal_foramen,_number one two;
+{ 116 Braincase,_external_bulging_in_parietal_region: expanded,_the_parietal_part_of_the_cranial_vault_is_wider_than_the_frontal_part,_but_expansion_does_not_extend_to_the_lambdoidal_region greatly_expanded,_expansion_of_cranial_vault_extends_to_lambdoidal_region;
+{ 117 Squamosal,_cranial_moiety_external_size narrow broad;
+{ 118 Squamosal,_neck_between_glenoid_and_cranial_moiety absent present;
+{ 119 Craniomandibular_joint,_position anterior_to_the_level_of_the_fenestra_vestibuli posterior_or_lateral_to_the_level_to_the_fenestra_vestibuli;
+{ 120 Postglenoid_foramen_within_the_squamosal_bone absent present;
+{ 121 Petrosal,_promontorium_ventral_outline_and_morphology elongated_and_cylindrical_petrosal_cochlear_housing bulbous_and_oval-shaped_promontorium;
+{ 122 Petrosal,_promontorium_stapedial_artery_sulcus absent present;
+{ 123 Petrosal,_pars_cochlearis,_transpromontorial_sulcus_for_the_internal_carotid_artery absent present;
+{ 124 Petrosal,_cochlea elongated_and_partly_coiled elongated_and_coiled_to_about_360_grade;
+{ 125 Petrosal,_lateral_flange_relationship_to_crista_parotica widely_separated narrow_separated continuous_bone_formed_by_petrosal;
+{ 126 Petrosal,_vascular_foramen_in_the_posterior_part_of_the_lateral_flange_anterior_to_the_pterygoparoccipital_foramen present absent;
+{ 127 Petrosal,_tensor_tympani_fossa indistinct_or_very_shallow deep_recess_on_lateral_trough_anterior_to_hiatus_Fallopii;
+{ 128 Internal_acoustic_meatus,_morphology the_floor_is_ossified_and_the_meatus_is_a_deep_tube present_as_a_shallow_depression;
+{ 129 Pterygoparoccipital_foramen,_position_relative_to_the_fenestra_vestibuli foramen_posterior_or_lateral_to_the_level_of_the_fenestra_vestibuli foramen_anterior_to_the_level_of_the_fenestra_vestibuli;
+{ 130 Paroccipital_process,_bifurcation absent present;
+{ 131 Cervical_vertebrae,_postaxial,_free_ribs present absent;
+{ 132 Humerus,_deltopectoral_crest_ventral_extension extending_ventrally_(distally)_past_the_midpoint_of_the_shaft not_extending_beyond_the_midpoint_of_the_humeral_shaft;
+{ 133 Humerus,_rectangular_shelf_for_supinator_ridge_extended_from_ectepicondyle absent present;
+{ 134 Femur,_lesser_trochanter_orientation on_the_medial_side_of_the_shaft on_the_ventromedial_or_ventral_side_of_the_shaft;
+{ 135 Tibia,_distal_malleolus weak distinct;
+{ 136 Fibula,_distal_styloid_process weak_or_absent distinct;
+;
+
+
+ccode  - 0.136;
+
+
+;

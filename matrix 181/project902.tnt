@@ -1,0 +1,79 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 16.20.56'
+40 21
+
+&[num]
+Antagminae                 0010000000000000000000000000000000000000
+Cliffiidae                 0010001100000000?000000???????????010000
+Olenidae                   0110001100000100000010000000000000000000
+Lonchocephalidae           0010001100000001001010000100000000000000
+Calymenidae                1010001100000102000001101111100101000001
+Homalonotidae              1010001100000102000001111110000101000001
+Carmonidae                 100000120??0000221?0000111?0100101000011
+Eucalymenidae              1100001200000102?0?0000?0???????0?010001
+Pilekiidae                 0100002100000002001100201?10000002100101
+Cheiruridae                0100001100000002001100201110000012100001
+Hammatocnemidae            01010000012000120111000001?0000012100011
+Pliomerinae                0101001101000012001100201110001001100011
+Encrinuridae               0101002111100010001100201111011001101001
+Diaphanometopinae          01000100000000020110?020????????01100001
+Gyrometopinae              0101011111010012001100201???????01001101
+Prosopiscidae              010000111110000220?1003?????????01010100
+Pterygometopidae           0101101111200012111100221111001001011001
+Phacopidae                 0101101111211012111000221110011001011101
+Dalmanitacea               0101201111110010111100221101011001011100
+Acastacea                  0101201111111012111100221101010001011100
+Actinopeltis               01010010012000020111002011?0000012100001
+
+;
+
+
+cnames
+{ 0 Arching_(tr.)_of_cranidial_anterior_margin flat_or_weakly_arched_medially strongly_arched_medially,_with_rolled_doublure;
+{ 1 Cranidial_anterior_border lengthening_sagittally_(anterior_border_furrow_arched_back) equal_length_or_shorter_sagittally;
+{ 2 Preglabellar_field absent present;
+{ 3 Glabellar_expansion glabella_parallel-sided_or_narrowing_forward glabella_broadening_forward;
+{ 4 Auxiliary_impression_system_on_frontal_glabellar_lobe indistinct ovate,_circular triangular/rhomboid;
+{ 5 Glabellar_furrows_nearly_effaced absent_(at_least_S1_well_incised) present;
+{ 6 S4 distinct,_separate_from_S3 indistinct merged_with_S3_exsagittally;
+{ 7 Orientation_of_S3 inclined_forward_sagittally inclined_backward_sagittally reduced_to_apodemal_pits;
+{ 8 Length_(tr.)_of_S3 short_(<S2) sinuous,_equal_to_or_longer_than_S2;
+{ 9 Relative_length_(exsag.)_of_lateral_glabellar_lobes L1>L3 L3>L1;
+{ 10 Orientation_of_S2 declined_backward_sagittally transverse inclined_forward_sagittally;
+{ 11 S2_in_contact_with_axial_furrow present absent_(L2-L3_coalesced_abaxially);
+{ 12 Incision_of_S1_versus_S2-S3 subequal_or_grading_in_incision_backward S1_much_more_strongly_incised_than_S2-S3;
+{ 13 Shape_of_S1 evenly_convex sigmoid;
+{ 14 Course_of_S0 transverse arched_forward_medially,_occipital_ring_much_shorter_abaxially;
+{ 15 Occipital_spine node elongate_spine_with_stout_base absent;
+{ 16 Eye_type holochroal schizochroal blind;
+{ 17 Eye_ridges present absent;
+{ 18 Circumocular_sutures present absent;
+{ 19 Genal_pitting absent present;
+{ 20 Granulate_prosopon present absent;
+{ 21 Muscle_impression_scar_on_fixigena_near_base_of_glabella absent present;
+{ 22 Course_of_posterior_branch_of_facial_suture opisthoparian gonatoparian proparian fused;
+{ 23 Rostral_plate broadly_trapezoidal narrow,_tapering_ventrally,_with_sinuous_connective_sutures absent;
+{ 24 Doublure_terrace_lines present absent;
+{ 25 Functional_hypostomal_suture absent_(natent_condition) present;
+{ 26 Hypostomal_anterior_wing_process_in_association_with_anterior_boss absent present;
+{ 27 Maculae absent_or_indistinct distinct_or_prominent;
+{ 28 Shouldering_of_hypostomal_margin_behind_midlength_(exsag.) weak_or_absent prominent;
+{ 29 Hypostomal_margin_spines absent present;
+{ 30 Length_of_hypostomal_border_(sag._vs._exsag.) shorter_or_subequal_sagittally elongated_sagittally;
+{ 31 Posteromedian_embayment_in_hypostomal_margin absent present;
+{ 32 Swollen_nodes_on_proximal_part_of_thoracic_pleurae absent present;
+{ 33 Thoracic_pleural_articulating_facet weak_or_absent_(with_free_spine_short_or_absent epifacetal absent_(with_free_spine_long);
+{ 34 Pygidial_margin entire with_free_pleural_tips/spines;
+{ 35 Number_of_pygidial_pleurae five_or_fewer six_or_more;
+{ 36 Number_of_pygidial_axial_rings-pleural_ribs equal greater_number_of_rings;
+{ 37 Pseudoarticulating_half-rings absent present;
+{ 38 Pygidial_pleural_furrows distinct indistinct;
+{ 39 Pygidial_border present_(flattened_or_rimlike) absent;
+;
+
+
+ccode  - 0.39;
+
+
+;

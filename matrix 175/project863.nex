@@ -1,0 +1,2212 @@
+#NEXUS
+
+    [ File output by Morphobank v3.0 ?; 2023-07-28 00.38.18 ]
+
+    BEGIN TAXA;
+    DIMENSIONS NTAX=168;
+    TAXLABELS
+    		'Puntius tetrazona'
+		'Acestrocephalus sardina'
+		'Acestrorhynchus pantaneir'
+		'Acrobrycon tarijae'
+		'Agoniates anchovia'
+		'Alestes macrophthalmus'
+		'Apareiodon affinis'
+		'Aphyocharacidium bolivian'
+		'Aphyocharax anisitsi'
+		'Aphyocharax dentatus'
+		'Aphyocharax nattereri'
+		'Aphyodite grammica'
+		'Astyanax abramis'
+		'Astyanax asuncionensis'
+		'Astyanax cf. abramis'
+		'Astyanax cf. asuncionensi'
+		'Astyanax cf. eigenmannior'
+		'Astyanax cf. eigenmannior duplicate'
+		'Astyanax cf. rutilus'
+		'Astyanax chico'
+		'Astyanax correntinus'
+		'Astyanax endy'
+		'Astyanax latens'
+		'Astyanax lineatus'
+		'Astyanax mexicanus'
+		'Astyanax paris'
+		'Astyanax pelegrini'
+		'Astyanax puka'
+		'Astyanax troya'
+		'Aulixidens eugeniae'
+		'Axelrodia lindeae'
+		'Bario steindachneri'
+		'Bramocharax bransfordii'
+		'Brycinus carolinae'
+		'Brycon falcatus'
+		'Brycon meeki'
+		'Brycon orbignyanus'
+		'Brycon pesu'
+		'Bryconexodon juruenae'
+		'Bryconops affinis'
+		'Bryconops melanurus'
+		'Carlana eigenmanni'
+		'Carnegiella strigata'
+		'Chalceus macrolepidotus'
+		'Characidium borellii'
+		'Characidium rachovii'
+		'Charax stenopterus'
+		'Cheirodon interruptus'
+		'Coptobrycon bilineatus'
+		'Cynopotamus argenteus'
+		'Cyphocharax spilotus'
+		'Deuterodon iguape'
+		'Deuterodon langei'
+		'Distichodus maculatus'
+		'Engraulisoma taeniatum'
+		'Exodon paradoxus'
+		'Galeocharax humeralis'
+		'Grundulus cochae'
+		'Gymnocharacinus bergii'
+		'Gymnocorymbus ternetzi'
+		'Hasemania nana'
+		'Hemigrammus bleheri'
+		'Hemigrammus erythrozonus'
+		'Hemigrammus ulreyi'
+		'Hemigrammus unilineatus'
+		'Hemiodus cf. thayeria'
+		'Heterocharax macrolepis'
+		'Hollandichthys multifasci'
+		'Hoplias cf. malabaricus'
+		'Hoplocharax goethei'
+		'Hyphessobrycon anisitsi'
+		'Hyphessobrycon bifasciatu'
+		'Hyphessobrycon elachys'
+		'Hyphessobrycon eques'
+		'Hyphessobrycon herbertaxe'
+		'Hyphessobrycon luetkenii'
+		'Hyphessobrycon pulchripin'
+		'Hyphessobrycon socolofi'
+		'Iguanodectes geisleri'
+		'Inpaichthys kerri'
+		'Jupiaba mucronata'
+		'Jupiaba scologaster'
+		'Knodus breviceps'
+		'Leporinus striatus'
+		'Lonchogenys ilisha'
+		'Markiana nigripinnis'
+		'Metynnis maculatus'
+		'Micralestes stormsi'
+		'Microschemobrycon casiqui'
+		'Moenkhausia cf. intermedi'
+		'Moenkhausia dichroura'
+		'Moenkhausia sanctaefilome'
+		'Moenkhausia xinguensis'
+		'Nematobrycon palmeri'
+		'Nematocharax venustus'
+		'Odontostilbe microcephala'
+		'Odontostilbe paraguayensi'
+		'Odontostilbe pequira'
+		'Paracheirodon axelrodi'
+		'Paragoniates alburnus'
+		'Parecbasis cyclolepis'
+		'Parodon nasus'
+		'Phenacogaster tegatus'
+		'Phenagoniates macrolepis'
+		'Piabina argentea'
+		'Piabucus melanostomus'
+		'Piaractus mesopotamicus'
+		'Poptella paraguayensis'
+		'Prionobrama paraguayensis'
+		'Pristella maxillaris'
+		'Probolodus heterostomus'
+		'Prochilodus lineatus'
+		'Prodontocharax cf. melano'
+		'Psellogrammus kennedyi'
+		'Pseudochalceus kyburzi'
+		'Pseudocorynopoma doriae'
+		'Pyrrhulina australis'
+		'Rhaphiodon vulpinus'
+		'Rhoadsia altipinna'
+		'Roeboexodon geryi'
+		'Roeboides descalvadensis'
+		'Roeboides microlepis'
+		'Salminus brasiliensis'
+		'Serrapinnus calliurus'
+		'Serrasalmus maculatus'
+		'Stethaprion erythrops'
+		'Stichonodon insignis'
+		'Tetragonopterus argenteus'
+		'Thayeria boehlkei'
+		'Thayeria obliqua'
+		'Thoracocharax stellatus'
+		'Triportheus nematurus'
+		'Triportheus pantanensis'
+		'Xenagoniates bondi'
+		'Astyanacinus moori'
+		'Bryconamericus emperador'
+		'Oligosarcus bolivianus'
+		'Oligosarcus cf. jenynsii'
+		'Oligosarcus itau'
+		'Oligosarcus longirostris'
+		'Oligosarcus menezesi'
+		'Oligosarcus pintoi'
+		'Attonitus ephimeros'
+		'Bryconaethiops macrops'
+		'Bryconamericus agna'
+		'Bryconamericus alpha'
+		'Bryconamericus cf. exodon'
+		'Bryconamericus cf. iherin'
+		'Bryconamericus cf. rubrop'
+		'Bryconamericus exodon'
+		'Bryconamericus mennii'
+		'Bryconamericus rubropictu'
+		'Bryconamericus scleropari'
+		'Bryconamericus thomasi'
+		'Creagrutus anary'
+		'Creagrutus cf. taphorni'
+		'Cyanocharax alburnus'
+		'Diapoma speculiferum'
+		'Diapoma terofali'
+		'Hemibrycon dariensis'
+		'Hemibrycon surinamensis'
+		'Mimagoniates rheocharis'
+		'Nantis cf. indefessus'
+		'Nantis indefessus'
+		'Odontostoechus lethostigm'
+		'Gen nov. sp. nov. vermelh'
+		'Ectrepopterus uruguayensis'
+		'Hyphessobrycon compressus'
+    ;
+    ENDBLOCK;
+
+    BEGIN CHARACTERS;
+	DIMENSIONS NCHAR=367;
+	FORMAT DATATYPE=STANDARD GAP=- MISSING=? SYMBOLS="01234";
+	CHARLABELS
+		 [1] 'ch0'
+		 [2] 'Posterior laminar expansion of epiphyseal bar'
+		 [3] 'Ventral longitudinal lamellae of basioccipital'
+		 [4] 'Ventral projection of lagenar capsule'
+		 [5] 'Epioccipital bridge over posttemporal fossa'
+		 [6] 'Form of epioccipital bridge'
+		 [7] 'Anterior articulation of epioccipital bridge'
+		 [8] 'Posteriorly-oriented epioccipital spine'
+		 [9] 'Ventromedial opening of posttemporal fossa'
+		 [10] 'Position of ventromedial opening of posttemporal fossa'
+		 [11] 'Length of sphenotic spine'
+		 [12] 'Position of sphenotic spine relative to hyomandibula'
+		 [13] 'Position of sphenotic spine relative to the orbit'
+		 [14] 'Temporal fossa'
+		 [15] 'Form of anterior process of lateral ethmoid'
+		 [16] 'Lateral opening between ventral diverging lamellae of mesethmoid and anterior process of lateral ethmoid'
+		 [17] 'Dorsal margin of lateral ethmoids'
+		 [18] 'Articulation between medial region of lateral ethmoid and frontal or mesethmoid'
+		 [19] 'Subtemporal fossa'
+		 [20] 'Ascending process on posterodorsal angle of exoccipital directed to neural complex of Weberian apparatus'
+		 [21] 'Anterior extension of frontal'
+		 [22] 'Contact between frontals anteriorly to frontal fontanel'
+		 [23] 'Frontal fontanel'
+		 [24] 'Relative size of frontal and parietal fontanels'
+		 [25] 'Dilator fossa on lateral surface of frontal'
+		 [26] 'Anterior end of mesethmoid'
+		 [27] 'Ventral projection of mesethmoid spine, forming a keel between premaxillae'
+		 [28] 'Form of mesethmoid spine'
+		 [29] 'Posterior portion of mesethmoid spine'
+		 [30] 'Lateral wings of mesethmoid'
+		 [31] 'Ventral diverging lamellae of mesethmoid'
+		 [32] 'Anterior convergence of ventral diverging lamellae with nasal septum of mesethmoid'
+		 [33] 'Nasal septum of mesethmoid'
+		 [34] 'Nasal'
+		 [35] 'Bony lamellae bordering sensory canal of nasal'
+		 [36] 'Synchondral articulation between lateral ethmoid and anterodorsal border of orbitosphenoid'
+		 [37] 'Lateral bony coverage of olfactory nerve'
+		 [38] 'Form of orbitosphenoid'
+		 [39] 'Distance between posterodorsal margin of ethmoid cartilage and lateral ethmoids'
+		 [40] 'Opening between orbitosphenoid and pterosphenoid'
+		 [41] 'Anterior paired projections of parasphenoid'
+		 [42] 'Parietal fontanel'
+		 [43] 'Trigemino-facialis foramen'
+		 [44] 'Large foramen on pterosphenoid'
+		 [45] 'Small foramen near posterior margin of pterosphenoid'
+		 [46] 'Dorsal process of pterotic where tendon from epaxial musculature attach'
+		 [47] 'Relative length of pterotic spine'
+		 [48] 'Rhinosfenoid'
+		 [49] 'Dorsal expansion of rhinosphenoid'
+		 [50] 'Posterior extension of rhinosphenoid cartilage'
+		 [51] 'Ventral border of rhinosphenoid'
+		 [52] 'Anterior margin of supraoccipital'
+		 [53] 'Length of supraoccipital spine'
+		 [54] 'Length of supraoccipital spine - 2'
+		 [55] 'Dorsolateral processes of vomer'
+		 [56] 'Antorbital'
+		 [57] 'Position of antorbital relative to lateral ethmoid in lateral view'
+		 [58] 'Relative position of anterior margin of antorbital and first infraorbital'
+		 [59] 'Bony lamellae bordering laterosensory canal of first infraorbital'
+		 [60] 'Extent of expansion of first infraorbital lateral to maxilla'
+		 [61] 'Lateral overlap of first infraorbital by anterior margin of second infraorbital'
+		 [62] 'Overlap of maxilla by second infraorbital'
+		 [63] 'Articulation between second and third infraorbitals'
+		 [64] 'Anterior region of third infraorbital'
+		 [65] 'Ventral extent of third infraorbital'
+		 [66] 'Posterior extent of third infraorbital'
+		 [67] 'Fourth infraorbital'
+		 [68] 'Form of fourth infraorbital'
+		 [69] 'Posterior dorsoventral expansion of fourth infraorbital'
+		 [70] 'Lateral coverage of dilator fossa by sixth infraorbital'
+		 [71] 'Supraorbital'
+		 [72] 'Contact between supraorbital and sixth infraorbital'
+		 [73] 'Laterosensory canal in antorbital'
+		 [74] 'Laterosensory canal of first infraorbital'
+		 [75] 'Branching of laterosensory canals of fourth or fifth infraorbitals'
+		 [76] 'Direction of posterior branch of laterosensory canal of fourth or fifth infraorbital'
+		 [77] 'Laterosensory canal of sixth infraorbital'
+		 [78] 'Position of opening on neurocranium communicating with laterosensory canal of sixth infraorbital'
+		 [79] 'Position of opening on neurocranium communicating with sixth infraorbital laterosensory canal'
+		 [80] 'Length of laterosensory canal of dentary'
+		 [81] 'Pores of laterosensory canal of lower jaw'
+		 [82] 'Lateral surface of vertical canal of preopercle'
+		 [83] 'Dorsal end of laterosensory canal of preopercle and suprapreopercle'
+		 [84] 'Anterior region of laterosensory canal of frontal'
+		 [85] 'Epiphyseal branch of supraorbital canal'
+		 [86] 'Epiphyseal branch of corresponding supraorbital canals'
+		 [87] 'Opening of epiphyseal laterosensory canals'
+		 [88] 'Laterosensory canal on sphenotic'
+		 [89] 'Posterior branch of posttemporal laterosensory canal'
+		 [90] 'Form of lateral line'
+		 [91] 'Degree of ventral curvature of lateral line'
+		 [92] 'Lateral line'
+		 [93] 'Canal of lateral line on caudal-fin membrane'
+		 [94] 'Length of caudal-fin canal of lateral line'
+		 [95] 'Anterior end of ascending process of maxilla'
+		 [96] 'Ventral margin of toothed region of maxilla'
+		 [97] 'Margins of toothed region of maxilla'
+		 [98] 'Expansion of lamellar portion of maxilla just posterior to toothed region'
+		 [99] 'Tubules for passage of blood vessels on lamellar portion of maxilla'
+		 [100] 'Posterior extent of maxilla'
+		 [101] 'Length of maxilla relative to dentary'
+		 [102] 'Ontogenetic lengthening of maxilla'
+		 [103] 'Dorsal projection of maxilla'
+		 [104] 'Interdigitations between premaxillae'
+		 [105] 'Length of ascending process of premaxilla'
+		 [106] 'Alignment of ascending process of premaxilla'
+		 [107] 'Form of posterolateral portion of premaxilla'
+		 [108] 'Lateral ridge of anguloarticular'
+		 [109] 'Horizontal process of anguloarticular'
+		 [110] 'Ventral margin of horizontal process of anguloarticular'
+		 [111] 'Position of coronomeckelian'
+		 [112] 'Interdigitations between dentaries'
+		 [113] 'Form of interdigitations between dentaries'
+		 [114] 'Form and dentition of anterior region of dentary'
+		 [115] 'Medial anteroventral notch of dentary'
+		 [116] 'Medial process of dentary bordering Meckelian cartilage dorsally and medially'
+		 [117] 'Bony lamella covering dentary foramen laterally'
+		 [118] 'Longitudinal ridge covering laterosensory pores of dentary'
+		 [119] 'Morphology of premaxillary, maxillary, and dentary teeth'
+		 [120] 'Premaxillary, maxillary, and dentary teeth'
+		 [121] 'Mamilliform teeth outside mouth'
+		 [122] 'A pair of large conical teeth in premaxilla'
+		 [123] 'Number of rows of premaxillary teeth'
+		 [124] 'Number of rows of premaxillary teeth - 2'
+		 [125] 'Alignment of teeth on anterior premaxillary row'
+		 [126] 'Cusps of teeth on outer premaxillary row'
+		 [127] 'Teeth on inner premaxillary row'
+		 [128] 'Alignment of cusps of medial teeth on inner premaxillary row'
+		 [129] 'Form of teeth of inner premaxillary tooth row'
+		 [130] 'Number of teeth in inner premaxillary row'
+		 [131] 'Number of teeth in inner premaxillary row - 2'
+		 [132] 'Polymorphism of teeth on inner premaxillary row'
+		 [133] 'Number of replacement tooth rows on premaxilla'
+		 [134] 'Fossa for inner row of replacement premaxillary teeth'
+		 [135] 'Maxillary teeth'
+		 [136] 'Number of maxillary teeth'
+		 [137] 'Number of maxillary teeth - 2'
+		 [138] 'Extent of implantation of teeth along maxilla'
+		 [139] 'Number of cusps of anterior maxillary teeth'
+		 [140] 'Number of cusps of anterior maxillary teeth - 2'
+		 [141] 'Ontogenetic acquisition of conical teeth on maxilla'
+		 [142] 'Orientation of anterior dentary teeth'
+		 [143] 'Size and number of anterior dentary teeth'
+		 [144] 'Inner row of dentary teeth'
+		 [145] 'Symphyseal dentary tooth'
+		 [146] 'Articulation between dentary teeth'
+		 [147] 'Position of anterior teeth of dentary'
+		 [148] 'Separation between posterior dentary teeth'
+		 [149] 'Abrupt decrease in size of dentary teeth'
+		 [150] 'Foramen on articular condyle of quadrate'
+		 [151] 'Form of quadrate'
+		 [152] 'Posterior extent of ventral process of quadrate'
+		 [153] 'Longitudinal ridge in quadrate bordering adductor mandibulae muscle ventrally and, to some degree laterally'
+		 [154] 'Articulation between quadrate and anguloarticular'
+		 [155] 'Articulation between quadrate and anguloarticular - 2'
+		 [156] 'Articulation between ventral margin of metapterygoid and posterodorsal margin of quadrate'
+		 [157] 'Shape of ectopterygoid'
+		 [158] 'Form of anterior portion of ectopterygoid'
+		 [159] 'Dorsal process of ectopterygoid oriented towards lateral ethmoid'
+		 [160] 'Ectopterygoid teeth row'
+		 [161] 'Patch of ectopterygoid teeth'
+		 [162] 'Position of longitudinal cartilage dorsal to ectopterygoid'
+		 [163] 'Contact between ectopterygoid and anterodorsal region of quadrate'
+		 [164] 'Anterior extension of interopercle'
+		 [165] 'Abrupt posterior expansion of interopercle'
+		 [166] 'Mesopterygoid teeth'
+		 [167] 'Anterodorsal lobe of metapterygoid oriented towards mesopterygoid'
+		 [168] 'Shape of metapterygoid-quadrate fenestra'
+		 [169] 'Foramen in posterior region of metapterygoid'
+		 [170] 'Posterior directed radial striae from articular region of opercle'
+		 [171] 'Length of medial bony ridge of opercle'
+		 [172] 'Ethmopalatine cartilage'
+		 [173] 'Relative length of palatine'
+		 [174] 'Palatine foramen'
+		 [175] 'Shape of posteroventral corner of preopercle'
+		 [176] 'Suprapreopercle'
+		 [177] 'Bony lamellae bordering laterosensory canal of suprapreopercle'
+		 [178] 'Anterior projection of anterior ceratohyal articulating laterally with hypohyals'
+		 [179] 'Hyoid artery'
+		 [180] 'Ventral margin of anterior ceratohyal'
+		 [181] 'Number of notches along ventral border of anterior ceratohyal'
+		 [182] 'Articulation between anterior and posterior ceratohyals'
+		 [183] 'First basibranchial'
+		 [184] 'Contact between lamella on anterior portion of first basibranchial with lamella on posterior portion of second basibranchial'
+		 [185] 'Bony lamellae between second and third basibranchials'
+		 [186] 'Bony lamella dorsal to fourth basibranchial'
+		 [187] 'Main portion of fourth basibranchial'
+		 [188] 'Teeth on lamella dorsal to fourth basibranchial'
+		 [189] 'Cartilages anterior to basihyal'
+		 [190] 'Edentulous basihyal lamella'
+		 [191] 'Anterior development of basihyal'
+		 [192] 'Form of anterior expansion of basihyal'
+		 [193] 'Rows of gill rakers on first ceratobranchial'
+		 [194] 'Rows of gill rakers on second ceratobranchial'
+		 [195] 'Rows of gill rakers on third and fourth ceratobranchials'
+		 [196] 'Number of gill rakers on first hypobranchial and ceratobranchial'
+		 [197] 'Number of gill rakers on first hypobranchial and ceratobranchial - 2'
+		 [198] 'Shape of first ceratobranchial gill rakers'
+		 [199] 'Form of anterior gill rakers on first ceratobranchial'
+		 [200] 'Lateral base of gill rakers on first ceratobranchial'
+		 [201] 'Form and degree of ossification of first ceratobranchial gill rakers'
+		 [202] 'Denticles on gill rakers'
+		 [203] 'Distribution of denticles on gill rakers'
+		 [204] 'Rows of gill rakers on first epibranchial'
+		 [205] 'Shape of dentigerous plate of fifth ceratobranchial'
+		 [206] 'Teeth on fifth ceratobranchial'
+		 [207] 'Teeth on third pharyngobranchial'
+		 [208] 'Teeth on fourth pharyngobranchial'
+		 [209] 'Teeth on fifth pharyngobranchial'
+		 [210] 'Contact between fourth and fifth pharyngobranchial dentigerous plates'
+		 [211] 'Interhyal'
+		 [212] 'Length of interhyal'
+		 [213] 'Number of branchiostegal rays'
+		 [214] 'Number of branchiostegal rays - 2'
+		 [215] 'Anterior portions of branchiostegal rays'
+		 [216] 'Attachment of first branchiostegal ray'
+		 [217] 'Distance between attachment site of first and second branchiostegal rays'
+		 [218] 'Number of branchiostegal rays attached to posterior ceratohyal'
+		 [219] 'Form and articulation of neural pedicle of third vertebra'
+		 [220] 'Development of transverse process of neural arch of third vertebra'
+		 [221] 'Ascending process of neural pedicle of third vertebra'
+		 [222] 'Dorsal development of dorsal process of neural pedicle of third vertebra'
+		 [223] 'Neural arch and vertebral centrum of fourth vertebra'
+		 [224] 'Anteriorly directed spine at base of first rib'
+		 [225] 'Laminar bony ridge on dorsal margin of abdominal ribs'
+		 [226] 'Abdominal ribs on anterior caudal vertebrae'
+		 [227] 'Relative number of caudal vertebrae'
+		 [228] 'Total number of vertebrae'
+		 [229] 'Total number of transitional vertebrae'
+		 [230] 'Transitional vertebrae with haemal canal'
+		 [231] 'Margin of first pectoral ray in adult specimens'
+		 [232] 'Base of second pectoral ray'
+		 [233] 'Anterior margin of cleithrum'
+		 [234] 'Form of posterior margin of cleithrum'
+		 [235] 'Posterior margin of cleithrum'
+		 [236] 'Posterior margin of cleithrum - 2'
+		 [237] 'Medial laminar expansion at dorsal tip of cleithrum'
+		 [238] 'Dorsal development of cleithrum'
+		 [239] 'Development of medial lamella of coracoid'
+		 [240] 'Bony ridge of coracoid between base of mesocoracoid and ventral margin of interosseous space'
+		 [241] 'Anterior extension of coracoid ventral lamella'
+		 [242] 'Ventral extension of coracoid lamella'
+		 [243] 'Anterior limit of interosseous space'
+		 [244] 'Coracoid foramen'
+		 [245] 'Process of scapula forming anterior border of scapular foramen'
+		 [246] 'Articulation between ventral process of mesocoracoid and dorsal margin of scapula'
+		 [247] 'Ventral articulation of mesocoracoid'
+		 [248] 'First postcleithrum'
+		 [249] 'Second postcleithrum'
+		 [250] 'Third postcleithrum'
+		 [251] 'Form of third postcleithrum'
+		 [252] 'Dorsal development of third postcleithrum'
+		 [253] 'Position of ventral margin of posttemporal'
+		 [254] 'Position of ventral end of posttemporal'
+		 [255] 'Ventral exit of laterosensory canal of supracleithrum'
+		 [256] 'Fusion between posttemporal and supracleithrum'
+		 [257] 'First pelvic-fin ray'
+		 [258] 'Relative length of first pelvic-fin ray of adult males'
+		 [259] 'Number of branched pelvic-fin rays'
+		 [260] 'Number of branched pelvic-fin rays - 2'
+		 [261] 'Pelvic bone'
+		 [262] 'Articulation between pelvic bones'
+		 [263] 'Anterior extension of pelvic-bone along main axis'
+		 [264] 'Anterior tip of pelvic bone'
+		 [265] 'Dorsal longitudinal ridge on medial lamella of pelvic bone'
+		 [266] 'Relative position of dorsal-fin anterior insertion'
+		 [267] 'Dorsal-fin rays articulating with first dorsal pterygiophore'
+		 [268] 'Anteriorly oriented spine formed by first dorsal-fin ray'
+		 [269] 'Anterior rays of dorsal fin of adult males'
+		 [270] 'Last unbranched dorsal-fin ray of adult males'
+		 [271] 'Number of branched-rays on dorsal-fin'
+		 [272] 'Relative length of anterior dorsal-fin rays'
+		 [273] 'Number of dorsal-fin rays on last pterygiophore'
+		 [274] 'Dorsal myorhabdoi'
+		 [275] 'Position of anteriormost epineurals'
+		 [276] 'Predorsal spine formed by first dorsal pterygiophore'
+		 [277] 'Number of dorsal pterygiophores'
+		 [278] 'Number of dorsal pterygiophores - 2'
+		 [279] 'Number of dorsal pterygiophores - 3'
+		 [280] 'Supraneural anterior to neural spine of fourth vertebra'
+		 [281] 'Number of supraneurals'
+		 [282] 'Number of supraneurals - 2'
+		 [283] 'Bony lamellae associated with supraneurals'
+		 [284] 'Position of last supraneural'
+		 [285] 'Anal-fin position'
+		 [286] 'Number of unbranched anal-fin rays'
+		 [287] 'Number of branched anal-fin rays'
+		 [288] 'Number of branched anal-fin rays - 2'
+		 [289] 'Number of branched anal-fin rays - 3'
+		 [290] 'Number of branched anal-fin rays - 4'
+		 [291] 'Form and length of anterior anal-fin rays'
+		 [292] 'Number of rays on last anal pterygiophore'
+		 [293] 'Anterior notch on first anal pterygiophore'
+		 [294] 'Number of anal pterygiophores anterior to first haemal spine'
+		 [295] 'Proximal and medial radials of anal fins'
+		 [296] 'Lateral lamellae on anterior anal pterygiophores'
+		 [297] 'Number of epurals'
+		 [298] 'Number of epurals - 2'
+		 [299] 'Fusion of hypural 2 to compound centrum'
+		 [300] 'Fusion between hypurals 1 and 2'
+		 [301] 'Posterior margin of hypural 3'
+		 [302] 'Ventral procurrent caudal-fin rays of adult males'
+		 [303] 'Number of ventral procurrent caudal-fin rays'
+		 [304] 'Ventral procurrent caudal-fin rays of adult males - 2'
+		 [305] 'Caudal-fin bony stays'
+		 [306] 'Anterior ventral procurrent caudal-fin rays'
+		 [307] 'Uroneurals'
+		 [308] 'Bony hooks on fin rays'
+		 [309] 'Anal-fin bony hooks in adult males of species bearing hooks on fins'
+		 [310] 'Pelvic-fin bony hooks in adult males of species bearing hooks on fins'
+		 [311] 'Pectoral-fin bony hooks in adult males of species bearing hooks on fins'
+		 [312] 'Dorsal-fin bony hooks in adult males of species bearing hooks on fins'
+		 [313] 'Caudal-fin bony hooks in adult males of species bearing hooks on fins'
+		 [314] 'Bony hooks on base of pelvic-fin rays of adult males'
+		 [315] 'Bony hooks on last pelvic-fin ray of adult males'
+		 [316] 'Bony hooks on first pelvic-fin ray of adult males'
+		 [317] 'Position of anal-fin bony hooks of adult males'
+		 [318] 'Scales'
+		 [319] 'Anterior margin of scales'
+		 [320] 'Circuli on posterior field of scales'
+		 [321] 'Radii on scales'
+		 [322] 'Radii oriented towards anterior field of scales'
+		 [323] 'Radii of scales'
+		 [324] 'Semicircular grooves on posterior field of scales'
+		 [325] 'Scales covering supraoccipital spine'
+		 [326] 'Median predorsal scales'
+		 [327] 'Ventral serrae'
+		 [328] 'Scales covering anal-fin base'
+		 [329] 'Scales covering caudal-fin lobes'
+		 [330] 'Ventral division of tendon from adductor mandibulae inserted on dentary'
+		 [331] 'Longitudinal position of insertion of adductor mandibulae tendon on dentary'
+		 [332] 'Insertion of adductor mandibulae tendon on dentary'
+		 [333] 'Posterior attachment of section A1 from adductor mandibulae'
+		 [334] 'Attachment of medial tendon of section A1 of adductor mandibulae'
+		 [335] 'Anterior insertion of A1 section of adductor mandibulae'
+		 [336] 'Contact between dorsal margin of adductor mandibulae and ventral margin of dilator operculi'
+		 [337] 'Anterior extension of adductor arcus palatini'
+		 [338] 'Posterior region of levator arcus palatini'
+		 [339] 'Origin of dilator operculi'
+		 [340] 'Pseudotympanum limited by first pleural rib, lateralis superficialis, second pleural rib, obliquus inferioris and obliquus sup'
+		 [341] 'IInsertion of pterotic aponeurosis'
+		 [342] 'Humeral spot'
+		 [343] 'Second humeral spot'
+		 [344] 'Dark conspicuous spot on dorsal fin'
+		 [345] 'Horizontal line of chromatophores just dorsal to anal-fin base'
+		 [346] 'Color of caudal-fin lobes'
+		 [347] 'Diffuse spots on flanks'
+		 [348] 'Little spot on each scale of flanks'
+		 [349] 'Dark spot covering the entire depth of caudal-fin base'
+		 [350] 'Ventral union of gill membranes'
+		 [351] 'Sclerotic bones'
+		 [352] 'Nostrils'
+		 [353] 'Gill-derived gland on males'
+		 [354] 'Glandular tissue of granular appearence on caudal fin'
+		 [355] 'Hypertrophied ventral caudal peduncle squamation'
+		 [356] 'Caudal gland cells consisting of modified mucous cells'
+		 [357] 'Adipose fin'
+		 [358] 'Papillae on tongue'
+		 [359] 'Insemination'
+		 [360] 'Type of spermatozoa'
+		 [361] 'Sperm storage area on testes'
+		 [362] 'Number of 2n chromosomes'
+		 [363] 'Number of 2n chromosomes - 2'
+		 [364] 'Number of 2n chromosomes - 3'
+		 [365] 'Number of 2n chromosomes - 4'
+		 [366] 'Number of 2n chromosomes - 5'
+		 [367] 'Form of distal tip of sphenotic spine'
+	;
+	STATELABELS
+		1
+		,
+		2
+		'? absent'
+		'? present'
+		,
+		3
+		'? falling short of posterior border of basioccipital'
+		'? reaching posterior border of cranium'
+		,
+		4
+		'? not extending to basioccipital--parasphenoid articulation'
+		'? extending ventrally to basioccipital--parasphenoid articulation'
+		,
+		5
+		'? absent'
+		'? present'
+		,
+		6
+		'? cylindrical or vertically expanded in transverse section'
+		'? depressed in its middle region'
+		,
+		7
+		'? with both parietal and prootic'
+		'? only with parietal'
+		,
+		8
+		'? present'
+		'? absent'
+		,
+		9
+		'? absent'
+		'? present'
+		,
+		10
+		'? between epioccipital and exoccipital'
+		'? bordered entirely by epioccipital'
+		,
+		11
+		'? not extending ventrally to sphenotic--hyomandibular articulation'
+		'? extending ventrally to sphenotic--hyomandibular articulation'
+		,
+		12
+		'? rather aligned with anterior margin of hyomandibula'
+		'? displaced anteriorly relative to anterior margin of hyomandibula'
+		,
+		13
+		'? bordering orbit posteriorly and aligned with infraorbitals'
+		'? distinctly posterior to orbital margin'
+		,
+		14
+		'? well developed'
+		'? absent or much reduced'
+		,
+		15
+		'? broad in ventral view, contacting vomer in its entire length'
+		'? slender and separated from vomer'
+		,
+		16
+		'? broad'
+		'? small, ovate and partially occluded by mesethmoid and vomer'
+		,
+		17
+		'? aligned'
+		'? oblique in dorsal view, converging in an anterior angle'
+		,
+		18
+		'? absent'
+		'? extensive articulation of entire lateral ethmoid dorsal margin'
+		,
+		19
+		'? medially extended to middle exoccipital'
+		'? restricted to pterotic and prootic'
+		,
+		20
+		'? absent'
+		'? present'
+		,
+		21
+		'? reaching posterior margin of nasal opening'
+		'? extending between nasals and reaching middle length of nasal'
+		,
+		22
+		'? absent'
+		'? present'
+		,
+		23
+		'? present'
+		'? totally occluded by frontals'
+		,
+		24
+		'? length of frontal fontanel up to 2/3 length of parietal fontanel'
+		'? length of frontal fontanel 3/4 or more of parietal fontanel'
+		,
+		25
+		'? absent'
+		'? present'
+		,
+		26
+		'? trifurcate, with processes inserted into premaxillary depressions'
+		'? not trifurcate, with a triangular anterior spine'
+		,
+		27
+		'? absent'
+		'? present'
+		,
+		28
+		'? long, extending between premaxillae'
+		'? relatively short, with premaxillae articulating anteriorly'
+		,
+		29
+		'? relatively lender'
+		'? as broad as lateral wings of mesethmoid'
+		,
+		30
+		'? present'
+		'? absent'
+		,
+		31
+		'? absent'
+		'? present'
+		,
+		32
+		'? absent, or confluent near anterior end of nasal septum'
+		'? confluent at posterior end of nasal septum'
+		,
+		33
+		'? single longitudinal lamella'
+		'? two parallel lamellae'
+		,
+		34
+		'? present'
+		'? absent'
+		,
+		35
+		'? absent or more slender than tubular region'
+		'? wider at some point than tubular region'
+		,
+		36
+		'? present'
+		'? absent, with orbitosphenoid distant from lateral ethmoid'
+		,
+		37
+		'? absent'
+		'? covered by posterior expansion of lateral ethmoid'
+		'? covered by an anterior tubular projection of orbitosphenoid'
+		'? covered by orbitosphenoid and lateral ethmoid'
+		,
+		38
+		'? slender, relatively small and separate from parasphenoid'
+		'? massive, almost reaching parasphenoid ventrally'
+		,
+		39
+		'? contacting, or almost contacting, lateral ethmoids'
+		'? distant from lateral ethmoids'
+		,
+		40
+		'? present, rounded or ovate, usually margined by frontal dorsally'
+		'? absent'
+		,
+		41
+		'? absent'
+		'? present'
+		,
+		42
+		'? present in adults'
+		'? absent in adults'
+		,
+		43
+		'? broad, largely limited by sphenotic dorsally'
+		'? narrow, as a cleft with sphenotic almost excluded from margin'
+		,
+		44
+		'? absent'
+		'? present, well developed'
+		,
+		45
+		'? absent, or not pierced by nerves'
+		'? present, pierced by a branch of supraorbital nerve'
+		,
+		46
+		'? absent'
+		'? present, projecting dorsally from tube for semicircular canal'
+		,
+		47
+		'? projected more posteriorly than hyomandibular ligament'
+		'? restricted to attachment region of hyomandibular ligament'
+		,
+		48
+		'? absent'
+		'? present'
+		,
+		49
+		'? absent'
+		'? present and forming a bony wall between olfactory nerves'
+		,
+		50
+		'? projected only to middle horizontal length of orbitosphenoid'
+		'? extended to articulation orbitosphenoid--pterosphenoid'
+		,
+		51
+		'? distinctly separate from parasphenoid'
+		'? almost contacting parasphenoid'
+		,
+		52
+		'? situated completely behind vertical through posterior orbit'
+		'? situated anterior to vertical through posterior orbital margin'
+		,
+		53
+		'? extends dorsal of entire neural complex of Weberian apparatus'
+		'? extends dorsal of approximately one half of neural complex'
+		,
+		54
+		'? extends posteriorly to, at least, middle length of neural complex'
+		'? extends only to anterior limit of neural complex'
+		,
+		55
+		'? absent'
+		'? present'
+		,
+		56
+		'? present'
+		'? absent or fused with first infraorbital'
+		,
+		57
+		'? antorbital entirely anterior to lateral ethmoid'
+		'? antorbital overlapping lateral ethmoid'
+		,
+		58
+		'? anterior antorbital either aligned or anterior to first infraorbital'
+		'? anterior margin of antorbital posterior to first infraorbital'
+		,
+		59
+		'? present'
+		'? absent'
+		,
+		60
+		'? covering less than one half length of maxilla'
+		'? covering most of maxilla'
+		,
+		61
+		'? absent'
+		'? present'
+		,
+		62
+		'? absent'
+		'? present'
+		,
+		63
+		'? vertical'
+		'? anteroventrally angled'
+		'? posteroventrally angled'
+		,
+		64
+		'? not much expanded relative to posterior region of second one'
+		'? abruptly expanded relative to posterior region of second one'
+		,
+		65
+		'? reaching horizontal arm of preopercle'
+		'? not reaching horizontal arm of preopercle, at least anteriorly'
+		,
+		66
+		'? covering angle of preopercle'
+		'? reduced, angle of preopercle covered partially by fourth one'
+		,
+		67
+		'? present, well developed'
+		'? absent or reduced and bordered by third and fifth ones'
+		,
+		68
+		'? square or more developed longitudinally than dorsoventrally'
+		'? longer dorsoventrally than longitudinally'
+		,
+		69
+		'? absent'
+		'? present'
+		,
+		70
+		'? almost complete, at least in its ventral border'
+		'? leaving a conspicuous naked area in anterior region of fossa'
+		,
+		71
+		'? present'
+		'? absent'
+		,
+		72
+		'? absent'
+		'? present'
+		,
+		73
+		'? absent'
+		'? present'
+		,
+		74
+		'? projects dorsally from main body of first infraorbital'
+		'? absent or does not projects dorsally'
+		,
+		75
+		'? absent'
+		'? present'
+		,
+		76
+		'? to a pore on preopercle near hyomandibular condyle'
+		'? to a pore conspicuously ventral to hyomandibular condyle'
+		,
+		77
+		'? not branched'
+		'? branched'
+		,
+		78
+		'? between frontal and pterotic'
+		'? in frontal'
+		,
+		79
+		'? lateral to or slightly anterior to vertical semicircular canal'
+		'? distinctly anterior to vertical semicircular canal'
+		,
+		80
+		'? piercing almost entire length of dentary'
+		'? reduced or absent'
+		,
+		81
+		'? six or less'
+		'? seven or more'
+		,
+		82
+		'? canal uncovered, posterior to musculature and infraorbitals'
+		'? covered by musculature and/or infraorbitals'
+		,
+		83
+		'? not overlapping anterodorsal process of opercle'
+		'? overlapping anterodorsal process of opercle'
+		,
+		84
+		'? contained completely on frontal'
+		'? opens into a chamber anteriorly'
+		,
+		85
+		'? present'
+		'? absent'
+		,
+		86
+		'? both aligned with epiphyseal bar'
+		'? oriented obliquely, opening posteriorly to epiphyseal bar'
+		,
+		87
+		'? along margin of cranial fontanel'
+		'? canals continue dorsomedially in soft tissue'
+		,
+		88
+		'? absent'
+		'? present'
+		,
+		89
+		'? present'
+		'? absent'
+		,
+		90
+		'? approximately straight'
+		'? curved ventrally in abdominal region'
+		,
+		91
+		'? straight or only slightly curved'
+		'? distinctly curved and ventrally situated'
+		,
+		92
+		'? complete'
+		'? interrupted'
+		,
+		93
+		'? absent'
+		'? present'
+		,
+		94
+		'? reaching only half of caudal-fin length'
+		'? almost reaching posterior margin of caudal fin'
+		,
+		95
+		'? with conspicuous notch'
+		'? pointed or rounded'
+		,
+		96
+		'? approximately straight'
+		'? strongly concave'
+		,
+		97
+		'? roughly parallel'
+		'? dorsally divergent'
+		,
+		98
+		'? absent or not pronounced'
+		'? very pronounced'
+		,
+		99
+		'? a single tubule, parallel to dorsal margin of maxilla'
+		'? with anterior branch running parallel to anterior margin of maxilla'
+		'? anastomosed tubules'
+		,
+		100
+		'? not reaching second infraorbital'
+		'? reaching second infraorbital'
+		,
+		101
+		'? maxilla reaching posterior end of Meckelian cartilage'
+		'? maxilla not reaching posterior end of Meckelian cartilage'
+		,
+		102
+		'? absent'
+		'? present'
+		,
+		103
+		'? not overlaps second infraorbital'
+		'? overlaps second infraorbital'
+		,
+		104
+		'? present'
+		'? absent'
+		,
+		105
+		'? reaching at least one-third of length of nasal'
+		'? reaching just anterior end of nasal'
+		,
+		106
+		'? aligned with medial margin of nasal'
+		'? medially shifted and separated from nasal'
+		,
+		107
+		'? with notch'
+		'? with pedicle expanded laterally to maxilla'
+		,
+		108
+		'? absent'
+		'? present'
+		,
+		109
+		'? laterally covered by dentary only anteriorly'
+		'? broadly covered by dentary to tip of Meckelian cartilage'
+		,
+		110
+		'? posteroventrally angled relative to dentary laterosensory canal'
+		'? perpendicular to laterosensory canal of dentary'
+		,
+		111
+		'? situated mainly lateral to Meckelian cartilage'
+		'? situated mainly dorsal to Meckelian cartilage'
+		,
+		112
+		'? absent'
+		'? present'
+		,
+		113
+		'? simple bony lamellae'
+		'? undulate lamellae'
+		,
+		114
+		'? toothed and not depressed anteriorly'
+		'? edentulous and much depressed anteriorly'
+		,
+		115
+		'? absent'
+		'? present'
+		,
+		116
+		'? absent'
+		'? present'
+		,
+		117
+		'? absent'
+		'? present'
+		,
+		118
+		'? absent'
+		'? present'
+		,
+		119
+		'? all teeth conical, caniniform or mamilliform'
+		'? some teeth multicuspidate or molariform'
+		,
+		120
+		'? not pedunculate, or pedunculate only in some of these bones'
+		'? pedunculate and uniformly shaped'
+		,
+		121
+		'? absent'
+		'? present'
+		,
+		122
+		'? absent'
+		'? present'
+		,
+		123
+		'? one'
+		'? two or three'
+		,
+		124
+		'? one or two'
+		'? three'
+		,
+		125
+		'? aligned'
+		'? not aligned, with one or two teeth situated anteriorly'
+		,
+		126
+		'? one to three cusps'
+		'? five or more cusps'
+		,
+		127
+		'? molariform'
+		'? with aligned in straight series or anteriorly concave pattern'
+		'? with anteriorly concave pattern plus anterior cusps'
+		,
+		128
+		'? forming anteriorly concave semicircle from ventral view'
+		'? forming shallow arch or aligned in straight series'
+		,
+		129
+		'? with cusps forming anteriorly concave arch'
+		'? with cusps aligned in straight series'
+		,
+		130
+		'? four or fewer'
+		'? five or more'
+		,
+		131
+		'? seven or fewer'
+		'? eight or more'
+		,
+		132
+		'? absent'
+		'? present, with two medial teeth somewhat larger'
+		,
+		133
+		'? one'
+		'? two or more'
+		,
+		134
+		'? absent'
+		'? present'
+		,
+		135
+		'? absent'
+		'? present'
+		,
+		136
+		'? only one, or absent'
+		'? two or more'
+		,
+		137
+		'? up to three'
+		'? four or more'
+		,
+		138
+		'? not reaching middle of maxillary lamella'
+		'? extending across almost entire maxillary lamella'
+		,
+		139
+		'? conical, a single cusp'
+		'? three or more cusps'
+		,
+		140
+		'? up to three'
+		'? five or more cusps'
+		,
+		141
+		'? absent'
+		'? present'
+		,
+		142
+		'? oriented dorsally or anterodorsally'
+		'? oriented anteriorly, almost parallel to main axis of dentary'
+		,
+		143
+		'? four or five relatively broad teeth at front of dentary'
+		'? eight or more small and slender teeth at front of dentary'
+		,
+		144
+		'? present'
+		'? absent'
+		,
+		145
+		'? absent'
+		'? present'
+		,
+		146
+		'? absent'
+		'? present with associated processes and fossae'
+		,
+		147
+		'? along margin of dentary'
+		'? internally situated with dentary forming anterior ridge'
+		,
+		148
+		'? less than width of these teeth'
+		'? more than width of these teeth'
+		,
+		149
+		'? absent'
+		'? present'
+		,
+		150
+		'? absent'
+		'? present'
+		,
+		151
+		'? with ventral portion longer than anterodorsal region'
+		'? with anterodorsal portion equal or longer than ventral region'
+		,
+		152
+		'? reaching vertical through posterior margin of symplectic'
+		'? falling short of posterior margin of symplectic'
+		,
+		153
+		'? absent'
+		'? present'
+		,
+		154
+		'? anterior to or at vertical through lateral ethmoid'
+		'? posterior to lateral ethmoid'
+		,
+		155
+		'? anterior to or at vertical through middle eye'
+		'? posterior to middle eye'
+		,
+		156
+		'? absent'
+		'? present'
+		,
+		157
+		'? elongate'
+		'? triangular and much broadened anteriorly'
+		'? approximately square'
+		,
+		158
+		'? broad and broadly articulating with palatine'
+		'? slender and articulating only to lateral margin of palatine'
+		,
+		159
+		'? absent'
+		'? present'
+		,
+		160
+		'? absent'
+		'? present'
+		,
+		161
+		'? absent'
+		'? present'
+		,
+		162
+		'? bordered medially by mesopterygoid'
+		'? displaced laterally and separated from mesopterygoid'
+		,
+		163
+		'? present'
+		'? absent'
+		,
+		164
+		'? extending anteriorly beyond tip of horizontal arm of preopercle'
+		'? not extending anteriorly beyond anterior tip of preopercle'
+		,
+		165
+		'? absent'
+		'? present'
+		,
+		166
+		'? absent'
+		'? present'
+		,
+		167
+		'? absent or small and dorsally oriented'
+		'? present, conspicuous and anteriorly oriented'
+		,
+		168
+		'? rounded or ovate, anteriorly limited by quadrate'
+		'? anteriorly collapsed by metapterygoid and quadrate'
+		,
+		169
+		'? absent'
+		'? present, encircled by metapterygoid or bordered by cartilage'
+		'? an incomplete arch, bordered posteriorly by hyomandibula'
+		,
+		170
+		'? absent'
+		'? present'
+		,
+		171
+		'? 60% or greater than opercular length'
+		'? less than 50% of opercular length'
+		,
+		172
+		'? absent or reduced in size'
+		'? present and conspicuous'
+		,
+		173
+		'? approximately one-half length of ectopterygoid, or less'
+		'? distinctly longer than one-half length of ectopterygoid'
+		,
+		174
+		'? absent or reduced in size'
+		'? present and very conspicuous'
+		,
+		175
+		'? acute'
+		'? rounded'
+		,
+		176
+		'? fused to preopercle'
+		'? autogenous, separated from preopercle'
+		,
+		177
+		'? absent'
+		'? present'
+		,
+		178
+		'? absent or much reduced'
+		'? present and achieving half length of hypohyals'
+		,
+		179
+		'? completely contained within anterior ceratohyal'
+		'? emerging from anterior ceratohyal'
+		,
+		180
+		'? smooth and without notches'
+		'? with notches for articulation of branchiostegal rays'
+		,
+		181
+		'? zero to two'
+		'? three'
+		,
+		182
+		'? synchondral, without bony interdigitations'
+		'? with bony interdigitations'
+		,
+		183
+		'? absent or much reduced, not articulating with basihyal'
+		'? well developed and articulating anteriorly with basihyal'
+		,
+		184
+		'? absent'
+		'? present'
+		,
+		185
+		'? absent'
+		'? present'
+		,
+		186
+		'? present'
+		'? absent'
+		,
+		187
+		'? completely cartilaginous'
+		'? ossified'
+		,
+		188
+		'? absent'
+		'? present'
+		,
+		189
+		'? one or two blocks of cartilage, but anterior block much smaller'
+		'? two well developed blocks of cartilage'
+		,
+		190
+		'? absent'
+		'? present'
+		,
+		191
+		'? broadly extending beyond anterior margin of hypohyals'
+		'? slightly surpassing anterior margin of hypohyals'
+		,
+		192
+		'? slender, with anterior margin less than two-thirds of its length'
+		'? expanded anterior margin, with two-thirds or more of its length'
+		,
+		193
+		'? one'
+		'? two'
+		,
+		194
+		'? one'
+		'? two'
+		,
+		195
+		'? one'
+		'? two'
+		,
+		196
+		'? 16 or more'
+		'? 15 or fewer'
+		,
+		197
+		'? 11 or more'
+		'? ten or fewer'
+		,
+		198
+		'? pointed and not anteroposteriorly compressed'
+		'? laminar, much compressed perpendicular to ceratobranchial'
+		'? short, broad and strongly denticulate'
+		,
+		199
+		'? not fused'
+		'? with fused bases forming plates'
+		,
+		200
+		'? slender'
+		'? broad and laminar at least on anteriormost gill rakers'
+		,
+		201
+		'? laminar and not ossified distally'
+		'? rather thick and completely ossified distal region'
+		,
+		202
+		'? present'
+		'? absent'
+		,
+		203
+		'? restricted to margins, or absent'
+		'? along entire surface of gill rakers'
+		,
+		204
+		'? one'
+		'? two'
+		,
+		205
+		'? rounded, with posterior notch'
+		'? elongated, without posterior notch'
+		,
+		206
+		'? present'
+		'? absent'
+		,
+		207
+		'? present'
+		'? absent'
+		,
+		208
+		'? present'
+		'? absent'
+		,
+		209
+		'? present'
+		'? absent'
+		,
+		210
+		'? absent'
+		'? present'
+		,
+		211
+		'? present'
+		'? absent'
+		,
+		212
+		'? shorter than one-third of symplectic length'
+		'? equal to or longer than one-half of symplectic length'
+		,
+		213
+		'? three'
+		'? four or five'
+		,
+		214
+		'? three or four'
+		'? five'
+		,
+		215
+		'? broad near their articulation with ceratohyals'
+		'? slender near their articulation with ceratohyals'
+		,
+		216
+		'? on proximal one-half length of anterior ceratohyal'
+		'? posterior to one-half length of anterior ceratohyal'
+		,
+		217
+		'? equal or shorter than distance between second and third rays'
+		'? longer than distance between second and third rays'
+		,
+		218
+		'? one'
+		'? two'
+		,
+		219
+		'? pedicle articulating synchondrally with neural comlex'
+		'? pedicle without an articular surface with neural complex'
+		,
+		220
+		'? not reaching anterior margin of tripus'
+		'? well developed and extending beyond anterior margin of tripus'
+		,
+		221
+		'? absent'
+		'? present'
+		,
+		222
+		'? not broadly overlapping neural complex'
+		'? broadly overlapping neural complex'
+		,
+		223
+		'? not fused and with autogenous fourth neural arch'
+		'? fused'
+		,
+		224
+		'? absent'
+		'? present'
+		,
+		225
+		'? absent'
+		'? present'
+		,
+		226
+		'? absent'
+		'? present, associated to first and second caudal vertebrae'
+		,
+		227
+		'? exceeding precaudal vertebrae in two or more elements'
+		'? equal or less numerous than precaudal vertebrae'
+		,
+		228
+		'? 40 or fewer'
+		'? 41 or more'
+		,
+		229
+		'? four or more'
+		'? three or fewer'
+		,
+		230
+		'? present'
+		'? absent'
+		,
+		231
+		'? not serrated'
+		'? conspicuously serrated'
+		,
+		232
+		'? large and partially medially overlapping base of first pectoral ray'
+		'? similar in form and size to base of posterior rays'
+		,
+		233
+		'? slightly sinuous'
+		'? with anterior pointed projection'
+		,
+		234
+		'? convex or slightly sinuous just dorsal to pectoral-fin insertion'
+		'? with notch just anterior to pectoral-fin insertion'
+		,
+		235
+		'? without concavity ventral to first postcleithrum'
+		'? with concavity ventral to first postcleithrum'
+		,
+		236
+		'? with concavity poorly pronounced or lacking'
+		'? with markedly concave margin, almost forming straight angle'
+		,
+		237
+		'? absent'
+		'? present'
+		,
+		238
+		'? much extended dorsally to mesocoracoid'
+		'? ending in a position just dorsal of tip of mesocoracoid'
+		,
+		239
+		'? not expanded'
+		'? expanded as a keel'
+		,
+		240
+		'? absent'
+		'? present'
+		,
+		241
+		'? reaching cleithrum'
+		'? not reaching cleithrum'
+		,
+		242
+		'? reaching ventral margin of cleithrum'
+		'? falling short of ventral margin of cleithrum'
+		,
+		243
+		'(0 formed by dorsal margins of coracoid and cleithrum'
+		'? formed by coracoid and an oblique ridge of cleithrum'
+		,
+		244
+		'? absent or reduced to small pore'
+		'? well developed'
+		,
+		245
+		'? present'
+		'? absent'
+		,
+		246
+		'? absent or small'
+		'? present and broad'
+		,
+		247
+		'? anteriorly with coracoid and posteriorly with scapula'
+		'? only with coracoid'
+		,
+		248
+		'? present'
+		'? absent'
+		,
+		249
+		'? present'
+		'? absent'
+		,
+		250
+		'? present'
+		'? absent'
+		,
+		251
+		'? slender, without associated lamella'
+		'? with a posterior lamella'
+		,
+		252
+		'? projects dorsally to posterior region of scapula'
+		'? not projects dorsally to posterior region of scapula'
+		,
+		253
+		'? anterior to lateral margin of epioccipital'
+		'? lateral or posterior to lateral margin of epioccipital'
+		,
+		254
+		'? anterior or lateral to lateral margin of epioccipital'
+		'? posterior to lateral margin of epioccipital'
+		,
+		255
+		'? medial, covered by posterior lamella of supracleithrum'
+		'? posterior, ventral to lamella of supracleithrum'
+		,
+		256
+		'? absent'
+		'? present'
+		,
+		257
+		'? not branched'
+		'? branched'
+		,
+		258
+		'? not extending beyond margin of other rays'
+		'? extending beyond margin of other rays'
+		,
+		259
+		'? six or less'
+		'? seven or more'
+		,
+		260
+		'? seven or less'
+		'? eight or more'
+		,
+		261
+		'? not bifurcate anteriorly'
+		'? bifurcate with conspicuous notch'
+		,
+		262
+		'? through ligaments'
+		'? with bony interdigitations between ischiatic processes'
+		,
+		263
+		'? not projecting anterior of lateral and medial lamellae'
+		'? projecting anterior of lateral and medial lamellae of pelvic bone'
+		,
+		264
+		'? rounded and capped by a small cartilage'
+		'? pointed and without cartilage'
+		,
+		265
+		'? present'
+		'? absent'
+		,
+		266
+		'? anterior to or at vertical through pelvic-fin origin'
+		'? posterior to vertical through pelvic-fin origin'
+		,
+		267
+		'? two'
+		'? three or four'
+		,
+		268
+		'? absent'
+		'? present'
+		,
+		269
+		'? not elongate'
+		'? elongate and reaching posteriorly close to adipose fin'
+		,
+		270
+		'? approximately as long as first branched ray'
+		'? distinctly longer than first branched ray and filamentous'
+		,
+		271
+		'? eight or fewer'
+		'? nine or more'
+		,
+		272
+		'? not reaching tip of posterior rays when adpressed'
+		'? reaching tip of posterior rays when adpressed'
+		,
+		273
+		'? one'
+		'? two, adnate'
+		,
+		274
+		'? absent'
+		'? present'
+		,
+		275
+		'? lateral to fourth or fifth vertebrae'
+		'? reaching to cranium'
+		,
+		276
+		'? absent'
+		'? present'
+		,
+		277
+		'? nine or fewer'
+		'? ten or more'
+		,
+		278
+		'? 10 or fewer'
+		'? 11 or more'
+		,
+		279
+		'? 11 or fewer'
+		'? 12 or more'
+		,
+		280
+		'? absent or small'
+		'? present and vertically elongate'
+		,
+		281
+		'? four or fewer'
+		'? five or more'
+		,
+		282
+		'? seven or fewer'
+		'? eight or more'
+		,
+		283
+		'? absent or small'
+		'? wider than primary axis of supraneurals'
+		,
+		284
+		'? two or fewer vertebrae in front of first dorsal pterygiophore'
+		'? more than two vertebrae in front of first dorsal pterygiophore'
+		,
+		285
+		'? posterior or almost posterior to vertical through last dorsal-fin ray'
+		'? extended anteriorly ventral to dorsal fin'
+		,
+		286
+		'? three or fewer'
+		'? four or more'
+		,
+		287
+		'? ten or fewer'
+		'? 11 or more'
+		,
+		288
+		'? 17 or fewer'
+		'? 18 or more'
+		,
+		289
+		'? 24 or fewer'
+		'? 25 or more'
+		,
+		290
+		'? 34 or fewer'
+		'? 35 or more'
+		,
+		291
+		'? similar to posterior rays'
+		'? longer and more compressed laterally than posterior rays'
+		,
+		292
+		'? two'
+		'? one'
+		,
+		293
+		'? absent'
+		'? present'
+		,
+		294
+		'? three or fewer'
+		'? four or more'
+		,
+		295
+		'? fused on anterior five pterygiophores'
+		'? fused in most pterygiophores'
+		'? medial radials absent or completely fused with proximal ones'
+		,
+		296
+		'? absent'
+		'? present'
+		,
+		297
+		'? one'
+		'? two or three'
+		,
+		298
+		'? one or two'
+		'? three'
+		,
+		299
+		'? absent'
+		'? present'
+		,
+		300
+		'? absent'
+		'? present'
+		,
+		301
+		'? equal to or narrower than posterior margin of hypural 4'
+		'? deeper than posterior margin of hypural 4'
+		,
+		302
+		'? slender'
+		'? laminar'
+		,
+		303
+		'? 11 or fewer'
+		'? 12 or more'
+		,
+		304
+		'? not projecting through musculature and skin of peduncle'
+		'? projecting ventrally through peduncle musculature and skin'
+		,
+		305
+		'? absent'
+		'? present'
+		,
+		306
+		'? paired, only distally fused'
+		'? fused in laminar medial bones'
+		,
+		307
+		'? absent or just one pair'
+		'? two pairs'
+		,
+		308
+		'? absent'
+		'? present in adult males'
+		,
+		309
+		'? absent'
+		'? present'
+		,
+		310
+		'? absent'
+		'? present'
+		,
+		311
+		'? absent'
+		'? present'
+		,
+		312
+		'? absent'
+		'? present'
+		,
+		313
+		'? absent'
+		'? present'
+		,
+		314
+		'? absent, or in small number compared to on segmented portion'
+		'? as numerous as on segmented portion of rays'
+		,
+		315
+		'? absent or reduced in number'
+		'? as numerous as in other rays'
+		,
+		316
+		'? absent'
+		'? present'
+		,
+		317
+		'? paired and ordered laterally or posterolaterally'
+		'? medially positioned and oriented posteriorly'
+		'? asymmetrically disposed and irregularly arranged'
+		,
+		318
+		'? cycloid'
+		'? ctenoid'
+		'? spinoid'
+		'? crenate'
+		,
+		319
+		'? uniformly curved or slightly undulated'
+		'? with conspicuous undulations'
+		,
+		320
+		'? present'
+		'? absent'
+		,
+		321
+		'? absent or reduced in number'
+		'? present and numerous on most scales'
+		,
+		322
+		'? present'
+		'? only as longitudinal groove without defined margins'
+		'? absent'
+		,
+		323
+		'? not converging at focus'
+		'? converging at focus'
+		,
+		324
+		'? absent'
+		'? present'
+		,
+		325
+		'? absent'
+		'? present and completely covering supraoccipital spine'
+		,
+		326
+		'? covering entire predorsal region'
+		'? leaving naked area anterior to dorsal fin'
+		,
+		327
+		'? absent'
+		'? present'
+		,
+		328
+		'? one or two rows of scales covering anal-fin base'
+		'? several rows covering basal third of anal fin'
+		,
+		329
+		'? covering only their base'
+		'? covering one-third of their length'
+		,
+		330
+		'? absent'
+		'? present'
+		,
+		331
+		'? on vertical through Meckelian cartilage posterior half'
+		'? on vertical through Meckelian cartilage middle or anterior half'
+		,
+		332
+		'? ventral to Meckelian cartilage'
+		'? anterior to Meckelian cartilage'
+		'? on a medial process of dentary'
+		,
+		333
+		'? principally to vertical arm of preopercle'
+		'? restricted or almost restricted to horizontal arm of preopercle'
+		,
+		334
+		'? on quadrate near its articulation with preopercle'
+		'? on preopercle posterior to quadrate'
+		,
+		335
+		'? on maxilla'
+		'? on coronoid process of dentary'
+		,
+		336
+		'? absent'
+		'? present'
+		,
+		337
+		'? covering most of dorsal surface of mesopterygoid'
+		'? covering only half of dorsal surface of mesopterygoid'
+		,
+		338
+		'? limited by adductor mandibulae and adductor arcus palatini'
+		'? limited by A2 and A3 sections of adductor mandibulae'
+		,
+		339
+		'? anterior to vertical through posterior margin of eye'
+		'? completely posterior to vertical through posterior margin of eye'
+		,
+		340
+		'? absent'
+		'? present'
+		,
+		341
+		'? on pterotic spine or lateral to horizontal semicircular canal'
+		'? on a lobe situated dorsal to horizontal semicircular canal'
+		'? on pterotic or sphenotic, dorsal to semicircular canal'
+		,
+		342
+		'? absent or vertically-elongate'
+		'? horizontally-ovate'
+		,
+		343
+		'? absent or diffuse'
+		'? present as a conspicuous vertical bar'
+		,
+		344
+		'? absent'
+		'? present'
+		,
+		345
+		'? absent'
+		'? present'
+		,
+		346
+		'? symmetrically hyaline, yellowish, reddish, or violaceous'
+		'? ventral lobe orange or reddish and dorsal lobe hyaline'
+		'? ventral lobe dark brown or black and dorsal lobe hyaline'
+		'? both lobes dark brown or black'
+		,
+		347
+		'? absent'
+		'? present, especially in young specimens'
+		,
+		348
+		'? absent'
+		'? present'
+		,
+		349
+		'? absent'
+		'? present'
+		,
+		350
+		'? joined anteriorly, but not covering the isthmus'
+		'? joined along length of the isthmus but not attached to isthmus'
+		'? joined to each other and with isthmus'
+		,
+		351
+		'? single anteroventrally open bone'
+		'? two bones separated by cartilages'
+		,
+		352
+		'? rounded and divided only by skin fold'
+		'? nostrils distinctly separate'
+		,
+		353
+		'? absent'
+		'? present'
+		,
+		354
+		'? absent in mature males'
+		'? present in mature males'
+		,
+		355
+		'? absent'
+		'? present, restricted to scales below lateral line'
+		,
+		356
+		'? absent'
+		'? present'
+		,
+		357
+		'? present'
+		'? absent'
+		,
+		358
+		'? not aligned'
+		'? forming longitudinal rows anteriorly'
+		,
+		359
+		'? absent'
+		'? present'
+		,
+		360
+		'? aquasperm'
+		'? introsperm'
+		,
+		361
+		'? absent or small'
+		'? present, as broad as spermatogenic area'
+		,
+		362
+		'? 36 to 42'
+		'? 46 or more'
+		,
+		363
+		'? 48 or fewer'
+		'? 50 or more'
+		,
+		364
+		'? 50 or fewer'
+		'? 52 or more'
+		,
+		365
+		'? 52 or fewer'
+		'? 54 or more'
+		,
+		366
+		'? 54 or fewer'
+		'? 58 or more'
+		,
+		367
+		'? slender or somewhat expanded'
+		'? notched, limiting adductor operculi anterior and dorsally'
+		
+	;
+	MATRIX
+	'Puntius tetrazona'		                            ???0????0??0010?00?0????1????1???00?31110100?000???0???1?1000???1?????00????0000??100??00?0?0?????0?10?11??0?0?0?000?0????????????????0000???????????00?010???000?00000?001??011?0?000?00100??101111100?0101101???0000?00?000?00000?0001000000000?100?0??0??10??001110?0001000101000000???10000000000001001000000000?????????00?1010100000????001?00000000000210??0??0???1???00
+	'Acestrocephalus sardina'		                      ?00010010?01?11000000?011100001000010??00000?010?0?01000000000201000101?01?01000100100?01100101000?10001000000?100001?000110001??0000011110000000000?11?011100000101000010000011001001100100?01001111000101110000101101010101110001011?11000000000000000001011?0001000001100001100001000000011111?000000101010?001???????????2010??0000101001111100??00000000010??0?00????????0
+	'Acestrorhynchus pantaneir'		                    ?0101001???1111000000?0?01000010?01100010000000110101110000101201000100101?00100000100000100111000?10001000000010000000001??????????0011110000000000011?0111000101010100200?00100100001110010110000002?1101010000101100??10011100001100100100001000100000000110000100000110000110010100?1101011100000000?00010?00110?????????0000??00000010001111000010000000010??0?0000?110000
+	'Acrobrycon tarijae'		                           ?00110010?0001101010000?11000011000100100000101100001100000000000000011?0100000000011??01100101000010001000001?100000010001000110000001110100001?00000000100000000?00000101001100011001010000010001100000001100001001000001010100010?00100100000000000000000101000100000110000010000000011000111?000000010101000010111001110000112000000010000111000000000000000111100111?????0
+	'Agoniates anchovia'		                           ?0101000110001100000000111000010000100010000000100001100100101?00000000001100100000?00100100??1000?10001?0000001000000100010001??10?00111100000??00?001?0111010000000000201?00100100001010?1011000100000101010000100100000011111001100?10011000100010000001111?000000100110000110010100111?011111000000?00101000011??????????0011000000001001?111000000000000010??0?00????????0
+	'Alestes macrophthalmus'		                       ?0?0100?11100????010010?1100000?00?121?1?000?000???01000?100??????0?0?0?01??1000?11?0??0?110??0???210000101010?1100000100010?0200000000000??000010000000000001000?10?0?020???01?0000001??100?1100??000000???1000010010?0000?1?1?001?00??00?000010001000000?0??0000110000?00000111000000110?000110000?011110000001010?????????00?1010000001110?1?0000?000000000?0??0?0?????????0
+	'Apareiodon affinis'		                           ??1010001101010?1010111?10???10??001111101000000?0?0110001000??00001000101000000011000?000000?10100010011?000010?100001?00??????????1?1100110????????000010000000001100020011010000000001100?1101110010?0101?0??01000000000?0?100001001000110001000000000010000000100?00001000111000110?1010000000001001101010000010?????????0001010100000????101100000000000110??0?00???111100
+	'Aphyocharacidium bolivian'		                    ?00110010??001100010010?11010011000100100001?01100001100000000100001011?010000000001000011000?10000110011001000100000010000???1111100111101000100000000101000000000000001011101000110010100010100111100000011000010010100010101000101??100100000000000000010101000100000110000110000100000000?1100?00000101010?00101110001010001???0000001000?1???010000000000?01?0?00????????0
+	'Aphyocharax anisitsi'		                         ?00110010?0011101111010?110000??10000110001001110010110000000010001??01?0100011000?1000011011010000100111101000100000010000???1??1000111?0000001?0000001010000000000000010101010001100101000?01000111000000110000100100000101010001011010010000000001000?00110000000000011000011000010001000011?00000000101010000101110001?1000112000000010000111000000001000000100?00?0?110000
+	'Aphyocharax dentatus'		                         ?00110010?0011101110010?110000??10000110001001110010110000000010001??01?010001100001000011011010000100111101000100000010000???1??1?0011110000001?00000010100000000100000101010100011?010100000100011100000011000010010000010101000101101001000000000100000011000001000001100001100001000100001110000000010101000010111000000000112000000010000111?00000001000000100?00???110000
+	'Aphyocharax nattereri'		                        ?00110010?0011101110000?110000???000011000100110?0?0110000000010001???1?01000?11?0?1000011010?1000?100111100000100000010000???1??100011110000001?00000010100000000000000101?0010001100101000001000111000000110000100100000101010001011010010000000001000000110?000?000001100000100001000100001110000000010101000010111000000000112000000010000111?00000000000000000?0000??????0
+	'Aphyodite grammica'		                           ?00110010?10011000100000110100100001001000000011?000110000000010101??11?010000000001000011010?10000110011000000100000010000???1??1100?1?00000011?0000001010000000000000010111010001100101000?01001110000000110000100100000101010001011010010000000001000001010100010000011?0001100001000100001110000000010101000010??????????0011200000011001?1110010000000000?0??0?00????????0
+	'Astyanax abramis'		                             ?00110010?10011000100000110000100001001000000010?0?0?000000000001000001?01100000000100001100101???110001000011?100000010001000100100000000??0001?000?000010000000000000010000010001100101000?010001?000000011000010010000010101000101001000000000000000000101010001000001110001100001000001001111000000010101000010111000010000012000000011000111000010000010010000?01???110000
+	'Astyanax asuncionensis'		                       ?00110010?10011000100000110000100001001000000010?0?01000000000001001001?01100000000100001100101???1100010000111100000010001000100100000000??0001?0000000010000000000000010??0?10001100101000?0100011000000011000010010000010101000101001000000000000000000101010001000001110001100001000?01001111000000010101000010111000000000012?00000011000111000010000010010000?01???110000
+	'Astyanax cf. abramis'		                         ?00110010?10011000100000110000100001001000000010?0?0?000000000001000001?01100000000100001100101???1100010000111100000010001000100100000000??0001?0000000010000000000000010?00?100011001010000010001?000000011000010010000010101000101001000000000000000000101010001000001110001100001000?01001111000000010101000010111???000000012?00000011000111000010000010010000?01????????0
+	'Astyanax cf. asuncionensi'		                    ?00110010?10011000100000110000100001001000000010?0?01000000000001001001?01100000000100001100101???1100010000111100000010001000100100000000??0001?000?000010000000000000010100010001100101?000010001100000001100001001?000010101000101001000000000000000000101010001000001110001100001000?0100111?000000010101000010111111010000012?00000011000111000010000010000000?01????????0
+	'Astyanax cf. eigenmannior'		                    ?00110010?1001100010000111000010000100100000001100001000000000001001001?01000000000100001100101??011000100000101000000100010011101000010001?0001?00?0000010000000000000010100010001100101?00101000110000000110000100100000101010001010010000000000000000001010100010000011100011000010001010011100000000101010000101110000000001120000000100001110000000000000?0000?00????????0
+	'Astyanax cf. eigenmannior duplicate'		          ?00110010?100110001000001100001000010010?000001100001000000000001001001?01000000000100001100101??0110001000001?1000000100010011101000010001?0001?0000000010000000000000010100010001100101000?01000110000000110000100100000101010001010010000000000000000001010100010000011100011000010001010011100000000101010000101110000000001120000000100001110000000000000?0000?00????????0
+	'Astyanax cf. rutilus'		                         ?00110010?1001100010000111000010000100100000001100001000000000001001001?01000000000100001100101??011000100000??10000001000100?110100001000110001?0010001010000000000000010100010001100101000101000100000000110000100100000101?1000101001000000000000000000101010001000001110001100001000101001111000000010101000010111000000000112000000010000111000000000000000000?00????????0
+	'Astyanax chico'		                               ?00110010?1001100010000011000010000100100000001100001000000000001001001?01?00000000100001100101??011000100000111000000100010011101000010001?0001?00000000100000000000000101?001000110010100010100011000000111000010010000010101000101001000000000000000000101010001000001110001100001000101001110000000010101000010111111000000112000000011000111000000000000010000?00????????0
+	'Astyanax correntinus'		                         ?00110010?1001100010000111000010000100100000001?0000?000000000001001001?010000000001000011001?1??01100010000011100000010001001100100001000110001?000000001000000000000001010001000110010100010100011000000111000010010000010101000101001000000000000000000101010001000001110001100001000001001111000000010101000010111000????001120000000100001110000?0000000000000?01????????0
+	'Astyanax endy'		                                ?00110010?1001100010000011000010000100100000001100001000000000001001001?01000000000100001100101000110001000001?100000010001001110100001?001?0001?0000000010000000000000010100010001100101000?0100011000000011000010010000010101000101001000000000000000000101010001000001110001100001000101001110000000010101000010111000000000112000000011000111000000000000000000?00????????0
+	'Astyanax latens'		                              ?00110010?100110001000001100001000010010?000001?00001000000000001001011?0100000000010000110010100011000100000??1000000100010001101000011?0100001?0001001010000000000000010100010001100101000?0100010000000011000010010000010101000101?0100000000000000000010101000100000111000110000100010100111100000001010100001011100000000011200000001000?111000000000000000000?00????????0
+	'Astyanax lineatus'		                            ?00110010??0011000100000110000100001001000000010?0?01000000000001000001?0110000000010000?100101??011000100001111000000100010001001000010001?0001?000?0000100000000000000101?1010001100101000?0100011000000011000010010000010101000101001000000000000000000101010001000001110001100001000?0100111?000000010101000010111111000000012000000011000111000000000000000000?0100?110000
+	'Astyanax mexicanus'		                           ?00110010?10011000100?0011000010000100100000?01100001000000000001000001?01000000000100001100101??0110001000001?100000010001000110100001000110001?000000101000000000000001010001000110010100000100011000000011000010010000010101000101001000000000000000000101?10001000001110001100001000?010011100000000101010000101110000000001120000000100001110000000000000?0000?00???1?0000
+	'Astyanax paris'		                               ?00110010?1001100010000011000010000100100000001100001000000000001000001?0100000000010000110010100011000100000011000000100010001101000011?0100001?00?100001000000000000001010001000110010100000100011000000011000010010000010101000101001000000000000000000101010001?000011?00011000010001010011100000000101010000100?????????001120000000100001110000000000000000?0?00????????0
+	'Astyanax pelegrini'		                           ?00110010?1001100010000011000010000100100000001100001000000000001001001?01000000000100001100111??01100010000111100000010001000100100001000110001?000000001000000000000001010101000110010100010100010000000011000010010000010101000101001000000000000000000101010001000001110001100001000001001111100000010101000010111000000000012000000011000111000000000000000000?01????????0
+	'Astyanax puka'		                                ?00110010?100110001000001100001000010010?000001100001000000000001001001?01000000000100001100101??0110001000001?100000010001001110100001000110001?000000001000000000000001010001000110010100010100011000000111000010010000010101000101001000000000000000000101010001000001110001100001000?0100111?000000010101000010111000000000112000000011000111000000000000000000?00????????0
+	'Astyanax troya'		                               ?00110010?100?10001000001100001000010010?000001100001000000000001000001?01100000000100001100101??01100010000011100000010001001110100001000110001?00000000100000000?000001010001?001100101000?0100011?00000111000010010000010101000101001000000000000000000101?10001000001110001100001000?01001110000000010101000010111111000?001120000000110001110000?00000000?0000?00????????0
+	'Aulixidens eugeniae'		                          ?0011001???001001010010?11000010000100100000101100001100000000100000011?0100000000011??01100100???0110011000011100000010000???111000000000??0001?0010001010010000?100000101?1010001100101000?0110111100001011000011?10000010101000101101001000000000?0000000001000100000110000?1000000001000011100000000101010000101110001110001120000001110??1???0?000000000000??0?00????????0
+	'Axelrodia lindeae'		                            ?00110010??001100010000111010010000100100001?01100001100000000?010010?1?010000000001000011010?10000110011000000100000000000???1??110011110000011?010000101000000000?0000?0111010?01100100100001000111000010100000100101000101010001011?100100000000000000010101000000000110000110000100000000111?0100000101011?10101110001100001???000000100??1???010000000000?01?0?00????????0
+	'Bario steindachneri'		                          ?00110010?1001100010010?110000100001000010000011?000110000000000100?0?1?01000000001100?01100??10000100010000010100000010001000110100001?001?0001?00010000100000000000000101?0010001100101000?010001100000001100001001000001010100010100100000000000000000010101000100000110000110000100010000111000000001010100001111111101120?11110000111000011??0?00000000?0?0??0?0?????????0
+	'Bramocharax bransfordii'		                      ?0?111010?1001100010000011000010000100100000001110001100000000001000001?01000000000100?01100??1000?10001000001?100000010001000110100001111110001?0000000011000000000000010100010001100101000?01000110000001110000100100000101010001010010000000000000000001011100010000011100011000010000010011110000000101010000101?????????001120000000100?011??000000000000?0??0?00????????0
+	'Brycinus carolinae'		                           ???01??111?001???0?0011?1100000?000121?1?100?000?0?0110001000?000000000101001000?11????0?1100?0???21?00010101011100000100010?0200000000000??000010000000000001000?100000201?101?0?000?1??100?11???1000000???1000010010??000?111?000000?000000001000100000010???000110000?000001110000001100000100000001111?000001010?????????000101000000111??11??00?00000000010??0?0????100000
+	'Brycon falcatus'		                              ?010100?0?100?100010000111000010?00100?100000001?0?011000000???01000000111101000010000?00100111000?10000?000?011000000100011?01101010011111000001000?00001?000000?000000200?001?0000001??100?0100010000100111000010010000000111000110000000000010001000000??11000010000011100011000010011100011100000000101010000111?????????0001200000101000?1?????0000000000?0??0?0????110000
+	'Brycon meeki'		                                 ?0?0100?0?100010??10000111000010?00100?100000001???010?000000?001000000100101000??0000?0?100??1000?100000000?011000000100011?01?010?0011111000001000??0?01000?000?00000020??001000?000111100?0100??0000?001?10?0010010000000111?00?100??0000000?0001000000001?0000100000110000110000100111?001111000000011101000011??????????00????0000?01??0?????000000000000?0??0?0?????????0
+	'Brycon orbignyanus'		                           ?01010000?1001100010000111000010000100?100000000?0?0?00000000100100000010?101000010000?00100111000?1000000001011000000100011?111011100111111000010000000010?00000100000020000010000100111100?010111000010011100001001000000011100011000000000001000000000000110000100000111000110000100111000111?000000010101000011??????????0001200000?0100001100000100000000?0??0?00???110000
+	'Brycon pesu'		                                  ?0?0100?0?1001100010011?11000010?0010001010000011000110000000100000000010?1010000?0000000100111000?1000000001011000000100011?01101010011111000001000?00001?000000?00000020000010000?00111100?01000110001001110?00100100000001110001000000000000100010000000010000010000011?0001100001001110001110000000010101000011??????????000120010010100?01?1?000000000000?0??0?0000?110000
+	'Bryconexodon juruenae'		                        ?001100???0?00100010000111000010000100001000001110001010000100101000001?01101000000100001100101000?10001000000?10000001010??????????001111000000000??0000100000000000000101000100011001001000010011110000011100001001000001?1010001010?1000000000000?00000101?100010000011100011000010001000011100000000101010000111?????????001120000000100??1???0??00000000000??0?00????????0
+	'Bryconops affinis'		                            ?01010010?10011000100001110000100001000100000001100011000000110010010000111010000101000001100?100021000100000001000000100010?01?01000011001?0001?0001000010000000000000020110010000100111100?1100011000000111000010010000011101000110000001000010001000000001000001000001?0000110000100110000111?0000000101010100111110000000001120000000100001110000000000000?0??0?00???100000
+	'Bryconops melanurus'		                          ?01010010?100110001000011100001000010001000000011000110000001120100?0000111010000101000001100?100021000100000001000000100010011101000011001?0001?000100001100000000000002011001000010011110010100011100000111000010010000011101000110000001000010001000000001000001000001000001100001001100001111000000010101010011??????????001120000000100?01???0?0000000000?00?0?00000100000
+	'Carlana eigenmanni'		                           ?00110010??0011000100?001101101000010010000000111000100000000000001??11?010000000001000011010?100??1?1011000000100000010000???1111000011??111101?0000?0001??00000000000010110010001100101000001011111000000110000100100000101?1000101???0000000000000000001011100010000011?010110000100010100111100000001010100001?1110000000001???000000100??11??0?0000000000?00?0?00????????0
+	'Carnegiella strigata'		                         ??01????0?00010?1100011?1100000??001001101000000?0?011001????1?00?1???1?0?????0000??00?0???10?10000100011100000100000010000???110110001000000001?000101?01000100000?000020101010?0000010100001000111100?000100100100100000000?100010100000??001100?00?0111????0100000010110000000110000011001011?00000201010?000000110000???0001101010000100011110000000000000100?0?10???1???00
+	'Chalceus macrolepidotus'		                      ?01110010?1001100010010?1101001000010?0100000000?0?011000000000010000000111110000010000001100?1000?1000010001011000000100011?0110100001111100000100000000100010000000000201?0010000000111100?1100011000000011000010010000001111000000000000000010001000000101000001100001000001110101101110000000000000111100000001??????????000101010000100011100000000000000?0??0?00???111?00
+	'Characidium borellii'		                         ??101001100??10?0010011??0???10??0010001000000011000110001000??0100?0?0001?00?0000000??100000?1???01100110000010?00000100000????????0?0000??0001?000010001000001000010002010101000000011100001101111100?010100000100110000000?10000000100011000?0010010000101000001100000010001000001000100000000000002110101000000101000000?0011200000000????111110000000000011000?00???110000
+	'Characidium rachovii'		                         ??101001100??10?00?0011??0???10??00100010000000110001100010000?01?0???0001????0000?00??11??10?1???011001?00000?0?00000100000????????0?0000??0001?000010101000001000?10002010101000000011100001101111100?01010000010010000000??10000010100010000?001001000010100000110000001000100000111010000000000000211010100000?0?????????0011200000000??0?111111000000000011000??0???110000
+	'Charax stenopterus'		                           ??0110010?0101100000000111000010000100100000011??00000000000002010?1011?010000001001000011000?1000?10001100000010000010001??????????001111000011?000011?011100000?01000010110010?0100010010000100011100010111000010110101010111000101101110000000000000000101110001000001100001100001000001011111100010010101000010111000000?0010??0?1000100111110010000000000000?0?00????????0
+	'Cheirodon interruptus'		                        ?00110010?0001101010010?1101001?000100100000001100001100000000100001011?0100000000?1000011010?1??10110011001000100000011000???111100001000110001?00001010100000000?0100010101010?01110101000?01?11110000000110000100100000101010001011010000000000000000001010100000000011100011000010001000011?000000001010111101011100011000011200000001000?111001000000000010100?00000?????0
+	'Coptobrycon bilineatus'		                       ?00110010?000110101000001100001001?10010?0000010?0?011000????????00???1?0??????1?00???00?1010?1???010001??0000?1000000100010?0111000000000??0001?00000010100000000?0000010101010?011001000000010?111?00001011000010010000010101000101??10000000001000000001010?000000000111000010000100010000110000100001010100001?0?????????001???0000001000?11??0??00010000001??0?10????????0
+	'Cynopotamus argenteus'		                        ?100100?0?01111000000001110000100001011000000010?0?11010000000201000101?01001000100100101100111000?10001000000010000100001??????????001111000001?000011?01110000010100001000001100100110110000100111?01?10111000010110101010111000111101?1000000000000000010111000100000110000110000100000?011111100010010101010010??????????2010??000010100111110000000000000?0??0?00???111000
+	'Cyphocharax spilotus'		                         ?01110011100010?0010000110???10??001011100000000?0?0110001000?000?01000001?000000?00000000000?1???00100110000010?00000????????????????0000?????1?????001000000000000100000111010000100001100?111111??00?010111111000100000000?10000010000010000100100000001010000011000000100011100011011010000000000001111010000010?????????0000??0000000??1?100?000000000002?0??0?0????111100
+	'Deuterodon iguape'		                            ?00110010?10011000100?0011000010000100001000001110001100000000001000?11?01?000000001000011001010100100010000001100000010001001110100001100110001?00000000100000000?0000010100010001100101?00?0100011000000011000010010000010101000101001000000000000000000101010001000001010001100001000?01001110000000010101000011??????????001120000000100001110000000000000?0??0?00????????0
+	'Deuterodon langei'		                            ?00110010?1001100010010?11000010000100?01000001110001000000000001000011?01100000000100001100101011?100010000001100000010001001110100001110110001?0000000010100000?000000101?0010001100101000?01000110000001110000100100000111010001010?10000000000001000001010100010000010100011000010000010011100000000101010000110?????????001120000000100?01???0??00000000000??0?00????????0
+	'Distichodus maculatus'		                        ?010100110?0011?00100?0?10???10??00131110000?000???0110001000?00000100000100?????000000000000?1???0??0?01?000?00?00000??00100????????00000??001000000000??0000010?000?000001101100000011110011101110000001011000010010000000??00000?00?1001000010010000000????0?001110?000100010101011111110010000000001100110000000?????????1000??0000010??1?001100000000000010??0?0?????????0
+	'Engraulisoma taeniatum'		                       ?01010010?00010??0?00?001100000?000101110000?000?0?0110010010?00001?000000000000010???00?1100?1???01000101000001000000100010?0110000000000??0001?000100101002000001000002010101000000010110000101111100?0??10010011?000000?10?1000?01101001000000000000011?????1000001101100000100000000100100110000000000100000000??????????0011010100001100?111000000000000010??0?00????????0
+	'Exodon paradoxus'		                             ?00110010??001100010010?11000010000100100000001110001000000100201000001?01101000000100001100101000?10001000000010000000010??????????0011110000000000?01?011100000100000010100010001100100?0000100111100000111000010010000010101000101001000000000000000000101010001000001010001100001000?010011100000000101010000110?????????0001200000001000011110000000000?0?0??0?00???111000
+	'Galeocharax humeralis'		                        ??0010010?0101100000010?110000100011010000000010?0?01010010000201000101?0100100010010?101100111000?10001000000010000100001??????????0011110000000000011?01110000010100001000001?00100110010000100111?01?101110000101101010?01110001?11011?000000000000000010111000100000110000110000100000101111110000001010101001111100000002010??0000101001111100?000000000010??0?00???111000
+	'Grundulus cochae'		                             ?0011011??00011010100000110000110001001000000010???01100000000??100???1?01?0??01?00????0???10?1000?10001100000?100000000000???1??1100?11110000?1?0000101010000000?000000101?1010001100101000?0101111?00001011000010010000010101?00?01001000000000100000000?010100000000011100011000010001100011000000000101010000100?????????0011200?1000100??1???0?000000000001??0?1?????????0
+	'Gymnocharacinus bergii'		                       ?00110010?0011?010?00000110000110001001000000010?0?01100001000??1?0???1?010001000?0?00001100??10000100011000001100000011001001111000001100110001?0000001010000000000000010100010001100100100001011110000010110000100100000101010000010010000000001000100000110100000000011100011000010001101011000000000101010?00100?????????001???0?10001100?1110000000000000?0000?10????????0
+	'Gymnocorymbus ternetzi'		                       ?00110010?100110001000011100001000010000?000001110010000000000001001011?01000000000100001100101??00100010000000100000010001000110100001000100001?00110010100000000000000101?0010001100101000?01000110000001110000100100000101010001010010000000000000000001010100000000011100011000010000010011111000110?01010000101?????????0011200?1011100001110000010000000?0??0?0????1??000
+	'Hasemania nana'		                               ?001?0010?100110001000001100001000010010000000111000110000000000001??11?010000000001000011010?1??0010001000000010000001000100011010000?000??0001?0000101010000000000000010110010?0110010100010100011?0000001100001001000001010100010110100000000000000000010001000000000111000110000100?1000011000010000101010000100?????????0011200000001000?1110000000000000?0??0??0???1?0000
+	'Hemigrammus bleheri'		                          ?00110010??001100010010?11000010000100001000001110001100000000001001011?010000000001000011010?1??0010001100000110000001000100011110000?000100001?000000101000000000000001011001000110010100000100?11?00000011000010010000010101000101001001000000000000000101010001?0000111000110000100000000110000000001010100001011????????001120000001100001110000000000000?0??0?00???110000
+	'Hemigrammus erythrozonus'		                     ?00110010?100110001000011100001000010010100000111000110000000000101??11?01000?00000100?011010?100001000110000011000000100010001111000011?0110001?000000101000000000000001011001000110010100000100?1110000001100001001000001010100010110100100000000000000010001000?0000011100011000010000000011?0000000010101000010111010?01000?12000000?1000?1?1000000000000000??0?000001??000
+	'Hemigrammus ulreyi'		                           ?00110010?100110001000011100001?000100001000001110001000000000001001011?0100000000010000110110100001000100000001000000100010001101000011?0100001?000100101000000000000001011001000110010100000100011?0000001100001001000001010100010110100100000000000000010101000100000111000110000100000?001110000000010101000010111000001000112000000?100001110000?0?000000?0??0?00????????0
+	'Hemigrammus unilineatus'		                      ?00110010?1001100010000?11000010000100?010000011?0001000000000001001011?010000000001000011010?100001000100000001000000100010001101000011101?0001?000?0010100000000?00000101?001?001100101?00?0100011?0000001100001001000001010100010110100?00000000000000010101000100000111000110000100010000111100000?0?010100001011100000000011200000011000011?????001000000000?0?00???111000
+	'Hemiodus cf. thayeria'		                        ?01010011100011?001000011100010??001000100000001100011000100000001000000011110000110000001000?100?00100110000010?00000100000????????1?1110110??00????001010000000000000020001010000100011100011011100000010110000100100000011110000100000010000100100000001010000011000000000011100010011100000000000001110110000010?????????0001000000000????101100000002000010??0?00???111100
+	'Heterocharax macrolepis'		                      ?0011001101001100010000111000010?0010000?000011110001000000100000001001??0001000010?01101100111000?10001100100010000000000??????????0011110000000000?0000111000000010000?00?00000?0?00111100011000110000001110000100100000111011001010?100100001000100000000101000100?001100001100001001101001111?00000010?01000010??????????001???0000001000?111000?000100000100?0?00????????0
+	'Hollandichthys multifasci'		                    ?00110010???0110001000001100001000010?1000000010???0100000000120101??11?010000000001000011010?1000?10001000000?100000010001000110100001111100001?0000?1?011100000000000010110010?01100100100?0100011?000?01110000100100000101?10001010110000000000000000001011101000000011?00011000010001010011110000000101010000101110001000001120000000100?011??0?0000000000000?0?00111110000
+	'Hoplias cf. malabaricus'		                      ??101?010????10?0010011?01000000?01101010100?000???01101???0010000000?1???000?000100000000000?1000?10001000000010000000000??????????0011110000000000001?011?000110010000?0000010?00001111100?11?11100?01101110000101110??0000?10000?000?0000000?11?0110000?011000010001000000010000011101000000000000021000000000000?????????0001010100001000?1101?0000000000010??0?1000?000000
+	'Hoplocharax goethei'		                          ?00110011010011000100?0111000010?001000??00001111000100000000000001??11?0000??00010?00?01101101000?10001100100010000000000??????????0011110000000000?0000110000000010000?0??000000??0010010001101111?0000001100001001000001?1011001011??0?100001000000000000101000000000110000010000000110000111?000000010101001010??????????001???0000001001?111000?000100000100?0?00????????0
+	'Hyphessobrycon anisitsi'		                      ?00110010?100110001000001100001000010010?000001100001000000000001001001?010000000001000011010?1000110001000001?100000010001000110100001?001?0001?000000001000000000000001010001000110010100000100011?00000011000010010000010101000101001000000000000000000101010001000001110001100001000101001110000000010101000010111000000000112000000010000111000000000000000000?00???110000
+	'Hyphessobrycon bifasciatu'		                    ?00110010?1001100010000011000010000100100000001?00001000000000001001011?010000000001000011010?1??01100011000000100000010001001110100001000110001?000000101000000000000001010001000110010100010100011?00000011000010010000010101000101101000000000000000000101?10001000001110001100001000001001111000000010101000010111000000000112000000010000111000101000000000000?00???110000
+	'Hyphessobrycon elachys'		                       ?00110?10?100110001000001100001001?10010?0000011?000110000000000100???1?01?0??01?0?1000011010?1???010001??00000100000010001000110100000000??0001?000000101000000000000001011001000110010100000101111000001011000010010000010101000101101001000000000000000100010000000001100101100001000?000011?00000000101010000100?????????0011200000001000?10100?2000000000?0??0?00????????0
+	'Hyphessobrycon eques'		                         ?00110010?10011000100001110000100001001010000011100010000000000100?1011?010000000011000011010?100001000110000001000000100010001101000011101?0001?000010101000000000000001011001000110010100000100011000000111000010010000010101000101101000000000000000000101?100010000011100011000010000000011110000010?0101000010110000???200112000000010000111001100100000000?00?00???1??000
+	'Hyphessobrycon herbertaxe'		                    ?00110010?10011000100000110000100001001010000011100011000000000010010?1?010000000001000011010?10000100010000000100000010001000110100001110100001?00010010100000000?0000010100010001100101?00001000111000010110000100100000101010001011010010000000001000001000100010000011?0001100001?0000?00111000000001010100001011100000100011200000001000?1?10000000000000000?0?00???111000
+	'Hyphessobrycon luetkenii'		                     ?00110010?100110000000001100001000010010000000110000100000000000100???1?01?0??01?001000011010?10001100011000000100000010001001110100001100110001?0000001010000000000000010100010001100101000001000110000000110000100100000101?100010110100000000000000000010101000000000111000110000100010?001111000000010101000010110111???2001120000000100001?1000000000000000000?00????????0
+	'Hyphessobrycon pulchripin'		                    ?00110010?1001100010010?1100001000010010?0000011?000110000000000001??01?01?000000001000011010?10000100011000000100000010001000110100001100110001?000000101000000000000001011101000110010100000100011100000011000010010000010101000101?0100100000000000000010101000100000111000110000100000000111?000000010101000010??????????0011200000001000?1?1000100100000000??0?00???1?0000
+	'Hyphessobrycon socolofi'		                      ?00110010?100110001000001100001000010010?0000011100?1?00000000010001011?010000000001000011010?10000100011000000100000010001000110100001110100001?0000001010000000000000010110010001100101000?01000100000000110000100100000101010001011010000000000000000001010100010000011100011000010000000011110000010101010000101111110102001120000000100001110011001000000?0??0?00????????0
+	'Iguanodectes geisleri'		                        ?01010010?1001100010010?11000010000100010000??11100011?000000?00000101001100000001000000?100??1???2000?11000101100110010001000110100000000??0001?0000?0110000?100?000001201?10100001001?1100?010111110000?0?00?0010010000011101000?1??0?00110001000?000??0001000001000001100001100001000110?00110000010010101000011??????????0000??0000001121?11100??000000001?0??0?00????????0
+	'Inpaichthys kerri'		                            ?00110010?100110?010010?11000011?00000100000001101001101?0000010001???1??100?0000001000011010?1000010001100000?100000010000???1??1?0011110100001?0000001010000000000100010111010001100101000001000111000000110000100100000101010001011010000000000000000001010100000000011?0001100001?001000011100000000101010000100?????????0011200000001000?1010000000000000?0??0?00???111000
+	'Jupiaba mucronata'		                            ?00110010?10011000?000011100001000010000?000001110001000000000001001011?01000000000100001100101000010001000000?1000000100010001101000011?0110001?0000000010000000?000000101000100011001011000010??11?000000110?0010010000010101?00101001000000000000000000101010001000?1111000110000100000?00111?000000010101000011??????????001120000000100??1???0?0100000000?0??0?00????????0
+	'Jupiaba scologaster'		                          ?00110010?1001100010000111000010000100000000001110001000000000001001011?010000000001000011001010000100010000000100000010001001110100001110110001?000?000010000000??000001010001000110010010010100011100000?11000010010000010101000101001000000000000000000101010001000?111100011000010000010011100000000101010000100?????????001120000000100001110000000000000?0??0?00????????0
+	'Knodus breviceps'		                             ?00110010??001101010010?1100001000010010000010110000110000000010000?011?0100000000011??01100??100001000100001111000000100010?0110000001100110001?00000000100000000100000101?1010001100101000?010111110000001100001001?0000101010001010010010000000000000000000100010000011000001000000001000011?0000000010101000010111000?000001120000001110001???0?0000000000?0??0000???111000
+	'Leporinus striatus'		                           ?01010010?00010?0010100111000100001001?100000000???011?001000??01001000001101000?110000000000?1???0010011000???0?00000?000??????????0?0000??0001?00?0000100000000?0??0?0000?1010000100001100?110111100010101101100000000?0000?10000000000010000?0010100000101000001?000000100011100011001010000000000001111010000010?????????000101000000???1?1001000000000002?1??0?00???111100
+	'Lonchogenys ilisha'		                           ?00110011010011000100001110000???00100000000011110001100000000000001000000001000010?00101100111000?10001100000010000000000??????????0011110000000000?100011000000001000010?100000001001111000110001100000011100001001000001?1011001011?0001000010000000000001010001000001100001100001001101001111?00000010101000010??????????001???0?10001001?1?1000?000100000100?0?00????????0
+	'Markiana nigripinnis'		                         ?001100?0?100?1100100000110000100001011000000010?0?0?010000000100000001?0110100001010?00?100101???2100010000111100000010001000110000000000??0001?0000000010000000000000010101011101100101000001000110000000110000100100000101010001010010000000000000000001011000010000011?0001100001000101001111100100010101000011110000???00110??000011110001100000000000000000?0?01???111000
+	'Metynnis maculatus'		                           ?01110010?1001010010000?110000100001011100000000?0?1000000000100101???00010000000000000001000?1???21000100001011000000100010000??001000000??0000110000010100000000000000?10?1010000?00100100101011110001000100000100100000001110011011000000000100000000001010000000000010100010000111111010011111?0002010001000001??????????0000??0?11101110?1?010?000000100010??0?0000?111110
+	'Micralestes stormsi'		                          ?01110011110011?0010010?1100000?000101010000?000?0?01100010000000100001?01000100011?000001100?0???2100011010111100000010001001110000000000??00001000000101000100001000002010101000010010010011100111?000000110000100100000011110001010000010000100010000000010000010000000000011101000001010001000000011110000001010?????????0001010000001100?1100000000000000?0??0?00????????0
+	'Microschemobrycon casiqui'		                    ?00110010?0001100010010?1101001000010010000?0011?0001100000000100000011?0100000000011??011010?10000110011000000100000010000???1??110011110100011?000000101000000001000001011101?001100101000101001111000000110000100100000111010001011010010000000000000001010100010000011100011000010000000011?0000000010101000010??????????00112100000?100001110010000000000?0??0?00???000000
+	'Moenkhausia cf. intermedi'		                    ?00110010?100110001000011100001000010000?000001110001000000000001001011?010000000001000011001010000100010000000100000010001000110100001?00100001?0001001010000000000000010110010001100101000101001110000000110000100100000101010101010010011000000000000001000100010000011?000110000100000?00111000000001010100001?0?????????00112000000110000111000000003000000??0?00???110000
+	'Moenkhausia dichroura'		                        ?00110010?1001100010000111000010000100001000001110001000000000001001011?01000000000100001100101000010001000000010000001000100010010000??00100001?0001001010000000000000010100010001100101000101001100000000110000100100000101?1010101000001000000000000000101010001000001110001100001000?0100111?0000000101010?00110?????????00112000000110000111000000003000000??0?00???110000
+	'Moenkhausia sanctaefilome'		                    ?00110010?100110001000001100001000010010?0000011?000110000000000000?011?01000000000100001101101000010001000000?100000010001000110100001?00110001?00010010100000000000000101?0010001100101000?0100011100000011000010010000010101000101001000000000000000000101010001000001110001100001000?0000111000000001010100001?110000????0011110000011000?111000000000001000??0?000001?0000
+	'Moenkhausia xinguensis'		                       ?001100?0?1001100010000111000010000100001000001110001000000000001001011?01?0000000?1000011001010000100010000000100000010001000110100001?00110001?000100001000000000000001010001000110010100010100011000000?1100001001000001?101000101001000000000000000000101010001000001010001100001000001001110000000010101000011110000????001121000001100001110000000000000000?0?00????????0
+	'Nematobrycon palmeri'		                         ?00110010??001100010010?110000110001001010000?111000100000000000001??11?0100000000?100001100??1000?10001?0000111000000100010001100000?1111100001?00000010100000000000000101?101000110010??00?0100111?00001011000010010000010101000101001000000000000?000001010100010000011000011000010001000011110000000101010000100?????????001???0000?0100??1???0??00000000?????0?10000110000
+	'Nematocharax venustus'		                        ?00110010?1001100010000111000010000100100000001110001000000000001000011?010000000001000011010?1000?10001000000?10000001000100111110000111111?001?000000101??000000000000101100100011001011000010001110000001100001001000001010100010100100000000000000000010101000100000111010110000100000000111?0000000101010000101???1?????001???000001100??1???0?0000000000?00?0?00000?????0
+	'Odontostilbe microcephala'		                    ?00110010?0001101010010?11010010000100100000001100001100000000100001001?010010000001000011001010010110011001000100000011000???111100001100110001?000010101000000001010001010101000111010100010101111000000011000010010000010101000101101001000000000000000101010011000001110011100001000100001110000000010101000010111000010000112000000010000111001000000000000100?00???111000
+	'Odontostilbe paraguayensi'		                    ?00110010?0001101010010?1101001000010010?000001100001000000000100001001?010000000011000011001010010110011001000100000011000???111100001100110001?0000?01010000000010100010101010001110101000001000111000000110000100100000101010001011010010000000001000001010100110000011100111000010000010011100000000101010000101110000100001120000000100001010010000000000?0100?00000111000
+	'Odontostilbe pequira'		                         ?00110010?0001101010010?1101001?000100100000001100001100000000100001001?010000000001000011001010010100011001000100000011000???111100001100110001?00000010100000000?0?000101?101000110010100000100011000000011000010010000010101000101101001000000000000000101010011000001110011100001000100001110000000010101000010111000010000112000000010000111001000000000000100?00000111000
+	'Paracheirodon axelrodi'		                       ?00110110?100110001000011101001000010010100000111000110000000000100???1?01000?0000010000?1010?1??10100011000000100000010000???111100001000110001?0000001010000000000000010111010?01100101100001?0011000000011000010010000010101000101001001000000000000000100010001000001100001100001000?000001?00000000101010000101?????????00????000000100??1?100?2000000000?0??0?00?0?1??000
+	'Paragoniates alburnus'		                        ?00110010?0001101110010?110000??100001100000??10?0?01000??1?001?00000?1?0100011000?100001101101000?100?11?0000010000001000?0??1??1000?1111100001?000000101000??00?0000?0101??0100?11001010?0?0100??1000000011000010010000010101000101???0010001000001000??????0000100?0011000011000010001100111111000010101010000100?????????001???0000101000???100??000000000?0??0?00000?????0
+	'Parecbasis cyclolepis'		                        ?00110010??001100010010?11010010000100100000001110001000000000100000001?01000000001100?01100??1???0110011001000100000010000???1??110010000??0011?00000010100000000000000101?0010001100101000?01011100000000110000100100000111010101010010010000000000000001010100010000010?00011000010000010011100000000?0101000010??????????0011200000011000?11100?0000000000?0??0?0?????????0
+	'Parodon nasus'		                                ??1010001101010?1010111?10???10??001111101000000?0?0110001000??00000000101000000011000?000000?101000100110000010?100001?00??????????1?1100110????????00001000000000100002001101?00000000110001101110010?010110100100100000000?100000001000110001000000000010000000100000001000111000110?1?10000000001001101010000010?????????0001010100000????101100000000000110??0?0????111100
+	'Phenacogaster tegatus'		                        ?00110010?0001100010000111000010000100100000011100001000000000201001011?010000000001000011010?1000?100011000000100000010001000110110001111000001?00000010100000000?100001011001000110010100000100011100010111000010010100010111000101101000000000000000000101010001000001100001100001000101011111100000010101000010110100???0001120000000100001110010000000000?01?0?00????????0
+	'Phenagoniates macrolepis'		                     ?00110010?00111011100?0011000010?00001100000??10???01000001000100000011?01000010000100?01101101110?100?10100000100100010000???1111000?1111100001?00000011100000000000000101?1010001100101010?0100011100000011000010010000010101000111??1001000000000100000??100000000?001100000100000000110011111100001010101000010??????????0000??0000?01100?11?000?00000000010??0?10????????0
+	'Piabina argentea'		                             ?00110010?010?101010000011100010000100100000101100001100000000100000011?01000?000001000011001010?00100010000111100000010001??0100000001100100001?0000000010000000010000010100010001100111000001000110000010110100100100000101010001011010011000000000000000010100010000011000001000000001000011?00000000?01010000101110001?000011200000001110?1?1100000000000000?00000???111000
+	'Piabucus melanostomus'		                        ?11010010?10011000100?0011000010000100010000?1011000100000000?0001010100010000000101000011001010112000?11000101100010010000???110100001100110001?000000110000110000000012010101000?10010010010101111000000010000010010000010101000010100011000110001000011??1?0000100010110000010010000011?111111100010010101000011110000???00000??0000001121?101000000000000100010?0?????????0
+	'Piaractus mesopotamicus'		                      ?01110010?10010100100?01110000100001011100000000?0?0?000000001001000000001101000010000000100101???21000000001011100000100010000??001000000??000010000000010000000001000021001010000?00100100001011100001001100100100110000001110011010001000000100000000001011000000000011000010100011111?1001110000002010001000001??????????0000??0?11101000?1101000000001000?0??0?00???111100
+	'Poptella paraguayensis'		                       ?00110010?1001100010000111000010000100001000001110010000000000001001011?0100000000010000110010100001000100000001000000100010001101000011?01?0001?0011000010000000000000010100010001100101?001010001100000011100001001000001010100010100100000000000000000010101000000000101100110000100000100111100000101010100001111101000020011200000?11000011100000?000000010000?0?00?110000
+	'Prionobrama paraguayensis'		                    ?00110010?0011101110010?110000??10000110000001110010110000100010001???1?01000110000100001101101000?100011100000100000010000???1??110011111000001?0000001010000000010000010101010001100101010001000110000100110000100100000101010001011?0001100000000101000?0100000000000110000010000000010001111100000100010100001011100010000011200000001000?101000000000000010100?00000111000
+	'Pristella maxillaris'		                         ?00110010?1001100010000?110000100000001000000?1110001100000000010001011?01000??000110000?1010?100001?00110000001000000100010?01101000011??000001?0010001010100000000000010110010001100101000001?0?110000101110000100100000101010001010010010000000000000001010100010000011100011000010000000011100000000?01010000101110000010001120000001100001010000001000000000?0?00???1??000
+	'Probolodus heterostomus'		                      ?00110010??001100010000011000010000100101000001110001000000000001001011?01?00000000100001100??10000100010000000100000010100???1??0000011?0100001?00000010100000000000000101?0010001100101?00?01?001100000001100001001000001010100010100100100000000000000010111000100000111000110000100010100111100000001010100001111101100000011200000001000011100?0000000000?0??0?00???110000
+	'Prochilodus lineatus'		                         ?01010010?1001??0010000110???10??001011100000000?0?0100001000??010010001011010000110000000000?1????0?00110000000?00000????????????????0000?????1?????00010000000000?100?01011010000100001100011011100001010111111000100000000?100001000000000001001000000010110000110?00001000111000110?1010000000000001111010000010?????????0001010100000??0?100100000000000210??0?0000?111100
+	'Prodontocharax cf. melano'		                    ?00110010?000110?010010?1101001100010010?000?01100001100000000100001011?0100000000?100001100101010?11001100100?100000010000???1111000011111?0101?00000010100000000101000101110100011001011000011111?000000011000010010000010101000101101001000000000000000101010011000001110001100001000101001100000000010101000010111000?0000011200000001000?101001000000000000100?00????????0
+	'Psellogrammus kennedyi'		                       ?00110010?100110001000001100001000010010?000001100000000000000001001011?0100000000010000110?101???1100010000111100000010001000100100000000??0001?0000001010000000000000010101010001100101000?0100011000000011000010010000010101000101?01000000000000000000101010001000001110001100001000001001111100001010101000010110000???03001200000001100011100?000000000000000?01???110000
+	'Pseudochalceus kyburzi'		                       ?00110010?10011000100?001100001000010010000000111000?00000000000001??11?0?0000000001000011010?1000?10001000000?100000010001000110100001111100001?000?11?0111000000000000101000100011001010000010001100000101100001011000001010100010101100000000000000000000111000100000111010110000100010?0011110000000101010000100?????????0011200000??100?01???0?000000000?00??0?00000?????0
+	'Pseudocorynopoma doriae'		                      ?00110010?00011010100000110000100001001000001000?0?01100000000100000011?0100?00000011??01100101000010001?00001?1000000100010001101?00011?01?0001?0000001010000000000000020101010001100101000001?00110000000110?001001000001010100010100100??001000000001100010?0000000001100101100000000110011111100001010101000010110000???000112000000010000111000000000000000011100111?????0
+	'Pyrrhulina australis'		                         ??100??10?00010?0010011?0100010??011011001000000?0?011000100001001010?1?0100010001?000?0?0010?1000010001100000110000000000??????????00111000001000000001010?00000000100??0101010?00?00100100?010111110000101100001000000?0000?100000000?0000000100000?0001??00?00010000001000011000010001100000000000021001000000000?????????0001010100001001?1001?0000000000010??0?10???000000
+	'Rhaphiodon vulpinus'		                          ?11010011000010000000001010000100010010100000001101011?0100001?01000100101001000100000?00000111000?10001000000110000000001??????????001111000001?000011?0111000011010100201?0011010001110100?110111002?1101110000101111001000?1?0001000100000111000???0011??111000000010110000111110100111011111110000001000?0000110?????????0000??0??01010001111100000000000010??0?00???111100
+	'Rhoadsia altipinna'		                           ?00010010?00011000100?011101101000010010000001111000?00000000000001??11?0100000000010000?1010?101?01?10110000001000000100010001111000011??111101?0000?0001??00000000000010110010001100101000?010011100000??110000100100000101010001010010000000000000000000011100010000011101011000010001010011110000000101010000100?????????001???0000001000?111?0?0000000000?0??0?0?????????0
+	'Roeboexodon geryi'		                            ?00110010?0001110010000111100?10001100100000001110001?000001?0?00000001?0100?00?000100001100??1000?10001??0000?10000?01010?????????0001111000001?0000001011100000?000000101?0010001100100100?0100011100000011000010010000011101000101001001000000000000000101010001000001100001100001000100001110000000010101000010??????????0011200000001??0?1110010000000000?0??0?0?????????1
+	'Roeboides descalvadensis'		                     ?10110000?110111000000011100001000010010000001110000001000000020101??01?01101000100100?01100111000?10001000000010000010010??????????001111000001?000011?01100000010100001010001000100010010010100011?00010111000010110101010111000101101?10000000000?000001011100010000011?000110000100000101111110001101010100001?1?????????0011200?1000100111110010000000000000?0?00???111000
+	'Roeboides microlepis'		                         ?10110000?11011000000001110000100001011000000110?0?0001000000020101??01?01101000100100001100111000?10001000000010000010010??????????001111000001?000011?011100000101000010000011001000100100001000110000101110000101101010101110001011011100000000000000001011100010000011100011000010000010111111000110101010?0011110000???0000120000010100111110010100000000000?0?00???111000
+	'Salminus brasiliensis'		                        ??1010000?01000000?001??1100001000010??10000?000???01100000001201000000101101000?10000?00100111000?1000100000001000000100010001??110001111?000000000011?011100000?000000100?0010000101111100?010001000011010100001001000000011100001000000000001000000000010110000100000111000110000100111000111?0000000101010100111?1???????00012000000010000110000000000000000??0?00???110000
+	'Serrapinnus calliurus'		                        ?00110010?0001101010010?1101001000010010?000001100001100000000100001001?010000000011000011010?10010110011001000100000011000???111100001100110001?0000101010000000010100010101010001110101000001100111000000110000100100000101010001010010010000000000000001010100010000011100011000010000010011100100000101011110101110001101001120000000100001010010000000000?0100?00000111000
+	'Serrasalmus maculatus'		                        ??011?010?110101?010010?11000010000101110000?100?0?0000000000100101??000010000000100000011000?1???210001000010110000001000??????????000000??0001?1000000010000010000000021001010000?00100100001011110001001110000100100000001110011010001000000100000000001011000000000010000010100111111010011110000020100110000010?????????0000??0?11101110?110100?00000100010??0?00???111110
+	'Stethaprion erythrops'		                        ?00110010?1001100010000111000010000100001000?01110010000000000001001001?010000000001000011001010000100010000000100000010001000110100001?00100001?00110000100000000000000101?0010001100101000?0100??10000000?10000100?0000010101000101???000000000000000000101010000000101011001100001100001001111100001010101000011110??????20011201000111000?11??0??000000000?00?0?0?????????0
+	'Stichonodon insignis'		                         ?0?110010?100110?010000?110?0010000100?00000?011100100?0000000000001011?010000000?1100001100101???0100011000000100000010001000110100010000??0001?001000101000?000?100000101?0010001000101000?01000100000?0011000010010000010101010101???000000000000000000101?10?0000?001010001100001100001001111000001010101000011??????????0011210?1011100??1???0??000000000?0??0?00????????0
+	'Tetragonopterus argenteus'		                    ?00110010?10011000100001110000100001000000000011?0000000000000001001011?0100100000010000110011100011000100000001000000100010001101000011?0100001?001100001000000000000001011001000110010100000100011000000111000010010000010101000101000000000000000000000101010001000001110001100001000001001111?000010101010?00111110000000011121000011100001110000010000000100?0?00???11?000
+	'Thayeria boehlkei'		                            ?00110010?1001100010000?11000010000100001000001110001100000000001001011?01000001?001000011010?1??00100010000001100000?10001000110100001000100001?00010010100000000?000001011001000110010100010100011?000000110000100100000101010001010000010000000000000001000100010000011100011000010000000011000000000101010000100?????????0011200000011000?1110000000020000?0??0?00???110000
+	'Thayeria obliqua'		                             ?00110010??001100010010?11000010000100001000001110001100000000001001011?010000000001000011010?1??0010001000000?10000001000100011010000?000100001?0001001010000000000000010110010001100101000?01100110000000110000100100000111010001010000010000000001000001000100010000011000011000010000000011000000000101010000100?????????0011200000011000?11100?0000020000?0??0?00???1?0000
+	'Thoracocharax stellatus'		                      ??01????0?00010?1100011?1100000??001001001000000?0?01100100001?01?1???1?000???0000?000?0??????100001000111000001000000100010001101100011?0000001?000001?010101000000000020101010000000001000?0000111000?000100100100110??0000?100010100000??001?00?00?0111????01000000101100001001101110110010111100002000101000000110000???000110101001010001110000000000000110?00?00???11??00
+	'Triportheus nematurus'		                        ?01110000?1001100010010?1100001000010000000000010000110010001000000100010000100001000100010011100021000000001011000000100011?010010100110010000010000001010000000?00001020101011000000111000010000100001000110000100100100011111001000010000111100000?0011??110000000110110000110010100111?0011110000000101010000110?????????00110100000010000111000000000000010??0?00???111000
+	'Triportheus pantanensis'		                      ?01110000?1001100010010?1100001000010000000000010000110010001000000100010000100001000100010011100021000000001011000000100011?010010100110010000010000001010000000?00001020101011000000111000010000100001000110000100100100011111001010010000111100000?0011??110000000110110000110010100111?0011110000000101010000110?????????00110100000010000111000000000000010??0?00????????0
+	'Xenagoniates bondi'		                           ?00110010?0011101110010?110000??1000011000000110?1?010000?100010?00?0?1?0?00011000?1???01100??1110??00?1??0011?100100010000???111100001111100001?0000001110000?100000000101?1010001100100?10001000111000000110000100100000101010001111010011000000000000?1????0000000?0011000001000000001101111111000010101010000100?????????001120000000111??11??0?0000000000?0??0?00000?????0
+	'Astyanacinus moori'		                           ?00110010?100110?010000011000010000100100000?0110000?00000000000100000??0110000000010000110010100011000100000?1100000010001000110100001100110001?000?000010000000000000010100010001100101000001000110000001110000100100000101010001010010000000000000000001011100?1000001110??1100001000000001111000000010101000010??????????00012000000010000111000010000000000??0?01????????0
+	'Bryconamericus emperador'		                     ?00110010?1000101010000011000010000100100000?010?0?01000000000?00000001?0100000000010000110010100011000100000111000000100010?011000000110010?001?0001000010000000000000020100010001100101000001000110000000110000100100000101010001010?1000000000001000000101010001000001110001100001000100001111000000010101000011??????????00112000000010000111000000000000010??0?00????????0
+	'Oligosarcus bolivianus'		                       ?00111010??0?0100010000?11000010000100100000001100001000000000201000101?01000000100100001100101000?10001000000110000001001?????????0001111100001?000101?01110001010000001000001110110010100010100011000010111000010010000010101000101001000000000000000000101110001000001110001100001000100001110000000010101000011111000110000112000000010000111000000000000010000?00????????1
+	'Oligosarcus cf. jenynsii'		                     ?00111010?10?01000?00?0?11000010000100100000001100001000000000201000101?01001000100100001100101000?10001000000110000001001?????????0001111100001?000101?011100010100000010100011101100101000101000110000101110000100100000101010001010010000000000000000001011100010000011?000110000100010000111?000000010101000011111000?10000112000000010000111000000000000010000?00???110001
+	'Oligosarcus itau'		                             ?00111010?1000100010000011000010000100100000001100001000000000201000001?01000000000100000100101000?100010000001100000010001000110100001111100001?000000001100001010000001000001?101100101000001000110000001110000100100000101?10001010010000000000000000001011100010000011100011000010001010011100000000101010000111110000000001120000000100001110000000000000?0000?00????????0
+	'Oligosarcus longirostris'		                     ?00111010?10?0100000010?110000100001000000000011000010000000002010001?1?01000000100100001100101000?1000100000011000000?001??????????001111100001?000111?011000010100000010?00011101100101100001000110000101010000101100000101010001010010000000000000000000011100010000011?0??110000100010000111?000000010101000011??????????00112000000010000111000000000000000000?00????????1
+	'Oligosarcus menezesi'		                         ?00?11010?10?0100000010?1100001000010010000000110000100000000020101???1?01000000100100001100101000?10001000000110000001001100011100?001111100001?000101?011100010100000010?00011101100101000?0100011000000111000010110000010101000101001000000000000000000101110001000?011?0??110000100010000111?000000010101000011??????????001?2000000010000111000000000000000000?00????????1
+	'Oligosarcus pintoi'		                           ?00111010?10?1100010000111000010000100100000001100001000000000201000?01?01000000100100001100101000?10001000000?10000001001???0111000001111100001?000?01?011000010000000010?00011101100101100101000110000001110000100100000101010001010010000000000000000001011100?1000001110??1100001000100001111000000010101000010??????????00112000000010000111000000000000010??0?00???110001
+	'Attonitus ephimeros'		                          ?00110010?00111010100?0?110000110001001000001010?0?01100000000100000011?0100010000011??011001010000110011000001100000010001000111000001110100001?0000000010001000010000010101010001100100000101011111000010110000100100000101010001010010011000000000000000010100010000011000001000000001000011000000000101010000101110001100001120000000100001111000000000000?0100000100?????0
+	'Bryconaethiops macrops'		                       ??101000111001??001001??1100000?000121?10000?000?0?010000100??00000?0001?1001000?1100??0?1000?0???21000010101011100000100011?0200000000000??000010000000000001000?100000201?10100?000?1??100?11?111000000??110??010010??0001111?001?00?0000000010001000000?01000001110?0000000111000000100?0001100000011110000001010?????????0001010000001110?11??00?000000000?0??0?0?????????0
+	'Bryconamericus agna'		                          ?00110010?0001101010000011000011000100100000101100001100000000100000011?0100000000011??011001010?00100011000111100000010001001110000001100110001?000000001000000001000001010101000110010100000101111100000011000010010000010101000101001001000000000?00000001010001000001100000100000000100001110000000010101000010111000000000112000000011000111000000000000000100000????????0
+	'Bryconamericus alpha'		                         ?00110010??0011010100?0?1100001100010010?000101100001100000000100000011?01000?0000011??01100101000010001000011110000001000100?110000001100110001?000000001000000001000001010101000110010100000101111100000011000010010000010101000101101001000000000000000001010001000001100000100000000?0000111?000000010101000010111000?00000112000000?110001110000000000000?0??0000????????0
+	'Bryconamericus cf. exodon'		                    ?00110010?0001101010000011000011000100100000101100001100000000100000011?0100000000011??011001010000100010000111100000010001010110000001100100001?0000000010000000010000010101?10001100101000001?0111000000011000010010000010101000101101001100000000000000000010001000001100000100000000100001110000000010101000010111000100000112000000011000111000000000000000100000????????0
+	'Bryconamericus cf. iherin'		                    ?00110010?0001101010000011000011000100100000101100001100000000100000011?01000?0?00011??0110010100001000110000111000000100010001100000011?0100001?00000000100000000?0000010101010001100101000001111110000000110000100100000101010001010010010000000000000000010100010000011000001000000001000011?00000000101010000101111101100001120000000110001110000000000000001000000??111000
+	'Bryconamericus cf. rubrop'		                    ?00110010?0001101010000111000011000?00100000101100001100000000100000011?01000?0000011??011001010000100011000011100000010001000110?00001110100001?00000000100000000?000001010101000110010100000111111100000011000010010000010101000101?01001000000000000000001010001000001100000100000000100001100000000010101000010111000110000112000000011000111000000000000010000000????????0
+	'Bryconamericus exodon'		                        ?00110010?0001101010000?11000011000100100000101100001100000000100000011?0100000000011??011001010000100010000111100000010001010110000001100100001?0000000010000000010000010101?10001100101?000010001110000001100001001000001010100010110100110000000000000000001000100000110000010000000010000111000000001010100001?1?????????001120000000110001110000000030000?0100000???111000
+	'Bryconamericus mennii'		                        ?00110010?0001101010000011000011000100100000101100001100000000100000011?01000?0000011??011001010000100010000?111000000100010001100000011?0100001?000000001000000001000001010101000110010100000100011100000011000010010000010101000101001001000000000000000001010001000001100000100000000?000011100000000101010000100?????????00112000000011000111000000000000000??0000?0??????0
+	'Bryconamericus rubropictu'		                    ?00110010?0001101010000?11000011000100100000101100001100000000101000011?01000101?0011??011000?100001000110000111000000100010001100000011?0100001?00000000100000000?000001010101000110010100000111111?00000011000010010000010101000101101001000000000000000001010001000001100000100000000100001100000000010101000010111110110000112000000011000111000000000000010000000????????0
+	'Bryconamericus scleropari'		                    ?00110010?1001101010010?110000100001001000000010?0?01000000000000000001?0110000000010000110010100011000100000111000000100010?0110000001100110001?000000001000000000000002010001000110010100000100011?00000011000010010000010101000101001000000000000000000101110001000001110001100001000101001111000000010101000011??????????001120000000100001110000000000000?0?00?00????????0
+	'Bryconamericus thomasi'		                       ?00110010?0001101010000?11000011000100100000101100001100000000100000011?0100010000011??011000?100001000110000111000000100010001100000011?0100001?00000000100000000?0000010101010001100101000001111111000000110000100100000101010001010010010000000000000000010100010000011000001000000001000011?00000000101010?00101110101100001120000000110001110000000000000?0100000????????0
+	'Creagrutus anary'		                             ?00110010?1001101010000011100011000100100000101100001100000000100000011?0100010000010000110010101001000100001111000000100011?01000000011?0100001?000000011000000001000001010101?001100100100001000110000010100000100100000101?1000101001001100000000010000000010001000001000000100000000101000?00000000010101010010110000???0001120000000111001000000000000000?0??0000????????0
+	'Creagrutus cf. taphorni'		                      ?00110010?0001101010000011100010000100100000?01100001100000000101000011?01000100000100001100??101001000100001111000000100011?01100000011?0100001?0000000110000000?100000100?101?00110010??00?01?0?11100001010010010010000010101000101???00110000000011000000101000100000110000010000000010?000?0000000001010101001011100011000011200000001110?111000?000000000?0??000?????????0
+	'Cyanocharax alburnus'		                         ?00110010??001101010000011000011000100100000101100001100000000100000011?0100000000011??01100101000010001000001?100000010001000110?000011?0100001?00000010100000000100000101010100011001010000010?11100000001100001001?0000111010001010010010000000000000000010100000000011000001000000001000011100000000101010000101110000000001120000000100001110000000000000?01000000???????0
+	'Diapoma speculiferum'		                         ?00110010?0001101010000011000011000100100000101100001100000000100000011?0100000000011??011010?10000100010000011100000010001000110000001110100001?0000001010000000010000010101010001100101000101?001100000001100001001000001?10100010100100??00000000000100000010000000001100000100000000100111111000000010101000010111000??00001120000000100001110000000000000?0011100111?????0
+	'Diapoma terofali'		                             ?00110010?0001101010000011000011000100100000101?00001100000000100000011?0100000000011??011010?1000010001000001?100000010001000110?000011?0100001?0000000010000000010000010101?100011001010001010011100000001100001001000001010100010100100??00000000?00100001010000000001100000100000000?001111110000000101010000101110001100001120000000100001110000000000000?0011100111?????0
+	'Hemibrycon dariensis'		                         ?001100?0??001101010000011000011000100100000001100001100000000100000011?0100000000011??0110010100001000100000111000000100010??110000001110110001?000100001000000000000001010011000110010100000100011100000011000010010000010101000101001001000000000000000?010100010000011000001000000001000011110000000101010000101?????????001120000000100001110000000000000?0??000000??????0
+	'Hemibrycon surinamensis'		                      ?00110010?00011010100000110000110001001000000011000011000000001000000?1?01???00000011??01100??1000?1000100000111000000100010?0110?00001111100001?0001000010000000000000010100110001100101000?0100011?000000110000100100000101010001010?100100000000000000010??100010000011000001000000001000011110000000101010000101?????????001120000000100001110000000000000?0??0000????????0
+	'Mimagoniates rheocharis'		                      ?00110010??00110?0?000001100001??0000010?0000?11000011000000011000??011?010?00?000?1???0?101??10000100010000010100000010001000110100001110100001?00000000100000000?0000010101?10?01100101100?0100011?000000110000100100000101010001010?100??00000000000100001010?00000001100001000001000110011111000000010101000010101000110?00112000000?1000?11??0?000000000000010000111?????0
+	'Nantis cf. indefessus'		                        ?00110010?00011010100000110000110001001000001010?0?01100000000?0100?011?01000101?0011??0?1000?10100100011000001100000010001000110100001110100001?00000010100000000?000001010101000110010100000101111100?0001100001001?000010101000101001000000000000000000001?10001000001100000100000000100001?000000000101010000101?1000110?001120000000100001110000000000000?0000?00????????0
+	'Nantis indefessus'		                            ?00110010?00011010100000110000110001001000001010?0?01100000000?010??011?01000?0000011??0?1000?10100100011000001100000010001000110100001110100001?00000010100000000?000001010101000110010100000101111100000011000010010000010101000101001000000000000000000001?10001000001100000100000000100001?00000000010101000010101000111?001120000000100001110000000000000?0000?00????????0
+	'Odontostoechus lethostigm'		                    ?00110010??001101010010?11000010000100100000101100001100000000100000011?0100010000011??011001010100100011000011100000011000???111100001110110001?0000000010000000010000010101010001100101000?0101111?0000001100001001000001?1010001010?10010000000000000000010100010000011000001000000001000011?000000001010100001?1110001??00011200000001100011??000000000000000?0000????????0
+	'Gen nov. sp. nov. vermelh'		                    ?00010010-00011001000100110100101001001010001010---01000001000-100----1-01----0100-11--01--10-11010010-1100001010000001100000?111000001100110001?000001?01000100000100002011001--0110010110010101111100001?110000100100000101010000010010000000000000000001010100010010011101011000010001000011100000000101010000000?????????0010--0000001001?1011010000000000?1000000????????0
+	'Ectrepopterus uruguayensis'		                   ?00110010?1001100010000011000010000100101000001110001000000000201000011?010000000001000011010?1000010001100000010000001000??00110100001110100001?000000101000000000?00002010001000110010100000100011?0000001100001001000001010100010100100000000000000000010101000100000111000110000100010?00111?0000000101010000101111110000001120000000100001110000000000?00?0?00?0000???????
+	'Hyphessobrycon compressus'		                    ?00110010?10011000100000110000100001001000000011100010000000000010?1011?01000?00?001000011010?10000100011000000100000010001000110100001110100001?00000010100000000000000101000100011001010000010001?00000001100001001000001010100010110100?000000000000000101010001000001110001100001000?0?00111?00000001010100001011000000000011??0?1000100001110000001000000?0000?0000???????
+    ;
+    ENDBLOCK;
+
+          BEGIN ASSUMPTIONS;
+      TYPESET * UNTITLED = unord: 1 - 367;
+      ENDBLOCK;
+      

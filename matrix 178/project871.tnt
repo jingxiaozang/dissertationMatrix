@@ -1,0 +1,157 @@
+nstates num 7;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 16.15.41'
+111 28
+
+&[num]
+Synapsida/Diapsida          00000000000000000000??00000?0000000000000000000000000000000000000000000000000000000000????????????0????????????
+Proganochelys               0000000000000000000000000000000?000000000000000000000000100000000000000000000100000000000000?000000000000000000
+Australochelys              ?000?0??0??0?00000??000???0?000?0000001110000111??010001?0001??0???????????????????????????????????????????????
+Palaeochersis               0000?0??0??0?00000??001???0?000?0000001111100111?0010001?00010?00?0?????????0000000000???????0000000000000?0??0
+Proterochersis              ????????????????????????????????????????????????????????????????????????????????????11000?1??100000000001000?00
+Megapleurodira              0010110101?11200000???0111001201000?2011111?111100011011?3302100??101?00000?0000111011?0001121?0?12000?01010?00
+Kayentachelys               0010110111001000001000011?01000?000010111110111101111011000021?00000000000?000000110000000001200001000000000?00
+Kallokibotion               000?110?1100100000100001110110000110101111111111?1111011?0002??00000000000000?000??0000000?13200112000000000?00
+Mongolochelys               00101100110010101010010111011000010010111110111101111011?0002??000000000000?000001?00?001??00210011000000000?00
+Pleurosternidae             00101101110?1000001010011101100011102011111011111111101101002?000000000000?00000011000000?01?2001110000000000?0
+Baenidae                    00101101110?1200001000011101100111102011111111111111101101002100?000100000000000011000000?01?200112000000000010
+Xinjiangchelys              ????11??????????????????????111001?0?011111?1111?11110?102112??0000100000000??10???00?100?01?2?10110011000000?1
+Solnhofia                   0010111111111?00001?0011110111100110201111101111011110111220210000100000000?00?00?1000?????162110????0100??????
+Plesiochelyidae             001011111101?200001000011101111001?020111110111101111011042021000010000000000000011000000?0102?0112000100000?00
+Meiolania                   01?1110011001101110001011101111?01101111111111110111111102202?001100010000011100011000001101?2110110001000?00?0
+Ninjemys                    ??0111?????01?0111??01011101111?01?0111111111111?11111?1????????????????????11?????????????????????????????????
+Niolamia                    011?1100??001?0111??000111?1111001?010111111111101111111?2102???????????????1??????????????????????????????????
+Chubutemys                  ?01?11?0??0010000??00001110?111101?01011111?1111???11011?21021?012?1????0??2???????????0?????2?????????????????
+Sinemys                     00101101111212000001000111111110010010111110111101111011021?2???1201020?0012??110??00?000?01?2110121001001?00?0
+Otwayemys                   ???????????????00????0??????????????????1???1??????????????????012?0010?0002???00???0?00?????21?012000100??0?00
+Hangaiemys                  0010111111021200001010011111111001111011111?1111?111101102212??01?11?100010???????????1????10201012101100100000
+Dracochelys                 ?01?11?1?1121?00001?1001111?11100111101111101111?1111011?22?2??012000?0??112????????0?000?010??1012??110?1?0??0
+Ordosemys                   0010110?11111200001000011101111001111011111011110111101112112???1201010?0012??110??00?001???02110121?1100??0000
+Judithemys                  0010111?1102120000100001110111100110101111101111?111101102212??0111111??01010011011000100??102010121011101?0000
+Chelydridae                 1010111011121000001010?111011111011020111110111101111011042021111111111101110011011000110?01?211012??11101?1110
+Chelonioidea                001011??1???100000100?0111011110011??011111011110?111011142?211111111100?1010001111100??1001?21101210?1101?0010
+Trionychoidea               1010111?111?120000110?01110111100110?011111011110?1110110?2021111211120111110001111000110101?2?0?120001000?000?
+Testudinoidea               1010111?111?120000010?011101111101?0?01111101111011110110?2021111211111111120001111000110001?2?01120001001?0000
+
+;
+
+
+cnames
+{ 0 NA,_nasals present absent;
+{ 1 NA,_size small,_absent very_large;
+{ 2 NA,_nares_divided yes no;
+{ 3 NA,_nasomaxillary_sinus absent present;
+{ 4 LA,_lacrimal_bone present absent;
+{ 5 LA,_lacrimal_foramen present absent;
+{ 6 PF,_meet_on_midline no,_separated_by_na-fr_contact yes;
+{ 7 PF,_pf-po_contact present absent_(fr_to_orbit);
+{ 8 PF,_pf-vo_contact absent present;
+{ 9 PA,_processus_inferior_parietalis small_to_absent large;
+{ 10 PA,_pa-sq_contact present absent;
+{ 11 PA,_temporal_emargination fully_roofed_skull shallow_emargination deep_emargination;
+{ 12 ST,_supratemporal present absent;
+{ 13 JU,_cheek_emargination absent,_shallow,_large_Ju absent,_shallow,_large_Qj moderate_to_deep;
+{ 14 SQ,_meet_on_midline no yes;
+{ 15 SQ,_posterolateral_process no yes;
+{ 16 SQ,_sq-so_contact absent present;
+{ 17 SQ,_broad_sq-qj_contact absent,_narrow broad_contact_below_cavum_tympani;
+{ 18 PO,_length short long;
+{ 19 PO,_po-sq_contact present absent;
+{ 20 PM,_premaxillary_hook absent present;
+{ 21 MX,_accessory_ridge_on_triturating_surface absent present;
+{ 22 MX,_length_of_facial_region shorter,_equal_to_orbit_length longer_than_orbit;
+{ 23 VO,_vomer double single;
+{ 24 VO,__teeth present absent;
+{ 25 PAL,__teeth present absent;
+{ 26 PAL,_foramen_palatinum_posterius_large small-moderate very_large;
+{ 27 PT,_vertical_flange_on_proc_pter_ext absent present;
+{ 28 PT,_interpterygoid_vacuity widely,_slightly_open completely_closed_by_medial_extension_of_pt;
+{ 29 PT,_canalis_caroticus_internus,_posterior_to_foramen_basisphenoidale absent at_least_partially_covered_by_bs-pt covered_by_prootic;
+{ 30 PT,_canalis_caroticus_internus_at_least_partially_formed_by_pt no yes,_distal_to_foramen_basisphenoidale;
+{ 31 PT,_canalis_caroticus_lateralis_vs_canalis_caroticus_internus lateralis_equal_to,_larger_than_internus lateralis_smaller_than_internus;
+{ 32 PT,_foramen_posterius_canalis_carotici_interni not_formed_by_bs_and_pt formed_by_bs_and_pt,_and_located_midway_along_bs;
+{ 33 PT,_middle_ear_with_ossified_floor_formed_by_postero-medial_pterygoid_process process_absent present;
+{ 34 PT,_pt-bo_contact absent present;
+{ 35 PT,_deep_concavity_on_qu_ramus absent present;
+{ 36 PT,_bs-pt_space interpterygoid_vacuity_widely_open distinct_space,_perhaps_a_foramen_posterius_caroticum_laterale,_present closed_pt-bs_suture,_foramen_basisphenoidale_possibly_present;
+{ 37 PT,_intrapterygoid_slit absent,_small extensive,_completely_covering_foramen_basisphenoidale;
+{ 38 QU,_posterior_pocket_for_stapes present absent;
+{ 39 QU,_cavum_tympani absent present;
+{ 40 QU,_middle_ear_with_complete_lateral_wall not_complete complete;
+{ 41 QU,_cavum_tympani_curved_dorsally absent present;
+{ 42 QU,_acute_posterior_margin no yes;
+{ 43 QU,_incisura_columellae_auris separated_from_eustachian_tube with_eust_tube;
+{ 44 QU,_antrum_postoticum absent present;
+{ 45 QU,_covers_OP_laterally no yes;
+{ 46 QU,_cranioquadrate_space relatively_open a_well_defined_canal;
+{ 47 OP,_processus_paroccipitalis loosely_articulated tightly_fused;
+{ 48 OP,_fenestra_perilymphatica relativly_large relatively_small;
+{ 49 PR,_anterior_surface_otic_chamber faces_more_anterodorsally faces_more_anteriorly,_anteroventrally_(processus_trochlearis_oticum);
+{ 50 PR,_otic_chamber_thickness anterior_wall_thin anterior_wall_thick;
+{ 51 SO,_crista_supraoccipitalis low_to_absent distinct_sagittal_plate;
+{ 52 SO,_wide_occipital_plate wide_occipital_plate_with_depressions absent;
+{ 53 SO,_supraoccipital_with_horizontal_plate no yes;
+{ 54 EX,_recessus_scalae_tympani not_formed_in_bone formed_in_bone_with_fenestra_perilymphatica;
+{ 55 BS,_basipterygoid_articulation open_articulation sutured_joint;
+{ 56 BS,_foramen_anterius_canalis_carotici_interni widely_separated close_together;
+{ 57 BS,_foramen__basisphenoidale formed_by_bs,_equals_fpcci formed_by_bs+pt,_equals_fpcci formed_by_bs+pt,_more_posterior_fpcci_present absent_due_to_prootic_forming_fpcci absent_due_to_solid_pterygoid_covering;
+{ 58 BS,_foramen_posterius_canalis_carotici_interni equals_foramen__basisphenoidale formed_in_part_by_bs formed_entirely_by_pt formed_by_prootic;
+{ 59 BS,_paired_pits absent present;
+{ 60 BS,_ventral_BS/BO_tubercle single paired absent;
+{ 61 CA,_columella_auris thick,_without_distinct_footplate thin,_with_distinct_wide_footplate;
+{ 62 JW,_splenial present absent;
+{ 63 CE,_proportions as_high_as_wide wider_than_high_for_posterior_cervicals;
+{ 64 CE,_central_articulations unformed formed;
+{ 65 CE,_anterior_end_of_eighth_cervical unformed cotyle condyle;
+{ 66 CE,_ribs present absent;
+{ 67 CE,_transverse_processes middle_of_centrum anterior_edge_of_centrum;
+{ 68 CE,_doubled_transverse_processes present_on_any_cervical absent_on_all;
+{ 69 CE,_fourth_cervical_articulation amphicoelous biconvex opisthocoelous;
+{ 70 CE,_double_articulation_between_5_and_6 absent present;
+{ 71 CE,_double_articulation_between_6th_and_7th absent present;
+{ 72 CE,_double_articulation_between_7_and_8 absent present;
+{ 73 CE,__strong_ventral_process absent_on_all_centra present_on_posterior_centra;
+{ 74 CE,_neural_spine_on_8th_cervical high low;
+{ 75 CE,_eighth_cervical_centrum amphicoelous procoelous biconvex;
+{ 76 CAU,_tail_rings absent present;
+{ 77 CAU,_tail_club absent present;
+{ 78 CAU,_biconcave_caudal_near_base_of_tail absent present;
+{ 79 CAU,_central_articulations posterior_not_procoelous all_centra_procoelous;
+{ 80 CAU,_chevrons well_developed_and_present_on_nearly_all_caudals small_or_present_on_only_a_few_caudals;
+{ 81 SH,_coracoid_foramen present absent;
+{ 82 SH,_coracoid_columnar no,_flat_plate yes;
+{ 83 POSTC,_paddles_formed_by_limbs absent present;
+{ 84 PEL,_pelvis_sutured_to_shell not_sutured_to_shell sutured_to_shell;
+{ 85 PEL,_pelvis_narrow pelvis_widely_placed ilia_close_to_midline;
+{ 86 CAR,_first_thoracic_rib extends,_nearly_extends_to_peripherals extends_less_than_halfway_across_costal;
+{ 87 CAR,_anterior_articulation_of_first_thoracic_centrum faces_anteriorly_to_slightly_anteroventrally faces_strongly_anteroventrally;
+{ 88 CAR,_knob_on_ventral_surface_of_nuchal_that_articulates_with_8th_cervical absent present;
+{ 89 CAR,_tenth_thoracic_rib reaches_8th_costal free_from_costal;
+{ 90 CAR,_sacrum_with_dorsal_10 no yes;
+{ 91 CAR,_ninth_costal_bone present absent;
+{ 92 CAR,_Suprapygal nearly_equally_subdivided_into_two first_suprapygal_much_smaller_than_second only_one_suprapygal second_suprapygal_absent_or_much_smaller_than_first second_suprapygal_divided_by_first no_suprapygal three_suprapygals;
+{ 93 CAR,_supramaginal_scales 12 3 none;
+{ 94 PLA,_plastral_fontanelles_surrounded_by_hyo-hypoplastra absent retained_in_adult;
+{ 95 PLA,_carapace-plastron_attachment sutured ligamentous;
+{ 96 PLA,_plastral_buttresses reaching_peripherals reaching_costals;
+{ 97 PLA,_entoplastron_separating_epiplastra yes no;
+{ 98 PLA,_dorsal_process_on_epiplastron large,_reaches_carapace smaller_than_length_of_epiplastron absent;
+{ 99 PLA,_epiplastron broad narrow;
+{ 100 PLA,_epiplastral_beak absent present;
+{ 101 PLA,_bridge_of_plastron broad narrow;
+{ 102 PLA,_mesoplastra present absent;
+{ 103 PLA,_xiphiplastron moderately_broad narrow;
+{ 104 PLA,_xiph_median_notch absent present;
+{ 105 PLA,_gular_scales 2_pair 1_pair;
+{ 106 PLA,_inframarginals 3-4_pair 0-2_pair_(ax,_ing);
+{ 107 PLA,_abdominal_scute_relative_to_midline meets_on_midline withdrawn_from_midline;
+{ 108 PLA,_pectoral_scute not_on_epiplastron on_epiplastron;
+{ 109 PLA,_femoral-anal_sulcus not_reaching_hypoplastron reaching_hypoplastron;
+{ 110 PLA,_midline_sulcus_sinuous no yes;
+;
+
+
+ccode  - 0.110;
+
+
+;

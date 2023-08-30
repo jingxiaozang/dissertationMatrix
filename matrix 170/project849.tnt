@@ -1,0 +1,87 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 16.10.41'
+47 22
+
+&[num]
+Homogalax                01???0?00?00???011001000???0001100000000000100?
+Isectolophus             ?1???00?00100?????00100????????1???01100110110?
+Eomoropus                ?1???00?1?0010?????0??0????00011???1?200010000?
+Moropus                  010?00011?001010110011000002001140012200010002?
+Heptodon                 01100000001000?0110010001000001100011100110111?
+Helaletes                0111020200100000110010001000001100011100110111?
+Colodon                  1111?2020?10?0?0110010001?00001100011100110111?
+Protapirus               111112010?100??????1????????????00011100110112?
+Tapirus                  1111120101100010110110001010101100011100110112?
+Lophialetes              11??0?010????000110010?012000011?0011110110110?
+Schlosseria              ?1????0?0????0??1??0?????2?00011?0011110110110?
+Deperetella              ????????????????1110???0?2000011???11100110112?
+Hyrachyus                0100000000100010110010001001101100011100110112?
+Amynodon                 01001110011100??11121000?001111100012201111112?
+Hyracodon                0100000000100010110010001001201110011101112112?
+Juxia                    01?0?1000?1000????101?????00001100011101113112?
+Paraceratherium          0101110101110010111010110101?01110211101113112?
+Trigonias                0102100001110111111210111101111121111101113112?
+Subhyracodon             0102100001110111111210111101111121111101113112?
+Uintaceras               0100?000011101111112?010?00111112??11101110112?
+Hyracotherium            0100000000000000110010000000001100000000000000?
+Phenacodus               00200000000000?00000000000000?0000000000000000?
+
+;
+
+
+cnames
+{ 0 Nasals_length long short;
+{ 1 Nasals posteriorly_narrow posteriorly_broad;
+{ 2 lacrimal present absent State_2;
+{ 3 Premaxilla small,_contacts_nasals robust,_no_nasal_contact small,_no_nasal_contact;
+{ 4 Incisive_foramen paired single,_large,_median;
+{ 5 Maxillary_(preorbital_)_fossa shallow_or_absent well-developed vertical_groove;
+{ 6 Infraorbital_foramen over_premolars over_molars;
+{ 7 Posterior_edge_of_narial_incisions over_canine_or_P1 over_P4_or_molars retracted_and_stepped;
+{ 8 Supraorbital_foramen absent present;
+{ 9 Postglenoid_foramen present absent;
+{ 10 Postglenoid_process facing_anterior facing_anterolateral;
+{ 11 Anterior_face_of_postglenoid_process flat,_undivided convex,_with_median_ridge;
+{ 12 Posttympanic_process long short;
+{ 13 Postcotyloid_process absent present;
+{ 14 Acromion_process_of_scapula present absent;
+{ 15 Deltopectoral_crest_of_humerus absent_or_low_ridge present,_hooks_laterally;
+{ 16 Entepicondylar_foramen present absent;
+{ 17 Capitulum_of_humerus unkeeled keeled;
+{ 18 Lateral_process_of_proximal_radius present absent;
+{ 19 Radial_facet_of_scaphoid round,_short_lunar_contact emarginated_lunar_contact long,_straight_lunar_contact;
+{ 20 Anterior_iliac_crest convex concave;
+{ 21 Fovea_of_femur marginal central;
+{ 22 Lesser_trochanter_of_femur prominent reduced_or_absent;
+{ 23 Medial_trochlear_ridge_of_femur equal medial_larger_with_tuberosity;
+{ 24 Gastrocnemius_fossa_of_femur absent present;
+{ 25 Patella unflattened flattened,_with_medial_process flattened,_elongate;
+{ 26 Intercondyloid_tubercles_of_tibia lateral_higher medial_higher;
+{ 27 Trochlea_of_astragalus lined_up_above_neck laterally_offset_from_neck State_2;
+{ 28 sustentacular_and_distal_calcaneus_facets_of_astragalus separate confluent confluent,_form_ridge distal_calc_facet_absent;
+{ 29 Ectocuneiform posterior_process_absent posterior_process_present;
+{ 30 Navicular_facet_of_astragalus not_saddle-shaped saddle-shaped;
+{ 31 Pes pentadactyl tridactyl;
+{ 32 Upper_incisors spatulate conical buccolingually_compressed tusk-like absent;
+{ 33 I1 not_chisel_shaped chisel_shaped absent;
+{ 34 I2 present,_non-lanceolate lanceolate absent;
+{ 35 Postcanine_diastema short_or_absent long;
+{ 36 upper_P1 present,_diastema_behind present,_no_diastema_behind absent;
+{ 37 lower_p1 present,_diastema_behind present,_no_diastema_behind absent;
+{ 38 Upper_premolar_cross_lophs unconnected connected_into_U;
+{ 39 Upper_molar_parastyles large small,_narrow;
+{ 40 Upper_molar_paraconules distinct indistinct_or_absent;
+{ 41 Upper_molar_metaconules distinct indistinct_or_absent;
+{ 42 Metastyle strong,_undeflected strong,_labially_deflected lingually_deflected absent;
+{ 43 Lower_molar_metastylid mesiolingually_directed labially_positioned;
+{ 44 Lower_molar_metastylid_(i.e.,_twinned_metaconid) present absent;
+{ 45 m3_hypoconulid present,_prominent present,_small_and_narrow absent;
+{ 46 Upper_molar_premetaconule_crista//lower_molar_lingual_postcristid present absent;
+;
+
+
+ccode  - 0.46;
+
+
+;

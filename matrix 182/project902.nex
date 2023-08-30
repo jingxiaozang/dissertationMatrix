@@ -1,0 +1,194 @@
+#NEXUS
+
+    [ File output by Morphobank v3.0 ?; 2023-07-28 01.21.14 ]
+
+    BEGIN TAXA;
+    DIMENSIONS NTAX=14;
+    TAXLABELS
+    		'Antagminae'
+		'Lonchocephalidae'
+		'Solenopleuropsinae'
+		'Solenopleurinae'
+		'Proetida'
+		'Lichida'
+		'Odontopleurida'
+		'Calymenidae'
+		'Homalonotidae'
+		'Cheiruridae'
+		'Encrinuridae'
+		'Pterygometopidae'
+		'Phacopidae'
+		'Dalmanitacea'
+    ;
+    ENDBLOCK;
+
+    BEGIN CHARACTERS;
+	DIMENSIONS NCHAR=27;
+	FORMAT DATATYPE=STANDARD GAP=- MISSING=? SYMBOLS="0123";
+	CHARLABELS
+		 [1] 'Cranidial anteromedian border'
+		 [2] 'Marginal spines on protocranidial anterior border'
+		 [3] 'Preglabellar field'
+		 [4] 'Anterior axial furrow ? pits'
+		 [5] 'Glabellar shape'
+		 [6] 'Paired glabellar tubercles'
+		 [7] 'Transglabellar furrows'
+		 [8] 'Frontal glabellar lobe with longitudinal furrows defining depressed abaxial region'
+		 [9] 'Isolated preoccipital lateral glabellar lobes'
+		 [10] 'Median occipital node'
+		 [11] 'Exoskeleton pitting'
+		 [12] 'Eye ridges'
+		 [13] 'Eye lobe swellings along anterior margin of protocranidium'
+		 [14] 'Strongly proparian ?'
+		 [15] 'Fixigenal spine ?'
+		 [16] 'Three large protocranidial marginal spines ?'
+		 [17] 'Arching of lateral margins'
+		 [18] 'Librigenal spine'
+		 [19] 'Dense row of librigenal-rostral border spines'
+		 [20] 'Number of marginal spines on hypostome ?'
+		 [21] 'Elongate protopygidium ?'
+		 [22] 'Paired axial spines on protopygidium'
+		 [23] 'Marginal spines on protopygidium'
+		 [24] 'Broad, flattened protopygidial pleural tips'
+		 [25] 'Protopygidial border furrow'
+		 [26] 'Protopygidial doublure ?'
+		 [27] 'Terrace lines on protopygidial doublure'
+	;
+	STATELABELS
+		1
+		'absent'
+		'present'
+		,
+		2
+		'absent'
+		'sparse'
+		'dense row'
+		,
+		3
+		'absent'
+		'present'
+		,
+		4
+		'large'
+		'small or indistinct'
+		,
+		5
+		'expanding forward'
+		'parallel sided'
+		'barrel shaped'
+		,
+		6
+		'absent'
+		'tubercles present'
+		'coarse spines'
+		,
+		7
+		'absent'
+		'moderate to strongly incised'
+		,
+		8
+		'absent'
+		'present'
+		,
+		9
+		'absent'
+		'present'
+		,
+		10
+		'absent'
+		'present'
+		,
+		11
+		'absent'
+		'present'
+		,
+		12
+		'present'
+		'absent'
+		,
+		13
+		'absent'
+		'present'
+		,
+		14
+		'present'
+		'absent'
+		,
+		15
+		'absent'
+		'present'
+		'with small subsidiary spine'
+		,
+		16
+		'absent'
+		'present'
+		,
+		17
+		'gentle'
+		'steep'
+		,
+		18
+		'absent'
+		'present'
+		,
+		19
+		'absent'
+		'present'
+		,
+		20
+		'0'
+		'6'
+		'8'
+		,
+		21
+		'absent'
+		'present'
+		,
+		22
+		'absent'
+		'present'
+		,
+		23
+		'absent'
+		'present'
+		'present, branching'
+		,
+		24
+		'absent'
+		'present'
+		,
+		25
+		'present'
+		'absent'
+		,
+		26
+		'curved'
+		'flat'
+		,
+		27
+		'absent'
+		'present'
+		
+	;
+	MATRIX
+	'Antagminae'		                  000000000000000000020000000
+	'Lonchocephalidae'		            000000100000001001??00001??
+	'Solenopleuropsinae'		          0000000000000000010?10101??
+	'Solenopleurinae'		             000000100100000?0???00001??
+	'Proetida'		                    101121000101000001001100010
+	'Lichida'		                     110112001100000001021111111
+	'Odontopleurida'		              110112001100002001100111100
+	'Calymenidae'		                 120111100100102110121020100
+	'Homalonotidae'		               120111100100102010121020100
+	'Cheiruridae'		                 010111100110111100010110100
+	'Encrinuridae'		                110101100110112100110010101
+	'Pterygometopidae'		            110101100110112110110010101
+	'Phacopidae'		                  1101011101?10120101?0010100
+	'Dalmanitacea'		                010101110110011?101?00101??
+    ;
+    ENDBLOCK;
+
+          BEGIN ASSUMPTIONS;
+      TYPESET * UNTITLED = unord: 1 - 27;
+      ENDBLOCK;
+      
