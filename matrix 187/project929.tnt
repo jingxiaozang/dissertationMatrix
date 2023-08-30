@@ -1,0 +1,314 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 16.26.56'
+258 38
+
+&[num]
+Ornithorhynchus          001111?1002101110112000?00102100100101---101101010-111010010200??011??0101100101011011001-0000000-00???1?000101010-000001101000000102110101000100542???-?????000----01----0?000??110000000?010000?110?00000?10000010301000001001000-000-202?00-0-00-01010-000??-1?
+Tachyglossus             101011?1002000110020000?00102100100101---100101010-111010011000011010?010110010101101?001-2011100-0000000010101220-000011001?01000101110101000102542???-?????000----01----0?000??110000000?010200?110?00000?10000010401010100000000-100-202?20-0-00-01010-100??-1?
+Vincelestes              10010???112?0011?1121010?2?101????10??12110011100111101111?????01??1?01?11?001??0???1101112000000-00110000110-1110-0000011?1?????????????????????13100??001-0???0101200000??000?00010?0?00???0000101001200???0??????????0000?000000-000-200000-0000-000000000??01?
+Ukhaatherium             0?0?1???????????????1?101?0?0?????????0?210?1??001?100?1?1?0?????????01011?001???10??1????111001101011011011101?2100?000??0??????????????????????0010000??1?????000?20??000?0000??????1??11???????00?????0???????????????3????????????0-?????10??????????101???01?
+Asioryctes               000?0110101?000-?1001011????????????????????????????????????210???11????????????0???1?0?0?11???11010???11??1??1?010??0????????????1???????10?????00100000010????0?0120000000?00???000110011??3?00000000110???????????????3?0?2?10?101?0???1?2???0???1??11101???0??
+Deltatheridium           ???????????????????????????????????????????????????????????????????????????????????????????????????????????10-???0-?????11???????????????????????11000000010?1220?012011001?010???01??1??10???0???00011??0??????????????210002000010100--01?1100000-000001110??0??
+Mayulestes               00010??0110?00???????01???01??????10000?11111110110010111111?????????1101??011??1???110101000?10110011000?1110111000010011010?000????????????????000002000110122000120110010010?11010?10010??10000000112?0???????????????100?2??1110100-?011110001101????111111110
+Pucadelphys              00010??0110?011??11010111?0??10???20000?201111100101101111?1?????????11011000100100?110101000110110001000?11101110000100110101000????????????????0000021?1110122010120110010010001110010010??1000000001200???0??????????1?0001011110110-00111100011000?1?111111110
+Andinodelphys            00010??011??0????01?1?11??0??1????2?000?2??11110011??01111?12???0??1011011?01100100?11?????00110110001000?111?111000?10011?10?000????1001000?011?0000021001101220000201100?0010001100?10010??101?000001200???0??????????1?000?011110110-001?11000110000111111?????
+Didelphis                1??101?10?10001001221011?20?01010120001110011110?1??101111002110111100101110?10111001102112110001100010110?10-11211001000-1111000010110110111000000000210111112201012011001001000110101001001?0111002112000?001000011410120002100010101010111100011101000111001010
+Monodelphis              ?10101?11010001001101011120?0101012000022?101?101101100111002110111100101110?101110?1102111110001100010?00110-10111001000-1110000010110110111010000000210111112201012011001001001110101001001?0110002112000??01000010410120002110010101010111100011101000111001010
+Caluromys                1101?1??10??0?1?0?221???00?101?1??1?001121?01110011??010?1?0211??1?10?10111?01?1??0011????1??0?011?0???11?1???1??11???000-1????????????????1?0?0?0000011?11?1122??01201100?000000?102?1001001?00?0000012000??010???1????????????0?????1010?0?100???????11111?01010
+Glironia                 1001?1?11???0?1?0?121???01?101????1?001221?01111111??010?1?0210011010?10110?01?1?1?110????1??01?11?001011?0???1????0??000-1???????1?11?1????1010?0000021?11?0122??0120110010010011101?1001001?01?0002112000?????????02??????????0?????1110?0?100???????0011??01010
+Caenolestes              000001?110?1001101??1110?2??010001200002002112100101101111002110100100101110110111011102000110001100010100110-112110010010?1?0011000110?10000011010010--111121221211?0100010010011102010010011010?10211200000000010102100200020100101010001?2110001100111111001000
+Dasyuroides              ??0001?1100?001011001?110?0101000120000220201110010010011100202010110?1011?0010111010102002111101100010110010-0--11001200-20110010001100110000120110002100110122000120110010010010102110010011011000?102000?0000???0030?120012?1001010110110211101121??11111001111
+Dasyurus                 11?101?1101?0010?1??1?11?2010100012000????210111?1?0000111002020101101101110010111021102112111101100110110110-1011101120??2010001000110011000012011000210011012201012011001001001010211001001101100021?200010000?10?03001200121000101011111021110111111??111001111
+Phascogale               11?001?11011001011??11110201010001200002102112100100000111002020101101101110010111011102112111101100110110010-1011101120??2011001000110010000012011000210011012202012011001001001010211001001101??00?102000??000?????30?120012000010101111102111011111111111001111
+Notoryctes               00?011?1?0??20?????01?1001002100003000022001010101111001010020???001?00011100111110011200-0110101100010110010-0--111-1211120?1301001?111?11000002210003-0-1-0022010-20100011010?00?0201001000?01??000?11001??0001?002100??00?2?1001?1?11?11?2111????1????1110??-1?
+Echymipera               0001011110010011112?111012012110013110021111130011000001110020110000001011001010100001000-2010021100000111012-0--11001111120001000112100011001002110002111111122110120110011010011102110010012011?10201200??0000?????3??120002010010101020102100001210111111001010
+Perameles                00000111?0010011012?1?10120121100131100201111200010000011100201110000?1011001010100001000-2011021100001111012-0--11000111120011000112?00010001002010102111111122110120110011110011102110010012011?102012000?0000?0002310120012010010101120102110001210011111001011
+Dromiciops               ?0000101?0000010111?1?1101000101011000122100111001101000110020201001021011100101110?1102112110001100010000010-10210001200-21?1021010110?1011000000000010011101221101201000110100001020100101020?1?002012001211100100021012001211001110110111211101121?111111001010
+Trichosurus              1?0101?110000010111211110100?1010110001121?011100111100111002000101100101110110111011102112110101100010010010-10111001200-21?102101011001011010002201100110111001210101-1010010110?1321111110201000021120012?011110011111201121100101010101221101112?1001111010011
+Phalanger                1001000?10100010101?111101000101011000112?0011100111100111001000101100101110010111011002112110001100010010110-101111-1200-21?102101011001011010002201100110111111210101-1010010110?132111111021?0000211200121011???0?21?120102010010101000122110?112100?1111010011
+Petaurus                 110101111010000-1101111101002101011000112?001?100110000111001100001101101100010111011102112110101100010000010-101101-1200-200102100011001011010002201010110121111010101-0011010010?03211111101010?0000120012111112001211110102110010101010112110111210011111010011
+Pseudochirops            1002010110010010102111100100010101200011210011100111100011001100??1100101110010111021002112110001100010010110-101111-1200-200102101011000011010002301001110011021211001-0110010010113211111102010?0001120012?11112?0121111010211001010101011211011121?001111010011
+Cercartetus              0000011?101?000-?11111110100110101100002211?1110011??0?1110?1?001011001011?0010111001102112110001100010000010-112101-1201120?102100011001011010002301000110111111211101-001001001?1?321111110203?0002112001???1?1??0121?1100120100101?10001021101112100?1111011011
+Macropus                 10020000100000101022111101010100??3000212010111111101000110000000011121111111111010011220100011111010111100211102110110112201120011000-01?2--1032230111011011022101001?-1010010111113210011102120100?112011210101200121112001211001010112111011011121?00?111010011
+Dendrolagus              100101001101?010102211110101210001300021212011101111100111000100000111111110111101001102011000011101010110020-102110002112201020001000-0102--10312301110110110221110011-1010010111113210011102120000?11201???010?????2??1200121000101010211101101112110?0111010011
+Dorcopsis                10020001100000101022111000012100013000202100111111111000110000000001121111111110010011220100011111010111100211102110010112201120011000-0112--10322301110110110221?10011-1010010111113210011102120?00211201???????????2??1200121100101010211101101112010001?1010010
+Thylogale                1002010110000010102211110100210001300021202011111110100011000?000011121111111111010011220100010111010111100211102110110112201120011000-0112--10322301110110110221010011-101001011111321001110212000021?201???0101?0?1211??0012100?????10211101101??????11?11?10010
+Vombatus                 ?00100010010000-1112111101001000012000122?201111111010011100?000101102101110110101011002111110011100010111110-0--1000120??21?1001010110010110100043011101100?0000-1001?-011011111101?2100121030210001?12001100?0?2102111221002010010100--0110100-11210?1?111010001
+Phascolarctos            100200010010000-002211100100100001100011210010100111100111000000001110101110110111010022110110011100010111110-0--1000120??21?100111011001?11010002301011110120000211011-0110101111112010011102111?001112001??000??102111120012110010100-20100110-11100011111011011
+Asiatherium              ????????????????????????????0??????0???????01?1?0??????1???1?00??????01??1?0?1???10??1???????????????????????????????????????????????????????????????00011?1??????01?0??00??0?0???????????0?????????0?1??????0?????????????0??????11??10?0??1100?????????1??0??01?
+Herpetotherium           ????????????????????1?????0????????????21?111?1001?1000??????????????11?1??00101110?1102010010001100010101112?1110-0?10011?1???????????????0?????0000021011121220001201100??0100011?2?1??10011?11?002?12?0???0??????????1200021100101010001?1110011111011111001100
+Peradectidae             ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????0000200011?122??01201?00?00100???00????????101?????????????0??????????120002?100101011201?11000011000001110111?1
+Djarthia                 ??????????????????????????????????????????????????????????????????????????????????????????2110101100010000110-1121100?200-2?0??????????????????????000211111??2????1?01?00??????????????????????????????????????????????1?00?20100101010001?21000111?010?1110??1??
+Palaeothentes            ???????????????????????????????????????????1131?0110??1?11?1?????????1101??011??????1??1000011001100010100112?112110010010?10????????????????????22000--110121121211101100??????????????????????????????????????????????????????????????????????????????????????0?
+Yalkaparidon             ??????????????????????????????????????????????????????????????????????????????????????????101?111100110110?1??102110?1100-210????????????????????2?0-03---1-10?0011-?11?00?0?1001?????1?01???1?40?0020?200??????????????1200?2?1001010111010210001120?1?011?001-?0
+
+;
+
+
+cnames
+{ 0 Atlantal_foramen absent present;
+{ 1 Atlas_transverse_foramen absent present;
+{ 2 Atlas,_posterior_extent_of_transverse_process absent present;
+{ 3 Atlas,_cranial_facets_shape only_concave dorsal_edge_curved dorsal_edge_envelops_the_occipital_condyle_medially;
+{ 4 Atlas,_transverse_process_ventral_to_atlantal_foramen_groove absent present;
+{ 5 Atlas_ventral_arches open complete;
+{ 6 Atlas_intercentrum absent present_with_no_fusion;
+{ 7 Axis_transverse_foramen open enclosed;
+{ 8 Axis_posterior_spinous_process_extension absent present;
+{ 9 Axis_extra_pair_of_transverse_processes_on_the_ventral_surface_of_the_body absent present;
+{ 10 Axis_anterior_facets_(prezygapophyses)_and_dens_connection not_linked linked facets_extend_ventral_to_the_dens;
+{ 11 Suture_between_rib_and_axis_is_visible no suture_visible;
+{ 12 Axis-C3-C4_fusion no_fusion axis_and_C3_fused axis-C3-C4_fused;
+{ 13 C3-C4_ventral_sagittal_process absent present;
+{ 14 C5_transverse_process_displays_two_heads absent present;
+{ 15 C5_transverse_process_heads_overlap_transversally absent present;
+{ 16 C5_and_T1_body_length subequal_or_C5_longer_than_T1 C5_shorter_than_T1;
+{ 17 C6_transverse_process_posterior_extension absent present;
+{ 18 C6_spinous_process absent protuberance lamina;
+{ 19 C7_transverse_foramen absent incipient present;
+{ 20 Articulation_among_cervical_vertebrae only_bodies_articulate prezygapophyses_and_postzygapophyses_in_addition_to_bodies_articulate;
+{ 21 Articulation_between_C4-C5_bodies_type flat saddle;
+{ 22 T1_transverse_process absent present;
+{ 23 T1_transverse_process_level level_with_prezygapophysis lower_than_prezygapophysis;
+{ 24 First_thoracic_vertebra_with_a_tall_spinous_process_(relative_to_other_vertebrae) T1 T2;
+{ 25 First_thoracic_vertebrae_with_prezygapophysis_facing_laterally T1 T2 T3;
+{ 26 Thoracic_vertebrae,_intervertebral_foramen_enclosed absent present;
+{ 27 Last_lumbar_vertebra,_foramen_on_dorsal_arch absent present;
+{ 28 Metapophyses_in_third_lumbar_vertebra_anterior_to_last absent anterior dorsal;
+{ 29 Caudal_vertebrae,_count 9_or_fewer 11_or_more;
+{ 30 Caudal_vertebrae,_hyperexpanded_chevrons absent present;
+{ 31 Prehensile_tail absent present;
+{ 32 Sternal_cartilages,_ossification_(=_sternal_ribs) absent present;
+{ 33 Ribs,_articulation_with_sternum with_single_sternebra with_two_sternebrae;
+{ 34 Coracoid_process separate_and_large hook-like_process small_process small_protuberance_or_absent;
+{ 35 Ventral_extension_of_acromion ventral_(beyond)_glenoid does_not_extend_beyond_level_of_glenoid;
+{ 36 Crest_on_medial_aspect_of_scapula,_near_the_caudal_border absent present;
+{ 37 Separate_large_interclavicle absent present;
+{ 38 Infraspinous_fossa_width less_than_1/4_its_length between_1/2_and_1/4_its_length more_than_1/2_its_length;
+{ 39 Scapular_spine_width_at_neck_level narrower_than_infraspinous_fossa subequal wider_than_infraspinous_fossa;
+{ 40 Infraspinous/supraspinous_fossa_width_at_neck_level infraspinous_fossa_narrower subequal supraspinous_fossa_narrower;
+{ 41 Humerus,_medial_relief_for_teres_major_m. absent present;
+{ 42 Humerus,_lateral_ridge absent ridge_or_crest massive_crest_continuous_with_deltopectoral_crest;
+{ 43 Humerus,_capitulum_for_radius spherical cylindrical;
+{ 44 Humerus,_entepicondylar_foramen absent present;
+{ 45 Humerus,_olecranon_fossa_or_foramen absent small_fossa large_fossa foramen;
+{ 46 Humerus,_laminar_supinator_crest absent present;
+{ 47 Humerus,_greater_tuberosity_height_relative_to_humeral_head_height equal_or_greater_tuberosity_is_lower greater_tuberosity_is_higher;
+{ 48 Humerus,_extension_of_the_deltoid_crest restricted_to_proximal_half_of_humerus reaches_distal_half;
+{ 49 Humerus_trochlea absent present;
+{ 50 Humerus,_proximal_extension_of_capitulum_and_trochlea longer_proximal_extension_of_trochlea equal;
+{ 51 Humerus,_medial_epicondyle_size small large;
+{ 52 Humerus_distal_end_size small large;
+{ 53 Humerus,_head_shape symmetrical/ovoid mediolaterally_compressed;
+{ 54 Humerus,_capitulum_lateral_extension absent present;
+{ 55 Humerus,_shaft_curvature straight curved;
+{ 56 Ulna,_proximal_epiphysis,_distal_most_portion_of_articular_surface_for_humerus ulnar_area_is_less_than_1/2_of_radial_one more;
+{ 57 Ulna,_coronoid_process absent present;
+{ 58 Distal_process_of_ulna spherical,_contributing_to_a_ball_and_socket_articulation nonspherical;
+{ 59 Radius,_articular_facet_for_humerus circular antero-posteriorly_compressed;
+{ 60 Lunate absent_or_fused_to_other_elements very_small relatively_large,_with_contacts_with_other_carpals;
+{ 61 Prepollex absent present;
+{ 62 Distolateral_process_of_scaphoid_separates_dorsally_lunate_from_magnum absent present present,_separates_dorsally_lunate_from_magnum;
+{ 63 Proximal_aspect_of_magnum single_head saddle-shape_articulation_with_lunate;
+{ 64 Magnum,_facet_with_MC_III flat,_convex_or_keeled fully_concave;
+{ 65 Trapezium,_number_of_distal_heads one_head two_heads;
+{ 66 Plane_of_the_articular_surface_trapezium-Mc_I_in_relation_to_other_carpal-metacarpal_articulations not_parallel somewhat_parallel;
+{ 67 Both_MC_I_and_MC_V_are_hyper-reduced_in_relation_to_other_metacarpals hyperreduction no_hyperreduction;
+{ 68 Magnum_and_unciform_proximal_extension similarly_proximal unciform_more_proximal;
+{ 69 Tuberosity_for_rectus_femoris_m. no_relief protuberance depression;
+{ 70 Relative_size_of_obturator_foramen smaller_or_equal_to_acetabulum larger_than_acetabulum;
+{ 71 Hyperdevelopment_of_iliopubic_process absent present;
+{ 72 Pelvis,_acetabular_notch absent present;
+{ 73 Epipubic_bones absent present;
+{ 74 Epipubic_bones_proximal_size short long;
+{ 75 Mediolateral_constriction_in_greater_trochanter_of_femur absent present;
+{ 76 Relative_height_of_greater_trochanter_/_femoral_head greater_trochanter_is_lower_or_equal higher;
+{ 77 Femur,_lesser_trochanter absent present;
+{ 78 Fibula_proximal_medial_accessory_shelf absent present;
+{ 79 Fibula_proximal_posterior_extension_beyond_the_area_of_contact_with_the_tibia does_not_extend_posteriorly extends;
+{ 80 Fibula_lateral_distal_process absent present;
+{ 81 Articulation_between_femur_and_fibula absent present;
+{ 82 Process_on_fibula_proximal_end_extends_proximally_beyond_knee absent present;
+{ 83 Sesamoids_in_articular_area_between_tibia,_fibula,_and_astragalus_(or_UAJ,_upper_ankle_joint) absent one_sesamoid_present two_sesamoids_present;
+{ 84 Tibia_medial_malleolus absent present;
+{ 85 Tibia_length_relative_to_femur_length tibia_shorter_than_femur tibia_longer_or_equal_to_femur;
+{ 86 Tibia_proximal_dimensions larger_mediolaterally_than_anteroposteriorly equal smaller_mediolaterally_than_anteroposteriorly;
+{ 87 Tibia_posterior_shelf absent present_but_does_not_extend_posteriorly_beyond_the_medial_astragalotibial_facet present_and_extends_posteriorly_beyond_the_medial_astragalotibial_facet;
+{ 88 Tibia,_distal_articulation_type sagittal spiral;
+{ 89 Tibia,_posterior_shelf_articulation not_articular articular;
+{ 90 Astragalus,_angle_between_medial_and_lateral_facets_for_tibia 90_degrees intermediate 180_degrees;
+{ 91 Astragalonavicular_facet_extends_on_medial_side_of_head absent medial;
+{ 92 Astragalonavicular_facet_extends_on_ventromedial_area_of_head absent present;
+{ 93 Astragalus,_dimensions_of_facet_for_navicular_in_distal_view transversely_wider dorsoventrally_wider;
+{ 94 Astragalar_medial_plantar_tuberosity_(ampt)_visibility_in_dorsal_view not_visible visible;
+{ 95 Astragalus,_angle_between_facet_for_fibula_and_lateral_facet_for_tibia 180_or_more_degrees intermediate_(90-180_degrees) 90_degrees;
+{ 96 Astragalar_neck absent present;
+{ 97 Astragalus,_relative_width_of_head_and_neck neck_narrower_or_as_wide_as_head neck_wider_than_head;
+{ 98 Astragalar_sustentacular_facet_medial_extent does_not_reach_medial_edge_of_neck reaches_medial_edge_of_neck;
+{ 99 Astragalonavicular_facet_position_relative_to_facets_for_tibia anterior_to_facets_for_tibia medial_relative_to_facets_for_tibia;
+{ 100 Astragalar_canal absent present;
+{ 101 Ectal_facet_major_dimension_orientation straight posteromedial_to_anterolateral;
+{ 102 Ectal_facet_position_in_ventral_view extending_up_to_posterior_edge_of_astragalus subterminal;
+{ 103 Astragalus,_ridge_between_medial_and_lateral_astragalotibial_facets absent present;
+{ 104 Astragalus,_ridge_between_lateral_astragalotibial_and_astragalofibular_facets absent present;
+{ 105 Medial_astragalotibial_facet,_posterior_extent does_not_reach_posterior_edge_of_lateral_astragalotibial_facet equal_in_anteroposterior_length_as_lateral_astragalotibial_facet;
+{ 106 Astragalonavicular_facet_connection_with_sustentacular_facet absent present;
+{ 107 Calcaneal_sustentacular_facet_on_sustentaculum no_sustentaculum_(facet_is_located_in_calcaneal_body) on_sustentaculum facet_is_located_above_level_of_sustentaculum,_which_becomes_the_medial_process;
+{ 108 Ectal_facet_longest_dimension anteromedial_to_posterolateral straight posteromedial_to_anterolateral;
+{ 109 Ectal_facet_longest_axis_when_straight sagittally_longer transversely_longer;
+{ 110 Calcaneal_anterior_peroneal_tubercle absent present;
+{ 111 Calcaneal_anterior_peroneal_tubercle_shape protuberance laminar process;
+{ 112 Calcaneal_anterior_peroneal_tubercle_position protruding_anteriorly_beyond_calcaneocuboid_facet anterior,_non-protruding at_a_distance_from_anterior_end_of_calcaneum;
+{ 113 Calcaneal_sustentacular_facet_(anterior_part)_mesiolateral_orientation medial mediodorsal_or_dorsal;
+{ 114 Calcaneal_sustentacular_facet_anteroposterior_orientation dorsal 45_degrees_dorsoanteriorly;
+{ 115 Calcaneal_sustentacular_facet_anteroposterior_convexity concave_or_flat convex;
+{ 116 Calcaneal_sustentacular_facet_posteriorly_convex absent present;
+{ 117 Calcaneal_plantar_tubercle absent present;
+{ 118 Calcaneal_sustentacular_facet_and_ectal_facet_merging separate with_narrow_connection merged;
+{ 119 Calcaneal_sustentacular_facet_anterior_edge anterior_to_posterior_facet equal_or_posterior_to_posterior_facet;
+{ 120 Calcaneal_facet_for_fibula absent present;
+{ 121 Calcaneal_facet_for_fibula_orientation lateral dorsal dorsal_only_posteriorly;
+{ 122 Calcaneocuboid_facet_of_the_calcaneum not_subdivided_into_separate_facets subdivided_into_distal_(CaCud)_and_proximal_(CaCup)_facets subdivided_into_auxiliary_(CaCua),_lateral_(CaCul)_and_medial_facets;
+{ 123 Calcaneum_sustentacular_facet_reaches_anterior_end absent present;
+{ 124 Calcaneum_accessory_facet_anterior_to_sustentacular_facet absent present;
+{ 125 Cuboid_medial_plantar_process_forms_groove absent present;
+{ 126 Cuboidcalcaneal_facet mostly_convex_or_flat concave_anteroposteriorly two_shelves,_medial_more_proximal two_concavities;
+{ 127 Cuboidcalcaneal_facet_angle_between_proximal_and_distal_facet_areas no_angle angle_present_and_small,_dorsal_area_narrower_than_proximal_area angle_present_and_almost_straight,_dorsal_area_wider_than_width_of_proximal_area;
+{ 128 Cuboidcalcaneal_facet_outer_shelf absent present;
+{ 129 Cuboidcalcaneal_ventral_facet absent present;
+{ 130 Spatial_relationship_between_navicular_and_entocuneiform entocuneiform_anterior_to_navicular entocuneiform_extends_proximally_medial_to_the_distal_area_of_the_navicular;
+{ 131 Navicular_shelf_between_cuboid_and_astragalus absent present;
+{ 132 Navicular_size navicular_half_to_one_third_the_size_of_the_cuboid navicular_more_than_half_the_size_of_the_cuboid_to_equal_to_it navicular_larger_than_the_cuboid;
+{ 133 Mesocuneiform_contact_with_navicular absent present;
+{ 134 Falcula_on_hallux absent present;
+{ 135 Prehallux absent present;
+{ 136 Mt_IV_proximal_contact ectocuneiform_and_cuboid cuboid;
+{ 137 Mt_V_proximal_process_extends_ventral_to_cuboid absent present;
+{ 138 Mt_II_and_Mt_III_proximal_ends Mt_II_extends_more_proximally_than_Mt_III equal Mt_III_more_proximal;
+{ 139 Hallux_opposability_(articulation_Mt_I_with_entocuneiform) not_opposable opposable;
+{ 140 Ridge_on_proximal_articular_facet_of_Mt_I absent present;
+{ 141 Syndactyly_or_external_fusion_of_digits_II_and_III_in_the_foot absent present;
+{ 142 Mt_III_thickness_relative_to_that_of_Mt_IV Mt_III_thinner Mt_III_and_IV_equal_thickness_or_Mt_IV_thicker;
+{ 143 Mt_III_thickness_relative_to_that_of_MtI Mt_III_thinner Mt_III_and_I_equal Mt_III_thicker_than_Mt_I Mt_I_absent;
+{ 144 Foot_ungual_phalanx_of_digit_IV,_proximal_view larger_dorsoventrally_than_mediolaterally equal_dimensions larger_mediolaterally_than_dorsoventrally;
+{ 145 Number_of_upper_incisors five four three two one none;
+{ 146 Number_of_lower_incisors four three two one none;
+{ 147 Number_of_upper_molars four three none;
+{ 148 Upper_molar_M2_shape triangular_or_semi-triangular rectangular_or_semi-square;
+{ 149 Paracone_and_metacone_placement_in_M2 medial_or_buccal buccal_margin;
+{ 150 Paracone_versus_metacone_size_in_M2 pa_>_me pa_=_me pa_<_me pa_entirely_suppressed;
+{ 151 Centrocrista_shape linear V-shaped;
+{ 152 Metaconule absent_or_not-well_developed well-developed_or_enlarged;
+{ 153 Trigonid_versus_talonid_width trigonid_wider_than_talonid trigonid_subequal_to_talonid_or_trigonid_narrower_than_talonid;
+{ 154 Paraconid_on_lower_molars absent present;
+{ 155 Intersection_of_cristid_obliqua_with_trigonid_on_m2 lingual_to_protocristid_notch labial_to_protocristid_notch;
+{ 156 Upper_incisor_arcade_shape U-shape broad_V-shape long,_narrow_V-shape;
+{ 157 P1 absent present_to_greatly_reduced;
+{ 158 Lower_p2 absent greatly_reduced present;
+{ 159 Upper_P2 absent greatly_reduced present;
+{ 160 Upper_incisors_spatulate no yes;
+{ 161 Size_upper_I3_vs._I2 I3_>_I2 I3_=_I2 I3_<_I2;
+{ 162 Procumbent_gliriform_lower_anteriormost_incisor absent present;
+{ 163 Hypoconulid_absent_or_present absent present;
+{ 164 Lower_canine absent greatly_reduced retained;
+{ 165 Upper_canine caniniform_or_premolariform reduced_or_absent;
+{ 166 Number_of_roots_on_upper_canine two one;
+{ 167 Lower_i2_(i3_of_Hershkovitz)_staggered_or_not_staggered not_staggered staggered;
+{ 168 Bunolophodonty_or_lophodonty_developed no yes;
+{ 169 Selenodonty_developed no yes;
+{ 170 Marsupial_pattern_of_dental_replacement absent present;
+{ 171 Parietal-alisphenoid_or_squamosal-frontal_contact_on_braincase parietal-alisphenoid squamosal-frontal;
+{ 172 Width_of_frontals_versus_width_of_parietals parietal_wider_or_equal_to_frontal parietal_narrower_than_frontal;
+{ 173 Angular_process_medially_inflected no yes;
+{ 174 Mandibular_symphysis_fused no yes;
+{ 175 Bones_surrounding_infraorbital_canal_in_the_orbit maxilla_+_lacrimal maxilla_only;
+{ 176 Posterior-most_point_of_premaxillo-nasal_contact anterior_or_at_the_canine posterior_to_the_canine;
+{ 177 Maximum_maxilla_(palatal_portion)_length/width_ratio ratio_less_or_equal_to_1.5 ratio_larger_than_1.5;
+{ 178 Maxillofrontal_contact absent present;
+{ 179 Lacrimal_tubercle absent present;
+{ 180 Alisphenoid_tympanic_wing absent poorly_developed moderately_developed well-developed,_extending_to_or_near_posterior_lacerate_foramen_and_paroccipital_process;
+{ 181 Ectotympanic_shape ring-shaped moderately_broadened tubelike;
+{ 182 Postglenoid_process absent present;
+{ 183 Bony_external_auditory_meatus_separates_ear_canal_from_epitympanic_recess no yes;
+{ 184 Fusion_of_ectotympanic_with_other_bones_of_the_skull no yes;
+{ 185 Postglenoid_foramen absent present;
+{ 186 Postglenoid_foramen_position located_posterior_to_postglenoid_process even_with_postglenoid_process anterior_to_postglenoid_process_and_frequently_encircled_by_squamosal;
+{ 187 Position_of_incisura_tympanica caudal_or_caudodorsal located_dorsally_or_anterior_crus_and_posterior_crus_unite_dorsally;
+{ 188 Size_of_incisura_tympanica narrow_or_absent wide;
+{ 189 Foramen_ovale_position lamina_obturans_/_other_bones alisphenoid_/_petrosal just_alisphenoid alisphenoid_/_squamosal;
+{ 190 Carotid_foramen_position in_basisphenoid basisphenoid_/_basioccipital_suture basisphenoid_/_petrosal;
+{ 191 Transverse_canal_foramen absent anterior_to_carotid_foramen perforating_pterygoid_fossa confluent_with_carotid_foramen posterior_to_carotid_foramen;
+{ 192 Intramural_transverse_canal absent present;
+{ 193 Dorsal_margin_of_foramen_magnum formed_by_exoccipitals_and_supraoccipital formed_by_exoccipitals;
+{ 194 Shape_of_nasals posteriorly_expanded not_posteriorly_expanded;
+{ 195 Septomaxilla absent present;
+{ 196 Palatal_vacuities absent_or_just_small_foramina present,_restricted_to_palatine_bones present_in_both_palatine_and_maxillary_bones;
+{ 197 Premaxilla,_palatal_process does_not does_reach_canine_alveolus_or_it_is_immediately_posterior_to_it;
+{ 198 Minor_palatine_foramen absent present;
+{ 199 Hypoglossal_foramina confluent_with_jugular_foramen one two_or_more;
+{ 200 Optic_foramen absent present;
+{ 201 Masseteric_canal_and_dental_canal_in_dentary masseteric_canal_does_not_open_into_dental_canal masseteric_canal_opens_into_dental_canal;
+{ 202 Malleolar_neck long_relative_to_head_and_manubrium short;
+{ 203 Ossicular_axis >_20_degrees 10_to_20_degrees <_10_degrees;
+{ 204 Manubrial-incudal_lever-arm_ratio equal_or_smaller_than_1.6 larger_than_1.6;
+{ 205 Stapedial_ratio <_1.8 >_1.8;
+{ 206 Stapedial_foramen_visible absent present;
+{ 207 Bullate_stapes not_bullate bullate;
+{ 208 Paraseptal_cartilage_dips_down_vertically_by_the_side_of_nasopalatine_duct no yes;
+{ 209 Paraseptal_cartilage_shape outer_bar_connects_with_uppermost_portion_of_paraseptal_cartilage with_middle_portion,_dorsal_process_short with_middle_portion,_dorsal_process_long;
+{ 210 Portion_of_paraseptal_cartilage_is_ring-shaped_in_cross_section no yes;
+{ 211 Sperm_pairing_in_epididymis no yes;
+{ 212 Pouch_type_in_mammary_area type_1 type_5 type_6 no_marsupium_or_skin_folds_develop_during_the_reproductive_period thin_marsupium-like_structure_develops_during_reproductive_period;
+{ 213 Mammary_count 0_teats 2_teats 4_teats 5-8_teats 9_teats_or_more;
+{ 214 Caecum absent present;
+{ 215 Fasciculus_aberrans_in_brain absent present;
+{ 216 Cavum_supracochleare is_not_roofed_dorsally_by_the_petrosal,_and_a_depression_in_the_anterior_lamina_for_the_geniculate_ganglion_is_visible_in_dorsal_view is_entirely_enclosed_within_the_petrosal or_is_not_floored_ventrally,_such_that_there_is_no_secondary_facial_foramen;
+{ 217 Cavum_epiptericum_floored_by petrosal petrosal_and_alisphenoid primarily_or_exclusively_by_alisphenoid primarily_open_as_piriform_fenestra;
+{ 218 Fossa_subarcuata deep extremely_shallow;
+{ 219 Pars_mastoidea not_extensively_pneumatised extensively_pneumatised_and_composed_of_cancellous_bone;
+{ 220 Expansion_of_the_crista_petrosa_into_a_salient_crest_that_may_cover_the_anterolateral_part_of_the_fossa_subarcuata absent present;
+{ 221 Anterior_lamina_of_petrosal_exposure_on_the_lateral_wall_of_the_braincase present_and_large rudimentary absent;
+{ 222 Anterior_lamina_of_petrosal makes_a_major_contribution_to_the_medial_wall_of_the_middle_cranial_fossa makes_a_minor_contribution;
+{ 223 Internal_acoustic_meatus with_prefacial_commissure_at_least_50%_the_width_of_the_internal_acoustic_meatus with_prefacial_commissure_less_than_50%_the_width_of_the_internal_acoustic_meatus;
+{ 224 Deep_groove_for_internal_carotid_artery_excavated_on_anterior_pole_of_promontorium absent present;
+{ 225 Deep_and_large_fossa_for_the_tensor_tympani_muscle_excavated_on_the_anterolateral_aspect_of_promontorium,_creating_a_battered_ventral_surface_of_the_promontorium absent present;
+{ 226 Epitympanic_wing_of_petrosal_(1) absent present;
+{ 227 Epitympanic_wing_of_petrosal_(2) flat confluent_with_bulla;
+{ 228 Lateral_flange large_and_lateral_to_promontorium greatly_reduced_or_absent;
+{ 229 Broad_shelf_of_bone_surrounding_fenestra_cochleae_and_making_a_separation_between_it_and_aqueductus_cochleae absent present;
+{ 230 Rostral_tympanic_process_of_petrosal_(1) absent present_as_a_distinct_crest_or_erected_process;
+{ 231 Rostral_tympanic_process_of_petrosal_(2) forms_an_anterolaterally_directed_wing,_sometimes_contacting_the_ectotympanic,_that_does_not_extend_on_the_whole_length_of_the_promontorium that_does_extend_on_the_whole_length_of_the_promontorium;
+{ 232 Tympanic_aperture_of_hiatus_Fallopii dorsal intermediate ventral;
+{ 233 Stylomastoid_foramen absent present;
+{ 234 Inferior_petrosal_sinus intrapetrosal between_petrosal,_basisphenoid_and_basioccipital endocranial;
+{ 235 Mastoid_exposure contacts_the_parietal does_not_contact_the_parietal greatly_reduced,_forming_a_dorsoventrally_narrow_band_on_the_ventrolateral_corner_of_the_posterior_face_of_the_cranium;
+{ 236 Mastoid_tympanic_process large_and_vertical small,_slanted,_and_nodelike,_on_the_posterolateral_border_of_the_stylomastoid_notch_and_continuous_with_squamosal indistinct_to_absent;
+{ 237 Caudal_tympanic_process_of_petrosal_(1) absent present;
+{ 238 Caudal_tympanic_process_of_petrosal_(2) forms_a_small_crest_that_does_not_wholly_floor_the_postpromontorial_sinus forms_an_expanded_lamina_that_floors_the_postpromontorial_sinus;
+{ 239 Petrosal_plate absent present;
+{ 240 Fossa_incudis_and_epitympanic_recess continuous separated_by_a_distinct_ridge;
+{ 241 Petrosal_crest absent present;
+{ 242 Petrosal_contribution_to_the_lateral_wall_of_the_epitympanic_recess_(1) absent present;
+{ 243 Petrosal_contribution_to_the_lateral_wall_of_the_epitympanic_recess_(2) massive,_large_shelf_of_bone,_sometimes_rounded slender_and_triangular forming_a_thin_lamina;
+{ 244 Prootic_canal present absent;
+{ 245 Imprint_of_the_transverse_sinus_bifurcation_on_the_petrosal absent present;
+{ 246 Foramina_on_the_sigmoid_sinus_and/or_prootic_sinus,_apparently_connecting_both_vessels_(i.e.,_sigmoid_sinus_vein) absent present;
+{ 247 Posttemporal_sulcus_on_the_squamosal_surface_of_the_petrosal present absent;
+{ 248 Posttemporal_notch/foramen present absent;
+{ 249 Transpromontorial_sulcus present absent;
+{ 250 Sulcus_for_stapedial_artery present absent;
+{ 251 Cochlear_coiling absent_or_less_than_300° fully_coiled_(more_than_360°);
+{ 252 Tympanic_sinus_formed_in_the_lateral_trough_(or_anterolateral_expansion_of_the_pars_canalicularis) absent present;
+{ 253 Squamosal_contribution_to_hypotympanic_sinus_roof absent present;
+{ 254 Alisphenoid_contribution_to_hypotympanic_sinus_roof absent present;
+{ 255 Posterior_cingulid_on_lower_molars absent present;
+{ 256 Presence/absence_of_3rd_trochanter present absent;
+{ 257 Squamosal_epitympanic_sinus absent present;
+;
+
+
+ccode  - 0.257;
+
+
+;

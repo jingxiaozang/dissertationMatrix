@@ -1,0 +1,265 @@
+nstates num 9;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 16.23.00'
+74 173
+
+&[num]
+Cyphophthalmus_corfuanus                  010???0??00???0?10??????????????????00000-???????01103-0110-000-000000011?
+Cyphophthalmus_duricorius                 010211011002000010100000101?000-001000000-00?????01103-0110-000-0000000111
+Cyphophthalmus_ere                        010???0??00???0?10????0?????????????00000-00?????01103-0010-00000000000111
+Cyphophthalmus_gjorgjevici                0102??0??00???0?1000000010???????0?000000-00?????01103-0??0-000?0000000??1
+Cyphophthalmus_gordani                    010???0??00???0?10????0?????????????00000-00?????01103-0??0-000?0000000??1
+Cyphophthalmus_hlavaci                    010???0??00???0?10??????????????????00000-00?????01103-0??0-000?0000000111
+Cyphophthalmus_markoi                     010???0??00???0?10????0?????????????0?000-00?????01103-0??0-000?0000000111
+Cyphophthalmus_martensi                   0102??0??00???0?10?01?00??????0-????00000-00?????01103-0??0-000?0000000111
+Cyphophthalmus_minutus                    010???0??00???0?10????0?????????????00000-00?????01103-0??0-000?0000000??1
+Cyphophthalmus_ognjenovici                010???0??00???0?10????0?????????????00000-00?????01103-0110-000-0000000111
+Cyphophthalmus_rumijae                    010???0??00???0?10????0?????????????00000-00?????01103-0??0-000?0000000111
+Cyphophthalmus_serbicus                   010211011002000?10100000?01?000-001000000-00?????01103-0110-000-0000000111
+Cyphophthalmus_teyrovskyi                 010???0??00???0?10????0?????????????00000-00?????01103-0??0-000?0000000???
+Cyphophthalmus_trebinjanus                010?0101100?0?0010??0000?0??00???0??00000-00?????01103-0110-000-000000011?
+Cyphophthalmus_zetae                      010???0??00???0??0????0?????????????00000-00?????01103-0??0-000?000000011?
+Iberosiro_distylos                        0102011010030?0?101000000100000-006000000-00?????00-0100000-0?000000000???
+Iberosiro_rosae                           01020110?0031?00100000000?0000??00?000000-0000???0120???110-00000000000???
+Odontosiro_lusitanicus                    0002??0??0????0?10101000111?0110115100000-00??????0-03-0000-00000000000111
+Paramiopsalis_anadonae                    01020110105110001000000011000000001000400-00000000120100110-0000000000011?
+Paramiopsalis_ramblae                     01020110?00110001000000011000000001000400-000000001201?0110-0?00000000011?
+Paramiopsalis_eduardoi                    0102011010011?00100000001100000-001000000-00?????0110100100-0000000000011?
+Paramiopsalis_ramulosus                   0102011010011000100000001100000-001000400-00?????0110100100-00000000000111
+Parasiro_coiffaiti                        00020101000100001010100010000011112000000-00?????00-0100000-00000000000110
+Parasiro_minor                            000201010001000?10101000?0100011112000000-00?????00-0100000-00000000000110
+Siro_acaroides                            0102110100010000100000000000000-111000000-00?????01103-0010-00000000000111
+Siro_boyerae                              0102?10000011?00100000000000000-001000000-000000001103-0110-00000000000111
+Siro_ligiae                               01021100?02100001000010000000000001000000-000000001103?0110--0000000000?1?
+Siro_richarti                             01021101?02110001000??0?00000???001010000-0000000012??????????????????????
+Siro_calaveras                            0102?10100011?0010001100?000000-001000000-000????01103-0010-00010000000???
+Siro_exilis                               010211000001000?10000000?000000-001000000-000????01103-0110-0000000000011?
+Siro_kamiakensis                          010211000001000?100000000000000-001010000-00?????01103-0110-0000000000010?
+Siro_rubens                               0102110110020000100000001010000-001000000-00?????01103-0100-01000000000111
+Siro_shasta                               0102?10100?11?0?100001001000000-001000000-000000011103-0010-0001000000011?
+Siro_valleorum                            0102110100010000100000001010000-001000000-000????01103-0100-01000000000111
+Suzukielus_sauteri                        0122000110010?001000000010100110112010000-000????0130010100-00000000000111
+Ankaratra_franzi                          ?1????0?????????1?0111?000?0000-00300000??00??????1203-0110-0000000000?11?
+Aoraki_calcarobtusa_westlandica           2322000110001??00001110010211000002100000-0000000?120011100-00000000000???
+Aoraki_crypta                             2322000110001?000001110010101000002000000-00000001120011001310100000000???
+Aoraki_denticulata_denticulata            2322000110001?000001110010201000002100000-00000001120011001300100000100???
+Aoraki_denticulata_major                  2322000110001??000011100?0201000002100000-00000001120011001300100000000???
+Aoraki_granulosa                          232?000110001??000011100?0211000002100000-00000001020011100-00000000100???
+Aoraki_healyi                             2322000110001??00001110010201000002000000-00000001120011001300100000100???
+Aoraki_inerma_inerma                      2322000110001?000001110010201000002000000-00000001120011001310100000000???
+Aoraki_longitarsa                         2322000110001?000001110010201000002100000-00000001??0011001000100100110???
+Aoraki_sp_dna101126                       2322000110001??00001110010201000002000000-00000001120011000-00?00000?00???
+Aoraki_tumidata                           2322000110001?01000011001011??00002000000-00000001120011110-00101100100???
+Austropurcellia_arcticosa                 2322000110001??000011010?11?1000002020000-00000001??00110010001001000?0???
+Austropurcellia_daviesae                  2322000110001??000011010?1101000002020000-000000011400110012001001000?0?1?
+Austropurcellia_forsteri                  2322000110001??000011010?1101000002010000-000000011100110010001001001?0???
+Austropurcellia_scoparia                  2322000110001??00001101011101000003010000-00000001140011001100100000010?1?
+Chileogovea_oedipus                       1322000110011?00000111001021100-114100000-00?????1120010110-000-000000011?
+Chileogovea_sp_dna100490                  1322000110011?0?000111001021100-??4100000-00?????11200101?0-000-0000000???
+Karripurcellia_harveyi                    2322000110001?00010111001021000-002000000-00?????10?1010000-000-0000000???
+Manangotria_taolanaro                     ?1????0?????????000111?011??000-002000000-00??????0-0010000-000-000000?11?
+Neopurcellia_salmoni                      232?000110001??100011100?020100-002010000-00?????1??0011000-001?10001?0???
+Parapurcellia_monticola                   0322000110211?00000010101110000-002010000-00?????11?0011011300100100000???
+Parapurcellia_silvicola                   0322000110311?00000010101110000-002010000-00?????11?0011001000100100100???
+Pettalus_sp_dna101288                     12210000100???000101110010?0100-004100010-00?????10-0?100?0-00?0???0?10???
+Pettalus_sp_dna101285                     2221000010001?00010111001020100-004100010-00?????10-0110000-00101000?10???
+Pettalus_sp_dna101286                     2221000010001?00010111001010100-004100010-00?????10-0110000-00101000010???
+Pettalus_sp_dna101282                     2221000010001?00010111001020100-004100010-00?????10-0110000-00101000010???
+Pettalus_sp_dna101283                     1221000010001?000101110010?0100-004100010-00?????10-0110000-00101000010???
+Pettalus_sp_dna101287                     22210000100?1?00010111001020100-004100010-00?????10-0?10010-00101000010???
+Pettalus_thwaitesi                        1221000010011?00010111001010100-004100010-000????10-0210000-00101000010111
+Purcellia_illustrans                      2222000110001?00000110101110100-002010000-000????1120010001400110100000101
+Rakaia_sp_dna101297                       2322000110001?000001101011100000002000000-00?????1??0011000-00101000000???
+Rakaia_antipodiana                        232?000110001?010001101011210000002000000-00?????1??0011001000101100100???
+Rakaia_dorothea                           232?000110001?000001101011200000002000000-00?????1??0011001000101100000???
+Rakaia_florensis                          232?000110001?000001100011200000003010000-00?????1??0011001000101100000???
+Rakaia_sp_dna100958                       232?000110001?000001101011200000002000000-00?????1??0011001000100100000???
+Rakaia_sp_dna101293                       132?000110001?000001101011200000002000000-00?????1??0011001000100100?00???
+Rakaia_lindsayi                           2322000110001?000001100010210000002000000-00?????1??0011001000100100100???
+Rakaia_macra                              232?000110001?010001101011200000002000000-00?????1??0011001000101100100111
+Rakaia_magna_australis                    2322000110001?010001100011200000002000000-00?????1??0011001000100100000???
+Rakaia_media                              2322000110001?000001101011200000002000000-00?????1??0011001000100100000???
+Rakaia_minutissima                        232?000110001?000001101011200000002010000-00?????1??0011001000101100100???
+Rakaia_pauli                              232?000110001?010001101011210000002000000-00?????1??0011001000101100000???
+Rakaia_solitaria                          1322000110001?000001101011200000002000000-00?????1??0011001000101100000???
+Rakaia_sorenseni_digitata                 2322000110001?000001101011100000002000500-00?????1??0011000-00101000000???
+Rakaia_sorenseni_sorenseni                232?000110001?01000110101110000000200?000-00?????1??0011001000101100000???
+Rakaia_sp_dna101807                       232?000110001?000001101011100000002000500-00?????1??0011000-00101000000???
+Rakaia_stewartiensis                      232?000110001?000001100010200000002000000-00?????1??0011001000100100100???
+Rakaia_uniloca                            232?000110001?00000110001120000-002000000-00?????1??0011001000100100100???
+Rakaia_sp_dna100954                       232?000110001?000001101011200000002000000-00?????1120011001300101000000???
+Speleosiro_argasiformis                   0222000110001?000001100011?0100-002010000-00?????1110010001400110100000111
+Marwe_coarctata                           00420110-0000?0?100000000000000-000000000-00?????00-03-0000-00000000000??1
+Shearogovea_mexasca                       0102?00110210?01-00011000010000-003000000-00?????00-03-0010-00000000000??1
+Neogoveidae                               0102?1011111-?001000?10010?00011003000000-0??????00-03-0000-00000000000???
+Metasiro_americanus                       01020000101101000002110000100111103000210-000000001204-0010-00000000000101
+Canga_renatae                             0102?10010210?000002110000000111003000010-0?0????00-03-0000-0000000000010?
+Huitaca_ventralis                         010200101111-1000102110010201011003000010-000111?01003-0000-0000001000010?
+Huitaca_sp_Tama_dna101671                 010200101111-?000102110010201011113000010-000000?01003-0000-0000001000010?
+Huitaca_sp_Boyaca_dna101407               010200100121-?000102110010001111113000010-000000001003-0000-0000001000010?
+Huitaca_sp_Caldas_dna101681               010200101131-1000102110010201111117100010-100000001003-0000-0000001100010?
+Huitaca_sp_Bitaco_dna101683               010200101131-?000102110010201111117100010-100000001003-0000-00000011000???
+Huitaca_sp_depressa_dna102150             010200101131-?000102110010201111117100010-100000001003-0000-0000001100010?
+Huitaca_sp__DNA104646                     010200101111-?000102110000201011117100010-100000001003-0000-0000001100010?
+Brasilogovea_microphaga                   01020010?14101100103110000211111111000600-000000000?03-0000-0000000000011?
+Brasilogovea_chiribiqueta                 0103001011410?100103110000201111115100600-011000001003-0000-0000001000011?
+Brasiliogovea_afanostyla                  010100101141011001031100??211011115101800-0000000?1003?0000-0000000000????
+Brasiliogovea_microstyla                  01010010114101100103110020210011105101700-0000000?1003?0000-0000000000????
+Metagovea_sp._dna104647                   ?????????????????????????????????????0????????????????????????????????????
+Microgovia_chenepau__mcz53180             ?????????????????????????????????????0????????????????????????????????????
+Microgovia_oviformis                      ?????????????????????????????????????0????????????????????????????????????
+Neogovea_branstetteri_mcz52990            ?????????????????????????????????????0????????????????????????????????????
+Metagovea_sp_Nambi_DNA101410              0102101111110?000002110020001011113000010-000111101003-0000-00000000000???
+Metagovea_sp_Caldas_DNA101680             0101001010200?100002110000001011112000010-000111101003-0000-00000000000???
+Metagovea_planada_MCZ133787               0102101111200?000002110020001011113000010-000111101003-0000-00000000000???
+Metagovea_sp_Valle_DNA101685              0101001011210?100002110000001011113000010-010111101003-0000-00000000000???
+Metagovea_sp_Tatama_DNA102151m            010?0011102001000002110000001011?13000010-000111101003-0010-00000000000???
+Metagovea_matapi_MCZ132281                0101101111210?100002110020001011113000000-000111101003-0000-00000000000???
+Neogovea_immsi                            010??01?011?-100010?110000??1111115100600-000??000??03-00?0-00000000000???
+Neogovea_kamakusa                         010??0101110-1100102110000??101111500060??0?0????0??03-0000-00000000000???
+Neogovea_kartabo                          010??010?11?-1000102110000??11?1?1300061??0?0????0??03-0000-00000000000???
+Neogovea_virginie                         010??01011?0-1100102110000211111117100600-00?????00-03-0010-000000000001??
+Metagovea_sp._guyana_dna105826            0102?01110210?000002110000001011003000010-0??????0???3-0010-00000000000???
+Metagovea_sp_Huila_DNA101670              0102001??02001?00002110000001011113000010-000111101003-0000-00000000000???
+Metagovea_sp_Nambi_DNA101409              01020010102101100002110000001011113000000-010111101003-0000-00000000000???
+Metagovea_sp_Pasto_DNA101642              01020010102101100002110000001011113000000-010111101003-0000-00000000000???
+Metagovea_sp_Valle_DNA101686              01000010102101100002110000001011113000010-000111101003-0000-00000000000???
+Parogovia_sironoides                      01021010101101100002110010201011005100510-0??????01003-0000-00000000000101
+Parogovia_cf_sironoides                   01021010102101100002110010201011005100510-000000001003-0000-00000000000101
+Parogovia_gabonica                        010??01010210?100002110010201011005100010-000????0??03-0000-00000000000001
+Parogovia_pabsgarnoni                     010??010102101100002110010??101100?100010-000????0??03-0000-00000000000101
+Leggogovia_cf_mcz134942                   0102??1????????0000211001020?011?051?0???????????0??03-??????0????????0???
+Parogovia_sp_dna101052                    0102001010?00?0000021100102?1?11005100010-???????01003-0000-00000000000???
+Parogovia_sp_Koupe_DNA104615              0102?01010?10??00002110010201011005100510-???????0??03-0000-00000000000???
+Parogovia_prietoi                         01020010102101?00002110010201011005100010-000000000-03-0000-0000000000010?
+Troglosiro_aelleni                        01021000100101000002110000201011003000000-000????01003-0010-0000000000011?
+Troglosiro_longifossa                     01021000100101001002110000101011003000000-000111?01013-0010-00000001000111
+Troglosiro_juberthiei                     01021000100101000002110000101011003000000-000????01003-0010-00000001000111
+Troglosiro_monteithi                      01021000100101001002110000001011003000000-000????010?3-0010-0000000100011?
+Troglosiro_ninqua                         01021000100101000002110000000011003000000-000????01003-0010-000?000100011?
+Troglosiro_sharmai                        010??001102101000002010000101011003000000-000????01003-0000-00000000000???
+Troglosiro_urbanus                        01021000100101001002110000001011003000000-000????010?3-0010-0000000100011?
+Troglosiro_wilsoni                        01021000100101000002110000101011003000000-000????010?3-0010-0000000100011?
+Ogovea_cameroonensis                      0132001010011?10000010001021100-005100300-00?????01003-0000-0000001100110?
+Ogovea_grossa                             0132??1??????????0?010001021100-0051?0???????????0???3-???????????????1???
+Ogovea_nasuta                             0132?01010?10?1?000010001021100-005100300-00?????01003-0000-00000011001???
+Fangensis_insulanus                       0112?01010010?1?101011011021000-005100101200?????2110000010-00000000000101
+Fangensis_spelaeus                        0112001000010?10101010001021000-005100101000?????2110000000-00000000000101
+Leptopsalis_beccarii                      1112001000010?00011011011021100-005100100-000????20-0000000--0000000000???
+Leptopsalis_lydekkeri_dna101064           11120010100?0?00001011?01?21100-005100100-00?????20-?000000-00000000000???
+Leptopsalis_novaguinea_dna101510          11120010100?0??0001011??1?21100-005100100-00?????20-?000000-00000000000???
+Leptopsalis_sp_dna101093_496              11120010100?0??0011011?11021100-005100100-00?????20-?000010-00000000000???
+Leptopsalis_sp_dna101483                  11120010100?0?00011011?11021100-005100100-00?????20-?000000-00000000000???
+Leptopsalis_sp_dna101489                  11120010100?0?10011011?11021100-005100100-00?????20-?000000-00000000000???
+Leptopsalis_sp_dna101514                  11120010100?0?10001011?11021100-005100100-00?????211?001010-00000000000???
+Leptopsalis_sp_dna101930                  11120010100?0??0001011?11021100-005100100-00?????20-?000000-00000000000???
+Leptopsalis_sp_dna101932                  11120010100?0??00010????1???10???0??00100-00?????20-?000000-00000000000???
+Leptopsalis_sp_dna101937                  11120010100?0??0001011?1102110??105100100-00?????20-?000000-00000000000???
+Leptopsalis_sp_dna101938                  11120010100?0?10011011?11021100-005100100-00?????20-?000000-00000000000???
+Leptopsalis_sp_dna101944_5                11120010100?0??001101???1???10???0?100100-00?????20-?000000-00000000000???
+Leptopsalis_sp_dna102033_48               11120010?00?0??000101???1???10???0??00100-00?????20-?000000-00000000000???
+Leptopsalis_sp_dna102039                  11120010?00?0??00110????1???10???0??00100-00?????20-?000000-00000000000???
+Leptopsalis_sp_dna102042                  11120010?00?0??000101???1???10???0??00100-00?????20-?000000-00000000000???
+Leptopsalis_sp_dna102061                  11120010?00?0??00110????1???10???0??00100-00?????20-?000000-00000000000???
+Leptopsalis_sp_dna103250                  11120010?00?0??000101???1???10???0??00100-00?????20-?000000-00000000000???
+Meghalaya_annandalei                      11021010100?0?1000001101?02?100-005100300-00?????20-0000000-0?00000100010?
+Meghalaya_sp_dna101094_500                11120010?00?0??0001?11?11021100-005100101?00?????20-?000000-00000000000???
+Meghalaya_sp_dna101494_506_765            11120010?00?0??0001?????1???10???0??00101?00?????20-?000000-00000000000???
+Megahalaya_sp_dna101767                   11120010?00?0??000101???1???10???0??00101?00?????20-?000000-00000000000???
+Meghalaya_sp_dna102051                    11120010?00?0??000101???1???10???0??00101?00?????20-?000000-00000000000???
+Meghalaya_sp_dna103242_3_4                11120010?00?0??0001011??1???10???0??00101?00?????20-?000000-00000000000???
+Meghalaya_sp_dna103251                    11120010?00?1?1000101???1???10???0??00101200?????211?001110-00000000000???
+Meghalaya_sp_dna103265                    11120010?00????000101???1???10???0??00101?00?????211?001010-00000000000???
+Miopsalis_pulicaria                       01120?1????????10110010?1021100-0051?0????000????2???00??????0????????0???
+Miopsalis_sp_dna101468_950                11120010?00?1?1010101???1???10???0??00101?00?????211?001010-00000000000???
+Miopsalis_sp_dna101517                    11120010100?1?10101011?11021100-00??00101100?????211?001110-00000000000???
+Miopsalis_sp_dna102032_53_58              01120010100?1?10001011?11021100-00??00100-00?????211?001010-00000000000???
+Miopsalis_sp_dna103249                    1112?010?00?0?10011?????????10???0??0011??00?????20-?000000-00000000000???
+Miopsalis_sp_dna103254                    11120010?00?1?100110????1???10???0??0010??00?????211?001110-00000000000???
+Stylocellus_sumatranus                    11120011100???101010110?1021100-005100????00?????2110001110--?000000000???
+
+;
+
+
+cnames
+{ 0 Eyes absent present,_with_an_eye_lens incorporated_into_ozophore,_without_eye_lens;
+{ 1 Ozophore_position type_1 type_2 type_3 dorsal,_facing_45_degrees;
+{ 2 Ozophore_opening_type subterminal_ozopore infolded terminal_ozopore,_with_circular_opening labial disc-shaped;
+{ 3 Ozophore_ornamentation absent approximately_ornamented_in_half_of_its_surface entirely_ornamented ornamented_in_less_than_half_ot_its_surface;
+{ 4 Spiral_ornamentation_of_the_ozophore absent present;
+{ 5 Proximal_end_of_coxae_I_meeting_along_the_midline absent present;
+{ 6 Second_coxae free fused_to_coxae_of_leg_III;
+{ 7 Proximal_end_of_male_coxae_III_meeting_along_the_midline absent present;
+{ 8 Coxae_II_and_III_endites_with_processes_running_along_their_suture absent present;
+{ 9 Gonostome_of_male_in_anterior_position absent present;
+{ 10 Shape_of_the_gonostome semicircular-trapezoidal sub-hexagonal semicircular oval circular traingular;
+{ 11 Anterior_projections_of_male_coxae_IV_endite no_projections projections_in_gonostome_wall projections_adjacent_to_coxal_pore projections_along_coxae_IV_suture;
+{ 12 Endites_of_coxae_IV_running_adjacent_to_midline_suture_for_a_length_longer_than_gonostome absent present;
+{ 13 Oral_lappet absent present;
+{ 14 Sternum absent present;
+{ 15 Protruding_chelicerae absent present;
+{ 16 Widest_part_of_cheliceral_distal_article near_base near_articulation_with_mobile_digit;
+{ 17 Attenuate_chelicerae absent present;
+{ 18 Distal_segment_of_chelicerae_ornamented absent present;
+{ 19 Dentition_of_the_mobile_digit_of_the_chelicerae uniform non-uniform_with_largest_tooth_central jagged_or_bilobed__with_smaller_lobe_distal non-uniform_with_largest_tooth_proximal;
+{ 20 Basal_article_of_chelicerae_with_dorsal_crest absent present;
+{ 21 Basal_article_of_chelicerae_with_ventral_process absent present;
+{ 22 Apodeme_on_chelicer absent present;
+{ 23 Basal_article_of_chelicerae_with_a_second_ventral_process absent present;
+{ 24 Ornamentation_of_the_basal_cheliceral_segment sparsely_ornamented densely_ornamented_throughout_most_of_its_length densely_ornamented_centrally;
+{ 25 Palp_trocanther_with_ventral_process absent present;
+{ 26 Ornamentation_of_second_palp_article absent less_than_half_ornamented more_than_half_ornamented;
+{ 27 Ornamentation_of_third_palp_article absent present;
+{ 28 Solea_in_tarsus_I absent present;
+{ 29 Claw_of_leg_I_with_modifications absent present;
+{ 30 Claw_of_leg_II_with_modifications absent present;
+{ 31 Claw_of_leg_II_with_special_row_of_teeth_forming_a_comb absent present;
+{ 32 Claw_of_leg_III_with_modifications absent present;
+{ 33 Claw_of_leg_IV_with_modifications absent present;
+{ 34 Leg_II_ornamentation all_segments_smooth metatarsus_and_tarsus_smooth metatarsus_partially_ornamented_and_tarsus_smooth metatarsus_ornamented_and_tarsus_smooth metatarsus_and_dorso-basal_part_of_the_tarsus_ornamented metatarsus_ornamented_and_tarsus_almost_entirely_ornamented metatarsus_smooth_and_tarsus_partially_ornamented metatarsus_and_tarsus_entirely_ornamented;
+{ 35 Ornamentation_of_tarsi_III_and_IV smooth ornamented;
+{ 36 Male_tarsus_IV entire bisegmented bisegmented_dorsally_only;
+{ 37 Male_tarsus_IV_dorsum round flat;
+{ 38 Adenostyle lamelliform fringed fimbriate triangular_and_heavily_schlerotized plumose digitiform with_microtrichiae incospicuous absent;
+{ 39 Adenostyle_in_the_most-basal_region_of_the_tarsus absent present;
+{ 40 Rambla''s_organ absent present;
+{ 41 Surface_of_Rambla''s_organ striate scaly rugose;
+{ 42 Accessory_gland_in_ventral_side_of_male_tarsus_IV absent present;
+{ 43 Pore_fields_in_male_tarsus_IV absent present;
+{ 44 Tooth-like_projection_on_prolateral_side_of_walking_leg_coxa_I absent present;
+{ 45 Sensorial_pits_arranged_on_line_in_male_femur_I absent present;
+{ 46 Sensorial_pits_arranged_on_line_in_male_femur_II absent present;
+{ 47 Sensorial_pits_arranged_on_line_in_male_femur__III absent present;
+{ 48 Sensorial_pits_arranged_on_line_in_male_femur_IV absent present;
+{ 49 Spiracle_shape circular open_circle "C"_shaped;
+{ 50 Exocrine_glands_on_opisthosoma absent present;
+{ 51 Position_of_opisthosomal_exocrine_glands on_anterior_sternal_region on_tergite_VIII on_tergite_IX on_tergites_VIII_+_IX on_tergite_IX_+_anal_plate on_anal_plate;
+{ 52 V-shape_modification_of_sternites_6-8 absent present;
+{ 53 Sternite_8,_9,_and_tergite_IX all_free sternites_8_and_9_medially_fused sternite_9_and_tergite_IX_fused,_but_sternite_8_free all_fused_into_corona_analis sternites_8_and_9_completely_fused,_tergite_IX_free;
+{ 54 Relative_position_of_sternite_9_and_tergite_IX stylocellid_type pettalid_type;
+{ 55 Male_tergite_IX entire bilobed;
+{ 56 Longitudinal_carina_in_male_anal_plate absent present;
+{ 57 Ornamentation_in_midline_of_male_anal_plate present absent;
+{ 58 Scopulae_on_anal_plate absent present;
+{ 59 Position_of_origin_of_anal_scopulae posterior_margin anterior_margin posterior_ventral_surface central_ventral_surface anterior_ventral_surface;
+{ 60 Scopulae_on_male_tergite_IX absent present;
+{ 61 Posterior_elongation_of_opisthosoma_in_female absent present;
+{ 62 Male_tergite_VIII_bilobed absent present;
+{ 63 Large_depression_on_midline_of_male_anal_plate absent present;
+{ 64 Two_scopulae_originating_from_each_inner_margin_of_tergite_VIII absent present;
+{ 65 Bilobed_male_anal_plate absent present;
+{ 66 Sternal_apophysis_of_male absent present;
+{ 67 Anterior_opisthosomal_sternites_of_male_concave absent present;
+{ 68 Male_tergite_VII_bilobed absent present;
+{ 69 Tail absent present;
+{ 70 Hansen''s_organ absent present;
+{ 71 Ventral_setae_of_spermatopositor absent present;
+{ 72 Movable_fingers_of_spermatopositor absent present;
+{ 73 Ovipositor_with_sense_organs absent present;
+;
+
+
+ccode  - 0.73;
+
+
+;
