@@ -1,0 +1,86 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 15.12.59'
+52 16
+
+&[num]
+Protungulatum_donnae               0010010100010010000000000000110110101210101000001000
+Hyopsodus_spp.                     0210110110010010101011000110111100021100101010000000
+Apheliscus_spp.                    110111100?001111100111100001210100011112012100001000
+Haplomylus_spp.                    1111101001010111010111001011222100011112012201001120
+Paschatherium_spp.                 0020110000111101010010000100011100131112012100001000
+Mithrandir_gillianus               0110110100011000000001000100110110101210101010001000
+Chriacus_gallinae                  0100001000100010100-10000000111100220110101001000100
+Ectocion_spp.                      1210110010110110111010110201110111011112002000011000
+Tetraclaenodon_puercensis          12101101100101100110101001011-----1---1-00201----0-0
+Claenodon_spp.                     1101000110000110100011000101110110201110101000001000
+Diacodexis_secans                  0101000110010000100011000001203201011012112000011022
+"Hyracotherium"_spp.               1210110--1101010111011010201122011011012112000111022
+Molinodus_suarezi                  1120-101100010110000110010102201001-1100-0101-00000-
+Dissacus_spp.                      00011100012011-1000011000001112201001012101010011022
+Macroscelidea                      111111-000011101010111011211222000010112112201001120
+Hyracoidea                         1211110001011110111110110210023001300112012100101111
+
+;
+
+
+cnames
+{ 0 Lower_molar_cusp_relief Strong,_cusps_relatively_acute Weak;
+{ 1 Relative_heights_of_molar_trigonids_and_talonids Trigonids_much_higher_than_talonids Trigonids_somewhat_higher_than_talonids Trigonids_and_talonids_subequal_in_height;
+{ 2 p4_paraconid_and_metaconid Both_cusps_weak_or_absent Both_cusps_well_developed Metaconid_well_developed,_paraconid_weak_or_absent;
+{ 3 p4_protoconid_shape Conical,_p4_trigonid_relatively_closed Elongate,_p4_trigonid_relatively_open;
+{ 4 p4_talonid_complexity p4_talonid_simple,_with_a_single_well_developed_cusp p4_talonid_complex_with_multiple_cusps;
+{ 5 Relative_widths_of_m1-2_trigonids_and_talonids Talonids_broader_than_trigonids Trigonids_and_talonids_subequal_in_width_or_trigonids_broader;
+{ 6 Orientation_of_m1-3_trigonid_cusps_in_buccal_view Cusps_erect Cusps_canted_mesially;
+{ 7 m1-3_paraconid_height low tall;
+{ 8 m1-3_paraconid_position distinctly_separated_from_metaconid close_to_metaconid_or_fused_with_metaconid;
+{ 9 Molar_paracristid_shape Buccal_portion_of_paracristid_directed_lingually Buccal_portion_of_paracristid_directed_mesially;
+{ 10 m1-3_metaconid_inflation Metaconid_inflated Metaconid_uninflated Metaconid_reduced;
+{ 11 m2_cristid_obliqua_orientation nearly_parallel_to_anteroposterior_axis_of_crown Nearly_parallel_to_long_axis_of_tooth oriented_around_45_degrees_to_long_axis_of_crown Around_45_degrees_to_long_axis_of_tooth;
+{ 12 Position_of_m1-3_hypoconid Mesial_to_entoconid Aligned_with_entoconid;
+{ 13 Position_of_m1-3_entoconids Mesial_to_distal_margin_of_talonid At_distal_margin_of_talonid;
+{ 14 m1-2_entocristid Present_and_ascends_distal_slope_of_metaconid_to_close_talonid Present_and_terminates_at_base_of_metaconid;
+{ 15 m3_relative_size Unreduced,_subequal_to_or_larger_than_m2 Reduced,_noticeably_smaller_than_m2;
+{ 16 m3_talonid_width narrower_than_m3_trigonid Less_than_trigonid_width subequal_to_trigonid_width;
+{ 17 P4_metacone absent weakly_developed Present well_developed_and_well_separated_from_paracone;
+{ 18 P4_protocone_size Small_or_absent Subequal_to_paracone;
+{ 19 P4_postprotocrista_orientation Buccal Distal;
+{ 20 M1-2_stylar_shelf Reduced Absent;
+{ 21 Orientation_of_M1-2_preparacrista_(position_of_parastyle) Oriented_mesiobuccally_(parastyle_buccal_to_para-,_metacones) Approximately_in_line_with_the_para-_and_metacones;
+{ 22 M1-2_mesostyle Absent Present;
+{ 23 M1-2_postprotocrista Present Absent;
+{ 24 M1-2_postprotocingulum_(Nannopithex_fold) Absent Present;
+{ 25 M1-2_hypocone_size Reduced_or_absent Moderately_developed Enlarged,_subequal_in_size_to_protocone;
+{ 26 M1-2_hypoloph Absent Present;
+{ 27 Calcaneal_tuber_relative_length short intermediate elongate;
+{ 28 Calcaneal_fibular_facet Absent Present,_relatively_flat Present,_describing_an_arc_of_~180_degrees;
+{ 29 Orientation_of_long_axis_of_ectal_facet Subparallel_to_long_axis_of_calcaneum Approximately_45_degrees_to_long_axis_of_calcaneum Nearly_90_degrees_to_long_axis_of_calcaneum;
+{ 30 Ectal_facet_curvature Gently,_evenly_convex Strongly_convex Sharply_divided_into_posterior_and_anterior_surfaces Flat;
+{ 31 Overlap_between_calcaneal_ectal_and_sustentacular_facets No_overlap Partial_overlap Nearly_complete_overlap;
+{ 32 Distal_extension_of_sustentacular_facet Absent Present;
+{ 33 Position_of_plantar_tubercle At_distal_margin_of_calcaneum_(level_of_cuboid_facet) Shifted_proximally;
+{ 34 Peroneal_tubercle_position_and_size At_distal_margin_of_calcaneum,_strongly_reduced At_distal_margin_of_calcaneum,_elongate Between_distal_margin_and_sustentaculum,_elongate At_level_of_sustentaculum,_elongate;
+{ 35 Curvature_of_cuboid_facet Flat_(no_dorsoventral_or_mediolateral_concavity) Concave_dorsoventrally,_flat_mediolaterally Concave_both_dorsoventrally_and_mediolaterally Concave_mediolaterally,_flat_dorsoventrally;
+{ 36 Orientation_of_ML_axis_of_cuboid_facet_relative_to_long_axis_of_calcaneum ~90_degrees ~70-80_degrees less_than_~70_degrees;
+{ 37 Proportions_of_cuboid_facet Facet_much_deeper_(dorsoventral)_than_wide_(mediolateral) Facet_depth_and_width_subequal Facet_much_wider_(mediolateral)_than_deep_(dorsoventral);
+{ 38 Medial_trochlear_ridge Absent_(medial_facet_of_trochlea_faces_dorsomedially) Present_(medial_facet_faces_medially);
+{ 39 Depth_of_trochlear_groove Shallow Moderately_deep_(U-shaped) Deep_(V-shaped);
+{ 40 Radius_of_curvature_of_lateral_trochlear_ridge Greater_than_medial_ridge Subequal;
+{ 41 Astragalar_foramen present absent;
+{ 42 Posterior_extension_of_trochlear_articular_surface Absent,_articular_surface_ends_on_dorsal_surface Posterior_extension_of_medial_ridge Entire_trochlea_extends_posteriorly;
+{ 43 Cotylar_fossa Weak_to_absent Prominent,_dorsally_oriented Prominent,_medially_oriented;
+{ 44 Posteromedial_projection_of_astragalar_body absent present;
+{ 45 Proximomedial_plantar_tuberosity Weak_to_absent Strong;
+{ 46 Ectal_facet_width Transversely_narrow Broad;
+{ 47 Astragalar_sustentacular_facet_shape_and_curvature Circular,_axis_of_curvature_subparallel_to_long_axis_of_neck Elongate,_axis_of_curvature_perpendicular_to_long_axis Elongate,_wrapping_around_to_med_side_of_neck,_axis_subparallel;
+{ 48 Orientation_of_long_axis_of_navicular_facet Essentially_perpendicular_to_axis_of_trochlea Oblique_to_or_parallel_to_axis_of_trochlea;
+{ 49 Facet_for_medial_tarsal/spring_ligament Extends_posteriorly_along_astragalar_neck Does_not_extend_far_beyond_level_of_navicular_facet;
+{ 50 Astragalar_cuboid_facet Present,_nearly_coplanar_with_navicular_facet Absent Present,_separated_from_navicular_facet_by_a_strong_ridge;
+{ 51 Navicular_facet_convexity Convex_in_one_direction Flat Concave;
+;
+
+
+ccode  - 0.51;
+
+
+;

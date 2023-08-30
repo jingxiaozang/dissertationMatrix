@@ -1,0 +1,87 @@
+nstates num 7;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 15.23.11'
+35 34
+
+&[num]
+Caluromys                00001-00010110102310000001000000000
+Didelphis                00000100000000302310000001002000000
+Monodelphis              10001-000001?010131000000100?0000?0
+Caenolestes              00000010100320300310000100000000001
+Dasyurus                 00000001111210202310010100002000000
+Sarcophilus              00000011011221300430010200102001000
+Sminthopsis              00000000001000201310010000002000010
+Thylacinus               00000000110121300310010200202110000
+Notoryctes               10001-111013001003??011000000000111
+Isoodon                  10000101101020201310010200002000010
+Echymipera               100001101110?0201310000200000000010
+Dromiciops               0000010110110030131100001-001000000
+Macrotis                 10100101111020202310010200002000010
+Acrobates                0000010100110000121001001-001000010
+Cercartetus              00011-0000130010121000101-000000000
+Myrmecobius              10100010010020100310010200000000000
+Tarsipes                 10001-0000110000110000001-012000000
+Petaurus                 00011-1011110010132100001-000001000
+Petauroides              00011-1111140010031000101-002000000
+Pseudocheirus            00000110101000101311000000210000000
+Pseudochirops            00101-0100121000131000011-000000000
+Phalanger                00001-00110220101320000200102000000
+Trichosurus              00000110110110201320010000001000000
+Hypsiprymnodon           00000100110000202321010000000000000
+Potorous                 00000001110021302330010200000100010
+Phascolarctos            111000001--12001-30110021-212011000
+Vombatus                 1100000110012101-51000011-21-110000
+Dendrolagus              0000010010001010221100001-20-000010
+Wallabia                 0010010000002010232000000000-010010
+Ornithorhynchus          00100000--0-002000------1-01-010000
+Tachyglossus             001000000----11006------1-00-000001
+Pteropus                 10101-0001100020110001001-012000000
+Mus                      10000010010-0011020101000001-000000
+Erinaceus                00100010110120110210010200000000000
+
+;
+
+
+cnames
+{ 0 Complexity_of_rostral_maxilloturbinal arborlike_with_many_branches simple_with_a_single_scroll_(e.g.,_Monodelphis,_Phascolarctos),_curled_lamella_(e.g.,_Vombatus),_or_only_a_single_bifurcation_(e.g.,_Isoodon,_Echymipera,_Macrotis,_Myrmecobius,_Notoryctes,_Tarsipes);
+{ 1 Caudalmost_portion_of_maxilloturbinal simple_in_morphology_with_few_branches_and_scrolls_and_is_attached_to_nasal_cavity_wall_or_floor the_caudalmost_portion_of_the_maxilloturbinal_is_an_enclosed_tube_that_tapers_into_a_cone_that_is_unattached_to_nasal_cavity;
+{ 2 Caudalmost_attachment_of_maxilloturbinal floor_of_nasal_cavity lateral_wall_of_nasal_cavity;
+{ 3 Maxilloturbinal_contact_with_nasoturbinal absent present;
+{ 4 Rostral_nasoturbinal_as_an_ossified_structure_in_adults present absent;
+{ 5 Rostral_nasoturbinal_morphology well_developed_as_a_slender_ventromedially_directed_process small,_robust_bony_process_with_a_ventromedial_inflection;
+{ 6 Caudal_nasoturbinal_morphology unbranched has_at_least_one_branch;
+{ 7 Caudal_nasoturbinal_pneumaticity absent present;
+{ 8 Shape_of_rostral_portion_of_caudal_nasoturbinal rostrodorsal_and_rostroventral_portions_are_straight_(without_a_kink) distinctive_kink_between_rostrodorsal_and_rostroventral_portions_of_caudal_nasoturbinal;
+{ 9 Caudodorsal_portion_of_caudal_nasoturbinal_(caudal_to_nasoturbinal_division_around_endoturbinal_I) caudodorsal_portion_is_unfolded caudodorsal_portion_curls;
+{ 10 Uncinate_process_of_nasoturbinal present absent;
+{ 11 Caudalmost_point_of_ventral_attachment_of_caudal_nasoturbinal medial_wall_of_lacrimal_canal lateral_wall_of_nasal_cavity medial_wall_of_infraorbital_canal_(V2) floor_of_nasal_cavity maxilloturbinal;
+{ 12 Caudalmost_extent_of_ventral_attachment_of_nasoturbinal rostral_to_caudal_terminus_of_maxilloturbinal_ at_coronal_level_of_caudal_terminus_of_maxilloturbinal caudal_to_caudal_terminus_of_maxilloturbinal;
+{ 13 Packing_of_endo-_and_ectoturbinals relatively_loosely_packed complexly_branching_or_convoluted_elements_that_are_densely_packed_creating_a_tight_mazelike_pattern,_especially_around_the_ossified_nasal_septum;
+{ 14 Number_of_turbinal_folds_on_endoturbinal_I none one two three;
+{ 15 Rostral_portion_of_endoturbinal_I_(part_above_the_maxilloturbinal) present absent;
+{ 16 Rostral_portion_of_endoturbinal_I contains_no_pneumatic_cavities possesses_a_small_pneumatic_cavity,_which_encompasses_only_a_portion_of_the_coronal_cross_section_of_the_element possesses_a_large_cavity,_which_encompasses_most_of_or_the_entire_coronal_cross_section_of_the_element;
+{ 17 Number_of_endoturbinals two three four five six seven more_than_seven;
+{ 18 Number_of_ectoturbinals one two three four;
+{ 19 Morphology_of_the_ventralmost_ectoturbinal bifurcating does_not_bifurcate;
+{ 20 Ectoturbinal(s)_is_tubelike_in_shape absent present;
+{ 21 Rostral_portion_of_ventralmost_ectoturbinal lamella_does_not_contact_posterior_transverse_lamina lamella_is_attached_to_posterior_transverse_lamina;
+{ 22 Dorsoventral_extent_of_caudal_portion_of_lateral_recess recess_does_not_extend_to_nasal_cavity_floor recess_extends_to_nasal_cavity_floor;
+{ 23 Caudal_extent_of_lateral_recess rostral_in_the_snout,_maxilloturbinal_extends_caudal_to_this about_even_with_the_caudal_terminus_of_the_maxilloturbinal extends_caudal_to_the_maxilloturbinal;
+{ 24 Maxillary_recess present absent;
+{ 25 Maxillary_recess_medial_wall caudal_portion_of_recess_is_medially_enclosed_by_posterior_transverse_lamina uncinate_process_of_the_caudal_nasoturbinal_also_contributes_to_the_medial_wall_of_the_recess;
+{ 26 Frontal_sinus no_frontal_sinus small_frontal_sinus_present_(comprises_less_than_half_of_the_cross_sectional_area_of_the_frontals) large_frontal_sinuses_present_(comprises_most_or_all_of_the_cross_sectional_area_of_the_frontals);
+{ 27 Paraseptal_shelf_of_vomer present absent;
+{ 28 Rostral_extent_of_ossified_nasal_septum rostral_to_crowns_of_upper_canines even_with_crowns_of_upper_canines caudal_to_crowns_of_upper_canines;
+{ 29 Ventral_portion_of_ossified_nasal_septum straight_or_only_with_slight_bends_or_convolutions very_convoluted;
+{ 30 Prominent_lateral_expanded_bulges_within_the_shaft_of_the_ossified_nasal_septum present absent;
+{ 31 Contribution_of_turbinal_elements_to_the_cribriform_plate all_ecto-_and_endoturbinals_contribute_to_the_cribriform_plate not_all_elements_participate_in_the_cribriform_plate;
+{ 32 Contribution_of_posterior_transverse_lamina_to_the_cribriform_plate absent present;
+{ 33 Crista_galli present absent;
+{ 34 Caudalmost_portion_of_nasal_cavity_(sphenoidal_recess)_laterally_restricted_by_the_endocranial_cavity absent present;
+;
+
+
+ccode  - 0.34;
+
+
+;

@@ -1,0 +1,141 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 15.25.38'
+114 9
+
+&[num]
+Glyptolepis             20001010030000002000011111000000012000112111100000000100000000000?0?0000000000000?00?????????000010000000----0010?
+Eusthenopteron          100011001111022101013110000110010010000010111101000112000000000000000000000001100000000000000000000000100111001111
+Barameda                10001?011110000?0?010?1000101100102?00000011?01101??02?0000000000000000000000000111000000000000001000000011?000111
+Panderichthys           01110101020?01210101301000012011-02?01001101110111110000000000001000000010000211001000000001111100111021000011?111
+Acanthostega            111101012221102001012?1001012111-0210100??000??1101100111111111101211111-100132-1020101100111111112111210-02-2?111
+Ichthyostega            111101012221102001?12?1001012111-0210100??000??110110?111110111101111111-100132-1020111111111100112111211-02-2?111
+Tiktaalik               00??1101220101200?013?1000012111-0211100??0??101111?00000000000?112111?01?111321111110101001111100111121?000110111
+Gogonasus               100010001111002110011100001011000010000011111001100010000000000000000000000003100100100010000000001000100000110111
+Onychodus               200000002010000021100?1100001100100000000111?11?1001010000000000000-0000100--10???0????-000??000010000100?0???????
+
+;
+
+
+cnames
+{ 0 Parasymphysial_plate: long,_sutured_to_coronoid,_denticulate_or_with_tooth_row short,_not_sutured_to_coronoid,_denticulated carrying_tooth_whorl;
+{ 1 Anterior_end_of_prearticular: not_forked forked;
+{ 2 Prearticular_and_angular: seperated_by_ventral_exposure_of_Meckelian_bone in_contact;
+{ 3 Prearticular: rear_part_with_conspicuous_horizontal_ledge rear_part_flat;
+{ 4 Number_of_coronoids: more_than_three three;
+{ 5 Coronoid_proportions: posterior_coronoid_same_length_as_middle_coronoid,_or_shorter posterior_coronoid_significantly_longer_than_middle_coronoid;
+{ 6 Dentary_tooth_row_reached_symphysis: yes no;
+{ 7 Dentary_fang_pair: absent present;
+{ 8 Number_of_fang_pairs_on_posterior_coronoid: one two none;
+{ 9 Tooth_infolding: none generalized_polyplocodont labyrinthodont dendrodont;
+{ 10 Number_of_fang_pairs_on_ectopterygoid: one two none;
+{ 11 Proportions_of_entopterygoid: anterior_end_level_with_processus_ascendens anterior_end_considerably_anterior_to_processus_ascendens;
+{ 12 Entopterygoids_meeting_in_midline: no yes;
+{ 13 Posterior_process_of_vomer: absent short long;
+{ 14 Anteromedial_process_of_vomers: absent,_vomers_seperated present absent,_vomers_in_close_contact;
+{ 15 Relationship_of_vomer_to_parasphenoid: no_contact,_or_simple_abutment overlap intimate_suture_with_lateral_edge_of_parasphenoid;
+{ 16 Internasal_pits: undiffererntiated strong_midline_ridge_but_shallow_pits deep_pear_-_shaped_pits;
+{ 17 Posterior_end_of_parashenoid: denticulate_field_extends_into_spiracular_groove denticulate_field_does_not_extend_into_spiracular_groove;
+{ 18 Enlarged_anterior_toothe_on_premaxilla: absent present;
+{ 19 Choana: absent present;
+{ 20 Width_of_ethmoid_relative_to_length_from_snout_tip_to_posterior_margin_of_parietals: more_than_80% 70%_-_80% 50%_-_70% less_than_40%;
+{ 21 Extent_of_crista_parotica: does_not_reach_posterior_margin_of_tabular reaches_posterior_margin_of_tabular;
+{ 22 Cosmine: present absent;
+{ 23 Pineal_foramen: present absent;
+{ 24 Parietals_surround_pineal_foramen/eminence Yes No;
+{ 25 Proportions_of_postparietal_shield: not_extremely_wide_posteriorly extremely_wide_posteriorly;
+{ 26 Postparietals_narrow_to_a_point_posteriorly: no yes;
+{ 27 Posterior_margin_of_tabulars: anterior_to_posterior_margin_of_postparietals level_with_posterior_margin_of_postparietals;
+{ 28 Median_postrostral: absent_(postrostral_mosaic) present absent_(nasals_meet_in_midline);
+{ 29 Number_of_nasals: many one_or_two;
+{ 30 Frontals: absent present;
+{ 31 Extratemporal: present absent;
+{ 32 Contact_between_the_extratemporal_and_supratemporal: absent present;
+{ 33 Supratemporal_series: complete tabular_only;
+{ 34 Posterodorsal_process_of_maxilla: present,__deep_throughout_its_length wedge_shaped,_deep_posteriorly weak_or_absent;
+{ 35 Jugal_-_quadratojugal_contact: absent present;
+{ 36 Relationship_of_jugal_to_orbit: contributes_to_orbital_margin excluded_from_orbital_margin;
+{ 37 Position_of_orbits: lateral_and_widely_spaced dorsal_and_close_together;
+{ 38 Preoperculosubmandibular: absent present;
+{ 39 Subsquamosals: absent present;
+{ 40 Extrascapular_overlap: no_strong_overlap lateral_overlap_median median_overlaps_lateral;
+{ 41 Anterior_margin_of_median_extrascapular: point_or_short_contact broad_extensive_contact;
+{ 42 Dermal_intracranial_joint: absent present;
+{ 43 Endoskeletal_intracranial_joint: absent present;
+{ 44 Basicranial_fenestra: absent present;
+{ 45 Contact_margin_for_clavicle_on_cleithrum: straight_or_faintly_convex strongle_concave;
+{ 46 Anocleithrum: exposed subdermal;
+{ 47 Archipterygial_pectoral_fin: yes no,_metapterygial_fin;
+{ 48 Body_of_humerus: cylindrical flattened_rectangular;
+{ 49 Radials: jointed unjointed;
+{ 50 Dorsal_and_anal_fins: present absent;
+{ 51 Caudal_fin: heterocercal diphycercal;
+{ 52 Basal_scutes: absent present;
+{ 53 Scale_morphology: rhomboid_with_internal_ridge round round_with_median_boss;
+{ 54 Mesial_lamina_of_splenial: absent present;
+{ 55 Suture_between_anterior_coronoid_and_splenial: absent present;
+{ 56 Accessory_tooth_row_on_dentary: present absent;
+{ 57 Meckelian_exposure_in_precoronoid_fossa: present absent;
+{ 58 Mesial_parasymphysial_foramen: absent present;
+{ 59 Anterior_end_of_anterior_coronoid: toothless toothed;
+{ 60 Dermal_ornament even seperate_"starbust"_on_each_bone;
+{ 61 Coronoid_fangs_larger_than_marginal_teeth: yes no;
+{ 62 Coronoid_fangs_mesial_to_marginal_tooth_row: yes no;
+{ 63 Palatal_fangs_mesial_to_marginal_tooth_row: yes no;
+{ 64 Subterminal_mouth: absent present;
+{ 65 Intertemporal_bones: present absent;
+{ 66 Proportion_of_skull_roof_(measured_as_length_from_tip_of_snout_to_posterior_margin_of_postparietals)_lying_anterior_to_middle_of_orbits: 0_-_<50% 1_-_50% >50%;
+{ 67 Relative_size_of_prefrontal_and_postfrontal: similar prefrontal_much_bigger;
+{ 68 Extrascapular_bones: present absent;
+{ 69 Jugal_extends_anterior_to_middle_of_orbit: no yes;
+{ 70 Lacrimal_excluded_from_orbit: no yes;
+{ 71 Submandibulars_and_Gulars: present absent;
+{ 72 Large_median_gular: present absent;
+{ 73 Interclavicle: small,_unornamented large,_ornamented;
+{ 74 Contact_between_postorbital_and_lacrimal: absent present;
+{ 75 Contact_between_postfrontal_and_supratemporal: no yes;
+{ 76 Postfrontals_extend_anterior_of_orbits: yes no;
+{ 77 Spiracular_notch: absent small_opening narrow_groove wide_notch;
+{ 78 Preopercular: large,_broad large,_bar-like small;
+{ 79 Transverse_joint_at_the_level_of_the_ulnare,_intermedium_and_radius: absent present;
+{ 80 Articulations_for_more_than_two_radials_on_the_ulnare: absent present;
+{ 81 Postaxial_process_on_ulnare: present absent;
+{ 82 Lepidotrichia: present_and_jointed_in_region_that_overlaps_endochondral_elements present_and_unjointed_in_region_that_overlaps_endochondral_elemenets absent;
+{ 83 Branchial_radials_distal_to_the_ulnare: absent present;
+{ 84 Shape_of_radius: bladelike subcylindrical;
+{ 85 Olecranon_proces_on_ulna: absent present;
+{ 86 Anterior_termination_of_ventral_ridge: adjacent_to_the_caput_humeri offset_distally_toward_the_proximodistal_mid_-_region_of_anterior_margin_of_humerus;
+{ 87 Ventral_ridge_orientation: diagonal_to_long_axis_of_the_humerus perpendicular_to_long_axis_of_humerus;
+{ 88 Radial_facet: faces_distally has_some_venterally_directed_component;
+{ 89 ulnar_facet: faces_distally has_some_venterally_directed_component;
+{ 90 Ectepicondylar_process: terminate_proximal_to_epipodial_facets extend_distal_to_epipodial_facets;
+{ 91 Radial_length: longer_than_humerus shorter_than_humerus;
+{ 92 Area_proximal_to_radial_facet: short,_cylindrical_leading_edge,_with_no_muscle_scars enlarged,_sharp_leading_edge,_with_areas_for_muscle_attachment;
+{ 93 Coracoid_plate: absent present_and_extends_ventromedially;
+{ 94 Glenoid_position: elevated_from_plane_formed_by_clavicles offset_ventrally_to_lie_at_same_level_as_clavicular_plane;
+{ 95 Orientation_of_cleithrum: vertically_oriented:_tilted_less_than_10_degrees_caudally angulated:_tilted_over_10_degrees_caudally;
+{ 96 Cleithral_ornamentation present absent;
+{ 97 Anocleithral_ornamentation: present absent;
+{ 98 Attachment_of_scapulocorocoid_to_cleithrum: tripodal,_via_three_processes via_a_single_dorsal_process_of_scapulocorocoid_that_lies_flush_against_internal_surface_of_cleithrum complete_fusion_between_surfaces_of_the_scapula_and_cleithrum;
+{ 99 Subscapular_fossa: absent present;
+{ 100 Glenoid_orientation: posterior_and/or_ventral_orientation lateral_componet_to_glenoid_orientation;
+{ 101 Opercular: present absent;
+{ 102 Caput_humeri: ball_shaped subrectangular,_much_wider_than_high elongate_(bifid_or_strap_-_shaped);
+{ 103 Expanded_ribs: absent present;
+{ 104 Imbricate_ribs: absent present;
+{ 105 Intermedium_shape narrow,_tapered broad_or_flared;
+{ 106 Entepicondyle_size entepicondyle_narrow entepicondyle_as_broad_as_humerus_is_long;
+{ 107 Radius_shape narrow,_tapered broad_or_flared radius_shortened;
+{ 108 Termination_of_radius radius_and_intremedium_terminate_at_different_levels radius_and_intermedium_terminate_at_same_level;
+{ 109 hyomandibular_shape long_and_distally_terminating_near_jaw_joint short,_opercular_process_high_up_dorsally very_short,_laterally_directed;
+{ 110 Basibranchial_shape short,_round elongated,_paired;
+{ 111 Hyomandibular_facets one_facet_proximally two_facets_on_proximal_head;
+{ 112 Nare two_pairs one_pair;
+{ 113 lateral_rostral present,_large present,_small;
+;
+
+
+ccode  - 0.113;
+
+
+;

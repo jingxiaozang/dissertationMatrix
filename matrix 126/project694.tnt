@@ -1,0 +1,350 @@
+nstates num 9;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 15.22.28'
+286 46
+
+&[num]
+PHOLIDOTA                   0-----------------------------------020---00--3----0-210?00011-01101010000-----00?0011000200020-200100-0-010--1-11000000?10000100?00001000000?00-----------01?0000100101012201010-0000--001-0-?1??0000000010012?10000001000??0020???00?00??0???00??1?110010000???01?0??011010?0???110200002011
+Palaeanodon                 100????10000?010?????????????0100000010001?01??????0?0?22?????????????????????????1???0??1??????????????0??????????????00?0???????????????1??????????????????01?????1???????????0???02?????000000?000????011012?1??001?22010?01002??12?101?001000?11?0?????110???1200??1000101?????1220?10001?
+Metacheiromys               10000001000012-0-0?0100011-00010----0?000000100000100022220001001000111010-0????0310110001000010002010-00010-000110000?00100000001000110000001000?0-------0110000100100300-10?1100000201?2101002020100??001101211?0001?22010?0100?0112?101?1010000?????????000???12001?000110??????02200100001
+Holmesina                   1100101000?122233104000000005716665301022100110000110000100003000?00010100-0?????000000001002010002101-00011000000000??0310010100000021100110000120----00002100?11?3?00302-100211010120100011003000001100?000?????00????????????????????01?20?10?2?0???0???000???0200??0100??1?????12010102312
+Glyptodont                  11101010001100133004100000001050778603022110110011210020111013001000011000-0????1310120002002010001??1-04??1??2001100??0310011200000121200110210120----0?00010002203000301-100?11000?201000100040001012?0?0000??000020??????????????????01?20010121001100??000???0200?20100??1?????12000102312
+Prozaedyus                  11101000???0002000031000000000100000020012000002001100001000?2001?01110000-0?????400000001002010002201-00210-0-0006-0??0010000100000????00110000120----0000210??0??0000100-100011-011201101011100101001000210101??0011011210?100000102?001?200000??????????00100210000101001020001000000000311
+EUPHRACTUS                  11101000101122100003000000000010000002022200110000110000100002001000110000-0010104100100010000110020?1-0021100-0006-0100010000100000011000110000120----0000210000102000300-000?1100012010010111000010?0000210101100011011210?100000102?001?200000211011000000?00210000101001020000100001000311
+TOLYPEUTES                  11101000101000100003000000000010000002022100110000110000?00002001201110000-001010300010001002010002001-00?1100-0006-0100010000100?00011000110000000-------021?001103?00?00-001111101120100?011100011010000100?0?1000?0020010?1000021?2??110200?012000110000000???12000101001??0001000000000311
+Palaeomyrmidon              0-----------------------------------?????????????????????????????????????????????40?3000?00??2??200011-0-000-??-????????0002??3100??--0-0011??0????????????????????01?0?1000??010-0012?0002-000?11100?????1??12????00??2????????????????01??????2????????????0??????120??????0?????00??1??2?01
+CYCLOPES                    0-----------------------------------000-2000?1020120-211002000-11000010100--10010400100000010200200210-0-010-02-11000?10000210310000--0-00110001-----------0001000101100100001010-101100021-0122010000000001012?10100002000??0000?0?01?101?00?1020010110011100???12?11011111000010100101002001
+Protamandua                 0-----------------------------------??????????????????????????????????????????????0???00?00002?02???1???-010-??-???????0?002??310?0?--0-00110000???????????100100???01?????00?010-0012000??-00??0?0000??0011012010100002????????????????11100000201??????????0??????1?011101???????????????1??
+TAMANDUA                    0-----------------------------------000-0-00--300100-220002000-11000010100--0??10100000000000200200200-0-010-02-11000120000-1-311000--0-20111100000-------1100?000001100000001010-100100011-0011111000200011010010100002000??00?0???10?101?00?1020110110001100???12?12011101?00111100001000001
+MYRMECOPHAGA                0-----------------------------------000-0-00--300100-210002000-11000010100--10010000000000010200200200-0-010-0--11000?10000-1-311000--0-20111000000-------110?1000001100000001010-100100020-0021101000200111010?10100012000??00?0???10?101?00?1020110110001100???12?12011101?00111100011000101
+Octodontotherium            12011010?02?00101112100001010010667321012200102011011????????3001?210?0?1100?????310431101?01100011010???011?1201??????1431?1?00021?122210100000320010?0??10?1????????02110?0?11?0?00200011?0010110101?????01??????0??????11????00??1??11?0101?010?00011?102111?02230?2??11??3?????00211012101
+Octomylodon                 14001-10202?--101---------??--4566635310120?10021?2010222?1?13002?021110110-??????0031???11???00????????00?1???????????????0??0001??122200????003?0?01?2?0101?????????01110???1?00?002???1?0?????????????????????????????????????????????0?1???????????????????????????????????????002????2??1
+Pseudoprepotherium          120110102020?0100102210001000010007421012?0??1??1?00102220111310101201101100????100?3?10?1100?00101?10110111?1201??????142111?000???122210100201??0???????10121102?10001110?131?02100200?100001111110???0??01??????0???2??1101110020121111010110101000011102110111330?210111121???000211012101
+Thinobadistes               12011010202011110110000011011110407421002200?0011111102211011210011100001101131?12012311?1110?10011010110011??10132-0??14311110002??1222001000013100001010101?????????02011?131000?002000020000101010??????????????0??????110?110???12?11111?12?1??????????2?1011???0?21111????????002?1112?01
+Lestodon                    12011110203011110110100111001?1040744100210010111111103211011110012100001102?????000321101111?1?0111101102????1?13101???4311100002??122210??0000310010021012110?1?????02111?032000?002000100000111010????00010000??020?01?01001?0?1?10?1111102101100001111121101123202211110?3?111000210012101
+Pleurolestodon              12011010202?00110112000001010113447441012?010020110110??2?0?1210012100001100?????300321101110010111110110011010013101??143111?0002??1222101000003100000011101???12??0?0111121?100010020000000001120???????0???0???00?0??????????????????11110????????????????1011???0??????????????002110?2?01
+Glossotherium               120110102020??1101101000110111134474310?220110201101102221011210012100001100131??200?311?1110?10111?10110011??0?13101??1431111000210122210??010030000000111012011?????02111?131?00?00200001000210101010000001000001020001201??0?0?1?10011111011?11?0????11021101123202211110?3?11?100211012101
+Paramylodon                 1201101020200011011?1000010100134474?10?2101?020110110222101121001210000110013111000321111110010111110110011010013111?21431111000210122210100?00310000001110120112010002111213100010020001?0011101010200010?100?0010?000???1??1?????100111110110110010111102110112320?211110??0111000211012101
+Nematherium                 120110102020201201021100010004104475?1001?0010201111102220101210?20101101100131?12003000?100020?0010?00?001111?013000??14111100001??1222001002113?1????1??10121102???00111010210001?02000120002101110?0000101010000010?222110011002112111001111011?0???????21101112?011111111??11??00210012111
+Catonyx                     1200101020202212310421000000043455755100220010201101101220201210220200101100131??000111001001100011210011001010102001?215111110002101222?010000030001000111012011201000110020?1000?0120001101021011101100020100100?010??22110011002012111101022011200000???2111111320121111?13?????00211012101
+Scelidotherium              120010102020221231042100000004345575210022001020110110122??0131020020000?100????0000101001001100111210011001110002001??15111010001101222101102003000110011101?01020100111102031001?0020001001021010001100020100100001002221100110020121111010220111000001102111111320121111?13?110000211012101
+Mylodon                     130110102020-0110-01---00100-01040743101220?1?201?011?22?????210012200001100?????000311001110110111???1102110?0003011??1431110000210122210100?003000000011101?0112010002101213200010020001100101010102000?00100?0000?0002211001100201211111101101110101111121101123301211110131111000211012101
+CHOLOEPUS                   12311110202011100110001111?111000011210010001100111?1032110113001021010?11?10211240013010220110?00101?1001?100210310011133100?000110122221100100210-1011101012?102??000110212321100002010100102111110100000010110100?011?111111202101101111?012000110110011211??11210111011??11111012210100302
+Acratocnus                  12311110212?1112211000111100112121?15312210010211120003211001300120001011102????1200330102202?01001012102211002113????203310000001??1222001001113010311111121?110203100202210321120002010020102111110?00001011010110001022111012021011011?0102?01111011011121111012101110110?11??1012210?01302
+Neocnus                     1231?11?21??1112211?0011110022202151?312??001???1??0003221001??01?0?0????102?????30?1001?220020??0110??122110?-11???????33111?0001????2?0?100111??????????1??0?1?20?1003112101110?111?11?020??21?01101???????11????0?0??????????????????10?00?0?????????????????????0??11?1?????????1?????03?2
+Parocnus                    12311110212?11122121001111?0222122314312110000201120003111001300220101000102????1300??010200120?101?1??02211??2?1??????03310100002??????2???01113?102??110101??1120?1?02012?2321?2?0020100?1?011111111000?1??01??????0??2?1???1?0???1??110?10?2????????????2110101?10??1111??1?????12?10002?12
+Megalocnus                  12311110212?111221210011110022212231531211000020112000?111101300100010010102????120?320112200?001010??1022?1?0201?????2033101100021????220????1?3010211111101?1102????02022?231102?012010121?02100111110???01?0??0?0??????11??1??0??1??1100202201111011011?2110101210?11011??21????12110102302
+Pliomorphus                 1231?1?0212?1??22110001111??1?2?2?3??????????????????????????????????????????????3113201?220220100101??0221?????1??????133101?0002??????001001113210001210121111?2??1?0302210?1?021002010100002111111??00111110?11?000?02?11??1?1?2?1?0110010?1?1??1???????211?1?12101111110??1?????22111?23?2
+Pliometanastes              1231?110212?11122110???111??112122314312111?0?211?100022110?1300200101100102??????1??????2?0?0??0?????1????110-????????1?31???000?1??2?20010??113?1?1?????12121???????0?0???03??0???02010???00211?110?10?11111?????000??2?110?1?1???1?011012?2??1?????0????2?101012?011101001??????122110?1302
+Megalonyx                   1231111021201112212500111110?321223153122211110011200121100?1200120001010102????231133101200201?01101010421111-0133-??2133111100021112210010011032111112100213110201100302-1021102101201000100211211111001111101000000122211011110211101101202100111010011021101012401110101131111012010?02302
+BRADYPUS                    120110102020021001?100000?0006200023410?22101?0211200??13?0011001?00010101?01211240041001100020010101200001111-0130??021111010000210022100010301220-111210101?11120310?2010102?11011021001201021110102000?1111011011011121110001112111111001000100110110001200?0201101110101110110100211000200
+Pronothrotherium            1220111021200010211?20000110002111413310?210102211?00022200?1200?2010??0?111131?2201100001000201001????0011111111??????1321110000111?2?200100311321111?1??101011020?101311010?1?001112110110102101110111111011010000001222110111002112011001000101210100???21111011301111101140????00211021300
+Nothropus                   122011102120001021112000011000212121331021101022112001221?0012101?0101100111?31??301200011100201101210000201111112400??13210100002111222201002113011110111101?1102?10?1211012?11001012110?10110?01?1??1111100101000000122211011100211201100100110121010????2110101230011111114?110100211012300
+Nothrotherium               1400?-1?2120--?02---------10--2?2???2310021?0?2211200?21?????2002?020?1?011-1???22012000?10000011010?0?00011110112400??13211110002111222221002113211111111101?1102011?1311010311001112110010111?0110011110101101?00000??221101??002?1??110010?0?0?11???????211?1011301?1???013?????002?1??2??0
+Nothrotheriops              14001-102120--102---------10--2122?1231022101002112001212000130022020110011-131?2201210001000001101000000011110112400?2132111100021112222210021130111101101012110201?0131001021100101211011010210110011111101101100000112211011120211201100100110131010011121111011401111100141010100211012300
+Eucholoeops                 1221111021201110211000111110112111?13310??10100211?0002120001200?2010111?1?2121??20?32110100200100101?003211002112400??1231010000?10122200100111??1???????121211?20100121101011101101211110010211?1101000?101??????????1??11?111012011011001112111110100???21101011100111101110????00211020301
+Hapalops                    122?1110212000102111100?0110002111?1?310??1011?21110002220011?00?201011??1??????2?01??000100?201?01010000?111?2112400??1341010000?101222001003113?11111110101211?201?01211010?11?0???2111??0?0211?1101000110110100000001221101110121111110011101111101000112110111110011110?110????00211020301
+Planops                     12201110212000102111200001100021114133102210?1221100002220011310220211100111????210?20000100?20110111000011111211??????132101000021?022200100311??1???????1012110201101201010?11011002110100001101110110011011000?1000022211011?1?2?1?011001000111110110???21101111401111101?3?????00211020201
+Eremotherium                12001010213022002105210000104522332233122210110111100122300?1300200211000120121?230130001?002110001210?02011??1113000?20441011000210122110??0312321011001102110112??0?0312-2021?0210121101010021111102100111112?1011010210110111102012011001000111110100110211010113011101?1120110001211020200
+Megatherium                 1200101021302200210521000010452233225312221111011111012?30011300200210000120131111013100121011101011100020?1??1002500?20?210100002??122100??0112321011001100120112?3?00211-1032112?01211010100?112110??0?11111201011010210110111102012011001001111?1????11?21101021301110101120????01211020310
+Schismotherium              12001010212?00102111100001100001112133102?1011221120002220?01200?001?11111?1????2301310001000?0100101000011111211??????114101000021?122200100011??1????211101211?20?000211010?1110?11200?1100021001101???02010010?00100122110111011111101001010011110100??121100011101111101110????00211020301
+Pelecyodon                  12001010212?001021110000011000001141?310211011??11?000222?1?1?002?0?01111101????220?3100?1002??100101??00211??2112?????13410100002??122200100211301111????1012111201??0?11010?11101112000010002101110????01010010??00001221101110111111110010000101????????2110101210111110111?????00211020301
+Analcimorphus               1220111021200??0211121000110000?1?2?????????????????????????????????????????131??20?210001002?01001010000111??2112?????1321010000210?22200100211??1???????121?110211?0?11101021100100211111000211111020001101101000000?222111111002112111001?0111111????11121101011101?11101110????00211020311
+
+;
+
+
+cnames
+{ 0 Teeth_(presence) absent present;
+{ 1 Dental_formula typical_mammalian_dentition,_with_true_incisors,_canines,_and_postcanines identifiable_incisors,_canines,_etc._absent,_at_least_7_upper_teeth,_8_lower_teeth 5_upper_teeth,_4_lower_teeth 4_uppers,_4_lowers 4_uppers,_3_lowers;
+{ 2 Toothrow horizontal_in_lateral_view upper_toothrow_concave,_lower_toothrow_convex C1_and_c1_slightly_depressed_ventrally_relative_to_the_remaining_molariforms C1_and_c1_strongly_depressed;
+{ 3 Left_and_right_toothrows parallel_in_occlusal_view anteriorly_divergent;
+{ 4 Inclination_of_teeth teeth_implanted_vertically upper_teeth_slant_labially_posteriorly,_lower_lingually_posteriorly;
+{ 5 Diastema absent_or_rudimentary elongate;
+{ 6 Teeth_(crown_height) brachydont hypsodont;
+{ 7 Enamel absent present;
+{ 8 Modified_orthodentine_core_of_teeth absent present,_small,_typically_avascular present,_large,_typically_well-vascularized;
+{ 9 Thickness_of_orthodentine thick_layer,_thickness_greater_than_or_equal_to_the_thickness_of_outer_layer_of_enamel_or_cementum thin_layer,_thickness_less_than_outer_layer_of;
+{ 10 Outer_layer_of_cementum absent forms_thin_layer_around_outside_of_tooth forms_thick_layer_around_outside_of_tooth greatly_hypertrophied,_nearly_as_thick_as_core_of_modified_orthodentine;
+{ 11 Premaxillary_teeth absent present;
+{ 12 Size_of_upper_canine_(C1) smallest_tooth greatly_enlarged neither_the_smallest_nor_enlarged;
+{ 13 Size_of_lower_canine_(c1) smallest_tooth greatly_enlarged neither_the_smallest_nor_enlarged;
+{ 14 Size_of_m3 smallest_molariform largest_molariform,_or_equivalent_in_size_to_the_largest neither_the_smallest_nor_largest_molariform;
+{ 15 Long_axis_of_molariform_teeth parallel_or_orthogonal_to_long_axis_of_the_toothrow oblique_to_long_axis_in_posterior_portion_of_toothrow oblique_along_entire_length_of_toothrow oblique_to_long_axis_in_anterior_portion_of_toothrow;
+{ 16 Occlusal_surface_of_molariforms beveled,_at_times_worn_flat with_large_anterior_and_posterior_step-like_facets with_strong_transverse_crests flat;
+{ 17 Anterior_extent_of_upper_and_lower_toothrow lower_toothrow_extends_anterior_to_upper upper_toothrow_extends_anterior_to_lower;
+{ 18 Morphology_of_C1/c1 molariform caniniform incisiform;
+{ 19 Wear_surface_on_C1/c1 oblique,_nearly_vertical_wear_facet oblique_facet lower_tooth_beveled,_upper_tooth_oblique upper_tooth_beveled,_lower_tooth_oblique both_teeth_worn_flat teeth_with_strong_transverse_crests;
+{ 20 Position_of_C1_relative_to_the_anterior_edge_of_the_maxilla right_at_the_edge_[separation_<3%_BNL] near_the_edge_[separation_>3%,_<10%_BNL] well-separated_from_the_anterior_edge_[separation_>10%_BNL];
+{ 21 Fossa_anterior_to_C1 absent present;
+{ 22 Fossa_on_palatal_surface_of_maxilla_posterior_to_C1 absent present;
+{ 23 Alignment_of_C1/c1 in_line_with_other_molariforms displaced_laterally_relative_to_molariform_toothrow;
+{ 24 Anterior_projection_of_alveoli_of_C1/c1 absent present;
+{ 25 Curvature_of_C1 straight recurved_posteriorly;
+{ 26 M4_curvature,_in_lateral_view straight curved_anteriorly;
+{ 27 M1_curvature,_in_lateral_view straight recurved_posteriorly;
+{ 28 Upper_canine_(C1)_cross-section ovate trigonal rectangular ovate,_with_posterior_bulge square reniform;
+{ 29 Lower_canine_(c1)_cross-section ovate trigonal,_apex_anterior meniscoid ovate,_with_posterior_bulge v-shaped,_apex_directed_laterally rectangular trigonal,_apex_posterior reniform;
+{ 30 Upper_first_molar_(M1)_cross-section circular ovate,_elongate_anteroposteriorly rectangular lobate,_transverse_width_>_anteroposterior_length bilobate reniform;
+{ 31 Lower_first_molar_(m1)_cross-section ovate_anteroposteriorly rectangular square irregularly_lobate irregularly_lobate_and_elongate_anterolabially_to_posterolingually,_compressed_perpendicular_to_long_axis bilobate reniform;
+{ 32 M2_and_M3_cross-section ovate_anteroposteriorly rectangular trapezoidal square lobate,_anteroposterior_length_?_transverse_width lobate,_transverse_width_>_anteroposterior_length bilobate trilobate;
+{ 33 m2_cross-section ovate_anteroposteriorly rectangular trapezoidal square irregularly_lobate irregularly_lobate_and_elongate_anterolabially_to_posterolingually,_compressed_perpendicular_to_long_axis bilobate reniform;
+{ 34 M4_cross-section ovate,_long_axis_orientated_anteroposteriorly circular rectangular trigonal reniform irregular bilobate T-shaped trilobate;
+{ 35 m3_cross-section ovate,_long_axis_orientated_anteroposteriorly circular trapezoidal bilobate elongate_and_irregularly_lobate S-shaped trilobate;
+{ 36 Depth_of_mandible shallow_&_elongate,_maximum_depth_of_horizontal_ramus_<=17.5%_of_MML >17.5%,_<=20%_of_MML >20%,_<=22.5%_of_MML >22.5%,_<=25%_of_MML,_(4)_>25%,_<=27.5%_of_MML >25%,_<=27.5%_of_MML short_and_deep,_maximum_depth_of_horizontal_ramus_>27.5%_of_MML;
+{ 37 Inferior_edge_of_mandible concave_in_lateral_view straight,_horizontal weakly,_uniformly_convex with_strong_convex_ventral_bulge;
+{ 38 Horizontal_ramus_of_mandible_bulges_mediolaterally_at_toothrow absent present;
+{ 39 Ascending_ramus_of_mandible_covers_posterior_teeth_in_lateral_view no partially yes;
+{ 40 Relative_position_of_processes_of_ascending_ramus condyle_posterior_to_coronoid_and_angle condyle_and_angle_subequal,_both_posterior_to_coronoid angle_posterior_to_condyle_posterior_to_coronoid;
+{ 41 Distance_between_processes_of_ascending_ramus condyle_closer_to_angle_than_coronoid three_processes_equidistant condyle_closer_to_coronoid;
+{ 42 Junction_between_ascending_and_horizontal_ramus_of_mandible horizontal_ramus_blends_into_ascending_ramus distinct_constriction_at_junction,_ascending_ramus_indented_below_anterior_to_base_of_angular_process,_joins_horizontal_ramus_well_dorsal_to_ventral_margin_of_horizontal_ramus;
+{ 43 Ascending_ramus_with_internal_ridge_running_obliquely_vertically_from_ventral_edge,_near_the_base_of_the_angle,_toward_the_last_tooth absent present;
+{ 44 Coronoid_process_hooked_posteriorly absent present;
+{ 45 Coronoid_process_with_medial_ridge_running_along_anterior_edge absent_or_rudimentary present;
+{ 46 Shape_of_coronoid_process elongate_&_narrow,_ratio_of_maximum_height_to_anteroposterior_length_measured_at_mid-height_>1.25 intermediate_development,_ratio_of_height_to_length_<=1.25,_>1.0 short_and_broad,_ratio_of_height_to_length_<=1.0 rudimentary_or_absent;
+{ 47 Shape_of_angular_process short_and_deep,_ratio_of_maximum_length_to_depth_measured_at_midlength_<_1.0 intermediate_development,_ratio_of_length_to_depth_>1.0,_<1.25 elongate_and_narrow,_ratio_of_length_to_depth_?1.5;
+{ 48 Medial_fossa_of_angular_process absent_or_rudimentary present;
+{ 49 Tip_of_angular_process_inflected_medially absent present;
+{ 50 Length_of_condyloid_process short,_<10%_of_MML moderate_length,_?10%,_<15%_of_MML elongate,_?15%_of_MML;
+{ 51 Condyloid_process_orientation inclined_posterodorsally_in_lateral_view posterior_edge_nearly_vertical;
+{ 52 Position_of_condyle_relative_to_dentition dorsal_to_toothrow at_or_just_above_level_of_toothrow;
+{ 53 Shape_of_condyle_in_dorsal_view expanded_mediolaterally ovate,_slightly_wider_than_long elongate_anteroposteriorly,_narrow_mediolaterally;
+{ 54 Shape_of_condyle_in_posterior_view concave flat evenly_convex convex_medially,_concave_laterally;
+{ 55 Inclination_of_condyle_in_lateral_view inclined_posterodorsally nearly_horizontal inclined_posteroventrally;
+{ 56 Condyle hooks_laterally_in_dorsal_view extends_medially_and_laterally hooks_medially medial_and_lateral_hook_rudimentary_or_absent;
+{ 57 Condylar_articular_surface forms_single_smoothly_confluent_surface with_distinct_but_confluent_medial_and_lateral_surfaces with_medial_and_lateral_surfaces_separated_by_groove;
+{ 58 Condyle_orientation_in_dorsal_view directed_posteromedially orientated_orthogonal_to_long_axis_of_mandible directed_posterolaterally;
+{ 59 Plane_of_condylar_articular_surface_changes_mediolaterally,_rolling_in_corkscrew_fashion_so_that_the_lateral_end_of_the_facet_faces_more_anterior_or_dorsal_than_the_medial_end absent present;
+{ 60 Mandibular_symphysis unfused fused;
+{ 61 Length_of_symphysis very_short,_<10%_of_MML short,_?10%,_<20%_of_MML moderate_length,_?20%,_<27%_of_MML elongate,_>28%_of_MML;
+{ 62 Position_of_posterior_end_of_symphysis_vs._dentition symphysis_ends_anterior_to_first_lower_tooth symphysis_extends_posterior_to_first_lower_tooth;
+{ 63 Symphysis_inclination anterodorsal anteroventral;
+{ 64 Profile_of_anterior_edge_of_symphysis_in_lateral_view convex straight concave;
+{ 65 Symphyseal_keel absent present_along_whole_length_of_symphysis present_on_symphyseal_spout_only;
+{ 66 Width_of_symphysis_at_midpoint narrow,_<=15%_of_MML moderately_wide,_>16%,_<19%_of_MML very_wide,_>20%_of_MML;
+{ 67 Length_of_symphyseal_spout rudimentary_or_very_short,_<10%_of_MML moderately_developed,_>10%,_<30%_of_MML elongate,_>30%_of_MML;
+{ 68 Junction_of_symphysis_and_lower_edge_of_horizontal_ramus forms_sharp_or_rounded_angle no_clear_demarcation_between_symphysis_and_horizontal_ramus;
+{ 69 Profile_of_anterior_edge_of_symphysis_in_dorsal_view flat rounded_or_pointed;
+{ 70 Lateral_edge_of_symphyseal_spout_everted absent present;
+{ 71 Lateral_edges_of_spout parallel converge_anteriorly;
+{ 72 Orientation_of_spout_in_lateral_view horizontal inclined_anterodorsally;
+{ 73 Posterior_external_opening_of_mandibular_canal absent present;
+{ 74 Position_of_posterior_external_opening_of_mandibular_canal canal_opens_laterally_on_horizontal_ramus canal_opens_anterolaterally,_on_ascending_ramus canal_opens_anteromedially,_on_internal_side_of_ascending_ramus;
+{ 75 Mandible_with_fossa_posterior_to_c1 absent weakly_developed strongly_developed;
+{ 76 Length_of_stylohyal short,_roughly_equivalent_in_length_to_epihyal_or_less_than_20%_of_BNL elongate,_longer_than_epihyal_or_greater_than_20%_of_BNL;
+{ 77 Shape_of_stylohyal_shaft_in_lateral_view curved,_concave_dorsally curved,_concavoconvex curved,_concave_ventrally straight;
+{ 78 Stylohyal_with_posterior_process absent present;
+{ 79 Ossified_larynx absent present;
+{ 80 Ratio_of_length_of_skull_to_length_of_humerus ?1.2 approximately_1.0 <1.0;
+{ 81 Skull_shape skull_elongate_and_narrow,_maximum_width_of_braincase_<_25%_of_BNL braincase_width_?25%,_<30%_of_BNL braincase_width_?30%,_<35%_of_BNL braincase_width_?35%,_<40%_of_BNL skull_short_and_wide,_braincase_width_?40%_of_BNL;
+{ 82 Shape_of_braincase high_and_narrow,_globose_or_tubular low_and_broad;
+{ 83 Position_of_orbit_in_lateral_view in_typical_mammalian_position displaced_ventrally,_lies_at_or_below_level_of_toothrow;
+{ 84 Length_of_snout_(preorbital_length_measured_to_tip_of_Nasal) snout_elongate,_preorbital_length_>45%_of_BNL preorbital_length_<40%,_?27% preorbital_length_<_27%,_?25% preorbital_length_<25%,_?15% snout_short,_preorbital_length_<15%_of_BNL;
+{ 85 Width_of_snout_measured_at_midpoint snout_narrow,_width_<_20%_of_BNL width_>20%,_<=25%_of_BNL width_>25%,_<=30%_of_BNL snout_broad,_width_>30%_of_BNL;
+{ 86 Height_of_snout snout_depressed_anteriorly deep,_elevated_anteriorly;
+{ 87 Shape_of_snout_in_dorsal_view uniform,_or_slightly_tapered_anteriorly widened_anteriorly;
+{ 88 Depth_of_nasopharynx shallow,_depth_<=10%_of_BNL deep,_depth_>10%_of_BNL;
+{ 89 Basicranial/basifacial_angle parallel,_but_whole_cranial_base_concave_in_lateral_view parallel,_cranial_base_roughly_horizontal reflexed;
+{ 90 Profile_of_dorsal_surface_of_the_skull_in_lateral_view horizontal_or_irregular profile_of_nasal_region_and_braincase_relatively_horizontal,_but_nasal_region_depressed_relative_to_braincase evenly_convex;
+{ 91 Temporal_fossa curved_anteroposteriorly_and_dorsoventrally flat;
+{ 92 Sagittal_crest absent_or_rudimentary temporal_lines_converge_but_do_not_contact crest_present;
+{ 93 Supraoccipital_exposure_on_cranial_roof absent small large;
+{ 94 Zygomatic_arch incomplete complete;
+{ 95 Fossa_behind_root_of_zygoma,_lying_anterodorsal_to_mastoid_process absent present;
+{ 96 Temporal_lines are_confluent_with_sagittal_crest_or_with_nuchal_crest_posteriorly do_not_meet,_curve_ventrally_and_run_anterior_but_parallel_to_nuchal_crest temporal_fossa_reduced,_temporal_lines_lie_far_forward_of_nuchal_crest;
+{ 97 External_nares moderate greatly_enlarged;
+{ 98 Inclination_of_lateral_wall_of_external_nares anteroventral vertical anterodorsal;
+{ 99 Length_and_width_of_nasal short_and_wide,_ratio_of_maximum_length_to_width_measured_at_midpoint_<_3.0 ratio_of_length_to_width_>3.0,_<4.0 elongate_and_narrow,_ratio_of_length_to_width_>4.0;
+{ 100 Nasal_width uniform_along_entire_length expands_anteriorly_and/or_posteriorly;
+{ 101 Anterior_edge_of_nasal with_lateral_process_and_medial_process_separated_by_distinct_notch evenly_convex straight_or_concave;
+{ 102 Anterior_edge_of_maxilla_with_fossa_lateral_to_external_nares absent present;
+{ 103 Anterior_edge_of_palatal_process_of_maxilla_extends_under_external_nares absent present;
+{ 104 Maxilla_elevated_for_dental_alveoli not_elevated elevated_in_the_middle,_along_the_length_of_the_molariform_row elevated_posteriorly_only elevated_anteriorly_only elevated_anteriorly_and_posteriorly;
+{ 105 Antorbital_or_buccinator_fossa_of_maxilla absent weak well-developed;
+{ 106 Maxilla_contacts_frontal_dorsally excluded_by_nasal/lacrimal_contact present;
+{ 107 Maxilla_with_orbital_exposure absent_or_rudimentary present;
+{ 108 Maxilla_contacts_lacrimal_within_orbit present excluded_by_orbital_exposure_of_jugal;
+{ 109 Jugal_participation_in_rim_of_maxillary_foramen absent present;
+{ 110 Anterior_extent_of_lateral_and_medial_palatal_processes_of_maxilla medial_process_anterior two_processes_of_equivalent_length lateral_process_anterior;
+{ 111 Maxilla_with_fossa_behind_last_upper_tooth absent present;
+{ 112 Attachment_of_premaxilla_to_skull tightly_sutured loosely_attached;
+{ 113 Dorsal_process_of_premaxilla very_large narrow_anteroposteriorly,_but_contacts_nasal^ndorsally reduced_in_height,_does_not_contact^nnasal absent;
+{ 114 Shape_of_palatal_process_of_premaxilla V-shaped,_narrow_mediolaterally V-shaped,_wide rectangular_plate,_left_and_right_halves_separate,_converge_anteriorly oval_plate,_left_and_right_halves_sutured_in_midline Y-shaped,_with_elongate_anterior_process_and_medial_and_lateral_rami_posteriorly with_elongate_anterior_process_and_posterior_medial_and_lateral_rami,_but_squared,_thickened_mediolaterally_and_dorsoventrally wide_elongate_flat_surface;
+{ 115 Relative_size_of_medial_and_lateral_rami_of_premaxilla lateral_ramus_much_larger lateral_and_medial_ramus_of_nearly_equivalent_size;
+{ 116 Shape_of_incisive_foramen ovate_or_triangular slit-like,_hidden_in_ventral_view_by_medial_palatal_process_of_maxilla;
+{ 117 Septomaxilla absent present;
+{ 118 Length_of_nasoturbinal_vs._maxilloturbinal nasoturbinal_shorter equal_length nasoturbinal_longer;
+{ 119 Mediolateral_contour_of_palate concave_between_toothrows flat_to_convex_between_toothrows;
+{ 120 Anteroposterior_contour_of_palate evenly_concave flat flat_posteriorly,_concave_anteriorly convex_posterior_to_dentition,_concave_anteriorly convex_along_length_of_toothrow,_concave_anteriorly evenly_convex;
+{ 121 Length_and_width_of_palate elongate_and_narrow,_widened_at_zygomatic_processes_of_maxilla elongate_and_narrow elongate,_slightly_widened_anteriorly elongate,_strongly_widened_anteriorly short,_uniformly_wide;
+{ 122 Palate_rugose,_with_many_pits_and_grooves absent present;
+{ 123 Palate_extends_posteriorly_and_dorsally_as_a_shelf_that_runs_alongside_the_inner_edge_of_descending_laminae_of_the_pterygoids absent present,_shelf_ends_at_midpoint_of_descending_lamina present,_shelf_extends_posteriorly_all_the_way_back_to_the_level_of_the_tympanic_cavity;
+{ 124 Palate_with_paired_anterior_foramina_that_open_into_distinct_grooves_that_run_anteriorly_toward_the_incisive_foramina absent present;
+{ 125 Postpalatine_foramina small_to_absent enlarged;
+{ 126 Palate_posterior_extent palate_ends_at_level_of_sphenopalatine_foramen palate_slightly_elongate_posteriorly,_ends_at_level_of_orbital_foramina elongate_posteriorly,_extends_to_level_of_glenoid_fossa greatly_elongated,_extends_posteriorly_to_level_of_tympanic_cavity;
+{ 127 Pterygoid_exposure_in_palate absent present;
+{ 128 Pterygoids_contact_in_ventral_midline absent present;
+{ 129 Width_of_interpterygoid_region narrow,_maximum_width_<=10%_of_BNL widened,_width_>10%,_£_15%_of_BNL very_broad,_width_>15%_of_BNL;
+{ 130 Pterygoid_exposure_in_roof_of_nasopharynx small__to_absent large;
+{ 131 Pterygoid/vomer_contact absent present;
+{ 132 Lateral_surface_of_pterygoid relatively_smooth rugose_laterally;
+{ 133 Pterygoid_hamulus present,_extends_posterior_to_anterior_edge_of_tympanic present,_short absent;
+{ 134 Pterygoid_descending_lamina absent small broad,_deep;
+{ 135 Inclination_of_posterior_edge_of_pterygoid_in_lateral_view concave_posterior_border straight,_nearly_vertical_posterior_edge straight,_anteriorly_inclined_posterior_edge;
+{ 136 Pterygoid_inflation uninflated inflated_only_at_base large_sinus_present;
+{ 137 Pterygoid_fenestra absent present_anteriorly present_posteriorly;
+{ 138 Size_of_lacrimal small_to_absent large;
+{ 139 Relative_size_of_facial_and_orbital_portions_of_lacrimal orbital_larger_than_facial facial_greater_than_or_equal_to_orbital_exposure;
+{ 140 Number_of_lacrimal_foramina one two;
+{ 141 Size_of_lacrimal_foramen small,_maximum_dorsoventral_diameter_<2%_of_BNL moderate,_diameter_?2%,_<2.5%_of_BNL large,_diameter_?2.5%,_<3%_of_BNL greatly_enlarged,_diameter_?3%_of_BNL;
+{ 142 Lacrimal_eminence absent presence;
+{ 143 Lacrimal_foramen_with_prominent_lateral_walls absent present foramen_opens_into_ventrally_directed_canal;
+{ 144 Shape_of_jugal simple,_no_processes with_large_descending_process with_large_ascending_and_descending_processes with_ascending,_descending,_and_middle_processes;
+{ 145 Postorbital_process_of_zygomatic_arch_(jugal_or_squamosal) absent weak present;
+{ 146 Jugal_and_lacrimal_overlap_facial_portion_of_maxilla_anteriorly_in_lateral_view absent presnt;
+{ 147 Middle_process_of_jugal elongate,_triangular short,_deep_dorsoventrally;
+{ 148 Width_of_ascending_process_of_jugal wide narrow,_slender rod-like rod-like_proximally,_with_large,_flat_distal_expansion;
+{ 149 Orientation_of_ascending_process_of_jugal_in_lateral_view oblique_to_nearly_horizontal nearly_vertical;
+{ 150 Relative_lengths_of_ascending_and_descending_processes_of_jugal ascending_process_less_than_or_equal_to_descending_process ascending_process_longer;
+{ 151 Width_of_descending_process_of_jugal wide wide_at_base,_tapers_strongly_toward_tip narrow;
+{ 152 Descending_process_of_jugal_hooked_posteriorly absent present;
+{ 153 Number_of_posteriorly_projecting_points_on_distal_portion_of_descending_process_of_jugal one two;
+{ 154 Attachment_of_jugal_to_skull firmly_sutured loosely_attached;
+{ 155 Position_of_infraorbital_canal canal_short,_ventrally_situated canal_elongate_and_ventral canal_elongate_and_displaced_dorsally;
+{ 156 Infraorbital_foramen_exposure_in_ventral_view unexposed exposed;
+{ 157 Relationship_of_foramen_ovale_to_orbital_bones foramen_surrounded_by_the_alisphenoid foramen_between_the_alisphenoid_and_squamosal foramen_between_alisphenoid,_pterygoidand_squamosal,_or_between_squamosal_and_pterygoid_externally,_with_alisphenoid_surrounding_the_opening_internally foramen_between_alisphenoid_and_pterygoid;
+{ 158 Foramen_rotundum confluent_with_the_sphenorbital_fissure separate;
+{ 159 Optic_foramen_vs._sphenorbital_fissure two_foramina_clearly_separate,_with_distinct_external_openings optic_foramen_empties_into_sphenorbital_canal,_two_foramina_share_common_external_aperture;
+{ 160 Position_of_sphenopalatine_foramen_relative_to_sphenorbital_fissure/optic_foramen situated_well_anterior_and_ventral_to_these_openings just_anteroventral_to_orbital_foramina,_situated_in_common_fossa displaced_posteriorly,_lies_between_optic_foramen_and_foramen_ovale;
+{ 161 Bony_ridge_lateral_to_orbital_foramina absent anterior_ridge_extending_from_wall_of_sphenorbital_fissure/optic_foramen_anteriorly,_foramina_open_into_anterior_groove ridge_continues_posteriorly_from_sphenorbital_fissure/optic_foramen_toward_glenoid,_often_with_large_muscular_process;
+{ 162 Orbital_exposure_of_orbitosphenoid small_to_absent well-developed;
+{ 163 Orbital_exposure_of_palatine low,_elongate_anteroposteriorly higher,_more_rectangular_or_square L-shaped,_with_tall_anterior_portion,_low_long_posterior_portion very_tall,_narrow_anteroposteriorly;
+{ 164 Alisphenoid_contacts_parietal_dorsally absent present;
+{ 165 Alisphenoid_and_pterygoid unfused,_or_fused_only_in_adults fuse_very_early_in_ontogeny;
+{ 166 Squamosal_with_lateral_bulge_at_root_of_zygoma_for_epitympanic_sinus absent_or_rudimentary present;
+{ 167 Length_of_zygomatic_process_of_squamosal reduced,_length_<=5%_of_BNL moderate,_length_>5%,_<=10%_of_BNL elongate,_length>10%,_<=15%_of_BNL greatly_elongate,_length_>15%_of_BNL;
+{ 168 Inclination_of_zygomatic_process_in_lateral_view ventral horizontal_or_slightly_dorsal;
+{ 169 Depth_of_zygomatic_process narrow_dorsoventrally,_depth_measured_at_midpoint_<_5%of_BNL moderately_deep,_depth_?5%,_<10%of_BNL deep,_depth_?10%_of_BNL;
+{ 170 Shape_of_free_end_of_zygomatic_process rounded broad_and_somewhat_flattened pointed;
+{ 171 Position_of_frontal/parietal_suture anterior_to_glenoid_fossa at_anterior_edge_of_glenoid well_posterior_to_front_of_glenoid;
+{ 172 Frontal_and_parietal_dorsal_shape convex_anteroposteriorly_and_mediolaterally flattened_anteroposteriorly_and_mediolaterally flattened_mediolaterally,_though_strongly_convex_anteroposteriorly;
+{ 173 Frontal_sinus confluent_with_maxillary_sinus_and_nasal_cavity absent small,_restricted_to_frontal large,_extends_into_parietal_and_nasal;
+{ 174 Postorbital_process_of_frontal absent weakly_developed strongly_developed;
+{ 175 Supraorbital_foramen absent present;
+{ 176 Postorbital_constriction absent_or_rudimentary strongly_developed;
+{ 177 Position_of_postorbital_process well_posterior_to_maxillary_foramen displaced_anteriorly_to_level_of_maxillary_foramen strongly_displaced_anteriorly,_lies_anterior_to_maxillary_foramen;
+{ 178 Parietal_with_distinct_anteroventral_process_extending_towards_orbital_foramina absent present;
+{ 179 Parietal_eminence absent_or_rudimentary present;
+{ 180 Inclination_of_occiput_in_lateral_view inclined_anteriorly vertical,_or_slightly_inclined_posteriorly;
+{ 181 Nuchal_crest_(development) absent weakly_developed strong;
+{ 182 Nuchal_crest_(shape) uniform_width splits_dorsally_into_anterior_and_posterior_occipital_crests,_which_together_outline_a_raised_triangular_area_in_the_dorsal_surface_of_the_skull_roof;
+{ 183 Nuchal_crest_position_vs._occiput in_line_with_the_posterior_surface_of_the_occiput overhangs_occiput_posteriorly;
+{ 184 Median_ridge_of_occiput extends_from_foramen_magnum_dorsally_to_the_nuchal_crest extends_dorsally_onto_the_roof_of_the_skull;
+{ 185 Distance_between_occipital_condyles widely_separate,_minimum_distance_between_condyles_(in_ventral_view)_>10%_of_BNL moderately_well_separated,_distance_between_condyles_<=10%,_>5%_of_BNL close_to_one_another,_distance_between_condyles_<=5%_of_BNL;
+{ 186 Condyloid_foramen_size small,_maximum_diameter_<2%_of_BNL moderate,_diameter?2%,_<3%_of_BNL enlarged,_diameter_?3%of_BNL;
+{ 187 Position_of_occipital_condyles_relative_to_dentition at_nearly_the_same_level_as_the_dentition situated_well_dorsal_to_the_dentition;
+{ 188 Posterior_edge_of_occipital_condyles protrudes_posterior_to_posterior_edge_of_foramen_magnum ends_at_or_anterior_to_posterior_foramen_magnum;
+{ 189 Exoccipital_crest_vs._occipital_condyles crest_separated_from_lateral_edge_of_condyles crest_abuts_lateral_edge_of_condyles;
+{ 190 Occipital_condyle_proportions_in_posterior_view mediolaterally_elongate,_ratio_of_maximum_width_to_maximum_height_?1.0 ratio_of_width_to_height_<1.0,_?0.75 mediolaterally_compressed,_dorsoventrally_elongate,_ratio_of_width_to_height_<0.75;
+{ 191 Occipital_condyle_shape_in_posterior_view rhomboid,_quadrangular roughly_triangular,_with_straight_or_slightly_concave_medial_edge,_strongly_convex_lateral_margin roughly_triangular_but_extended_far_medioventrally roughly_triangular_but_extended_laterally irregularly_shaped;
+{ 192 Occipital_condyles sessile with_distinct_neck;
+{ 193 Position_of_occipital_condyles_vs._condyloid_foramina condyles_lie_just_posterior_to_foramina,_minimum_distance_between_condyles_and_foramina_<1.0%_of_BNL distance_between_condyles_and_foramina_>1.0,<2.5%_of_BNL condyles_well-separated_from_foramina,_distance_>2.5%_of_BNL;
+{ 194 Occipital_condyle_shape_in_ventral_view condyles_not_conspicuously_elongated_anteroposteriorly condyles_elongated_anteroposteriorly;
+{ 195 Rectus_capitis_fossae absent present;
+{ 196 Shape_of_basioccipital wide_and_flat narrow_and_convex_mediolaterally;
+{ 197 Shape_of_basisphenoid uniformly_narrow triangular,_narrows_anteriorly butterfly_shaped,_with_two_posterior_processes_and_three_anterior_processes,_two_extending_laterally_and_one_in_the_middle;
+{ 198 Ethmoid_exposure_in_nasopharynx vomerine_wings_separate_exposing_intervening_ethmoid vomerine_wings_fused,_leaving_overlying_ethmoid_unexposed ethmoid_unexposed,_covered_by_posterior_extension_of_hard_palate;
+{ 199 Vomer with_short,_straight_ventral_keel,_or_with_keel_lacking_altogether with_elongate_asymmetrical_ventral_keel_extending_posteriorly_into_nasopharynx;
+{ 200 Exposure_of_vomer_in_nasopharynx small,_presphenoid_and_basisphenoid_broadly_exposed very_large,_covers_presphenoid_and_much_of_basisphenoid;
+{ 201 Tympanic_external_surface smooth rugose;
+{ 202 Tympanic_directed anteromedially anteroposteriorly anterolaterally;
+{ 203 Tympanic_attachment loose_dorsal_attachment fused_dorsally;
+{ 204 Attachment_of_posterior_crus_of_tympanic quamosal,_tympanohyal_and_mastoid squamosal/mastoid_bridge;
+{ 205 Medial_expansion_of_tympanic absent present;
+{ 206 Shape_of_tympanic elongate_dorsoventrally circular elongate_anteroposteriorly;
+{ 207 Styliform_process absent present;
+{ 208 Recessus_meatus absent present;
+{ 209 Sulcus_and_crista_tympanica prominent reduced;
+{ 210 Tympanic/pterygoid_contact absent present;
+{ 211 Tympanic_forms_posterior_wall_of_glenoid_fossa no yes;
+{ 212 Auditory_bulla bulla_completely_ossified_or_nearly_so,_membranous_bulla_absent_or_rudimentary,_entotympanic_and_tympanic_attached_along_entire_length,_petrosal_hidden_in_ventral_view membranous_bulla_small,_entotympanic_and_tympanic_unattached_or_attached_only_anteriorly,_petrosal_narrowly_exposed_ventrally bulla_poorly_ossified,_membranous_bulla_large,_entotympanic_and_tympanic_unattached,_petrosal_widely_exposed_ventrally;
+{ 213 Ossified_external_auditory_meatus_(ie._a_tubular_extension_of_the_tympanic_lateral_to_the_crista_tympanica) absent present;
+{ 214 Fissura_Glaseri opens_in_typical_xenarthran_position opens_into_distinct_groove_in_squamosal_lying_medial_to_entoglenoid_process;
+{ 215 Median_lacerate_foramen fully_exposed_in_ventral_view partially_covered_ventrally_by_entotympanic_and_tympanic fully_covered_ventrally;
+{ 216 Entotympanic_length_vs._tympanic_length tympanic_longer two_nearly_equal_in_length entotympanic_longer;
+{ 217 Ventral_extent_of_entotympanic_vs._tympanic entotympanic_dorsal ventral_extent_of_two_bones_roughly_equivalent entotympanic_ventral;
+{ 218 Size_of_entotympanic reduced_to_a_small_plate_or_blocky_structure,_does_not_extend_to_anterior_end_of_promontorium prominent,_extends_to_or_beyond_female_end_of_promontorium;
+{ 219 Entotympanic_form_and_position vertical_plate_situated_on_medial_portion_of_ventral_surface_of_petrosal laterally_situated_vertical_plate_with_horizontal_medial_expansion_dorsally;
+{ 220 Entotympanic_lateral_plate thickened_mediolaterally very_thin;
+{ 221 Ventral_edge_of_entotympanic flat_in_lateral_view extended_into_anteroventral_process;
+{ 222 Entotympanic_width fairly_uniform_throughout_its_length widened_posteriorly;
+{ 223 Entotympanic_lateral_surface concave flat_vertical_surface_ventrally_with_deep_dorsal_hollow flat_vertical_surface;
+{ 224 Entotympanic_directed anteromedially anteroposteriorly anterolaterally;
+{ 225 Dorsal_edge_of_entotympanic strong_concave_curvature_in_lateral_view,_with_dorsal_projection_at_anterior_end weakly_curved,_without_dorsal_projection flat,_or_nearly_so;
+{ 226 Entotympanic_participation_in_sulcus_for_internal_carotid_artery forms_lateral_wall_of_sulcus forms_lateral_wall_and_at_least_part_of_the_roof forms_lateral_wall,_roof,_and_has_medial_ridge_forming_at_least_part_of_the_medial_wall;
+{ 227 Lateral_process_of_entotympanic_extending_above_anterior_portion_of_tympanic absent present;
+{ 228 Entotympanic_lateral_extension_contacting_tympanohyal absent present;
+{ 229 Entotympanic_participation_in_tympanic_cavity_floor rudimentary_or_absent weak_participation_in_medial_portion_of_floor strong,_forming_almost_entire_medial_half_of_floor;
+{ 230 Position_of_medial_expansion_of_en_to_tympanic dorsal_to_floor_of_basicranium at_level_of_basicranium;
+{ 231 Entotympanic/mastoid_contact absent present;
+{ 232 Mastoid_depression absent present;
+{ 233 Mastoid_lateral_exposure weak strong;
+{ 234 Depth_of_mastoid_depression narrow,_fairly_deep broadened,_shallow;
+{ 235 Mastoid_process rudimentary_or_absent well_developed greatly_enlarged;
+{ 236 Mastoid_process_foramen absent present;
+{ 237 Nuchal_and_exoccipital_crests_(in_posterior_view) parallel diverge_distally diverge_proximally,_converge_distally;
+{ 238 Paroccipital_process weakly_developed_or_rudimentary well-developed greatly_enlarged,_free_standing_process;
+{ 239 Pterygoid_lateral_groove absent present;
+{ 240 Pterygoid_participation_in_bony_wall_of_tympanic_cavity absent present enlarged_to_form_entire_medial_wall;
+{ 241 Shape_of_promontorium globose dorsoventrally_elongate,_flat_anteriorly_and_globose_posteriorly anteroposteriorly_elongate,_flat_anteriorly_and_globose_posteriorly;
+{ 242 Processus_crista_facial_is small,_reduced_plate large,_concave_plate large,_rugose_bony_mass enormous,_exposed_external_to_tympanic_cavity;
+{ 243 Epitympanic_sinus absent present;
+{ 244 Stapedius_fossa circular,_situated_directly_posterior_to_fenestra_ovalis anteroposteriorly_elongate,_bounded_by_strong_ventral_ridge,_situated_lateral_to_fenestra_ovalis_in_ventral_view;
+{ 245 Fossa_incudis situated_in_posteromedial_comer_of_wide_epitympanic_recess occupies_entire_posterioventral_wall_of_epitympanic_recess;
+{ 246 Lateral_exposure_of_fenestra_cochleae small well-developed;
+{ 247 Medial_groove_of_fenestra_cochleae rudimentary_or_absent well-developed;
+{ 248 Internal_auditory_meatus shallow_fossa_perforated_by_large_foramina deep,_undivided_canal;
+{ 249 Direction_of_internal_auditory_meatus medial posteromedial;
+{ 250 Position_of_subarcuate_fossa_relative_to_internal_auditory_meatus posterodorsal dorsal;
+{ 251 Direction_of_tympanohyal initially_posterolateral,_then_turns_distally_and_runs_posteromedial posterolateral_distally strongly_ventrad_distally;
+{ 252 Width_of_tympanohyal roughly_uniform_along_entire_length greatly_widened_distally;
+{ 253 Stylohyal_fossa absent present;
+{ 254 Shape_of_stylohyal_fossa circular oval;
+{ 255 Stylohyal_articulation_elements mostly_tympanohyal tympanohyal,_mastoid,_entotympanic,_and_paroccipital_process_of_exoccipital;
+{ 256 Direction_of_stylohyal_articulation ventral ventrolateral posterior;
+{ 257 Position_of_stylomastoid_foramen posterolateral lateral_or_anterolateral directly_anterior;
+{ 258 Direction_of_stylomastoid_canal dorsal posteroventral posteroventrolateral ventrolateral;
+{ 259 Connection_of_stylomastoid_foramen_and_foramina_for_occipital_a./a._diploetica_magna no_connection stylomastoid_foramen_connected_to_widely_separate_dorsal_foramen_for_a._diploetica_magna_via_open_groove_for_occipital_a. stylomastoid_foramen_connected_to_nearby_ventral_opening_of_canal_for_occipital_a._by_weak_groove stylomastoid_foramen_connected_to_nearby_ventral_opening_of_canal_for_occipital_a._by_strong_groove stylomastoid_foramen_and_ventral_opening_of_canal_for_occipital_a._open_into_same_fossa;
+{ 260 Position_of_eustachian_tube anteromedial_comer_of_tympanic_cavity posteromedial_corner;
+{ 261 Elements_in_eustachian_tube_opening entotympanic_and_tympanic entotympanic,_tympanic,_and_pterygoid tympanic,_pterygoid,_and_basioccipital/basisphenoid;
+{ 262 Direction_of_eustachian_tube posteroventral ventral anterior;
+{ 263 Size_of_the_posterior_lacerate_foramen small greatly_enlarged;
+{ 264 Shape_of_posterior_lacerate_foramen circular oval;
+{ 265 Posterior_lacerate_foramen_inset_below_and_behind_entotympanic_and_petrosal no yes;
+{ 266 Position_of_posterior_lacerate_foramen_relative_to_condylar_foramen close well-separated;
+{ 267 Internal_carotid_artery_foramen_(within_entotympanic_or_between_entotympanic_and_basicranium absent present;
+{ 268 Slope_of_internal_carotid_artery_sulcus anterodorsal saddle-shaped,_first_anteroventral_then_anterodorsal;
+{ 269 Grooves,_canals,_and_foramina_of_occipital_a._and_a._diploetica_magna a._diploetica_magna_travels_along_side_wall_of_braincase,_where_it_enters_cranial_cavity occipital_a._travels_in_open_groove_near_petrosquamous_suture,_a._diploetica_magna_branches_off_dorsally_to_enter_foramen_leading_into_braincase occipital_a._travels_within_partially_closed_canal occipital_a._completely_enclosed_within_canal canal_for_occipital_a._short,_perforates_mastoid_process_dorsoventrally;
+{ 270 Foramen_magnum_venous_sinus absent present;
+{ 271 Shape_of_mallear_head_in_dorsal_view rounded parallel-sided;
+{ 272 Size_of_dorsal_and_ventral_incudal_facets_of_malleus_inlateral_view dorsal_>_ventral facets_subequal;
+{ 273 Lamina_and_anterior_process_of_malleus small enlarged;
+{ 274 Angle_between_manubrium_and_neck_of_malleus much_less_than_180'_(ca._110'_to_130') near_180';
+{ 275 Glenoid_position_relative_to_superficies_meatus_(the_latter_defined_as_the_groove_on_the_ventral_surface_of_the_squamosal_lateral_and_dorsal_to_the_tympanum) glenoid_at_or_above_meatus glenoid_ventral;
+{ 276 Shape_of_glenoid elongate_anteroposteriorly hemispherical widened_mediolaterally;
+{ 277 Glenoid_inclination posterodorsal horizontal anterodorsal;
+{ 278 Glenoid_medial_shelf absent present;
+{ 279 Glenoid_lateral_shelf absent present;
+{ 280 Glenoid_posterior_shelf absent present;
+{ 281 Posterior_surface_of_glenoid smooth grooved rugose;
+{ 282 Position_of_glenoid_relative_to_porus_acousticus just_anterior separate well-separate;
+{ 283 Entoglenoid_process rudimentary_or_absent weakly_developed,_appressed_against_lateral_side_of_descending_lamina_of_pterygoid weakly_developed_but_free-standing well-developed;
+{ 284 Postglenoid_foramen reduced_or_absent present;
+{ 285 Direction_of_root_of_zygoma anterior anterolateral lateral;
+;
+
+
+ccode  + 0 8 10 20 36.37 40.41 46.47 50.285 - 1.7 9 11.19 21.35 38.39 42.45 48.49;
+
+
+;

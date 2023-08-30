@@ -1,0 +1,104 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 15.13.46'
+59 27
+
+&[num]
+Zhelestidae_spp.                     020000010010000010110001?00011100100000100000??????????????
+Protungulatum_donnae                 01001000011000001011001100000000010000010000001101101000001
+Bubogonia_saskia                     ???????01110100010010122110???????0???010?0?0??????????????
+Protoselene_spp.                     000101001010?10010010?22110011110010000100100??????????????
+Hyopsodus_spp.                       010001002010100010010?2101000110000001010011101110001000010
+Litaletes_disjunctus                 0100010010101000100111221000?1100001110100111??????????????
+Lessnessina_spp.                     010001001110100000111?2200?00110011?110100011??????????????
+Promioclaenus_acolytus               010101001010100010011121100001110100110100001??????????????
+Choeroclaenus_turgidunculus          0-011--01010100010021121100101--0100000100001?????001000111
+Mioclaenus_turgidus                  1-021--01020100000021-02200001--011?110010001??????????????
+Molinodus_suarezi                    ?20000001?201000100210311000010001000001000001220100-000010
+Paschatherium_spp.                   0200020100210101101000001010210011000?020010010111110111001
+Dipavali_petri                       021100001021010101200000201??????100010210100??????????????
+Louisina_atavella                    020000011021010101200020201120011100111200101??????????????
+Louisina_mirabilis                   020000011021010101200???201??????10?111200201??????????????
+Microhyus_spp.                       0-000--220110-1101200120201121111100111110201??????????????
+Litomylus_dissentaneus               011011001?11010010010021000001000000000100100??????????????
+Aletodon_spp.                        111011002011011010110021100001??0000?1010?100??????????????
+Gingerichia_spp.                     1-011--11011010010010021100100000101000100100??????????????
+Phenacodaptes_sabulosus              110100101011011000010021100100000101110000100??????????????
+Apheliscus_spp.                      1-00011010110-100001002101010001011111000000012200110111001
+Haplaletes_disceptatrix              011000011101010010000000000011110000110100100??????????????
+Dorraletes_diminutivus               00100000110101001001?0?1100011010000010101100??????????????
+Haplomylus_spp.                      00100000110101001001102110001111000001010101-12220111112101
+Haplaletes_pelicatus                 010100011011010010000000000????????????????????????????????
+Utemylus_spp.                        ?-021--2101101001000-10000000110000011010100-??????????????
+Aphronorus_spp.                      120101000010010010110021010101000100000100000??????????????
+
+;
+
+
+cnames
+{ 0 p4_size subequal_to_m1_or_somewhat_smaller markedly_larger_than_m1;
+{ 1 p4_paraconid better_developed_than_metaconid as_developed_as_metaconid weaker_than_metaconid;
+{ 2 p4_trigonid anteroposteriorly_short_and_high_crowned elongate_and_low_crowned;
+{ 3 p4_protoconid uninflated_or_weakly_inflated moderately_inflated strongly_inflated;
+{ 4 p4_talonid_proportions anteroposteriorly_elongate abbreviated_anteroposteriorly;
+{ 5 p4_cristid_obliqua contacts_back_of_trigonid_at_level_of_notch_between_protoconid_and_metaconid more_buccally_beneath_posterior_protoconid_crest cristid_obliqua_absent;
+{ 6 p4_talonid_basining basined unbasined;
+{ 7 Distention_of_enamel_on_buccal_side_of_lower_molars absent weak strong;
+{ 8 Lower_molar_trigonid_heights much_higher_than_talonids somewhat_higher_than_talonids trigonids_and_talonids_subequal_in_height;
+{ 9 m1?3_buccal_cingulid absent_or_weak_and_restricted_to_hypoflexid strong_and_complete_at_least_around_the_trigonid;
+{ 10 m1?2_talonid_widths broader_than_trigonids trigonids_and_talonids_subequal_in_width trigonids_broader_than_talonids;
+{ 11 m1?3_paraconid_height tall_relative_to_protoconids_and_metaconids low;
+{ 12 m2?3_paraconid distinctly_separated_from_metaconid partially_to_completely_fused_to_metaconid_at_base;
+{ 13 Position_of_paraconid_on_m1?3 at_lingual_margin_of_crown between_protoconid_and_metaconid;
+{ 14 Molar_paracristid present_and_well_developed weak_to_absent;
+{ 15 m1?3_metaconid inflated,_size_subequal_to_protoconid uninflated_and_smaller_than_protoconid;
+{ 16 m2_cristid_obliqua_orientation nearly_parallel_to_anteroposterior_axis_of_crown oriented_around_45_degrees_to_long_axis_of_crown;
+{ 17 m1?3_hypoconid much_larger_than_other_talonid_cusps reduced_in_size,_smaller_than_entoconid;
+{ 18 Position_of_hypoconulid_on_m1?2 on_lingual_side_of_talonid,_twinned_with_entoconid in_a_median_position,_separate_from_hypoconid_and_entoconid shifted_buccally_and_twinned_with_hypoconid;
+{ 19 Size_of_hypoconulid_on_m1?2 much_smaller_than_entoconid_and_hypoconid slightly_smaller_than_entoconid_and_hypoconid larger_than_entoconid,_slightly_smaller_than_hypoconid;
+{ 20 Notch_in_postentocristid_between_hypoconulid_and_entoconid_on_m1?2 present absent;
+{ 21 m1?2_entoconulid absent_or_very_weakly_developed well?developed;
+{ 22 m1?2_entocristid present_and_ascends_posterior_slope_of_metaconid_to_close_talonid present_and_wraps_around,_but_does_not_ascend_the_base_of_the_metaconid present_and_terminates_at_the_base_of_the_entoconid extremely_faint_to_absent;
+{ 23 m2_entoconid taller_than_hypoconid subequal_in_height_to_hypoconid lower_than_hypoconid;
+{ 24 m3_trigonid_width subequal_to_or_slightly_wider_than_m2_trigonid_width somewhat_narrower_than_m2_trigonid_width much_narrower_than_m2_trigonid_width;
+{ 25 m3_talonid_width narrower_than_m3_trigonid subequal_to_trigonid_width;
+{ 26 m3_talonid_length elongate anteroposteriorly_compressed;
+{ 27 P4_parastyle present_and_relatively_well?developed weak_to_absent;
+{ 28 P4_metacone absent weakly_developed well_developed_and_well_separated_from_paracone;
+{ 29 P4_protocone much_smaller_than_paracone slightly_smaller_than_to_subequal_to_paracone;
+{ 30 P4_preprotocrista complete_between_protocone_and_parastyle,_interrupts_anterior_cingulum incomplete_such_that_the_anterior_cingulum_continues_to_parastyle_uninterrupted;
+{ 31 P4_postprotocrista complete_between_protocone_and_metastyle,_interrupts_posterior_cingulum incomplete_such_that_the_posterior_cingulum_continues_to_metastyle_uninterrupted;
+{ 32 P4_hypocone absent present;
+{ 33 M1?2_paracone subequal_in_size_to_metacone larger_than_metacone;
+{ 34 M1?2_mesostyle absent present;
+{ 35 Ends_of_postparacrista_and_premetacrista_on_M1?2 aligned anterior_end_of_premetacrista_terminates_buccal_to_posterior_end_of_postparacrista;
+{ 36 M1?2_preparaconule_crista complete_from_paraconule_to_parastyle,_anterior_cingulum_terminates_against_preparaconule_crista preparaconule_crista_incomplete,_anterior_cingulum_continues_to_parastyle;
+{ 37 M1?2_postmetaconule_crista complete_from_metaconule_to_metastyle,_posterior_cingulum_terminates_against_postmetaconule_crista postmetaconule_crista_incomplete,_posterior_cingulum_continues_to_metastyle;
+{ 38 M1?2_metaconule equidistant_between_buccal_and_lingual_cusps shifted_lingually,_nearly_in_line_with_protocone_and_hypocone;
+{ 39 M1?2_protocone greatly_enlarged_relative_to_paracone_and_metacone larger,_but_not_considerably_larger,_than_paracone_and_metacone subequal_to_or_smaller_than_paracone_and_metacone;
+{ 40 M1?2_postprotocrista present absent;
+{ 41 M1?2_postprotocingulum absent present;
+{ 42 M1?2_hypocone small_to_absent well_developed_but_smaller_than_protocone subequal_in_size_to_protocone;
+{ 43 M1?2_pericone absent present;
+{ 44 M1?2_posterior_cingulum arises_from_same_level_on_protocone_as_anterior_cingulum arises_higher_on_protocone_than_anterior_cingulum;
+{ 45 Calcaneal_tuber short_relative_to_body_of_calcaneum relatively_elongate;
+{ 46 Fibular_facet_on_calcaneum absent present_and_relatively_flat present_and_strongly_curved_to_parallel_the_curvature_of_the_astragalar_trochlea;
+{ 47 Long_axis_of_ectal_facet_on_calcaneum subparallel_to_long_axis_of_calcaneum approximately_45_degrees_to_long_axis_of_calcaneum nearly_perpendicular_to_long_axis_of_calcaneum;
+{ 48 Calcaneal_ectal_facet nearly_flat,_with_a_large_radius_of_curvature more_strongly_curved,_with_a_smaller_radius_of_curvature sharply_divided_into_a_medially_facing_posterior_surface_and_an_anteriorly_facing_anterior_surface;
+{ 49 Peroneal_tubercle anteroposteriorly_short elongate;
+{ 50 Medial_trochlear_ridge_of_astragalus absent_such_that_medial_portion_of_trochlea_faces_dorsomedially present_such_that_medial_portion_faces_medially;
+{ 51 Trochlear_groove_on_astragalus shallow deep;
+{ 52 Radius_of_curvature_of_lateral_trochlear_ridge_of_astragalus greater_than_that_of_medial_ridge subequal_to_radius_of_medial_ridge;
+{ 53 Astragalar_foramen present absent;
+{ 54 Trochlear_articular_surface only_extends_onto_posterior_surface_of_astragalus_medially articular_surface_extends_onto_posterior_surface_across_width_of_trochlea;
+{ 55 Cotylar_fossa_on_astragalus weak_or_absent prominent_and_primarily_dorsally_oriented prominent_and_medially_oriented;
+{ 56 Lateral_process_on_astragalar_body_formed_by_lateral_projection_of_ectal_facet absent present;
+{ 57 Posteromedial_projection_of_astragalar_body absent present;
+{ 58 Long_axis_of_navicular_facet_of_astragalus oriented_transversely more_parasagittally;
+;
+
+
+ccode  - 0.58;
+
+
+;

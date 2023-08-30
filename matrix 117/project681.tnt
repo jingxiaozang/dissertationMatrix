@@ -1,0 +1,90 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 15.14.20'
+50 22
+
+&[num]
+Canis_lupus                         00000010000000000000000000000000000000000000000000
+Cryptoprocta_ferox                  10001200110110200011110001100011200100011010000000
+Dinictis_felina                     12101100201210000121010001111111201100010010110000
+Pseudaelurus_ssp.                   21001100111110101111111101101011201101111010000011
+Metailurus_major                    21001211111110011221111101111111201101011011000011
+Metailurus_parvulus                 21001211111110111221111001111111201101111011000011
+Paramachairodus                     2101120011111001112111110110111120110111101?000011
+Machairodus_aphanistus              22111200111110011121111101101111101101111?10000011
+Nimravides_ssp.                     21011210011110011121111101101001?0110111101?000011
+Dinofelis_cristata                  10011201111110011121121101111111101?0101?111000011
+Dinofelis_barlowi                   ?1?11211111110011121121101111111101?01?11?11000011
+Dinofelis_petteri                   ?0?11211111110011121111101111011101101?1??11000011
+Amphimachairodus_giganteus          03221211212111111121111111101111112110011111011011
+Xenosmilus_hodsonae                 0322133120011220122112?111111111112?10011211011111
+Homotherium_crenatidens             03221231210112211221121111111111112110011211011111
+Homotherium_latidens                02221231210112211221121111111111112?10011211011111
+Homotherium_serum                   02221231210112211221121111111111112?10011211011111
+Megantereon_cultridens              13021221111111011121111111111111112100011011021111
+Megantereon_nihowanensis            13021221111111011121121111111111112100011011021111
+Megantereon_whitei                  13021221111111011221121111111111112100011011021111
+Smilodon_fatalis                    13121211212111111221111111111111113100011121011111
+Smilodon_populator                  13121221212111111221111111111111113100011121011111
+
+;
+
+
+cnames
+{ 0 Upper_incisor_arcade strongly_partabolic slightly_parabolic straight;
+{ 1 Upper_C1_morphology conical-oval_in_cross_section primitive_sabertoothed,_flattened greatly_flattened_and_scimitartoothed greatly_flattened_and_dirktoothed;
+{ 2 Carinae_on_Upper_C1 absence_of_crenulations_and_serrations presence_of_crenulations presence_of_serrations;
+{ 3 lower_canine_morphology large_and_caniniform reduced greatly_reduced_and_incisiform;
+{ 4 Upper_M2 presence absence;
+{ 5 Upper_M1 large,_multicuspid_m1_anteriorly_directed reduced,_multicuspid_m1_transversely_directed greatly_reduced,_knoblike absence;
+{ 6 Upper_P4_protocone ver_latge,_elongate_usually_cusped reduced markedly_reduced_and_usually_uncusped strongly_reduced_or_absent;
+{ 7 Upper_P4_protocone_angulation strongly_anteriorly_directed lingually_directed;
+{ 8 Upper_P4_protocone_position rostral_to_paracone at_paracone-parastyle_junction medial_to_paracone;
+{ 9 Upper_P4_parastyle absent_or_indistinct large;
+{ 10 Upper_P4_anterior_cingulum indistinct distinct,_often_forming_ridge forming_distinct_ectoparastyle;
+{ 11 Upper_P4_anterolateral_edge rounded_and_medially_directed straight_or_sinusoid distinctly_medially_directed_forming_trough;
+{ 12 Relative_size_of_Upper_P4_to_CBL short large;
+{ 13 Relative_size_of_Upper_P3_to_CBL large reduced greatly_reduced;
+{ 14 Upper_P3_posterior_cingulum forming_a_ridge forming_posterior_accessory_cusp indistinct;
+{ 15 Upper_P3_parastyle indistinct_or_absent distinct_cusp;
+{ 16 Mediolateral_width_of_Upper_P3 narrow_across_the_metacone_relative_to_paracone wide_across_the_metacone_relative_to_paracone;
+{ 17 Upper_P2 unreduced_and_multicuspid greatly_reduced absent;
+{ 18 Upper_P1 unreduced greatly_reduced absent;
+{ 19 Lower_m3 present absent;
+{ 20 Lower_m2 present absent;
+{ 21 Lower_m1 large_talonid_basin_with_3_cusps distinct_talonid_with_or_without_metaconid little_if_any_talonid;
+{ 22 Anterior_edge_of_lower_m1_protoconid forming_curved_(sickleshaped)_edge short_vertical_edge_at_notch_followed_by_long_straight_crest;
+{ 23 Relative_height_of_lower_m1_major_cusps low_paraconid_relative_to_protoconid tall_paraconid_relative_to_protoconid;
+{ 24 carnassial_rotation absent present;
+{ 25 Relative_size_of_lower_p4 small_relative_to_mandible_length large_relative_to_mandible_length;
+{ 26 Lower_p4_paraconid distinctly_asymmetrical bilaterally_symmetrical;
+{ 27 Lower_p2 present absent;
+{ 28 Lower_p1 present absent;
+{ 29 Mandibular_glenoid facing_anteriorly facing_ventrally;
+{ 30 Preglenoid_process weak_or_absent strongly_developed;
+{ 31 Infraorbital_fenestra situated_distinctly_anterior_to_orbit close_to_orbit;
+{ 32 Anterior_rim_of_orbit situated_above_or_behind_P4_metastyle above_P4_paraconbe_or_at_paracone-parastyle_junction State_2 State_2 State_2;
+{ 33 Snout_area low_relative_to_braincase distinctly_elevated;
+{ 34 Size_of_mastoid_process small,_sometimes_knoblike well_developed_and_elongate distinctly_enlarged enormous,_obscuring_bulla_in_lateral_view;
+{ 35 Jugal-maxilla_suture strongly_sinusoid weakly_sinusoid_or_straight;
+{ 36 Upper_P3-P4_junction_relative_to_infraorbital_fenestra posterior_to_infraorbital_fenestra anterior_to_infraorbital_fenestra;
+{ 37 Nasal_extension_past_maxilla-frontal_suture yes no;
+{ 38 Jugal_postorbital_process small,_rounded,_often_almost_absent tall_and_triangular;
+{ 39 Facial_length_relative_to_CBL elongate abbreviated;
+{ 40 Angle_between_occipital_condyles low high;
+{ 41 Relative_width_across_incisor_arcade narrow wide extremely_wide;
+{ 42 Relative_palatal_width_across_upper_P3 narrow_relative_to_CBL wide_relative_to_CBL extremely_wide_relative_to_CBL;
+{ 43 Alisphenoid_canal present absent;
+{ 44 Posterior_lacerate_foramen confluent_with_petrobasilar_foramen separate_from_petrobasilar_foramen;
+{ 45 Mandibular_flange absent small large;
+{ 46 Relative_size_of_coronoid_process large short;
+{ 47 Retroarticular_process posteriorly_or_posteroventrally_directed ventrally_directed;
+{ 48 Mandibular_fossa terminates_posterior_to_carnassial terminates_well_anterior_to_posterior_edge_of_carnassial;
+{ 49 Posterior_part_of_horizintal_mandibular_ramus slender_relative_to_ramus_length robust_relative_to_ramus_length;
+;
+
+
+ccode  - 0.49;
+
+
+;

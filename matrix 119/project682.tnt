@@ -1,0 +1,190 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 15.14.53'
+78 94
+
+&[num]
+Prokennalestes_trofimovi                         ???1??????001001231100??????1000001100000200101100011110022001000100000001000?
+Adelodelphys_muizoni                             ??????????????110?0100?????????000??0000020010010001110???2????0?011?0?0?1?00?
+Aenigmadelphys_archeri                           ????????????0011230000??????00000000100000000011000111010010000110111000010?01
+Albertatherium_primum                            ??????????????11210100100010001000010011001010010001110?????????????????????11
+Albertatherium_secundum                          ??????????????11230100??????001000000?11001010010001110?????????????????????1?
+Alphadon_attaragos                               ????????????001121010000010000000001??0000101101000111?1122010011011?0?0010?0?
+Alphadon_halleyi                                 ???0????????001121010010?1?000100001001202101101000111011210100110111000010001
+Alphadon_marshi                                  ??????????????1121010010011000100001001202101101000111011110100110111000010011
+Alphadon_perexiguus                              ??????????????1121010010111000100001?01202101101000111011??010011011?0?0010?01
+Alphadon_sahnii                                  ??????????????112101001001100010000100120210110100011101111010011011?0?0010?11
+Alphadon_wilsoni                                 ????????????00112101001001100010000101120210110100011101111010011011?0?0010?11
+Anchistodelphys_archibaldi                       ??????????????101?01000000000000001001110000100100011101121000011011?0?0010?01
+Anchistodelphys_delicatus                        ????????????????0??????????????000?1??000000????????110112100001?011?0?0010?0?
+Apistodon_exiguus                                ??????????????11210101101010001100011000021000010001110?????????????????????0?
+Aquiladelphis_laurae                             ???????????????1211?1112001000110??????1??101?01110111?????????????1????????2?
+Aquiladelphis_incus                              ????????????0211211?112010100011011011012210111112011101120011021011?0?001112?
+Aquiladelphis_minor                              ??????????????11211?1120111000120??01?01111011?1100111??02?010021011?0?0011?11
+Armintodelphys_blacki                            ???????????????????????????????????????????????????????00?10100001101010011101
+Armintodelphys_dawsoni                           ??????????????1121110020?010000001110?110010001100011000011010000111?0?0011?01
+Asiatherium_reshetovi                            ??101?????00001123?010??????00001??10011020010010?0111011120100111111000011111
+Atokatherium_boreni                              ??????????????100?0110?????????0101000000200001000011000100010000??00??000??00
+Bistius_bondi                                    ???????????????1210?0010101010101011??00211010010?01100?????????????????????2?
+Copedelphys_innominata                           ??????????????11210100100000000000110032001110011001101102201002012110?0011?11
+Dakotadens_morrowi                               ??????????????112?0100101000000011101???01100011000110011110100211100000011?1?
+Deltatheridium_pretrituberculare                 10100?????0000100?10?0?????????00000000002000?1000011010100010000100000000??10
+Deltatheroides_cretacicus                        ??10???????000100?0?10?????????00???0000020000100001101?????????????????????10
+Didelphodon_coyi                                 00?01?????00021123?120??????00001010??22221011010001?0?10001111210111100011?22
+Didelphodon_vorax                                0?101?0100000211231120??????00001110012222101101000110010001111210111100012122
+Ectocentrocristus_foxi                           ???????????????1210100200000?0000011??2200111011101110?????0100?????1??001?01?
+Eoalphadon_clemensi                              ????????????00112101001011?0001000010000021010110001110112201001101110?0010?01
+Eoalphadon_lillegraveni                          ??????????????112?0100000100001000010000021010110001110111?01001?011?0?0010?1?
+Eoalphadon_woodburnei                            ??????????????11210100000100001000010?00021010110001110111201002?011?0?0010?1?
+Eodelphis_browni                                 0010??????000211230120??????00000010??2222101101000110?1000111121?11?1?0011?22
+Eodelphis_cutleri                                ???01?????000211230120??????0000001001222210110100011001000111121011?1?0011?22
+Glasbius_intricatus                              ??????????0?001121110000?100001011111122221011111101120?1220100210111001012110
+Glasbius_twitchelli                              ?????01100??0011211100000100001011111122221011111101120?122010021011?0?1012110
+Hatcheritherium_alpha                            ???????????????12101000011?0?01?1011??22001211010?0111??????????????????????1?
+Goler_formation_taxon                            ???????????????1210100100010001000111?320011001100011011022010121011?0?0011?1?
+Herpetotherium_comstocki                         ??????????????112101?0000000111001111?3200111011100110110220100211211001011111
+Herpetotherium_edwardi                           ??????????????11210110100000011001111?3200111001100110110220100211211000011111
+Herpetotherium_fugax                             10101?????0?001121011010000001100111103200111001100110110220100211210000011011
+Herpetotherium_knighti                           ??????????????112?011010101001100111113200111001100110110220100211211000011111
+Herpetotherium_marsupium                         ?????20100??00112101?0?0101001100111003200111001100110?10220100201211001011?11
+Holoclemensia_texana                             ???????????????121100020?010001011111?000200001000011?10022000110100?0?000??01
+Iqualadelphis_lactea                             ??????????????11231111??????000101010021000011010101120?????????????????????01
+Iugomortiferum_thoringtoni                       ???????????????001010010111010001011??0022000011000111?11220100110111010010001
+Kokopellia_juddi                                 10?0????????00110?0000?????????00000000002000001000110010110000100011000010?01
+Leptalestes_cooki                                ????????????001120?0?1??????10021?110012010011011101120?022010021011?0?0011?1?
+Leptalestes_krejcii                              ?????10100??001120?0?1??????10021?110022010000011001120?012010011011?0?0011?0?
+Leptalestes_prokrejcii                           ????????????001120?0?1??????10021?110011010000011001120?012010011011?1?0011?0?
+Leptalestes_toevsi                               ??????????????11231011??????00011?110???0?10011110011201?120100????1???0011?01
+Maastrichtidelphys_meurismeti                    ???????????????1211010200010?00?0011??2200111011000110??????????????????????0?
+Mimoperadectes_houdei                            ??1?1?????00??112?1100000000000001110022221000110001100?????????????????????11
+Mimoperadectes_labrus                            ???0????????00112111000000000000011111122210001100011000100010010111001?011011
+Nanocuris_improvida                              ???????????????0230110??????000?10111?0002000?1000011010100010000000001000??20
+Nortedelphys_jasoni                              ????????????0011210100100100001000010012001111010001110?1220100210111000010?11
+Nortedelphys_magnus                              ????????????0011210100100100001000010022001111010001110?1220100210111010010011
+Nortedelphys_minimus                             ??????????????11210100100100001000?10?12001111010001110?????????????????????0?
+Oklatheridium_szalayi                            ???????????????10?0110?????????0000001010200101000011010?00010???????????10?0?
+Pappotherium_pattersoni                          ???????????????1??1000?????????000100?00220000100001100001201001011000?0?10?01
+Pariadens_kirklandi                              ???????????????12101001001000010111???112210101100011??10001100210110000011012
+Pariadens_mckennai                               ???????????????????????????????????????????????????????10011100???11?0?0010012
+Pediomys_elegans                                 ???0????????00112210?121101000121111002211101111110112020220111210111100112111
+Peradectes_californicus                          ?????1001???0011231100??????00001011112200100011000110??1?201001011110?0011?01
+Peradectes_chesteri                              ??????????????110?1100?????????00011001100100011000110?112201001011110?0011101
+Peradectes_elegans                               ???01???????00112111000000000000001110220010001100011001122010010111100?011101
+Peradectes_gulottai                              ??????????000011231100??????000001110022001000110001100?????????????????????01
+Peradectes_coprexeches                           ??????????????1121110010?00000000111002200101011000110011220100200111000011101
+Peradectes_minor                                 ??????????????1121110010000000000111002200101011000110011220100100111010011001
+Peradectes_protinnominatus                       ????????????0011211100000000000001111011001000110001100112201001011110?1011?01
+Protalphadon_foxi                                ??????????????112?01000000?01010001100?1001110010001100?????????????????????1?
+Protalphadon_lulli                               ???0??????????112?010000000010100011000100101001000110?1011010021011?0?1010?0?
+Protolambda_clemensi                             ????????????011120?0????????01021?1?1010111011?11001120?122011021011?000011101
+Protolambda_florencae                            ????????????011120?0????????00021?1?1111111011?110011202011010021011?000011111
+Protolambda_hatcheri                             ??????0100??011120?0????????00021?1?1112111011?1100112020110100210111000012111
+Pucadelphys_andinus                              11101?????00001121100010001000100000002100111001000110010220100101111010011101
+Roberthoffstetteria_nationalgeographica          ????1?????000?11211100100100001001111122221210111011120102200102111000?0011112
+Sinbadelphys_schmidti                            ???????????????10?0100?????????000000011020010010001110102101001?0111000010001
+Sulestes_karakshi                                0110120101?0??11??1100?????????00?0001000200001000011010100010000100000000??01
+Swaindelphys_cifellii                            ??????????????1121110010100000000111102200111011000110010220100110111000011111
+Swaindelphys_johansoni                           ?????21000????1121110010000000000111102200111011000110010220100110111010011111
+Swaindelphys_encinensis                          ??????????????1121110010000000000111102200111011000110010220100110111010011111
+Szalinia_gracilis                                1110??????0000112?100000000000100001002200110011000110000220100001110010011101
+Thylacodon_pusillus                              ????????????001121110010000000000111102200101011000110010220100210111000011111
+Thylacodon_montana_sp._nov.                      ?????211????001121110010000000000111002200101011000110010220100210111010011111
+Turgidodon_lillegraveni                          ????????????00112101201001010000100??111221011010001110?????????????????????1?
+Turgidodon_madseni                               ????????????01112101201001110000000?11112210110100011101022010021011?0?0010?1?
+Turgidodon_petiminis                             ????????????01112101201001110000000?00112210110100011101022010021011?0?0010?11
+Turgidodon_praesagus                             ????????????01112101201001?10000000100112210110101011101022010021011?0?0010?11
+Turgidodon_rhaister                              ?????00000????112101200001000000000000112210110101011101022010021011?0?0010?11
+Turgidodon_russelli                              ?????00000??0011210120100111000000000021221011010?0111010220100210111000010011
+Varalphadon_crebreforme                          ??????????????1?23?100??????000010????120210???????????101201002001110?0010?1?
+Varalphadon_creber                               ??????????????112?01000?0000001010111012021011010001100?????????????????????0?
+Varalphadon_wahweapensis                         ????????????00112?01000?00000010101110120210110100011001022000021011?0?0010?0?
+
+;
+
+
+cnames
+{ 0 Lower_incisor_number No_more_than_3. 4_or_more.;
+{ 1 Lower_incisor_staggering Not_staggered. Staggered_medially_staggered_position_of_root_and_alveolus_of_i3_i3_larger_than_i2_i4_or_i5_.;
+{ 2 C Double_rooted. Single_rooted.;
+{ 3 Number_of_lower_premolars Three_or_less. Four_or_more.;
+{ 4 P1 Single_rooted. Double_rooted;
+{ 5 Deciduous_ultimate_premolar_DP3_in_metatherians_mesial_stylar_shelf Narrow_but_present. Reduced_to_an_ectocingulum_only. Present_as_an_ectocingulum_only. Absent.;
+{ 6 Deciduous_ultimate_premolar_DP3_in_metatherians_parastylar_lobe Moderate_in_size_and_stylar_cusp_A_is_in_line_with_paracone_and_metacone. Expanded_and_stylar_cusp_A_is_positioned_lingual_to_a_line_drawn_from_the_paracone_and_metacone.;
+{ 7 Deciduous_ultimate_premolar_DP3_in_metatherians_stylar_cusp_B Present. Absent.;
+{ 8 Deciduous_ultimate_premolar_DP3_in_metatherians_stylar_cusp_C Present. Absent.;
+{ 9 Deciduous_ultimate_premolar_DP3_in_metatherians_stylar_cusp_C_size Smaller_than_stylar_cusp_D. Larger_than_stylar_cusp_D.;
+{ 10 Penultimate_upper_premolar_protocone Absent. With_an_enlarged_basin.;
+{ 11 Number_of_roots_on_penultimate_upper_premolar Two. Three.;
+{ 12 Ultimate_premolar Not_molariform. Molariform.;
+{ 13 Inflation_of_upper_and_or_lower_ultimate_premolar_P3_p3_in_metatherians Uninflated_main_cusp_of_p3_is_narrower_than_the_trigonid_of_m1_. Somewhat_inflated_the_width_of_the_main_cusp_of_p3_is_subequal_to_that_of_m1_. Markedly_inflated_p3_is_wider_and_longer_than_m1_P3_buccolingual_width_approaches_that_of_M1_._Lingual_lobe_or_accessory_lobe_may_be_present.;
+{ 14 Number_of_upper_molars Three. Four.;
+{ 15 Stylar_cusp_A_All_molars_but_ultimate_molar Absent_or_very_small_to_indistinct. Present.;
+{ 16 Stylar_cusp_D Absent. Variably_present. Consistently_present.;
+{ 17 Stylar_cusps_B_C_and_D Stylar_cusp_D_present_C_and_B_absent. Stylar_cusp_D_present_C_and_B_present. Stylar_cusp_D_and_C_present_B_absent. Stylar_cusp_D_and_B_present_C_absent.;
+{ 18 Stylar_cusp_A_parastyle_position_relative_to_stylar_cusp_B_stylocone Lower_than_cusp_B. Closely_approximated_to_cusp_B.;
+{ 19 Stylar_cusp_A_size_relative_to_stylar_cusp_B_penultimate_molar Equal_to_or_larger_than_stylar_cusp_B. Smaller_than_stylar_cusp_B.;
+{ 20 Stylar_cusp_B_stylocone_size Moderately_develped_greater_than_about_half_the_size_of_paracone_but_smaller_than_paracone_. Small_less_than_half_the_size_of_the_paracone_. Large_subequal_to_paracone_.;
+{ 21 Position_of_stylar_cusp_B_stylocone_relative_to_paracone Positioned_nearly_directly_buccal_to_paracone. Positioned_mesiobuccal_to_paracone.;
+{ 22 Stylar_cusp_C_size Small_present_as_a_distinct_cusp_but_is_equal_to_or_smaller_than_stylar_cusp_A. Well_developed_greater_than_stylar_cusp_A_but_less_than_stylar_cusp_B_or_cusp_D_if_stylar_cusp_B_is_absent_. Large_equal_to_or_greater_than_stylar_cusp_B_or_cusp_D_if_stylar_cusp_B_is_absent_.;
+{ 23 Presence_of_a_twinned_cusp_anterior_to_cusp_C Absent. Variably_present. Consistently_present.;
+{ 24 Position_of_cusp_C_relative_to_the_ectoflexus_all_but_last_molar Positioned_at_or_mesial_to_the_deepest_part_of_the_ectoflexus. Positioned_distal_to_the_deepest_part_of_the_ectoflexus.;
+{ 25 Position_of_cusp_C_relative_to_the_buccal_edge_of_the_stylar_shelf_all_but_last_molar Positioned_along_the_buccal_edge_of_the_stylar_shelf. Positioned_lingual_to_the_buccal_edge_of_the_stylar_shelf.;
+{ 26 Relative_size_of_stylar_cusps_C_and_D_penultimate_molar Stylar_cusp_C_is_smaller_than_D. Stylar_cusp_C_is_equal_to_or_larger_than_D.;
+{ 27 Cusp_C_shape_in_buccal_view Stylar_cusp_C_is_conical. Stylar_cusp_C_is_squared_at_its_apex.;
+{ 28 Stylar_cusp_D_size_penultimate_molar Moderately_developed. Small_when_present. Small.;
+{ 29 Position_of_Stylar_cusp_D_relative_to_metacone Positioned_buccal_to_metacone. Positioned_mesiobuccal_to_metacone_and_closer_to_deepest_part_of_ectoflexus.;
+{ 30 Stylar_cusp_D_shape_at_base Broad_and_mesiodistally_long_at_base. Conical_at_base.;
+{ 31 Mesial_portion_of_stylar_shelf_parastylar_lobe_penultimate_molar Not_reduced. Somewhat_reduced_so_that_it_is_buccolingually_narrower_than_metastylar_lobe. Greatly_reduced_so_that_just_a_rim_remains_buccal_to_paracone_and_stylar_cusp_A_is_nearly_directly_mesial_to_paracone.;
+{ 32 Preparacrista_strength Well_developed. Weakly_developed_or_absent.;
+{ 33 Preparacrista_orientation_Molars_other_than_first_and_last Preparacrista_runs_to_position_below_apex_of_cusp_B_lingual_and_mesiolingual_side_of_cusp_B_. Preparacrista_runs_to_a_position_mesial_to_the_apex_of_cusp_B..;
+{ 34 Presence_of_carnassial_notch_along_preparacrista Present. Absent.;
+{ 35 Presence_of_carnassial_notch_along_postmetacrista Present. Absent.;
+{ 36 Ectoflexus_Depth_penultimate_molar Deep_embayment_equal_to_or_greater_than_10%_of_total_width_of_tooth_. Ectoflexus_is_shallow_embayment_less_than_10%_of_total_width_of_tooth_.;
+{ 37 Ectoflexus_across_molar_series_all_molars_but_last Increases_in_depth_distally_through_the_molar_series. Little_or_no_change_in_depth_of_ectoflexus_along_the_molar_series.;
+{ 38 Relative_height_of_the_paracone_and_metacone_all_molars_but_last_. Paracone_is_taller_than_the_metacone. Paracone_and_metacone_are_subequal_in_height. Metacone_is_taller_than_the_paracone_but_less_than_twice_as_high. Metacone_is_two_times_or_more_the_height_of_the_paracone.;
+{ 39 Relative_size_of_paracone_and_metacone_in_buccal_view_as_measured_mesiodistally_all_molars_but_last Paracone_is_longer_than_the_metacone. Paracone_and_metacone_are_of_equal_size. Metacone_is_longer_than_the_paracone.;
+{ 40 Paracone_and_metacone_shape_all_molars_but_last Uninflated_and_unrounded. The_paracone_is_inflated_and_rounded_compared_to_the_metacone. Inflated_and_rounded.;
+{ 41 The_shape_of_the_buccal_faces_of_the_paracone_and_metacone_all_molars_but_last Flat_or_concave. Buccal_face_of_paracone_is_convex_rounded_buccal_face_of_metacone_is_flat. Convex_or_rounded.;
+{ 42 The_paracone_and_metacone_relative_separation_at_base_all_molars_but_last Share_a_portion_of_their_bases. Entirely_separate_at_their_bases.;
+{ 43 Centrocrista_morphology_refers_to_location_of_the_deepest_point_of_the_centrocrista_relative_to_an_imaginary_line_between_the_apices_of_the_paracone_and_metacone_all_molars_but_last Straight_equivalent_to_a_U_shaped_ectoloph_. Deflected_buccally_so_that_it_is_V_shaped_equivalent_to_a_W_shaped_ectoloph_. Invades_stylar_shelf_as_disconnected_crests.;
+{ 44 Paraconule_and_metaconule_size_all_molars_but_last Absent_or_Small_and_weakly_developed. Large_and_strongly_developed.;
+{ 45 Position_of_paraconule_relative_to_protocone_and_paracone Relatively_closer_to_protocone_or_midway_between_protocone_and_paracone. Relatively_closer_to_paracone.;
+{ 46 Strength_and_morphology_of_the_internal_cristae Well_developed. Weakly_developed_or_absent.;
+{ 47 Protocone_height_relative_to_paracone_metacone Shorter_than_paracone_metacone. Approaching_height_of_paracone_metacone_over_half_the_height_.;
+{ 48 Protocone_basal_distal_expansion_all_molars_but_last Unexpanded._Protocone_is_V_shaped. Expanded_so_that_part_of_the_protocone_is_somewhat_lobe_shaped_or_squared_off.;
+{ 49 Pre_and_postcingula Absent. Precingulum_present_postcingulum_absent. Pre_and_postcingula_present.;
+{ 50 Placement_of_paraconule_protocone_and_metaconule Not_aligned_in_a_row. Aligned_in_a_row.;
+{ 51 Preprotocrisa Terminates_lingual_of_base_of_paracone. Joins_preparaconular_crista_and_extends_buccally_past_base_of_paracone_presence_of_double_rank_prevallum_postvallid_shearing;
+{ 52 Postprotocrista Absent. Present.;
+{ 53 Postprotocrista_length_all_molars_but_last Extends_from_protocone_or_merges_with_postmetaconule_crista_only_to_base_of_metacone. Extends_buccally_to_wrap_around_the_distal_side_of_metacone_but_does_not_extend_to_distobuccal_corner_of_tooth_all_molars_but_last_. Extends_beyond_buccal_base_of_metacone_to_near_buccal_margin_of_tooth.;
+{ 54 Postmetacrista_orientation_penultimate_molar_. Line_drawn_between_paracone_and_metacone_forms_approximately_a_right_angle_with_postmetacrista. Line_drawn_between_paracone_and_metacone_forms_an_obtuse_angle_greater_than_about_100_degrees_with_postmetacrista.;
+{ 55 Relative_transverse_widths_of_the_trigonid_and_talonid_all_molars_but_first_and_last Trigonid_is_wider_than_talonid. Talonid_and_trigonid_are_of_subequal_width. Talonid_is_significantly_wider_than_trigonid.;
+{ 56 Relative_lengths_of_trigonid_and_talonid_all_molars_but_last Talonid_long_tooth_length_talonid_length_is_1.8_or_less_. Talonid_short_tooth_length_talonid_length_is_greater_than_1.8_.;
+{ 57 Relative_mesiodistal_lengths_of_paraconid_and_metaconids_in_lingual_view_all_molars_but_first_and_last The_paraconid_is_longer_than_the_metaconid. The_two_cusps_are_relatively_equal_in_length. The_metaconid_is_longer_than_paraconid.;
+{ 58 Relative_heights_of_paraconid_and_metaconid_m1_3 Paraconid_is_taller_than_metaconid. Two_cusps_are_subequal_in_height. Metaconid_is_taller_than_paraconid.;
+{ 59 Mesiolingual_face_of_the_paraconid Not_strongly_keeled. Strongly_keeled_sometimes_with_basal_cusp.;
+{ 60 Position_of_paraconid_relative_to_metaconid Paraconid_posititioned_bucally_relative_to_metaconid. Paraconid_positioned_more_lingually_such_that_the_paraconid_metaconid_and_entoconid_all_line_up_mesiodistally.;
+{ 61 Position_of_paraconid_relative_to_metaconid_all_molars_but_first Paraconid_projects_mesially. Paraconid_appressed_to_the_metaconid.;
+{ 62 Angle_of_trigonid_measured_from_entoconid_to_protoconid_with_metaconid_as_vertex_all_molars_but_first Obtuse_greater_than_95_degrees_. Approaches_90_degrees_equal_to_or_less_than_95_degrees_.;
+{ 63 Size_of_entoconid_relative_to_hypoconulid_all_molars_but_last Smaller_than_hypoconulid. Comparable_in_size_to_hypoconulid. Larger_than_hypoconulid.;
+{ 64 Height_of_entoconid_relative_to_metaconid_all_molars_but_first_and_last Less_than_or_equal_to_0.30_height_of_metaconid. Greater_than_0.30_height_of_metaconid.;
+{ 65 Shape_of_entoconid_all_molars_but_last Buccolingually_compressed. Conical.;
+{ 66 Position_of_hypoconulid_relative_to_entoconid_all_molars_but_last Hypoconulid_and_entoconid_are_not_twinned_or_twinning_is_weak_hypoconulid_is_near_tooth_midline. Hypoconulid_and_entoconid_are_strongly_twinned_but_hypoconulid_is_buccal_to_a_position_that_is_distal_to_entoconid. Hypoconulid_and_entoconid_are_twinned_and_hypoconulid_is_positioned_on_the_lingual_margin_of_tooth_distal_to_entoconid.;
+{ 67 Postcingulid_all_molars_but_last Absent. Present.;
+{ 68 Postcingulid_ultimate_molar Absent. Present.;
+{ 69 Accessory_cusp_adjacent_to_entoconid_along_entocristid_entoconulid_all_molars_but_last Absent. Present.;
+{ 70 Ultimate_molar_entoconid Same_relative_size_as_in_preceding_molars. Reduced_compared_to_preceding_molars.;
+{ 71 Presence_of_talonid_ectocingulid_as_extensions_of_postcingulid Absent. Present.;
+{ 72 Ventral_extent_of_talonid_portion_of_crown_in_buccal_view Extends_ventrally_to_level_of_trigonid_or_slightly_past_level_of_trigonid_ventral_margin_of_crown_is_horizontal_or_slopes_gently_distally_. Significantly_expanded_such_that_the_ventral_margin_of_crown_slopes_steeply_distally.;
+{ 73 Cristid_obliqua_-_all_molars_but_last Incomplete._Meets_distal_metacristid. Complete._Intersects_distal_trigonid_wall.;
+{ 74 Cristid_obliqua_--_all_molars_but_last Meets_the_distal_trigonid_wall_at_a_point_lingual_or_ventral_to_the_protocristid_notch. Meets_the_distal_trigonid_wall_buccal_to_the_protocristid_notch_approximately_below_apex_of_protoconid. Meets_the_distal_trigonid_wall_buccal_to_the_protocristid_notch_near_buccal_margin_of_tooth.;
+{ 75 Ultimate_molar_cristid_obliqua Intersects_trigonid_below_or_lingual_to_protocristid_notch. Intersects_trigonid_buccal_to_protocristid_notch.;
+{ 76 Estimated_mass_ln_g_based_on_tooth_measurements_after_Gordon_2003 Small_less_than_or_equal_to_4_. Medium_greater_than_4_equal_to_or_less_than_6_. Large_greater_than_6_.;
+{ 77 Ultimate_molar_size Not_significantly_reduced_ultimate_molar_L_first_molar_L_equal_to_or_greater_than_0.8_less_than_1.5_ultimate_molar_L_first_molar_L_equal_to_or_greater_than_0.6_equal_to_or_less_than_0.8_. Ultimate_molar_is_small_relative_to_first_molar_ultimate_molar_Length_first_molar_Length_less_than_0.8_ultimate_molar_L_first_molar_L_less_than_0.6_. Ultimate_upper_molar_ultimate_lower_molar_are_significantly_reduced_ultimate_molar_Length_first_molar_Length_less_than_0.8_ultimate_molar_L_first_molar_L_less_than_0.6_. Ultimate_molar_is_not_small_relative_to_first_molar_ultimate_molar_L_first_molar_L_equal_to_or_greater_than_0.8_less_than_1.5_ultimate_molar_L_first_molar_L_equal_to_or_greater_than_0.6_equal_to_or_less_than_0.8_. Ultimate_upper_molar_ultimate_lower_molar_are_enlarged_ultimate_molar_L_first_molar_L_greater_than_1.5_ultimate_molar_L_first_molar_L_greater_than_0.7_. Ultimate_molar_is_large_relative_to_first_molar_ultimate_molar_L_first_molar_L_greater_than_1.5_ultimate_molar_L_first_molar_L_greater_than_0.7_.;
+;
+
+
+ccode  - 0.77;
+
+
+;
