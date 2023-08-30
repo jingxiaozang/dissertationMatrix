@@ -1,0 +1,98 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 15.05.40'
+53 27
+
+&[num]
+Grosphus_madagascariensis          010001000100000000000000000000-----000000000000000000
+Uroplectes_triangulifer            100000000000000000000000001000-----000000000000100000
+Parabuthus_granimanus              011000101001000100200000101112000000000012110010001??
+Parabuthus_heterurus               001000001000000100200000101112000000000012110110001??
+Parabuthus_hunteri                 001000101001000100200000101112000000000012110010001??
+Parabuthus_leiosoma                001000001000000100200000101111000000000012110110001??
+Parabuthus_pallidus                000000000000000110100000001111000000001112110100001??
+Parabuthus_brevimanus              10001001100011110121000000100110000000012000110100020
+Parabuthus_calvus                  0000110000000001201010?0000101110000101120110101001??
+Parabuthus_capensis                0??000001000000100200000001111110001001112210100001?0
+Parabuthus_distridor               100010011000111101210100011000-----011--2000000100020
+Parabuthus_gracilis                10000011100001110121001101100110000001--2000000100020
+Parabuthus_granulatus              01000100111000000121000000010110010000001001010010021
+Parabuthus_kalaharicus             01000101111001100121010000010110010000001001000110021
+Parabuthus_kraepelini              00000000110000010020000000111110100000011222110000120
+Parabuthus_kuanyamarum             10001001111011110121010001000110000011--2000000100020
+Parabuthus_laevifrons              00101101111001110121000000000211000010001100011000021
+Parabuthus_mossambicensis          00000000100000010020000000111111101000011222010000120
+Parabuthus_muelleri                00100001????0001?02000?000110111000100111221010000110
+Parabuthus_namibensis              00101000111011010120000000100211000000001111011000021
+Parabuthus_nanus                   10000010000001110121001101100110000001--2000000100020
+Parabuthus_planicauda              000000000000000110100000001101110?0000111211010000110
+Parabuthus_raudus                  0??00000110000010020000000111110110000111222000000120
+Parabuthus_schlechteri             0?000000110000010020000000111110110000111222100000120
+Parabuthus_stridulus               00?01101111001010121000000000211001010001100001001021
+Parabuthus_transvaalicus           01000000110000010020000000111110100000111222100000110
+Parabuthus_villosus                010100001100000100200000002101111?0000111222100000111
+
+;
+
+
+cnames
+{ 0 General:_Adult_general_size large,_carapace_length_6.5-17.0_mm small,_carapace_length_2.5-5.0_mm;
+{ 1 General:_Colour_of_carapace,_mesosoma_and_metasoma pale_yellow_to_light_brown dark_brown_to_black_(pedipalps_and_legs_may_be_dark_or_pale polymorphic;
+{ 2 General:_Colour_pattern_of_metasoma metasomal_segments_I-V_and_telson_uniformly_coloured metasomal_segments_III-V_and_telson_infuscated polymorphic;
+{ 3 Carapace:_Carapace_dorsoventrally_compressed absent present;
+{ 4 Carapace:_Granulation_of_median_ocular_tubercle_(male,_female),_and_surrounding_surfaces_(female) entire smooth_areas;
+{ 5 Pedipalps:_Pedipalps setose smooth;
+{ 6 Pedipalps:_Chela_manus,_surface smooth granular;
+{ 7 Pedipalps:_Chela_movable_finger,_length_compared_with_length_of_manus_(measured_along_ventroexternal_carina),_in_female long_(length_finger/length_carina:_1.70-2.00 short_(length_finger/length_carina:_Â±_1.50;
+{ 8 Pedipalps:_Chela_manus,_shape_in_adult_male,_compared_with_adult_female similar sexually_dimorphic;
+{ 9 Pedipalps:_Chela_fixed_finger,_shape_in_adult_male straight_or_slightly_curved_dorsally,_such_that_proximal_dentate_margin_linear_when_fingers_are_closed strongly_curved_dorsally,_proximal_dentate_margin_distinctly_emarginate_when_fingers_are_closed;
+{ 10 Pedipalps:_Chela_movable_finger,_shape_in_adult_male straight,_proximal_dentate_margin_linear_when_fingers_are_closed curved_ventrally,_proximal_dentate_margin_distinctly_emarginate_when_fingers_are_closed;
+{ 11 Pedipalps:_Chela_fixed_and_movable_fingers_with_basal_lobe_in_adult_male absent present;
+{ 12 Trichobothria:_Pedipalp_femur,_location_of_e1 level_with_or_distal_to_d5 almost_halfway_between_d4_and_d5;
+{ 13 Trichobothria:_Pedipalp_patella,_location_of_esb2 distinctly_distal_to_esb1 level_with_or_slightly_distal_to_esb1;
+{ 14 Trichobothria:_Chela_fixed_finger,_location_of_dt in_line_with_or_distal_to_et proximal_to_et;
+{ 15 Pectines:_Proximal_middle_lamella_of_pectines,_in_female arcuate enlarged_and_lobate_(dilate;
+{ 16 Pectines:_Proximal_middle_lamella_of_pectines,_in_male subrectangular weakly_lobate_(dilate strongly_lobate_(dilate;
+{ 17 Legs:_Legs_IV,_length moderately_long,_not_reaching_to_posterior_edge_of_metasomal_segment_III very_long,_reaching_past_posterior_edge_of_metasomal_segment_III;
+{ 18 Legs:_Basitarsi_of_legs_I-II,_setal_combs absent weakly_developed strongly_developed;
+{ 19 Legs:_Basitarsi_of_legs_I-II,_laterally_expanded absent present;
+{ 20 Legs:_Basitarsi_of_legs_III-IV,_prolateral_surfaces_with_dense_macrosetae absent present;
+{ 21 Legs:_Telotarsal_ungues,_relative_length equal subequal;
+{ 22 Hemispermatophore:_Hemispermatophore,_pars_recta parallel_to_axis S-shaped;
+{ 23 Mesosoma:_Sternites smooth punctate;
+{ 24 Mesosoma:_Sternite_III,_â€œpitâ€?_organ_at_proximal_apex absent present;
+{ 25 Mesosoma:_Sternite_VII,_carinae present absent;
+{ 26 Metasoma:_Metasomal_segments_I-V_and_telson virtually_asetose sparsely_to_moderately_setose very_densely_setose;
+{ 27 Metasoma:_Metasomal_segments,_width_relative_to_length much_narrower_(length_IV/width_IV:_1.7-2.11 slightly_narrower_(length_IV/width_IV:_1.2-1.5;
+{ 28 Metasoma:_Metasomal_segments,_width_from_I-IV becoming_narrower_distally,_metasomal_segment_I_wider_than_segment_IV becoming_wider_distally,_metasomal_segment_I_narrower_than_segment_IV;
+{ 29 Metasoma:_Metasomal_segments_I-III,_stridulatory_region_on_dorsal_surface absent_from_I-III strongly_developed_on_I-III strongly_developed_on_I-II,_weakly_developed_to_absent_on_III;
+{ 30 Metasoma:_Metasomal_segment_I,_shape_of_stridulatory_region_(if_present)_in_dorsal_aspect narrow,_parallel-sided broad,_rounded_anteriorly,_with_posterior_constriction;
+{ 31 Metasoma:_Metasomal_segments_I,_and_to_a_lesser_extent_II,_shape_of_stridulatory_region_(if_present)_in_lateral_aspect truncated_at_anterodorsal_edge_of_segment rounded,_extended_beyond_anterodorsal_edge_of_segment;
+{ 32 Metasoma:_Metasomal_segment_I,_extent_of_stridulatory_region_(if_present)_in_dorsal_aspect terminating_at_anterodorsal_edge_of_segment extended_forwards_in_V-shape_onto_anterior_surface;
+{ 33 Metasoma:_Metasomal_segment_II,_shape_of_stridulatory_region_(if_present)_in_dorsal_aspect reaching_posterodorsal_margin not_reaching_posterodorsal_margin polymorphic;
+{ 34 Metasoma:_Metasomal_segment_II,_nature_of_stridulatory_region_(if_present) fine_to_coarse_granules horizontal_ridges;
+{ 35 Metasoma:_Metasomal_segments_II-III,_posterodorsal_edge straight anteromedially_curved_in_a_V-shape;
+{ 36 Metasoma:_Metasomal_segments_IV-V,_lateral_intercarinal_surfaces granular smooth;
+{ 37 Metasoma:_Metasomal_segments_I-IV,_dorsosubmedian_carinae present absent;
+{ 38 Metasoma:_Metasomal_segment_IV,_dorsosubmedian_carinae_(if_present) continuous discontinuous;
+{ 39 Metasoma:_Metasomal_segments_II-IV,_distal_spiniform_granules_of_dorsosubmedian_carinae_(if_present),_size_relative_to_preceding_granules equally_developed noticeably_more_pronounced;
+{ 40 Metasoma:_Metasomal_segment_IV,_ventrosubmedian_and_ventrolateral_carinae present_and_continuous_to_edge_of_segment present_but_ventrosubmedian_carinae_becoming_obsolete_distally absent;
+{ 41 Metasoma:_Metasomal_segment_IV,_median_lateral_carina absent_to_proximally_obsolete continuous_but_poorly_developed continuous_and_distinct;
+{ 42 Metasoma:_Metasomal_segment_V,_dorsosubmedian_carinae absent present,_poorly_developed_with_blunt,_rounded_granules present,_distinct_with_sharp,_spiniform_granules;
+{ 43 Metasoma:_Metasomal_segment_V,_dorsolateral_carinae absent,_except_for_a_few_proximal_granules distally_obsolete continuous_to_distal_edge_of_segment;
+{ 44 Metasoma:_Metasomal_segment_V,_ventrolateral_carinae,_distal_relationship converging_distally subparallel_to_diverging_distally;
+{ 45 Metasoma:_Metasomal_segment_V,_distal_half_of_ventrolateral_carinae with_spinose_processes with_lobate_processes;
+{ 46 Metasoma:_Metasomal_segment_V,_ventrolateral_carinae absent_or_indistinct_from_surrounding_granules distinct;
+{ 47 Metasoma:_Metasomal_segment_V,_ventromedian_carina present_(may_be_indistinct absent;
+{ 48 Telson:_Telson_vesicle,_width_relative_to_width_of_metasomal_segment_V approximately_equal considerably_narrower;
+{ 49 Telson:_Telson_vesicle,_dorsoproximal_surface very_shallowly_excavated_along_longitudinal_half deeply_excavated;
+{ 50 Telson:_Telson_aculeus,_shape gently_curved abruptly_bent;
+{ 51 Behavior:_Diurnal_retreat hides_under_rocks burrows_under_rocks burrows_in_open_ground polymorphic;
+{ 52 Behavior:_Foraging_strategy sit-and-wait errant;
+;
+
+
+ccode  - 0.52;
+
+
+;

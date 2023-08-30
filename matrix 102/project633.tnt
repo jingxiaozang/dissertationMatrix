@@ -1,0 +1,71 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 15.03.28'
+41 12
+
+&[num]
+Limosa                0001110000011000110000011001010100000?000
+Glareola              00000010111001001010000101000100100000000
+Stercorarius          01000001100001010010011001100011111000111
+Laricola              100001001110?11110110??1011010??111000???
+Anous                 100?010011100111101110000110001?111001100
+Larosterna            10101110111001211011100100101111101010101
+Sterna                1010111011100021101110010010111110111?101
+Rynchops              10101110111000111011100000101110101100101
+Xema                  01001000111000111011100100101111111000101
+Rhodostetia           01001000111000111011100100101111111000101
+Larus                 01001?00111000111011100100101111111000101
+Rissa                 01001000111000111011100100101111111000101
+
+;
+
+
+cnames
+{ 0 Beak,_rostrum_maxillar_very_long,_occupying_at_least_one_third_of_the_length_of_the_beak: no yes;
+{ 1 Skull,_os_frontale,_paired_fossae_glandulares_nasales_meeting_at_midline_of_skull no yes;
+{ 2 Skull,_os_lacrimale_very_wide not_as_follows very_wide;
+{ 3 Skull,_orbita,_distinct_second_opening_caudal_of_foramen_nervi_maxillomandibularis absent present;
+{ 4 Skull,_processus_maxillopalatinus_forming_a_deep_concave_trough yes no;
+{ 5 Skull,_maxillopalatine_strut_A present absent;
+{ 6 Skull,_maxillopalatine_process not_as_follows fenestrated;
+{ 7 Skull,_processus_suprameaticus present absent;
+{ 8 Skull,_functional_processus_basipterygoidei present absent;
+{ 9 Skull,_fossa_temporalis_well-_marked no yes;
+{ 10 Skull,_processus_laterales_parasphenoidales_well-developed_and_ventrally_protruding no yes;
+{ 11 Skull,_fonticuli_occipitales absent present;
+{ 12 Mandible,_strongly_developed_processus_retroarticulares absent present;
+{ 13 Mandible,_well-developed_fenestra_caudalis present absent;
+{ 14 Mandible,_pars_caudalis,_fossa_caudalis absent present_but_only_moderately_deep present_and_well-marked;
+{ 15 Caudal_thoracic_vertebrae heterocoelous opisthocoelous;
+{ 16 Thoracic_vertebrae_pleurocoelous no yes;
+{ 17 Coracoid,_foramen_nervi_supracoracoidei present absent;
+{ 18 Coracoid,_extremitas_sternalis_strongly_curved_in_distal_(sternal)_view,_with_medial_portion_of_facies_articularis_sternalis_greatly_dorsoventrally_widened no yes;
+{ 19 Furcula,_extremitas_omalis_with_subovate_facies_articularis_acrocoracoidea_that_extends_over_nearly_entire_width_of_scapus_claviculae no yes;
+{ 20 Furcula,_facies_articularis_acrocoracoidea shallow deep;
+{ 21 Sternum,_margo_caudalis with_four_incisions/fenestrae with_two_incisions;
+{ 22 Sternum,_carina_sterni_ending_distinctly_before_tip_of_trabecula_intermedia no yes;
+{ 23 Humerus,_fossa_pneumotricipitalis_with_pneumatic_openings yes no;
+{ 24 Humerus,_transverse_ridge_at_beginning_of_incisura_capitis no yes;
+{ 25 Humerus,_well-developed_second_(dorsal)_fossa_pneumotricipitalis_that_undercuts_caput_humeri present absent;
+{ 26 Humerus,_impressio_coracobrachialis_very_marked,_dorsal_margin_of_intumescentia_humeri_forming_a_sharp_edge no yes;
+{ 27 Humerus,_crista_deltopectoralis,_caudal_surface concave convex;
+{ 28 Humerus,_fossa_musculi_brachialis shallow deep;
+{ 29 Humerus,_well_marked_tuberculum_ventral_to_the_tuberculum_supracondylare_dorsale,_right_next_to_the_fossa_m._brachialis yes no;
+{ 30 Os_carpi_ulnare,_osseous_bridge_across_caudal_end_of_tendinal_furrow_of_crus_longum absent present;
+{ 31 Os_carpi_ulnare,_marked_tubercle_at_area_of_insertion_of_ligamentum_humerocarpale no yes;
+{ 32 Phalanx_proximalis_digiti_majoris_bifenestrated no yes;
+{ 33 Pelvis,_recessus_caudalis_fossae absent present;
+{ 34 Femur,_distal_end,_tuberculum_musculi_gastrocnemialis_lateralis_very_marked no yes;
+{ 35 Femur,_distal_end,_crista_supracondylaris_medialis_with_distinct_caudally_projecting_tubercle_just_proximal_of_condylus_medialis no yes;
+{ 36 Femur_considerably_longer_than_tarsometatarsus no yes;
+{ 37 Tarsometatarsus,_hypotarsus,_tendon_of_musculus_flexor_digitorum_longus_enclosed_in_bony_canal no yes;
+{ 38 Three_anterior_feet_fully_webbed no yes;
+{ 39 Claw_of_second_toe_strongly_curved no yes;
+{ 40 Young precocial_or_semi-precocial altricial;
+;
+
+
+ccode  - 0.40;
+
+
+;

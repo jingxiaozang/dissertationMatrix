@@ -1,0 +1,58 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 15.07.40'
+19 21
+
+&[num]
+Xerophynus_machadoi              000000000-0000130?0
+Euphrynichus_bacillifer          1200220111010102010
+Phrynichus_scaber                1200210011010102010
+Phrynichodamon_scullyi           100020001000101000?
+Musicodamon_atlanteus            1100110011101001010
+Damon_medius                     1001100010001002021
+Damon_diadema_1                  1001101010001012131
+Damon_diadema_2                  1001101010001012131
+Damon_annulatipes_1              1011100010001012131
+Damon_annulatipes_2              1011100010001012131
+Damon_annulatipes_3              1011100010001012131
+Damon_gracilis_1                 1001120010001012242
+Damon_gracilis_2                 1001120010001012242
+Damon_sylviae_1                  1001100010001012132
+Damon_sylviae_2                  1001100010001012132
+Damon_variegatus_1               1001100010001012132
+Damon_variegatus_2               1001100010001012132
+Damon_variegatus_3               1001100010001012132
+Damon_variegatus_4               1001100010001012132
+Damon_variegatus_5               1001100010001012132
+Damon_variegatus_6               1001100010001012132
+
+;
+
+
+cnames
+{ 0 Chelicerae,_uppermost_or_distal,_bicuspidate_tooth lower_cusp_larger upper_cusp_larger;
+{ 1 Cheliceral_stridulating_organ absent present,_type_I present,_type_II,_row_of_setae_that_may_be_a_stridulating_organ;
+{ 2 Antenniform_legs,_tibia not_thickened thickened;
+{ 3 Antenniform_legs,_tarsal_segments_with_leaf-like_setae absent present;
+{ 4 Fourth_leg_tibia_(basitibia_IV) divided_into_three_articles,_i.e._3-segmented divided_in_two_articles,_i.e._2-segmented undivided,_i.e._1-segmented;
+{ 5 Pedipalps,_shape short_and_stout slightly_elongated greatly_elongated_and_slender;
+{ 6 Pedipalp_trochanter,_number_of_large_spines_on_ventral_surface one two;
+{ 7 Pedipalp_femoral_spines well_developed,_spiniform reduced_to_bacilliform_apophyses;
+{ 8 Pedipalp_tibia,_arrangement_of_spines three_large_dorsal_spines_(1_to_3)_form_a_catching_basket,_with_smaller_spines_between_the_large_ones three_large_dorsal_spines_(1_to_3)_are_shifted_to_the_distal_end_and_form_the_phrynichid_â€œhandâ€;
+{ 9 Pedipalp_tibia,_development_of_phrynichid_â€œhandâ€? weakly_developed,_with_straight_spines well_developed,_with_curved_spines;
+{ 10 Pedipalp_tibial_spine_I normal bifid;
+{ 11 Pedipalp_tibial_spine_II does_not_participate_in_formation_of_the_hand has_shifted_distally_and_participates_in_formation_of_the_hand;
+{ 12 Pedipalp_basitarsus_with_backwardly_directed_spine absent present;
+{ 13 Pedipalp_distitarsus_with_two_small_denticles_above_cleaning_organ absent present;
+{ 14 Ventral_sac_covers absent present;
+{ 15 Female_genitalia,_gonopodial_appendage_vestiges soft_finger-like hook-like reduced_or_missing flat,_with_a_sharp_edge;
+{ 16 Gonopods_with_unpaired_sclerotized_bar_or_plate_anteriad absent present,_of_D._variegatus_type present,_of_D._gracilis_type;
+{ 17 Spermatophores simple,_with_free_sperm_packages sperm_packages_on_distal_ends_of_movable_bars with_reduced_bars of_D._variegatus_type with_reduced_stalk;
+{ 18 Egg_sac_development brood_pouch_absent brood_pouch_present,_weakly_developed,_eggs_visible_from_the_sides brood_pouch_present,_well_developed,_egg_sac_surrounded_by_large_lateral_and_posterior_pleural_folds;
+;
+
+
+ccode  - 0.18;
+
+
+;

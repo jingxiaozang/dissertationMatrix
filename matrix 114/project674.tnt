@@ -1,0 +1,90 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 15.10.37'
+54 18
+
+&[num]
+Prodiacodon_spp.                             00011011-12-00000000012011000111?11000?00101?01110000?
+Cimolestes_magnus                            110010000020200000000110110001?10010001000010?101?1100
+Arfia_gingerichi                             ??????001020201100000120-00010?00110000011001110??0001
+Arfia_junnei                                 ?????????????11?00?00120?00010?0001000001101101011???1
+Arfia_shoshoniensis_and_opisthotoma          000000001?210?1100??01201000101?0?10000011001?101100?1
+Prototomus_minimus                           10?1??001100200201100010-0000????100101100110111?011?0
+Prototomus_deimos                            1001??0?0010200?0110001?100001???????????????????????0
+Prototomus_phobos                            100100??????20?2010000101?0001?????????10011011110010?
+Prototomus_secundarius                       101100000010200201001010100001??1000100100110?11101100
+Prototomus_martis                            ??00?00??0002002011000??000001????????010011011100?1?0
+Pyrocyon_strenuus                            110000001000200211100010000001???010000110110111101101
+Pyrocyon_dioctetus                           110000001010200211100010000001????????????????????1??1
+Prolimnocyon_haematus                        100000?01??0000?0110001011010300001100110011?011??1210
+Prolimnocyon_atavus                          1100000010000002?11000101?11030?0011001100110011101211
+Galecyon_morloi                              ????????????000210100010-?0002??11010?1100000000?0???0
+Galecyon_peregrinus                          0???0001?100?00310100010?10102???????????????????????1
+Galecyon_mordax                              ?00001?10110100?101?0010110102????????110000000000???1
+Galecyon_chronius                            ?000111101111003101?00120101021?1111011?000000000002?1
+
+;
+
+
+cnames
+{ 0 p1_size large small absent.;
+{ 1 p1_roots one two.;
+{ 2 Diastema_between_p1_and_p2 shorter_than_the_length_of_p2 longer_than_the_length_of_p2.;
+{ 3 Diastema_between_p2_and_p3 absent small.;
+{ 4 p3_proportions elongate_and_low,_protoconid_apex_lower_than_p2 short_and_high,_protoconid_apex_taller_than_p2.;
+{ 5 p3_talonid_cusps hypoconid_only second_cusp_present_distal_to_the_hypoconid.;
+{ 6 p4_mesial_cusp absent_or_very_weak strong.;
+{ 7 p4_protoconid_height tall:_much_taller_than_talonid,_subequal_to_or_taller_than_m1_protoconid low:_moderately_taller_than_talonid,_lower_than_m1_protoconid.;
+{ 8 p4_protoconid_cross-section circular lenticular.;
+{ 9 p4_talonid_buccal_cusps hypoconid_only second_cusp_present_distal_to_the_hypoconid.;
+{ 10 Lingual_margin_of_p4_talonid no_rim_present weak_rim_present well-developed_entocristid_present.;
+{ 11 p4_width narrow_(gracile) broad_(robust).;
+{ 12 m2_buccal_cingulid_at_mesial_margin_of_crown weak_and_crestiform,_restricted_to_mid-height_of_paraconid weak_and_denticulate,_at_least_on_m2,_restricted_to_mid-height_of_paraconid strong_and_shelf-like,_extends_to_base_of_paraconid_to_form_a_bulge_at_the_mesiobuccal_corner_of_the_crown.;
+{ 13 m2_buccal_cingulid absent_or_restricted_to_hypoflexid continuous_around_protoconid_and/or_hypoconid.;
+{ 14 Protoconid_height_on_m1?2 tall,_much_taller_than_metaconid_and_paraconid,_trigonid_substantially_elevated_above_talonid low,_only_slightly_taller_than_metaconid_and_paraconid,_height_differential_between_trigonid_and_talonid_reduced.;
+{ 15 m2_paraconid_and_metaconid_relative_heights paraconid_substantially_lower_than_metaconid paraconid_moderately_lower_than_metaconid paraconid_subequal_to_metaconid paraconid_taller_than_metaconid.;
+{ 16 m2_paraconid_orientation slightly_oblique,_trigonid_relatively_closed strongly_oblique,_trigonid_relatively_open.;
+{ 17 Length_of_paraconid_portion_ofm2_paracristid short elongate.;
+{ 18 m1?2_paraconid_keel weak strong.;
+{ 19 m2_metaconid_position metaconid_apex_immediately_lingual_to_protoconid_apex metaconid_apex_distolingual_to_protoconid_apex.;
+{ 20 Orientation_of_m1?2_cristid_obliqua oblique_to_long_axis_of_crown,_contact_with_trigonid_beneath_protocristid_notch parallel_to_long_axis_of_crown,_contact_with_trigonid_beneath_protoconid.;
+{ 21 m1?2_hypoconid_size small,_hypoconid_apex_at_distobuccal_corner_of_crown,_hypoconid_portion_of_postcristid_absent enlarged,_hypoconid_apex_mesial_to_distobuccal_corner_of_crown,_hypoconid_portion_of_postcristid_distinct.;
+{ 22 m1?2_entoconid_size very_small,_much_lower_than_hypoconulid,_talonid_semitrenchant small,_subequal_to_hypoconulid_height,_entoconid_and_entocristid_form_a_low_rim_on_the_lingual_margin_of_the_crown enlarged,_subequal_to_hypoconulid_height_and_well_separated_apically,_entoconid_and_entocristid_form_a_distinct_wall_closing_the_lingual_margin_of_the_talonid_basin.;
+{ 23 m1?2_entoconulid_morphology absent_or_very_small,_becoming_indistinct_from_the_remainder_of_the_entocristid_with_light_wear forming_a_series_of_denticulations_on_the_lingual_portion_of_the_entocristid mesially_displaced_and_well-separated_from_the_remainder_of_the_entocristid.;
+{ 24 m1?2_talonid_basin_depth shallow,_cusp_relief_low deep,_cusp_relief_substantial.;
+{ 25 m1?2_size m2_much_larger_than_m1 size_subequal.;
+{ 26 m3_roots two one.;
+{ 27 m3_trigonid_height much_taller_than_talonid,_height_differential_comparable_to_m1?2 low,_height_differential_between_trigonid_and_talonid_much_reduced_compared_to_m1?2.;
+{ 28 m3_morphology comparable_to_m1?2_with_minor_distinctions_(trigonid_relatively_larger,_talonid_longer_but_more_narrow,_hypoconulid_enlarged) disjunct_from_m1?2,_paraconid_and_paracristid_greatly_enlarged_relative_to_other_crown_structures.;
+{ 29 M3_size larger_than_M1?2 subequal_to_M1?2 slightly_reduced strongly_reduced.;
+{ 30 Orientation_of_P3 aligned_with_P4,_rostrum_broad set_at_an_angle_to_P4,_rostrum_narrow.;
+{ 31 Protocone_lobe_on_P3 absent present.;
+{ 32 P4_buccal_cingulum complete incomplete_mesially.;
+{ 33 P4_parastyle weak_or_absent forming_a_strong,_conical_cusp.;
+{ 34 P4_metastyle long,_subequal_to_length_of_paracone short,_much_shorter_than_paracone.;
+{ 35 P4_protocone_position lingual_to_paracone mesiolingual_to_paracone.;
+{ 36 P4_protocone_size prominent,_extending_as_far_lingual_as_the_protocone_of_M1 reduced,_lingual_extent_less_than_M1.;
+{ 37 P4_preprotocrista continuous_onto_parastyle ending_at_base_of_paracone.;
+{ 38 M1_parastyle_development poorly_developed,_forming_a_slight_thickening_at_the_junction_of_the_buccal_cingulum_and_preparaconule_crista prominent,_forming_a_well_developed_cusp_and_parastylar_lobe_mesial_to_the_paracone.;
+{ 39 M1_paracone_and_metacone separate_almost_to_base fused_to_midway_from_base.;
+{ 40 M1_paracone_and_metacone_size paracone_much_larger_and_much_taller_than_metacone paracone_slightly_larger_than_metacone,_cusps_heights_subequal.;
+{ 41 Separation_of_M1_metacone_and_metastyle linear_crests_separated_by_a_well-developed_carnassial_notch a_single_unbroken_arcuate_crest_connects_the_metacone_and_metastyle.;
+{ 42 Elongation_of_M1_metastyle short,_much_less_than_the_combined_length_of_paracone_and_metacone elongate,_length_subequal_to_combined_length_of_paracone_and_metacone.;
+{ 43 Orientation_of_M1_metastyle subparallel_to_a_line_between_the_paracone_and_metacone_apices sharply_oblique_to_a_line_between_the_paracone_and_metacone_apices.;
+{ 44 Development_of_M1_conules paraconule_larger_and_more_elevated_than_metaconule paraconule_and_metaconule_subequal_in_size_and_height.;
+{ 45 Termination_ofM1_postmetaconule_crista joins_metastylar_crest_at_distolingual_corner_of_crown terminates_beneath_metastylar_crest.;
+{ 46 M1_protocone_transverse_width short,_protocone_apex_close_to_apices_of_buccal_cusps elongate,_apex_of_protocone_well_lingual_to_apices_of_buccal_cusps.;
+{ 47 M1_protocone_length broad compressed.;
+{ 48 M1_protocone_height much_lower_than_buccal_cusps slightly_lower_than_buccal_cusps.;
+{ 49 Elongation_of_M1_distal_cingulum distal_cingulum_terminates_beneath,_but_does_not_contact,_metaconule distal_cingulum_extends_buccal_to_metaconule.;
+{ 50 M2_parastylar_region bearing_a_single_cusp_oriented_subparallel_to_the_paracone_and_metacone oriented_transversely_with_a_stylocone_and_parastyle.;
+{ 51 Distal_portion_of_M2 well-developed,_comparable_in_morphology_to_M1,_metastyle_much_more_elongate_than_on_M1 well-developed,_comparable_in_morphology_to_M1,_metastylar_elongation_comparable_to_M1 reduced,_metacone_much_smaller_than_paracone,_metastyle_absent.;
+{ 52 M3 slightly_smaller_than_M1?2 much_reduced_in_size absent.;
+{ 53 Enamel_texture_on_cheek_teeth smooth crenulate.;
+;
+
+
+ccode  - 0.53;
+
+
+;

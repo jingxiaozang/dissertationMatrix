@@ -1,0 +1,57 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 15.06.38'
+28 11
+
+&[num]
+Centruroides_gracilis               1001010000000000000000000000
+Afroisometrus_minshullae            1????0001010000??10?01001000
+Lychas_burdoi                       1010000011100021000000000000
+Babycurus_jacksoni                  2102111110100010000100000000
+Odonturus_dentatus                  2101011110100020000100000000
+Grosphus_madagascariensis           2102131111010020000001000010
+Parabuthus_capensis                 2100030011001120000011110110
+Uroplectes_triangulifer             0010021111010020000001110000
+Pseudolychas_ochraceus              1101001110010021011001000001
+Pseudolychas_pegleri                1102001110010021011001100001
+Pseudolychas_transvaalicus          1102101110020021111001100001
+
+;
+
+
+cnames
+{ 0 Cheliceral_fixed_finger,_number_of_denticles_on_ventral_surface none one two;
+{ 1 Pedipalp_chela_(male),_manus not_incrassate incrassate;
+{ 2 Pedipalp_chela_(male),_fixed_finger curved_dorsally straight;
+{ 3 Pedipalp_chela_(male),_movable_finger,_median_lobe absent weak well_developed;
+{ 4 Pedipalp_chela_(male),_fingers,_when_closed no_proximal_â€˜gapâ€™ distinct_proximal_â€˜gapâ€™;
+{ 5 Pedipalp_chela_fingers,_granular_rows,_number_of_rows 6-7 8-9 11 12-14;
+{ 6 Pedipalp_chela_fingers,_granular_rows imbricated not_imbricated;
+{ 7 Pedipalp_chela_fingers,_granular_rows,_number_of_external_accessory_granules one two;
+{ 8 Pedipalp_chela_fingers,_supernumary_granules present absent;
+{ 9 Pedipalp_patella dorsointernal,_dorsoexternal_and,_to_lesser_extent,_externomedian_carinae_distinct,_granular dorsointernal,_dorsoexternal_and_externomedian_carinae_absent_or_obsolete;
+{ 10 Pedipalp_femur_dorsal_trichobothria Î±_configuration Î²_configuration;
+{ 11 Pectines_(female),_basal_pectinal_tooth unmodified enlarged reduced;
+{ 12 Pectines_(female),_proximal_median_lamella unmodified enlarged_and_lobate;
+{ 13 Legs_I_and_II,_tibiae_and_telotarsi,_macrosetal_combs absent present;
+{ 14 Legs_III_and_IV,_tibial_spurs absent,_legs_III_and_IV present,_leg_IV_only present,_legs_III_and_IV;
+{ 15 Hemispermatophore,_pars_recta straight coiled;
+{ 16 Hemispermatophore,_pars_reflecta parallel_to_distal_lamina S-shaped;
+{ 17 Mesosomal_tergites_III-VI,_submedian_carinae absent_or_obsolete present;
+{ 18 Sternites_VI_and_VII,_surface_macrosculpture smooth,_at_least_medially granular;
+{ 19 Sternite_V_(male),_posteromedial_surface unmodified with_raised,_smooth_area;
+{ 20 Metasomal_segments_I-III,_dorsomedian_surfaces,_stridulatory_granules absent present;
+{ 21 Metasomal_segment_II,_median_lateral_carinae absent present;
+{ 22 Metasomal_segment_III,_median_lateral_carinae absent present;
+{ 23 Metasomal_segment_IV,_median_lateral_carinae absent present;
+{ 24 Metasomal_segment_V,_ventrolateral_carinae present absent;
+{ 25 Metasomal_segment_V,_ventrolateral_carinae,_subdistal_granules unmodified enlarged_into_laterally_compressed,_lobate_processes;
+{ 26 Subaculear_tubercle present absent;
+{ 27 Aculeus,_length_relative_to_telson_vesicle as_long_as,_or_longer_than_vesicle considerably_shorter_than_vesicle;
+;
+
+
+ccode  - 0.27;
+
+
+;

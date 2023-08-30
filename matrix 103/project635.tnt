@@ -1,0 +1,57 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 15.04.34'
+20 19
+
+&[num]
+Liparia                          00000000000000000000
+Podalyria_argentea               10010110011120100011
+Podalyria_biflora                10010111011120000011
+Podalyria_burchellii             00000010011120010001
+Podalyria_buxifolia              12110111011120000111
+Podalyria_calyptrata             00000010111120011011
+Podalyria_cordata                00000010011120011001
+Podalyria_hirsuta                00000010011120011001
+Podalyria_lanceolata             00000010011120011001
+Podalyria_leipoldtii             10011111011121100011
+Podalyria_microphylla            10111111011121200011
+Podalyria_myrtillifolia          10011111011121200011
+Podalyria_oleaefolia             12110110011120000111
+Podalyria_orbicularis            01100010111120011001
+Podalyria_pearsonii              10111111011121200011
+Podalyria_rotundifolia           00000010111120011011
+Podalyria_sericea                10011111011120000011
+Podalyria_variabilis             10010110011120000011
+Stirtonanthus                    00000010001010000000
+
+;
+
+
+cnames
+{ 0 Habitat tall_woody_shrubs small_shrubs_or_spreading_shrublets;
+{ 1 Leaf_margins flat slightly_recurved strongly_recurved;
+{ 2 Leaf_upper_surface_vestiture hairy glabrescent_to_completely_glabrous;
+{ 3 Leaf_venation distinct indistinct;
+{ 4 Leaf_vestiture not_silky_sericeous silky_sericeous;
+{ 5 Leaf_apex flat_or_concave reflexed;
+{ 6 Leaf_petiole absent present;
+{ 7 Bract_width broad_(>_4_mm_wide) narrow_(<_4_mm_wide);
+{ 8 Bract_apex_becoming_torn_as_bud_develops not_torn becoming_torn_when_bud_develops;
+{ 9 Bract_persistence noncaducous caducous;
+{ 10 Sterile_bracts present absent;
+{ 11 Influoresence_rachis_extension present absent;
+{ 12 Flower_number four_or_more two_or_four one_or_two_rarely_more;
+{ 13 Calyx_lobe_length more_than_twice_as_long_as_the_tube less_than_twice_as_long_as_the_tube;
+{ 14 Calyx_length_vs._keel_length as_long_as_keel about_half_the_length_of_keel shorter_than_half_the_length_of_keel;
+{ 15 Calyx_disruption_(split)_between_upper_lobes absent present;
+{ 16 Calyx_lobes_orientation_at_antithesis not_reflexed reflexed;
+{ 17 Pods inflated not_inflated;
+{ 18 Number_of_nectar_walls two one_(rarely_absent) zero;
+{ 19 Anthocyanins absent present;
+;
+
+
+ccode  - 0.19;
+
+
+;

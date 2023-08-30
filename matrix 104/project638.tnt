@@ -1,0 +1,204 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 15.05.06'
+115 71
+
+&[num]
+Centruroides_gracilis                     000000000000000000000000000---0-00000010000000--1---0000000---0000000--0-0-00000000000-0000000000000000000000000000
+Chaerilus_granosus                        200000001000001000000000000-000-00000020011001000---0000000---0000000--0-0-00000010000-0000000000000000000000000100
+Bothriurus_bonariensis                    1000100020100011101110100130101100000000021011003-000001110000000001100100-0001112111100000000010001000100000000000
+Bothriurus_coriaceus                      1000100020100011101110100130101100000000021011003-000001110000000001100100-0001112111100000000010001000100000000000
+Centromachetes_obscurus                   1000000021100011101110100130101120000000021011003-000001110000000001200100-0001112111100000000010000000000000000000
+Centromachetes_pocockii                   1000000021100011101110100130101120000000021011003-000001110000000001200100-0001112111100000000010000000000000000000
+Cercophonius_queenslandae                 1000000021100001101110100130101020000000021011003-0000011100000000011000-0-0001112111100000000010010000000000000000
+Cercophonius_squama                       1000000021100001101110100130101020000000021011003-0000011100000000011000-0-0001112111100000000010010000000000000000
+Lisposoma_elegans                         1000000011100000101110100130100-0000000002111100200000011100001000012000-0-00002021110001000000000-0000000000020000
+Lisposoma_josehermana                     1000000011100000101110100130100-0000000002111100200000011100001000012000-0-00002021110001000000000-0000000000020000
+Orobothriurus_alticola                    1000100021100011101110100130101100000000021011003-000001110000000001200100-0001112111100000000010000000100000000000
+Orobothriurus_crassimanus                 1000100021100011101110100130101100000000021011003-000001110000000001200100-0001112111100000000010001000100000000000
+Phoniocercus_pictus                       1000000021100001101110100130101000000000021011003-0000011100001000012200-0-00011121111000000000000-0000000000000000
+Phoniocercus_sanmartini                   1000000021100001101110100130101000000000021011003-0000011100001000012200-0-00011121111000000000000-0000000000000000
+Tehuankea_moyanoi                         1000000021100001101110100130101100000000021011003-000001110000000001100??0-000?1121111000000000-0000000000000000000
+Thestylus_glasioui                        1000000021100001101110100130100-0000000002101100200000011100001000012000-0-00001121111000000000110-0000000000020000
+Timogenes_dorbignyi                       1000100020100011101110100130102-00000000021011004-000001110000000001100200-00011121111000000100-01-2001000000001000
+Timogenes_mapuche                         1000100020100011101110100130102-00000000022021004-000001110000000001100200-00011121111000000100-01-2001200000001000
+Urophonius_iheringii                      1000000021100001101110100130101020000000021011003-0000011100000000011000-0-0001112111100000000010010000100000000000
+Urophonius_granulatus                     1000000021100001101110100130101020000000021011003-0000011100000000011000-0-0001112111100000000010010000100000000000
+Brachistosternus_ehrenbergii              1000000021100011101110100130101100000000022011003-0000011100000001010--200-00011121111000010000-0000001000000000000
+Brachistosternus_alienus                  1000000021100011101110100130101100000000021011003-0000011100000001010--200-00011121111000010000-0000001000000000000
+Brachistosternus_ferrugineus              1000000021100011101110100130101100000000021011004-0000011100000001010--200-00011121111000010000-0000001000000000000
+Vachonia_martinezi                        2000100020100011101110100130102-00000010023021004-000001110000100001100200-000?1121111000000000-01-2000000000000000
+Bioculus_caboensis                        1020000110100011101110100011100-0000000012101100200300001011011020002000-0-0110202110001--0000010000200011000010010
+Bioculus_comondae                         2020000110100011101110100011100-0000000012101100200300001011011020002000-0-0110202110001--0000010000200011000010010
+Cazierius_gundlachii                      1020000010100011101110100011100-0000000012101100200300001011011020002000-0-0110202110001--0000010000200011000000010
+Cazierius_scaber                          1020000010100011101110100011100-0000000012101100200300001011011020002000-0-0110202110001--0000010000200011000000010
+Didymocentrus_hasethi                     1020000110100011101010010030100-0000000012101100200300001011011020002000-0-0110202110001--0000010000200011000010010
+Didymocentrus_lesueurii                   1020000110100011101010010030100-0000000012101100200300001011011020002000-0-0110202110001--0000010000200011000010010
+Diplocentrus_gertschi                     1020000110100011101010000021100-0000000012101100200300001011011020002000-0-0110202110001--0000010000200011000010010
+Diplocentrus_mexicanus                    1020000010100011101010000021100-0000000012101100200300001011011020002000-0-0110202110001--0000010000200011000010010
+Heternebo_granti                          1020000010100010101000000011100-0000000012101100200300001011011020002000-0-0110202110001--0000010000100011000000010
+Heteronebo_jamaicae                       1020000010100010101000000011100-0000000012101100200300001011011020002000-0-0110202110001--0000010000100011000000010
+Oiclus_purvesii                           2020000010100011101110100011100-0000000012101100200300001011011120002000-0-0110202110001--0000010000200011000000010
+Tarsoporosus_flavus                       1020000010100011101000000011100-0000000012101100200300001011011020102000-0-0110202110001--0001010000200011000000010
+Tarsoporosus_kugleri                      1020000010100011101000000011100-0000000012101100200300001011011020102000-0-0110202110001--0001010000200011000000010
+Nebo_hierichonticus                       1021001010100001101110000010000-0100000002101110200300001011011010002000-0-0110202110001--0000000000000011000000010
+Nebo_poggesii                             1021001010100001101110000010000-0100000002101110200300001011011010002000-0-0110202110001--0000000000000011000000010
+Heteroscorpion_goodmani                   2021001110100000111000000010000-20000000022021004-0000001001011000002000-0-0110202110000000000100000000000110100100
+Heteroscorpion_opisthacanthoides          2021001110100000111000000010000-20000000022021004-0000001001011000002000-0-0110202110000000000100000000000110100100
+Cheloctonus_crassimanus                   1111001110000000101110000010110-0010000002101100210100101011101000002000-0-1110202110000000000000000000010110120100
+Cheloctonus_jonesii                       1111001110000000101110000010110-0010000002101100210100101011101000002000-0-1110202110000000000000000000010110120100
+Chiromachetes_fergusoni                   112100111000000111111000001011??10?1100002101100210100101011101000022000-0-111?2??????0???000000000000001011?120100
+Chiromachetes_tirupati                    112100111000000111111000001011??10??000002101100210100101011101000022000-0-111?2??????0???000000000000001011?120100
+Chiromachus_ochropus                      1121001110000001111110000010110-1011100002101100210100101011101000022300-0-1110202110000000000000000000010110120100
+Hadogenes_tityrus                         1111001110000001111110101010110-10110000022021004-0120-01001101000002000-0-1110102110000010000000000010010110120100
+Hadogenes_troglodytes                     1111001110000001111110101010110-10101000022021004-0120-01001101000002000-0-1110102110000010000000000010010110100100
+Iomachus_laeviceps                        1121001130000001111110000010110-101?000002101100210100101011101000002200-0-1110202110000100000000000000010110120100
+Iomachus_politus                          1121001130000001101110000010110-1020010002101100210100101001101000002200-0-1110202110000100000000000000010110120100
+Liocheles_australasiae                    1121001130000001111110000010110-1011000002101100210101101001101000022200-0-1110202110000100000000000010010110120100
+Liocheles_waigiensis                      1121001130000001111110000010110-1011000002101100210101101001101000022200-0-1110202110000100000000000000010110120100
+Opisthacanthus_elatus                     1121001110000001111110000010110-1021010002101100210000101011101000002000-0-1110202110000100000000000000010110120100
+Opisthacanthus_madagascariensis           1121001110000001111110000010110-1010100002101100210100101011101000002000-0-1110202110010000000000000000010110120100
+Opisthacanthus_validus                    1111001110000000101110000010110-1010?00002101100210100101011101000002000-0-1110202110000000000000000000010110100100
+Palaeocheloctonus_pauliani                1121001110000001111110000010110-0010100002101100210100101011101000002000-0-1110202110010000000000000000010110120100
+Habibiella_gaillardi                      1121001110000000111000000010000-1000000002102101211300001011011000002100-0-0110202110000000000100000000010101100100
+Hemiscorpius_lepturus                     1121001110000000111000000010000-1000000002101101211300001011011000002100-0-0110202110000000000100000000010101100100
+Hemiscorpius_maindroni                    1121001110000000111000000010000-1000000002101101211300001011011000002100-0-0110202110000000000100000000010101100100
+Heterometrus_spinifer                     1021001010100011101111100011100-01100000121011002012000010110110100220011210110202110000000000000000000000000100000
+Heterometrus_swammerdami                  1021001010100011101111100011100-01100000121011002012000010110110100220011210110202110000000000000000000000000100000
+Opistophthalmus_boehmi                    1011001010101111101111000011100-010000001210210020120000101101101002201100-0110202110000000000010020000000000100000
+Opistophthalmus_capensis                  1011011010101111101111000011100-010000001210210020120000101101101002201200-0110202110000000000000000000000000100000
+Opistophthalmus_holmi                     1011011010101011101111000011100-01000000122021004-120000101101101002201200-01102021100000000000000-0000000000100000
+Pandinus_cavimanus                        1021001010100011101111100011100-01100000123022004-12000010110110100220011200110202110000000000000000000000000100000
+Pandinus_dictator                         1021001010100011101111100011100-01100000123021002012000010110110100220011200110202110000000000000000000000000100000
+Pandinus_imperator                        1021001010100011101111100011100-01100000123022004-12000010110110100220011200110202110000000000000000000000000100000
+Scorpio_maurus_kruglovi                   1011001010100011101111000011100-01000001121011002012000010110110100220010100110202110000000000010020000000000100001
+Scorpio_maurus_mogadorensis               1011001010100011101111000011100-01000001121011002012000010110110100220010100110202110000000000010020000000000100001
+Urodacus_novaehollandiae                  2021001010100000101000000010000-20000000022021004-0010-0100101101002200100-0110202110000000100100010000000000100000
+Urodacus_yaschenkoi                       2021001010110000101000000010000-20000000022021004-0010-0100101101002200200-0110202110000000100100010000000000100000
+
+;
+
+
+cnames
+{ 0 Carapace:_Lateral_ocelli,_number_of_pairs more_than_three three two;
+{ 1 Carapace:_Median_ocular_tubercle raised shallow;
+{ 2 Carapace:_Median_notch absent shallow strongly_excavated;
+{ 3 Carapace:_Median_longitudinal_furrow_width broad,_shallow,_without_suture narrow,_suturiform;
+{ 4 Carapace:_Median_longitudinal_furrow_development well-developed obsolete;
+{ 5 Carapace:_Antero-ocular_depression absent present;
+{ 6 Carapace:_Posterior_sutures absent present;
+{ 7 Carapace:_Nongranular_surfaces_of_prosoma,_mesosoma,_metasoma_and_legs smooth distinctly_punctate;
+{ 8 Sternum:_Sternum_shape subtriangular subpentagonal transverse equilateral_pentagonal;
+{ 9 Chelicerae:_Cheliceral_movable_finger,_number_of_subdistal_teeth one two;
+{ 10 Chelicerae:_Cheliceral_movable_finger,_distal_external_and_distal_internal_teeth subequal,_with_distal_external_tooth_only_slightly_smaller_than_distal_internal_tooth,_and_opposable,_i.e._forming_a_bicusp unequal,_with_distal_external_tooth_considerably_smaller_than_distal_internal_tooth,_aligned_longitudinally_and_usually_not_apposable_or,_at_most,_moderately_opposable;
+{ 11 Chelicerae:_Cheliceral_fingers,_secondary_serrations absent present;
+{ 12 Chelicerae:_Cheliceral_coxae,_scaphotrix_(stridulatory_setae)_on_dorso-internal_surfaces absent present;
+{ 13 Chelicerae:_Cheliceral_coxae,_trichopae_(chemoreceptive_lamelliform_setae)_on_internal_surfaces absent present;
+{ 14 Pedipalp_ornamentation:_Patella,_dorsal_surface flat,_dorsomedian_and_dorso-external_carinae_in_same_axis convex,_dorsomedian_carina_raised_above_horizontal_axis_of_dorso-external_carina;
+{ 15 Pedipalp_ornamentation:_Patella,_dorso-external_carina distinct obsolete;
+{ 16 Pedipalp_ornamentation:_Patella,_externomedian_carina continous_from_proximal_to_distal_edges discontinuous,_interrupted_two-thirds_along;
+{ 17 Pedipalp_ornamentation:_Patella,_anterior_process absent present;
+{ 18 Pedipalp_ornamentation:_Chela,_number_of_carinae eight ten;
+{ 19 Pedipalp_ornamentation:_Chela_(male),_dorsal_secondary_carina distinct obsolete;
+{ 20 Pedipalp_ornamentation:_Chela_(female),_dorsal_secondary_carina distinct obsolete;
+{ 21 Pedipalp_ornamentation:_Chela,_dorsal_secondary_carina extending_full_way_across_dorsal_surface,_subdigital_carina_vestigial dorsal_secondary_carina_extending_part_way_across_dorsal_surface,_subdigital_carina_extending_part_way_across_in_opposite_direction;
+{ 22 Pedipalp_ornamentation:_Chela,_digital_carina distinct obsolete;
+{ 23 Pedipalp_ornamentation:_Chela,_disproportionate_development_of_dorsal_secondary_and_external_secondary_carinae,_relative_to_digital_carina absent present;
+{ 24 Pedipalp_ornamentation:_Chela,_disproportionate_development_of_external_secondary_carina_only,_relative_to_digital_carina absent present;
+{ 25 Pedipalp_ornamentation:_Chela,_ventro-external_carina distinct obsolete;
+{ 26 Pedipalp_ornamentation:_Chela,_ventro-external_carina_(additive) parallel_to_longitudinal_axis_of_chela,_distal_edge_connected_to_external_movable_finger_condyle parallel_to_longitudinal_axis_of_chela,_distal_edge_disconnected_from_external_movable_finger_condyle_and_directed_toward_a_point_between_external_and_internal_movable_finger_condyles,_but_closer_to_external_condyle oblique_to_longitudinal_axis_of_chela,_distal_edge_disconnected_from_external_movable_finger_condyle_and_directed_toward_a_point_between_external_and_internal_movable_finger_condyles,_but_closer_to_internal_condyle oblique_to_longitudinal_axis_of_chela,_distal_edge_disconnected_from_external_movable_finger_condyle_and_directed_toward_(almost_connecting)_internal_movable_finger_condyle;
+{ 27 Pedipalp_ornamentation:_Chela,_ventromedian_carina_presence vestigial_or_obsolete distinct;
+{ 28 Pedipalp_ornamentation:_Chela,_ventro-internal_carina_development more_strongly_developed_than_internomedian_carina,_which_may_be_obsolete equally_or_less_strongly_developed_than_internomedian_carina;
+{ 29 Pedipalp_ornamentation:_Chela,_ventro-internal_carina equally_or_more_strongly_developed_then_internomedian_carina,_which_may_be_obsolete less_strongly_developed_than_internomedian_carina,_often_obsolete;
+{ 30 Pedipalp_ornamentation_(additive):_Chela_(male),_secondary_sexual_structure absent hook-like_apophysis semicircular,_rimmed_depression;
+{ 31 Pedipalp_ornamentation:_Chela_(male),_hook-like_secondary_sexual_structure_with_granular_ridge_at_base_of_fixed_finger present absent;
+{ 32 Pedipalp_ornamentation:_Chela_fingers,_number_of_rows_of_primary_denticles single double,_often_fused_at_the_base multiple;
+{ 33 Pedipalp_ornamentation:_Chela_fingers,_dentate_margin entire markedly_scalloped;
+{ 34 Pedipalp_ornamentation:_Chela_(male),_lobe_of_movable_finger_(additive) absent_or_at_most_weakly_developed,_close_to_base_movable_finger_and_lacking_an_obvious_notch_in_fixed_finger well-developed,_almost_midway_along_movable_finger_(if_dentate_margin_markedly_scalloped,_first_lobe_disproportionately_developed),_with_a_distinct_notch_in_fixed_finger,_lobe_rounded_dorsally_and_lacking_a_sharp_conical_tooth well-developed,_almost_midway_along_movable_finger,_with_a_distinct_notch_in_fixed_finger,_lobe_unevenly_pointed_dorsally,_due_to_the_presence_of_a_sharp_conical_tooth;
+{ 35 Pedipalp_ornamentation:_Chela_(male,_also_applicable_in_females_with_well-developed_lobe_on_movable_finger),_lobe_of_fixed_finger,_projecting_downwards absent present;
+{ 36 Pedipalp_ornamentation:_Chela_(female),_lobe_of_movable_finger absent_or_at_most_weakly_developed,_close_to_base_of_movable_finger,_without_an_obvious_notch_in_fixed_finger well-developed,_almost_midway_along_movable_finger,_with_distinct_notch_in_fixed_finger polymorphic;
+{ 37 Pedipalp_ornamentation:_Chela_(female),_sharp_conical_tooth_at_base_of_movable_finger_and_corresponding_notch_at_base_of_fixed_finger absent present;
+{ 38 Trichobothria:_Femur,_number_e_trichobothria 1 2 4;
+{ 39 Trichobothria:_Femur,_position_trichobothria_i internal dorsal;
+{ 40 Trichobothria:_Patella,_position_trichobothria_d2 dorsal internal;
+{ 41 Trichobothria:_Patella,_v_trichobothria_(additive) absent three_prolaterals three_or_more_retrolaterals;
+{ 42 Trichobothria:_Patella,_number_v_trichobothria absent single_row_of_3 single_row_of_4-20 two_or_more_rows,_with_more_than_30;
+{ 43 Trichobothria:_Patella,_position_distal_v_trichobothria ventral external;
+{ 44 Trichobothria:_Patella,_number_e_trichobothria_(additive) 7 13,_rarely_12 14_or_more;
+{ 45 Trichobothria:_Chela,_number_i_trichobothria_(additive) one two three_or_more;
+{ 46 Trichobothria:_Chela,_position_trichobothria_it basal_or_midfinger distal;
+{ 47 Trichobothria:_Chela,_position_trichobothria_ib_and_it basal midfinger;
+{ 48 Trichobothria:_Chela,_number_V_trichobothria 1 2 4 5 6_or_more;
+{ 49 Trichobothria:_Chela,_distance_between_trichobothria_V2_and_V3 normal widely_separated;
+{ 50 Trichobothria:_Chela,_position_of_trichobothria_Db external_surface dorsal_surface;
+{ 51 Trichobothria:_Chela,_position_trichobothria_Dt_(additive) manus,_at_proximal_end manus,_mid-length_or_slightly_less_than_mid-length manus,_distal_half,_near_base_of_fixed_finger proximal_end_of_fixed_finger;
+{ 52 Trichobothria:_Chela,_external_surface_with_accessory_trichobothria absent 10-15 more_than_20;
+{ 53 Trichobothria:_Chela,_position_trichobothria_Eb3 in_line_with_Eb1-Eb2_axis distal_to_Eb1-Eb2_axis;
+{ 54 Trichobothria:_Chela,_position_trichobothria_Est distal midpalm;
+{ 55 Trichobothria:_Chela,_position_trichobothria_Et2 external_surface ventral_surface;
+{ 56 Trichobothria:_Chela,_number_d_trichobothria 2 4;
+{ 57 Trichobothria:_Chela,_position_trichobothria_db fixed_finger manus;
+{ 58 Trichobothria:_Chela,_position_trichobothria_db_position dorsal internal;
+{ 59 Trichobothria:_Chela,_position_trichobothria_dsb below_db-dst_axis in_line_with_db-dst_axis;
+{ 60 Trichobothria:_Chela,_position_of_trichobothria_eb proximal_region_of_fixed_finger manus,_behind_point_of_articulation_between_fixed_and_movable_fingers;
+{ 61 Trichobothria:_Chela,_position_of_trichobothria_esb manus,_behind_point_of_articulation_between_fixed_and_movable_fingers_and_below_eb-est-et_axis midway_along_fixed_finger,_in_line_with_eb-est-et_axis;
+{ 62 Legs:_Retrolateral_pedal_spurs present absent;
+{ 63 Legs:_Prolateral_pedal_spurs present absent;
+{ 64 Legs:_Telotarsi,_laterodistal_lobes_(additive) truncated,_base_of_median_dorsal_lobe_flush rounded,_notches_at_base_of_median_dorsal_lobe secondarily_truncated,_notches_at_base_of_median_dorsal_lobe;
+{ 65 Legs:_Telotarsi,_laterally_flattened absent present;
+{ 66 Legs:_Telotarsi_I,_numerous_pores_ventrally_and_prolaterally absent present;
+{ 67 Legs:_Telotarsi,_well-developed_ventromedian_row_of_setae spiniform setiform absent;
+{ 68 Legs:_Telotarsi_I-IV,_ventrosubmedian_setae_distribution_(additive) setiform_on_I-IV setiform_on_I_or_I-II,_spiniform_on_III-IV spiniform_(or_secondarily_setiform)_on_I-IV;
+{ 69 Legs:_Telotarsi,_ventrosubmedian_setae_type stout_spiniform slender_spiniform few_secondarily_setiform numerous_secondarily_setiform;
+{ 70 Legs:_Telotarsi_IV,_prolateral_row_of_ventrosubmedian_spiniform_setae present absent;
+{ 71 Legs:_Basitarsi_I-II,_retrolateral_row_of_macrochaete_setae_(additive) absent spiniform setiform,_sand_comb;
+{ 72 Legs:_Basitarsi_I-II,_reduction_in_the_number_of_macrochaete_setae_in_the_retrolateral_row_from_3_or_more_to_2 absent present;
+{ 73 Legs:_Stridulatory_surface_on_opposing_surfaces_of_coxae_of_pedipalps_and_first_walking_legs_presence absent partially_developed fully_developed;
+{ 74 Legs:_Stridulatory_surface_on_opposing_surfaces_of_coxae_of_pedipalps_and_first_walking_legs rasp_on_pedipalpal_coxa,_scraper_on_coxa_of_first_walking_leg scraper_on_pedipalpal_coxa,_rasp_on_coxa_of_first_walking_leg;
+{ 75 Legs:_Maxillary_lobes,_shape_of_first_pair rounded-truncate_anteriorly tapering_anteriorly;
+{ 76 Reproductive_anatomy:_Embryonic_development apoikogenic katoikogenic;
+{ 77 Reproductive_anatomy:_Ovariuterine_follicles sessile stalked;
+{ 78 Reproductive_anatomy:_Testis straight coiled;
+{ 79 Reproductive_anatomy:_Genital_opercula_(female) separated loosely_joined fused;
+{ 80 Reproductive_anatomy:_Genital_opercula_(male) separated loosely_joined;
+{ 81 Hemispermatophore_and_paraxial_organ_(additive):_Hemispermatophore flagelliform fusiform lamelliform;
+{ 82 Hemispermatophore_and_paraxial_organ:_Hemispermatophore,_truncal_flexure absent present;
+{ 83 Hemispermatophore_and_paraxial_organ:_Paraxial_organ,_internobasal_reflection_of_sperm_duct absent present;
+{ 84 Hemispermatophore_and_paraxial_organ:_Paraxial_organ,_internal_wall_of_sperm_duct_composition simple with_semilunar_shelf;
+{ 85 Hemispermatophore_and_paraxial_organ:_Hemispermatophore,_distal_lamina smooth with_prominent_crest;
+{ 86 Hemispermatophore_and_paraxial_organ:_Hemispermatophore,_distal_lamina_complexity simple with_complex_differentiation;
+{ 87 Hemispermatophore_and_paraxial_organ:_Hemispermatophore,_lamellar_hook_and_median_lobe separate fused;
+{ 88 Hemispermatophore_and_paraxial_organ:_Hemispermatophore,_position_of_lamellar_hook basal distal;
+{ 89 Hemispermatophore_and_paraxial_organ:_Hemispermatophore,_lamellar_hook single double;
+{ 90 Hemispermatophore_and_paraxial_organ:_Hemispermatophore,_spines_in_capsular_region absent present;
+{ 91 Hemispermatophore_and_paraxial_organ:_Hemispermatophore,_sclerotised_mating_plug absent present;
+{ 92 Mesosoma:_Pretergites_III_to_VI_with_stridulatory_granules absent present;
+{ 93 Metasoma:_Metasomal_segments_I-IV,_dorsoventrally_compressed absent present;
+{ 94 Metasoma:_Metasomal_segments_I-IV,_carinae paired_ventrosubmedian_carinae single_ventromedian_carina;
+{ 95 Metasoma:_Metasomal_segments_I-IV,_carinae_development more_strongly_developed_on_III-IV_than_I-II more_strongly_developed_on_I-II_than_III-IV;
+{ 96 Metasoma:_Metasomal_segment_I,_ventromedian_carinae_with_circular_configuration absent present;
+{ 97 Metasoma:_Metasomal_segment_V,_ventrolateral_carinae continuous_from_proximal_to_distal_edges discontinuous,_interrupted_in_distal_region;
+{ 98 Metasoma:_Metasomal_segment_V,_ventromedian_carina_distal_portion straight bifurcating breaking_up_into_numerous_granules;
+{ 99 Metasoma:_Metasomal_segment_V,_transverse_carina_presence_(additive) absent bothriurid_type_I,_discontinuous_and_merging_proximally_with_ventrolateral_carinae bothriurid_type_II,_continuous,_not_merging_proximally_with_ventrolateral_carinae;
+{ 100 Metasoma:_Metasomal_segment_V,_transverse_carina_(additive) absent diplocentrid_type,_partially_developed diplocentrid_type,_fully_developed;
+{ 101 Metasoma:_Metasomal_segment_II,_ventral_surface_with_numerous_spiniform_granules absent present;
+{ 102 Metasoma:_Metasomal_segment_V_(male),_dorsal_surface_with_paired_androvestigia_(caudal_glands) absent present;
+{ 103 Telson:_Vesicle_(male),_dorsal_surface_with_androvestigia_(caudal_glands) absent single paired;
+{ 104 Telson:_Aculeus long,_shallowly_curved very_short,_sharply_curved;
+{ 105 Telson:_Subaculear_tubercle absent distinct;
+{ 106 Telson:_Vesicle_(male),_laterally_compressed absent present;
+{ 107 Telson:_Vesicle_(female),_laterally_compressed absent present;
+{ 108 Telson:_Vesicle_(male),_elongated_with_pair_of_distal_lobes absent present;
+{ 109 Telson:_Vesicle,_antero-dorsal_lateral_lobes_(sensu_San_MartÃ­n_and_Gambardella,_1974) present absent;
+{ 110 Telson:_Vesicle,_ventral_surface with_2_or_more_longitudinal_granular_carinae_extending_towards_aculeus with_transverse_row_of_granules_at_proximal_edge,_remainder_smooth without_granules;
+{ 111 Telson:_Vesicle,_ventral_surface_with_semicircular_carina absent present;
+{ 112 Telson:_Venom_glands complex simple;
+{ 113 Telson:_Venom_pigment opalescent reddish;
+{ 114 Behavior:_Mesosomal_percussion absent present;
+;
+
+
+ccode  - 0.114;
+
+
+;

@@ -1,0 +1,89 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 15.07.08'
+56 15
+
+&[num]
+Lisposoma_josehermana                     000000000000000000000000000000000000000000000-0000000000
+Hemiscorpius_lepturus                     21020111100101111011110310110001010101000100110011011110
+Opisthacanthus_validus                    21010111100110100001100100110000010100111110100001112110
+Nebo_hierichonticus                       11020101011010110111110300100000011100000000100000001011
+Scorpio_maurus_mogadorensis               01010101001000100101110210100010021100001100100100011001
+Heteroscorpion_opisthacanthoides          11021101100201111001010001--1100010101101110110001111100
+Aops_oncodactylus                         1?0220200002?1110101011001--1101020???01?1110-1-??01100?
+Urodacus_macrurus                         01021101010201110001011001--1110021110000000110200011001
+Urodacus_manicatus                        01021101010201110001011001--1110021110000000110200010001
+Urodacus_mckenziei                        01121101010201110001011001--1120021111000000110221111011
+Urodacus_megamastigus                     01121101010001110001011001--1120021111001100110221111011
+Urodacus_novaehollandiae                  01021101010201110001011001--1110021110000000110200011001
+Urodacus_planimanus                       11021101010201110001011001--1110021111000000110200010001
+Urodacus_varians                          01121101000001110001011001--1120121110001100110231110001
+Urodacus_yaschenkoi                       01121101000001110101011001--1120021110000000110200011001
+
+;
+
+
+cnames
+{ 0 Cheliceral_movable_finger,_distal_external_and_distal_internal_teeth unequal,_with_distal_external_tooth_considerably_smaller_than_distal_internal_tooth,_aligned_longitudinally_and_not_opposable unequal,_with_distal_external_tooth_noticeably_smaller_than_distal_internal_tooth,_and_opposable,_i.e._forming_a_bicusp subequal,_with_distal_external_tooth_only_slightly_smaller_than_distal_internal_tooth,_and_opposable,_i.e._forming_a_bicusp;
+{ 1 Cheliceral_movable_finger,_number_of_subdistal_teeth two one polymorphic;
+{ 2 Cheliceral_fingers,_secondary_serrations absent present;
+{ 3 Carapace,_median_notch_in_anterior_margin absent shallow strongly_excavated;
+{ 4 Carapace,_lateral_ocelli,_number_of_pairs three two none;
+{ 5 Carapace,_median_longitudinal_furrow broad,_shallow,_without_suture narrow,_suturiform;
+{ 6 Carapace,_median_ocular_tubercle raised shallow none;
+{ 7 Carapace,_posterior_sutures absent present;
+{ 8 Prosoma,_mesosoma,_metasoma_and_legs,_nongranular_surfaces smooth distinctly_punctate;
+{ 9 Pedipalp_chela_fingers,_terminal_teeth_interlocking_when_closed unevenly,_with_movable_finger_displaced_to_exterior,_with_notch_near_tip_of_fixed_finger evenly,_movable_finger_not_displaced_to_exterior;
+{ 10 Pedipalp_chela_fingers,_dentate_margins entire markedly_scalloped;
+{ 11 Pedipalp_chela_fingers,_number_of_rows_of_primary_denticles single double_along_entire_length,_but_often_fused_basally multiple_(more_than_two),_at_least_basally,_sometimes_becoming_single_or_double_distally;
+{ 12 Pedipalp_chela_movable_finger,_lobe_(male) absent_or_at_most_weakly_developed,_close_to_base_movable_finger_and_lacking_an_obvious_notch_in_fixed_finger well-developed,_almost_midway_along_movable_finger_(if_dentate_margin_markedly_scalloped,_second_lobe_more_strongly_developed_than_other_lobes_on_the_movable_finger),_with_a_distinct_notch_in_fixed_finger,_lobe_rounded_dorsally_and_lacking_a_sharp_conical;
+{ 13 Pedipalp_chela_manus,_dorsal_secondary_carina obsolete distinct;
+{ 14 Pedipalp_chela_manus,_ventroexternal_carina oblique_to_longitudinal_axis_of_chela,_distal_edge_disconnected_from_external_movable_finger_condyle_and_directed_toward_(almost_connecting)_internal_movable_finger_condyle parallel_to_longitudinal_axis_of_chela,_distal_edge_disconnected_from_external_movable_finger_condyle_and_directed_toward_a_point_between_external_and_internal_movable_finger_condyles,_but_closer_to_external_condyle;
+{ 15 Pedipalp_chela_manus,_ventrointernal_carina equally_developed_as_internomedian_carina more_strongly_developed_than_internomedian_carina,_which_may_be_obsolete;
+{ 16 Pedipalp_patella,_anterior_process absent present;
+{ 17 Pedipalp_patella,_dorso-external_carina distinct obsolete;
+{ 18 Pedipalp_chela,_position_trichobothrium_it manus_or_base_of_fixed_finger midway_(Hemiscorpius)_to_distal_(Nebo)_along_fixed_finger;
+{ 19 Pedipalp_chela,_position_trichobothrium_dsb below_dbâ€“dst_axis in_line_with_dbâ€“dst_axis;
+{ 20 Pedipalp_chela,_position_trichobothrium_db dorsal_surface internal_surface;
+{ 21 Pedipalp_chela,_position_trichobothrium_esb manus,_behind_point_of_articulation_between_fixed_and_movable_fingers_and_below_ebâ€“estâ€“et_axis midway_along_fixed_finger,_in_line_with_ebâ€“estâ€“et_axis;
+{ 22 Pedipalp_chela,_external_surface_with_accessory_trichobothria absent present;
+{ 23 Pedipalp_chela,_position_trichobothrium_Dt manus,_at_basal_end manus,_mid-length_or_slightly_less_than_mid-length manus,_distal_half,_near_base_of_fixed_finger proximal_end_of_fixed_finger;
+{ 24 Pedipalp_chela,_position_trichobothrium_Db_external_or_dorsal external_surface dorsal_surface;
+{ 25 Pedipalp_chela,_number_V_trichobothria 4 6_or_more;
+{ 26 Pedipalp_chela,_position_trichobothria_V1â€“V3 evenly_spaced,_distance_V1â€“V2_similar_to_distance_V2â€“V3 unevenly_spaced,_distance_V1â€“V2_much_less_than_distrance_V2â€“V3;
+{ 27 Pedipalp_chela,_position_trichobothria_V2-V4 evenly_spaced,_distance_V3-V4_similar_to_distance_V2-V3 unevenly_spaced,_distance_V3â€“V4_much_less_than_distrance_V2â€“V3;
+{ 28 Pedipalp_patella,_number_e_trichobothria 13 15_or_more;
+{ 29 Pedipalp_patella,_number_v_trichobothria single_row_of_3 single_row_of_4â€“10;
+{ 30 Legs_I_and_II,_basitarsi,_retrolateral_margins,_setation no_macrosetae a_row_of_3_or_more_spiniform_macrosetae a_comb-like_row_of_3_or_more_setiform_macrosetae_which_may_or_may_not_be_interspersed_with_slender_spiniform_macrosetae;
+{ 31 Legs,_telotarsi,_ventrosubmedian_setae_type stout,_spiniform slender,_subspiniform;
+{ 32 Legs_IV,_telotarsi,_prolateral_row_of_ventrosubmedian_spiniform_setae present absent;
+{ 33 Legs,_telotarsi,_well-developed_ventromedian_row_of_setae setiform spiniform absent;
+{ 34 Legs,_telotarsi,_laterodistal_lobes truncated,_base_of_median_dorsal_lobe_flush rounded,_notches_at_base_of_median_dorsal_lobe;
+{ 35 Embryonic_development apoikogenic katoikogenic;
+{ 36 Hemispermatophore,_sclerotised_mating_plug absent present;
+{ 37 Metasomal_segments_(male) similar_to_or_slightly_longer_than_female much_longer_than_female;
+{ 38 Metasomal_segments_I-IV,_dorsolateral_carinae present_and_distinct_on_at_least_some_segments absent_or_obsolete_on_all_segments;
+{ 39 Metasomal_segment_V,_dorsolateral_carinae present_and_distinct absent_or_obsolete;
+{ 40 Metasomal_segment_I,_median_lateral_carinae_(male) present_and_distinct absent_or_obsolete;
+{ 41 Metasomal_segment_I,_median_lateral_carinae_(female) present_and_distinct absent_or_obsolete;
+{ 42 Metasomal_segment_V,_median_lateral_carinae present_and_distinct absent_or_obsolete;
+{ 43 Metasomal_segment_V,_ventrolateral_carinae present_and_distinct absent_or_obsolete;
+{ 44 Metasomal_segments_I-IV,_ventral_carinae,_presence absent_on_all_segments present_and_distinct_on_at_least_some_segments;
+{ 45 Metasomal_segments_I-IV,_ventral_carinae paired_ventrosubmedian_carinae single_ventromedian_carina;
+{ 46 Metasomal_segment_V,_ventromedian_carina present_and_distinct absent_or_obsolete;
+{ 47 Metasomal_segment_V,_ventromedian_carina_distal_portion straight breaking_up_into_numerous_granules bifurcating;
+{ 48 Telson_vesicle,_shape_(male) unmodified elongated,_with_pair_of_distal_lobes elongated,_without_pair_of_distal_lobes State_3;
+{ 49 Telson_vesicle,_shape_(male),_lateral_compression unmodified laterally_compressed;
+{ 50 Telson_vesicle,_shape_(female) unmodified laterally_compressed;
+{ 51 Telson_vesicle,_anterodorsal_lateral_lobes present absent;
+{ 52 Telson_vesicle,_surface_macrosculpture entirely_smooth longitudinal_rows_of_granules_on_ventral_and_lateral_surfaces 2_or_more_longitudinal_rows_of_granules_on_all_or_part_of_ventral_surface_only;
+{ 53 Telson,_venom_glands complex simple;
+{ 54 Telson,_aculeus long,_shallowly_curved very_short,_sharply_curved;
+{ 55 Burrows_constructed absent present;
+;
+
+
+ccode  - 0.55;
+
+
+;
