@@ -1,0 +1,336 @@
+nstates num 20;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 15.52.17'
+210 108
+
+&[num]
+Leptochiton_asellus                  ------0--0------0--00--------????????????????????0----?-0?110-0-0-00000-0100--0--0----00--0-000--0---?------0----0-00200-1---2-0-2-00000------------10------------------------------0---------00030001010002020000
+Cryptoplax_japonica                  ------0--0------0--00--------????????????????????0-?????????0-0-0-00000-0100--0--0----00--0-000--0---?------0----0-00200-1---2-0-2-00000------------10------------------------------0---------0???????????????????
+Chaetopleura_apiculata               ------0--0------0--00--------????????????????????0----0-2?110-0-0-00000-0100--0--0----00--0-000--0---?------0----0-00200-1---2-0-2-00000------------10------------------------------0---------000500?5000210?10100
+Puperita_pupa                        0-----10-0------1--00--------00-H22-01000000000011-?????????0-0-0-00000-0110--1--0----00--0-000--112-0--000-0----0-01?01111-0110-0100000------------10------------------------------0---------0???????????????????
+Haliotis_tuberculata                 0-----10-0------1--00--------201I0-----00020000021----00?1010-0-0-00000-0110--?--0----00--0-000--10--0----0-0----0-02001110-01---0100000------------10------------------------------0---------00015020012000000000
+Diodora_graeca                       0-----10-0------1--00--------10--22-00000000300021-?????????0-0-0-00000-0110--?--0----00--0-000--10--0----0-0----0-01001021-0110-0100000------------10------------------------------0---------0???????????????????
+Crepidula_fornicata                  0-----10-0------1--00--------00-B22-00000030000031----002?010-0-0-00000-0120--1-------00--0-000--10--0----0-0----0-00201021-10-0-3100000------------10------------------------------0---------0003?0400101???33202
+Siphonaria_pectinata                 0-----10-0------1--00--------10--22-010001200000?1----00???10-0-0-00000-0100--1--0----00--0-000--0----------0----0-00200-0---110-210-000------------0-------------------------------0---------00050054?11142043202
+Antalis_entalis                      1-----??-0------0--00--------00-J23-0-0000?00000?0----030?11?10-0-00000-0101--0--00---00--0-000------?------0----0-0300113---2-0---0-000------------0-------------------------------0---------00000000011002000000
+Laevipilina_hyalina                  0-----0--0------0--00--------0?-08????000000000010-?????????0-0-0-00000-0120--0--00---00--0-000--0---0------0----0-01000-?20-21113100000------------10------------------------------0---------000050000?220?000000
+Solemya_velum                        20-00010201140000-000--0---0000-76?-00000010000020220-21--0011000000000010----------------------------------------------------------10010011-----00010100----0100011100000-11-111---000-------00011001003000000000
+Huxleyia_munita                      20-020102001010-0-00000001000??-??????0000100000?0??????????1000??0?000000?0????????????????????????????????????????????????????????10010010-----10010?00----01000??100001-?1-??1---001-------????????????????????
+Nucinella_giribeti                   20-02010201101000-0000000100000-465-010000100000?0?00??1????10000?00000000??????????????????????????????????????????????????????????10010100-----00010?00----01000??1?00??-?1-11?---000-------????????????????????
+Nucula_sulcata                       20-00010200-010-0-0000000000000-400-000000200000200????1????10000101000000100-11-1----00-?1-100??110-??-??110----0-010?1110?0??1-00000010011-----10110000----0000011000001-11-011---001-------00000001000000001000
+Acila_castrensis                     20-00010200-010-0-0000000000000-400-00000020000020010-01--1110000101000000100-01-1----00-?1-100??10--??-??110----0-010?1110?0??1-20000010011-----10110000----0000011000001-11-011---001-------00000001000000000000
+Clencharia_abyssorum                 20-00010001101000000001000000?0-?65-0000001?0000?0??????????1010000?000000100-0--0----00--0-000--0---?-----10----0-01001120-0???-01000010010-----00010000----0000010000001--0-101---001-------????????????????????
+Scaeoleda_caloundra                  20-0001120100100000000?00000010--63-000000100000?0??????????10100?00000000100-0--0----00--0-100000---0-----10----0-01001120-0??1-??000010010-----00010000----0000000000001-01-011---001-------?0011002002002010000
+Yoldia_limatula                      20-0001120100100000000000000010--63-00000010000020020-01--1110101?00000000?00-????----00--?-1??????????????10----0-0???1??0-0??1-00000010011-----00010000----0000000000001-01-011---001-------000110020?20????0000
+Arca_noae                            20100010101010000-0000000000010--22-?02000300000?00?????????10000010100000201101-11021110101100??115-?????000----0-011?1110-0??0-?00000101000100000011-10001111000--00000001111-100-000-01100-10010010000000000000
+Barbatia_barbata                     20100010101010000-0000000000010--22-002000300000200?????????10000010100000201101-0100011000110000115-0010?000----0-?1001110-0??0-?11000101000101000011-10000101000--00001101111-100-000-01000-1001?000000001000000
+Arcopsis_adamsi                      20000010201020000-0000100000010--22-00200030000020?0?????????0000010100000201101-1002?11??0?100??115-??1??000----0-02??11?0-0??0-200000101000100000011-10001111000--00000001111-100-000-01000-????????????????????
+Glycymeris_glycymeris                20-00010001010000-0000000000010--22-002000300000200?????????10000010000000201111-1100011000110011115-?010-000----0-02301110-0??0-010000101000110010011-10000101000--00000001111-100-000-01100-10001001000001010000
+Limopsis_sp_b                        20010010001021000-0000100000010--22-00200030000020???????????0000010100000201101-0----010001100??115-?????000----0-023?1120-0??0-010000101000000000011-1011--01000--00000--1111-100-000-01100-????????????????????
+Modiolus_rumphii                     20010010101140010-000--0---0000-C10-00000000001040????????????000010100000201110-11121111001100??115-001??000----0-012?1120-1??12000000101002000010011-10001102000--10001101101-100-000-01100-?0021002000000030000
+Mytilus_edulis                       20010010101120010-000--0---0000-310-00000001001040001000?11111000010100000201110-11121111001100??115-001??000----0-02211120-1??12000000101000000010011-10000102000--10001101101-100-000-01100-00021020002000000000
+Pteria_hirundo                       21120110001121000-0001-01010000-110-000000000000000?????????1100001010000020111?-01031110001100??115-?????000----0-011?1120-0??0-001000101000000010011-10000102000--11100121111-1110000011100000011002002000000000
+Isognomon_alatus                     20120110201021000-000--0---0000-110-00000000000000?2?????????000001010000020111?-00121111100100??115-1?1??000----0-014?1120-0??0-001000101000000010011-10000102001--11100121110-100-000-01100-?000?002002002000000
+Malleus_albus                        21120110201021000-000--0---0000-210-00000000000000???????????0000010000000201112-10031111100100??115-??1??000----0-023?1120-0??0-001000101000000011011-10001102001--12000131110-100-000-01100-????????????????????
+Pulvinites_exempla                   2002010-200-210-0-000--0---000?-?1?-00000000000000???????????000001010?000201102-0002?1???0?100??115-0?0??000----0-012?1120-0??0-00000010100000??00011-1000010200?--1?10113111?-?00-001???????????????????????????
+Crassostrea_virginica                20-20-10201021000-001--0---000?-27?-00011100000000001000?101100000-0010000201111-001??111000100??115-??1??000----0-023?1120-1??1-100000101001001110011-10001102001--12110221121-1110000000-0100000?022002?00010000
+Hyotissa_mcgintyi                    20-20-10201021000-001--0---100??A7??00100000000000???????????00000-00100002???????????????0????????????????0???????????1??0-?????010000101001001110011-10001102001--12111001121-1100000000-010????????????????????
+Pinna_carnea                         20110010201130010-000--0---000?-11?-0?000000000000????002??1?000001010000020111--1100010--0-10010115-10010000----0-02301120-0??0-010000101000100010011-10001101001--12111001110-11110000111000????????????????????
+Ctenoides_scaber                     21120-10001021000-000--0---0001-921100?000310000?0???????????00100101010002011?1-0100011010110001110-00-0-000----0-02001120-00-0-010000101000000000011-10000102000--10110021111-11000000111000?0011000011000010000
+Lima_lima                            21120010001021000-000--0---0001-9211000000000000?00?????????10010010101000201111?01000110?01100??110-??-0-000------02001120-0?-0-010000101000100010011-10000111000--10000001111-110100001110000???????????????????
+Pecten_maximus                       21120010001021000-000--0---00?0-?76-000000000000000?????????10010010000000201101?1100?111?01100??110-??-??000----0-021?1120-0??0-010000101000110110011-20000102000--11000001111-1100000011100000011002002000010000
+Parvamussium_jeffreysii              21-20?10001021000-000--0---01200221-00000000000000???????????0010010?00000210-0--00000110-01000--115?01110000----0-01001130-10-0-?11000101001000000011-10000102000--10000001111-100-000-01100-?0011002002000010000
+Spondylus_ambiguus                   21-20-10000-210-0-001--1---0?00-D21-???00000000000???????????0000010000000200-0??1?01?110?01100??110-??-??000----0-011?1120-0??0-010000101000101110011-10000102000--10100011111-11000001111000?0011002002001010000
+Plicatula_sp                         20-20-10000-210-0-001--1---1100-D21-00000000000000??????????1000001000000020??????????????0????????????????0???????????1??0-0??0-010000101000000010011-10000102000--1000000111?-100-000-01100-????????????????????
+Monia_patelliformis                  20120?10?00-210-0-000--0---01??-2??-000000000000?0????????????0000101?00002???????????????0??0?????????????0?????????????????????210000111000100000011-1011--01100--11000--111?-100-000-01100-????????????????????
+Placuna_placenta                     20-2010-?00-210-0-000--1---001?--7?-000000?00000?0?01000?1?1??00001000000020101??0----0???0?100??110-??-???0???????020?1122?-??01210000111001000010011-10000102101--1100000111?-100-000-01100-?00100020022000?0000
+Dimya_lima                           20-10-10?01021000-001--?---0??0-?71-00000000000000????????????00001000000020??????????????0???????????????00????????????120-0??0-010000101000000000011-1011--01000--11000--111?-100-000-01100-????????????????????
+Neotrigonia_lamarcki                 20-00010201140000-0001-00110000-000-00000000500010????????????000010000000201001-0----010000100??11300?-??001000010230?1120-0110-000000101000000000011-10001111000--10100001101-100-000-00-01-01044000010000000000
+Velesunio_ambiguus                   20-0001010114000000001-00110000-000-00000120000030??????????101000100000002011???1----010001100??113???-??001000010030?1??0-???0-???000101000000000011-10001111001--10100121101-100-000-00-11-01044000011000001000
+Aspatharia_pfeifferiana              20-00010101140-000000--0---0000-010-00000120000030??????????1010001000000020??0???----010001101??11300?-??001000010030?1??0-???0-???000101001101000011-10001101001--12000231101-1100000000-1100???????????????????
+Margaritifera_margaritifera          20-00010101140-00-0001-00110000-010-00000120100030?0--12----1000001000000020?????1----010001101??1130??-??001000110030?1????????????000101001100000011-10001111000--01100021101-100-000000-11-0???????????????????
+Unio_pictorum                        20-00010101140000-0001-00110000-000?00000120100030?1--12----1000001000000020??????----0???0????????????????0???????????1????????????000101001101000011-10001102001--00100201101-1100000000-11001044000011000001000
+Eucrassatella_cumingi                20-0001010114100000001-01110010--24-00000030000020???????????0100010000000201111-1----01000010011111-00-0000100000-02001120-0200-0??000101000000000011-10001101001--11110201100-100-000-00-01-10020031012020031000
+Astarte_sulcata                      20-0001010114000000001-01000000-B47-01000030000030???????????0100010000000201111-1----0100001001?111?00-0000120000-02001120-00-0-000000101000000000011-10001111000--10001201101-100-000-00-11-?0020031012020031000
+Cardita_calyculata                   20000010101140000-0001-01??0010--22-112000?00000?01?????????1100001010000020110??1----0110011000?111-0--00000----0-020?1120-00-0-010000101000000010011-20001111000--10101101100-100-000000-01-10020031012020031000
+Frenamya_elongata                    20-00010?000-10-00000--1---0000-F10-000000000000?0???????????1100010000000201101-1----01010??001011300--0-000----0-22001120-00-0-010000101000100000011--10----10-1--120-0-11100-1100000000-01000100100011202101100
+Lyonsia_floridana                    20-000111001-11-00000--0---0000-G10-000000002100?0???????????110001010000020101??1----010000100??110?0?-??00101110-030??120-0200-000000101002000011011-0001--01001--12101-11100-1100000000-01000103100111202101100
+Laternula_elliptica                  20-000112001-20-00100--0---0000-810-00000000020030?11120??????100010?00000201011-1----010000100??112-1--0-001000010230?11?0-0100-000000101002000010011-0001--11001--12101-3110?-1110000000-01100100100111052112100
+Cochlodesma_praetenue                20-01011000--21-00100--0---0000-G10-00000000200010???????????110001000000020??1??1----010000100??112???-??001010110220011?0-00-0-?10000101002000010011-00000101000--00001001101-1100000000-0100???????????????????
+Thracia_phaseolina                   20-000110011421-00000--0---0000?E54-000000002000?0???????????11000100000002???????----01??00100??1130??-??00100101102001120-0100-010000101001000010011-0001--11000--01102031101-1101000000-0110???????????????????
+Myochama_anomioides                  20-00?11?00--11-00001--1---0000-G10-00000000200010??1?????????100010000000201001-1----01100?100??110???-??001000000030?1120-1100-000000101000000010011-1011--01000--010011?1101-1100000000-01000103000011202101100
+Cleidothaerus_albidus                20-01?111001-21-00001--1---0000-G10-00000000000030????????????100010?00000201?1???----011?01100??110???-??001100110030?1120-1100-100000111002000010011-10001101101--02102211101-1100000000-0110???????????????????
+Haliris_tenerrima                    20-000101001-11-00000--0---0001-G120000000002100?0???????????110001010000021????-?----00--0-100??10-------000----0-030????0-10-02?00000101000010000011-0011--1000---01-----1101-100-000-00-01-0???????????????????
+Poromya_illevis                      20-000101011410000000--?---00??-???-000000002?00?0???????????1100010000000210-1--?----00--0-000--10-------000----0-030??032?-0-020100001010001010--00---------------------------0---01--------00120?0111120??01000
+Bathyneaera_demistriata              20-0101?0001-11-00000--?---0010--54-000000002000?0???????????1100010000000210-1--0----00--0-000--0----------0----0--00000321-0-02??00001010000000--00---------------------------0---01--------0???????????????????
+Cavatidens_omissa                    20-01010101140000-000--0---0000-527-00000000000010????????????00001000000020??????----0???0??????11????????0???????????1120-0??0-000000101001001100011--10----10-0--111-0-31101-100-100-00-01-0003?001?10002010000
+Codakia_orbicularis                  20-00010101141000-0001-01110000-522-01000000000010111120101111000010000000200-00-0----00--0-10000112-00-01000----0-020?1120-00-0-000100101000001010011--10----10-0--121-2-11101-100-100000-01-00002001010202102001
+Lucina_pensylvanica                  20-00010101141000-0001-01??0000-522-01000030300040???????????1000010000000200-00-0----00--0-10000113000-0-00101110-02001120-0110-000100101000101010011--10----10-1--021-2-11101-100-100-00-01-0???????????????????
+Cycladicama_cumingi                  20-00010101140000-0001-01000010--22-01000000000020????????????00001000000020111011----01100110011114?00-0000101000-22001120-0200-000000101002000010011-10001001000--12100211100-1100000000-0100???????????????????
+Thyasira_equalis                     20-00010101100000-000------0010--22-11000000000000???????????100001000000020??1?0?----00--0-10001110300-00000----0-030??130-00-000?0100101002100010011-10001101000--1110122110?-100-000-00-01-00002001010202010000
+Cyrenoida_floridana                  20-0001010114000000001-01010010--22-01000000000000????????????1000100000002011?1-0----011?0?100??114???-??00100000-030?1120-0100-000000101000000011011-10001111000--0110101110?-100-000-00-01-00022001111001100000
+Chama_macerophylla                   20-00010101110000-0011-01010010--22-112000???000?0???????????1000010000000201011-0----011?01100??114100-0100100?00-23011120-00-0-000000111000000010011-10001001101--12102231101-1110000000-011?0012002012202000000
+Tellimya_ferruginosa                 20-00010101140000-000??????00202522-01000000000100????????????000010100000??????????????????????????????????????????????????????????000101000001000011--10----10-1--021-2-?110?-100-000-00-01-0???????????????????
+Lasaea_adansoni                      20000010101141000-0001-01110000-522-11000020000000?20-100000?1000010100000200-00-0----01--0-10010112-0--00000----0-020011221-0-01000000111001001000011-1001--01000--00000-?1100-100-000-00-?1-00002020012202000000
+Scintillona_cryptozoica              20-00?101011-1000-0001-011100202522-00000010000000????????????000010100000200-00-1----01??0?1001011340--0?000----0-13001122?-1002000000101001000000011-10001011001--121002?110?-100-000-00-?1-0???????????????????
+Mysella_charcoti                     20000010201141000-0001-0?110000-822-01?00020000010????????????00001010000020110011----01000?1000011??0?-00000----0-?3001122?-0-01010000101000000010011--10----10-0--1?0-0-01101-100-000-00-?1-0???????????????????
+Bornia_sebetia                       20000?10?01141000-0001?0???0000-522-000000???000?0????????????00001010000020??????----01??0??0???11???????00???????????11?20-0-01010000101000011010011-10000111011--1110100110?-100-000-00-?1-0???????????????????
+Panopea_globosa                      20-0001110114000000001-01000000-E42-010000?0000020?00000???1?11000101000002011????----0???0?????-11????????0????????????1????????010000101002000010011-10001100000--0??000?110?-1100000000-?1?0???????????????????
+Hiatella_arctica                     2000001110114000000001-01000000-8?4-0100002000002010200010?11110001010000020110010----011?01100??113???-??001101110030?1120-0200-000000101000000010011-10001111000--1010113110?-11?0000000-?1?0???????????????????
+Lamychaena_hians                     201100111011400000010--0---0000-522-01000020000030???????????110001010000020111?-0----011?00100??1132??-??00110000-030?1120-0??0-010000101000011010011-10001101001--1210223110?-100-000-00-?1-0???????????????????
+Arctica_islandica                    20000010101140000-0001-01110011--?4-01000021300040101000???111000010000000201011-1----011?0110001114?1?---00101101023001120-0200-0??000101002000010011-10001101001--1211003110?-11?0000000-?1?00022001010002010000
+Trapezium_sublaevigatum              2010001?10114000000001-01??0010--22-01000020000020???????????110001010000020??1???----011?01100??1144??-??001000010030?1120-0200-000000101000000010011-10000111001--11102201101-100-000-00-01-000120000120020?0000
+Glossus_humanus                      20000?10101140000-0001-01?10000-[8C]22-010000?0000030????????????000010?00000201111-?----010?01100??1145??-??00101110-03011120-???0-010000101002000010011-10001001001--1211223110?-11?0000000-?1?????????????????????
+Kelliella_sp                         200???101011?0000-0001-?1??00???????00000000000000????????????000010?0000020??????----0???0??0??-0---?------0--?????????1?0-1100-0000000------------11-0001--11000--001-?-01101-100-000-00-01-????????????????????
+Calyptogena_magnifica                2000001010114000000001-01000?????????????????????01?????????1110001000000020??1???----0???0??????11????????0???????130??1?0-00-0-0001001010001000??011-10001101001--1?10??3110???00-000-00-?1-1???????????????????
+Cyamiomactra_laminifera              20000011100-?00-0-0001-01??0????????0??00020000000????????????000010?000?020??????----0???0?????-11?????????????????????1???????????000???????????????????????????????????????????????????????????????????????????
+Gaimardia_trapezina                  20000011101140000-0001-01??00??????????00000000030????????????000010?0000020??????----0???0??0??-11????????0???????????11???????????000101000000010011-1000110100?--1?????0110?-100-000-00-??-????????????????????
+Corbicula_fluminea                   20-0001011114000000001-01110010--22-01000001000020111110??1111100010000000201111-0----011?0?100??114???-??00100100-230?1120-0200-0??000101000000010011-10001101000--1010113110?-1100000000-?1?00032003111230102011
+Sphaerium_nucleus                    20000?101011?000000001-01110010--22-01200000000000????????????100010?00000201101-0----010001100111121?0-00?0110100-03001120-0200-000000101002000011011-10001111000--00000101100-100-000-00-?1-0???????????????????
+Cerastoderma_edule                   20-0001010114000000001-01110000-522-00000000000020???????????1100010000000201111-0----011?0?100??114???-??00101100-030?1120-1200-???000101000000010011-10001011001--1210122110?-1100000000-???00012004113202010?10
+Fragum_unedo                         20-0001010114200000001-01110000-522-00000000?000201?????????111000101000002011??-??????????????????????????????????????1??0-?0-0-000010101002100011011-10001001010--0010022110?-1100000000-???00012000110202010000
+Hemidonax_pictus                     200000101011?0000-0001-01110000-522-00000000000000????????????000010?00000201101-0----011?0?100??1142??-??00101100-230?1120-0200-0??000101000000010011-10001001000--01100221101-1100000000-01100012000010002010000
+Venus_verrucosa                      20-0001111114000000001-01010000-634-00000000400000???????????1100010000000200-01-0----011001100??114???-??00100010-230?1120-?200-0??000101000000010011-10001111001--02102211101-1100000000-0100???????????????????
+Chione_elevata                       20-0001111114000000001-01000000-622-00000000400000?011001?11?1100010000000200-1???----01??01100??114???-??001001000-30?1120-0200-000000101000000011011-10001101001--021020?110?-1100000000-???00002001110202010000
+Gemma_gemma                          20-0001111114000000001-01000000-B?2-00000010000010??2?10?????110001000000020?????0----011?01100??1142??-??00100110-03001120-1100-000000101000000000011-0001--01000--020-1-01101-100-000-00-??-00020001111202120000
+Petricola_lapicida                   20-000111?114000000001-01000010--22-00000020400110???????????110001000000020?????0----011?01100??114501-00001000010230?1120-0200-000000101002000010011-10001111000--021012?110?-1100000000-???00012002010202010000
+Turtonia_minuta                      2000001010114000000001-01010000-C22-01000000000000????24??????100010100000200-001?----00--0-000--110???-??000----0-03001120-0110-000000101000000000011--10----10-0--001-1-01101-100-000-00-??-0???????????????????
+Glauconome_rugosa                    20-000111011?000000001-01010000-?22-01000121000030????????????100010000000201100-0----011?01100??114???-??001000010030?1120-0200-0?0000101000000010011-10001111001--0210121110?-1100000000-01000022001010002010000
+Scissula_similis                     20-0001110114000000001-01110000-522-00000010000010????????????100010000100200-0000----011?01110?-1142??-??000----0-130?1120-1210-000000101000000010011-0001--11001--021-1-11101-100-000-00-01-00012001011202010000
+Macoma_balthica                      20-0001110114000000001-01000010--22-00000000000000?12100?????1100010000100200-1000----011?01110??114301-00000----0-130?1120-1210-000000101000100010011-1001--00001--021-1-?110?-100-000000-01-00022000010202111000
+Donax_trunculus                      20-00011101?4000000001-01110000-622-00000010000020???????????1100010000100201100-1----011?011?0???133??-??000----0-230?11221-2000000000101000000010011-10001111001--02002231100-100-000-00-01-00012031012202010000
+Asaphis_deflorata                    20-0001110114000000001-01000000-522-00000000000020???????????1100010000100200-0001----011?01110??114300-0000100000-230?1120-1210-000000101002000000011-10001011001--121012?110?-100-000-00-??-00012032012202010000
+Abra_alba                            20-0001110114100000001-01110000-522-00000000000010???????????1100010000100200-1001----010?0?110??114???-??000----0-130?1120-1210-000000101000000000011-0001--11011--021-2-?110?-100-000000-??-00032003111202112010
+Tagelus_plebeius                     20-0001110114000000001-01000010--22-01000010000020???????????1100010000100201110-1----011?01110??1142??-??00100000-230?1120-1210-000000101000000010011-10001012011--11100001100-1101000000-???00012000010000010000
+Solen_vaginoides                     20-01011?0114000000001-01000010--22-00000010000020???????????110001000000020111010----011?01100??114500-0000100100-230?1121-12000010000101000000010011-10001101001--111022?110?-1100000000-01000012002011202000000
+Phaxas_pellucidus                    20-0101100114000000001-01000010--22-00000010000020???????????110001000000020110010----0110011001111??0????00100100-2300112?????0?010000101001001010011-10001112001--1?1011?110?-100-000-00-??-0???????????????????
+Rangia_cuneata                       20-0001110114200000001-01110010--22-00000021000030?01100?011?1100010000000200-11-0----011001100??114501-00001110110030011220-2001??0000101002010010011-10001101001--0210?0?110?-100-000-00-01-00012002000202020000
+Tresus_capax                         20-0001110114200000001-01110?????????????????????0101000???111100010000000???????????????????0?????????????0??????????????2?-20?????000101000000010011-10001001001--0200221110?-1100000000-0010???????????????????
+Donacilla_cornea                     20-0001110114100000001-01??0010--22-00000010000040????????????100010?00000201112-0----01100110001114?0?-0000100110-030011220-0-00010000101000010010011-1000101100?--0010???1101-100-000-00-01-0???????????????????
+Dreissena_polymorpha                 201100101011-00000000--0---0000-C22-00000000000020101000?01111100010100000200-0010----011001100???14???-??00100000-030011221-1001010000101000000010011-10000111000--01101111101-100-000-00-10-00012020012?0??10000
+Mya_arenaria                         20-000110011420000000--0---0000-822-00000000000010100000?01111100010000000201111-1----011?01100??114501-00001010010230?11221-2000010000101000000010011-10001?11001--0?1?1??110?-1???000000-???00012000110000010000
+Notocorbula_tunicata                 200000111011-200000001-01000000-822-00000120000030???????????110001010000020??????----0???0?10???114???-???0???????????11?0-0200-???000101000000010011-10001111001--021012?110?-1100000000-???00012000012200010000
+Barnea_candida                       20-00?11100--10-00000--0---0000-E22-010000?0000020???????????1100010000000200-1010----010?01110??114???-??00110??0-030?11220-2000010000101000010000011-10001111001--12102111101-100-000-00-10-00012030011002010000
+Teredo_clappi                        20-10?10100--10-01010--0---0000-522-010000?00000?0???????????1100010000000200-1???----011?0?110??1145??-??00100??1?130?11220-1010110001101000000010011--10----20-1--111-0-31101-100-000-00-01-00012030012000010000
+
+;
+
+
+cnames
+{ 0 Adult_shell_shape univalved_with_a_single_aperture univalved_with_two_apertures bivalved,_with_adductor_muscles_to_close_the_valves;
+{ 1 Lateral_expansions_of_the_shell_(auricles)_at_each_side_of_the_umbo absent present;
+{ 2 Byssal_gape absent_(note:_code_"-"_if_adult_is_non-byssate) present;
+{ 3 Anterior_adductor_muscle_(or_scar) present reduced absent_(monomyarian_condition);
+{ 4 Posterior_adductor_muscle_(or_scar) present reduced_in_size_with_respect_to_the_anterior_adductor absent;
+{ 5 Position_of_posterior_pedal_retractor_scar_relative_to_posterior_adductor_scar anterodorsally inset_on_the_anterior,_concave_face_of_a_crescentic_posterior_adductor_scar;
+{ 6 Pallial_line absent present;
+{ 7 Pallial_sinus absent present;
+{ 8 Umbo orthogyrous prosogyrous opisthogyrous;
+{ 9 Purple_pigment_in_the_internal_shell_layer absent present;
+{ 10 External_ligament absent present;
+{ 11 Ligament_position amphidetic opisthodetic;
+{ 12 Ligament_type simple duplivincular alivincular transverse parivincular;
+{ 13 Resilifer absent present present_as_chondrophore;
+{ 14 Lithodesma absent present;
+{ 15 Pseudonymphae absent present;
+{ 16 Operculum absent present;
+{ 17 Pallets absent present;
+{ 18 Umbonal_crack_or_slit absent present;
+{ 19 Calcareous_adventitious_tube_secreted_by_the_animal absent present;
+{ 20 Cementation_to_substrate_by_a_calcareous_secretion_of_the_mantle_margins absent present;
+{ 21 Hinge_tooth_row many_subequal_teeth few_dissimilar_teeth;
+{ 22 Hinge_tooth_row_gap_at_umbo absent present;
+{ 23 Secondary_teeth absent present;
+{ 24 Cardinal_hinge_teeth absent present;
+{ 25 Anterior_lateral_hinge_teeth absent present;
+{ 26 Posterior_lateral_hinge_teeth absent present;
+{ 27 Chomata absent present;
+{ 28 Microstructure_asymmetric_between_the_two_valves absent present;
+{ 29 Number_of_shell_layers_external_to_the_pallial_myostracum 2 1 3;
+{ 30 Number_of_shell_layers_inside_pallial_myostracum 1 2;
+{ 31 M+3_layer foliated_calcite_prisms irregular_spherulitic_aragonite_prisms fine_simple_aragonitic_prisms;
+{ 32 M+2_layer simple_aragonite_prisms_(Neotrigonia-like) simple_calcite_prisms_(Pinna-like) foliated_calcite_prisms fibrillar_calcite_prisms_-_mytilid_type denticular_composite_prismatic_(Nucula_type) fibrillar_composite_prismatic__(Cardiid_type) compound_composite_prismatic_(some_venerids,_Donax_etc) elongate_prisms_(Solemya_type) granular_aragonitic_prisms_(Entodesma_type) fine_fibrillar_calcite_prisms_-Lima_type vesicular_calcite_-_Hyotissa crossed-lamellar_aragonite homogeneous foliated_calcite dendritic_aragonitic__prisms blocky_aragonite_prisms_-_pandorid_type simple_aragonite_prisms_-_anomalodesmatan-type granular_calcite_-_Neritidae-type bladed_calcite_prism_with_irregular_margins fine_aragonite_prisms_-_scaphopod_type;
+{ 33 M+1 stacked_nacre_(aragonite) sheet_nacre_(aragonite) crossed-lamellar_(aragonite) crossed-lamellar_grading_to_homogeneous_(aragonite) crossed-acicular homogeneous_aragonite_-_heterodont_type homogeneous_aragonite_-protobranch_type foliated_calcite foliated_aragonite_(semi-nacre)_of_monoplacophorans_(see_Checa_et_al_2009);
+{ 34 M-1 sheet_nacre_(aragonite) crossed-lamellar_aragonite complex_crossed-lamellar_aragonite crossed-acicular_aragonite homogeneous_aragonite_-_heterodont_type homogeneous_aragonite_-_protobranch_type foliated_calcite aragonite_prisms;
+{ 35 M-2 sheet_nacre_(aragonite) complex_crossed-lamellar_aragonite;
+{ 36 Myostracal_pillars absent present;
+{ 37 Myostracal_prisms_in_M-1 absent present;
+{ 38 Tubules absent present_in_M-1 present_throughout_shell;
+{ 39 Chalky_layers absent present;
+{ 40 Shell_chambers absent present;
+{ 41 Organic_layers_within_shell absent present;
+{ 42 External_surface_of_periostracum smooth_with_commarginal_growth_increments extremely_smooth_(polished_appearance) prominent_commarginal_lamellae projecting_shingles,_bristles,_flaps;
+{ 43 Vacuoles_within_periostracum absent present;
+{ 44 Intraperiostracal_calcification absent small_spikes_(unionoid-type) large_spikes_(anomalodesmatan-_type) granules elongate_pins_and_needles_-_venerid-type rounded_bosses_-_palaeoheterodont-type;
+{ 45 Arenophilic_gland_secretions absent present_over_entire_valve_surface present_only_at_siphons_e.g._laternulids;
+{ 46 Applied_byssal_bristles absent present;
+{ 47 Extraperiostracal_encrustation absent present;
+{ 48 Periostracal_thickness <1_micron_ 1-3.16_microns 3.17-10_microns 10.1_-_31.6_microns 31.7_-_100_microns 100_-_316_microns;
+{ 49 Torsion absent present;
+{ 50 Larval_shell_hinge_(provinculum) simple_row_of_symmetrical_teeth differentiated_dentition edentate;
+{ 51 prodissoconch_I_length prodissoconch_I_length_of_up_to_149_Âµm_(suggests_planktotrophic_development) prodissoconch_I_length_of_150_-_229_Âµm_(suggests_lecithotrophic_development) prodissoconch_I_length_of_230_Âµm_and_greater_(suggests_direct_or_brooded_development);
+{ 52 prodissoconch_II_length prodissoconch_II_indistinct_or_absent_(suggests_direct_or_brooded_development) prodissoconch_II_length_of_up_to_349_Âµm_(suggests_planktotrophic_development) _Prodissoconch_II_length_of_350_Âµm_or_greater_(suggests_lecithotrophic_planktotrophic_development);
+{ 53 PI/_PII_ratio a_quotient_of_0.49_or_less a_quotient_of_0.50_or_greater;
+{ 54 embryonic_protection free_swimming_(unprotected) brooded_(in_gills_or_mantle_cavity) encapsulated_(attached_or_unattached_eggcase_or_capsule_outside_of_parent);
+{ 55 larval_form veliger pericalymma glochidium stenocalymma direct_(no_larval_stage);
+{ 56 shape_of_larval_velum velum_absent oval bi-lobed;
+{ 57 larval_eyespot absent present;
+{ 58 larva_apical_tuft absent present;
+{ 59 ciliation_of_larva scattered_cilia organized_bands;
+{ 60 Mantle_lobes absent present;
+{ 61 Ventral_mantle_fusion absent present;
+{ 62 Siphons absent present;
+{ 63 Swimming_capacity_through_valval_movement absent present;
+{ 64 Sensory_mantle_tentacle absent present;
+{ 65 Stempell''s_organ absent present;
+{ 66 Ventral_surface_of_the_foot present absent;
+{ 67 Heel_of_foot absent_or_weakly_developed_as_a_posteriorly_directed_triangular_projection_of_margin_of_sole,_but_not_separated_from_sole distinct_and_sharply_separated_from_sole;
+{ 68 Byssus_(in_adult) absent present;
+{ 69 Ontogenetic_loss_of_foot_inmediately_after_settlement absent present;
+{ 70 Pedal_reversal absent present;
+{ 71 Cruciform_muscle absent present;
+{ 72 Digestive_tract present reduced;
+{ 73 Radular_apparatus absent present;
+{ 74 Style absent protostyle crystalline_style;
+{ 75 Gastric_chamber_muscular_envelope absent present;
+{ 76 Antechamber absent present;
+{ 77 Antechamber_position dorsal_to_main_chamber anterior_to_main_chamber;
+{ 78 Esophageal_longitudinal_folds absent present;
+{ 79 Dorsal_hood_position_relative_to_gastric_shield anterodorsal posterodorsal dorsal;
+{ 80 Esophageal_entry_into_stomach_lumen dorsal_to_gastric_shield ventral_to_gastric_shield;
+{ 81 Esophageal_lip absent present;
+{ 82 Fold-and-ridge_area_of_food-sorting_caecum absent present;
+{ 83 Ventral_extention_of_food-sorting_caecum absent present;
+{ 84 Posterior_wall_of_food-sorting_caecum_(fleshy_fold) not_expanded with_posterior_slender_process widening_posteriorly widening_posteriorly_producing_digitate_folds;
+{ 85 Dorsal_hood_groove absent present;
+{ 86 Food-sorting_caecum absent present;
+{ 87 Left_pouch absent present;
+{ 88 Left_pouch_sorting_area absent present;
+{ 89 Fold(s)/groove(s)_connecting_left_pouch_and_dorsal_hood absent present;
+{ 90 Blind_symmetrical_shallow_pockets_lateral_to_esophagus absent present;
+{ 91 Left_pouch_duct_field absent present;
+{ 92 Dorsal_hood absent present;
+{ 93 Right_posterodorsal_appendix absent present;
+{ 94 Right_wall_forked_embayment absent present;
+{ 95 Longitudinal_folds_and_grooves_of_dorsal_hood absent present;
+{ 96 Transverse_folds_and_grooves_of_dorsal_hood absent present;
+{ 97 Typhlosoles absent present;
+{ 98 Major_typhlosole_projecting_into_gastric_chamber_lumen not_projecting projecting;
+{ 99 Major_typhlosole_and_anterior_duct_field curving_posterior_to_duct_field spiraling_posterior_to_duct_field terminating_immediately_proximal_to_duct_field entering_left_vestibule entering_left_and_right_vestibules entering_food-sorting_caecum;
+{ 100 Major_typlosole_path_inside_left_vestibule _terminating_upon_entry penetrating_deeply recurving_(but_not_exiting_left_vestibule) spiraling recurving_and_terminating_upon_exit_of_left_vestibule undulating;
+{ 101 Intestinal_groove consisting_of_single_groove onsisting_of_multiple_parallel_grooves;
+{ 102 Tongue_of_major_typhlosole_diving_into_ducts_of_digestive_diverticula absent present;
+{ 103 Path_of_major_typhlosole_inside_food-sorting_caecum major_typhlosole_not_reaching_apex_of_food-sorting_caecum major_typhlosole_reaching_apex_of_food-sorting_caecum;
+{ 104 Low_ridges_circum-navigating_major_typhlosole absent present;
+{ 105 Major_typhlosole_and_embayment_of_right_anterior_stomach_gastric_chamber_wall typhlosole_not_entering_embayment typhlosole_entering_embayment;
+{ 106 Minor_typhlosole_path_in_stomach_gastric_chamber_lumen terminating_upon_entry extending_deep_into_lumen;
+{ 107 Inter-typhlosolar_sorting_area absent present;
+{ 108 Right_wall_sorting_area absent present;
+{ 109 Right_wall_sorting_area_position extending_from_right_wall_into_dorsal_hood restricted_to_dorsal_hood restricted_to_right_wall;
+{ 110 Pattern_of_transverse_ridges_of_right_wall_sorting_area simple_transverse_ridges alternating_long_and_short_ridges;
+{ 111 Ridge_posteriorly_bordering_right_wall_sorting_area absent present;
+{ 112 Ridge_anteriorly_bordering_right_wall_sorting_area absent present;
+{ 113 Accessory_right_wall_sorting_area absent present;
+{ 114 Ridge_anteriorly_bordering_accessory_right_wall_sorting_area absent present;
+{ 115 Right_wall_acceptance_tract absent smooth with_longitudinal_grooves_and_ridges;
+{ 116 Anterior_duct_field absent with_individual_duct(s) with_ducts_partially_condensed_into_vestibules with_ducts_fused_into_vestibules;
+{ 117 Posterior_duct_field absent with_ducts_scattered_along_right_side with_ducts_scattered_on_both_sides with_ducts_condensed_on_right_side with_ducts_scattered_along_left_side;
+{ 118 Right_wall_duct_field absent present;
+{ 119 Gastric_shield absent present;
+{ 120 Gastric_shield_teeth absent present;
+{ 121 Cuticularization_of_gastric_chamber_inner_surface no_cuticle cuticle_restricted_to_gastric_shield_area cuticle_lining_most_of_left_side cuticle_lining_nearly_entire_inner_surface;
+{ 122 Relationship_of_style_sac_and_proximal_intestine merged confluent separated;
+{ 123 Groove_joining_style_sac_and_intestinal_openings absent present;
+{ 124 Style_sac_caecum absent present;
+{ 125 Intestinal_coiling no_coiling _loose_(loop-like)_coil _tight_(knot-like)_coil;
+{ 126 Intestinal_coil_position_relative_to_gastric_chamber anteroventral posterior/posterodorsal;
+{ 127 Intestine_looping_over_gastric_chamber_dorsally absent present;
+{ 128 Style_sac_positon produced_anteriorly produced_posteriorly style_sac_very_short;
+{ 129 Relative_positions_of_rectum_and_pericardial_cavity rectum_penetrating_ventricle rectum_passing_dorsal_to_ventricle rectum_passing_ventral_to_ventricle rectum_passing_lateral_to_ventricle;
+{ 130 Rectum_terminus attached_to_posterior_adductor_muscle free-hanging_papilla;
+{ 131 Anal_funnel absent present;
+{ 132 Intracellular_ctenidial_bacteria_constituting_sulphide-oxidizing_symbiosis absent present;
+{ 133 Symbiotic_zooxanthellae absent present;
+{ 134 Gland_of_Deshayes_containing_cellulolytic_nitrogen-fixing_bacteria absent present;
+{ 135 Labial_palps absent present;
+{ 136 Symmetry_of_labial_palps symmetrical asymmetrical;
+{ 137 Relative_position_of_labial_palps lateral_to_visceral_mass close_to_anterior_region_of_visceral_mass;
+{ 138 Palp_proboscides absent present;
+{ 139 Palp_pouch absent present;
+{ 140 Labial_palp_shape triangular semicircular falciform;
+{ 141 Anterior/Posterior_Differentiation_of_Labial_Palps differentiation_absent differentiation_present;
+{ 142 Outer_labial_palp_tip free_at_tips not_free_at_tips;
+{ 143 Outer_labial_palp_tip_shape_ angled rounded;
+{ 144 Hood_formed_by_labial_palps absent present;
+{ 145 Gill-palp_association_(insertion) absent present;
+{ 146 Gill-palp_association_(fusion) not_fused fused;
+{ 147 Palp_lamella_division_ridge absent present;
+{ 148 Ctenidia absent present;
+{ 149 Ctenidia_structure leaflets filaments;
+{ 150 Ctenidia_leaflet_orientation horizontal vertical;
+{ 151 Demibranch_relations OD_does_not_overlay_ID OD_overlays_ID_partially OD_overlays_ID_completely;
+{ 152 Outer_demibranch present absent;
+{ 153 Inner_Demibranch_Reflection reflected not_reflected;
+{ 154 Outer_Demibranch_Reflection reflected not_reflected;
+{ 155 Outer_Demibranch_(branch_relation)_ ascending_OD_<_descending_OD ascending_OD_>_descending_OD;
+{ 156 Outer_Demibranch_(keel) present absent;
+{ 157 Demibranch_length both_of_equivalent_length distinctly_shorter_than_ID;
+{ 158 Ctenidia_shape short_and_small short_and_wide elongate;
+{ 159 Ctenidia_symmetry symmetrical asymmetrical;
+{ 160 Demibranch_origin at_about_same_level OD_originating_dorsally;
+{ 161 Inner_Demibranch_Anatomical_Fusion not_fused fused;
+{ 162 Ctenidia_leaflet_shape square-like V-like;
+{ 163 Lateral_leaflet_side_broadened present absent;
+{ 164 Gill_position in_front_of_posterior_adductor_muscle extending_beyond_posterior_adductor_muscle;
+{ 165 Posterior_Inner_Demibranch_Connection absent ciliary anatomical;
+{ 166 Inner_Demibranch_food_groove absent present;
+{ 167 Outer_Demibranch_food_groove absent present;
+{ 168 Inner_Demibranch_-_Visceral_Mass_Connection absent ciliary anatomical;
+{ 169 Outer_Demibranch_-_Mantle_Connection absent ciliary anatomical;
+{ 170 Interlamellar_Junctions_ absent multiple_cross_bars dorsal_septa complete_septa;
+{ 171 Separation_between_frontal_and_latero-frontal_cilia present absent;
+{ 172 Laterofrontal_gill_cilia absent present;
+{ 173 Laterofrontal_cilia_composition eulaterofrontal_with_prolaterofrontal_cilia microlaterofrontal_cilia anomalous,_with_paralaterofrontal_cilia;
+{ 174 Abfrontal_cilia present absent;
+{ 175 Interlocking_cilia absent present;
+{ 176 Chitinous_rods absent present;
+{ 177 Principal_filaments absent present;
+{ 178 Apical_filaments absent present;
+{ 179 Principle_filament_distribution_ on_entire_gill on_posterior_part_of_gill_only;
+{ 180 Mantle_Gills absent present;
+{ 181 Septum absent present;
+{ 182 Portion_of_the_mantle_cavity_occupied_by_gills both_lateral_and_posterior_to_the_foot posterior_to_the_foot;
+{ 183 Interconnecting_vessels_ absent present;
+{ 184 Filamental_spurs absent present;
+{ 185 Ciliated_discs absent present;
+{ 186 Ciliated_discs_configuration single multiple;
+{ 187 Abfrontal_filamental_fusion absent present;
+{ 188 Interfilamental_tissue_bridges_(ordinary_filaments) absent present;
+{ 189 Interfilamental_tissue_bridges_(principal_filaments) absent present;
+{ 190 Intracellular_hemoglobin absent present;
+{ 191 Acrosomal_vesicle composed_of_one_vesicle_only composed_of_multiple_small_vesicles;
+{ 192 Acrosomal_complex_(vesicle_+_subacrosomal_material)_position anterior,_seated_vertically_on_nuclear_apex posterior,_associated_with_midpiece;
+{ 193 Acrosomal_vesicle_longitudinal_profile cap/low_dome-shaped_ high_dome-shaped elongate-conical,_base_wide elongate-conical,_narrow_throughout flat,_discoidal spherical;
+{ 194 Acrosomal_vesicle_contents homogeneous_(or_evidently_so) with_radial_structures_peripherally with_internally_structured_(reticulate)_basal_ring_and_one_or_more_other_zones_ with_dense_internal_layers with_electron-lucent_periphery with_anterior_and_posterior_zones;
+{ 195 Acrosomal_vesicle_apex simple elaborated_as_a_rod-shaped_or_filiform_extension;
+{ 196 Subacrosomal_material_ granular_deposit_ granular_deposit_with_electron-lucent_layer granular_deposit_+_rod rod_only rod_+_subacrosomal_plate solid,_columnar_body;
+{ 197 Nucleus_shape barrel-shaped rod-shaped spheroidal filiform rod-shaped_with_helical_twists teardrop-shaped;
+{ 198 Nuclear_curvature absent present;
+{ 199 Nuclear_contents_(mature) coarse_granulation_visible coarse_granulation_not_visible;
+{ 200 Nuclear_apex_ flat_or_almost_so strongly_convex concave_and/or_with_deep_fossa with_projecting_ridge_or_rod;
+{ 201 Nuclear_basal_fossa short,_with_centrioles_largely_or_wholly_excluded short,_containing_centrioles_or_derivative_thereof very_shallow_or_absent,_centrioles_wholly_excluded;
+{ 202 Centriolar_complex proximal_and_distal,_both_centrioles_short_and_orthogonally_arranged proximal_one_lateral_(not_anterior)_to_distal_centriole proximal_one_wholly_or_partially_modified_into_banded_rod both_centrioles_parallel,_each_acting_as_a_distal_centriole_(each_with_a_separate_flagellum)_ present_as_centriolar_derivative_only proximal_one_lateral_to_distal_but_distal_very_elongate;
+{ 203 Centriolar_rootlet without_periodically_banded_component with_periodically_banded_component_ poorly_developed_or_absent;
+{ 204 Pericentriolar_material diffuse_or_absent well_developed,_often_sheathing_both_centrioles;
+{ 205 Prevailing_mitochondrial_number 5_(sometimes_4) 4_(sometimes_5) 6_(sometimes_5) >_6 1_(a_continuous_cylindrical_sheath);
+{ 206 Mitochondrial_shape spherical,_uncompressed subspherical_with_marked_lateral_compression elongate,_straight extremely_elongate,_components_helical;
+{ 207 Mitochondrial_arrangement_in_relation_to_centriolar_complex radial with_marked_asymmetry_(semi-radial) no_close_spatial_relationships_to_centriolar_complex;
+{ 208 Mitochondrial_arrangement_in_relation_to_nucleus minimal_or_no_overlap anterior_region_of_one_or_all_mitochondria_surrounding_base_of_nucleus;
+{ 209 Axoneme in_a_simple_flagellum_(axoneme_sheathed_by_plasma_membrane) in_a_simple_flagellum_but_plasma_membrane_elaborated_posteriorly_as_two_paddles sheathed_proximally_by_mitochondrial_elements_and_posteriorly_by_glycogen;
+;
+
+
+ccode  - 0.209;
+
+
+;

@@ -1,0 +1,117 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 16.01.53'
+73 26
+
+&[num]
+Youngina                          000000000000000000002000000000?0000?0?0000000200000?000000?000000?00010??
+Pristidactylus                    1111100001100110001?00010000?000?00?0000000002000000???200????????00010??
+Gephyrosaurus                     00000000000001100001200000000010100?000001000200000?000000?0?????000010??
+Diphydontosaurus                  1000000010000100000120100000001010000100011112001000000000?1100000000001?
+Planocephalosaurus                000000001000011000012020000010101310000101212?0?201?000110111000001?00?1?
+Rebbanasaurus                     ???????01??0???????????????????0?2102?????212200201?01??101??????0?110001
+Godavarisaurus                    ??????1??????????????????????????310??????212200?01?21??100??????0?100101
+Homoeosaurus                      0?0000011000?0000?11?120010???1??11101?11121201?21200??21??12111101??????
+Palaeopleurosaurus                011100001000101112000021100110100111?1?101212011211?20021??1100000022????
+Brachyrhinodon                    211111011100?000000120120??????0?31101?10121201121101??1?????000001??????
+Clevosaurus_hudsoni               211111111101000100012021011000001310011101212011212011011011100001112??0?
+Kallimodon                        01110?011?00?00111111120010???10111021?10121201121202??21011200001122????
+Sapheosaurus                      11?100?1?0???0011111011001???????01021?10?2??0??21?0???????120???1122????
+Pamizinsaurus                     ??????1???0????????????211???0001?11?1?11?2120??2?1?2???1?1??????012???1?
+Zapatadon                         10?01??01??1??1?1?1?102210?10101?3112??1??2120????1?2??2??????????12?????
+Sphenodon                         11111001110010011111112211010111231121111121211?211021121002100000?221000
+Cynosphenodon                     ???????????????????????????????1?1112??1??21211121?0????100???????1121001
+Opisthias                         ?1???11111?110011?11?1220??????1221111?0112130102?2?21021111??????122????
+Toxolophosaurus                   ???????????????????????????????1?21111?0??213012????????11????????222??0?
+Eilenodon                         ??????????1????????????????????1?211?120222130122?21210?111???????222??0?
+Kaikaifilusaurus_avelasi          011001111111100111110122010000112211112022213012212121031111?????1222??0?
+Ankylosphenodon                   ???1?????1?????????????????????1?311?1?11121?012????????0??12?000?121????
+Sphenocondor                      ???????????????????????????????????1?1?1?1212200??????????0??????00??0101
+Sphenovipera                      ???????????????????????????????1?110?1???1212211????????1????????01?211??
+Theretairus                       ???????????????????????????????1?110??????212210????????1?????????12?10??
+Kawasphenodon                     ???????????????????????????????1??????????212?10????????110???????2??????
+
+;
+
+
+cnames
+{ 0 Índice_región_anteorb_/_largo_cran.__(1_de_Reyn''96,_del_11_y_12_de_Wu''94,_11_de_Sues''94) mayor_ó_igual_a_1/3_(33%Sues) entre_1/3_y_1/4_(25-33%Sues) menor_ó_igual_a_1/4_(25%Sues);
+{ 1 Órbito_/_largo_craneano_(carácter_N°_49_de_Reynoso) 1/3_ó_más menos_de_1/3;
+{ 2 Índice_fenestra_supratemporal/_largo_de_la_órbita_(12_de_Sues''94)_OJO,_MEDIR_OPISTHIAS menor_al_75% mayor_del_75%;
+{ 3 Índice_fenestra_supratemporal__/_largo_craneano___(2_de_Reyn''96,_del_13_de_Wu''94) menor_ó_igual_a_1/4 mayor_a_1/4;
+{ 4 Índice_fenestra_temporal_inferior_/_largo_craneano_(3_de_Reyn''96,_del_14_de_Wu''94)_VER_SI_MEDIBLE_EN_OPISTHIAS_O_DEDUCIBLE_DEL_SQUAM menor_ó_igual_a_1/4 mayor_a_1/4;
+{ 5 maxilar_con_proceso_premaxilar...____(4_de_Reyn''96,_1_de_Wu''94,_2_de_Wu''91,_2_de_Sues''94) elongado reducido;
+{ 6 Participación_del_maxilar_en__el_margen_de_la_naris_externa(1_de_Sues''94,_43_de_Reynoso) participa excluido_por_proceso_post-dorsal_del_premaxilar;
+{ 7 maxilar_con_parte_posterior__(5_de_Reynoso''96,_2_de_Wu''94) delgada_ó_afinándose amplia;
+{ 8 lacrimal__(6_de_Reyn''96,_3_de_Wu''94,_3_de_Sues''94) presente ausente;
+{ 9 Jugal_con_proceso_dorsal..__(7_de_Reyn''96,_9_de_Wu''94) corto largo;
+{ 10 prefrontal_and_postfrontal_con_fuertes_rugosidades_(CONFIRMAR_OPISTHIAS_y_chequear_prfr_en_fraser_works) ausente presente;
+{ 11 Contacto_prefrontal_con_jugal_(4_de_Sues''94,_44_de_Reynoso)_REVER_EN_PS,_OPIS_Y_FERIGOLO no_contactan si_contactan;
+{ 12 postorbital_con_reborde_dorsal_fuerte_y_fuerte_concavidad_ventral_OJO_C.WANGI ausente presente;
+{ 13 frontales__(8_de_Reyn''96,_4_de_Wu''94,_5_de_Sues''94) separados fusionados;
+{ 14 parietales__(9_de_Reyn''96,_5_de_Wu''94,_6_de_Sues''94) separados fusionados;
+{ 15 Ancho_parietal_(entre_los_pasajes_supratemporales)_respecto_al_ancho_interorbital__(10_de_Reyn''96,_6_de_Wu''94)._Sues''94_lo_llama_7:Parietales_con_ancho_intertemporal_respecto_al_ancho_interorbital... más_ancho más_delgado;
+{ 16 Cresta_parietal___(11_de_Reyn''96,_7_de_Wu''94,_8_de_Sues''94) ausente presente;
+{ 17 Parietal_de_borde_posterior...___(12_de_Reynoso''96,_8_de_Wu''94) muy_curvado_hacia_adentro_(conc) suave_curvatura_hacia_adentro convexo;
+{ 18 Posición_del_forámen_parietal_con_respecto_al_margen_anterior_de_la_fenestra_supratemporal___(13_de_Reyn''96,_10_de_Wu''94,_10_de_Sues''94) posterior igual_ó_anterior;
+{ 19 Barra_temporal_inferior___(14_de_Reyn''96,_17_de_Wu''94,_15_de_Sues''94) alineada_con_línea_dent._maxilar curvada_(lateralmente_para_Sues'94)más_alla_del_límite_de_la_cámara_abductora;
+{ 20 Barra_temporal_inferior_(15_de_Reyn''96,_18_de_Wu''94_y_16_de_Sues''94,_los_últimos_dos_con_polaridad_revertida),_proceso_PV_del_jugal proceso_PV_ausente proceso_PV_poco_a_moderadamente_desarrollado_(less_than_half_the_length_of_the_infratemporal_fenestra) proceso_PV_bien_desarrollado_(more_than_half_infratemporal_fenestra);
+{ 21 palatinos__(16_de_Reyn''96,_33_de_Wu''94,_29_de_Sues''94) adelgazándose_posteriormente ensanchándose_relativamente_hacia_atras;
+{ 22 Contacto_anterior_entre_pterigoideos_(Carácter_N°48_de_Reynoso) ausente escaso amplio;
+{ 23 Procesos_posteromediales_del_pterigoides_separados,_dejando_entre_ellos_una_vacuidad_(47_R''96) de_amplia_abertura_posterior de_abertura_posterior_tan_amplia_como_la_vacuidad_misma casi_cerrada_por_el_proceso_posteromedial_de_los_pterigoides;
+{ 24 Pterigoides_con_la_región_central_entre_las_3_ramii...__(17_de_Reyn''96,_34_de_Wu''94,_30_de_Sues''94) corta elongada;
+{ 25 Pterigoides__(18_de_Reyn''96,_35_de_Wu''94,_32_de_Sues''94) bordeando_la_fenestra_suborbital excluido_del_margen_de_la_fenestra;
+{ 26 Fenestra_suborbital_encerrada_por...(33_de_Sues''94,46_de_Reynoso) más_de_dos_huesos sólo_por_ectopterigoides_y_palat.;
+{ 27 Forámen_Q-QJ__(Carácter_N°51_de_Reynoso) pequeño agrandado;
+{ 28 Forámen_Q-QJ_ubicado...__(Carácter_N°52_de_Reynoso) Entre_Q_y_QJ En_el_Q;
+{ 29 Emarginación_o_"conch"_Q-QJ__(Carácter_N°50_de_Reynoso,_k23_de_Evans''88,_18_S''94)_Para_Reynoso,_es_autapomórfico_de_Sphenodon_y_no_informativo. pronunciada reducida;
+{ 30 Supratemporal...(9_de_Sues''94,_45_de_Reynoso) presente ausente;
+{ 31 Movimiento_mandibular_inferido_(19_R''96,_36W''94,_34_Sues''94) ortal propalinal;
+{ 32 grado_de_propalinalidad:_Longitud_en_que_los_palatinos_se_mantienen_paralelos_a_los_maxilares,_similar_a_(35_R''96,_30_W''94,_26_de_S''94) extremo_anterior cerca_de_media_extensión totalmente_(eupropalinalidad);
+{ 33 Proceso_mentoniano ausente proceso_ventral_pronunciado_en_punta proceso_ventral_conspicuo_de_contorno_redondeado presente,_somero;
+{ 34 mandíbula_con_sínfisis...__(21_de_Reyn''96,_Z13_de_Benton''85,_estado_2_y_3_agregados_por_mi) circular,_relacion_alto/ancho_cercana_a_1 comprimida,_alto/ancho_claramente_mayor_a_1;
+{ 35 Sínfisis,_ángulo_entre_margen_anterior_y_eje_longitudinal_de_la_mandíbula_en_vista_lateral ausente_(sinf_vertical_sin_proyecciones) presente_(sinf_AM'_desarrollada,_mayor_a_120º);
+{ 36 espolón_sinfiseal_(proyección_AD) ausente presente,_muy_desarrollado presente,_poco_desarrollado;
+{ 37 mandíbula_con_forámen_(22_de_Reyn''96,_Z15_de_Benton''85) pequeño grande;
+{ 38 faceta_glenoidea_mandibular_claramente_diferenciada_para_ambos_cóndilos ausente,_faceta_sin_fuerte_cresta_media faceta_larga,_asimetrica_con_fuerte_cresta_media faceta_simetrica_con_fuerte_cresta_media;
+{ 39 proceso_coronoideo_del_dentario_(24_de_Reyn''96,_16_W''94,_14_S''94) débil_ó_ausente_(menos_de_la_mitad_de_la_altura_mandibular) pronunciado_(mayor_a_la_mitad,_alrededor_de_la_altura_mandibular);
+{ 40 proceso_retroarticular__(25_R''96,_19_W''94,_17_S''94) pronunciado reducido reducido_y_curvado_hacia_arriba_en_angulo_recto;
+{ 41 Dentario_con_proceso__posterior..._(13_de_Sues''94,_23_R''97 corto_(no_alcanza_zona_glenoidea) elongado_(llega_hasta_bajo_la_zona_glenoidea) muy_largo_(llega_hasta_el_final_de_la_zona_glenoidea);
+{ 42 implantación_dentaria_"marginal"_segun_Sues_(26_R''96,_21_W''94_modif.,_19_S''94_modif.) pleurodonte acrodoncia_parcial_(solo_los_anteriores_son_pleurodontes) acrodonte;
+{ 43 Reemplazo_dentario__(27_R''96,_Z8_Benton''85) alternado sin_reemplazo,_adición_de_nueva_serie_al_fondo_del_dentario;
+{ 44 Regionalización_dentaria_con_dientes_juveniles_pequeños_(eclosionales)_en_la_región_anterior_del_maxilar_y_dentario__(30_R''96,_Z7_B''85) ausente,_solo_dientes_pleurodontes presente,_con_eclosionales_pleurodontes presente_,_eclosionales,_sucesionales_y_adicionales_acrodontes ausente_en_juveniles_y_adultos,_solo_adicionales_acrodontes;
+{ 45 Sucesionales_posteriores,_número_en_el_adulto_(caniniformes) cero uno dos;
+{ 46 Dientes_marginales_con_facetas_de_desgaste_laterales_en_dentario_ó_mediales_en_maxilar__(28_R''96,_27_W''94,_23_S''94) ausentes_ó_pobres bien_establecida_en_dentarios_y_maxilares;
+{ 47 dimensiones_de_la_sección_de_los_dientes_marginales_posteriores_(29_R''96,_27_de_Fraser''89) isométricos,_ancho_igual_al_largo más_largo_que_ancho transversalmente_alargado,_mas_anchos_que_largos;
+{ 48 N°_de_dientes_premaxilares__(32_R''96,_22,23_y_24_combinados_de_W''94,_20_de_Sues''94) mas_de_7 4_a_7 3_ó_menos;
+{ 49 dientes_premaxilares_en_adultos___(33_R''96,_25_W''94,_21_S''94) individualizables_(discrete) formando_un_pico_óseo;
+{ 50 dientes_maxilares_posteriores___(34_R''96,_26_y_29_combinados_de_W''94,_22_de_S''94_con_un_estado_más)_(es_igual_al_62,_volar_el_62) Conos_simples Con_rebordes_posteromediales_pequeños_en_al_menos_1_diente Con_rebordes_posteromediales_extensos_en_la_mayoría;
+{ 51 maxilar_con_reborde_anterolateral_(en_relación_a_la_dentición_compleja_de_los_eilenodontinos) ausente presente;
+{ 52 N°_de_hileras_de_dientes_palatinos__(36_R''96,_31_W''94,_27_S''94) más_de_1 1_sola_hilera_lateral_+_relicto_(1_diente) 1_sola_hilera_lateral;
+{ 53 Hilera_de_dientes_palatinos_con_rebordes_(37_Reyn''96,_15_de_Fraser''89) ausentes presentes;
+{ 54 palatino_con_diente_empalador_hipertrofiado_en_la_region_anterior ausente presente;
+{ 55 N°_de_hileras_de_dientes_pterigoideos_(38_R''96,_32_W''94_y_28_S''94_modificados) 3_ó_más 2 0_ó_1 crestas_radiales;
+{ 56 Dientes_adicionales_del_dentario_con_rebordes_anterolaterales_(modif_de_39_R''96,_28_W''94,24_S''94) ausentes presentes_al_menos_en_1_diente_(Reynoso_39);
+{ 57 dientes_de_la_mandib._con_reborde_anteromedial ausentes presentes;
+{ 58 Crestas_(costulaciones)_en_los_dientes_adicionales_posteriores_adultos ausente presente;
+{ 59 2a._vértebra_sacra_con_proceso_posterior_(40_de_R''96,_88_de_Gauthier''88_modificado) pequeño prominente ausente;
+{ 60 isquión_con_borde_posterior..._(41_R''96,_K14_de_Evans''88,_4_de_Fraser''89) contínuo_entre_acetábulo_y_sínfisis_media con_proceso_posterior con_proceso_posterior_muy_prominente;
+{ 61 Proporción_del_húmero_con_respecto_a_la_columna_presacra__(42_R''96,_29_Fraser''89) 0,2_ó_menos más_de_0,2;
+{ 62 Proporción_de_la_tibia_con_respecto_a_la_columna_presacra__(42_R''96,_29_Fraser''89) 0,25_ó_menos más_de_0,25;
+{ 63 Proporción_del_fémur_con_respecto_a_la_columna_presacra_(42_R''96,_29_Fraser''89) menor_a_0,3 mayor_ó_igual_a_0,3;
+{ 64 Proporción_del_radio_con_respecto_a_la_columna_presacra__(42_R''96,_29_Fraser''89) menor_a_0,15 mayor_ó_igual_a_0,15;
+{ 65 tamaño_corporal_(medida_del_cráneo) pequeño_(<3cm.) mediano_(3_a_9cm.);
+{ 66 gracilidad_del_dentario grácil,_largo_y_bajo_(<0.18) (0.18-0.28) robusto,_corto_y_alto_(>0.28);
+{ 67 Dientes_sucesionales,_número_máximo_simultáneo_durante_el_desarrollo__(sinfiseales) 6_ó_más 3_a_5 2_o_menos;
+{ 68 Dientes_sucesionales_anteriores_(no_caniniformes),_retención_en_el_adulto 2_o_más_bien_diferenciados 1_o_2_poco_diferenciados indiferenciados;
+{ 69 Estriación_en_sucesionales presente ausente;
+{ 70 Surco_lingual_en_sucesionales_posteriores ausente presente;
+{ 71 Estriación_en_dientes_eclosionales ausente presente;
+{ 72 Caniniformes,_base circulares comprimidos;
+;
+
+
+ccode  + 0.72;
+
+
+;

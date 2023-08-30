@@ -1,0 +1,120 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 15.42.34'
+74 28
+
+&[num]
+Peroryctes_raffrayana               01111010210010221000000001011111011121000011000000000000111010111001001000
+Peroryctes_broadbenti               01102011110010111010000001010111111221000000?00100000120111021211000101000
+Microperoryctes_longicauda          01111000210010221001000002112112111111010011000100000000111110111010001000
+Microperoryctes_papuensis           011110002100103311000000020121121111110100???00????001001?11202110100?1000
+Microperoryctes_ornata              01111000200011221100000002012112111111010011000100000000111120111010001000
+Echymipera_rufescens                1--110102111103310110000010111111110210000?2010110010100111120212010011100
+Echymipera_kalubu                   1--2201121112233101100000111111111111100001?010110010100111120211010011000
+Echymipera_clara                    1--230102100123310110000112111111112110000110101100101?0111120211010101000
+Echymipera_davidi                   1--2201022202033100000000121011?111111?000??0??11?0?0100111120212010??1000
+Rhynchomeles_prattorum              1--??0102210122210010000011101121101?11000111111??000100111120?12011001000
+Isoodon_auratus                     011321112232303311121010122101120121111101?2232412310000111120212010001010
+Isoodon_obesulus                    011321112232303310021011122101111121111101?22324123101?0111120211010101010
+Isoodon_macrourus                   010321112232303310121011121101111121111001?2232412310120111120212010101010
+Perameles_nasuta                    011211002221222310122011022111120121212011111212111101?0121120212010001000
+Perameles_eremiana                  01031100222022331102101002212112012221210111131211110100111120?120100?1000
+Perameles_gunnii                    011221002211202211122010022111120122212111111312111100001111201120100?1000
+Perameles_bougainville              010211002211212211121010022111120122212111?21312112100001?1120112010001000
+Chaeropus_ecaudatus                 00022100?21021331102001002210111112211211111131213210000111120?110000?0110
+Macrotis_lagotis                    000001012000-22211130011122101111122010111?23333133101?0121120011001001011
+Macrotis_leucura                    010121002000-22211131010122101111122010011??333313310000121120212011001011
+Djarthia_murgonensis                ???0001101001000?100000000000??????????????????0?0?????????????011??????00
+Barinya_wangala                     1--0100000000000?100000000000000102000100000221210211021010121002100?00000
+Mutpuracinus_archibaldi             1--0001102000000?0000000000000001020?0?00001???0001000210??12?1011?????000
+Yarala_burchfieldi                  ????001121000111101001-001012?1001110001?100???201000?2011?1?02100?10??000
+Yarala_kida                         ?????01021000111???000?001012??????????????????????????????????110??????00
+Galadi_speciosus                    00?1201112001112?001000001011010111100000100???11110002011?12021200000?000
+Bulungu_palara                      ???00000?2001012?111?00002111?1001?100011100?112011000001???201120??00?000
+Ischnodon_australis                 ???????????????????200110201???????????????????????????????????120??????1?
+
+;
+
+
+cnames
+{ 0 Upper_incisor_number five_incisors_present four_incisors_present_(I5_lost);
+{ 1 Diastema_between_I4_and_I5 absent present;
+{ 2 I5_morphology I5_similar_in_morphology_to_I1-4 I5_pointed_and_strongly_canine-like;
+{ 3 Degree_of_development_of_lingual_shelf_on_P3 no_shelf small/weakly_developed_shelf well-developed_lingual_shelf well-developed_lingual_shelf_that_extends_to_the_buccal_side_of_P3;
+{ 4 P3_major_cusp_development P3_major_cusp_laterally_compressed P3_major_cusp_laterally_enlarged_but_not_conical P3_major_cusp_large_and_conical,_but_P3_is_narrower_than_M1 P3_Major_cusp_large_and_conical,_and_P3_is_wider_than_M1;
+{ 5 Stylar_crest_on_M1 stylar_crest_present_on_stylar_cusp_D stylar_cusp_D;
+{ 6 Anterior_cingulum_of_M1 incomplete complete;
+{ 7 Anterior_cingulum_of_M3 incomplete complete;
+{ 8 Direction_of_preparacrista_of_M1 preparacrista_anterobuccally_orientated preparacrista_posterobuccally_orientated_but_not_blade-like. preparacrista_posterobuccally_orientated_and_blade-like,_parallel_to_postparacrista.;
+{ 9 Preparacrista_of_M2_and_M3 preparacrista_terminates_at_St_B_on_both_M2_and_M3 preparacrista_terminates_at_St_B_on_M2_but_connects_to_the_parastylar_tip_on_M3 preparacrista_connects_to_the_parastylar_tip_on_both_M2_and_M3;
+{ 10 Termination_of_postprotocrista_and_morphology_of_posterior_cingulum_of_M1_and_M2 posterior_cingulum_absent_on_M1_and_M2 posterior_cingulum_present_but_incomplete_on_M1_and_M2 posterior_cingulum_complete_on_M1_but_incomplete_on_M2 posterior_cingulum_complete_on_both_M1_and_M2;
+{ 11 Termination_of_the_postprotocrista_and_morphology_of_the_posterior_cingulum_of_M3 no_posterior_cingulum incomplete_posterior_cingulum complete_posterior_cingulum;
+{ 12 Degree_of_development_of_the_metaconule metaconule_minute_or_absent metaconule_small_but_clearly_identifiable_a_discrete_cusp metaconule_almost_the_same_size_as_the_protocone metaconule_equal_to,_or_slightly_larger_than_protocone;
+{ 13 Size_of_stylar_cusp_E St_E_present_on_all_molars St_E_or_remnant_present_on_at_least_one_molar No_trace_of_St_E_on_any_molar;
+{ 14 Morphology_of_the_centrocrista_on_M1_and_M2 postparacrista_and_premetacrista_contact_each_other,_forming_a_complete_centrocrista_that_connects_the_paracone_and_metacone_(more_bucally) postparacrista_and_premetacrista_contact_each_other,_forming_a_complete_centrocrista_that_connects_the_paracone_and_metacone_(more_lingually) centrocrista_breeches_ectoloph_but_ends_at_base_of_Stylar_cusp_D_on_M1_and_M2_molars centrocrista_breeches_ectoloph_on_all_molars_and_connects_to_Stylar_Cusp_D_and/or_B;
+{ 15 Morphology_of_Centrocrista_on_M3 postparacrista_and_premetacrista_contact_each_other,_forming_a_complete_centrocrista_that_connects_the_paracone_and_metacone_(more_bucally) postparacrista_and_premetacrista_contact_each_other,_forming_a_complete_centrocrista_that_connects_the_paracone_and_metacone_(more_lingually) centrocrista_breeches_ectoloph_but_ends_at_base_of_Stylar_cusp_D_on_M3 centrocrista_breeches_ectoloph_on_all_molars_and_connects_to_Stylar_Cusp_D_and/or_B;
+{ 16 Lobation_of_i3 i3_not_bilobed i3_bilobed;
+{ 17 Length_of_p3 p3_longer_or_equal_in_length_to_p2 p3_shorter_than_p2;
+{ 18 Lower_premolar_height not_raised raised;
+{ 19 Paraconid-metaconid_distance_(relative_to_metaconid-protoconid_distance)_on_m1-3 wide_on_all_molars wide_on_anterior_molars,_narrow_on_posterior_molars narrow_on_all_molars narrow_on_anterior_molars,_paraconid_lost_on_m3;
+{ 20 Hypoconulid_size_and_termination_of_the_posthypocristid hypoconulid_is_a_distinct_cuspid,_and_higher_than_the_posthypocristid_and_talonid_basin_on_all_molars hypoconulid_is_distinct_and_high_on_anterior_molars_but_lower_than_talonid_basin_on_m3,_with_the_posthypocristid_connecting_to_the_entoconid_on_this_tooth both_m2_and_m3_have_low_hypoconulids,_with_posthypocristids_connecting_to_the_entoconids;
+{ 21 Preentocristid present absent;
+{ 22 Preentocristid_orientation anteroposterior_(entoconid_blade-like) oblique_(entoconid_conical);
+{ 23 Cusp_within_the_hypoflexid_region,_between_the_talonid_and_trigonid_on_the_buccal_side no_median_buccal_cusp_present median_buccal_cusp_present;
+{ 24 Distinction_between_lower_molar_crowns_and_roots crown_distinct_from_roots crown_and_root_indistinct_(other_than_for_limit_of_enamel);
+{ 25 Cristid_obliqua_shape_and_termination cristid_obliqua_straight_and_never_terminates_on_the_lingual_side_of_the_trigonid cristid_obliqua_straight_and_terminates_at_a_lingual_position_against_the_trigonid_from_m1-4 cristid_obliqua_concave_on_some_molars_and_terminates_at_a_lingual_position_against_the_trigonid_from_m1-4;
+{ 26 Posthypocristid_direction oblique_to_the_tooth_row_axis oblique_on_anterior_molars,_perpendicular_on_posterior_molars. perpendicular_to_the_tooth_row_axis_on_all_molars;
+{ 27 Hypoconulid_posterior_to_entoconid hypoconulid_positioned_posterobuccal_to_the_entoconid hypoconulid_positioned_almost_directly_posterior_to_the_entoconid;
+{ 28 Size_of_talonid_on_m4 entoconid_and_hypoconid_large,_talonid_relatively_wide,_crests_clearly_identifiable. entoconid_and_hypoconid_smaller_than_in_state_0,_talonid_smaller Further_reduction_of_entoconid_and_hypoconid,_talonid_very_small,_crest_poorly_defined;
+{ 29 Snout_length_and_premaxilla_size premaxilla_taller_than_it_is_long,_maxilla-nasal_contact_longer_than_premaxilla-nasal_contact_(usually_correlated_with_a_relatively_short_snout) premaxilla_longer_than_it_is_tall,_premaxilla-nasal_contact_longer_than_maxilla-nasal_contact_(usually_correlated_with_a_relatively_elongate_snout);
+{ 30 Width_of_nasals broad_nasals slender_nasals;
+{ 31 Position_of_nasal-frontal_suture/maximum_posterior_extension_of_nasals posterior_to_the_anterior_rim_of_the_orbit_when_viewed_laterally nasals_terminate_just_anterior_to_the_orbit_when_viewed_laterally_(associated_with_a_wide_maxilla-frontal_suture) nasals_terminate_well_anterior_to_the_anterior_margin_of_the_orbit;
+{ 32 Infraorbital_canal_length long_infraorbital_canal short_infraorbital_canal;
+{ 33 Jugal-maxilla_contact jugal_invades_the_maxilla_and_extends_onto_the_facial_region_of_the_skull maxilla_invades_the_zygomatic_arch_so_that_the_jugal_has_two_thin_wings_around_the_posterior_maxillary_flange;
+{ 34 Lacrimal_orbital_rim lacrimal_crest_absent Partially_developed_lacrimal_crest Fully_developed_lachrimal_crest;
+{ 35 Antorbital_fossa antorbital_fossa_absent weak_or_partial_fossa_development very_deep_antorbital_fossa;
+{ 36 Orbitosphenoid orbitosphenoid_identifiable_in_lateral_view_as_a_large_ossification orbitosphenoid_identifiable_in_lateral_view_as_a_small_ossification orbitosphenoid_is_very_small_or_absent_and_not_obvious_in_lateral_view;
+{ 37 Alisphenoid alisphenoid-parietal_contact squamosal-frontal_contact;
+{ 38 Sphenorbital_fissure_and_foramen_rotundum sphenorbital_fissure_slightly_larger_than_foramen_rotundum._Both_canals_are_tubelike_in_shape,_especially_the_foramen_rotundum sphenorbital_fissure_is_enlarged_and_more_widely_open,_and_there_is_a_reduction_in_the_length_of_the_'tube'_leading_to_the_foramen_rotundum sphenorbital_fissure_is_further_enlarged_and_open,_and_there_is_no_'tube'_leading_to_the_foramen_rotundum,_which_instead_appears;
+{ 39 Number_of_vacuities_in_the_palate one_set_of_vacuities_in_the_incisal_region_(the_incisive_foramina)_and_one_in_the_molar_region_(the_maxillopalatine_fenestrae). one_set_of_vacuities_in_the_incisal_region_(the_incisive_foramina),_one_set_in_the_premolar_region_('accessory_vacuities'_sensu_Lyne_and_Mort,_1981)_and_one_set_in_the_molar_region_(the_maxillopalatine_fenestrae);
+{ 40 Presence_of_dividing_septa_between_paired_palatal_vacuities all_pairs_of_palatal_vacuities_are_separated_by_septa the_paired_maxillopalatine_fenestrae_lack_a_dividing_septum;
+{ 41 Postglenoid_foramen foramen_bound_by_squamosal_or_squamosal_and_alisphenoid foramen_bounded_medially_by_the_petrosal;
+{ 42 Morphology_of_the_primary_foramen_ovale primary_foramen_ovale_is_between_alisphenoid_and_petrosal prim;
+{ 43 Morphology_of_the_secondary_foramen_ovale secondary_foramen_ovale_absent secondary_foramen_ovale_defined_by_a_complete_strut_or_bridge_formed_by_the_alisphenoid,_but_the_primary_foramen_ovale_is_still_visible secondary_foramen_ovale_present,_and_extensive_ossification_of_the_alisphenoid_means_that_the_primary_foramen_ovale_is_no_longer_visible_in_intact_skulls;
+{ 44 Morphology_of_the_ectotympanic thin somewhat_thickened further_thickened heavily_thickened;
+{ 45 Degree_of_inflation_of_the_alisphenoid_tympanic_process alisphenoid_tympanic_process_small,_lateral_and_medial_walls_open. alisphenoid_tympanic_process_largely_open_but_medial_wall_enclosed_greater_than_in_state_0,_and_hypotympanic_sinus_is_also_enlarged_relative_to_state_0 alisphenoid_tympanic_process_and_hypotympanic_sinus_further_enlarged.relative_to_state_1,_hypotympanic_sinus_walled_posteriorly_by_the_alisphenoid alisphenoid_tympanic_process_and_hypotympanic_sinus_greatly_hypertrophied;
+{ 46 Alisphenoid_tympanic_process_shape flattened ventrally_rounded,_anterior_boundary_rounded_does_not_extend_as_far_as_the_transverse_foramen_or_foramen_ovale ventrally_rounded,_anterior_boundary_pointed_and_extends_as_far_as_the_transverse_foramen ventrally_angular,_anterior_boundary_pointed_and_terminates_anterior_to_the_transverse_foramen;
+{ 47 Morphology_of_the_rostral_tympanic_proccess_of_the_petrosal rostral_tympanic_process_of_the_petrosal_absent_or_very_small rostral_tympanic_process_of_the_petrosal_forms_a_distinct_projecting_process_that_partially_walls_the_posteromedial_margin_of_the_hypotympanic_sinus_. rostral_tympanic_process_of_the_petrosal_further_enlarged,_forming_elongate_crestlike_process_that_extends_the_length_of_the_promontorium_and_forms_posteromedial_wall_of_the_hypotympanic_sinus,_medial_margin_of_petrosal_overlaps_basioccipital. ventral_margin_of_the_rostral_tympanic_process_of_the_petrosal_extends_laterally_and_slightly_dorsally,_resulting_in_the_formation_of_a_distinct_hypotympanic_sinus_within_the_rostral_tympanic_process_itself further_dorsal_extention_of_the_ventral_margin_of_the_rostral_tympanic_process_relative_to_state_3,_resulting_in_lateral_wall_to_the_hypotympanic_sinus_within_the_process;
+{ 48 Composition_of_the_roof_of_the_tympanic_cavity alisphenoid,_squamosal,_and_petrosal_all_contribute_to_the_roof_of_the_tympanic_cavity only_the_alisphenoid_and_petrosal_contribute_to_the_roof_of_the_tympanic_cavity,_there_is_no_squamosal_contribution;
+{ 49 Epitympanic_recess poorly_defined_and_shallow wider_and_deeper_than_the_plesiomorphic_state_but_still_relatively_poorly_defined deep_sinus_with_enclosing_walls_that_is_well_distinguished_from_remainder_of_auditory_cavity wide_and_deep_sinus_that_extends_posterolaterally;
+{ 50 Squamosal_epitympanic_sinus absent present,_poorly_defined wide_with_high_posterior_wall deep_and_round;
+{ 51 Supraoccipital_shape supraoccipital_about_as_tall_as_it_is_wide supraoccipital_taller_than_it_is_wide;
+{ 52 Postorbital_processes absent_or_indistinct present;
+{ 53 Left_and_right_parietal_suture median_suture_present partially_or_completely_co-ossified_suture;
+{ 54 Sagital_crest no_sagittal_crest sagittal_crest_small,_not_extending_to_frontals sagittal_crest_large_and_extending_to_frontals;
+{ 55 Interparietal absent present;
+{ 56 Lambdoid_sesamoids absent present;
+{ 57 Number_of_mental_foramen one_mental_foramen two_mental_foramina three_or_more_mental_foramina;
+{ 58 Shape_of_I1 Styliform_or_chisellike mesiodistally_expanded_and_flat-crowned;
+{ 59 Upper_canine_alveolus occupies_premaxillary-maxillary_suture entirely_contained_within_maxillary;
+{ 60 Relative_height_of_upper_P2_and_P3 P2_taller_than_P3 P2_and_P3_subequal_in_height P3_taller_than_P2;
+{ 61 Posterior_crest_of_P3 well-developed_posterior_cutting_edge lacking_posterior_cutting_edge;
+{ 62 Relative_height_of_lower_p2_and_p3 p2_taller_than_p3 p2_and_p3_subequal_in_height p3_taller_than_p2;
+{ 63 Hypoconulid_notch present_in_anterior_cingulum_of_m2-4 absent;
+{ 64 Relative_position_of_hypoconid_to_protoconid_on_m3 labially_salient_to_protoconid subequal_to_protoconid lingual_to_salient_protoconid;
+{ 65 Posterior_cingulid absent present;
+{ 66 Shape_of_narial_flange_of_premaxilla no_distinct_process 'wing-like'_narial_processes_present;
+{ 67 Position_of_lacrimal_foramen within_lacrimal within_lacrimal-maxillary_suture;
+{ 68 Supraoccipital_contribution_to_foramen_magnum contributes_to_superior_margin_of_foramen_magnum exoccipitals_contact_each_other_medially,_excluding_the_supraoccipital_from_the_foramen_magnum;
+{ 69 Inferior_petrosal_sinus_opening open_slit_in_ventral_view_between_petrosal_and_basioccipital enclosed_by_petrosal_and_basioccipital_so_not_open_ventrally;
+{ 70 Shape_of_I2-4 rhomboidal_crowns mesiodistally_expanded_and_flat-crowned;
+{ 71 Shape_of_upper_canine single-rooted_unicuspid_upper_canine accessory_cusps_are_present_on_either_side_of_the_major_cusp_of_C1;
+{ 72 Lower_molar_crown_height Lower_molars_are_as_high_on_the_buccal_side_as_they_are_on_the_lingual_side Lower_molar_height_is_significantly_higher_on_buccal_side_than_lingual_side;
+{ 73 Metacone_shifted_lingually_to_form_''hypocone'' metacone_not_shifted_lingually metacone_shifted_lingually,_forming_'hypocone';
+;
+
+
+ccode  - 0.73;
+
+
+;

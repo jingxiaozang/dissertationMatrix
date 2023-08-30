@@ -1,0 +1,278 @@
+nstates num 9;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 15.53.46'
+213 47
+
+&[num]
+Oncodamus_decipiens                 001111101-000--10001000000-0--0--0110--------0101010111012010100-00000000--00-01110000112020-021000?100001010100000001000010000--003000000000-230200000000000025000110000----000-000100000-------------------------0?
+Parasteatoda_tepidariorum           1010-000110110000100000100-0--0--1010--------010100-111011010100-02010000--00-00-110110120010111210?130010210000000001100010100--000000001010-03020000000000000500?0-0000----000-10000100121?--11-------------??-?00?
+Allende_nigrohumeralis              0110-01010011010001000010101210--000111110011000000-1010110101110020100000000-111100001110110111120?100111320100100011000011010--113000001010-000000011010000000001110000----100-0012110010??????1?0?????00?0??????0?
+Araneus_marmoreus                   00111010001110100001001000-0--0--01110000000-01001101110001001020020011111100-011101101101011101120010000010000000010012101101111021001001000-0002000000000001140????0000----0011012000101001010001000001000001000000
+Argiope_argentata                   00111010001110100001001000-0--0--00110000000-0100110111010100100-02121110--00-0111111010002111112200130001200000000000001111010--001001001100-01010000000000110100?100000----0011001000001001110001000001000000-00100
+Asagena_americana                   1010-000110110100101000000-0--0--1000--------0101111111010111100-011-0000--00-00-110110120110121200?130011000000000001000010100--210000001010-120200000000000005000100000----000-100010001211--11-------------0-1100?
+Azilia_affinis                      01111010100110000001000100-0--0--001100000011000000-0-------0110-02010000--01101110000100000-010110?120110110100000001000010000--010000011010-200010001100000000001110000----10??001101001000000?010100010010?10???0?
+Chrysometa_alajuela                 0110-01010011000000100010101000--001161111013000000-1000111101111020200000000-111100001110010111110?100111420100100012101010000--010000001010-120200110011000005000100000----100-00100000100?010?1?0?00??00?0?10???0?
+Clitaetra_episinoides               01110010100110100001000100-0--0--001120000112000000-101023110010-012-0000--01101000100110020-020120?100001000100000?01001010000--110000001000-000100000000000014010100000----00100010000010??010???1???????????????0?
+Cyclosa_conica                      01111010001110100001001000-0--0--00110000000-01001101110100101020011-01011100-011101101100011111110?13000010000000000012101100110023001001000-0202000000000010140200-0000----001101200010100111000?0?000?0000?20???0?
+Cyrtognatha_espaniola               0110-010100110000001110110-0--0--010111110011000000-100012100110-02120000--10-011200001000110111100110011002011010201200000------21011-----10-200-01-----10010140101100011011?00-00101100100000001?0?00??00?0?0-???0?
+Deliochus_sp                        01010010100111000?????0?00-0--0--00113100000-000100-100022110110-011-1000--00-111101101100010101101?0-000032010110001200-110000--001000011100-020210000000000015011100?00----000-0010100010??0100????02??10???11??01?
+Diphya_spinifera                    0110-010100110000001000100-1000--000110011010000000-100021010110-02120000--00-01111000112000-010100?100111620100000112000010000--003000001100-200000000000000014000100000----000-00100000??????????????????????????0?
+Dolichognatha_pentagona             0110-01010011000010100010110--0--011110000011010000-1010120101111020000000001001121000110000-020100?100111020100000102000010010--110000000000-000100000000001014000100000----100-000110001001000?010100010010110???0?
+Epeirotypus_brevipes                1110-000100110000000000000-0--0--00112000000-0010110111011010100-02110000--01100-101100110010101100?130000600000000000000011000--21000001101102000100000000000050110-0000----000-001000001011010001010001001000-1?00?
+Gasteracantha_cancriformis          00110010101110101?????1000-0--0--00112000000-0100110111000100100-00100100--00-011001101101211121121?0-0000100100000??100-11001100110000001000-0101000000001010050?0110?00----001-00000000100101000?0100010000?0-???0?
+Glenognatha_foxi                    0110-011100110000000110110-0--0--010111110010000000-100022000110-00120000--10-01120000011010-111100?0-011102000000110200-00------20010--000010200101-----00100151??110100----100-0000010010000000-00?00010010-0-???0?
+Herennia_multipuncta                00110010101110100001000100-0--0--001120000112000000-101123110010-012-0000--01101000110111020-001020?100001110100?000011?0110110--002000101000-020200000000001110000111000----00100010?0001001010?00101110??21?20???1?
+Larinioides_cornutus                00111010001110100001001000-0--0--00110000000-01001101110001001020021011111100-011001101101011101120?10000010010000000002101101110020001001000-0302000000000001140????0000----101000200010100101?0????000?0000??????0?
+Leucauge_argyra                     0110-010100110100010100100-0--101001100000012101000-101022110110-111-0000--011011100001010110101100?121100510101000111000011000--01300001100111100000111010000140111100011111100-00111100100?00101?0?00??00?0?0-???0?
+Leucauge_venusta                    0110-010100110100010100100-0--0--000100000011101000-101022110110-111-0000--0110111000010102101110001121101510000000001000010100--00000001100111001100111010000100111100011111100-001211001000001011010001001010-00001
+Linyphia_triangularis               1010-001100110100001000000-0--0--001141200012010000-0-------01130012-02000000-00-2100001202101011000110110020010000102000011100--010000000000-12020011000000000500?0-0000----000-000011001111--11-------------0-1?00?
+Mangora_gibberosa                   01111010001110100101001000-0--0--00110000000-01001101110000001020020001011100-011101101000011101120?11000120000000000000001100111110001001000-020200000000010015021100000----0011011000101001010001000001000000-???0?
+Mecynogea_lemniscata                0?111010001110100001001000-0--0--00110000000-01001101110000001020011-01001100-011111101000211101210?130000110000000001000011110--110000001100-0301000000000011140010-0000----0011001000001011001?0?0000??00?1??????0?
+Mesida_argentiopunctata             0110-010100110100010110100-0--110001100000012101000-101022110110-111-0000--011011200001010110111101?120111020101010112000010100--00000001100101001100111010000040111100011111000-00101100100???001?0?00??00?0?0-???0?
+Meta_menardi                        0011101010011010000000010111100--000110000011010100-10101101011110200000000010011210001110110111110?120110121100000011000011010--110000000010-000000011010000114?????0000----100-001111001000010011010001001010-00000
+Metabus_ocellatus                   0110-010100110100010110100-0--111001100000011101000-101022110110-111-0000--011011210001010110111020?120111620100000001000010110--1000000110010100110011101000004000110000----100-00121100100?00??1?0??0?????0??????0?
+Metellina_segmentata                0110-01010011010010100010110--0--011111000011010000-1010110101111020000000000-011110001110110111110?100111120100000001000010000--110000000010-200000110000000014001100000----100-0011100010000100110100??00?0?0-???0?
+Metepeira_labyrinthea               00111010001110100101001000-0--0--01110000000-01001101110001001020020011011100-011101101000111111120?11000011110000000100011101110001001001000-020200000000000110020100000----0011012000001011011?0?0?000?0000?21???0?
+Nanometine_sp                       0110-01010011010000000010101110--001100000011000000-100011010110-00120000--00-011111001110010111110?100111020100100112000010000--003000001010-1212100000010000041?1110010----100-00011101100?0?001?0?00??00?0??????0?
+Metleucauge_eldorado                0110-010100110100000000100-100100011120010011101000-101022110110-10000000--00-011210101010210111120?120111120100100111000010000--003000011011-000110000000000004001100000----100-0012110010??00001?0?00??00????????0?
+Micrathena_gracilis                 00110010101110101010001000-0--0--00111001000-01001101110001001020021001000100-011001101111211101120?14000030010000000100011101100010001001000-010100000000101205000110010----000-00100000100101001?0100010000?0-???0?
+Mollemeta_edwardsi                  0010-01010011010000100010111000--000150000011010000-101012110110-00100000--00-011100101110110111210?10011081010000000100001001100013000001010-200100010000000104000110000----100-00121100100?010?0?1000??00?0??????0?
+Nanometa_sp                         0110-01010011010010100010101100--000100000011000000-100011010110-00120000--00-011101001110110111000?0-011101010010001100-010000--001000001010-1212100000010000041010-0010----000-00000001100?00001?0?00??00?0?0-???0?
+Neoscona_domiciliorum               00111010001110100001001000-0--0--00110000000-01001101110000001020020001111000-011111101100111101120?11000020000000000010001101101010001001000-030200000000010114000100000----001?01200010100101000?0?000?0000??????0?
+Nephila_clavipes                    00110010101110100001010100-0--0--001120000112000000-101023110010-012-0000--0110100011011102101?1121?100001201100000002101111110--111000001000-000100000000000113?????1000----?1100010000010111111000001101121?0-1?100
+Nephilengys_malabarensis            00110010101110100001000-00-0--0--001120000111000000-101123110010-012-0000--011010001101110210101121?120000200100000002101110010--000000101000-020200000000000112000001000----0010001000001011011?0010111011210101??10
+Nesticus_cellulanus                 1010-000110110000?????0?00-0--0--0011110110120100111111000101100-00010000--01000-111100120110111200?100010010001?00101001011100--2100000010????201001100000?00000????0?00----?00-1001?000121---11-------------??-1000
+Opadometa_sp                        0110-010100110100?????0100-0--110011100010010111000-101022010110-111-0000--00-011100101010110111110?120101120101000012010110100--10000001100111001100111000010140??110?011111110-00011100100?01001?0?00??00?0??????0?
+Orsinome_cf_vethi                   0110-010100110100010000100-0--100011100010010101000-101022110110-111-0000--011011210101010010111020?120111320110010002010010110--00300001100111201000111010000040?11000011110100-00101100100?00001?0?00??00?0?0-???0?
+Orsinome_sarasini                   0110-01010011000000000010101110--000111001011000000-100011010110-00120000--00-011111001110110111000?1301111201001000110000100?0--003000001000-1212100000000000040?1110010----100-0001110110????????????????????????0?
+Pachygnatha_autumnalis              0110-0011-000--00000110110-0--0--010111111011000000-100022010110-00120000--10-01121000111020-1010101130110020110010?0100000------20010--00110-000001-----00100050?11001010000100-000010000--------------------??-?-0?
+Phonognatha_graeffei                00010010100111000000000100-0--0--0101310000?1010000-100022110110-00220000--00-011101101100010111111?130000320101000112001010000--001000001110-000000000000000004001110000----000-00111000100101100010010?11210211?00?
+Tetragnatha_versicolor              0110-010100110000101000110-0--0--010111101011000000-100022010110-00120000--10-01121000101020-000120112011002011001210200000------21011--011110000001-----10000140????00010000000-001211001000000011010001001010-1?001
+Tylorida_striata                    0110-010100110100010?00100-0--100001120010011101000-101022100110-111-0000--0110112000010100101?1000?120111320000000001000010100--00000001100111001100111010010050111100010010000-00101100100?00001?0?00??00?0??????0?
+Uloborus_glomosus                   011111100-100--10000000000-0--0--0000--------0101110111000100100-00020000--00-01100100110020-010120?130000000000000000100011000--010000000000-0102100000000010141????0000----000-0000000010001001-00-0000000000-0?00?
+Zygiella_x_notata                   00110010100111000001001000-0--0--00110000000-01011101110001001020020001111100-011101101100011111120?110000710101000011000011000--010000001000-010200000000000104020100000----001100200000100?0100??0?00??0000??????0?
+
+;
+
+
+cnames
+{ 0 ALS_piriform_spigot_bases_height tall,_(Tetragnatha_versicolor,_Fig._109B) low,_(Epeirotypus_brevipes,_Fig._119D);
+{ 1 ALS_piriform_spigot_bases_distal_edge tightly_wrapping_column_base,_(Araneus_marmoreus,_Fig._119C) separated_from_the_column_base_leaving_a_torus,_(Metellina_segmentata,_Fig._66B);
+{ 2 ALS_piriform_field_perimeter notched,_(Phonognatha_graeffei,_Fig._135C,_arrow) uniform,_(Zygiella_x-notata,_Fig._119F);
+{ 3 PMS_anterior_surface without_aciniform_spigots,_(Tetragnatha_versicolor,_Fig._109D) with_aciniform_spigots,_(Cyclosa_conica,_Fig._120A);
+{ 4 PMS_aciniform_anterior_spigots 20_or_less_AC_spigots,_(Gasteracantha_cancriformis,_Fig._120C) more_than_20_spigots,_(Mangora_gibberosa,_Fig._120D);
+{ 5 PMS_cylindrical_spigots_number one,_(Glenognatha_foxi,_Fig._36H) two,_(Uloborus_glomosus,_Fig._121A);
+{ 6 PMS_nubbin absent,_(Epeirotypus_brevipes,_Fig._120B) present,_(Tylorida_striata,_Fig._114E);
+{ 7 PLS_cylindrical_spigot_bases same_size,_(Diphya_spinifera,_Fig._26D) mesal_larger_than_the_more_distal_spigot_base,_(Pachygnatha_autumnalis,_Fig._105E);
+{ 8 PLS_cylindrical_spigot_position central,_(Mangora_gibberosa,_Fig._121F) peripheral,_(Tylorida_striata,_Fig._114G);
+{ 9 PLS_aggregate_gland_spigots approximately_the_same_size_as_the_distal_cylindrical_spigot,_(Leucauge_argyra,_Fig._46F) enlarged,_(Steatoda_americana,_Fig._121B);
+{ 10 PLS_distal_aciniform_spigots not_extending_beyond_the_triplet_area,_(Chrysometa_alajuela,_Fig._18E) extending_beyond_the_triplet_area,_(Nephilengys_malabarensis,_Fig._122A);
+{ 11 Aggregate_spigots absent,_(Uloborus_glomosus,_Fig._122C) present,_(Araneus_marmoreus,_Fig._121C);
+{ 12 Flagelliform_spigots absent,_(Oncodamus_decipiens,_Fig._122B) present,_(Cyclosa_conica,_Fig._121E);
+{ 13 Flagelliform_spigot_position near_the_aggregate_spigots,_(Argiope_argentata,_Fig._121D) apart,_(Zygiella_x-notata,_Fig._122D);
+{ 14 AG-flagelliform_triad aggregate_spigots_distal_end_apart_from_flagelliform_spigot,_(Tetragnatha_versicolor,_Fig._109F) distal_end_of_the_aggregate_spigots_embracing_the_distal_end_of_the_flagelliform_spigot,_(Mesida_argentiopunctata,_Fig._51E);
+{ 15 Spinnerets_cuticle squamose,_(Chrysometa_alajuela,_Fig._18F) rugose,_(Oncodamus_decipiens,_Fig._122B);
+{ 16 Sclerotized_ring_around_spinnerets absent,_(Uloborus_glomosus,_Fig._119B) present,_(Gasteracantha_cancriformis,_Fig._119A);
+{ 17 Epiandrous_fusules_arrangement one_transverse_line,_(Orsinome_nr._Vethi,_Fig._100F) two_main_clusters,_(Dolichognatha_pentagona,_Fig._31G);
+{ 18 Epiandrous_fusules_line level_with_the_surrounding_cuticle,_(Tetragnatha_versicolor,_Fig._109C) within_in_a_groove,_(Leucauge_argyra,_Fig._46G);
+{ 19 Epiandrous_fusules_pits absent,_(Meta_menardi,_Fig._56F) present,_(Larinioides_cornutus,_Fig._122F);
+{ 20 Epiandrous_fusule_base_distal_margin sharp_edge,_(Epeirotypus_brevipes,_Fig._122E) round_edge,_(Mesida_argentiopunctata,_Fig._51G);
+{ 21 Epiandrous_plate_posterior_edge as_the_upper_edge,_(Diphya_spinifera,_Fig._26G) swollen,_(Metabus_ocellatus,_Fig._61G);
+{ 22 Cymbium_orientation dorsal,_(Meta_menardi,_Fig._59A) mesal,_(Cyclosa_conica,_Fig._140B);
+{ 23 Cymbial_tarsal_organ_diameter as_the_surrounding_macrosetal_base_diameter_(Argiope_argentata,_Fig._137C) larger,_(Tetragnatha_versicolor,_Fig._112C);
+{ 24 Cymbium_median_width entire_not_constricted,_(Leucauge_venusta,_Fig._44B) constricted,_(Glenognatha_foxi,_Fig._39F);
+{ 25 Cymbial_ecto-basal_process_(CEBP) absent,_(Leucauge_venusta,_Fig._44B) present,_(Dolichognatha_pentagona,_Figs._34A,_C);
+{ 26 CEBP_shape longer_than_wide,_(Chrysometa_alajuela,_Fig._21D) cuticular_fold,_(Meta_menardi,_Figs._59A,_F);
+{ 27 Cymbial_ecto-median_process_(CEMP) absent,_(Metellina_segmentata,_Fig._69D) present,_(Allende_nigrohumeralis,_Fig._11A);
+{ 28 CEMP_macrosetae absent,_(Metleucauge_eldorado,_Fig._80B) as_in_the_cymbium,_(Orsinome_sarasini,_Fig._99D) thicker,_(Allende_nigrohumeralis,_Fig._11D);
+{ 29 CEMP_length less_than_half_the_cymbial_width,_(Diphya_spinifera,_Fig._29D) more_than_half_the_cymbial_width,_(Allende_nigrohumeralis,_Fig._11A);
+{ 30 Cymbial_dorso-basal_process_(CDBP) absent,_(Azilia_affinis,_Fig._16C) present,_(Tylorida_striata,_Fig._117A);
+{ 31 CDBP_length shorter_than_the_cymbial_width,_(Metleucauge_eldorado,_Fig._80C) longer_than_the_cymbial_width,_(Metabus_ocellatus,_Fig._65D);
+{ 32 CDBP_orientation perpendicular_in_relation_to_the_cymbial_longitudinal_axis,_(Mesida_argentiopunctata,_Fig._54C) parallel,_(Leucauge_argyra,_Figs._49B-C);
+{ 33 Cymbium-bulb_lock_mechanism absent,_(Nesticus_cellulanus,_Agnarsson,_2004:_figs._2A-B) present,_(Anelosimus_sp.,_Agnarsson,_2004:_fig._28F);
+{ 34 Cymbium_length shorter_than_two_times_its_width,_(Argiope_argentata,_Fig._137A) longer,_(Orsinome_cf._vethi_Fig._103C);
+{ 35 Cymbium_ectal_margin_sclerotization sclerotized_as_cymbium transparen;
+{ 36 Paracymbium absent,_(Steatoda_americana,_Fig._138E) present,_(Argiope_argentata,_Fig._137E);
+{ 37 Paracymbium_morphology hook_shaped,_(Argiope_argentata,_Fig._137E) cylindrical,_longer_than_wide,_(Meta_menardi,_Fig._59A) rectangular,_(Nephilengys_malabarensis,_Fig._138D) rim_following_tegular_margin,_(Phonognatha_graeffei,_Fig._125F) U-shaped,_(Linyphia_triangularis,_Fig._138A) conical_(Mollemeta_edwardsi,_Fig._85C) with_protuberances_(Chrysometa_alajuela,_Fig._21C);
+{ 38 Paracymbium_length shorter_than_half_the_cymbial_length,_(Mesida_argentiopunctata,_Fig._54F) longer,_(Metellina_segmentata,_Fig._69D);
+{ 39 Paracymbium_articulation integral,_(Metabus_ocellatus,_Fig._65A) articulated,_(Chrysometa_alajuela,_Fig._22A) intersegmental,_(Linyphia_triangularis,_Hormiga,_1994a:_fig._9C);
+{ 40 Paracymbium_distal_part not_swollen,_(Azilia_affinis,_Fig._16D) swollen,_(Diphya_spinifera,_Fig._29C);
+{ 41 Paracymbium_basal_apophyses absent,_(Mesida_argentiopunctata,_Fig._54F) present,_(Tetragnatha_versicolor,_Fig._112D);
+{ 42 Paracymbium_margin_fold absent,_(Metleucauge_eldorado,_Fig._80B) present,_(Nephilengys_malabarensis,_Fig._138D);
+{ 43 Paracymbium_setae absent,_(Micrathena_gracilis,_Fig._138B) present,_(Metellina_segmentata,_Fig._69D);
+{ 44 Paracymbium_setae_distribution only_on_the_tip,_(Orsinome_cf._vethi,_Fig._99F) evenly_distributed,_(Metellina_segmentata,_Fig._69F) only_at_the_base,_(Leucauge_argyra_Fig._49E) only_on_the_margins,_(Chrysometa_alajuela,_Fig._21D);
+{ 45 Subtegulum_position under_the_tegulum,_(Diphya_spinifera,_Fig._29A) mesally_displaced,_(Metleucauge_eldorado,_Figs._80A,_81C);
+{ 46 Tegulum_shape spherical_to_oval,_(Tetragnatha_versicolor,_Fig._112A) disk-shaped,_(Linyphia_triangularis,_Fig._138B);
+{ 47 Tegulum_ectal_surface same_as_mesal,_(Azilia_affinis,_Fig._16A) swollen,_(Leucauge_argyra,_Fig._49F);
+{ 48 Tegulum-subtegulum_size larger_than_subtegulum,_(Mesida_argentiopunctata,_Fig._55B) smaller_than_subtegulum,_(Meta_menardi,_Figs._60A-B);
+{ 49 Tegular_sclerites_insertion apical,_(Tetragnatha_versicolor,_Figs._112A,_D) subterminal,_(Argiope_argentata,_Fig._140A);
+{ 50 Median_apophysis absent,_(Pachygnatha_autumnalis,_Fig._105A) present,_(Araneus_marmoreus,_Fig._138F);
+{ 51 Median_apophysis_and_sperm_duct duct_loop_inside_MA,_(Argyrodes_argyrodes,_Agnarsson,_2004:_figs._91A-B) apart,_(Eidmannella_pallida,_Agnarsson,_2004:_fig._89E);
+{ 52 Conductor absent,_(Azilia_affinis,_Fig._16F) present,_(Tetragnatha_versicolor,_Figs._112C-D);
+{ 53 Conductor_and_embolus coiled_with_embolus,_(Nanometa_sp.,_Fig._90B-C) separated,_(Argiope_argentata,_Figs._140A,_F);
+{ 54 Conductor_tegular_origin center,_(Tetragnatha_versicolor,_Fig._112D) lateral_edges,_(Araneus_marmoreus,_Fig._138D);
+{ 55 Conductor_end straight,_(Tetragnatha_versicolor,_Fig._112F) sigmoid,_(Nephilengys_malabarensis,_Fig._139C);
+{ 56 Conductor_area_covering_the_embolus one_third_or_less,_(Uloborus_glomosus,_Fig._140D) one_side_of_the_embolus,_(Metellina_segmentata,_Fig._70B) all_embolus,_(Mesida_argentiopunctata,_Fig._54A,_55C);
+{ 57 Conductor_path parallel_to_tegular_margin,_(Cyclosa,_conica_Fig._140E) curving_with_tegular_margin,_(Meta_menardi,_Fig._59D) apically_distended,_(Metabus_ocellatus,_Fig._64B) ventrally_distended,_(Nephilengys_malabarensis,_Fig._139C);
+{ 58 Conductor_tegulum_attachment solid,_(Meta_menardi,_Fig._60A) membranous,_(Mesida_argentiopunctata,_Fig._55B);
+{ 59 Conductor_size shorter_than_half_of_the_bulb_longitudinal_axis,_(Zygiella_x-notata,_Fig._139F) longer,_(Orsinome_cf._vethi,_Fig._103E);
+{ 60 Theridiid_tegular_apophysis absent,_(Achaearanea_tepidariorum,_Fig._140E) present,_(Steatoda_americana,_Fig._139D);
+{ 61 Embolus_tegulum_orientation 90_degrees,_(Nephilengys_malabarensis,_Figs._139C,_140C) parallel,_(Tetragnatha_versicolor,_Fig._113A);
+{ 62 Embolus_tegulum_membrane absent,_(Uloborus_glomosus,_Fig._139E) present,_(Orsinome_cf._vethi,_Figs._104D);
+{ 63 Embolic_basal_apophyses absent,_(Tetragnatha_versicolor,_Figs._113A-B) metine_embolic_apophysis,_(Meta_menardi,_Figs._60A-B) araneid_basal_apophyses,_(Araneus_marmoreus,_Fig._138F) linyphiid_embolic_apophyses,_(Linyphia_triangularis,_Fig._139B);
+{ 64 Embolic_apophyses_attachment membranous,_(Allende_nigrohumeralis,_Figs._12A-B) sclerotized,_(Metellina_segmentata,_Figs._70B-C);
+{ 65 Embolic_base_length shorter_than_or_equal_to_2_times_its_width,_(Achaearanea_tepidariorum,_Fig._140E) longer,_(Leucauge_venusta,_Fig._45C);
+{ 66 Embolus_shape Tubular_embolus,_(Metinae_from_Australia,_Figs._67A-C) Flagelliform_embolus,_(Leucauge_venusta,_Figs._45D,_45C) Lamelliform_embolus,_(Azilia_affinis,_Figs._17A,_C);
+{ 67 Embolus_length less_than_half_cymbium_length,_(Azilia_affinis,_Fig._17C) from_0.5_to_1.5_cymbium_length,_(Orsinome_cf._vethi,_Figs._104B-D) greater_than_1.5_cymbium_length,_(Nephila_clavipes,_Hormiga_et_al.,_1995:_figs._10,_8G_and_13H);
+{ 68 Embolus_path less_than_half_a_circumference_of_curvature,_(Araneus_marmoreus,_Levi,_1971:_figs._4-8) more_than_half_but_less_than_a_complete_circumference_(Uloborus_glomosus,_Fig._139E) more_than_a_complete_circumference_(Diphya_spinifera,_Fig._29E);
+{ 69 Embolus_tip cylindrical,_(Nanometa_sp.,_Fig._90C) with_caps_or_hooks,_(Argiope_argentata,_Fig._140F);
+{ 70 Radix absent,_(Leucauge_venusta,_Fig._45C) araneid_radix,_(Argiope_argentata,_Levi,_1968:_fig_42) linyphiid_radix,_(Linyphia_triangularis,_Hormiga,_1994a:_figs._8-9);
+{ 71 Stipes absent,_(Leucauge_venusta,_Fig._45C) present,_(Araneus_marmoreus,_Levi,_1971:_figs._4-8);
+{ 72 Distal_hematodocha absent,_(Meta_menardi,_Figs._60A-B) present,_(Araneus_marmoreus,_Levi,_1971:_figs._4-8);
+{ 73 Terminal_apophysis absent,_(Leucauge_venusta,_Fig._45C) present,_(Araneus_marmoreus,_Levi,_1971:_figs._4-8);
+{ 74 Subterminal_apophysis absent,_(Leucauge_venusta,_Fig._45C) present,_(Araneus_marmoreus,_Levi,_1971:_figs._4-8);
+{ 75 Sperm_reservoir_diameter constant,_(Mesida_argentiopunctata,_Fig._55C) medially_enlarged,_(Glenognatha_foxi,_Fig._40A);
+{ 76 Sperm_duct_path spiral,_(Metellina_segmentata,_Fig._70C) with_switchbacks,_(Meta_menardi,_Fig._60B);
+{ 77 Sperm_turns_or_switchbacks less_than_two_switchbacks,_(Dolichognatha_pentagona,_Fig._35C) more_than_two,_(Tylorida_striata,_Fig._133A-B);
+{ 78 Sperm_duct_embolus_joint enters_the_embolus_through_the_base,_(Orsinome_cf._vethi,_Fig._104A) duct_joins_embolus_via_a_pars_pendula,_(Deliochus_sp.,_Fig._45C);
+{ 79 Female_cheliceral_boss absent,_(Epeirotypus_brevipes,_Fig._131B) present,_(Micrathena_gracilis,_Fig._131D);
+{ 80 Female_cheliceral_boss_cuticle striated,_(Clitaetra_episinoides,_Fig._131A) as_the_paturon,_(Mecynogea_lemniscata,_Fig._131C);
+{ 81 Female_cheliceral_length shorter_than_clypeal_width,_(Gasteracantha_cancriformis,_Fig._130D) same_length,_(Argiope_argentata,_Fig._130A) longer,_(Linyphia_triangularis,_Fig._130C);
+{ 82 Female_chelicerae_width massive,_(Gasteracantha_cancriformis,_Fig._130D) slender,_(Metleucauge_eldorado,_Fig._78G,_C);
+{ 83 Female_cheliceral_denticles absent,_(Diphya_spinifera,_Fig._27F) present,_(Deliochus_sp.,_Fig._130E);
+{ 84 Female_chillum absent,_(Leucauge_venusta) present,_(Nephila_clavipes);
+{ 85 Cheliceral_promargin toothed,_(Diphya_spinifera,_Fig._27F) without_teeth,_(Steatoda_americana,_Fig._129C);
+{ 86 Cephalothorax_supra-cheliceral_lobe absent,_(Epeirotypus_brevipes,_Fig._131B) present,_(Clitaetra_episinoides,_Fig._131A);
+{ 87 Female_ocular_area_height low,_(Leucauge_argyra,_Fig._47A) high,_(Metellina_segmentata,_Fig._67E);
+{ 88 Clypeus_height low,_(Mangora_gibberosa,_Fig._130F) intermediate,_(Metellina_segmentata,_Fig._67E) high,_(Linyphia_triangularis,_Fig._130C);
+{ 89 Separation_between_the_lateral_and_median_eyes less_than_the_PME_area_length,_(Tetragnatha_versicolor,_Fig._110D) more,_(Araneus_marmoreus,_Fig._130A);
+{ 90 PME_separation less_than_the_PME_diameter,_(Cyclosa_conica,_Fig._126C) equal_to_the_PME_diameter,_(Meta_menardi,_Fig._57A) more_than_the_PME_diameter,_(Uloborus_glomosus,_Fig._127D);
+{ 91 PME_canoe-shaped_tapeta absent,_(Azilia_affinis,_Levi,_1980:_figs_299-300) present,_(Argiope_picta,_Scharff_and_Coddington,_1997:_fig._38);
+{ 92 PME_canoe-shaped_tapetum_position broad,_(Metleucauge_eldorado,_Levi,_1980:_fig._139-140) narrow,_(Argiope_picta,_Scharff_and_Coddington,_1997:_fig_38);
+{ 93 PLE_canoe-shaped_tapetum absent,_(Azilia_affinis,_Levi,_1980:_figs_299-300) present,_(Argiope_picta,_Scharff_and_Coddington,_1997:_fig._38);
+{ 94 PLE_size_relative_to_PME smaller_than_PME,_(Araneus_marmoreus) same_as_PME,_(Metellina_segmentata) larger_than_PME,_(Dolichognatha_pentagona);
+{ 95 Female_lateral_eyes separated,_(Diphya_spinifera,_Figs._27A._E) together_on_a_single_tubercle,_(Opadometa_sp.,_Figs._93A-B);
+{ 96 Female_posterior_eye_row straight,_(Orsinome_sarasini,_Figs._97A-B) procurved,_(Metepeira_labyrinthea,_Fig._127B) recurved,_(Argiope_argentata,_Fig._126B);
+{ 97 Female_cephalothorax_seta glabrous,_macrosetae_covering_up_to_10%_of_the_carapace_dorsal_surface_(Nanometa_sp.,_Fig._88B) moderately_hirsute,_macrosetae_covering_more_than_10%_but_less_than_50%_of_its_surface,_(Phonognatha_graeffei,_Fig._125E) hirsute,_macrosetae_covering_more_than_50%_of_its_surface_(Herennia_multipuncta,_Fig._126E);
+{ 98 Female_carapace_shape piriform,_(Argiope_argentata,_Fig._126B) oval,_(Phonognatha_graeffei,_Fig._125E);
+{ 99 Female_anterior_gut_caeca absent,_(Argiope_aurantia) present,_(Tetragnatha_versicolor);
+{ 100 Cephalothorax_fovea absent,_(Glenognatha_foxi,_Figs._37A-B) present,_(Metleucauge_eldorado,_Fig._78A);
+{ 101 Female_fovea_shape transversely_elongate,_(Metellina_segmentata,_Fig._67A) longitudinally_elongate,_(Mangora_gibberosa,_Fig._126F) two_deep_transverse_pits,_(Tetragnatha_versicolor,_Fig._110D) shallow_oval_depression,_(Mecynogea_lemniscata,_Fig._127A) single_deep_hole,_(Micrathena_gracilis,_Fig._127C);
+{ 102 Carapace_pits absent,_(Tylorida_striata,_Fig._115A) present,_(Leucauge_argyra,_Fig._47B);
+{ 103 Labium_edge slightly_swollen,_(Araneus_marmoreus,_Fig._128A) folding_back,_(Tetragnatha_versicolor,_Fig._110F);
+{ 104 Labium_shape pentagonal,_(Gasteracantha_cancriformis,_Fig._128F) trapezoidal,_(Allende_nigrohumeralis,_Fig._9F);
+{ 105 Female_sternum longer_than_wide,_(Meta_menardi,_Fig._53C) as_wide_as_or_wider_than_long,_(Herennia_multipuncta,_Fig._128E);
+{ 106 Female_sternal_surface flat,_(Dolichognatha_pentagona,_Fig._32F) tubercles_I_to_IV_present,_(Orsinome_sarasini,_Fig._97G) tubercles_I_to_III,_(Herennia_multipuncta,_Fig._128E) tubercles_I,_III,_and_IV,_(Orsinome_cf._vethi,_Fig._101B) tubercles_III_and_IV,_(Chrysometa_alajuela,_Fig._19G) tubercles_I_and_II,_(Leucauge_argyra,_Fig._47G) only_tubercle_I,_(Diphya_spinifera,_Fig._27F) tubercle_only_III,_(Zygiella_x-notata,_Fig._128D) only_tubercle_IV,_(Mollemeta_edwardsi,_Fig._83F);
+{ 107 Male_cheliceral_length cheliceral_length_less_the_clypeal_width,_(Argiope_argentata,_Fig._130B) chelicera_same_length_as_the_clypeal_width,_(Azilia_affinis,_Fig._14D) chelicera_longer,_(Metleucauge_eldorado,_Fig._78D);
+{ 108 Female_frontal_sternal_tubercle absent,_(Leucauge_argyra,_Fig._47G) present,_(Meta_menardi,_Fig._57C);
+{ 109 Male_cheliceral_boss absent,_(Leucauge_venusta,_Fig._42H) present,_(Dolichognatha_pentagona,_Fig._32E);
+{ 110 Male_cheliceral_distal_curvature straight,_less_than_two_times_the_clypeus_width,_(Azilia_affinis,_Fig._14D) larger,_(Pachygnatha_autumnalis,_Fig._106C);
+{ 111 Male_cheliceral_macroseta_bases as_in_the_clypeal_area,_(Dolichognatha_pentagona,_Fig._32B) bases_larger,_(Mesida_argentiopunctata,_Fig._52H);
+{ 112 Male_ectal_cheliceral_cuticle as_in_the_anterior_surface,_(Metellina_segmentata,_Fig._67C) rugose,_(Orsinome_sarasini,_Fig._97H);
+{ 113 Male_cheliceral_meso-median_apophysis absent,_(Metellina_segmentata,_Fig._67F) present,_(Tetragnatha_versicolor,_Fig._110C);
+{ 114 Male_cheliceral_distal_apophysis absent,_(Metellina_segmentata,_Fig._67F) present,_(Glenognatha_foxi,_Fig._37D) covered_with_setae,_(Cyrtognatha_espaniola,_Fig._23E);
+{ 115 Male_paturon_basal_tubercle absent,_(Steatoda_americana) present,_(Meta_menardi);
+{ 116 Cheliceral_cuticle_sexual_dimorphism same_texture_in_male_and_females,_(Pachygnatha_autumnalis,_Figs._106D-E) different_(Allende_nigrohumeralis,_Figs._09B-C);
+{ 117 Cheliceral_length_sexual_dimorphism male_chelicerae_smaller,_(Neoscona_domiciliorum,_Figs._129E-F) same_length,_(Metellina_segmentata,_Figs._67C,_67E) male_chelicerae_larger,_(Dolichognatha_pentagona,_Figs._32E,_32G);
+{ 118 Carapace_shape_sexual_dimorphism same_shape_in_male_and_females,_(Leucauge_venusta,_Figs._42A-B) cephalic_region_narrower_in_males,_(Cyclosa_conica,_Figs._126C-D);
+{ 119 Ocular_area_height_sexual_dimorphism same_height_in_male_and_females,_(Micrathena_gracilis,_Figs._127E-F) male_ocular_area_higher,_(Orsinome_cf._vethi,_Figs._101B,_101D) male_ocular_area_lower_(Neoscona_domiciliorum,_Fig._129E-F);
+{ 120 Fovea_shape_sexual_dimorphism same_in_male_and_females,_(Mollemeta_edwardsi,_Figs._83A-B) different,_(Cyclosa_conica,_Figs._126C-D);
+{ 121 Body_size_sexual_dimorphism male_less_than_half_of_the_female_body_length,_(Leucauge_venusta,_Figs._42A-B) male_more_than_half_of_the_female_body_length,_(Herennia_multipuncta,_Fig._2C);
+{ 122 Epigynum absent,_(Tetragnatha_versicolor,_Figs._111A-B) present,_(Opadometa_sp.,_Figs._94A,_95E);
+{ 123 Epigynal_plate_height same_height_as_the_surrounding_cuticle_(Mesida_argentiopunctata,_Figs._53A-B) projected_at_least_one_third_of_the_epigynal_plate_width,_(Meta_menardi,_Figs._58A-B);
+{ 124 Epigynal_plate_atrium absent,_(Metellina_segmentata,_Figs._68A-B) present,_(Metabus_ocellatus,_Figs._63A-B);
+{ 125 Cuticular_area_anterior_to_the_epigynum flat_or_rounded,_(Leucauge_venusta) excavated,_(Meta_menardi);
+{ 126 Scape absent,_(Tylorida_striata,_Fig._116A) present,_(Larinioides_cornutus,_Fig._135A);
+{ 127 Scape_cuticle_texture smooth,_(Gasteracantha_cancriformis,_Fig._133E) wrinkled,_(Araneus_marmoreus,_Fig._133A);
+{ 128 Scape_apex tapering_towards_the_end,_(Cyclosa_conica,_Fig._133C) with_a_pocket,_(Mangora_gibberosa,_Fig._134B);
+{ 129 Genital_openings_shape resembling_pits,_(Deliochus_sp.,_Fig._125G) longitudinal_grooves,_(Meta_menardi,_Fig._58A-B) transverse_groves,_(Epeirotypus_brevipes,_Fig._133G);
+{ 130 Genital_openings_orientation ventral,_(Nanometa_sp.,_Fig._89A) posterior,_(Metellina_segmentata,_Fig._68D) anterior,_(Metepeira_labyrinthea,_Fig._134C);
+{ 131 Copulatory_opening never_plugged,_(Mesida_argentiopunctata,_Figs._53A-B) plugged_with_broken_embolus,_(Argiope_argentata,_Fig._133B) plugged_with_embolus_and_conductor,_(Herennia_multipuncta,_Fig._133F) plugged_with_secretions,_(undescribed_species_form_Australia,_Fig._74A);
+{ 132 Uterus_externus_modified_with_an_enlarged_chamber absent,_(Diphya_spinifera,_Fig._28C) present,_(Cyrtognatha_espaniola,_Fig._24D);
+{ 133 Posterior_sac absent,_(Glenognatha_foxi,_Figs._38C-D) present,_(Cyrtognatha_espaniola,_Fig._24D);
+{ 134 Epigynal_plate apart_from_the_spermatheca,_(Metellina_segmentata,_Fig._68C) enclosing_the_spermatheca,_(Larinioides_cornutus,_Fig._136D);
+{ 135 Epigynal_sclerotized_arch absent,_(Deliochus_sp.,_Fig._125H) present,_(Nephilengys_malabarensis,_Fig._135B);
+{ 136 Spermatheca_sclerotization sclerotized,_(Meta_menardi,_Fig._60C) not_sclerotized,_(Metleucauge_eldorado,_Fig._81D);
+{ 137 Spermathecae_separation separated_more_than_two_spermatheca_diameters_apart_(Metellina_segmentata,_Fig._68C) closer,_(Neoscona_domiciliorum,_Fig._135A);
+{ 138 Spermathecae_chambers one_single_chamber,_(Nephilengys_malabarensis,_Fig._136F) two_chambers,_(Deliochus_sp.,_Fig._125H);
+{ 139 Accessory_gland_distribution isolated,_(Mesida_argentiopunctata,_Fig._53D) grouped,_(Metellina_segmentata,_Fig._68E);
+{ 140 Accessory_gland_base_diameter less_than_1.5_times_the_flagella_diameter,_(Mollemeta_edwardsi,_Fig._84D) thicker,_(Glenognatha_foxi,_Fig._37B);
+{ 141 Accessory_gland_base_shape tubular,_(Metabus_ocellatus,_Fig._63F) acorn-shaped,_(Leucauge_venusta,_Fig._43F);
+{ 142 Accessory_glands_distribution evenly_over_the_spermatheca,_(Deliochus_sp.,_Fig._125H) clustered_near_the_fertilization_duct,_(Nanometa_sp.,_Figs._89B-C) clustered_near_the_copulatory_ducts,_(Glenognatha_foxi,_Fig._38B);
+{ 143 Copulatory_ducts_path path_curved_less_than_half_a_circumference,_(Opadometa_sp.,_Fig._95E) path_curved_more_than_half_a_circumference_but_less_than_a_complete_turn,_Gasteracantha_cancriformis,_Fig._136A) coiled_more_than_one_turn,_(Steatoda_americana,_Fig._136B) L-shaped,_(Larinioides_cornutus,_Fig._136D);
+{ 144 Copulatory_ducts_shape cylindrical,_(Dolichognatha_pentagona,_Fig._35D) modified_as_a_sack,_(Metine_from_Australia,_Fig._76E);
+{ 145 Copulatory_ducts_length less_than_half_the_spermathecae_length,_(Metellina_segmentata,_Fig._70D) more_than_half_the_spermathecae_length_but_less_than_its_total_length_(Tylorida_striata,_Fig._118D) longer_than_the_spermathecae_length,_(Nephilengys_malabarensis,_Fig._136F);
+{ 146 Copulatory_ducts_cuticle well_sclerotized,_(Orsinome_cf._vethi,_Figs._102C-D,_104E) membranous,_(Mesida_argentiopunctata,_Figs._53E-F,_55D);
+{ 147 Female_genitalia entelegyne,_(Metellina_segmentata,_Fig._70D) haplogyne,_(Glenognatha_foxi,_Fig._40B);
+{ 148 Fertilization_ducts_origin posterior,_(Mollemeta_edwardsi,_Fig._86D) anterior,_(Chrysometa_alajuela,_Fig._22D);
+{ 149 Fertilization_ducts_length shorter_than_the_spermatheca_width_(Nephilengys_malabarensis,_Fig._135B) longer,_(Chrysometa_alajuela,_Fig._22D);
+{ 150 Fertilization_ducts_path curved_(Metleucauge_eldorado,_Figs._79C,_81D) coiled_(Tylorida_striata,_Figs._116F,_118D);
+{ 151 Fertilization_duct_and_copulatory_ducts_paths separated_(Herennia_multipuncta,_Figs._134E-F) fertilization_ducts_coiled_around_the_copulatory_ducts,_Opadometa_sp.,_Fig._95E);
+{ 152 Fertilization_duct_path_and_spermathecae separated_(Herennia_multipuncta,_Fig._134F) crossing_over_(Meta_menardi,_Fig._58D-F,_60C);
+{ 153 Female_abdominal_dorsal_surface without_guanine_silver_patches,_(Meta_menardi,_Fig._1D) with_guanine_silver_patches,_(Leucauge_venusta,_Figs._1C-E);
+{ 154 Female_abdominal_spines absent,_(Phonognatha_graeffei,_Fig._2D) present,_(Micrathena_gracilis,_Fig._2E);
+{ 155 Female_micro-sculpture_abdominal_cuticle made_of_flaps,_(Diphya_spinifera,_Fig._26C) made_of_cylinders,_(Pachygnatha_autumnalis,_Fig._105A);
+{ 156 Female_anterior_abdominal_tubercles absent,_(Meta_menardi,_Fig._1D) present,_(Dolichognatha_pentagona,_Fig._35D);
+{ 157 Female_Booklung_surface flat,_(Leucauge_venusta,_Fig._41A) grooved,_(Argiope_argentata,_Fig._123B) covered_with_transverse_lines,_(Micrathena_gracilis,_Fig._123C);
+{ 158 Female_abdominal_tip_color as_the_sub-apical_part,_(Mollemeta_edwardsi) with_paired_white_dots_around_spinnerets,_(Metellina_segmentata) lighter_than_the_sub-apical_part,_(Oncodamus_decipiens);
+{ 159 Female_light_pigmented_pattern_form_on_abdominal_venter one_central_white_area,_(Leucauge_venusta) transverse_lines,_(Argiope_argentata) four_large_spots,_(Nephilengys_malabarensis) numerous_spots,_(Nephila_clavipes) longitudinal_line,_(Clitaetra_episinoides) same_pattern_as_lateral_sides,_(Mangora_gibberosa);
+{ 160 Median_tracheal_morphology cylindrical,_(Neoscona_domiciliorum,_Fig._125A) tracheal_trunk_divided_in_thick_tracheoles,_(Nanometa_sp.,_Fig._87B) tracheal_trunk_divided_in_several_small_tracheoles,_(Glenognatha_foxi,_Figs._36C-D);
+{ 161 Median_trachea_tip_morphology leaf-shaped,_(Nephilengys_malabarensis,_Figs._124E-F) round,_(Leucauge_venusta,_Figs._41C-D) bifurcated,_(Metepeira_labyrinthea,_Fig._125B);
+{ 162 Median_trachea_length shorter_than_half_the_lateral_trachea_length,_(Dolichognatha_pentagona,_Fig._31A) longer,_(Tylorida_striata,_Fig._114C);
+{ 163 Tracheal_atrium_glands absent,_(Mangora_gibberosa,_Fig._125D) present,_(Gasteracantha_cancriformis,_Fig._125C);
+{ 164 Tracheal_glands_abundance less_than_four_on_each_side,_(Mesida_argentiopunctata,_Fig._51C) more,_(undescribed_species_from_Australia,_Fig._71D);
+{ 165 Male_abdominal_scutum absent,_(Leucauge_venusta,_Fig._1E) present,_(Nephila_clavipes,_Kuntner,_2006);
+{ 166 Male_micro-sculpture_abdominal_cuticle made_of_flaps,_(Neoscona_domiciliorum,_Fig._124A) made_of_cylinders,_(Pachygnatha_autumnalis,_Fig._105F);
+{ 167 Male_booklung_stridulatory_groove absent,_(Metellina_segmentata,_Fig._66A) present,_(Nanometa_sp.,_Fig._97A);
+{ 168 Femur_IV_trichobothria absent,_(Metellina_segmentata,_Fig._67H) present,_(Leucauge_venusta,_Fig._42E-F);
+{ 169 Femoral_trichobothria_position dorsal,_(Tylorida_striata,_Fig._115F) ectal,_(Mesida_argentiopunctata,_Fig._52G);
+{ 170 Femur_IV_trichobothria_organization one_irregular_line,_(Tetragnatha_versicolor,_Fig._110E) two_parallel_rows,_(Opadometa_sp.,_Fig._93E);
+{ 171 Femur_IV_trichobothria_distribution less_than_one_third_of_femur,_(Tylorida_striata,_Fig._115F) more_than_one_third_of_femur,_(Opadometa_sp.,_Fig._93F);
+{ 172 Trichobothrium_flagellum_morphology smooth,_(Tetragnatha_versicolor,_Fig._110E) branched,_(Leucauge_venusta,_Fig._42F);
+{ 173 Female_femur_IV_mesal_surface with_setae,_(Cyclosa_conica,_Fig._132D) without_seta,_(Azilia_affinis,_Fig._14H);
+{ 174 Female_IV_tibia without_bristles,_(Meta_menardi,_Fig._1D) with_bristles,_(Nephila_clavipes,_Levi,_1980:_fig_31);
+{ 175 Sustentaculum absent,_(Pachygnatha_autumnalis,_Fig._106G) present,_(Araneus_marmoreus,_Fig._132B);
+{ 176 Sustentaculum_tip straight,_(Nephilengys_malabarensis,_Fig._132F) bent,_(Cyclosa_conica,_Fig._132C);
+{ 177 Tarsus_IV_theridiid_comb absent,_(Larinioides_cornutus,_Fig._132E) present,_(Achaearanea_tepidariorum,_Fig._132A);
+{ 178 Male_tibia_II_macrosetae as_in_tibia_I,_(Cyclosa_conica,_Levi,_1977:_fig._12) thicker,_(Neoscona_domiciliorum,_Berman_and_Levi,_1971:_fig._127);
+{ 179 Male_palpal_patella_macrosetae none,_(Dolichognatha_pentagona,_Fig._32E) one,_(Diphya_spinifera,_Fig._29F) two,_(Larinioides_cornutus,_Fig._129F);
+{ 180 Male_palpal_tibia_length approximately_as_long_as_the_widest_point_of_the_tibia,_(Linyphia_triangularis,_Fig._137B) approximately_two_times_the_greatest_width_of_the_tibia,_(Metellina_segmentata,_Fig._69C) approximately_three_times_the_greatest_width_of_the_tibia_or_more,_(Metleucauge_eldorado,_Fig._78F);
+{ 181 Male_palpal_femur_length less_than_four_times_its_width,_(Zygiella_x-notata,_Fig._129D) longer,_(Metleucauge_eldorado,_Fig._78F);
+{ 182 Male_palpal_trochanter_length less_than_twice_its_width,_(Epeirotypus_brevipes,_Fig._128C) more,_(Tetragnatha_versicolor,_Fig._110F);
+{ 183 Male_I_coxal_hook absent,_(Argiope_argentata,_Fig._129B) present,_Araneus_marmoreus,_Fig._129A);
+{ 184 Male_coxa_IV_mesal_surface smooth,_(Diphya_spinifera_Fig_27F) with_denticles,_(Nanometa_sp.,_Fig._88F);
+{ 185 Web absent,_(Pachygnatha_autumnalis) present,_(Dolichognatha_pentagona,_Fig._3E);
+{ 186 Web_architecture orbicular,_(Mesida_argentiopunctata,_Fig._3A) as_a_sheet,_(Linyphia_sp.,_Fig._6D) gum_foot,_(Achaearanea_sp.,_Fig._5F);
+{ 187 Web_frame two_dimensional,_(Nanometa_sp.,_Fig._4F) three_dimensional,_(Linyphia_sp.,_Fig._6D);
+{ 188 Web_posture legs_I_and_II_extended,_(Cyrtognatha_sp.,_Fig._2A) flexed,_(Herennia_multipuncta,_Fig._2C);
+{ 189 Stabilimentum absent,_(Ocrepeira_sp.,_Fig._7C) present,_Argiope_versicolor_(Seah_and_Li,_2002,_Fig._1);
+{ 190 Orb-web_angle horizontal,_(Leucauge_venusta,_Fig_3F) vertical,_(Mesida_argentiopunctata,_Figs._4A);
+{ 191 Barrier_web absent,_(Orsinome_cf._vethi,_Fig._5C) present,_(Linyphia_sp.,_Fig._6D);
+{ 192 Partial_web_renewal new_web_build_each_day_or_after_damage,_(Chrysometa_sp.) webs_repaired,_(Nephila_clavipes);
+{ 193 Hub closed,_(Wagneriana_sp.,_Fig._7F) open,_(Opadometa_sp.,_Fig._5B);
+{ 194 Hub_bite-out absent,_(Phonognatha_graeffei) present,_(Araneus_marmoreus);
+{ 195 Hub_against_substrate absent,_(Nanometa_sp.,_Fig._4F) present,_(Nephilengys_malabarensis,_Fig._6B);
+{ 196 Hub_loop-no_sticky_spiral_shift gradual,_(Nephilengys_malabarensis) abrupt,_(Metellina_segmentata);
+{ 197 Hub_cup absent,_(Nanometa_sp.,_Fig._4F) present,_(Herennia_multipuncta,_Fig._2C);
+{ 198 Hub_relative_position_on_the_web central,_(Meta_menardi_Fig.,_4C) displaced_up,_(Phonognatha_graeffei_Fig.,_7A) displaced_down,_(Deliochus_sp.,_Kuntner,_2005,_2006);
+{ 199 Radii_construction_attachment radii_singly_attached,_(Araneus_marmoreus) radii_attached_twice,_(Nephila_clavipes);
+{ 200 Radii_construction_removal radii_not_cut_and_reeled,_(Nephila_clavipes) radii_cut_and_reeled,_(Araneus_marmoreus);
+{ 201 Secondary_split_radii absent,_(Nanometa,_Fig._4F) present,_(Phonognatha_graeffei,_Fig._7A);
+{ 202 Tertiary_split_radii absent,_(Nanometa_sp.,_Fig._4F) present,_(Nephilengys_malabarensis,_Fig._6B);
+{ 203 Sticky_spiral_location oL1,_(Argiope_argentata) iL1,_(Leucauge_venusta) oL4,_(Nephila_clavipes);
+{ 204 Non_sticky_spiral removed_from_finished_web,_(Tetragnatha_versicolor) remains_in_finished_web,_(Nephila_clavipes);
+{ 205 Non_sticky_spiral_contacts_1st_sticky_spiral_construction absent,_(Nephilengys_malabarensis) present,_(Leucauge_venusta);
+{ 206 Retreat absent,_(Epeirotypus_brevipes,_Fig._6A) off_web,_(Nephilengys_malabarensis,_Fig._6B) in_web,_(Phonognatha_graeffei,_Fig._7A);
+{ 207 Retreat_form silken_tube,_(Nephilengys_malabarensis,_Fig._6B) utilization_of_a_leaf,_(Phonognatha_graeffei,_Fig._7A);
+{ 208 Wrap-bite_attack the_spider_first_bites_the_prey_then_wraps_it,_(Meta_menardi) the_spider_first_wraps_the_prey_with_silk,_(Tetragnatha_elongata);
+{ 209 Wrap_bite_silk dry,_(Araneus_diadematus) sticky,_(Steatoda_sp);
+{ 210 Body_shake absent,_(Steatoda_sp) present,_(Argiope_argentata);
+{ 211 Bulbus_detachment absent,_(Nephila_clavipes) present,_(Nephilengys_malabarensis);
+{ 212 Cheliceral_clasp absent,_(Araneus_diadematus) present,_(Tetragnatha_sp.,_Fig._1B);
+;
+
+
+ccode  - 0.212;
+
+
+;
