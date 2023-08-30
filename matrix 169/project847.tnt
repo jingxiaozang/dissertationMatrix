@@ -1,0 +1,182 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 16.09.52'
+126 38
+
+&[num]
+Hypochilus_pococki                          0000000000--10000000000--000-000000--0001000-0000110--00-0--00-0--0000000-0101020-0000-010100--0--00111??10000-0001000-01000-0
+Hickmania_troglodytes                       0000000000--10000010200--000-000000--0001000-0100100--00-0--1130--0000000-0101000-0000-010100--101000-0??0-000-000100110100101
+Lycosidae_sp                                0000002030--10010000000--000-01-000--000101112001100--00-0--10-0--0010000-200?000-0000-010110--0--00101??0-000-0000-----001101
+Araneus_sp                                  0000011010--11010000000--000-01-000--0101010-0111000--00-0--00-0--0010000-2001010-0100-010110--0--011010012000-0010-----110111
+Badumna_longinqua                           0001001030--10010000000--000-01-000--010100102000100--00-0--00-0--0010000-2000000-0100-010110--0--00111??0-0013000110101101101
+Dysdera_sp                                  001---0000--00120000110--000-100000--0100100-0000000--00-0--00-0--0000000-2100010-0001000-101000--100-1??0-000-0000-----000020
+Holarchaea_sp                               000000?040--0000-010000--000-01-000--1001000-011?100--10-0--00-0--1000010-2000010-0000-010010--0--010-0??0-010-0000-----011101
+Kukulcania_hibernalis_hw0079                0000000100--10000000000--000-21-000--0001000-2020000--00-0--00-0--0001100-1101010-0000-010100--0--100-01?0-000-000111111000000
+Loxosceles_sp                               001---0000--10000000010--000-000000--0000000-002?210--00-0--0140--0001100-2001010-0000-110100--0--100-0??0-000-0000-----001020
+Mimetus_sp                                  4201011010--10000000000--000-01-000--0001000-01110010000-10000-0000000110-2001010-0000-010110--0--01101??12000-0000-----010111
+Pararchaeidae_sp                            000000101121000040000010-000-01-000--0001000-0111110--01010000-0100000010-200101120000-010110--0--00111??12000-0000-----011121
+Stegodyphus_sp_hwSteg42                     0000003000--00003010000--000-21-000--0101000-0020210--00-0--00-0--0010000-2001010-0000-010110--0--00110??0-000-0001100-0100101
+Uroctea_sp                                  0001000000--10000000000--000-01-000--0101000-0020100--00-0--00-0--0000000-2001010-0000-010110--0--00101000-000-0000-----000121
+Gnaphosidae_sp                              0000021000--10025010000--000-01-00121010000112020100--00-0--00-0--0010000-20110?0-0000-010110--0--000-1??0-00100000-----101101
+Palpimanus_sp_hw0082                        00010010213013100001110--011211-00100012??00-0000210--00-10001000-1000010-200011120101110-000--111?0???110-000-0010-----001121
+Stenochilus_sp_hw0081                       00010011212010100001010--001010000101012?000-0000210--00-0--0100--1000010-200010130101110-200--11000100??0-000-0010-----001121
+Huttonia_sp_hwHutt41                        0001001010--00100000000--001031-0012101?1000-00?0210--00-1110110101000010-2000010-01011110000--11100101??0-000-0010-----001121
+Aotearoa_magna_hw0050                       12000010111101101011?010-0011101000--01?1000-0??0?11001111100100111000010-200?1?0-0?00-111?00--11100101??0-00111010-----??1???
+Mesarchaea_bell_hw0040_20A                  121---10?11101101011001110011101000--01?1000-0??0?11001111100110111000010-20011?0-0?00-1???0??????0010???0-00121010-----??1???
+Mecysmauchenius_segmentatus_hw0098          001---101111011010111010-0011101000--01?1000-00?0211001111100120111000010-2001100-0000-111200--1010010?1?1000111010-----011121
+Chilarchaea_quellon_hw0029                  001---101111011010110010-0011101000--01?1000-00?0111011111100120?-1000010-2001100-0100-11-200--101000-0??1100111010-----001121
+Zearchaea_sp_hw0051                         2200001011110110?0110010-0011101000--01?1000-00?0211001111000100001000010-2001100-0100-111200--11100101??0-10111010-----011121
+NewGenus_lavatenda_hw0003AB                 2101111021010211211110111011111-111211111000-01?02110010-1110101101100010-210000111111010-101100--00101??0-010-0110-----011101
+NewGenus_jeanneli_hw0057                    2101111021010211210110110011111-111211111000-0????110010-1110101101100010-21000?111?11000-101100--00101??0-010-0110-----??1???
+NewGenus_legendrei_hw0014                   2101111021010211210110111011111-1112?1111000-0????110010-1110101101100010-21000?111?11000-101000--00101??0-110-0110-----??1???
+Eriauchenius_workmani_hw0006                1001111021010211211110111011111-111211111000-01?02110010-11101011011000111210000111111000-101100--00101??0-000-0110-----011101
+Eriauchenius_bourgini_hw0061                1101111021010211210110110011111-111211111000-0????110010-1110101101100010-21000?111?11000-101100--00101??0-000-0010-----??1???
+Afrarchaea_pilgrimsrest_hw59Af3             1101111021010211210110111011111-111111111000-0????110010-1110101101100010-21000?111?11000-101110--00101??0-000-0110-----??1???
+Afrarchaea_woodae_hw57Af1                   1101111021010211210110111011111-111101111000-01?02110010-1110101101100010-210000111111000-101110--00101??0-000-0110-----011121
+Austrarchaea_nodosa_hw0074                  1001101021010211210110110011111-111201111000-01?02111110-11101011011000110211100111111000-100--10000101??0-000-0110-----011101
+Austrarchaea_davisae_hwAu066                1001101021010211210110110011111-111211111000-0????111110-11101011011000110211?0?111?11000-100--10000101??0-000-0110-----??1???
+Austrarchaea_mainae_hw0075                  0001101021010211210110110011111-111201111000-0????111110-11101011011000110211?0?111?11000-100--10000101??0-000-0010-----??1???
+Lacunauchenius_speciousus                   000110?0?1?10?????0???10-00??1??1?????1?10????????10--11?110???011??00010-??0?0?0-0?00-???????????0010???0-000-?0?0-----??????
+Archaea_paradoxa                            000110?02101001?21011?11110111??111??11?1000-0????10--10-111?100111100010-??1?0?111?10-10-?0??????00101??0-000-0010-----??????
+Afrarchaea_grimaldii                        000110?02101001???011?11110?????1????11?1000-0????10--10-11??1?010??00010-????0???1?10-???????????0010???0-000-01?0-----??????
+Myrmecarchaea_sp                            000110?011?100????01??11110?????011??11???0???????10--?0-1?????011??00010-????0???1?1?????????????????????????????0-----??????
+Baltarchaea_conica                          100110?0211100??2?011?11110?????01???11???0???????10--10-1???1001???00011?????0???1?1??????0??????????????????????0-----??????
+Patarchaea_muralis                          ?????????1????????????11?1??????0?11??1?10????????10--10-11??1101?1?0001?????????????0-?10????????0??????0-??11???0-----??????
+
+;
+
+
+cnames
+{ 0 Pairs_of_organized_spines_on_carapace absent 2_pair 3_pair 4_pair greater_than_4_pairs,_or_in_triplets;
+{ 1 Spine_next_to_lateral_eyes absent 1_pair 2_pair;
+{ 2 AME Present absent;
+{ 3 AME_size AME_equal_to_or_smaller_than_other_eyes AME_larger_than_other_eyes;
+{ 4 AME_on_tubercle no yes;
+{ 5 Distance_between_median_eyes distance_between_AME_less_than_distance_between_PME distance_between_PME_less_than_distance_between_AME AME-AME_and_PME-PME_equal;
+{ 6 tapetum primitive canoe_shaped grate_shaped absent;
+{ 7 PME_shape round elongated;
+{ 8 Carapace_texture smooth scales tuberculate fingerprint pitted;
+{ 9 Foramen_around_cheliceral_bases absent present;
+{ 10 Foramen_seam_posterior_to_chelicerae rebordered smooth not_completely_fused thickened;
+{ 11 Formation_of_foramen formed_from_intercoxal_sclerites formed_from_carapace;
+{ 12 Fovea absent present;
+{ 13 Posterior_sternum_tubercle absent mound tubercle two_tubercles;
+{ 14 Sternum_border absent present;
+{ 15 Chilum absent divided,_bilateral single,_median;
+{ 16 Shape_of_sclerite_between_cheliceral_bases reduced_rod thick_rod_for_trap_jaw triangular tear-drop_shaped fused_to_cheliceral_bases two_tear-drop_shapes_pointing_toward_each_other;
+{ 17 Additional_sclerite_beneath_cheliceral_base_sclerite absent present;
+{ 18 Clypeal_hood absent present;
+{ 19 Lateral_labral_spurs absent present;
+{ 20 Labium_distal_edge straight_to_rounded narrow_v-shaped_notch shallow_wide_notch;
+{ 21 Posterior_dorsal_edge_of_pedicel_with_two_elongations absent present;
+{ 22 Pars_cephalica_shape unelevated elevated;
+{ 23 Raised_cephalic_area_shape tubular constricted_to_form_"neck";
+{ 24 Posterior_of_raised_cephalic_area flat rounded_out;
+{ 25 Endite_length less_than_half_carapace_length at_least_half_the_carapace_length;
+{ 26 Shape_of_posterior_edge_of_carapace tapering_off flattened;
+{ 27 Dorsal_basal_portion_of_tarsus_I similar_to_rest_of_segment membranous_or_folded_cuticle;
+{ 28 Type_of_tarsus_I_modification large_membraneous_bulge membraneous_ring_around_tarsus cuticular_foldings;
+{ 29 Leg_3_metatarsus_apical_ventral_setae similar_to_other_segment_setae distinct_brush_of_setae spines comb;
+{ 30 Tarsal_organ exposed capsulate;
+{ 31 Shape_of_exposed_tarsal_organ flat_plate with_greatly_elongated_sensilla;
+{ 32 Femur_4_shape straight with_bend;
+{ 33 Dorsal_surface_of_femora smooth with_prominent_bump;
+{ 34 Scopula_on_leg_I absent present;
+{ 35 Scopula_leg_I_position large_prolateral_group prolateral_row one_porlateral_and_one_retrolateral_row;
+{ 36 Scopula_on_leg_2 absent present;
+{ 37 Patella_and_tibia_juncture_on_leg_4 straight bent,_hyperextended;
+{ 38 Relative_length_of_patella_and_tarsus_I patella_shorter_than_tarsus patella_longer_than_or_equal_to_tarsus;
+{ 39 Relative_shape_and_size_of_STC_I_and_4 the_same STC_1_and_4_different_shape STC_1_smaller_than_STC_4;
+{ 40 Tarsal_claws two three;
+{ 41 Claw_tufts absent present;
+{ 42 Trochanter_distal_margin entire deeply_notched;
+{ 43 Tarsal_trichobothria absent present;
+{ 44 Tarsal_trichobothria_rows one_row two_or_more;
+{ 45 Metatarsal_trichobothria one two three_or_more;
+{ 46 Serrate_accessory_claw_setae absent present;
+{ 47 Leg_cuticle_texture fingerprint squamate smooth;
+{ 48 Leg_hair_type plumose serrate;
+{ 49 Trichobothrial_base_hood_and_texture hood_absent smooth_or_same_as_leg_texture with_transverse_ridges;
+{ 50 Reduced_leg_spination no yes;
+{ 51 Chelicerae_anterior_surface smooth with_spine_or_protuberance;
+{ 52 Cheliceral_modification_in_females spine bump;
+{ 53 Cheliceral_modification_in_males same_as_female a_brush_of_setae;
+{ 54 Basal_edge_of_chelicerae parallel splayed_out;
+{ 55 Cheliceral_trigger_hairs absent present;
+{ 56 Trigger_hair_distribution scattered one_evenly_spaced_row;
+{ 57 Peg_teeth absent present;
+{ 58 Peg_teeth_distribution limited_to_promargin some_on_retromargin;
+{ 59 Two_peg_teeth_in_first_row absent present;
+{ 60 Thickened_setae_at_fang_base absent present;
+{ 61 Cheliceral_stridulatory_striae absent present;
+{ 62 Texture_of_stridulatory_striae uniform_and_densly_spaced_fingerprint_ridges widely_spaced_uniform_ridges widely_spaced_heterogeneous_ridges rounded_bumps uneven_small_ridges;
+{ 63 Shape_of_chelicerae_distad_of_stridulatory_ridges straight curved_toward_posterior;
+{ 64 Peg_teeth_shape straight,_tapering,_smooth straight,_blunt,_textured curved,_tapering,_textured;
+{ 65 Promarginal_row_of_peg_teeth uniform_lengths with_different_lengths;
+{ 66 Cheliceral_gland_mound absent present;
+{ 67 Cuticle_adjacent_to_cheliceral_gland_mound flat with_deep_groove;
+{ 68 Cheliceral_boss absent present;
+{ 69 Cheliceral_chela absent present;
+{ 70 Cheliceral_basal_fusion free fused;
+{ 71 Cheliceral_diastema absent present;
+{ 72 Abdomen_shape smoothly_curved with_tubercles;
+{ 73 Abdomen_tubercles_placement pairs singular;
+{ 74 Posterior_respiratory_system pair_of_normal_booklungs pair_of_reduced_booklungs pair_of_tracheae_or_modifications_thereof;
+{ 75 Posterior_spiracle single double;
+{ 76 Dorsal_abdominal_scutum_on_male absent present;
+{ 77 Epiandrous_spigots absent present;
+{ 78 Posterior_spinnerets medians_developed,_laterals_as_large_as_anterior_laterals very_reduced;
+{ 79 Spigot_base_texture fingerprint_texture smooth scaly;
+{ 80 Sclerotization_around_anterior_of_abdomen absent present;
+{ 81 Modification_of_sclerotization_around_anterior_of_abdomen_in_females unsclerotized dorsal_and_ventral_sclerites_separate dorsal_and_ventral_sclerites_fused only_ventral_plate_present,_dorsal_plate_absent;
+{ 82 Abdomen_with_folds absent present;
+{ 83 Abdomen_cuticle_highly_wrinkled_with_critically_point_dried absent present;
+{ 84 Spinnerets_projected_on_conical_tubercle absent present;
+{ 85 Brush_of_hairs_on_female_palpal_tarsus_(also_male_cymbium) absent present;
+{ 86 Placement_of_palpal_brush_on_tarsus on_prolateral_side on_retrolateral_side;
+{ 87 Picks_on_palpal_femur absent at_least_one_cusp_present;
+{ 88 Prolateral_spines_on_female_palp_tarsus absent present thick_hairs;
+{ 89 Placement_of_female_palp_spines scattered one_row;
+{ 90 Female_palp_claw absent present very_reduced;
+{ 91 Female_genitalia haplogyne entelegyne;
+{ 92 Female_sclerotized_genital_plate absent present;
+{ 93 FSGP_with_wings absent present;
+{ 94 FSGP_with_keel absent present;
+{ 95 Membraneous_sacs_(receptaculae)_originating_from_bursa absent present;
+{ 96 Distribution_of_membraneous_sacs dispersed_evenly_over_bursa clustered_and_originating_from_one_or_two_openings_on_bursa;
+{ 97 Membraneous_sac_shape large_sacs_sessile,_not_on_stalks sacs_on_long_stalks;
+{ 98 Fusion_of_tegulum_and_subtegulum absent present;
+{ 99 Palp_rotated,_cymbium_prolateral,_bulb_retrolateral absent present;
+{ 100 Conductor absent present;
+{ 101 Conductor_shape conductor_separate_from_embolus conductor_embraces_embolus;
+{ 102 Median_apophysis absent present;
+{ 103 Palpal_tarsus_M30_muscle absent present;
+{ 104 Palpal_tarsus_M29_muscle absent present;
+{ 105 Paracymbium absent present;
+{ 106 Shape_of_paracymbium protrusion_with_thick_spine_or_setae cluster_of_long_setae_not_on_protrusion long_curved_apophysis;
+{ 107 Retrolateral_apophysis_on_femur absent present;
+{ 108 Retrolateral_apophysis_on_patella absent present;
+{ 109 Retrolateral_apophysis_on_tibia_(RTA) absent present;
+{ 110 Shape_of_RTA protrusion_at_distal_edge protrusion_with_thick_seta many_thick_setae_not_on_protrusion complex,_2_to_4_processes;
+{ 111 Tegulum entire,_smooth_surface with_sulcus;
+{ 112 Shape_of_bulb_apex apex_of_bulp_without_a_dark_ridged_spiral with_a_dark_ridged_spiral_forming_a_conductor;
+{ 113 Palpal_bulb_expands_distally no yes;
+{ 114 Cribellum absent present;
+{ 115 Cribellum_organization entire divided;
+{ 116 Cribellate_spigots strobilate claviform;
+{ 117 PMS_paracribellar_gland_spigots_in_females absent present;
+{ 118 PMS_paracribellar_gland_spigots_in_male absent present;
+{ 119 PLS_paracribellar_gland_spigots_in_females absent present;
+{ 120 PLS_modified_spigot absent present;
+{ 121 ALS_MAP_field_separated_by_furrow absent present;
+{ 122 ALS_segment_number three two;
+{ 123 Tartipores absent present;
+{ 124 PMS_mAP_postion median_to_anterior posterior absent;
+{ 125 Cylindrical_gland_spigots absent present;
+;
+
+
+ccode  - 0.125;
+
+
+;

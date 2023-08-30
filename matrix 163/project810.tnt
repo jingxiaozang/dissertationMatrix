@@ -1,0 +1,74 @@
+nstates num 9;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 16.04.48'
+40 16
+
+&[num]
+Agnostus_pisiformis                  0010?0000??10211208112020113201131011311
+Bredocaris_admirabilis               0021?21112110333305333041225402214022143
+Cambropachycope_clarksoni            001011000101032230322303011430115?0115?1
+Eoredlichia_intermedia               001000000??01011101111010111101111011111
+Euphausia_superba                    0041021112112234408354081335713317033132
+Goticaris_longispinosa               001011000101031230322303011430115?0115?1
+Henningsmoenicaris_scutula           0020000001010112316123160122401224012261
+Hesslandona_angustata                122122111??12044306343060224502245022451
+Klausmuelleria_salopensis            00?122111??1203?3053?30502?450????0????1
+Kunmingella_douvillei                1120?0000??0021110311103011130111301113?
+Martinssonia_elongata                00202000010102223032230302243022430221?1
+Musacaris_gerdgeyeri                 00?020000101022230?2230?0224?0????0????1
+Oelandocaris_oelandica               0020200001010111314123140112501125011251
+Sandtorpia_vestrogothiensis          002020000101011?3151?31501?2?0??????????
+Shankouia_zhenghei                   0000000000000000000000000000000000000000
+Vestrogothia_spinata                 112122111??12044306343060224502245022451
+
+;
+
+
+cnames
+{ 0 Shield_type univalved bivalved;
+{ 1 Shield_dorsal_hinge_structure not_developed a_dorsal_furrow an_interdorsum;
+{ 2 In_addition_to_the_ocular_segment,_the_cephalon_(or_cephalothorax)_incorporates: 1_segment 4_segments 5_segments 6_to_12_segments 13_segments;
+{ 3 Hypostome/labrum_complex Hypostome_only Labrum_developed;
+{ 4 Compound_eyes_type two_lateral_compound_eyes a_single_compound_eye_inserted_anterior_to_the_head compound_eyes_secondarily_lost;
+{ 5 Position_of_the_mouth_opening on_the_rear_of_the_hypostome ventrally_on_the_hypostome covered_by_the_labrum;
+{ 6 Anterior_sternites_fused_to_form_a_single_sternum no yes;
+{ 7 Paragnath_on_the_mandibular_sternite not_developed developed;
+{ 8 Fine_hairs_on_the_structures_around_the_mouth_opening no yes;
+{ 9 Tail_end conical_or_spine-like_pieces_with_lateral_flaps spinose_or_plated_non-metameric_piece,_possibly_with_marginal_setae telson_with_articulated_uropods_forming_a_tail_fan;
+{ 10 Anus_position sub-terminal terminal;
+{ 11 The_anterior_(at_least_three)_pairs_of_appendages non-specialized,_identical_in_size_and_basic_design_as_the_following_pairs different_a_little,_either_in_size_of_the_exopods_and_endopods_or_in_basic_design_as_in_crustaceans;
+{ 12 The_antennulae_(first_antennae) strong_with_only_a_few_annuli long_and_thin,_with_more_annuli much_reduced_in_size,_setation_and_segmentation;
+{ 13 Antennulae:_setae_positioned without_setae mainly_anteriorly mainly_medially mainly_posteriorly;
+{ 14 The_second_appendages_(antennae):_limb_stem_in_first_stage a_multi-segmented_main_stem a_basipod a_proximal_endite_+_a_basipod a_coxa_+_a_basipod fusion_product_of_coxa_and_basipod;
+{ 15 Antennal_limb_stem_in_later_stages a_multi-segmented_main_stem a_basipod a_proximal_endite_+_a_basipod a_coxa_+_a_basipod fusion_product_of_coxa_and_basipod;
+{ 16 Antennal_exopod_design flap-shaped_without_setae paddle-shaped_with_setae_on_the_outer_margin multi-annulated_with_setae_on_the_outer_and_distal_margin multi-annulated_with_setae_on_the_inner_margin an_undivided,_flat_exopod,_the_scaphocerite;
+{ 17 In_earlier_larval_stages,_antennal_exopod_with_three_setae_on_the_terminal_article_and_two_on_the_sub-terminal_article no yes;
+{ 18 Antennae:_segments_of_endopod >7 7 6 5 4 3 2 1 State_8;
+{ 19 The_third_appendages_(mandibles):_limb_stem_in_first_stage a_multi-segmented_main_stem a_basipod a_proximal_endite_+_a_basipod a_coxa_+_a_basipod fusion_product_of_coxa_and_basipod basipod_secondarily_lost,_a_coxa_only;
+{ 20 Mandibles:_limb_stem_in_later_stages a_multi-segmented_main_stem a_basipod a_proximal_endite_+_a_basipod a_coxa_+_a_basipod fusion_product_of_coxa_and_basipod basipod_secondarily_lost,_a_coxa_only;
+{ 21 Mandibular_exopod_design flap-shaped_without_setae paddle-shaped_with_setae_on_the_outer_margin multi-annulated_with_setae_on_the_outer_and_distal_margin multi-annulated_with_setae_on_the_inner_margin exopod_absent;
+{ 22 In_earlier_larval_stages,_mandibular_exopod_with_three_setae_on_the_terminal_article_and_two_on_the_sub-terminal_article no yes;
+{ 23 Mandibles:_segments_of_endopod >7 7 6 5 4 3 2 1 State_8;
+{ 24 The_fourth_appendages_specialized_as_maxillulae no yes;
+{ 25 Maxillulae:_limb_stem_in_first_stage a_multi-segmented_main_stem a_basipod a_proximal_endite_+_a_basipod a_coxa_+_a_basipod fusion_product_of_coxa_and_basipod;
+{ 26 Maxillulae:_limb_stem_in_later_stages a_multi-segmented_main_stem a_basipod a_proximal_endite_+_a_basipod a_coxa_+_a_basipod fusion_product_of_coxa_and_basipod;
+{ 27 Maxillular_exopod_design paddle-shaped,_one_article,_without_setae paddle-shaped,_one_article,_with_setae_on_the_outer_margin paddle-shaped,_two_articles,_basal_part_joining_to_the_endopod_portion,_with_setae_on_the_outer_margin multi-annulated_with_setae_on_the_outer_and_distal_margin multi-annulated_with_setae_on_the_inner_margin exopod_largely_reduced_or_totally_absent_(uniramous);
+{ 28 Maxillulae:_segments_of_endopod >7 7 6 5 4 3 2 1 State_8;
+{ 29 The_fifth_appendages_specialized_as_maxillae no yes;
+{ 30 Maxillae:_limb_stem_in_first_stage a_multi-segmented_main_stem a_basipod a_proximal_endite_+_a_basipod a_coxa_+_a_basipod fusion_product_of_coxa_and_basipod;
+{ 31 Maxillae:_limb_stem_in_later_stages a_multi-segmented_main_stem a_basipod a_proximal_endite_+_a_basipod a_coxa_+_a_basipod fusion_product_of_coxa_and_basipod;
+{ 32 Maxillar_exopod_design paddle-shaped,_one_article,_without_setae paddle-shaped,_one_article,_with_setae_on_the_outer_margin paddle-shaped,_two_articles,_basal_part_joining_to_the_endopod_portion,_with_setae_on_the_outer_margin multi-annulated_with_setae_on_the_outer_and_distal_margin multi-annulated_with_setae_on_the_inner_margin exopod_largely_reduced_or_totally_absent_(uniramous);
+{ 33 Maxillae:_segments_of_endopod >7 7 6 5 4 3 2 1 State_8;
+{ 34 The_sixth_appendages_(first_thoracopods)_specialized_as_a_maxilliped no yes;
+{ 35 First_thoracopods:_limb_stem_in_first_stage a_multi-segmented_main_stem a_basipod a_proximal_endite_+_a_basipod a_coxa_+_a_basipod fusion_product_of_coxa_and_basipod;
+{ 36 First_thoracopods:_limb_stem_in_later_stages a_multi-segmented_main_stem a_basipod a_proximal_endite_+_a_basipod a_coxa_+_a_basipod fusion_product_of_coxa_and_basipod;
+{ 37 First_thoracopods:_exopod_design paddle-shaped,_one_article,_without_setae paddle-shaped,_one_article,_with_setae_on_the_outer_margin paddle-shaped,_two_articles,_basal_part_joining_to_the_endopod_portion,_with_setae_on_the_outer_margin multi-annulated_with_setae_on_the_outer_and_distal_margin multi-annulated_with_setae_on_the_inner_margin exopod_largely_reduced_or_totally_absent_(uniramous);
+{ 38 First_thoracopods:_segments_of_endopod >7 7 6 5 4 3 2 1 State_8;
+{ 39 First_larval_type a_possibly_very_primitive_larva_(longer_compared___with_head-larva) head-larva nauplius a_more_advanced_type;
+;
+
+
+ccode  - 0.39;
+
+
+;

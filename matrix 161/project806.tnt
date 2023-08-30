@@ -1,0 +1,158 @@
+nstates num 8;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 16.03.44'
+82 58
+
+&[num]
+Fortiforceps                  0201400010---0-1010100000-00400-0-02000011010000000000000-00001---100000000-0?-00-
+Haikuocaris                   0101400010---0-2010100000-00400-0-01000011010000000000000-00001---100010-00-00-00-
+Aglaspella                    ?????????????????11-00000-10?00-1011011111?1000000000010021010?---101100-10-00-000
+Aglaspis                      1--04??11????????11-00000-10000-111011111101000000000011021010?---101100-10-00-000
+Australaglaspis               ????????1????????11-00000-?0000-10110?0111?10000000000?0?21010?---100101-10-0?-001
+Beckwithia                    ?????????????????11-00000-10?00-1110001111?10000000?00001??010?---100100-?0-00-00?
+Buenaspis                     ????????????????????00000-10?00-0-02000011?10000100000000-00011?000------00-00010-
+Burgessia                     1--0400010---0-000----000-10400-0-02000001000020000000000-00001---100100-00-0--00-
+Cheloniellon                  1--0511010---0-1111-00000-10100-0-0200101101000001001100001110?---120000-01110-01-
+Chlupacaris                   ?????????????????11-?0000-10100-1??2?0?111???0??000000?00?1??0?---100000-10-00-001
+Chraspedops                   ?????????????????11-00000-10?00-1011011111?100000000001002?010?---100101-?0-00-00?
+Cindarella                    1--0500011001111010000000-10100-0-01000011110021000100000-001110010------00-00000-
+Cyclopites                    ?????????????????11-00000-10?00-1002000111?1000000000010021010?---100100-10-00-00?
+Dicranocaris                  ?????????????????????0000-?0?00-0-01000011?10000000000000211001---110010100-0?-00-
+Duslia                        1????????????????????0000-?0?00-0-12000011?1000001001100001110?---120000-0110?-01-
+Emeraldella                   1--041001100110110----000-10000-0-01000011010000000000100011101---100100-01000-00-
+Eoredlichia                   1--0400111000101111-10000-1030111010000111020000000001000-001110000------00-00011-
+Kwanyinaspis                  1--0?00?11000101110001000-10000-1011000011020000010000000??010?---100000-?0-00-?0?
+Eurypterida                   0201611004---0-0111-00010-1040101001001011010000000000000311001---100100-00-00-00-
+Flobertia                     ????????1????????11-00000-10000-10?2001111?100000?0000100??0?0????????????0?00?00?
+Glypharthrus_simplex          ?????????????????11-00000-10?00-1000111111?1000000000011021010?---101100-10-0--001
+Alalcomaneus                  0112400010---0-2110100000-00400-0-01000011010000000000000-00001---110010000-00-00-
+Helmetia                      ????4????????????1000?000-11210-0-01000011020000011000000-?00110110------00-000?0-
+Jianfengia                    0001400010---0-1010100000-?0400-0-01000011010000000000000-00001---100000-00-0?-00-
+Kodymirus                     ?????????????????11-00000-10000-0-11001011?10000000000001-?010?---101100-00-00-00-
+Kuamaia                       1--0?00?11011100110001000-11210-0-01000011020000011001000-000110110------00-000?0-
+Leanchoilia                   0112400010---0-2110?00000-00400-0-01000011010000000000000-00101---100010-00-0--00-
+Liwia                         1--0?00?11???1?????????00-?0?0??0-01000011010010100000000-?00111010------00-0?100-
+Marrella                      1--021-012---0--00----000-00?00-0-030000010000200000-0000-00000---100000-00-0--00-
+Mimetaster                    1--0311012---0--010000000-00100-0-030000010000200000-0000-00000---100000-00-0--00-
+Misszhouia                    1--0500111101111110000000-10110-0-020000100-2000100000000-00-110000------00-00?00-
+Naraoia_compacta              1--0500111101111110000000-10100-0-020000100-2000100000000-00-110000------00-00?00-
+Naraoia_spinosa               1--0500111000111110000000-10100-0-000000100-2000100000000-00-110010------00-00?00-
+Neostrabops                   ?????????????????11-00000-?0?00-0-02000011?10000010000000?0?10??????????????1?-00?
+Nettapezoura                  ?????????0---0?1?????0000-?0?00-0-01000011?10000000000000111001---110000100-0?-00-
+Olenoides                     1--0400111001101111-10000-1030111010001111020000000001000-000110010------00-00-11-
+Pseudoarthron                 ?????????????????????000???0??0-0-02000011?10000010011000?0?00?????????????????01?
+Pycnogonida                   020171100----0-0011-00010-00400-0-0-0000010000000000-0000?11100---100000-00----00-
+Quasimodaspis                 ?????????????????11-00000-10?00-1011000111?10000000001?00??010?---100000-?0-00-?0?
+Retifacies                    1--0400?13---101110000000-10000-0-00000011010000000000000-00111001100100-00-00000-
+Saperion                      1--0?0??11011100010001000-11210-0-0-0000100-11--001000000-00-110000------00-00?00-
+Sidneyia                      1--011-013??-100110000000-1000??0-01000011010000000000000211101---110000001002-00-
+Sinoburius                    1--0500011???10??10001100-10100-0-00000011010021000100000-000110110------00-00000-
+Skioldia                      1--0?00?11???10??10001000-11210-0-0-000011?-11--001000000-00-110000------00-00?00-
+Soomaspis                     ?????????????????????0000-10?00-0-02000011?10010100000000-000111000------00-01110-
+Tariccoia                     ?????????????????????0000-10?00-0-02000011?10010100000000-000111000------00-01100-
+Tegopelte                     1--0?00?1???????0100??000-11210-0-0-000010?-?1--00?000000-00-110000------00-00?00-
+Tremaglaspis                  ?????????????????0--?0000-10100-0-02000111?1000000000110021100?---10?000-10-00-001
+Triopus                       ?????????????????0--00000-?0?00-0-12000011?1000001001100001110?---120000-0??1?-01-
+Uarthrus                      ?????????????????11-00000-10?00-???1001111?10000000000?0021010?---100100-10-00-000
+Weinbergina                   0201611004---0-0111-00010-1040101001000011010000000001000211001---100000-00-00-01-
+Xandarella                    1--0700011101111110000100-10100-0-01000011110021000100000-001010?10------00-00000-
+Yohoia                        0101400010---0-1010100000-00400-0-01000011010000000000000211001---100000-00-00-00-
+Rebachiella                   1--0500012---0--110100001100400-0-01000001000020000000000211000---13000--00-0--00-
+Martinssonia                  1--0500012---0--10--00000000400-0-01000001000020000000000311000---13000--00-0--00-
+Nebalia                       1--0500012---0--110100001100400-0-01000001000020000000000211000---13000--00-0--00-
+Chinese_arthropod             ?????????????????11-00000-10?00-1010011111?200???00?0110????10?---10?000-?0-00-10?
+Squamacula                    1--010-010---0-110--00000-10000-0-01000011010000000000000-001110000------00-02000-
+
+;
+
+
+cnames
+{ 0 Nature_of_first_cephalic_appendage raptorial_appendage antennae;
+{ 1 Number_of_spine-bearing_podomeres_in_raptorial_appendage four three two;
+{ 2 Distal_spines_of_raptorial_appendage_terminating_in_annulated_flagellae absent present;
+{ 3 Length_of_distal_spines_on_terminal_podomeres_of_first_appendage absent_or_shorter_than_podomere subequal_to_length_of_podomeres longer_than_entire_podomere_series;
+{ 4 Number_of_appendage_bearing_post-ocular_segments_incorporated_into_head/prosoma none one two three four five six seven;
+{ 5 Nature_of_second_(first_post-antennal/raptorial)_cephalic_appendage biramous_walking_leg_or_antennae uniramous_walking_leg;
+{ 6 Nature_of_third_(second_post-antennal/raptorial)_cephalic_appendage biramous_walking_leg uniramous_walking_leg;
+{ 7 Appendages_of_first_thoracic_somite_underneath_the_cephalo-thoracic_articulation absent present;
+{ 8 Trunk_endopods absent_or_reduced present;
+{ 9 Exopod_structure simple_oval_flap exopod_differentiated_into_proximal_and_distal_lobes,_the_proximal_lobe_bearing_lamellar_setae,_the_distal_lobe_bearing_short_setae numerous_podomeres,_each_bearing_a_single_seta undivided_exopod_with_lamellar_setae book_gills;
+{ 10 Proximal_lobe_of_exopod flattened_lobe slender_shaft;
+{ 11 Distal_lobe_of_exopod small_to_moderate_sized_flap large,_teardrop_shaped_lobe_with_long_attachment;
+{ 12 Divided_exopod_with_septum absent present;
+{ 13 Imbricate_exopod_lamellae absent present;
+{ 14 Lamellae thick,_flat_lamellae delicate,_comb-like_lamellae;
+{ 15 Non-overlapping_marginal_setae absent small_setae long_spines_or_filaments;
+{ 16 Gnathobasic_limbs absent present;
+{ 17 Lateral_eyes absent present;
+{ 18 Nature_of_lateral_eyes staked sessile;
+{ 19 Ventral_eyes_in_front_of_head absent present;
+{ 20 Visual_surface_with_calcified_lenses,_bounded_with_circumocular_suture absent present;
+{ 21 Dorsal_bulge_in_exoskeleton_accommodating_drop-shaped_ventral_eyes absent present;
+{ 22 Eye_slits absent present;
+{ 23 Dorsal_median_eyes absent present;
+{ 24 Free_head_shield absent present;
+{ 25 Bivalved_head_shield absent present;
+{ 26 Expanded_cephalic_doublure absent present;
+{ 27 Anteromedian_margin_of_cephalon_notched,_accommodating_strongly_sclerotised_plate absent present;
+{ 28 Hypostomal_sclerite median_extension_of_the_doublure,_with_no_suture natant,_sclerite_not_in_contact_with_doublure with_narrow_overlap_with_pre-hypostomal_sclerite narrow_attachment_to_doublure_at_hypostomal_suture absent;
+{ 29 Arcuate_anterior_sclerite absent present;
+{ 30 Visible_ecdysial_dorsal_sutures absent present;
+{ 31 Position_of_ecdysial_sutures marginal dorsal;
+{ 32 Elevated_marginal_rim absent present;
+{ 33 Marginal_rim_ornamented absent present;
+{ 34 Glabellar_furrows_or_lobes absent present;
+{ 35 Carapace_outline genal_spines acute_genal_angles rounded_genal_angles lateral_spine-like_extensions_of_the_carapace;
+{ 36 Posterior_cephalic_band absent present;
+{ 37 Cephalic_furrows absent present;
+{ 38 Cuticle_sculpture absent present;
+{ 39 Mineralized_cuticle absent present;
+{ 40 Trunk_tergites_with_expanded_lateral_pleurae_covering_appendages_dorsally absent present;
+{ 41 Free_thoracic_tergites absent present;
+{ 42 Decoupling_of_thoracic_tergites_and_segments absent present;
+{ 43 Tergite_articulations tergites_non-overlapping extensive_overlap_of_tergites edge-to-edge_pleural_articulations;
+{ 44 Dorsal_trunk_effacement trunk_with_defined_(separate_or_fused)_tergite_boundaries trunk_tergite_boundaries_effaced_laterally trunk_tergite_boundaries_completely_effaced;
+{ 45 Cephalic_articulation_fused absent present;
+{ 46 Head_shield_overlap_of_thoracic_tergites overlap_absent_or_identical_to_overlap_between_thoracic_segments head_shield_covers_first_thoracic_tergite_only head_shield_covers_multiple_anterior_trunk_tergites;
+{ 47 Head_shield_articulates_with_reduced_anteriro_thoracic_tergite absent present;
+{ 48 Trunk_narrowed_anteriorly_relative_to_head_shield,_widest_posteriorly absent present;
+{ 49 Boundaries_of_anterior_trunk_segments_reflexed_anterolaterally absent,_boundaries_transverse_or_reflexed_posterolaterally present;
+{ 50 Joints_between_posterior_tergites_functional,_anterior_ones_variably_fusd absent present;
+{ 51 Posterior_tergite_bearing_axial_spine absent present;
+{ 52 Radial_arrangement_of_pleurae absent present;
+{ 53 Raised_axial_region absent present;
+{ 54 Anterior_tergal_processes absent present;
+{ 55 Tuberculation_of_posterior_margin_of_tergites absent present;
+{ 56 Axial_spines absent present;
+{ 57 Length_of_postabdomen 1_segment 2_segments 3_segments 5_segments;
+{ 58 Postabdomen_expressed_as_posterior_segments_lacking_walking_legs absent present;
+{ 59 Postabdomen_expressed_as_posterior_differentiated_segments absent present;
+{ 60 Posterior_tergites_strongly_curved_in_dorsal_aspect_compared_to_anterior_tergites absent present;
+{ 61 Pygidium absent present;
+{ 62 Position_of_the_anus terminal,_within_telson at_base_of_telson;
+{ 63 Pygidium_with_median_keel absent present;
+{ 64 Pygidium_with_broad-based_median_spine absent present;
+{ 65 Pygidium_with_lateral_spines absent present;
+{ 66 Tailspine absent present;
+{ 67 Tailspine_shape spinose paddle-shapped cap-like State_3;
+{ 68 Anterior_expansion_of_the_tailspine absent present;
+{ 69 Length_of_tailspine shorter_than_half_the_length_of_the_trunk longer_than_half_the_length_of_the_trunk;
+{ 70 Spines_on_tailspine absent present;
+{ 71 Tailspine_with_median_cleft absent present;
+{ 72 Paddle_with_projections absent present;
+{ 73 Postventral_plates absent present;
+{ 74 Paired_modified_appendages_attached_to_a_differentiated_pre-terminal_segment absent present;
+{ 75 Nature_of_pre-terminal_appendages uropods furca;
+{ 76 Reduced_carapace absent present;
+{ 77 Width_of_doublure narrow_to_moderately_wide wide covers_entire_ventral_side_of_cephalon;
+{ 78 Relative_length_of_thorax longer_than_pygidium shorter_than_pygidium;
+{ 79 Articulating_half_rings absent present;
+{ 80 Axial_furrows absent present;
+{ 81 Postventral_plate_medial_attachment narrow_attachment_by_central_portion wide_longitudinal_attachment;
+;
+
+
+ccode  - 0.81;
+
+
+;

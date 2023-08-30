@@ -1,0 +1,179 @@
+nstates num 17;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 16.05.24'
+97 64
+
+&[num]
+Acerentomon              10000000000000000000010000?050000??02002A111100100210????00000000000001111011111211101011??101010
+Aglaspis                 10110001111010101000?100110040310?0100006011100100200????0100000021001??0?01????????0????????????
+Agnostus                 11010000111110000000111000?0400010210000101010010150101000110000010000??0?01????????1?????????11?
+Alalcomenaeus            1001000101000000000011021100406110010000601010010170110100100000012010??0?01????????0????????????
+Alima                    1001200101000000000111121110510111111000A110100100200????1000000110000110101101101110101101111011
+Androctonus              1001000000000010000000?1100060210?41000091111000???00????0000000021000110101101111111101100111110
+Anomalocaris             1001000000000000000000?0110040710000000060110000????100100000001000100??0?00?????????????????????
+Argulus                  100100000000000000001112111050010?111000211110010000101000000000000000110101101101110101101111011
+Artemia                  100000000000000000001102110050110?111000E11010010000100101100001000000110101101101111101101111011
+Aysheaia                 0000000000000000001000?000?010010?0000004011000111??0????0000001000000??0?00????????0????????????
+Baltoeurypterus          110100010110001000001111110060210?01000091111000????0????0000000021000??0?01????????0????????????
+Branchiocaris            10020110000000000000011000?020010?300000G0101110????101100000000000000??0?11????????0????????????
+Bredocaris               1001000000000000000011001110500110011000411010010120100000110001000000??0?11????????????????????1
+Burgessia                1001000000100000000010?000?0400110000000301110010040100100000000021000??0?01????????1????????????
+Calanus                  10010000000000000000111200?0500110111000611010010010101000000001000000110101101101110101101111011
+Campodea                 10000000000000000000010000?050000??020029111100100210????00000010000001111011111211101011??101010
+Canadaspis               100201000000000000001110111050110?111000811010010180100100100000000000??0?11????????0????????????
+Cheloniellon             10110001110000001000?110110060010?0100006011100100301110000000000?0000??0?01????????0????????????
+Corynothrix              100000000000000000000103110050000??020024110100100210????0000001000000110101111121110101111101010
+Cypridina                100200100100000000001110111050011011100000101000????0????0000001000000110111101101110101101111011
+Derocheilocaris          10010000000000000000111300?05001100110006110100100000????0000001000000110101101101110101101111011
+Echiniscus               1000000000000000000000?0100010A10?0000000011000110??0????00000000100001100010?1001010000000001010
+Emeraldella              10010001010000001000110000?060010?010000A111100101401101101000000?1001??0?01????????0????????????
+Galathea                 1001100101000000000111121110510111111000A111100100300????1000000112000110101101101111101101111011
+Habelia                  10110001101000000000???000?03001100?00006010100101?0110100?00000011010??0?01????????0????????????
+Julus                    100000010000000000000100100140000??0212?G011110100400????0001?10000000111101111121110111101101010
+Kalbarria                11000001000010000000?100110030000????0000111110100?00????0000000021000????01????????0????????????
+Kerygmachela             001000000000000000100??000?01091100000003011000100??1001000000010?0000??0?00????????0????????????
+Leanchoilia              10010001100000001000010000?0306110000000501010010060110100000000021010??0?01????????0????????????
+Lepas                    10020010000000000000111200?050000??11000311010010090101000000000000000110111101101111101101111011
+Lepidocaris              10010000000000000000110000?0501110111000C11010010000100000100001000000??0?01????????0???????????1
+Lepisma                  100000000000000000000102110050000??02002A111100100310????0000001000000111101111121110101111101010
+Sandersiella             10010001010000000000110001?0500110111000E11010010040101001100001000000110111101101111101101111011
+Lithobius                100000000000000000000100110150000??02111D011100100300????0000100000000111101111121110111101101010
+Marrella                 10010000010000000100?10000?020010?500000G01110110030111000000000000000??0?01????????0????????????
+Martinssonia             10010000000000000000110000?050011001000031101000????0????0010000010000??0?11????????0???????????0
+Mimetaster               10010000000000000100?101110030010?700000G01110110050111000000000000000??0?01????????0????????????
+Molaria                  10010001111000001000110000?0400110010000301010010140110100100000021000??0?01????????1????????????
+Nahecaris                1002201000000000000011101110510110111000B11110010050100000?00001011000??0?11????????0????????????
+Naraoia                  10010001111100000000110000?0400110010000B01110010140110110100000010000??0?01????????1?????????11?
+Nebalia                  100220110000000000001110111051010?111000B11010010010100101000001000000110111101101110101101111011
+Odaraia                  100201100000000000001112111050?10?111000G01011110030100100100000000000??0?11????????0????????????
+Olenoides                1211000111111101100011031100400110010000811110010140110010100000010000??0?01????????1?????????11?
+Opabinia                 000000000000000000001102110010801000000070110000????100100000000000100??0?00????????1????????????
+Pauropus                 10000000000000000000010000?140000??0212?6011110100500????0001?100000001101011111211101111??101010
+Peripatiodes             0000000000000000001000?0100030010?603000B011000110??0????00000010100001110000?1101000001100101000
+Periplaneta              100000000000000000000102110050000??02002A111100100210????0000000000000111101111121111101111101010
+Perspicaris              10020110000000000000?110111050110?1??000B1101000????100100?00001000000??0??1????????0????????????
+Rehbachiella             1001000000000000000011001110500110111000911110110020100000100001000000??0111????????????????????1
+Sanctacaris              10010001111000100000?1001110614110010000811110010160100100100000022010??0?01????????0????????????
+Sarotrocercus            10010001110000001000?100111020501000000030101000????1101000000000?1000??0?01????????0????????????
+Scutigerella             10000000000000000000010000?150000??02112A011100100200????00001000000001111011111211101111??101010
+Sidneyia                 1101000101000000100010?01110100110010000411110010160110100100000112000??0?01????????0????????????
+Skara                    10010000010000000000110000?050011001100071101000????0????0010001000000??0?01????????0???????????1
+Speleonectes             10010001010000000000110000?0510110111000F011100100201110000000010000001101011011011101011??11101?
+Tachypleus               110100001110101000001111110060210?410000501110010020100100000000021000110101101101110101100111110
+Triarthrus               1201000111111101100011131100400110010000G11110010040110000100000010000??0101????????1?????????11?
+Lepidurus                110100000100100000001103110050110?111000G11111110000100101100001010000110111101101111101101111011
+Vachonisia               1?010000010000000000?10000?040110?010000G01110110030111000000000000000??0?01?????????????????????
+Waptia                   10020000000000000000?110111050010?1?????B110100100??0????0?00001000000??0?11????????0????????????
+Weinbergina              111100011100011000001110110070210?01000080111000????110100000000021000??0?01?????????????????????
+Yohoia                   100100011100100000000100111040610?00000081101000????100100000000012010??0?01????????0????????????
+Annelida                 0000000000000000001000?000?000?00??0?????00????0????0????00?00000?00000000000?11000000001??000000
+Mollusca                 0000000000000000000000?000?000?00??0?????00????0????0????00?00000000000000000?000000?0000??010000
+
+;
+
+
+cnames
+{ 0 Cuticle_sclerotization cuticle_unsclerotized,_or_very_weakly_sclerotized_but_not_forming_articulated_plates_(sclerites) cuticle_sclerotized_and_forming_sclerites;
+{ 1 Ecdysial_sutures not_visible visible_and_marginal visible_and_dorsal;
+{ 2 Cuticle_sculpture smooth strongly_tuberculate;
+{ 3 Cephalic_shield absent_or_developed_only_as_a_simple_head_capsule simple_head_shield,_entire_carapace_as_a_single_unit,_or_followed_by_a_variable_number_of_tergites_in_association_with_it bivalved_carapace;
+{ 4 Anterior_margin_of_carapace rounded_or_invaginated produced_into_a_fixed_rostral_spine produced_into_an_articulating_rostral_spine;
+{ 5 Posterior_margin_of_carapace straight_or_rounded with_a_sharp,_V-shaped_invagination,_diverging_at_an_angle_of_less_than_100_degrees_from_the_apex;
+{ 6 Ventral_extent_of_the_carapace carapace_covering_the_anterior_dorsum_and_possibly_the_sides_of_the_animal,_but_leaving_the_appendages_to_protrude_more_than_half_of_their_length_beneath_it carapace_all-enveloping;
+{ 7 Style_of_post-cephalic_articulation without_overlapping_pleurae with_overlapping_pleurae;
+{ 8 Extent_of_the_anteroposterior_division_of_the_dorsal_cuticle not_trilobed trilobed;
+{ 9 Reflexion_of_the_more_heavily_sclerotized_dorsal_cuticle_of_the_cephalic_shield_to_form_a_doublure not_reflexed reflexed;
+{ 10 Marginal_rim absent present;
+{ 11 Pygidium absent present;
+{ 12 Genal_spines absent present;
+{ 13 Eye_ridges absent present;
+{ 14 Cardiac_lobe absent present;
+{ 15 Articulating_half-rings absent present;
+{ 16 Outline_of_posterior_trunk_tergites_in_dorsal_aspect straight_or_slightly_curved strongly_curved_or_semicircular;
+{ 17 Prominent,_thick,_and_armlike_lateral_extensions_from_the_carapace,_approaching_the_length_of_the_body_itself absent present;
+{ 18 Transverse_wrinkling_of_the_dorsal_cuticle absent present;
+{ 19 Well-developed_epistome absent present;
+{ 20 Orientation_of_anterior_esophagus anterior_to_posterior_or_ventral_to_dorsal_(mouth_terminal_or_ventral) posterior_to_anterior_(mouth_facing_backward);
+{ 21 Labrum absent present;
+{ 22 Condition_of_labrum attached natant;
+{ 23 Number_of_median_eyes none two three four;
+{ 24 Lateral_eyes absent present;
+{ 25 Compound_eyes absent present;
+{ 26 Position_of_lateral_eyes on_dorsal_cuticle_of_cephalon free_or_pedunculate_beneath_carapace;
+{ 27 Organs_of_Tomosvary absent present;
+{ 28 Number_of_post-acronal_somites_incorporated_into_the_cephalon none one two three four five six seven;
+{ 29 Nature_of_first_appendage uniramous biramous;
+{ 30 Form_of_the_first_appendage antennule_or_antenna vestigial_antennule_or_antenna_(unsegmented_or_single-segmented_appendages,_found_solely_in_some_crustaceans_and_the_Protura) chelicera relatively_small,_possibly_chelate_and_grasping,_but_not_homologous_with_the_chelicera_of_arachnids_(Aglaspis:_Briggs_et_al._1979) biramous,_raptorial,_and_forming_an_integral_part_of_an_anteriorly_dircted_grasping_basket_(Sanctacaris) as_in_Sartrocercus "great_appendage"_composed_of_three_massive_proximal_podomeres,_with_distal_spines._In_Leanchoilia_and_Alalcomenaeus_the_n-1_and_n-2_podomeres_are_barlike_with_a_flagellar_extension_(Whittington_1981,_Bruton_and_Whittington_1983) massive_and_sclerotized,_bearing_large_spines_on_the_inner_margin,_and_capable_of_flexing_beneath_the_animal_to_the_ventral_mouth_(Anomalocaris:_Whittington_and_Briggs_1985) fused_and_proboscis-like,_with_a_terminal_cla_bearing_serrations_on_the_inner_margins_(Opabinia:_Whittington_1975) fleshy,_unsclerotized,_and_unjointed_"grasping"_appendage,_bearing_spines_on_the_inner_margin_(Kerygmachela:_Budd_1993) simple,_unsclerotized_lobopod_with_terminal_hooks_(Echiniscus);
+{ 31 Inner_ramus_of_second_appendage absent present;
+{ 32 Outer_ramus_of_second_appendage absent present;
+{ 33 Form_of_outer_ramus_of_appendage_of_second_post-acronal_somite filiform_or_filamentous developed_as_an_antennal_scale_or_scaphocerite;
+{ 34 Form_of_the_appendage_of_the_second_post-acronal_somite unspecialized_and_undifferentiated_from_those_that_follow antenniform as_in_Agnostus_(autapomorphic) as_in_Branchiocaris pedipalps as_in_Marrella bladelike_jaw_as_in_Peripatoides as_in_Mimetaster;
+{ 35 Gnathobases_on_appendages_of_the_third_post-acronal_somite absent present;
+{ 36 Form_of_third_appendage unspecialized gnathobasic_mandible mandible_biting_with_tip slime_papillae;
+{ 37 Gnathal_lobe_of_third_appendage absent present;
+{ 38 Degree_of_fusion_of_the_appendage_of_the_fourth_post-acronal_somite not_fused medially_coalesced fused_to_form_a_gnathochilarium;
+{ 39 Degree_of_fusion_of_the_appendage_of_the_fifth_post-acronal_somite not_fused medially_coalesced fused_to_form_a_labium;
+{ 40 Total_number_of_somites_in_cephalon_and_trunk,_excluding_the_telson_(not_a_true_somite)_or_terminal_division 5 9 10 12 13 14 15 16 17 18 19 20 22 23 24 25 >25;
+{ 41 Differentiation_of_trunk_somites no_gross_differentiation_of_somites trunk_somites_grouped_into_tagmata;
+{ 42 Ventrolateral_arthropod_or_lobopod_appendages absent present;
+{ 43 Attitude_of_the_trunk_appendages_relative_to_the_body pendent_or_located_beneath_the_trunk laterally_deflected;
+{ 44 Gross_morphology_of_trunk_appendages lobopodous_or_very_lightly_sclerotized_and_lamellate strongly_sclertotized_and_rigid_or_composed_of_a_number_of_articulating_podomeres;
+{ 45 Correlation_between_trunk_segments_and_appendages segmentation_distinct,_with_one_pair_of_appendages_per_division,_or_segmentation_indistinct_(simple_absence_of_visible_intersomite_boundaries)_with_one_limb_pair_per_embryonic_somite segmentation_distinct,_with_more_pairs_of_appendages_than_divisions;
+{ 46 Relative_length_of_limbs_along_the_length_of_the_trunk more_or_less_constant_or_increasing trunk_limbs_regularly_diminishing_in_length;
+{ 47 Inner_ramus_of_trunk_(eighth)_appendages absent present;
+{ 48 Inner_ramus_of_trunk_(eighth)_appendages_with_a_terminal_group_of_reflexed,_clawlike_spines not_clawed clawed;
+{ 49 Spinose_inner_ramus_of_trunk_(eighth)_appendages not_spinose spinose;
+{ 50 Number_of_podomeres_in_inner_ramus_of_trunk_(eighth)_appendages one three four five six seven eight 11 14 >14;
+{ 51 Form_of_"knee"_in_inner_ramus_of_trunk_(eighth)_appendages segment joint;
+{ 52 Outer_ramus_of_trunk_(eighth)_appendages absent present;
+{ 53 Filaments_on_the_outer_ramus_of_the_trunk_(eighth)_appendages absent present;
+{ 54 Segmentation_of_the_outer_ramus_of_the_trunk_(eighth)_appendages unsegmented segmented;
+{ 55 Organization_of_the_outer_rami_of_the_trunk_(eighth)_appendages around_a_simple,_longitudinal_rhachis around_a_flattened_lamellate_or_lobate_region;
+{ 56 Distal_lobe_on_outer_ramus_of_trunk_(eighth)_appendages absent present;
+{ 57 Epipodite_arising_from_trunk_(eighth)_appendages absent distinctive;
+{ 58 Gnathobases_or_protopodal_endites_on_trunk_(eighth)_appendages absent present;
+{ 59 "Orsten"-type_appendages absent present;
+{ 60 Suppression_of_the_sixth_pair_of_appendages_(anteriormost_trunk_appendages) not_suppressed suppressed;
+{ 61 Sixth_appendages_(anteriormost_trunk)_modified_as_poison_fangs not_modified modified;
+{ 62 Collum absent present;
+{ 63 Mobile_appendages_on_terminal_division absent present;
+{ 64 Condition_of_the_appendages_of_the_posteriormost_trunk_somite absent_or,_if_present,_independent_of_the_telson present_as_uropods_incorporated_into_a_tail_fan;
+{ 65 Location_of_the_anus terminal ventral_in_the_terminal_division_of_the_body ventral_in_the_penultimate_division_of_the_body;
+{ 66 Gross_form_of_the_terminal_body_division rounded styliform paddle-shaped_or_platelike;
+{ 67 Terminal_body_division_with_three,_dorsolaterally_directed_lobes,_forming_a_tail_fan absent present;
+{ 68 Border_of_the_posterior_body_division smooth flanked_with_fine_spines;
+{ 69 Postventral_plate absent present;
+{ 70 Cuticle_of_alpha_chitin_and_protein no yes;
+{ 71 Resilin absent present;
+{ 72 Tracheae absent present;
+{ 73 Intersegmental_tendon_system absent present;
+{ 74 Carapace_adductor_muscles absent present;
+{ 75 Suppression_of_all_circular_body_wall_musculature no yes;
+{ 76 Muscle striated_and_smooth all_striated;
+{ 77 Pretarsal_segment_of_inner_ramus_of_trunk_appendages_with_only_a_single_muscle no yes;
+{ 78 Structure_of_brain less_than_bipartite bipartite_or_tripartite;
+{ 79 Acronal_protocerebrum_serving_the_eyes_(where_present)_and_containing_an_association_center_connected_with_pedunculate_bodies absent present;
+{ 80 Malpighian_tubules absent endodermal ectodermal;
+{ 81 Gonads ventral dorsal;
+{ 82 Nephridia_with_sacculi absent present;
+{ 83 Reduction_in_number_of_nephridia_(number_of_post-cephalic_segments_containing_nephridia) more_than_four four_or_less;
+{ 84 Gut_diverticulae absent present;
+{ 85 Cephalic_(at_least_anterior)_ecdysial_glands absent present;
+{ 86 Repugnatorial_glands absent present;
+{ 87 Reduction_of_the_coelom_(hemocoel_and_circulatory_system_with__dorsal_blood_vessel,_paired_ostia,_and_pericardial_sinus) no yes;
+{ 88 Dorsal_blood_vessel absent present;
+{ 89 Two_primary_pigment_cells_in_ommatidia absent present;
+{ 90 Specialized_ommatidial_structures variable_and_higher_number_of_components_than_state_1 two_corneagen_cells,_four_Semper_cells_(usually_producing_a_cone_with_four_parts),_and_a_retinula_with_eight_cells_(one_or_two_of_which_may_be_modified_as_short_basal_cells);
+{ 91 Cilia many_tissues_ciliate no_cilia_except_in_photoreceptors_and/or_sperm;
+{ 92 Ordering_of_fate_map_tissues_from_anterior_to_posterior anterior_-_stomodaeum_-_midgut_-_mesoderm_-_posterior anterior_-__midgut_-_mesoderm_-_stomodaeum_-posterior;
+{ 93 Superficial_blastoderm_formation no yes;
+{ 94 Embryos_with_four_gangliar_post-oral_segments no yes;
+{ 95 Number_of_anatomically_pre-oral_limb-bearing_segments_in_the_larva two_or_more one_or_less;
+{ 96 Nauplius_or_egg_nauplius_in_development absent present;
+;
+
+
+ccode  - 0.96;
+
+
+;

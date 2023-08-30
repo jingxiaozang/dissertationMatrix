@@ -1,0 +1,76 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 16.06.09'
+35 23
+
+&[num]
+Chaetopteridae                      1?1-00110-??10004000-00010-010000?0
+Magelonidae                         ?2001010110000004000-00101000000011
+Sabellidae                          0?1-00000-0?10001000-031?1?010000-0
+Spionidae                           121-101120?110004000-031010100000?0
+Siboglinidae                        1?1--0000-0000001010-?30010000001?0
+Galathowenia_africana               1101200011?100013110-210011000001?1
+Galathowenia_annae                  1001200010?100013110-21001100000111
+Galathowenia_fragilis               1001200010?000013110-210011000131?1
+Galathowenia_scotiae                1001200010?000013110-21001100003111
+Galthowenia_quelis                  1001200010?100013110-?1001100002111
+Galathowenia_arafurensis            1101200011?101013110-21001100003111
+Galathowenia_australis              1001200010?000003111221001100000111
+Myriochele_heeri                    00001000111000003111310001101110101
+Myriochele_olgae                    00001000111000002111210001101110101
+Myriochele_robusta                  00001000111000001111020001101110101
+Myriochele_corcovata                00001000101100003111221001101101101
+Myrioglobula_antarctica             000010001??000001111??200110???1101
+Myrioglobula_islandica              000010001??000001011120001101110101
+Myrioglobula_australiensis          010010001??1000010113100011011?0101
+Myriowenia_californiensis           12000011111000103110-1001100000?101
+Myriowenia_sp.                      11000011111000103110-10011000000101
+Owenia_fusiformis                   00010100111101?03010-32001100000111
+Owenia_australis                    00010100111101?03010-32001100000111
+
+;
+
+
+cnames
+{ 0 Body_shape thick_and_rigid.__Decreasing_in_width_at_both_ends_(cigar-like)_or_truncated. slender,_long_and_sinuous;
+{ 1 Number_of_chaetigers <30 30-50 >50;
+{ 2 Prostomium_and_persitomium fused_(not_distinguisable) not_fused;
+{ 3 Head_(prostomium_+_persitomium)_shape globular_(with_rounded_or_pointed_anterior_end) cylindrical_(with_abrupt_or_truncated_anterior_end);
+{ 4 Prostomial_oral_openning terminal oblique ventral_slit;
+{ 5 Tentacular_crown absent present;
+{ 6 "Palps" absent present;
+{ 7 Well_developed_anterior_lobes absent present;
+{ 8 Foregut absent/ocluded ventral_buccal_organ axial_simple_proboscis;
+{ 9 Ventral_pharingeal_organ absent_(not_observed) present;
+{ 10 Dorsolateral_ciliary_folds absent present;
+{ 11 Cerebral_eyespots absent present;
+{ 12 Nuchal_organs absent present;
+{ 13 Collar_between_head_and_first_segment absent present;
+{ 14 Breakage_groove_between_head_and_first_chaetiger absent present;
+{ 15 Breakage_groove_between_first_and_second_chaetiger absent present;
+{ 16 Neuropodial_uncini_begin segment_1 segment_2 segment_3 segment_4 after_chaetiger_4;
+{ 17 Chaetiger_4-6 isometric not_isometric;
+{ 18 Chaetae_emerging_from_body_wall absent_(well_developed_parapodia) present;
+{ 19 Acicular_chaetae_in_notopodia absent present;
+{ 20 Anteriormost_acicular_chaetae first_chaetiger second_chaetiger third_chaetiger fourth_chaetiger fifth_chaetiger;
+{ 21 Rows_of_uncini_per_torus 1 <8 8-20 >20;
+{ 22 Uncini with_teeth_arranged_in_a_vertical_row with_teeeth_arranged_in_a_oblique_row with_teeth_arranged_side_by_side_at_the_same_level with_teeth_in_multiple_rows;
+{ 23 Rostrum absent present;
+{ 24 Relative_size_of_teeth_of_uncini isometric proximal_larger;
+{ 25 Uncini_manubrium absent present;
+{ 26 Manubrium_shape slightly_curved,_almost_straight clearly_curved,_forming_almost_a_90_degree_angle "avicular";
+{ 27 Segmental_branchiae absent present;
+{ 28 Longitudinal_groove_on_dosum_of_body absent present;
+{ 29 Longitudinal_grooves_on_body_sides absent present;
+{ 30 Longitudinal_grooves_on_body_ventrum absent present;
+{ 31 Pygidium rim_with_or_without_inconspicuous_lobes clearly_bilobed three_lobes multilobed_(more_than_three_and_often_variable_with_size_of_specimens);
+{ 32 Intra-epidermal_cord absent present;
+{ 33 Oesophageal_commisures_shape straight Y-_shaped;
+{ 34 Monociliated_epidermal_cells absent present;
+;
+
+
+ccode  - 0.34;
+
+
+;

@@ -1,0 +1,41 @@
+nstates num 2;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 16.03.02'
+16 7
+
+&[num]
+Olenoides_serratus              0???-01100000000
+Naraoia_compacta                0000-00100000000
+Marrella_splendens              0011000000111111
+Furca_bohemica                  011111??????????
+Mimetaster_hexagonalis          0111111000111111
+Vachonisia_rogeri               1000-00111110111
+Xylokorys_chledophilia          1000-00111111111
+
+;
+
+
+cnames
+{ 0 Single_dorsal_shield_with_ventral_shelf_and_median_ridge absent present;
+{ 1 Anterolateral_spines absent present;
+{ 2 Mediolateral_spines absent present;
+{ 3 Posterolateral_spines absent present;
+{ 4 Secondary_spines absent present;
+{ 5 Inflated_cephalic_shield absent present;
+{ 6 Compound_eyes absent present;
+{ 7 Biramous_cephalic_appendages absent present;
+{ 8 Cephalic_exopods_much_longer_than_endopods absent present;
+{ 9 Chelate_cephalic_endopods absent present;
+{ 10 Antenniform_fifth_appendage absent present;
+{ 11 High_number_of_trunk_somites absent_(<25) present_(>25);
+{ 12 Trunk_endopod_endites spiniferous rounded;
+{ 13 Trunk_exopod_setae lamellate filamentous;
+{ 14 Trunk_exopod_setae_orientation laterally-directed medially-directed;
+{ 15 Trunk_exopod_multisegmented_with_individual_setae_on_each_podomere absent present;
+;
+
+
+ccode  - 0.15;
+
+
+;

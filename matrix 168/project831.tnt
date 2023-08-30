@@ -1,0 +1,88 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 16.08.14'
+49 21
+
+&[num]
+Phoenicopterus_chilensis             21100001111001100011000000000100-00?0000000000000
+Phoenicopterus_ruber                 211000011100011000110000000001?0-00?0000000000000
+Aechmophorus_clarkii                 010110100111150-1120210210121110-01?0000010110010
+Aechmophorus_occidentalis            010110100111150-1120211210121110-0110000010110010
+Podiceps_auritus                     0000000001100?0-011011020012?1?0-00?000022?111010
+Podiceps_cristatus                   0000000001100?110110211200120100-00?0000221111010
+Podiceps_grisegena                   00000?0001100?0-0130211200121100-0010000021111010
+Podiceps_major                       010?000001100?0-01?021120011000?-0010002030111010
+Podiceps_nigricollis                 0000000000100?0-0110?10100120100-00?0001120111010
+Podiceps_occipitalis                 0000000000100?0-01?011?120110100-0010001120111010
+Podilymbus_gigas                     1000010001100?11010011?2011?00?111001010010111201
+Podilymbus_podiceps                  1000010001100?11010011020111000111001010010111201
+Poliocephalus_poliocephalus          000000000100021?01001101201?0?00-0010000330111101
+Rollandia_microptera                 0010000001?00?0-0100110100110?0100010000420111100
+Rollandia_rolland                    0010000001?00?0-0100210100110?0100010000420111100
+"Tachybaptus"_dominicus              000000000?000?100110110120110100-0010000030111001
+Tachybaptus_ruficollis               000000000100021001?001012011000100010100010111101
+Tachybaptus_novaehollandiae          00000100010001100110210120110001000?0100030111101
+Thiornis_sociata                     ????????????????01?011??2011?0???0???????????????
+Truckee_species_A                    ????????????????011011?1?011010??????????????????
+Truckee_species_B                    ???????????????????????1?011?????????????????????
+
+;
+
+
+cnames
+{ 0 Premaxilla,_rostral_tip straight hooked strongly_down-turned_(as_in_flamingos);
+{ 1 Nares,_length extends_for_more_than_half_length_of_beak less_than_half_length_of_beak;
+{ 2 Large,_paired_fenestra_perforate_occipital_region_of_skull,_dorsolateral_to_foramen_magnum absent present;
+{ 3 Skull,_shape_in_caudal_view dorsal_face_rounded dorsal_face_very_flat,_giving_skull_a_square_appearance;
+{ 4 Ossified_median_raphe_extends_crista_nuchalis_saggitalis_caudally,_forming_a_wedge-shaped_eminence absent present;
+{ 5 Vomer,_rostral_end_expanded_mediolaterally_forming_small,_spoon-like_tip absent present;
+{ 6 Tuberculum_basilare flat_or_modestly_projected strong_projection_contribute_to_lateral_walls_bounding_lamina_parasphenoidalis;
+{ 7 Mandible,_extensive_pneumatization absent present;
+{ 8 Mandible,_processus_retroarticularis_elongate_and_mediolaterally_compressed absent present;
+{ 9 Mandible,_shape_of_fossa_caudalis_in_posterior_view dorsoventrally_narrow,_rectangle_in_outline trapezoidal_in_outline open_pneumatic_chamber;
+{ 10 Mandible,_shape_of_fossa_caudalis oriented_caudally,_not_visible_in_dorsal_view oriented_caudodorsally,_visible_in_dorsal_view;
+{ 11 Axis,_strong_lateral_flanges_project_from_processus_ventralis absent present;
+{ 12 Posterior_cervical_vertebrae_bear_chevron-like_processes absent present;
+{ 13 Presacral_vertebrae,_number twenty-two_or_less twenty-three twenty-four tweny-five twenty-six twenty-seven_or_more;
+{ 14 Sternum,_labri_externi separated_by_a_notch_at_midline meet_at_midline,_forming_a_continuous_ridge;
+{ 15 Sternum,_labrum_externum level_with_labrum_internum_at_midline projected_cranial_to_labrum_internum_at_midline;
+{ 16 Sternum,_trabecula_lateralis narrow mediolaterally_wide_throughout_length;
+{ 17 Sternum,_margo_caudalis,_notch_at_midline absent present;
+{ 18 Furcula,_apophysis_furcula absent_or_present_as_a_minute_tubercle strong,_blade-like_projection two_tubercles_present,_each_slightly_lateral_of_midline low,_mediolaterally_wide_projection_with_slight_tubercles_at_lateral_ends;
+{ 19 Coracoid,_processus_procoracoideus absent present;
+{ 20 Coracoid,_processus_lateralis placed_near_the_facies_articularis_sternalis_and_triangular displaced_towards_omal_end_and_forming_a_weak_flange displaced_towards_omal_end_and_forming_a_strong,_triangular_expansion;
+{ 21 Coracoid,_facies_articularis_sternalis_extends_over_significant_portion_of_ventral_surface abesnt present;
+{ 22 Ulna,_tuberculum_carpale distally_placed,_forms_a_small_incisura_tuberculi_carpalis proximally_displaced,_creating_larger_incisura_tuberculi_carpalis;
+{ 23 Pelvis,_proportions wide mediolaterally_compressed extremely_mediolaterally_compressed;
+{ 24 Ischium,_caudal_extent subequal_to_ilium_or_shorter projects_moderately_beyond_ilium projects_far_beyond_ilium;
+{ 25 Proportions_of_hindlimb femur_much_shorter_than_tarsometatarsus femur_and_tarsometatarsus_subequal_in_length;
+{ 26 Hypertrophied_patella absent present;
+{ 27 Tibiotarsus,_proximal_projection_of_cnemial_crests short,_length_of_cnemial_crests_much_less_than_10%_of_the_total_length_of_tibiotarsus elongated,_length_of_cnemial_crests_between_10%_and_15%_of_the_total_length_of_tibiotarsus extremely_elongated,_length_of_cnemial_crests_greater_than_15%_of_the_total_length_of_tibiotarsus;
+{ 28 Tibiotarsus,_anterior_projection_of_distal_condyles subequal condylus_lateralis_projects_farther;
+{ 29 Tibiotarsus,_distal_notch_in_rim_of_condylus_medialis absent present;
+{ 30 Tibiotarsus,_distal_notch_in_rim_of_condylus_lateralis absent present;
+{ 31 Tarsometatarsus,_canal_for_tendon_of_m._flexor_perforatus_digiti_II absent present;
+{ 32 Tarsometatarsus,_canal_for_tendon_of_m._flexor_perforatus_digiti_II_-_2 centrally_located,_directly_plantar_to_canal_for_tendon_of_m._flexor_digitorum_longus laterally_displaced_relative_to_level_of_canal_for_tendon_of_m._flexor_digitorum_longus;
+{ 33 Tarsometatarsus,_shaft slender_with_strong_mediolateral_compression stout;
+{ 34 Cervical_epaxial_musculature ossification_of_tendons_absent_or_sparse large_bundles_formed_by_intratendinous_ossifications_flank_cervical_vertebrae;
+{ 35 M._extensor_longus_digiti_III,_distal_head present absent;
+{ 36 Rostrum,_wide_black_ring_around_bill_in_breeding_adult absent present;
+{ 37 Rima_oris_(gape),_bright_yellow_area_of_bare_skin_forming_"grin_patch" absent present;
+{ 38 Feathers_of_forehead,_distal_barbs_fused_into_shaft absent present;
+{ 39 Feathers_of_head,_median_crest absent forming_a_median_occipital_crest forming_a_small,_helmet-like_crest;
+{ 40 Feathers_of_regio_auricularis_("ear_feathers") undifferentiated_from_adjacent_feathers form_a_fan_of_plumes arranged_as_a_broad_ruff white_elongate_feathers_arranged_throughout_plumage_on_side_of_head_(these_feather_give_the_head_a_"frosty"_appearance_in_Poliocephalus) all_feathers_long_and_narrow;
+{ 41 Colouration_pattern_on_dorsal_surface_of_wing no_white_panel_present tips_of_remiges_secundariae_white white_wing_panel_formed_by_remiges_secundariae white_wing_stripe_formed_by_colouration_of_remiges_primariae_and_remiges_secundariae;
+{ 42 White_triangular_panel_on_dorsal_surface_of_patagium absent present;
+{ 43 Rectrices well-developed,_forming_distinct_tail reduced_to_loose_tufts,_forming_short_and_indistinct_tail;
+{ 44 Pedal_digits webbed_over_most_of_length lobed;
+{ 45 Hatchling_plumage_extensively_striped absent present;
+{ 46 Hatchling_plumage,_buff_or_reddish_colouration absent present_over_most_of_corona,_occiput_and_nucha_(head_and_neck) restricted_to_a_bar_across_occiput;
+{ 47 Corona_(crown)_bare_in_downy_young absent present;
+{ 48 Corona_(crown)_with_patch_of_red_feathers_in_downy_young absent present;
+;
+
+
+ccode  - 0.13 15.23 26.27 29.48 + 14 24.25 28;
+
+
+;
