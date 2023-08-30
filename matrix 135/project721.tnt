@@ -1,0 +1,105 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 15.29.45'
+68 19
+
+&[num]
+Tunicata                    0?000000000000000000????00000000000000000000000000000000000000000000
+Cephalochordata             00000000000000000000000000000100000100100000000000000000000000000000
+Myxinoidea                  1100110211110100011100?0?0000111?00001111000000000000000000000000000
+Petromyzontida              11021112112112001211111001011010110001011111001001000000000000000000
+Heterostraci                1111?11100?1?21012211100010?????01?00011??1???0100111020112?11021000
+Astraspis                   11?1?1?????????0111111100??????100?00??1???????10011102210211??10??0
+Eriptychius                 11???1?????????????1???????????????????1???????1?111102210210??10???
+Arandaspida                 11?2?1?????????0121110100?0?????0?000101??????01??111000112211021?11
+Anaspida                    11?2?1?2112?????121110100?0????00?010101???????100101000002201010000
+Jamoytius                   11???1?2111????????11010??1???????100?01?1????01??1????????200000000
+Euphanerops                 11???1?????????????11010010?1???01110101?010??1001000000000000000100
+Osteostraci                 11021?12112212111221110111111011111012011?11110111100110102101020111
+Galeaspida                  1112?1110121121112211101011???1100?00?011?11110111101000001101020110
+Loganellia_scotica          11??????????????12?111100?0?????1?010101???????10010?0100011001100?0
+Pituriaspida                11????1???????????????????1???????1?1??1???111??1?1?????????0??211??
+Jawed_vertebrates           111?11110001131112?211001101111?11??12010011110111100111102110110011
+Conodonta                   ????????????????????????00??????00?00101000?0?0000000000000000000000
+Yunnanozoon                 01????0?000????????011?0010?????00?0000000000??000000000000?00000000
+Myllokunmingia              11????02?11????????111?0010?????1?110?0?0?100??00?000000000?00000000
+
+;
+
+
+cnames
+{ 0 1_neural_crest absent present;
+{ 1 2_brain absent present;
+{ 2 3_olfactory_peduncles absent present;
+{ 3 4_pineal_organ absent present_and_covered present_and_uncovered;
+{ 4 5_divided_pituitary absent present;
+{ 5 7_optic_tectum absent present;
+{ 6 8_cerebellum absent present;
+{ 7 14_number_of_nasal_openings none paired single_median;
+{ 8 15_nasopharyngeal_duct absent present;
+{ 9 16_single_nasohypophyseal_opening absent present;
+{ 10 17_position_of_nasohypophyseal_opening none terminal dorsal;
+{ 11 18_olfactory_organ absent paired unpaired;
+{ 12 19_extrinsic_eye_musculature absent present;
+{ 13 20_semicircular_canals_in_labyrinth absent 1 2 3;
+{ 14 21_vertical_semicircular_canal_looped absent present;
+{ 15 22_endolymphatic_ducts_open_externally absent present;
+{ 16 23_sensory_line_system_with_neuromasts absent present;
+{ 17 25_sensory_line_grooves_or_canals absent present_on_head_only on_head_plus_body;
+{ 18 26_sensory_line absent in_grooves in_canals;
+{ 19 27_gill_openings simple_slits pores slits_opening_to_chambers;
+{ 20 28_gill_relative_position alternate symmetrical;
+{ 21 29_elongate_branchial_series more_than_10 fewer_than_10;
+{ 22 30_gill_openings_lateral,_slantiing_row absent present;
+{ 23 31_position_of_gill_openings laterally ventrally;
+{ 24 32_opercular_flaps absent present;
+{ 25 34_gill_lamellae_with_filaments absent present;
+{ 26 35_mouth_position terminal ventral;
+{ 27 37_relative_position_atrium_&_ventricle well_separated close;
+{ 28 38_closed_pericardium absent present;
+{ 29 40_paired_dorsal_aortae absent present;
+{ 30 41_lateral_head_vein absent present;
+{ 31 43_subaponeurotic_vascular_plexus absent present;
+{ 32 44_separate_dorsal_fin absent present;
+{ 33 45_anal_fin_separate absent present;
+{ 34 46_unpaired_fin_ray_supports_closeset absent present;
+{ 35 47_paired_lateral_fin_folds absent present;
+{ 36 48_constricted_pectorals absent present;
+{ 37 49_tail_shape isocercal hypocercal epicercal;
+{ 38 50_preanal_median_fold absent present;
+{ 39 51_ability_to_synthesise_creatine_phosphatase absent present;
+{ 40 52_visceral_arches_fused_to_neurocranium absent present;
+{ 41 54_trematic_rings absent present;
+{ 42 55_arcualia absent present;
+{ 43 58_braincase_with_lateral_walls absent present;
+{ 44 59_neurocranium_entirely_colsed_dorsally,_covering_brain absent present;
+{ 45 60_occiput_enclosing_vagus_and_glossopharyngeal absent present;
+{ 46 61_annular_cartilage absent present;
+{ 47 62_trunk_dermal_skeleton absent present;
+{ 48 63_perichondral_bone absent present;
+{ 49 64_calcified_cartilage absent present;
+{ 50 65_calcified_dermal_skeleton absent present;
+{ 51 66_spongy_aspidin absent present;
+{ 52 67_lamellar_aspidin absent present;
+{ 53 68_cellular_bone absent present;
+{ 54 69_dentine absent present,_mesodentine present,_orthodentine;
+{ 55 70_enamel/oid absent present,_monotypic_enamel present,_enameloid;
+{ 56 71_three-layered_exoskeleton absent present;
+{ 57 72_cancellar_layer_in_exoskeleton_with_honeycomb-shaped_cavities absent present;
+{ 58 73_composition_of_scales/denticles absent present,_single_odontode present,_polyodontode;
+{ 59 74_scales absent present,_diamond-shaped present,_rod-shaped;
+{ 60 75_oakleaf-shaped_tubercles absent present;
+{ 61 76_oral_plates absent present;
+{ 62 77_denticles_in_pharynx absent present;
+{ 63 78_dermal_head_covering_in_adult_state absent small_micromeric large_dermal_plates_or_shield;
+{ 64 79_large_unpaired_ventral_and_dorsal_dermal_plates_on_head absent present;
+{ 65 80_massive_endoskeletal_head_shield_covering_gills_dorsally absent present;
+{ 66 81_sclerotic_ossicles absent present;
+{ 67 82_ossified_scleral_capsule absent present;
+;
+
+
+ccode  - 0.67;
+
+
+;

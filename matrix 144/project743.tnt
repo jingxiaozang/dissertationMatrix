@@ -1,0 +1,85 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 15.38.43'
+43 24
+
+&[num]
+Euparkeria_capensis                  00001000000??0000--000?0000?0?000000000?000
+''Paleorhinus''_scurriensis          1100???1?0?10?1??????000001?0??000?0??00001
+Paleorhinus_bransoni                 110011?10011030010-01000001?0?100000001011?
+''Paleorhinus''_sawini               111??0?101???2?010-01000001?0?1001031?101??
+Brachysuchus_megalodon               12?110110111012010-??01110100?10011?11???1?
+Angistorhinus                        121??0110011012010-0101010100?10011??0???1?
+Rutiodon_carolinensis                121??111001??2?010-01?1120000011000??0???11
+''Phytosaurus''_doughtyi             1?1??1?????????????0101220010111?001???????
+Leptosuchus_crosbiensis              1211?1110120?12001000012200101110002?1???1?
+Leptosuchus_imperfecta               12???11?0?2?????010???1?2?0?0??1?00??1?????
+Leptosuchus_studeri                  12111111012001210100001220010011000211???1?
+Smilosuchus_adamanensis              1220011101210120010?111121000011100?0121112
+Smilosuchus_lithodendrorum           12?0?111012??12001100?1220000011100??1???12
+''Machaeroprosopus''_zunii           1?1??1?????????????01011210001?1?001??2????
+Smilosuchus_gregorii                 122001111120012001201111210000111001?12??12
+PEFO_31218                           122??1110?2??120???001122101?111100??1???1?
+PEFO_34239                           122??1?10?2???2????001122101?111100??1???1?
+Pravusuchus_hortus                   12200111012011200100011221011111100111211??
+Protome_batalaria                    1????1110?????2010-01112210001?1?00??121???
+TMM_31173_120                        121??11100200120010000122101011110011121112
+Pseudopalatus_mccauleyi              122??1121120012001110222110011122001202?112
+Pseudopalatus_pristinus              12200112101002201???12221101111220012021112
+Mystriosuchus_westphali              122001121111022111?00200010?1012100?00???1?
+Pseudopalatus_jablonskiae            1????1?????????????01??10101?0?22000??211??
+
+;
+
+
+cnames
+{ 0 Narial_openings directed_laterally directed_dorsally;
+{ 1 Position_of_nares terminal non-terminal,_posterior_rim_of_nares_in_front_of_anterior_rim_of_antorbital_fenestra non-terminal,_posterior_rim_of_nares_behind_anterior_rim_of_antorbital_fenestra;
+{ 2 Antorbital_fossa present,_lacrimal/jugal_and_maxillary_fossae_touching present_but_reduced,_lacrimal/jugal_and_maxillary_fossae_not_touching absent;
+{ 3 Jugal_and_AOF excluded_from_antorbital_fenestra contributing_to_antorbital_fenestra;
+{ 4 Jugal_and_orbit excluded_from_orbit contributing_to_orbit;
+{ 5 Medial_margins_of_orbits flat_with_skull_roof raised_into_orbital_ridges;
+{ 6 Anterior_end_of_premaxillae in_anteroposterior_plane_of_posterior_rostrum downturned;
+{ 7 Interpremaxillary_fossa absent present,_broad_and_rounded present,_narrow_slit;
+{ 8 Alveolar_ridges visible_in_lateral_view not_visible_in_lateral_view;
+{ 9 Alveolar_rim_of_maxilla horizontal ventrally_convex;
+{ 10 Degree_of_heterodonty homodont_dentition bipartite_upper_dentition tripartite_upper_dentition;
+{ 11 Anterior_extent_of_''septomaxilla'' anterior_to_anterior_tip_of_nasal posterior_to_or_at_level_with_anterior_tip_of_nasal;
+{ 12 Lateral_extent_of_''septomaxilla'' restricted_to_anterior_rim_of_naris contributes_to_lateral_rim_of_naris;
+{ 13 Length_of_snout_(pre-orbital_over_orbital_plus_postorbital_length) short,_less_than_1 moderate,_1-3 long,_3-3.5 very_long,_exceeds_3.5;
+{ 14 Internarial_septum composed_of_equal_contributions_from_the_nasals_and_premaxillae composed_for_more_than_50%_of_length_by_premaxillae composed_of_contributions_from_nasal_and_'septomaxilla';
+{ 15 Premaxillary_crest absent present;
+{ 16 Premaxilla dorsoventrally_taller_than_mediolaterally_wide_for_the_majority_of_the_element approximately_the_same_height_as_width_and_tube-like;
+{ 17 Rostral_crest absent,_rostrum_low,_slender,_and_essentially_'tube-like'_for_entire_length present;
+{ 18 Rostral_crest_shape present,_'partial'_or_undulating_dorsoventrally_from_nares_to_terminal_rosette present,_continuous_and_sloping_steeply_anteroventrally_from_nares_to_terminal_rosette present,_continuous_and_level_from_nares_to_terminal_rosette;
+{ 19 Dorsal_rim_of_nares at_or_below_level_of_skull_roof above_level_of_skull_roof;
+{ 20 Interorbital-nasal_area flat concave;
+{ 21 Sutural_articulation_of_sq_and_po_in_dorsal_view slot-like,_posterior_process_of_po_fits_into_slot_in_sq diagonal,_sq_forms_anteromedial_portion_of_po-sq_bar_and_po_forms_posterolateral_portion approximately_transverse;
+{ 22 Lateral_ridge_from_po-sq_bar continues_posteriorly_onto_sq_as_a_horizontal_ridge,_forming_a_shelf_overhanging_the_infratemporal_fenestra continues_on_lateral_surface_of_squamosal_as_a_rugosity_delimiting_the_dorsal_and_lateral_surfaces_of_sq,_but_not_overhanging_as_a_shelf continues_strongly_on_lateral_surface_of_sq_as_two_raised_ridges;
+{ 23 Length_of_posterior_process_of_sq absent_or_extremely_short,_posterior_edge_of_sq_does_not_extend_or_barely_extends_posteriorly_beyond_the_distal_end_of_the_paroccipital_process_of_the_opisthotic moderate,_posterior_process_of_sq_extends_posteriorly_beyond_opisthotic_process_of_sq long,_posterior_process_of_squamosal_extends_posteriorly_far_beyong_opisthotic_process_of_sq;
+{ 24 Morphology_of_posterior_process_of_sq_in_lateral_view dorsoventrally_compressed dorsoventrally_expanded greatly_dorsoventrally_expanded,_rounded_posteriorly;
+{ 25 Dorsal_edge_of_sq,_width straight_and_narrow,_no_medial_expansion expanded_medially;
+{ 26 Dorsal_edge_of_sq mediolaterally_flat ventral_depression_between_medial_and_lateral_edges_of_the_dorsal_edge_of_the_sq;
+{ 27 Ventral_margin_of_sq gently_sloping_anteroventrally_from_posterior_edge_of_posterior_process_to_opisthotic_process distinct_horizontal_ventral_edge_between_posterior_edge_of_posterior_process_and_opisthotic_process;
+{ 28 Subsidiary_opisthotic_process_of_sq absent present;
+{ 29 Extent_of_sq_fossa extends_to_posterior_edge_of_sq does_not_reach_posterior_edge_of_sq;
+{ 30 Shape_of_quadratojugal L-shaped subtriangular;
+{ 31 Orientation_of_supratemporal_fenestrae dorsally_expressed,_parietal-sq_bar_at_level_with_skull_roof partially_depressed,_parietal_process_of_sq_below_level_of_skull_roof fully_depressed,_posterior_process_of_parietal_and_entire_parietal-sq_bar_below_level_of_skull_roof;
+{ 32 Visibility_of_supratemporal_fenestrae_in_dorsal_view visible,_STF_completely_open_dorsally mostly_visible,_posterolateral_portions_of_STF_covered_in_dorsal_view mostly_covered/completely_closed_dorsally,_at_most_only_anteromedial_corners_of_STF_visible_in_dorsal_view;
+{ 33 Path_of_parietal-sq_bars trending_straight_posteriorly_to_attachment_on_squamosals curved,_medially_convex_before_attaching_on_squamosals;
+{ 34 Parietal-squamosal_bars slender,_narrower_than_or_the_same_mediolateral_width_of_po-sq_bars wide,_approximately_the_same_mediolateral_width_of_po-sq_bars;
+{ 35 Shape_of_distal_end_of_paroccipital_process straight,_distal_edge_is_dorsoventrally_oriented angled,_distal_edge_trends_ventrolaterally rounded,_distal_edge_is_curved_rather_than_straight pointed;
+{ 36 Lateral_border_of_posttemporal_fenestra formed_by_contact_of_the_parietal_process_of_the_sq_and_the_paroccipital_process_of_the_opisthotic formed_laterally_only_by_the_paroccipital_process formed_laterally_and_slightly_ventrally_by_process_of_sq_that_extends_onto_paroccipital_process;
+{ 37 Shape_of_skull_in_posterior_view boxy,_width_across_squamosals_approximately_equal_to_width_across_ventral_edge_of_quadrates trapezoidal,_width_across_squamosals_less_than_width_across_ventral_edge_of_quadrates;
+{ 38 Anterior_border_of_parabasisphenoid_contribution_to_basitubera basitubera_separated_widely basitubera_separated_narrowly,_with_a_ridge_along_their_anterior_border basitubera_connected,_tubera_form_a_sharp_ridge_along_their_anterior_border;
+{ 39 Morphology_of_basioccipital_between_tubera concave_depression anteroposteriorly_oriented_ridge_on_the_midline;
+{ 40 Lateral_extent_of_basitubera_compared_to_basipterygoid_processes_in_ventral_view lateral_extent_of_basitubera_even_with_lateral_extent_of_basipterygoid_processes lateral_extent_of_basitubera_more_laterally_expanded_compared_to_basipterygoid_processes;
+{ 41 Premaxillary-palatine_contact absent present;
+{ 42 Suborbital_foramen large reduced,_but_elongated greatly_reduced_and_circular;
+;
+
+
+ccode  - 0.42;
+
+
+;

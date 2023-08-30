@@ -1,0 +1,87 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 15.26.51'
+38 31
+
+&[num]
+Aglaspis                     2?10000000000000-00000---010010???????
+Emeraldella                  012-000000000000-00000---0100100001000
+Sidneyia                     0000000000000000-00000---0102101--10?0
+Australimicola               0??0000000?2000000011100000-?????????1
+Buenaspis                    0???000000????0000000100000-00????1???
+Cindarella                   0200000200010100-0000100010-0010001100
+Emucaris                     012-000000?11?0010000110000-00????????
+Eoredlichia                  111100100003000000010100000-0010001000
+Helmetia                     0100?0001112000000111100100-001???1??1
+Kangacaris                   012-000000?11?0010000110000-00???????0
+Kuamaia                      0?00100011?2000000111100100-00100110?1
+Kwanyinaspis                 0?00100000?00000-0011????01000100010?0
+Liwia                        0?????01?0????1010000100000-?0????????
+Misszhouia                   022-000000110-12?1-0???0000-0010101000
+Naraoia_compacta             0?2-000000?10-12?1-0???0000-0010101010
+Naraoia_spinosa              022-000000110-12?1-0???0000-0010001010
+Olenoides                    111100100003000000010100000-00100010?0
+Panlongia                    0???000010????0000?00100000-00?0?0???0
+Phytophilaspis               2210010000?10?00??0-0??0000-?0????????
+Pygmaclypeatus               0?2-000000000?0000000100001100????????
+Retifacies                   01000000000000000000010000110011--10?0
+Saperion                     0?00100-?1?20-01?2--1??0000-00100111?0
+Sinoburius                   020011020011?00000000100110-001???????
+Siriocaris                   01?00000000??000000100---0???01??????0
+Skioldia                     0?00100-?1?20-01?2--1??0000-00????????
+Soomaspis                    0???000100????1010000101000-10????????
+Squamacula_clypeata          002-00000000000000000100000-2011--00?0
+Squamacula_buckorum          0?20000?00?00?0000000?0?????2?????0??0
+Tariccoia                    0???000100????1010000101000-10????????
+Tegopelte                    0??0?00-?1??0-0??2--???0000-001?0?11?0
+Xandarella                   0300010200010100-0000100010-0010101000
+
+;
+
+
+cnames
+{ 0 Mineralisation_of_cuticle absent calcitic phosphatic;
+{ 1 Number_of_cephalic_somites/appendages antenna_only antenna_and_three_limb_pairs antenna_and_four_limb_pairs antenna_and_five_limb_pairs;
+{ 2 Position_of_lateral_facetted_eyes ventral dorsal absent;
+{ 3 Visual_surface_with_calcified_lenses_bounded_by_circumocular_suture absent present;
+{ 4 Bulge_in_exoskeleton_accommodating_drop-shaped_ventral_eyes absent present;
+{ 5 Eye_slits absent present;
+{ 6 Dorsal_facial_sutures absent present;
+{ 7 Head_shield_overlapping_anterior_trunk_tergite(s) overlap_similar_to_that_between_adjacent_thoracic_segments head_shield_covers_first_thoracic_tergite_only_(tergite_completely_covered_medially) head_shield_covers_multiple_anterior_trunk_tergites,_with_small_median_area_of_attachment;
+{ 8 Transverse_suture_across_anterolateral_part_of_head_shield absent present;
+{ 9 Anteromedian_margin_of_cephalon_notched,_accommodating_pre-hypostomal_sclerite notch_and_sclerite_absent notch_and_sclerite_present;
+{ 10 Frontal_organs_on_pre-hypostomal_sclerite absent present;
+{ 11 Hypostome_attachment wide_attachment_with_or_without_suture natant narrow_overlap_with_pre-hypostomal_sclerite narrow_attachment_at_hypostomal_suture;
+{ 12 Hypostome_divided_into_anterior_and_posterior_parts_by_transverse_suture absent present;
+{ 13 Decoupling_of_trunk_tergites_and_somites absent present;
+{ 14 Trunk_narrowed_anteriorly_relative_to_head_shield,_widest_posteriorly absent_(trunk_wider_anteriorly_or_of_equal_width) present;
+{ 15 Trunk_effacement trunk_with_defined_(separate_or_fused)_tergite_boundaries trunk_tergite_boundaries_effaced_laterally trunk_tergite_boundaries_completely_effaced;
+{ 16 Relative_length_of_thorax longer_than_pygidium shorter_than_pygidium;
+{ 17 Trunk_tagmosis_of_pygidium_fused_to_thorax absent present_with_functional_cephalic_articulation present_with_fused_cephalic_articulation;
+{ 18 Joints_between_posterior_tergites_functional,_anterior_ones_variably_fused absent present;
+{ 19 Tergite_articulations extensive_overlap_of_tergites edge_to_edge_articulations;
+{ 20 Exoskeletal_boundaries_of_anterior_trunk_segments boundaries_transverse_or_reflexed_posterolaterally reflexed_anterolaterally;
+{ 21 Pygidium absent present;
+{ 22 Size_of_pygidium shorter_to_slightly_longer_than_cephalon much_longer_than_cephalon;
+{ 23 Median_keel_on_pygidium absent present;
+{ 24 Pygidium_with_broad-based_median_spine_and_two_pairs_of_segmental_marginal_spines spines_absent spines_present;
+{ 25 Posterior_tergite_with_axial_spine absent present;
+{ 26 Telson absent present;
+{ 27 Segmentation_of_telson absent_(unjointed) present;
+{ 28 Width_of_doublure_on_cephalic_shield narrow_or_moderately_wide wide_(maximum_width_30-35%_length_of_cephalic_shield) entire_ventral_side_of_head_covered_by_expansion_of_doublure;
+{ 29 Paired_flaps_lateral_to_telson absent present;
+{ 30 Exopod_on_first_post-antennal_segment absent present;
+{ 31 Exopod_structure exopod_differentiated_into_proximal_and_distal_lobes,_the_proximal_lobe_bearing_lamellae_setae,_the_distal_lobe_bearing_short_setae exopod_an_undivided_flap;
+{ 32 Proximal_section_of_exopod lobe shaft;
+{ 33 Shape_and_articulation_of_distal_lobe_of_exopod small_to_moderate_sized_flap,_with_short_to_moderately_long_attachment_to_proximal_lobe large,_tear-drop-shaped,_with_long_attachment_to_proximal_lobe;
+{ 34 Form_of_exopod_setae spiniform lamellar_(lamellipedian_setae);
+{ 35 Gnathobase_on_protopodite_and_prominent_endites_on_endopod present absent;
+{ 36 Differentiation_of_cephalic_diverticulae small,_serially_regular_diverticulae anterior_pair_of_diverticulae_large,_expanding_across_genal_region_of_cephalic_shield,_with_complicated_ramification;
+{ 37 Length_of_endopods_of_trunk_limbs extending_to_or_beyond_edge_of_tergum terminating_a_substantial_distance_from_the_edge_of_the_tergum;
+;
+
+
+ccode  - 0.37;
+
+
+;

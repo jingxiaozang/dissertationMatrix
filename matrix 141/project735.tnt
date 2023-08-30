@@ -1,0 +1,145 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 15.33.59'
+90 37
+
+&[num]
+Perleidus                              010000?00??0???00?0000000000000000?000000000000??000001000000010??00?000000000?00000000000
+Watsonulus_eugnathoides                010?0?0000000000010002000000100000?100001?????100001000100000010??011100000000?00000000000
+Amia_calva                             3101001000000000010001000000?0??00?120001?????1000010000000100110011110000111?0????0??0200
+Leptolepis_coryphaenoides              ??00000001?000?030000211000?000000?220000010000??002000100?10020??0100000011000???00??0000
+Pholidophorus_bechei                   2100000001?000?0300002010000000000?220000010000??002000100010020??01?0000011000???00000000
+Siemensichthys                         2??????00?00???030000200000??0??00?22?001?????0??001000100?10020??01?0000000000??000000000
+Dapedium                               000000000000??00100201000000000000??20000200000??001?01?01021001?001010002001000000000???0
+Lepisosteus                            10111111001111011001001000001111110210110300001112?0?100100210110000?210100000101000111211
+Atractosteus                           10?1111100111101100200100000111111021?110300001112?0?100100210110000?210100000001000111211
+Masillosteus                           1?????1?0??010?1?00100000000111101022?1103000011?2?0?110001210110000?210100000001000121201
+Obaichthys                             1011111110?110?1002100000000110?0102110103000011110?00000012001110111210000000????0101?200
+Dentilepisosteus                       10111111101110?1102100100000110101?22101030000111101000100120011000112100?0000001001110201
+Pliodetes_nigeriensis                  2?????0?10?????01?2101000000111101012001030000111100100000?200111000?2001?0000????01010200
+Araripelepidotes_temnurus              21111000???????0??110100000???1?01022001040000?0?1001?0000?2001110111200100000000001020200
+Isanichthys_palustris                  1?????0?0??????0??010000000?1111011021?0020000???00100?10001000110110200?????0????00??0100
+Scheenstia_maximus                     0?????0?0100???0??020000000?111101002000020100100????02101010001001102?11?0000000000?20?1?
+Scheenstia_laevis                      0?????0?0??????0??020010000?111101002000020100?0?11?102101?1000100110??11?00??????00??0111
+Scheenstia_mantelli                    0111100?01?0???0??020010000?11110100200002010010?111102101?10001101102011100000000000201?1
+Scheenstia_zappi                       0?????0?0?00???0100200000000111001001000020100100????02100010001101102?112?000000000??0111
+Lepidotes_semiserratus                 0?11?00001?000?01000000000001?110110100002000010?001001100?100011011020??200??????001201?1
+Lepidotes_gigas                        0???1?0?0?0000?010100000000010110110100002000010000100010001000110110200120?000000001201?1
+Neosemionotus_puntanus                 0?????0?00?????0?01200000001101001001000040000100001000100010001101112?01??001100010??00?0
+Callipurbeckia_minor                   0?11100?0??000?0?00002101001000001000000011000100011101100010001111102001200010101100201?0
+Tlayuamichin_itztli                    0?????1?00?0??10?0010210100100000100000004001010001110110001000111110200120001010110?20010
+Macrosemimimus_fegerti                 0????00?01?000?0101?10102101000001000000011000100011101100010001111102?01200000101000?0?10
+Macrosemimimus_lennieri                011110000100001010000010210?001001000000011000100001102101010001111102?0120000????00?200?0
+Semionotus_bergeri                     0?????1?0??0???0?0000010101?100001010000001000100???000?00010001101102?0?10001?10?20010000
+Semionotus_elegans                     0?111?10000000?010100010100110000100000000100010000100010001000110110200010001?10120??0000
+Semionotus_capensis                    0?????1?0?0000?010?10010101?0000010?0000001000100?????0100010001101102?01?0001110120010000
+Paralepidotus_ornatus                  3?????0?00?0???01?0002101001000001010000001000?0????1?1?000100011111020??10010100100010??0
+Semiolepis_brembanus                   0???????0??000?01?020210100?00000102000000100010000100110001000111111200110000100110010???
+Macrosemius                            3?11110000?00010201?1210200100?0010000001?????1000000010000101011011120001111?110??00002?0
+Notagogus                              3???????0??????0201?1210200?000001000?001?????1000000000000101011011120001?110010?00000200
+Propterus                              3????10?00????10101?121020010000010000001?????10000000000001010111111200011010110100000200
+Sangiorgioichthys_sui                  0?????0?0?0000?01001?01000010000010?0000021001100001?00100010001101102?0020000100210000010
+Sangiorgioichthys_aldae                0?????0?0???00????00001000010000010200000200111000011?0100010001101102?0??0?00???2100000?0
+Luoxiongichthys_hyperdorsalis          3???????0??000?01?0??01000111000010100?1020000?0?0110?0100010001??0102????0010?0010000????
+
+;
+
+
+cnames
+{ 0 Relative_position_of_the_dorsal_fin Dorsal_fin_contained_between_pelvic_and_anal_fins Dorsal_fin_opposite_to_anal_fin Dorsal_fin_opposite_to_pelvic_fins Dorsal_fin_originates_anterior_to_pelvic_fins_and_extends_opposite_to_anal_fin;
+{ 1 Posttemporal_fossa Absent Present;
+{ 2 Forward_extension_of_exoccipital_around_the_vagus_nerve. Absent Present;
+{ 3 Opisthotic Present Absent;
+{ 4 Intercalar Present State_1;
+{ 5 Basisphenoid Present Absent;
+{ 6 Sphenotic_with_small_dermal_component Absent Present;
+{ 7 Posterior_myodome Present Absent;
+{ 8 Elongation_of_the_rostral_region_anterior_to_the_lower_jaw_symphysis Extends_anterior_to_the_dentary_symphysis_by_less_than_20%_of_mandibular_length Extends_well_anterior_to_the_dentary_symphysis_by_more_than_50%_of_mandibular_length;
+{ 9 Vomer_impar Absent Present;
+{ 10 Autopalatine_missing Absent Present;
+{ 11 Ectopterygoid_elongate Absent Present;
+{ 12 Ectopterygoid_participation_in_palatal_surface_area Ectopterygoid_form_half_or_less_of_the_palatal_region Ectopterygoid_forms_the_majority_of_the_palatal_region;
+{ 13 Part_of_dorsal_surface_of_ectopterygoid_ornamented_and_forming_part_of_skull_roof Absent Present;
+{ 14 Endopterygoid_dentition Present Absent;
+{ 15 Quadrate_position_in_front_of_the_orbit Absent Present;
+{ 16 Splint-like_quadratojugal Absent Present_and_independent Present_and_partially_fused_to_the_quadrate Completely_fused_to_the_quadrate_or_absent;
+{ 17 Symplectic_involvement_in_jaw_joint Does_not_articulate_with_lower_jaw Distal_end_articulates_with_articular_bone_of_lower_jaw;
+{ 18 Ornamentation_of_the_dermal_bones_of_the_skull Ornamented_with_tubercules_or_ridges. Smooth_or_very_slightly_ornamented Ornamented_with_firmly_anchored_large_conical_teeth.;
+{ 19 Number_of_extrascapular_bones One_pair Two_pairs Three_or_more_pairs;
+{ 20 Posterior_extension_of_parietals_median_to_the_single_pair_of_laterally_placed_extrascapular_bones Absent Present;
+{ 21 Relative_length_of_parietals_and_frontals Length_of_parietals_less_than_one_half_but_more_than_one_third_the_length_of_frontals Length_of_parietals_about_half_the_length_of_frontals Length_of_parietals_less_than_one_third_the_length_of_frontals;
+{ 22 Length_of_frontals Frontals_less_than_3_times_longer_than_their_maximal_width Frontals_3_or_more_times_longer_than_their_maximal_width;
+{ 23 Frontal_bones_distinctly_broader_posteriorly,_but_long_and_narrow_anteriorly Absent Present;
+{ 24 Antorbital_portion_of_frontal Broad Tapering_gradually Tubular;
+{ 25 Frontal_ethmoidal_sagittal_lamina Absent Present;
+{ 26 Triangular_lateral_expansion_of_antorbital_portion_of_frontal Absent Present;
+{ 27 Nasals_long_and_narrow. Absent Present;
+{ 28 Circumbrbital_ring Supraorbitals_do_not_contact_infraorbitals_at_the_anterior_rim_of_the_orbit Supraorbitals_contact_infraorbitals,_closing_the_orbit.;
+{ 29 Ventral_border_of_infraorbital_series_flexes_abruptly_dorsally_at_the_anterior_margin_of_the_orbit Absent Present;
+{ 30 Large_supraorbital_bones Absent State_1;
+{ 31 Most_anterior_supraorbital_bone_trapezoidal,_longest_ventrally,_contacting_more_than_one_infraorbital_bone. Absent Present;
+{ 32 A_series_of_toothed_infraorbitals_bordering_the_snout Absent Present;
+{ 33 Anterior_infraorbitals Absent State_1;
+{ 34 Most_anterior_infraorbital. Lower_than_or_equalling_the_posterior_elements. Higher_than_posterior_elements.;
+{ 35 Relative_size_of_the_infraorbital_bone_(or_bones)_at_the_posteroventral_corner_of_the_orbit. Not_enlarged. Enlarged,_but_do_not_reach_the_preoperculum. Enlarged_and_reach_the_preoperculum.;
+{ 36 Shape_of_the_infraorbital_bones_at_the_posterior_border_of_the_orbit. Deeper_than_long,_sometimes_almost_tubular. Approximately_quadrangular. Longer_than_deep,_expanded_posteriorly.;
+{ 37 Dermosphenotic_participation_in_orbital_margin. Dermosphenotic_reaches_orbital_margin. Dermosphenotic_does_not_reach_orbital_margin.;
+{ 38 Dermosphenotic/sphenotic_association. Closely_associated_with_each_other_(i.e._contacting_or_fused_to_each_other). Not_in_contact_with_each_other.;
+{ 39 Quadrate_laterally_covered_by_infraorbital_bones. Absent Present;
+{ 40 Suborbital_bones Present Absent;
+{ 41 Number_of_suborbital_bones. One. Two. Several_arranged_in_one_row. Mosaic_of_numerous_suborbitals. State_4;
+{ 42 Independent_of_the_total_number,_there_is_a_large_suborbital_covering_almost_the_whole_area_between_the_infraorbital_bones_and_the_preoperculum. Absent Present;
+{ 43 First_and_last_suborbitals_are_larger_than_the_other_suborbitals. Absent Present;
+{ 44 Suborbital_series_separating_preoperculum_from_dermopterotic. Absent Present;
+{ 45 Triangular_suborbital_lateral_to_quadrate. Absent Present;
+{ 46 Premaxilla_with_nasal_process. Absent Present;
+{ 47 Premaxillary_nasal_process_forming_an_external_dermal_component_of_the_skull_roof. Absent Present;
+{ 48 Supraorbital_canal_in_premaxillary_nasal_process. Absent Present;
+{ 49 Length_of_maxilla. Long,_extends_backwards_lateral_to_the_coronoid_process_of_the_lower_jaw. Short,_does_not_reach_the_coronoid_process. Atrophied_or_absent.;
+{ 50 Depth_of_maxilla. Shallow Deep;
+{ 51 Supramaxilla. Absent Present,_single_bone. Present,_two_bones.;
+{ 52 Maxillary_teeth. Present. Absent.;
+{ 53 Plicidentine. State_0 State_1;
+{ 54 Tritoral_dentition. Absent. Moderately_tritoral. Extremely_tritoral.;
+{ 55 Well-developed_posteroventral_process_of_the_dentary. Absent. Present.;
+{ 56 Double_row_of_teeth_in_dentary. Absent. Present.;
+{ 57 Mandibular_symphysis_very_deep. Absent. Present.;
+{ 58 Extent_of_teeth_on_dentary_(excluding_coronoid_toothplates). Tooth_row_extends_over_a_third_the_length_of_dentary. Tooth_row_is_present_on_only_the_anterior_one_third_or_less_of_dentary.;
+{ 59 Shape_of_preoperculum. Dorsoventrally_elongated_without_anteroventral_arm. Crescent-shaped. L-shaped.;
+{ 60 Exposure_of_dorsal_limb_of_preoperculum. Mostly_exposed_forming_a_significant_part_of_the_ornamented_lateral_surface_of_the_skull_anterior_to_the_opercle. Entirely_covered_or_nearly_entirely_covered_by_other_dermal_bones_in_adults.;
+{ 61 Posterior_border_of_preoperculum_notched_ventrally. Absent. Present.;
+{ 62 Shape_of_the_operculum_depth/width. Deeper_than_long. Approximately_as_deep_as_long. Tapering_anteroventrally.;
+{ 63 Suboperculum_with_well-developed_ascending_process. Absent. Present.;
+{ 64 Shape_of_ascending_process_of_the_suboperculum. Broad. Tapering_dorsally.;
+{ 65 High_ascending_process_of_the_suboperculum. Less_than_or_equal_to_half_of_the_length_of_the_dorsal_border_of_the_bone. More_than_half_of_the_length_of_the_dorsal_border_of_the_bone.;
+{ 66 Suboperculum_less_than_half_the_depth_of_the_operculum. Absent. Present.;
+{ 67 Interoperculum. Absent. Present.;
+{ 68 Size_of_interoperculum. Large,_approximately_as_long_as_the_ventral_arm_of_the_proeperculum. Small,_remote_from_mandible.;
+{ 69 Gular_plates Double. Single. Absent.;
+{ 70 Opistocoelus_vertebrae. Absent. Present.;
+{ 71 Knob-like_anteroventral_process_of_posttemporal. Absent. Present.;
+{ 72 Supracleithrum_with_a_concave_articular_facet_for_articulation_with_the_posttemporal. Absent. Present.;
+{ 73 Series_of_denticles_along_the_ridge_between_the_branchial_and_lateral_surfaces_of_the_cleithrum. Absent. One_or_two_rows. Several_rows.;
+{ 74 Fringing_fulcra_on_pectoral_fin. Present. Absent.;
+{ 75 Fringing_fulcra_on_pelvic_fin. Present. Absent.;
+{ 76 Large_dorsal_fin,_with_more_than_20_rays. Absent. Present.;
+{ 77 Large_basal_fulcra_in_the_dorsal_and_anal_fins. Absent. Present.;
+{ 78 Scale-like_ray_at_the_dorsal_margin_of_the_caudal_fin. Absent. Present.;
+{ 79 Eight_lepidotrichia_in_the_lower,_non-axial_lobe_of_the_tail. Absent. Present.;
+{ 80 Six_lepidotrichia_in_the_lower,_non-axial_lobe_of_the_tail. Absent. Present.;
+{ 81 Body_lobe_scale_row. Absent. Incomplete. Complete.;
+{ 82 Dorsal_ridge_of_scales Inconspicuous. Conspicuous,_with_a_low_spine. Conspicuous,_with_a_high_spine.;
+{ 83 Scale_of_the_body_with_a_strong_posteriorly_directed_spine. Absent. Present.;
+{ 84 Vertical_peg-and-socket_articulation. Present. Reduced_or_absent.;
+{ 85 Longitudinal_articulation_of_the_scales_of_the_body. Absent. Single. Double.;
+{ 86 Posttemporal_penetration_by_lateral_line_canal. Present. Absent.;
+{ 87 Supraorbital_sensory_canal_in_parietal. Supraorbital_canal_penetrates_parietals_at_the_central_portion_of_these_bones. Supraorbital_canal_running_almost_on_the_lateral_rim_of_the_parietals. Supraorbital_canal_does_not_penetrate_the_parietals.;
+{ 88 Orbital_canal. Absent. Present.;
+{ 89 Deep_groove_housing_the_middle_pit_line_in_dermopterotic_and_parietal. Absent. Present.;
+;
+
+
+ccode  - 0.89;
+
+
+;

@@ -1,0 +1,169 @@
+nstates num 8;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 15.30.57'
+114 37
+
+&[num]
+Fuxianhuia_protensa                    00-100?00--0001000--000000000?00--?000100001300100-0001-1000-0-0-000?0?0-?--0000-0-----00-0--0?--0??-0000000000000
+Leanchoilia_illecebrosa                1100??100--00010?0--00000??0??10--?00000000--00012000?1-100000111210000100?0000102?00001100-?00??012?0000000?000?0
+Alalcomenaeus_cambricus                100000100--0001000--000000001?10--?00000000--00?1??0001-100000111210000100?0000102?00001100-000??01000000000300000
+Yohoia_tenuis                          1000???00--00?0--0--00000?????20--?00010000000010202001-1000-1110210000100??0?0????0????100-0?0??01??00000003000?0
+Emeraldella_brocki                     ?0001-??0--0000--0--00000?001?30--?00000000--0000200001-100000-0-121?0010000000100000210100-0111?01??00000110401?0
+Sydneyia_inexpectans                   ?0001-000--0000--0--00000?0???40--?00010000000010200001-1000-0-0-121?0?10000000211?002101011013??01???0000010000?0
+Olenoides_serratus                     10001-011100021000--000100001?20--000000000--00003-1111-100000-0-0211001000000010100021010110120-01?00000011101010
+Pycnogonum_litorale                    1-1001020----0---0--------112050--001-20---0-00--1--0---------0-1210-2-03-000012?00?0?000-10103121--01-------5--00
+Haliestes_dasos                        1-10???20----0---0--------112?50--001-20---0-00--1--0--------1112210-2-03-00001??0??0?0???10013101--01-------5--?0
+Palaeoisopus_problematicus             1-1001?20----0---0--------112?60--001-10---0100--1--0--------1112210-2-03-000011?00?0?0010100130-1--?1------3110?0
+Offacolus_kingi                        2002???20--000???0-010010?0?1?11??0000100000?0-00??0??0-00110110221021011100200???????????????0??0?1?000?0003?01?0
+Weinbergina_opitzi                     2000?????1001010?10001020???1?21???000100000000002000?00010001?0221?30110??0000?0110?2??10????00-01200?0?0003100?0
+Camanchia_grovensis                    2000???????01010210001020???1??????0001000100002-20000001000-000????????????1?0???????????????????????????????0??0
+Venustulus_waukeshaensis               200001???1001010??0001020???1??????0001000100002-200?0001000-000????3?1????01?0???????????????0????2???0?????100?0
+Willwerathia_laticeps                  ?00001???11001???1100??10???1??100?00010000000000212000201000?????????????????0??????????????????????????????10000
+Lunataspis_aurora                      ?00001?111?001???11001110???1??1???00?11-0000012-2121?010111-?????????????????0??????????????????????????????100?0
+Limulus_polyphemus                     200201111110011021100111010011211-030011-00-4112-21211010011-0002210311121101002111013100-0--001001210000000310000
+Paleolimulus_signatus                  2002??1111101110211001110?0?11211-030011-00-4112-21211010011-0?0???031112110100?1????3????????0100?210?0?000310000
+Stoermeropterus_conicus                2000???110-001100100100000001?71??210010-1-0110102020012100010?022103011021111020111?10?120-100110?210111100310010
+Eurypterus_tetragonophthalmus          200001?110-00110110010000100107101210010-1-01002-20-0-121000-000221030110211110201111102110-0001101210111100310010
+Rhenopterus_diensti                    200001?110-001111100100001001?71??11001001-1200102020012100010?022103011020011020111?10?120-100110?210111100310000
+Parastylonurus_ornatus                 2000???110-001111?00100001001?71??11001001-0100102020012100010?0221030110200110?0111?102110-0001?0?2?01111003100?0
+Chasmataspis_laurencii                 ?00001?11??00????10000?10??????100??01120000600102?-0?1?10001???????????1110??0?01?1?2000-0--0???0??????????3?00?1
+Octoberaspis_ushakovi                  200001?111000?10?10010010?????710001011200006002-20-01121000-????????0?10??1110????????00-0--00??0???010110?310001
+Centruroides_vittatus                  2000010110-0010--0--10000-01207101010010-1-11002-20-0-1-1000-00022103011020011020001?200100-0001000200102-00330000
+Palaeophonus_nuncius                   200101?110-00?0--0--10000?0???7???010?10-1-11002-20-0-1-1000-0?0221?30110??01?0??????2?0100-000100?200102-00330000
+Mastigoproctus_giganteus               2000010110-0010--0--10000-01207???010010-1-00002-10-0-1-1000-00022103011020011020001?2000-0--001300210102-00320100
+Galeodes_armeniacus                    ?00001020--0010--0--10000-012-2???010010-1-0?002-10-0-1-1000-000221030110200??020001?2000-0--0013??210??2-??35--00
+Euproops_anthrax                       200201?111101110?11001110?0?1?21???00011-00-40100212?1010011-0?0???03111?1?0??0?????????0-0--0?????2?0??????310000
+Legrandella_lombardi                   ?10001?111001110?10001?20?0???2100?00010000000010202000001000???????????????????????????????????????????????3100?0
+Bembicosoma_pomphicus                  ?000???????001???10101?20??????100?20?10000000010?020?1010000????????????????????????????????????????????????100?1
+Bunodes_lunula                         ?000?1?????100???10101?10??????100?20?1010000002-2020?101001-????????????????????????????????????????????????100?1
+Limuloides_limuloides                  ?00001???10101???10101?10?????21???200101000000102020?1001010????????????????????????????????????????????????100?0
+Pasternakevia_podolica                 ?000???????001???10111?10??????100?20010100050?012020?1010000????????????????????????????????????????????????100?0
+Cyamocephalus_loganensis               ?1000??111000????10111?11??????1???000100000000012020?1010101????????????????????????????????????????????????100?0
+Pseudoniscus_roosevelti                ?100?????10001???10111?11??????1???00010000000001?020?1110101????????????????????????????????????????????????100?0
+Kasibelinurus_amoricum                 ?000???1110001???11101?10??????1???000101000500102020?0100000????????????????????????????????????????????????100?0
+
+;
+
+
+cnames
+{ 0 cephalization_in_adult 1+1 1+3 1+6 1+5;
+{ 1 anterior_projection_from_carapace absent present;
+{ 2 segmentation_in_cephalon_fully_expressed absent present;
+{ 3 sagittal_crease_or_keel_of_head_shield absent crest_or_crease keel;
+{ 4 ancillary_eyes present absent;
+{ 5 ancillary_eyes_incorporated_dorsally_into_head_shield absent present;
+{ 6 unpaired_median_node absent between_hypostome_and_doublure;
+{ 7 lateral_eyes anteroventral dorsal absent;
+{ 8 visual_surface_of_lateral_eyes_part_of_dorsal_cuticle_of_head_shield absent present;
+{ 9 eye_shaded_dorsally_by_palpebral_lobe_forming_ophthalmic_ridge absent present;
+{ 10 well-developed_m-shaped_ophthalmic_ridge absent present;
+{ 11 Extraophthalmic_ridges absent present;
+{ 12 Interophthalmic_ridges absent present;
+{ 13 marginal_rim absent independent_of_doublure congruent_with_doublure;
+{ 14 extensive_(>10%_of_width_of_head_shield)_doublure_in_headshield absent present;
+{ 15 transverse_suture_on_cephalic_doublure absent present;
+{ 16 connective_sutures_on_cephalic_doublure paired single_median absent;
+{ 17 cardiac_lobe absent present;
+{ 18 Cardiac_lobe_extends_anteriorly_beyond_posterior_half_of_carapace absent present;
+{ 19 well-developed_H-shaped_cardiac_lobe absent present;
+{ 20 Carapace_width wider_than_long longer_than_wide_or_equal;
+{ 21 vaulted_carapace absent present;
+{ 22 vaulted_tergopleura_of_the_head_completely_covering_appendages_dorsally_and_laterally absent present;
+{ 23 carapace_genal_spines absent present reduced_cornua;
+{ 24 posterior_margin_of_carapace flat convex;
+{ 25 configuration_of_fully_ventral_prehypostomal_plate_(''rostral_plate'') section_of_doublure complete_fusion_with_doublure;
+{ 26 Proboscis absent present;
+{ 27 presence_of_a_hypostome_as_sclerotized_plate present absent;
+{ 28 composition_of_prehypostomal_sclerite_(''rostral_plate'') with_dorsal_portion only_ventral_('rostral_plate') absent;
+{ 29 number_of_segments_incorporated_into_sternum pa2â€“3 pa2-3 pa2â€“4 pa2-4;
+{ 30 Total_expressed_segment_count 28 15 17 16 13 10 12 19;
+{ 31 morphology_of_tergite_of_sixth_postantennular_segment fully_expressed reduced;
+{ 32 reduced_tergite_of_sixth_postantennular_segment microtergite complete_loss;
+{ 33 form_of_reduced_microtergite_of_sixth_postantennular_segment dorsal_microtergite subsumed_under_carapace;
+{ 34 morphology_of_sternite_of_sixth_postantennular_segment fully_expressed narrowing_towards_centre medially_divided;
+{ 35 morphology_of_tergite_of_seventh_postantennular_segment undifferentiated partially_reduced macrotergite axially_reduced,_laterally_forming_free_lobes;
+{ 36 trilobation_of_trunk present absent;
+{ 37 ventral_plate_underlying_tergites absent present;
+{ 38 morphological_division_of_trunk undifferentiated limbless_abdomen_of_segments_with_ankylosed_tergites_and_sternites_retaining_tergopleurae reduced_abdomen;
+{ 39 anterior_trunk_segments_fused_into_thoracetron absent 8_segments segments_VIII-XIV 4_segments segments_VII-X;
+{ 40 Pleural_groove_in_anterior_tergopleurae absent present;
+{ 41 tergopleurae_of_anterior_tergites tergopleurae_present tergopleurae_absent;
+{ 42 form_of_tergopleurae_on_anterior_tergites angular_(pointed_termination) quadrate_(flat_termination);
+{ 43 abdomen_defined_by_dorsal_taper_(undergoes_a_sudden_constriction_and_then_does_not_narrow_further_until_the_telson) absent present;
+{ 44 number_of_segments_in_dorsally_constricted_abdomen 3 5 6 3+10 1 2 9;
+{ 45 moveable_lateral_spines_associated_with_opisthosomal_segments_IX-XIII_(postantennular_segments_8-15) absent present;
+{ 46 Somites_XV-XVII_fused absent present;
+{ 47 reduced_tergopleurae_on_posterior_tergites_other_than_pretelson tergopleurae_present tergopleurae_reduced tergopleurae_absent;
+{ 48 posterior_tergopleurae_crescentic,_with_those_of_pretelson_engulfing_the_proximal_portion_of_the_telson absent present;
+{ 49 main_articulating_device anterior_axial_recess_for_arthrodial_membrane no_obvious_articulating_device articulating_ridge_and/or_shelf_functioning_with_next_anterior_segment articulating_half-ring_and_furrow;
+{ 50 articulating_ridge_adaxially_projecting_as_a_pseudo-half-ring absent present;
+{ 51 articulation_of_tergopleurae overlap edge-to-edge gape;
+{ 52 articulating_flanges_on_tergopleural_region absent present;
+{ 53 extensive_doublure_in_trunk_tergites absent present;
+{ 54 Trunk_width narrowing_from_first_segment constant_for_first_few_segments;
+{ 55 Width_of_axis_compared_to_cardiac_lobe wider,_in_line_with_ophthalmic_ridges same_width_as_cardiac_lobe effaced;
+{ 56 Axial_nodes present absent;
+{ 57 Subaxial_nodes absent present;
+{ 58 Somites_XII-XIII_fused absent present;
+{ 59 Somites_XIII-XIV_fused absent present;
+{ 60 Gape_in_tergopleurae_increasing_posteriorly absent present;
+{ 61 antennular_articles_more_robust_than_podomeres_of_anterior_endopods absent present_in_podomere-like_articles;
+{ 62 antennular_peduncle simple bipartite;
+{ 63 number_of_aspiniferous_segments_in_spiniferous_short_(6_or_less_segments)_antennula 1 2;
+{ 64 number_of_articles_forming_fingers_on_antennula four three two;
+{ 65 arrangement_of_spines_on_antennula absent biserial mediodistally_extended_into_fingers;
+{ 66 number_of_antennular_articles 7â€“20 7-20 â‰¤6 <6 >20;
+{ 67 filiform_antennula absent present;
+{ 68 exopod_on_second_post-antennular_limb simple_flap-like bilobate_flap-like multiarticulate_pediform reduced;
+{ 69 endopod_of_postantennular_limbs_1-4_chelate absent chelate subchelate;
+{ 70 exopod_on_postantennular_appendages_3-4 present lacking;
+{ 71 terminal_podomere_of_endopod conical_podomere spinose_podomere;
+{ 72 terminal_podomere_of_fifth_postantennular_limb prong-like_or_blunt chelate pusher subchelate;
+{ 73 exopod_of_fifth_postantennular_limb as_in_postantennular_limbs_3-n flabellum absent;
+{ 74 basipod_of_fifth_postantennular_limb_expanded_into_dorsal_''ear'' absent present;
+{ 75 modified_spine_(podomere_7a)_at_the_distal_part_of_the_''basitarsus''_of_pa_5 absent present;
+{ 76 form_of_sixth_postantennular_limb pediform chilaria/metastoma flap-like;
+{ 77 fusion_of_endopod_of_sixth_postantennular_limbs absent present;
+{ 78 limb-bearing_segments_enclosed_by_fully_sclerotized_rings absent fusion_product_of_tergites,_sternites,_limb-bases;
+{ 79 body-limb_joint short,_sclerotized,_pivot-jointed_rings lightly_sclerotized_rings_or_half-rings_in_arthrodial_membrane_['corm'] lightly_sclerotized_rings_or_half-rings_in_arthrodial_membrane arthrodial_membrane_only;
+{ 80 basipod_with_elongate_lateroproximal_extension absent present;
+{ 81 endites_on_basipod absent single,_medially_drawn_out_endite multiple_endites_[four_to_five] multiple_endites;
+{ 82 endites_on_basipod_of_a2 absent present;
+{ 83 insertion_of_endopod_on_basipod distally laterally;
+{ 84 moveable_endite_(epicoxa)_dorsally_on_gnathal_edge_of_basipod_of_prosomal_appendages absent present;
+{ 85 number_of_endopod_podomeres nine eight seven six;
+{ 86 first_podomere_with_gnathal_edge absent present;
+{ 87 armature_on_distal_margin_of_podomeres_other_than_distal_spines absent fringe_of_bristles denticles;
+{ 88 presence_of_mediodistal_spines_on_podomeres absent present;
+{ 89 reduction_of_mediodistal_spines_on_podomeres not_reduced reduced_on_pa4_and_5 reduced_on_pa3,_4,_and_5;
+{ 90 presence_of_laterodistal_spines_on_podomeres absent present;
+{ 91 laterodistal_spines_on_podomeres present_on_all_podomeres on_non-enditic_or_two_penultimate_podomeres_only;
+{ 92 morphology_of_distal_spines_on_podomeres socketed_(seta_type) projections_of_podomeres;
+{ 93 spines_or_endites_on_median_edges_of_podomeres_other_than_the_first absent present;
+{ 94 gradual_change_of_stance_of_endopods_from_splayed_anteriorly_to_dangling_posteriorly absent,_all_limbs_dangling rotation_in_proximal_podomeres rotation_in_basipod_insertion absent,_all_limbs_splayed;
+{ 95 reduction_of_count_of_podomere_in_first_postantennular_limb absent present;
+{ 96 podomere_count_in_endopod_of_first_postantennular_limb_compared_to_max_count_n_in_limbs n-1 n-2 n-n n-3â€“4 n-3/4;
+{ 97 exopods present absent;
+{ 98 exopod_armature_other_than_lamellae none setae_or_spines;
+{ 99 exopod_of_first_postantennular_limb simple_flap-like multiarticulate,_pediform reduced;
+{ 100 podomere_count_in_endopod_of_second_postantennular_limb_reduced_compared_to_max_count_n_in_limbs not_reduced reduced;
+{ 101 pa2_modified_into_ovigers absent present;
+{ 102 trunk_limb_medial_fusion separate medially_fused;
+{ 103 eighth_postantennular_limb_fused_with_genital_segment_(7th_postantennular_segment) absent present;
+{ 104 endopods_or_limb_axis_of_seventh_to_thirteenth_postantennular_limbs present_on_all_segments present_on_seventh_only absent_on_all_segments;
+{ 105 endopods_or_limb_axis_of_seventh_postantennular_limbs_fused_medially_into_genital_appendage separate fused;
+{ 106 gross_morphology_of_exopods_of_postcephalic_appendages simple_flap-like bilobate flap-like;
+{ 107 lamellar_blades_on_exopod absent present;
+{ 108 structure_of_caudal_appendages uniramous_paddle filiform_cerci pediform absent;
+{ 109 form_of_telson plate-like styliform_keeled_(with_triangular_cross-section) flagelliform expanded_with_venom_sack styliform_tubular_(with_circular_or_oval/flat_cross-section) State_5;
+{ 110 telson_fused_with_terminal_segment_(pretelson) absent present;
+{ 111 telson_with_joints_along_its_length absent present;
+{ 112 cuticular_terrace_lines absent present;
+{ 113 Tuberculate_ornamentation absent present;
+;
+
+
+ccode  - 0.113;
+
+
+;

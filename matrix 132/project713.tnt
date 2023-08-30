@@ -1,0 +1,384 @@
+nstates num 7;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 15.27.36'
+334 32
+
+&[num]
+Prosauropoda                00000000000000000?0?0000000?000000?000000000000000-000000000001000000001000000000000000000000010000000001000001000000000000?01000000?000000000000000000000000000001000000000000000000000000000000000000000000000??0000000000000000000100001-00000000000001000000000?0000000000000000000?000000000000000000000000000000000000000000000000000000
+Theropoda                   000000000000000?00000000000000000?0000000000000000-0000000000000000000010000000000000000000000000000000000000010000000000001000000000000000000000000000000000000001000000000000000000000000000000000000000000001??00000000000000000001?0001-00000000000100000000000000000000000000000000000000000000000000000000000000--0000000000000000000000
+Vulcanodon                  ???????????????????????????????????????????????????????????????????????????????????????????????????????????1???????????????????????????????????????????????1??0??0???0?00001?????10100????1??????????????00?2??0??????????????????100100?111100100????10???1???????0??1??000100010100101011101???10100??0000101000010?1000110100000?1001000???
+Barapasaurus                ?????????????????????????????????????????????????????????????????????????????????????????????????1?0??????10000?0010?000??011?02000100?01?1100001020000001011001?0?0?0?0?0?????????100????00?0000?????0?2?00??01??0000??00?0????0?1?010?11?110?100???????????????01?0110?010100010?0011?112101100?0?10111?1???1?1????010????????????1??11?0000
+Omeisaurus                  01010?00000110001012?000??0001100110111011001100020111???10??10100101?0?00000?10000?1????10111110111?10160130?01010?000013111202001100?01111002110000000000210?01?10100?000100000111000000?0000??0100??0200121010?000?00001000000010010011001001?02100110001011100100010101010001010011011210100010110101??00010101111111012110111011111110000
+Shunosaurus                 001100000000100010020000000001??0110101011001100020011?01100011000100001?0000?10000?1?00?10011111110?0014010001100100000120?01?00?10?000100?0000100000000001000110111000000100000111000000?00000000?0001202111000000000000100000001001001100100110010010000111010010001010101000?01001101121010001?1101???000010?001111?101201011101?111110000
+Patagosaurus                11????00000110?01??????????????????????????????????1??????????????????????????100????????1???11?0112?001??10010?001000001?1111020011000010110021102000000102??01???0???000?1?????101??0000?0000???1?0?0??00???011?0?0???0010????0010010?1101100100????????????????1001101010100010100110112101000101001??????????????010??1???????????????0100
+Mamenchisaurus              1101?????-??111010020000??0101000110?110?1?01????2011?10?100?1011010?0?10?0???100101100111?111110111010160100?0101110011130?1201?001?0??1?11001110?1010000021??11?101102200100000111000000?000000?10000?20012111??0?????00??0???0?1?010?11?110?1101101?1?00?01????10001010??100010100110112101100?11?01???1000111??11?1010?2?10111?11??1??0100
+Apatosaurus                 30102211011012011112?111100101110121121011111101110011110210????10102001000101???????????11?230?2212???161132200101100221521120201010010111110?211000000010211121021110100011111012111110000000132110001201111011100110001101?00001001001100100110211111000101110110011111101000001011111121011001111011110111111011111111121111?1121111110000
+Barosaurus                  ??????????????????????????????????????????????????????????????????????????????????????????????????????????1?2200?11210121?11111101010??01?1?1?311100000??102?????0211101011?1111013111110?10010??2110?0?2?11??1?11????00?01??????0?0???0???????????????????????????0???11110100010101111?1???1???111???1????111?????????11????1???????????0000
+B_altithorax                ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????2112020001????1011102111?20100011211101??0??0000?1001101?10?0?????????????11??????22??????????00?0????001001???????????????????????????1111110?????????????111112201000??????????????????????????????????????????101
+B_brancai                   1101121010011111101?10001101011001201110111111000201111001001110001010111000001012111111211111011112000140132200011100001321120201010?001011?1211002?11001021110?010100000010011001100000000100???10111??0202201110101100010200000100100110110012011111201111101111111111011101010110111102211000111101111111111100111101012?101110?1?111?0110
+Camarasaurus                110112101001101110121000110101100121111011101100020111101100111000101001000000100211111111111111011201013013120000100031132112020001100011110021101201000002111110101000000100110111000000000000001001?11020210111010100011000000010010011011001?011111101010111011001111011100010110111112101100111101111011111100111101012110111021111110000
+Dicraeosaurus               3010?21101?????????2??101?0011101??1121011?????????0????1??0?1010101210001010?110????0???1?123??2212?1003?110?00?01?01321300120211110?001010001?1?0000000112110210?2111?00011?110131001100000000?111010?201111?11??0010000?0????001001001101100110???????????????1100011111010000010111111210110011110111101111111??11111?1?11?1??????11??0000
+Diplodocus                  3010221101101201111211111001011101211210111111011100111102101101101020010001011102011001?11123002212110061132200011?10321521121201010010111110??101000000102111210211101011111110131111100100101321100012011111111000100001010000010010011011001?0???????????????110011111101000001011111121011001111011110111111?0111111112111111121?11110010
+Haplocanthosaurus           ?????????????????????????????????????????????????????????????????????????????????????????????????????????01?11000010000011211101001110001111013?110100001002111110?010000001001101110000100000????1?010??02???011100010?00?02?00?????????????????????????????????110011110101000101101111121011001????????????????????????????????????????0000
+Amargasaurus                ??????????????????????001?0-11101221021111????????????????????11011121001101?0??????????????????????????4111??0?10100131150?1?020111???01?0?101?10?00001?112???2???2?0???0?????????????????0??????????0?????11??1??0?1??????????0010010?1100100??0????????????????111111?????????????11111?101?001?1??????????????????????????????????????0000
+Euhelopus                   11010100000111?01?12?0??1?0?01???1??1?1?????110002011110???0?1????????????????10021??????101?111011201016?101?1101110012111????1?1?1???111111???10?111010003?1??1??0??????????????????????????????101?1???????01100010??00?0????1?1001011????????????????????????110121??01110001?110???1??11?100?111011?1011111??0?111010121??11???11111?0100
+Jobaria                     11010?101001101110121000100101100110111011?01100?20?1????1?0?10??010??010?00??000????0????00111?0110000?3?13??0000100000120?????00?1????1?111???1??000?0?1021???10101000?00?00110??10000?00000000?100?011??021011?0101??0000????0?1?010?11?11001?00111?1?001011101100111?01???0010?1?11?11?10110011?101?1101??111?011110??1111????????????0000
+Malawisaurus                ?1?11?????00?0??????1??????????10????????????????20???100??1??10011?10020??0??100??????1?1?1?????1120101??101010?111000005???0?2?1011?00111?0?1??1?11101??131??????01??200000011101100001010100??01010??0120????????????00?02??11?1?010?1110000110??1???111?1????????????????10111110??????11?????1??11?1?0?????????????????????1????1?11?1???
+Nigersaurus                 30?0????00??12011?0???001?1-001????-?-?---??1????20???????????0??0102?01??01??10-200?????1?022012212101???1???00?01???00??2???????????????????????????????????????????????????????????????????????110?0???????11??020??00????????????????????????????????????????????????????????????00???????????????????????????????????????????????????????
+Limaysaurus                 ?????????????2????0???000?1-01100??-1-----?0????120????????0??21001020-110011???????????????????2212??1???13??00101001001312?002011100?01????012?0?000???11??????01210000001001100010011?00000???2110????02?111111020???01102??1101?000?11011001?0?????00??1??????1??01??0101000101101111?2101?001?11????1?111??????10001?1211????????????0???
+Rebbachisaurus              ???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????0??2??002?11?????1?111?32?0?0000?111???????????????????????????????????????????????????11??0201????????????1??0?????????????????????????????????????????01??1??????????????????????????????????????????????????????0???
+Alamosaurus                 ?????????????????????????????????????????????????????????????????????????????????????????????2????12???0??11201?001???00??1??0020101???1??110?11?0?111???113?????000231200000011001100011111101?????0?010121??01101211?1110021?11011111101010011213-1112111112--1?111211?????00111110?01111?1?1?1???11??0?1???????????????????????????????0???
+Nemegtosaurus               2001?21?0-?0?2?110111000110101010221?11010101110021?111?210111100110111200100?10111??000?111120122121001??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+Opisthocoelicaudia          ???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????1?41210?1110113001011101211?111111-03110?1?00221300010011011100101110100030????110120210110001111110121111111111101010111213-1112111112--1111?2111010010111110111112211111?11111012011111111111101012110111021011110???
+Rapetosaurus                201020????1012011101?000?000010100211?1010?0????021???1?21011?20011021021?10??00121??0?0??1112012212000?6?12??10?11??000151?1112?101???00?000021?101111?11131?1001101??2000000111???0001?101100???101?01?12021?1111010??100020?11?1?011?0100000120??11?200110????1111111?0100?0111?101111?10111010110????10?????????100?1?1210????????????1010
+Saltasaurus                 ??????????????????????00???001??0??11?????????????????????????1?0110111210??0???????????????????2?????????111?00001200001?1210?101111100111?111110?111111103110?11?0???210?0001111110011?111101?001?????0120??01111010??11012??11111111?0111011111???????????????111121110110001111101111122111111?11110?20?????????????1?????????????????1000
+Isisaurus                   ??????????????????????????????????????????????????????????????????????????????????????????????????????????11??10001000001?1?1?0201011?001111100110?0110?11?3110????0???200000011000100001011100???1???1?0120??01??1010??10??????111101111101011??????????????????11112111011000111111??????????????????????????????????????????????????????010
+Losillasaurus               ?????????????????????????????????????????????????????????????????????0???1????????????????????????????????110100???10?00??1???0??11100?01???0??110?2000?1?1???0????0???1?0?0000000310?0?????????????????????????????????????00000??00100????????2?????1????????????000???010???1??????????????????????????????????????????????????????????????
+Suuwassea                   3?10??????????????????????000?101???1210?1???????10???????????111010?00110?1??????????????????????121?00?1121?0010?10121??221??????1???01????0???????????????????0?????100?0???????1???100000?0?11?1000???????01110001100010????011001001?????????????????????????????????????????????????????????111???110???????0?1111111?1?111???10111?0???
+SMA_0009                    ??????????????????????????????????????????????????????????????????????????????????????????????????????????12111?0?1100????0????00001?0?010?11?2?1??00100000??????0??10000001?011??110?000000100???10011?????21?1??0?01??0010????00???1001???100110?11110001???????10??111?????????????1???2201??01????1?1?01?1??????1??01??2?1?????????????101
+
+;
+
+
+cnames
+{ 0 Morphology_of_rostralmost_ends_of_jaws_in_dorsal_view_(W65,_U1) triangular,_with_acute_tip broadly_rounded_rostrally_with_linear,_roughly_parallel_lateral_margins_(U-shaped_or_parabolic) platalean_(broadly_rounded_and_convex_rostrally_but_with_lateral_margins_that_are_sinuous,_convex_rostrally_but_becoming_concave,_producing_spoon-shape) rectangular,_especially_lower_jaw_(rostral_margin_linear_and_at_abrupt_angle_to_lateral_margins);
+{ 1 Configuration_of_caudolateral_processes_of_premaxilla_and_lateral_processes_of_maxilla_(W1,_U15) lacking_midline_contact possessing_midline_contact_and_forming_marked_narial_depression;
+{ 2 **Angle_between_lateral_and_medial_margins_of_premaxilla_as_seen_in_dorsal_view_(U12-14) >20º <=_20º;
+{ 3 Morphology_of_rostral_margin_of_premaxilla_(=_region_rostral_to_nasal_process)_in_lateral_view_(W2,_U10) without_"step" with_marked_"step,"_rostral_margin_of_skull_thus_sharply_demarcated_(=_muzzle-like_area_present);
+{ 4 Free_portion_of_nasal_process_of_premaxilla_in_lateral_view_(U11) majority_projects_caudally_and_divides_external_nares_into_right_and_left_halves majority_projects_dorsally_and_divides_external_nares_into_right_and_left_halves is_greatly_reduced,_reducing_or_eliminating_internarial_bar_and_creating_single,_confluent_external_narial_opening;
+{ 5 Thin,_plate-like_process_(flange)_directed_rostromedially_from_edge_of_maxillary_ascending_process_(U17-18,_C14) absent present_but_lacking_midline_contact present_and_contacting_each_other_at_midline;
+{ 6 Direction_in_which_subnarial_foramen_faces_(U6) lateral dorsal;
+{ 7 Proportions_and_size_of_subnarial_foramen_(U7) small_and_subcircular elongate_(at_least_2x_longer_than_wide_in_direction_of_premaxilla-maxilla_suture);
+{ 8 Position_of_subnarial_foramen_with_respect_to_narial_fossa_(U8) outside within;
+{ 9 Relative_positions_of_subnarial_foramen_and_rostral_maxillary_foramen_(W5) well_distanced_from_one_another separated_only_by_narrow_bony_isthmus;
+{ 10 External_nares_face_(U4) laterally_or_rostrolaterally dorsally_or_rostrodorsally;
+{ 11 Shelf-like_area_or_fossa_(narial_fossa)_on_premaxilla_and_maxilla_lateral_to_external_nares_(W1,_U19) absent present;
+{ 12 Length_of_border_of_external_naris_formed_by_maxilla_(W3) short_(less_than_1/4_narial_perimeter) long_(more_than_1/3_narial_perimeter);
+{ 13 **Position_of_mid-point_of_osteological_external_nares_(W8,_U2-3,_C7,_S7) rostral_to_antorbital_fenestra dorsal_to_antorbital_fenestra caudal_to_antorbital_fenestra;
+{ 14 Ratio_of_maximum_diameter_of_osteological_external_nares:maximum_diameter_of_orbit_(W9,_U5) <1.0_(nares_shorter) >=1.0_(nares_longer);
+{ 15 Preantorbital_fenestra_(W4,_U20,_S24) absent present;
+{ 16 Antorbital_fossa_(W7,_U21) present absent;
+{ 17 Ratio_of_maximum_diameter_of_antorbital_fenestra:maximum_diameter_of_orbit_(W6) <0.85_(orbit_significantly_larger) >=0.85_(diameters_subequal);
+{ 18 Angle_subtended_by_rostral_and_ventral_margins_of_orbit_(W10) obtuse_or_roughly_90_degrees markedly_acute;
+{ 19 Rostral_extent_of_maxillary_process_of_lacrimal_(W11,_U16) dorsal_to_midpoint_of_antorbital_fenestra caudodorsal_to_midpoint_of_antorbital_fenestra_but_rostral_to_caudodorsal_corner_of_antorbital_fenestra process_absent,_maxilla-lacrimal_contact_at_caudodorsal_corner_of_antorbital_fenestra;
+{ 20 Element_contacting_ectopterygoid_laterally_(W12,_U65) jugal maxilla;
+{ 21 Contribution_by_jugal_to_antorbital_fenestra_(W13,_U22) reduced_or_absent large_(occupying_most_of_caudoventral_margin);
+{ 22 Size_of_frontal_(=_caudal)_process_of_prefrontal_(W14) small_(does_not_project_far_beyond_frontal-nasal_suture) elongate_(approaches_parietal);
+{ 23 Morphology_of_frontal_process_of_prefrontal_in_dorsal_view_(W15,_U33) flat,_broadly_rounded_or_square hooked_or_acute_and_subtriangular;
+{ 24 Morphology_of_jugal_(=_ventral)_process_of_postorbital_(W16,_U28) mediolaterally_narrow broader_mediolaterally_than_rostrocaudally;
+{ 25 Jugal_(=_ventral)_process_of_postorbital_(U31) does_not_contact_lacrimal_(jugal_intervenes) contacts_lacrimal_(excludes_jugal_from_margin_of_orbit);
+{ 26 Squamosal_(=_caudal)_process_of_postorbital_(W17) present absent;
+{ 27 **Frontal-parietal_suture_in_dorsal_view_(W18,_U34) between_supratemporal_fenestrae/fossae_(frontals_contribute_to_rostral_margin_of_fenestrae/fossae) rostral_to_supratemporal_fenestrae/fossae_(frontals_excluded_from_rostral_margin_of_fenestrae/fossae);
+{ 28 Midline_contact_(symphysis)_between_frontals_in_adults_(W19,_U36,_C13,_S31) sutured fused;
+{ 29 Ratio_of_rostrocaudal_length:minimum_mediolateral_width_of_frontal_(W20,_U35) >=1.0_(equal_or_longer_than_wide) <1.0_(wider_than_long);
+{ 30 Dorsoventral_height_of_occipital_process_of_parietal_(W21) short_(less_than_diameter_of_foramen_magnum) deep_(nearly_twice_the_diameter_of_the_foramen_magnum);
+{ 31 Contribution_to_posttemporal_fenestra_by_parietal_(W22,_U42) present absent;
+{ 32 Postparietal_foramen_(W23,_U43,_S26) absent present;
+{ 33 Morphology_of_infratemporal_fenestra_(C9,_S6) subrectangular subtriangular linear_(slit-like,_crescentic);
+{ 34 **Position_of_rostralmost_or_rostroventralmost_end_of_infratemporal_fenestra_(W30,_U29-30,_C8,_S32) caudal_to_orbit rostral_to_caudal_margin_of_but_caudal_to_or_equal_with_midpoint_of_orbit rostral_to_midpoint_of_orbit;
+{ 35 **Ratio_of_intraparietal_distance_separating_supratemporal_fenestrae:length_of_long_axis_of_supratemporal_fenestrae_(W24) <2.0 >=2.0;
+{ 36 Supratemporal_fossa_surrounds_supratemporal_fenestra_(U37) present absent;
+{ 37 **Orientation_of_long_axis_of_external_supratemporal_fenestra_(W25-26,_U40) rostrocaudal mediolateral dorsoventral_(axis_of_fenestra_is_longer_in_lateral_than_dorsal_view);
+{ 38 Contribution_by_squamosal_to_dorsal_(dorsomedial)_margin_of_supratemporal_fenestra_(U44) present absent_(excluded_by_parietal-postorbital_contact);
+{ 39 Ratio_of_maximum_diameter_of_supratemporal_fenestra:diameter_of_foramen_magnum_(W27,_U41,_C10,_S30) >>1.0 ~1.0_(subequal);
+{ 40 Ratio_of_rostrocaudal:mediolateral_dimension_of_temporal_bar_(supratemporal_region)_(W28) >=1.0_(longer_rostrocaudally) <1.0_(longer_mediolaterally);
+{ 41 Lateral_visibility_of_supratemporal_fenestra_(W29,_U38-39) not_visible_(obscured_by_temporal_bar) visible_(temporal_bar_shifted_ventrally);
+{ 42 Maxilla-quadratojugal_contact_(U24,_C11,_S2) absent present;
+{ 43 Squamosal-quadratojugal_contact_(W31,_U45) present absent;
+{ 44 Ratio_of_length_of_rostral_(=_jugal_or_maxillary)_process_of_quadratojugal:length_of_squamosal_(=_dorsal)_process_(W32,_U23) <=1.0 >=1.0;
+{ 45 Rostral_process_of_quadratojugal_(U25) tapers_to_acute_tip expands_dorsoventrally_at_tip;
+{ 46 Orientation_of_rostral_process_of_quadratojugal_in_lateral_view_(U26) straight_or_curves_slightly_dorsally_at_tip angles_ventrally_at_tip;
+{ 47 Angle_between_rostral_and_dorsal_processes_of_the_quadratojugal_(U27) roughly_90º >>90º;
+{ 48 Orientation_of_long_axis_of_quadrate_with_respect_to_long_axis_of_skull_(U68,_C5,_S5) perpendicular angled_caudodorsally-rostroventrally;
+{ 49 **Quadrate_fossa_(W33-34,_U66-67,_C1) absent shallow deeply_invaginated;
+{ 50 Orientation_of_quadrate_fossa_(W35) caudal caudolateral;
+{ 51 Rostral_articulation_of_vomer_(W42) with_maxilla with_premaxilla;
+{ 52 Morphology_of_lateral_ramus_of_palatine_(W40) plate-like_(long_maxillary_contact) rod-like_(narrow_maxillary_contact);
+{ 53 Rostral_end_of_maxillary_process_of_palatine_(U57) poorly_developed_and_unexpanded mediolaterally_expanded;
+{ 54 Composition_of_palatine_(=_rostral)_process_of_pterygoid_(U61) formed_from_two_sheets_of_bone_that_project_laterally_and_ventrally formed_from_single,_flat_plate;
+{ 55 Ratio_of_width_of_main_body_of_pterygoid:overall_length_of_pterygoid_(U62) <0.20 >=0.20;
+{ 56 Morphology_of_contact_surface_on_pterygoid_for_basipterygoid_articulation_(W36,_U63-64) small_facet dorsomedially-oriented_hook rocker-like_surface;
+{ 57 Rostrocaudal_position_of_ectopterygoid_process_of_pterygoid_(W37,_U58-59) caudal_or_ventral_to_orbit between_orbit_and_antorbital_fenestra_or_ventral_to_antorbital_fenestra rostral_to_antorbital_fenestra;
+{ 58 Dorsoventral_position_of_ectopterygoid_process_of_pterygoid_(U60) projects_below_ventral_margin_of_skull_(usually_robust) does_not_project_below_ventral_margin_of_skull_(usually_slender);
+{ 59 Size_of_quadrate_flange_of_pterygoid_(W38) large_(palatobasal_and_quadrate_articulations_well_separated) small_(palatobasal_and_quadrate_articulations_approach);
+{ 60 Shape_of_palatine_ramus_of_pterygoid_(W39) straight_(at_level_of_dorsal_margin_of_quadrate_ramus) stepped_(raised_above_level_of_quadrate_ramus);
+{ 61 Epipterygoid_(W41) present absent;
+{ 62 **Ratio_of_dorsoventral_height_of_supraoccipital:height_of_foramen_magnum_(W43) >=2 1.01-1.99 <=1;
+{ 63 Sagittal_and_transverse_nuchal_crests_merge_smoothly_at_dorsal_end_of_supraoccipital_forming_low_tetrahedral_process_(S29) absent present;
+{ 64 Distal_ends_of_paroccipital_processes_(U46) flat_or_slightly_convex_laterally markedly_convex_laterally_and_expanded_suddenly_dorsally_and_ventrally_("tongue-like"_process_present);
+{ 65 Ventral_(nonarticular)_process_of_paroccipital_process_(W44) absent present;
+{ 66 Morphology_of_occipital_region_of_skull_(W54) concave_caudally,_with_paroccipital_processes_oriented_caudolaterally flat_with_paroccipital_processes_oriented_mediolaterally;
+{ 67 Morphology_of_crista_prootica_(W45,_U49) simple,_low_crest,_either_lacking_processes_or_with_low,_non_prominent,_craniocaudally_compressed_process possessing_prominent,_craniocaudally_compressed,_"leaf-shaped"_dorsolateral_process;
+{ 68 **Ratio_of_length:maximum_basal_diameter_of_basipterygoid_processes_(W46,_U52-53,_S27) <=2 2.01-3.99 >=4.0;
+{ 69 Angle_of_divergence_between_basipterygoid_processes_(W47,_U54,_S28) >=30° <30°;
+{ 70 **Ratio_of_rostrocaudal_depth:dorsoventral_height_of_basal_tubercula_(W48,_U48) >=0.25 <0.25_(sheet-like);
+{ 71 Ratio_of_mediolateral_width_of_paired_basal_tubercula:mediolateral_width_of_occipital_condyle__(W49) <1.0 1.0-1.2 >1.2;
+{ 72 Basisphenoid_fossa/foramen_between_foramen_magnum_and_basal_tubercula_(W50) absent present;
+{ 73 Region_between_basipterygoid_processes_(W51,_U55) shallowly_concave deep_pit;
+{ 74 Basisphenoid-quadrate_contact_(W52) absent present;
+{ 75 Orientation_of_basipterygoid_processes_(W53,_U50,_C6,_S3) roughly_perpendicular_to_skull_roof forming_markedly_acute_angle_to_skull_roof;
+{ 76 Cross-sectional_morphology_of_basipterygoid_processes_(U51) elliptical_or_subtriangular subcircular;
+{ 77 Morphology_of_parasphenoid_rostrum_(U56) broadly_triangular_in_lateral_view_and_with_groove_on_dorsal_margin slender,_spike-like,_and_lacking_dorsal_groove;
+{ 78 Depth_of_rostral_end_of_dentary_ramus_(W55,_U69) decreases_or_maintains_dorsoventral_height_rostrally increases_in_dorsoventral_height_and_robustness_rostrally;
+{ 79 Morphology_of_rostroventral_margin_of_dentary_(W56,_U70) gently_rounded sharply_projecting_triangular_process_("chin");
+{ 80 Angle_between_dentary_symphysis_and_long_axis_of_jaw_ramus_(W57,_U71) <75° >75°_(close_to_perpendicular);
+{ 81 **Ratio_of_length_of_external__mandibular_fenestra:length_of_mandible_(W58,_U76-77) >=0.10 <0.10 absent;
+{ 82 Ratio_of_surangular_dorsoventral_depth:maximum_depth_of_angular_(W59,_U75) <2.0 >=2.0;
+{ 83 Ridge_on_surangular_separating_adductor_and_articular_fossae_(W60) absent present;
+{ 84 Depth_of_medial_wall_of_adductor_fossa_(W61) shallow deep,_with_prearticular_expanded_dorsoventrally;
+{ 85 Position_of_rostral_end_of_splenial_relative_to_mandibular_symphysis_(U72) caudal_to participates_in_symphysis;
+{ 86 Position_of_caudal_process_of_splenial_(W62,_U74) overlaps_angular separating_rostral_portions_of_prearticular_and_angular;
+{ 87 Caudodorsal_process_of_splenial_(W63,_U73) present,_approaching_margin_of_adductor_chamber absent;
+{ 88 Size_of_coronoid_(W64) extends_to_dorsal_margin_of_jaw reduced,_does_not_extend_to_splenial absent;
+{ 89 Plate_of_bone_lying_lateral_to_teeth_on_premaxilla,_maxilla,_and_dentary_(U9) absent present;
+{ 90 Position_in_tooth_row_of_largest_teeth_(U78) mid-length_along_maxilla rostral_end_of_jaws;
+{ 91 **Number_of_dentary_teeth_(W73,_U91) >=18 <=17;
+{ 92 Length_of_tooth_rows_(W66,_U94-95) extends_to_orbit rostral_to_orbit_but_caudal_to_subnarial_foramen restricted_rostral_to_subnarial_foramen;
+{ 93 **Occlusal_pattern_(W67-68) absent interlocking_(creating_V-shaped_facets) planar_facets_at_markedly_acute_angle_to_long_axis_of_tooth_(high-angled) planar_facets_at_roughly_90°_angle_to_long_axis_of_tooth_(low-angled);
+{ 94 Orientation_of_tooth_crowns_(W69,_U80) aligned_along_jaw_axis_(crowns_do_not_overlap) aligned_slightly_rostrolingually_(tooth_crowns_overlap);
+{ 95 Contact_between_adjacent_tooth_crowns_(U81) present absent;
+{ 96 Ratio_of_length_of_worn_tooth_crown:width_of_lingual_face_(=_"slenderness_index")_(U87-89) <=3.0_(crowns_expanded,_teeth_spatulate) 3.01-3.99 >=4.0;
+{ 97 **Cross-sectional_shape_of_worn_tooth_crowns_at_mid-crown_(W70,_U84-85,_U92,_C2,_S1) elliptical_(convex_both_labially_and_lingually) D-shaped_(convex_labially,_flat_or_concave_lingually) circular_(spatulate_crown_wears_away_leaving_facet_on_root_=_"pencil-"_or_"peg-like"_tooth_morphology);
+{ 98 Enamel_surface_texture_(W71,_U79) smooth wrinkled;
+{ 99 Marginal_tooth_denticles_(W72,_U82-83,_C3) present absent_on_distal_margin_only absent_on_both_mesial_and_distal_margins;
+{ 100 Number_of_replacement_teeth_per_alveolus_(W74,_U90) <=2 >=3;
+{ 101 Orientation_of_teeth_(W75,_U93) perpendicular_to_jaw_margin oriented_rostrally_with_respect_to_jaw_margin_(procumbent);
+{ 102 Longitudinal_grooves_on_lingual_face_of_tooth_(W76) absent present;
+{ 103 Prominent_grooves_near_mesial_and_distal_margins_of_labial_surface_of_tooth_crowns_(U86) absent present;
+{ 104 Number_of_cervical_vertebrae_(W80,_U96-100,_S25) <=9 10 11 12 13 14 >=15;
+{ 105 Shape_of_occipital_facet_of_atlantal_intercentrum_(W79,_U101) rectangular_in_lateral_view_(dorsal_and_ventral_lengths_subequal) wedge-shaped_(craniocaudal_length_of_ventral_margin_greater_than_that_of_dorsal_margin);
+{ 106 Morphology_of_articular_facets_of_cervical_vertebral_bodies_(W82,_U103) amphicoelous/amphiplatyan opisthocoelous;
+{ 107 **Morphology_of_cervical_pleurocoelous_fossae_(W78,_W83,_U110,_C15,_S33) absent simple,_undivided simple_and_undivided_in_cranial_cervicals_but_becoming_complex_(divided_by_bony_septa)_in_caudal_cervicals,_producing_numerous,_laterally_visible_foramina complex_(with_numerous,_laterally_visible_foramina)_in_all_(post-axial)_cervicals;
+{ 108 Morphology_of_ventral_surface_of_cervical_vertebral_bodies_(U106-107) with_prominent_sagittal_keels flat_or_mildly_convex_ventrally concave_ventrally_(longitudinal_sulcus_present);
+{ 109 Fossae_on_dorsal_surface_of_costolateral_eminences_of_cervical_vertebrae_(U109) absent present_and_confluent_with_pleurocoelous_fossa present_but_separated_from_pleurocoelous_fossa_by_ridge;
+{ 110 Lamination_(especially_corporodiapophyseal)_of_cervical_vertebral_arches_(W81,_U115-116) well_developed_with_well_defined_lamina_and_fossae rudimentary,_diapophyseal_laminae_only_feebly_developed_or_absent;
+{ 111 **Ratio_of_caudal_articular_surface_height:width_of_cranial_cervical_vertebral_bodies_(W84,_U108) <1.25 >=1.25;
+{ 112 Angulation_of_spinous_process_on_cranial_cervical_vertebrae_(C18) dorsal_(vertical)_or_craniodorsal caudodorsal;
+{ 113 Ratio_of_craniocaudal_vertebral_body_length:dorsoventral_height_of_caudal_face_of_middle_cervical_vertebral_bodies_(W86,_U102) <4.0 >=4.0;
+{ 114 Ratio_of_dorsoventral_height_of_middle_cervical_vertebral_arches:dorsoventral_height_of_caudal_articular_facet_of_vertebral_body_(W87,_U111-112,_C16) <1.0 >=1.0;
+{ 115 Morphology_of_cranial_corporozygapophyseal_lamina_on_middle_and_caudal_cervical_vertebral_arches_(W88,_U113) single divided__(=_cranial_infrazygapophyseal_fossae_present) consists_of_two_parallel_laminae;
+{ 116 Morphology_of_articular_surfaces_of_cranial_zygapophyses_on_middle_and_caudal_cervical_vertebrae_(U114) flat transversely_convex;
+{ 117 Cervical_spinous_process_height_(U117) low_(height_of_vertebra_subequal_to_or_less_than_length_of_vertebral_body) high_(height_of_vertebra_greater_than_length_of_vertebral_body);
+{ 118 **Bifurcation_of_cervical_vertebral_spines_(W85,_C17,_S34) absent present_only_on_caudal_cervicals present_on_middle_cervicals_(to_C6) present_on_cranial_cervicals_(cranial_to_C6);
+{ 119 **Morphology_of_caudal_cervical_and_cranial_thoracic_spinous_processes_(W89-90,_U118,_C17) single bifid_but_lacking_pseudospinal_tuberculum bifid_with_sagittal_pseudospinal_tuberculum;
+{ 120 Orientation_of_caudal_margin_of_spinous_processes_on_caudal_cervical_vertebrae_with_respect_to_craniocaudal_axis_of_vertebral_body_(U119) nearly_vertical slopes_craniodorsally-caudoventrally;
+{ 121 Number_of_thoracic_vertebrae_(W91,_U122-125) 15 14 13 12 11 <=10;
+{ 122 Pleurocoelous_fossae_in_majority_of_thoracic_vertebral_bodies_(W78,_U128-129,_C22) absent present_as_deep_but_simple_pits present_as_deep_excavations_that_ramify_into_vertebral_body_and_into_base_of_vertebral_arch_(leaving_only_thin_septum_in_body_midline);
+{ 123 Lateral_position_of_pleurocoelous_foramina_on_thoracic_vertebral_bodies_(U130) absent flush_with_lateral_surface_(no_pleurocoelous_fossa) set_within_pleurocoelous_fossa;
+{ 124 Cranial_face_of_thoracic_vertebral_arches_(U136) flat_or_shallowly_excavated deeply_excavated;
+{ 125 Hypantrum-hyposphene_articulations_on_thoracic_vertebrae_(W106,_U145,_C23,_S15) absent present_on_middle_and/or_caudal_thoracics_only present_on_cranial-caudal_thoracics;
+{ 126 Single_midline_lamina_extending_ventrally_from_hyposphene_in_thoracic_vertebrae_(U146) absent present;
+{ 127 **Thoracic_vertebrae_with_spinodiapophyseal_lamina_(W99,_U156-157) none on_caudal_thoracics_only on_middle_and_caudal_thoracics;
+{ 128 Accessory_spinodiapophyseal_lamina_on_thoracic_vertebrae_with_non-bifid_spinous_processes_(U151) absent present;
+{ 129 Postspinal_lamina_on_thoracic_vertebrae_with_non-bifid_spinous_processes_(U149,_C27) absent present;
+{ 130 Orientation_of_transverse_processes_on_thoracic_vertebrae_(U138,_S35) lateral_or_slightly_dorsal strongly_dorsolateral_(approximately_45º_to_horizontal);
+{ 131 Morphology_of_articular_face_of_cranial_thoracic_vertebral_bodies_(W94,_U104) amphicoelous opisthocoelous;
+{ 132 Morphology_of_caudal_margins_of_pleurocoelous_fossae_on_cranial_thoracic_vertebrae_(U127,_C29) rounded acute;
+{ 133 Morphology_of_ventral_surfaces_of_cranial_thoracic_vertebral_bodies_(U126) ventrally_convex flat with_sagittal_crest_(creating_two_ventrolaterally-facing_surfaces) ventrally_concave_with_sagittal_crest_in_resultant_sulcus;
+{ 134 Cranial_corporozygapophyseal_lamina_on_cranial_thoracic_vertebrae_(U134) consists_of_single_lamina bifurcate_toward_upper_end_(=_cranial_infrazygapophyseal_fossa_present);
+{ 135 Orientation_of_spinous_processes_of_cranial_thoracic_vertebrae_(U158) dorsal_or_caudodorsal craniodorsal;
+{ 136 **Ratio_of_dorsoventral_height_of_vertebral_arch:dorsoventral_height_of_thoracic_vertebral_body_(W93,_U132,_C20,_C24,_C28,_S9) <=1.0 >1.0;
+{ 137 Morphology_of_cranial_corporozygapophyseal_lamina_on_middle_and_caudal_thoracic_vertebral_arches_(U135) single bifurcate_toward_upper_end_(=_cranial_infrazygapophyseal_fossa_present);
+{ 138 Cranial_corporoparapophyseal_lamina_on_middle_and_caudal_thoracic_vertebral_arches_(W96,_U133) absent present;
+{ 139 Cranial_zygaparapophyseal_lamina_on_middle_and_caudal_thoracic_vertebral_arches_(W97) absent present;
+{ 140 Caudal_corporoparapophyseal_lamina_on_middle_and_caudal_thoracic_vertebral_arches_(W98,_U137) absent present;
+{ 141 Morphology_of_the_distal_ends_of_the_transverse_processes_in_thoracic_vertebrae_(U140) transitions_smoothly_and_uninterrupted_onto_dorsal_surface_of_transverse_process possesses_distinctive,_elevated_area_with_its_own_dorsally-facing_surface_that_is_connected_to_the_dorsal_surface_of_the_remaining_process_only_by_a_sloping_region;
+{ 142 Lamination_on_cranial_face_of_(non-bifid)_spinous_process_of_middle_and_caudal_thoracic_vertebrae_(U148,_C26) none prespinal_lamina_present,_cranial_spinozygapophyseal_laminae_absent prespinal_lamina_absent,_cranial_spinozygapophyseal_laminae_present both_prespinal_and_cranial_spinozygapophyseal_laminae_present_and_connected_to_each_other_either_directly_(merging)_or_via_accessory_laminae both_prespinal_and_cranial_spinozygapophyseal_laminae_present_but_unconnected_to_each_other;
+{ 143 Caudal_zygapophyses_of_middle_and_caudal_thoracic_vertebrae_supported_dorsally_by_(W100,_W101,_U147,_U150) caudal_margin_of_alaminar_spinous_process_only_or_no_dorsal_support separate_spinopostzygapophyseal_laminae_unconnected_to_postspinal_lamina_via_accessory_laminae separate_spinopostzygapophyseal_laminae_connected_to_postspinal_lamina_at_proximal_end_either_directly_or_via_accessory_laminae;
+{ 144 Infradiapophyseal_fossa_on_thoracic_vertebral_arches_(W103,_U144) absent present;
+{ 145 Spinodiapophyseal_and_caudal_spinozygapophyseal_laminae_on_middle_and_caudal_thoracic_vertebrae_contact_each_other_(W101) absent present;
+{ 146 **Supraneural_pneumatic_cavity_within_some_or_all_thoracic_vertebral_arches_(U141) absent present_but_not_open_externally present_and_open_externally_via_foramen;
+{ 147 **Triangular,_aliform_processes_projecting_laterally_from_distal_ends_of_middle_and_caudal_(=_non-bifurcate)_thoracic_spinous_processes_(W102,_U153-154) absent present_but_do_not_project_far_laterally_(not_as_far_as_caudal_zygapophyses) present_and_project_far_laterally_(as_far_as_caudal_zygapophyses);
+{ 148 Orientation_of_middle_and_caudal_thoracic_spinous_processes_(W104) vertical caudal_(distal_end_approaches_level_of_diapophyses);
+{ 149 Morphology_of_articular_face_of_caudal_thoracic_vertebral_bodies_(W105,_U105,_C25) amphicoelous/amphiplatyan opisthocoelous;
+{ 150 Cross-sectional_morphology_of_caudal_thoracic_vertebral_bodies_(U131) subcircular dorsoventrally_compressed;
+{ 151 Ventral_end_of_caudal_corporodiapophyseal_lamina_of_caudal_thoracic_vertebrae_(U142) unexpanded expands_and_may_bifurcate;
+{ 152 Position_of_transverse_process_on_caudal_thoracic_vertebrae_(U139) caudal_or_caudodorsal_to_costolateral_eminence dorsal_to_costolateral_eminence;
+{ 153 Ratio_of_mediolateral_width:craniocaudal_length_of_caudal_(non-bifid)_thoracic_spinous_processes_(W92,_U152) <=1.0_(longer_than_wide) >1.0_(wider_than_long);
+{ 154 **Morphology_of_caudal_thoracic_spinous_processes_in_cranial_view_(W107,_U155) rectangular_for_most_of_its_length_with_little_or_no_lateral_expansion_(except_at_distal_end) progressively_expanding_mediolaterally_through_most_or_all_of_its_length_("petal"_or_"paddle"_shaped);
+{ 155 Number_of_sacral_vertebrae_(W108,_U161-163) <=3 4 5 >=6;
+{ 156 Sacricostal_yoke_(W109) absent present;
+{ 157 Ratio_of_maximum_mediolateral_width_across_sacral_vertebrae_and_ribs:average_length_of_sacral_vertebral_body_(U164) <4.0 >=4.0;
+{ 158 Pleurocoelous_fossae_and/or_foramina_in_sacral_vertebral_bodies_(U165) absent present;
+{ 159 **Ratio_of_proximodistal_length_of_sacral_spinous_processes:craniocaudal_length_of_vertebral_body_(W111) <2.0 2.0-3.49 >=3.50;
+{ 160 Dorsoventral_length_of_sacral_ribs_(W112,_U168) low_(not_projecting_beyond_dorsal_margin_of_ilium) high_(extending_to_or_beyond_dorsal_margin_of_ilium);
+{ 161 Caudal_vertebral_bone_internal_construction_(W113) solid spongy_(with_large_internal_cells);
+{ 162 **Number_of_caudal_vertebrae_(W114,_U170) <=35 36-60 >=61;
+{ 163 Ratio_of_height_of_spinous_process:dorsoventral_height_of_caudal_articular_facet_of_vertebral_body_in_caudal_thoracic,_sacral_and_proximal_caudal_vertebrae_(U166-167,_C33,_S19,_S36) <2.0 2.0-3.0 >3.0;
+{ 164 Caudal_vertebral_transverse_processes_(ribs)_(W115,_U193) persist_through_caudal_vertebra_20_or_farther_distally disappear_by_caudal_15 disappear_by_caudal_10;
+{ 165 Morphology_of_articular_face_of_first_caudal_vertebral_body_(W116,_U171) flat procoelous opisthocoelous biconvex;
+{ 166 Spinous_process_of_first_caudal_vertebra_(W117) simple_and_alaminar_or_single_fossa_on_lateral_aspect complex_system_of_laminae,_resembling_spines_of_thoracics_("dorsalized");
+{ 167 **Morphology_of_articular_face_of_proximal_caudal_vertebral_bodies_(excluding_first)_(W118,_U173-174,_C30,_S16) amphiplatyan_or_platycoelous weakly_procoelous strongly_procoelous opisthocoelous;
+{ 168 Morphology_of_articular_surfaces_in_proximal_caudal_vertebral_bodies_(U172) subcircular dorsoventrally_compressed mediolaterally_compressed;
+{ 169 Pneumatopores_(pleurocoelous_fossae_and/or_foramina)_on_proximal_caudal_vertebral_bodies_(W119,_U181,_C31) absent present;
+{ 170 Length_of_caudal_vertebral_bodies_(W120,_U178) ~same_over_first_20 doubling_over_first_20;
+{ 171 Ratio_of_proximodistal_length:dorsoventral_height_of_proximal_caudal_vertebral_body_(U177) >=0.6 <0.6;
+{ 172 Spinoprezygapophyseal_lamina_on_proximal_caudal_vertebral_arches_(W121,_U188) absent present_and_extending_onto_lateral_aspect_of_spinous_process;
+{ 173 Spinoprezygapophyseal-spinopostzygapophyseal_lamina_contact_on_proximal_caudal_vertebral_arches_(W122,_U188) absent present;
+{ 174 Prespinal_lamina_on_proximal_caudal_vertebral_arches_(W123,_U188) absent present;
+{ 175 Postspinal_lamina_on_proximal_caudal_vertebral_arches_(W124,_U188) absent present;
+{ 176 Postspinal_fossa_on_proximal_caudal_vertebral_arches_(W125,_U188) absent present;
+{ 177 Hyposphenal_ridge_on_proximal_caudal_vertebrae_(U187) absent present;
+{ 178 **Transverse_process_morphology_on_proximal_caudal_vertebrae_(W128,_U190-192,_C32,_S11) simple,_flattened_processes triangular_or_aliform_process_(connected_via_laminae_to_vertebral_arch)_on_caudal_1_only triangular_or_aliform_processes_through_caudal_3 triangular_or_aliform_processes_on_or_beyond_caudal_4;
+{ 179 Dorsoventral_extent_of_proximal_end_of_transverse_processes_on_proximal_caudal_vertebrae_(W127) shallow_(on_vertebral_body_only) deep_(extending_from_vertebral_body_to_vertebral_arch);
+{ 180 Diapophyseal_laminae_(=_proximal_and_distal_corporodiapophyseal_laminae_and_cranial_and_caudal_zygadiapophyseal_laminae)_on_proximal_caudal_transverse_processes_(W129) absent present;
+{ 181 Morphology_of_proximal_corporodiapophyseal_lamina_on_proximal_caudal_transverse_processes_(W130) single divided;
+{ 182 **Ratio_of_mediolateral_width:proximodistal_length_of_proximal_caudal_spinous_processes_(W126,_U189) <=1.0_(longer_than_wide) >1.0_(wider_than_long);
+{ 183 Ratio_of_vertebral_body_length:height_in_middle_caudal_vertebrae_(U179) <2.0 >=2.0;
+{ 184 Sharp_ridge_on_lateral_surface_of_middle_caudal_vertebral_bodies_at_arch-body_junction_(U186) absent present;
+{ 185 Morphology_of_articular_surfaces_in_middle_caudal_vertebral_bodies_(W131,_U184) subcircular flat_dorsal_and_ventral_surfaces_(~_quadrangular);
+{ 186 Ventral_longitudinal_sulcus_on_proximal_and_middle_caudal_vertebral_bodies_(W132,_U182-183) absent present;
+{ 187 Morphology_of_proximal_articular_face_of_middle_and_distal_caudal_vertebral_bodies_(W134,_U175) amphicoelous/amphiplatyan procoelous_(conical) opisthocoelous;
+{ 188 Position_of_vertebral_arches_over_vertebral_bodies_on_middle_caudal_vertebrae_(U185,_C35) straddles_midpoint_(significant_portions_located_on_either_side_of_midpoint) located_mostly_or_entirely_over_proximal_half_of_body;
+{ 189 Orientation_of_middle_caudal_spinous_processes_(W133) distodorsal vertical;
+{ 190 Morphology_of_distal_caudal_vertebral_bodies_(W135) cylindrical flattened_dorsoventrally_(at_least_2x_as_wide_mediolaterally_as_tall_dorsoventrally);
+{ 191 **Number_of_anarcuate,_distal_caudal_vertebrae_(W136,_W138,_U176) <=10 >=30;
+{ 192 Morphology_of_articular_surfaces_of_anarcuate_("whiplash")_distal_caudal_vertebrae_(W136,_W138,_U176) absent amphiplatyan proximo-_or_distoplatyan biconvex;
+{ 193 **Ratio_of_distalmost_caudal_vertebral_body_length:width_(W137,_U180,_C36,_S8) <=4.0 4.01-4.99 >=5.0;
+{ 194 Angle_between_tuberculum_and_capitulum_costae_of_cervical_ribs_(W139,_U121) greater_than_90° less_than_90°_(rib_ventrolateral_to_vertebral_body);
+{ 195 Length_of_cervical_rib_bodies_(W140,_U120) much_longer_than_vertebral_body_(overlapping_as_many_as_three_subsequent_vertebrae) slightly_longer,_equal_to,_or_shorter_than_vertebral_body_(little_or_no_overlap);
+{ 196 Proximal_pneumatopores_on_thoracic_ribs_(W141,_U160) absent present;
+{ 197 Morphology_of_proximal_ends_of_cranial_thoracic_ribs_(U159) shallowly_concave_on_both_cranial_and_caudal_faces strongly_convex_cranially_and_deeply_concave_caudally;
+{ 198 Cross-sectional_shape_of_cranial_thoracic_ribs_(W142) subcircular "plank"-like_(craniocaudal_dimension_>3x_mediolateral_dimension);
+{ 199 Haemal_arch_persistence_(W147) throughout_at_least_80%_of_tail disappearing_by_caudal_30;
+{ 200 **Morphology_of_haemal_arches_on_middle_and_distal_caudal_vertebrae_(W143-144,_U197-198,_S17) simple_or_curve_caudoventrally_(forming_caudal_process) develop_small_cranial_process cranial_and_caudal_processes_elongate_so_arch_is_proximodistally_much_longer_than_tall_dorsoventrally_("skid-like");
+{ 201 **Ratio_of_haemal_canal_dorsoventral_height:total_haemal_arch_length_(W146,_U196) <0.30 >=0.30;
+{ 202 **"Crus"_bridging_proximal_margin_of_haemal_canal_(W145,_U194-195,_C34,_S18) present_in_proximal_through_distal_haemal_arches present_in_proximal_arches_but_absent_in_middle_and_distal_arches absent_in_proximal_through_distal_arches;
+{ 203 Distal_ends_of_distal_haemal_arches_(W148,_U199,_C37) fused unfused_(open);
+{ 204 Ratio_of_forelimb:hindlimb_length_(W149,_U214-215) <=0.6 0.6-0.74 >=0.75;
+{ 205 **Ratio_of_humerus:femur_proximodistal_length_(W172,_U216,_C48,_S12) <0.60 0.60-0.89 >=0.90;
+{ 206 Position_of_dorsalmost_point_of_acromion_process_of_scapula closer_to_level_of_glenoid_fossa_than_to_level_of_midpoint_of_scapular_body equidistant_between_or_closer_to_level_of_midpoint_of_scapular_body_than_to_level_of_glenoid_fossa;
+{ 207 Size_of_scapular_acromion_(W150,_U200) small_and_narrow broad_(dorsoventral_width_more_than_150%_minimum_width_of_scapular_body);
+{ 208 Deltoid_crest_(=_crest_of_acromion_process)_(U201) absent present;
+{ 209 Morphology_of_portion_of_acromion_caudal_to_deltoid_crest_(U202) flat_or_convex_and_decreases_in_mediolateral_thickness_toward_caudal_margin forms_distinct_fossa;
+{ 210 Orientation_of_scapular_body_with_respect_to_coracoid_articulation_(W151) roughly_perpendicular roughly_45°_angle;
+{ 211 Morphology_of_scapular_body_(W152,_U206,_C38,_S19) acromial_(dorsal)_edge_not_expanded_(parallels_long_axis_of_body) acromial_edge_with_rounded_dorsal_expansion_caudal_to_acromion_but_cranial_to_distal_end distal_end_racquet-shaped_(dorsoventrally_expanded);
+{ 212 Orientation_of_scapular_glenoid_fossa_(W153,_U203) flat_or_facing_laterally strongly_bevelled_medially;
+{ 213 Cross-sectional_shape_of_proximal_end_of_scapular_body_(W154) flat_or_rectangular D-shaped;
+{ 214 Dorsal_ridge_on_medial_surface_of_scapular_body_(U204) absent present;
+{ 215 Ventral_ridge_on_medial_surface_of_scapular_body_(U205) absent present;
+{ 216 **Ratio_of_craniocaudal_length_of_coracoid:maximum_length_of_scapula-coracoid_articulation_(W155) <1.5_(articular_surface_longer) >=1.5_(craniocaudal_length_longer);
+{ 217 Morphology_of_craniodorsal_margin_of_coracoid_(W156,_U208) rounded_(cranial_and_dorsal_margins_grade_into_one_another) rectangular_(meet_at_abrupt_angle);
+{ 218 Position_of_dorsal_margin_of_coracoid_with_respect_to_dorsal_margin_of_scapula_(U207) equal_or_dorsal_to_acromion ventral_to_acromion_and_separated_from_it_by_V-shaped_notch;
+{ 219 Infraglenoid_lip_of_coracoid_(W157) absent present;
+{ 220 **Morphology_of_sternal_plate_(W158,_U210,_C39) ovoid triangular_due_to_presence_of_acute_craniolateral_projection elliptical_with_concave_lateral_margin;
+{ 221 Ratio_of_maximum_length_of_sternal_plate:length_of_humerus_(U209) <0.75 >=0.75;
+{ 222 Ridge_on_ventral_surface_of_sternal_plate_(U213) absent present;
+{ 223 Prominent_caudolateral_expansion_of_sternal_plate_producing_reniform_profile_in_dorsal_view_(U211) absent present;
+{ 224 Prominent_proximolateral_process_on_humerus_(W159,_U218) present_(proximal_end_of_humerus_markedly_convex_in_cranial_view) absent_(proximal_end_of_humerus_flat_or_gently_sinusoidal_in_cranial_view);
+{ 225 Supracoracoideus_tuberculum_on_proximolateral_portion_of_humerus_(U217) absent present;
+{ 226 Development_of_humeral_deltopectoral_crest_(W160,_U219) prominent reduced_to_low_crest_or_ridge;
+{ 227 Position_of_deltopectoral_crest_(U220) restricted_to_lateral_edge_of_humerus expanded_medially_across_cranial_face_of_humerus;
+{ 228 Morphology_of_humeral_deltopectoral_crest_(W161) relatively_narrow_throughout_length markedly_expanded_distally;
+{ 229 Cross-sectional_shape_of_humerus_at_mid-shaft_(W162) circular elliptical_with_long_axis_oriented_transversely;
+{ 230 Extent_of_distal_articular_surface_of_humerus_(W163,_U222) restricted_to_distal_end_(articular_surface_flat) exposed_on_cranial_and_caudal_portions_of_humeral_shaft_(forming_convex_articular_surface);
+{ 231 Distocaudal_surface_of_humerus_(U221) shallowly_concave deeply_concave,_bounded_between_prominent_vertical_ridges;
+{ 232 Morphology_of_distal_humeral_articular_surface_(W164) divided flat_(separate_condyles_indistinct);
+{ 233 Morphology_of_proximal_ulna_(W165,_U223) subtriangular triradiate_with_deep_radial_fossa;
+{ 234 Morphology_of_articular_surface_of_craniomedial_process_of_ulna_in_cranial_view_(U224) flat strongly_concave_on_proximal_surface;
+{ 235 Relative_length_of_proximal_ulnar_condylar_processes_(W166) subequal unequal_(with_cranial_process_longer);
+{ 236 Development_of_ulnar_olecranon_process_(W167) prominent_(projecting_beyond_proximal_articular_surface) rudimentary_(level_with_proximal_articular_surface);
+{ 237 Ratio_of_proximodistal_length:proximal_breadth_of_ulna_(W168) gracile stout;
+{ 238 Ratio_of_maximum_diameter_of_proximal_end_of_radius:radius_length_(U225) <0.30 >=0.30;
+{ 239 Morphology_of_distal_condyle_of_radius_(W169,_U226) round subrectangular_(flattened_caudally_and_articulating_on_cranial_side_of_ulna);
+{ 240 **Ratio_of_distal:midshaft_breadth_of_radius_(W170) <1.50 1.50-1.90 >1.90;
+{ 241 Orientation_of_distal_radial_condyle_with_respect_to_long_axis_of_shaft_(W171) perpendicular bevelled_approximately_20°_proximolaterally;
+{ 242 **Number_of_ossified_carpal_bones_(W173,_U228-230) >=3 2 1 none;
+{ 243 Morphology_of_carpal_bones_(W174,_U227) round blocky_(with_flattened_proximal_and_distal_articular_surfaces);
+{ 244 Morphology_of_metacarpus_(W175,_U235) spreading bound_(with_subparallel_shafts_and_articular_surfaces_extending_half_their_length);
+{ 245 Morphology_of_proximal_surface_of_metacarpals_in_articulation_(W176) gently_curving_to_form_90°_arc U-shaped_(subtending_arc_of_270°);
+{ 246 Triangular,_striated_areas_for_ligament_attachment_on_proximal_parts_of_metacarpal_shafts_(U236) absent present;
+{ 247 **Ratio_of_length_of_longest_metacarpal:length_of_radius_(W177,_U233,_C49) <0.35 0.35-0.45 >0.45;
+{ 248 Ratio_of_length_of_metacarpal_I:lengths_of_metacarpal_II_or_III_(whichever_is_longest)_(U232) <=1.0 >1.0_(mcI_is_longest_metacarpal);
+{ 249 Ratio_of_length_of_metacarpal_I:length_of_metacarpal_IV_(W178,_U231) <1.0 >=1.0;
+{ 250 Morphology_of_distal_condyle_of_metacarpal_I_(W179) divided undivided;
+{ 251 Ratio_of_length_of_metacarpal_V:length_of_longest_metacarpal_(U234) <0.90 >=0.90;
+{ 252 Orientation_of_mediolateral_axis_of_metacarpal_I_distal_condyle_with_respect_to_axis_of_shaft_(W180) bevelled_~20°_proximodistally perpendicular;
+{ 253 Manual_phalangeal_formula_(W181,_U238-239,_U241) 2-3-4-3-2_or_more reduced_to_2-2-2-2-2_or_fewer completely_absent_or_unossified;
+{ 254 Morphology_of_manual_phalanx_I-1_(W182) rectangular wedge-shaped;
+{ 255 Ratio_of_proximodistal_length:mediolateral_width_of_manual_nonungual_phalanges_(W183,_U237) >1.0_(longer_than_wide) <1.0_(wider_than_long);
+{ 256 Size_of_ungual_on_manual_digit_I_(U240) large_(at_least_50%_length_of_metacarpal_I) reduced_(<25%_length_of_metacarpal_I)_or_absent;
+{ 257 Cranial_mediolateral_dimension_of_pelvis_(W184) narrow_(ilia_longer_craniocaudally_than_distance_separating_preacetabular_processes) wide_(distance_between_preacetabular_processes_exceeds_craniocaudal_dimension_of_ilia);
+{ 258 Morphology_of_dorsal_margin_of_ilium_body_(in_lateral_view)_(W186,_U247) flat,_sigmoid,_or_gently_convex semicircular_(markedly_convex);
+{ 259 Position_of_dorsalmost_point_on_ilium_(U245) caudal_or_dorsal_to_base_of_pubic_process cranial_to_base_of_pubic_process;
+{ 260 In_lateral_view,_the_cranioventralmost_point_on_the_iliac_preacetabular_process_(W188,_U244,_C40) is_also_the_cranialmost_point_(preacetabular_process_is_pointed) is_caudal_to_the_cranialmost_part_of_process_(process_is_semicircular_with_caudoventral_excursion_of_cartilage_cap);
+{ 261 **Orientation_of_preacetabular_ala_of_ilium_with_respect_to_axis_of_body_(W187,_U242-243) cranial_in_vertical_plane craniolateral_in_vertical_plane craniolateral_and_cranial_edge_curls_laterally_into_horizontal_plane;
+{ 262 Size_of_ischiadic_peduncle_of_ilium_(W185,_U248) large_and_prominent_(long_axis_of_ilium_roughly_horizontal) low_and_rounded_(long_axis_of_ilium_oriented_craniodorsally-caudoventrally);
+{ 263 Projected_line_(chord)_connecting_articular_surfaces_of_ischiadic_and_pubic_processes_of_ilium_(U249) passes_ventral_to_ventral_margin_of_postacetabular_portion_of_ilium passes_through_or_dorsal_to_ventral_edge_of_postacetabular_portion_of_ilium;
+{ 264 Brevis_fossa_on_postacetabular_ala_of_ilium_(U246) present absent;
+{ 265 Development_of_ambiens_process_of_pubis_(W189,_U250,_C42,_S20) absent_or_small,_striated_area_confluent_with_cranial_margin_of_pubis prominent_and_projecting_cranial_to_cranial_margin_of_pubis_("hook-like");
+{ 266 Morphology_of_pubic_"apron"_(W190,_U252) flat_(with_straight_symphysis,_proximal_end_in_parasagittal_plane_but_middle_and_distal_ends_in_mediolateral_plane) canted_craniomedially_(middle_and_distal_ends_in_same_plane_as_proximal_end,_gently_sigmoid_symphysis_and_V-shaped_in_cross_section_at_body_midlength);
+{ 267 **Ratio_of_length_of_puboischiadic_contact:proximodistal_length_of_pubis_(W191,_U253,_C41) <0.40 >=0.40;
+{ 268 **Ratio_of_proximodistal_length_of_ischium_body:length_of_pubis_body_(W192,_U251,_C45) <0.90 >=0.90;
+{ 269 Tuberosity_on_lateral_surface_of_iliac_process_of_ischium_(U255) absent present;
+{ 270 Projected_line_(chord)_of_long_axis_of_ischium_body_in_articulation_with_ilium_(U259) passes_through_lower_part_of_acetabulum_or_upper_part_of_pubic_articular_surface_(long_axis_of_ischium_~60º_to_horizontal) passes_through_upper_part_of_acetabular_margin_or_approaches_rim_of_iliac_articulation_(long_axis_of_ischium_~80º_to_horizontal);
+{ 271 Morphology_of_ischium_body_distal_to_pubic_process_(W193,_U254,_C46) emarginate_(sagittal_notch) not_emarginate;
+{ 272 Morphology_of_distal_shaft_of_ischium_(W194,_U260) craniocaudal_depth_increases_medially_but_not_laterally blade-like_(craniocaudal_depths_on_both_medial_and_lateral_sides_subequal);
+{ 273 Ratio_of_mediolateral_width_of_distal_end_of_ischium:proximodistal_length_of_ischium_(U256) <=0.15 >0.15;
+{ 274 **Ratio_of_mediolateral_width:craniocaudal_thickness_of_distal_end_of_ischium_body_(U260) <2.0 >=2.0;
+{ 275 Cross-sectional_morphology_of_articulated_distal_ischial_bodies_(W195,_U258,_C43,_S22) V-shaped_(forming_marked_angle_to_one_another) flat_(nearly_coplanar);
+{ 276 Expansion_of_distal_end_of_ischium_body_(U257,_C44,_S21) slight strong_dorsoventrally;
+{ 277 Morphology_of_cranial_face_of_femoral_body_in_lateral_view_(U266) convex straight;
+{ 278 Orientation_of_femoral_caput_in_cranial_view_(U263) medial_or_ventromedial dorsomedial;
+{ 279 Position_of_fourth_trochanter_on_femoral_body_(U268) on_caudal_surface,_near_midline on_caudomedial_margin;
+{ 280 Development_of_fourth_trochanter_of_femur_(W196,_U269) prominent_and_blade-like reduced_to_low_crest_or_ridge;
+{ 281 Position_of_distal_tip_of_fourth_trochanter_(U267) lies_above_midshaft_height lies_at_or_below_midshaft_height;
+{ 282 **Morphology_of_lesser_trochanter_of_femur_(W197,_U261-262) well-developed_ridge_or_plate weakly_developed_ridge_or_plate absent;
+{ 283 **Ratio_of_mediolateral:craniocaudal_diameter_of_femur_at_midshaft_(W198,_U270) <1.25_(~1.0) 1.25-1.50 >=1.85;
+{ 284 Morphology_of_lateral_margin_of_femoral_shaft_in_cranial_or_caudal_view_(W199,_U265,_C47) straight proximal_1/3_deflected_medially;
+{ 285 Morphology_of_middle_and_distal_portion_of_femoral_body_in_cranial_view_(U264) sigmoid straight;
+{ 286 Relative_mediolateral_breadth_of_distal_femoral_condyles_(W200,_U271) subequal tibial_condyle_much_broader_than_fibular_condyle;
+{ 287 Orientation_of_femoral_distal_condyles_with_respect_to_femoral_shaft_(W201) perpendicular_or_slightly_bevelled_dorsolaterally bevelled_dorsomedially_~10°;
+{ 288 Morphology_of_articular_surface_of_femoral_distal_condyles_(W202,_U272) restricted_to_distal_portion_of_femur expanded_onto_cranial_and_caudal_portion_of_femoral_shaft_(surfaces_visible_in_cranial_and_caudal_views);
+{ 289 Ratio_of_tibia:femur_length_(U273) >=0.70 <0.70;
+{ 290 Morphology_of_tibial_proximal_condyle_(W203,_U274) longer_craniocaudally_than_mediolaterally_by_at_least_15% expanded_mediolaterally_(craniocaudal_and_mediolateral_dimensions_<15%_each_other);
+{ 291 Tibial_cnemial_crest_(U275) prominent reduced_to_low_ridge;
+{ 292 Orientation_of_tibial_cnemial_crest_(W204,_U276) projects_cranially_(fibula_entirely_visible_in_cranial_view) projects_craniolaterally_or_laterally_(obscures_part_of_fibula_in_cranial_view);
+{ 293 Ratio_of_distal_mediolateral_dimension_of_tibia:midshaft_mediolateral_dimension_(W205) <2.0 >=2.0;
+{ 294 Size_of_distal_caudoventral_process_of_tibia_(W206,_U278) broad_mediolaterally_(covering_caudal_fossa_of_astragalus) shortened_mediolaterally_(caudal_fossa_of_astragalus_visible_caudally);
+{ 295 Distal_end_of_tibia_(U277) wider_mediolaterally_than_craniocaudally roughly_equal_mediolateral_and_craniocaudal_dimensions;
+{ 296 Development_of_proximal_tibial_scar_on_fibula_(W207,_U279) not_well_marked well_marked_and_widening_craniocaudally_toward_proximal_end;
+{ 297 **Morphology_of_M._flexor_digitorum_longus_sulcus_and_tuberculum_of_fibula_(W208,_U281) absent present_and_ovoid_(tuberculum_angled) present,_fossa_bounded_by_two_vertically_elongate,_parallel_ridges_(tuberculum_linear);
+{ 298 Size_of_distal_condyle_of_fibula_(W209) subequal_to_shaft expanded_mediolaterally_(>2x_midshaft_mediolateral_dimension);
+{ 299 Morphology_of_astragalus_(W210,_U284) rectangular wedge-shaped_(with_reduced_craniomedial_corner);
+{ 300 Craniocaudal_dimension_of_astragalus_as_seen_in_dorsal_view_(U285) widens_medially narrows_medially;
+{ 301 Morphology_of_ventral_surface_of_astragalus_(U282) flat_or_slightly_concave_mediolaterally convex_mediolaterally;
+{ 302 Vascular_foramina_at_base_of_ascending_process_of_astragalus_(W211,_U286) present absent;
+{ 303 Extent_of_ascending_process_of_astragalus_(W212,_U283) terminates_cranial_to_caudal_edge extending_to_caudal_margin;
+{ 304 Morphology_of_caudal_fossa_of_astragalus_(W213,_U287) undivided divided_by_vertical,_caudomedially-oriented_crest;
+{ 305 Ratio_of_mediolateral_width:maximum_craniocaudal_length_of_astragalus_(W214) <=1.25_(dimensions_subequal) >1.25;
+{ 306 Ossified_calcaneum_(W215,_U288) present absent_or_unossified;
+{ 307 Ossified_distal_tarsals_3_and_4_(W216,_U289) present absent;
+{ 308 Posture_of_metatarsus_(W217,_U291) bound spreading;
+{ 309 Angle_between_long_axis_of_body_of_metatarsal_I_and_plane_of_proximal_articular_surface_as_seen_in_cranial_view_(W218) perpendicular angled_ventromedially;
+{ 310 Angle_between_long_axis_of_body_of_metatarsal_I_and_plane_of_distal_articular_surface_as_seen_in_cranial_view_(W219) perpendicular angled_dorsomedially;
+{ 311 Caudolateral_projection_of_distal_condyle_of_metatarsal_I_(W220,_U293,_S23) absent present;
+{ 312 Size_of_metatarsal_I_(W221,_U292) slender,_reduced,_or_absent robust_(ratio_of_length:mediolateral_width_of_proximal_end_<=1.5);
+{ 313 Rugosities_on_distal_parts_of_dorsolateral_portions_of_bodies_of_metatarsals_I-III_(U294) absent present;
+{ 314 Size_of_proximal_condyles_of_metatarsals_I_and_V_compared_to_metatarsals_II,_III,_and_IV_(W222,_U296) smaller_than subequal_to;
+{ 315 **Ratio_of_length_of_metatarsal_III:length_of_tibia_(W223,_U290,_U295) >=0.40 0.26-0.39 <=0.25;
+{ 316 Ratio_of_minimum_mediolateral_shaft_diameters_of_metatarsals_III_and_IV:minimum_mediolateral_shaft_diameters_of_metatarsals_I_or_II_(W224,_U297) >=0.65 <0.65;
+{ 317 Ratio_of_length_of_metatarsal_V:length_of_metatarsal_IV_(W225,_U298) <0.70_(usually_<<0.70) >=0.70;
+{ 318 Relationship_of_plantar_to_proximal_surface_of_pedal_phalanx_I-1_(U301) meet_at_~90°_angle meet_at_acute_angle_(area_drawn_into_thin_plate_that_projects_caudal_to_distal_condyles_of_metatarsal_I);
+{ 319 Collateral_ligament_foveae_on_non-ungual_pedal_phalanges_(U302) present absent;
+{ 320 Ratio_of_maximum_proximodistal:mediolateral_dimensions_of_pedal_nonungual_phalanges_(W226,_U304) >1.0_(longer_than_wide) <=1.0_(wider_than_long);
+{ 321 Development_of_penultimate_phalanges_of_pedal_digits_II-IV_(W227,_U305) subequal_in_size_to_more_proximal_phalanges rudimentary_or_absent;
+{ 322 Morphology_of_pedal_phalanx_II-2_(U303) square_or_rectangular_in_dorsal_view reduced_craniocaudally,_irregular_in_shape,_and_semicircular_in_dorsal_view;
+{ 323 Number_of_phalanges_on_pedal_digit_IV_(U299-300) >=4 3 <=2;
+{ 324 Orientation_of_pedal_unguals_with_respect_to_digit_axis_(W228,_U306) aligned_(point_forward) deflected_ventrolaterally;
+{ 325 Length_of_pedal_ungual_I_relative_to_pedal_digit_II_ungual_(W229) subequal 25%_larger_than;
+{ 326 Ratio_of_length_of_pedal_digit_I_ungual:length_of_metatarsal_I_(W230,_U307) <1.0 >=1.0;
+{ 327 Ratio_of_mediolateral_width:dorsoventral_height_of_pedal_digit_I_ungual_(W231) >1.0_(wider_than_tall) <=1.0_(sickle-shaped,_much_taller_than_wide);
+{ 328 Morphology_of_pedal_unguals_II-III_(W232,_U308) broader_mediolaterally_than_dorsoventrally sickle-shaped_(much_deeper_dorsoventrally_than_broad_mediolaterally);
+{ 329 Development_of_pedal_digit_IV_ungual_(W233) subequal_in_size_to_unguals_of_pedal_digits_II_and_III rudimentary_or_absent;
+{ 330 Osteoderms_(W234) absent present;
+{ 331 Pubic_peduncle_of_the_ilium short elongated;
+{ 332 Posterior_notch_between_ischiadic_peduncle_and_postacetabular_lobe_of_ilium subtle deep;
+{ 333 Distinct_tubercle_in_the_postacetabular_region_in_the_ilium absent present;
+;
+
+
+ccode  - 0.333;
+
+
+;

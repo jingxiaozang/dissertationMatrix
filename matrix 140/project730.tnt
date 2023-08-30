@@ -1,0 +1,122 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 15.33.05'
+77 27
+
+&[num]
+Guiyu                              00000000000---00000000000000000000000000??000??1002000-0010100000000000000000
+Onychodus                          00000000100---00000000000-00010110-0000000000000110000-0010110000-00000000000
+Miguashaia                         0000???0100---0?000001000-00010110-0000???000000111000-?000110-00-00000?1000-
+Osteolepis                         00000010000---01000000000-?0010110-0000???000001002000-0010110000-00000010000
+Cheirolepis_canadensis             ?0000100?01000001010111000?00011110010000?001011000111?0010001000000001011101
+Cheirolepis_schultzei              000001?0102??000101?11?000???0?111001?0?????????????11?00100010000000?1011101
+Cheirolepis_trailli                00000100001000001010111000?00011110010000000101110011110000001000000001011101
+Cuneognathus_gardineri             ??1111010120100?000??1?0?0???0011001111???1?-11?0?21110010000?1000000?1?11100
+Donnrosennia_schaefferi            ?11101010010100??0111110?0???0100010101???111?11101111011000??100001001011111
+Gogosardina_coatesi                00010101001000??000101201000?0100000101111110?1200211121100001100011??1011100
+Howqualepis_rostridens             101101010120100100010011?01110100000101?1011101110111101100001100001001111111
+Mimipiscis_bartrami                010101010010000000010120100010100000101111110?1200211111100001100011101011110
+Mimipiscis_toombsi                 01110111001000000001012010001010000010111111011200111111100001100011101011110
+Kentuckia_hlavini                  ??110??11122010?011??100000??0000000101???1101111?2111101??01?100000??1?11100
+Krasnoyaricthys_jesseni            ?????????1200?0???1??????????0000000100???101??202211?2??1????1000100011??10?
+Limnomis_delaneyi                  10111101012000000001?11010???0011001111???10-1120021112010000?1000010?1011100
+Moythomasia_lineata                01110101001100110001111010???010000010111110011200211120110001101101011111100
+Moythomasia_durgaringa             11110101012100110001011011011000001010111111011200211121100001100111011111110
+Moythomasia_nitida                 011101010011001101111110?1???0000010101???10011200111120110001101110011111110
+Osorioichthys_marginis             001101111010001001001110?0???0?010001?1?1?00???1????1111100001000010001111101
+Stegotrachelus_finlayi             01110101002001000011?110?01??0000000101???10011200111120110001100000001011100
+Tegeolepis_clarki                  00110001101000?1000?00?100110010010000????120??0001102021100110000100??011101
+Mansfieldiscus_sweeti              00110101112--001011?0110100??00010011011??110111102111-1101001110010001011100
+Melanecta_anneae                   10110101112--0?00?0??1?01????01??000100???1111111?21?2-01100011000100??011100
+Novagonatodus_kasantsevae          10110101012--00?110?01?0?0???00??000100???101??2?02111-21000011100100?0011100
+Wendichthys_dicksoni               0211010112201110110101?0?0???00??000100???10011110211100111001100000001111100
+Woodicthys_bearsdeni               00110101112010100001011010?100000010100?1?11011110211201110001100000001011100
+
+;
+
+
+cnames
+{ 0 Rostral_(or_equivalent_ethmoid_bone)_-_contributes_to_biting_margin._F&B1 absent present;
+{ 1 Premaxillae_-_shape_of wider_than_deep depth_approximately_equal_to_width Premaxillae_absent;
+{ 2 Postrostrals mosaic_of_small_bones large_median_postrostral_with_or_without_accessory_elements. absent;
+{ 3 Single_median_rostral,_contacting_nasals_laterally,_frontals/postrostrals_posteriorly. absent present;
+{ 4 Rostral_(or_equivalent_ethmoid_bone)_-_presence_of_transverse_ornamentation. absent present;
+{ 5 Posterior_nostril_in_communication_with_orbital_fenestra absent present;
+{ 6 Posterior_nostril_-_margin_contributed_to_by_premaxillae. absent present;
+{ 7 Nasal_bone_as_single_consolidated_ossification absent_-_multiple_bones_carry_supraorbital_canal_from_premaxillae_to_frontals. present;
+{ 8 Pineal_foramen present absent;
+{ 9 postparietals rectangular_-_long_axis_parallel_to_midline subquadrate Parietals_wider_than_long;
+{ 10 Frontals_(=_sarcopt_parietals),_relative_length_of frontal_shorter_than_parietal frontal_approximately_equal_to_parietal frontal_longer_than_parietal;
+{ 11 Intertemporal_-_relative_length intertemporal_shorter_than_supratemporal intertemporal_of_similar_length_to_supratemporal Intertemporal_longer_than_supratemporal;
+{ 12 Intertemporal,_contact_with_supratemporal_anterior_to_that_between_frontal_and_parietal absent present;
+{ 13 Dermosphenotic,_contact_with_frontals_blocked_by_intertemporal_or_dermopterotic absent present;
+{ 14 Number_of_paired_extrascapulae one_pair two_pairs;
+{ 15 Lachrymal_-_anterior_expansion absent present;
+{ 16 Jugal_-_notch_in_anterior_margin. absent present;
+{ 17 Anamesic_suborbital_bones absent present_-_single_or_single_vertical_row;
+{ 18 Accessory_operculum absent present;
+{ 19 Lateral_gulars large_with_rounded_posterolateral_profile equivalent_in_area_to_3_branchiostegal_rays_or_less,_with_prominent_posterior_and_lateral_angles.;
+{ 20 Mandibular_canal_-_course_of traces_ventral_margin_of_jaw_along_entire_length. arches_dorsally_in_anterior_half_of_jaw.;
+{ 21 Dentary_with_conspicuously_reflexed_distal_tip present absent;
+{ 22 Infradentaries,_number_of more_than_two two_(angular_and_surangular) one_(angular_only);
+{ 23 Enlarged_parasymphysial_teeth_on_anterior_dentary. absent present;
+{ 24 Acrodin_caps_on_teeth absent present;
+{ 25 Porous_ganoine_ornamentation_on_lower_jaw absent present;
+{ 26 Mentomeckelian_region_is_ossified. present absent;
+{ 27 Parasphenoid_-_ascending_process absent present;
+{ 28 Parasphenoid_-_anterior_tripartite_subdivision. absent present;
+{ 29 Ganoine present absent;
+{ 30 Scale_rows_-_number_of fewer_than_60 more_than_60;
+{ 31 Scales_-_Peg-and-socket_articulation_between_scales_with_narrow_based_peg. present absent;
+{ 32 Scales_-_anterodorsal_extension present absent;
+{ 33 Scales macromeric micromeric;
+{ 34 Scales_-_well-developed_pores/punctae_on_ganoine_surface absent present;
+{ 35 Scales_-_curved_ridges_coursing_along_anterior_margin_of_scale,_truncating_transverse_ornament_ridges. absent present;
+{ 36 Fringing_fulcra absent present;
+{ 37 Pelvic_fins present absent_or_greatly_reduced;
+{ 38 Presupracleithrum absent present;
+{ 39 Scapulacoracoid_with_horizontal_plate absent present;
+{ 40 Pectoral_fin_-_anterior_rays_embrace_protopterygium false true;
+{ 41 Pectoral_fin_-_metapterygium_enlarged_relative_to_radials. false true;
+{ 42 Pectoral_fin_insertion into_basal_fleshy_lobe directly_into_lateral_flank;
+{ 43 Pectoral_fin_segmentation roughly_even_segmentation_to_fin-base. Proximal_segments_greatly_elongated No_significant_segmentation_on_pectoral_fin.;
+{ 44 Pelvic_fin_insertion short_based long_based;
+{ 45 Caudal_fin_-_epichordal_lobe present absent;
+{ 46 Fulcra_on_dorsal_ridge_of_caudal_fin absent present;
+{ 47 Dorsal_scutes absent few_anterior_to_dorsal_fin. complete_series_from_DF_to_occipit;
+{ 48 Ventral_scutes_between_caudal_and_anal_fin. present absent;
+{ 49 Ventral_scutes_anterior_to_anal_fin. present_immeditately_anterior_to_anal_fin. absent Series_extends_on_ventral_surface_to_near_pectoral_fin.;
+{ 50 Anal_fin,_anterior_margin_-_relative_position_to_anterior_margin_of_dorsal_fin. anal_fin_shifted_anterior_to_dorsal_fin. anal_fin_opposite_to_dorsal_fin. anal_fin_posterior_to_dorsal_fin.;
+{ 51 Dorsal_fins_-_number_of. two one;
+{ 52 Dermohyal absent present;
+{ 53 Dermosphenotic absent present_-_distinct_posterior_ramus present_-_no_posterior_ramus;
+{ 54 Intertemporal_-_contact_with_parietal no_contact contacts_parietals_laterally. contacts_parietals_posterolaterally;
+{ 55 Rostral_-_shape_of equal_anteriorly_and_posteriorly narrows_anteriorly widens_anteriorly;
+{ 56 Nasal_-_mesial_margin_notched_for_anterior_nostril absent present;
+{ 57 Quadratojugal present absent;
+{ 58 Antorbital_bone absent present;
+{ 59 Suborbitals_contribute_to_dorsal_margin_of_orbit false true;
+{ 60 Infraorbitals_-_number_of two more_than_two;
+{ 61 Jugal_canal absent present;
+{ 62 Maxilla,_posteroventral_overlap_of_lower_jaw minimal_overlap. pronounced_posteroventral_overlap.;
+{ 63 Dermopterotic__(assumed_fusion_between_intertemporal_and_supratemporal) absent present;
+{ 64 Preoperculum_-_vertical_linear_ornamentation. absent present;
+{ 65 Serrated_linear_ganoine_ornament_on_skull_roof. absent present;
+{ 66 Operculum,_relative_size at_least_twice_as_high_as_suboperculum less_than_twice_as_high_as_suboperculum;
+{ 67 Suboperculum_-_narrow,_tapering_anterodorsal_process. absent present;
+{ 68 Supratemporal_-_narrow_anterolateral_flange_forming_ventral_margin_of_spiracular_opening. absent present;
+{ 69 Extrascapulae_-_median_branching_of_sensory_canals. present absent;
+{ 70 Median_extrascapular present absent;
+{ 71 Branchiostegal_rays_-_1st_ray_ventral_to_suboperculum. of_similar_depth_to_adjacent_branchiostegal_rays. deeper_than_2nd_branchiostegal_ray.;
+{ 72 Facet_for_parasymphysial_tooth-whorl_on_anterior_dentary. present absent;
+{ 73 Mandibular_canal primarily_carried_by_infradentaries primarily_carried_by_dentary;
+{ 74 Dermal_intracranial_joint present absent;
+{ 75 Scales_-_anastomosing_linear_ornament State_0 [state_1];
+{ 76 Maxilla_-_shape_of_anterior_section straight reflexed;
+;
+
+
+ccode  - 0.76;
+
+
+;

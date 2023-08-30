@@ -1,0 +1,89 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 15.31.36'
+56 15
+
+&[num]
+Haptodus                     00000?000000000000000000000000000000?0000000000000?00000
+Dimetrodon                   00000?00000000000000000000000000000000000000000000100000
+Patranomodon                 00?1?0010000100000100111110121001111001001100111????1000
+Suminia                      010110010000100?02100110111121001111101011010111?0??1001
+Syodon                       21101001000010101211000010001?10021121001001000020111000
+Titanophoneus                21101101000110101211000010001010121121000001?00020111000
+Titanosuchidae               210011010001110001110010100001211211?2?01001000020210111
+Estemmenosuchus              2100100?1?01?100021000?01?10002102???2001001?0?020200111
+Biarmosuchus                 ?1001101000010100200001010?1001002?11101011??0?0?1?01000
+Hipposaurus_(cgp)            ?1001101000000010200?0?110?1001001211111?11?100011?01000
+Lycaenodon_(both)            100011010010000102?0???1??11111001?1???????????0?1001???
+Herpetoskylax_(cgp)          ?00011010010000102000?1110111?10012111?11110100011?01000
+Ictidorhinus                 1?001101?1?1000?02?000????11???0???11??????????0?10?????
+Lobalopex                    1?00??111111000?020010??10?111100121111111101000?1001000
+Lemurosaurus_(nm)            ??00111101?1000?0200101??0?1101001?111111110?0?011?01000
+
+;
+
+
+cnames
+{ 0 1. State_0 State_1 State_2;
+{ 1 2. State_0 State_1;
+{ 2 3. State_0 State_1;
+{ 3 4. State_0 State_1;
+{ 4 5. State_0 State_1;
+{ 5 6. State_0 State_1;
+{ 6 7. State_0 State_1;
+{ 7 8. State_0 State_1;
+{ 8 9. State_0 State_1;
+{ 9 10. State_0 State_1;
+{ 10 11. State_0 State_1;
+{ 11 12. State_0 State_1;
+{ 12 13. State_0 State_1;
+{ 13 14. State_0 State_1;
+{ 14 15. State_0 State_1;
+{ 15 16. State_0 State_1;
+{ 16 17. State_0 State_1;
+{ 17 18. State_0 State_1 State_2;
+{ 18 19. State_0 State_1;
+{ 19 20. State_0 State_1;
+{ 20 21. State_0 State_1;
+{ 21 22. State_0 State_1;
+{ 22 23. State_0 State_1;
+{ 23 24. State_0 State_1;
+{ 24 25. State_0 State_1;
+{ 25 26. State_0 State_1;
+{ 26 27. State_0 State_1;
+{ 27 28. State_0 State_1;
+{ 28 29. State_0 State_1 State_2;
+{ 29 30. State_0 State_1;
+{ 30 31. State_0 State_1 State_2;
+{ 31 32. State_0 State_1;
+{ 32 33. State_0 State_1;
+{ 33 34. State_0 State_1 State_2;
+{ 34 35. State_0 State_1 State_2;
+{ 35 36. State_0 State_1;
+{ 36 37. State_0 State_1 State_2;
+{ 37 38. State_0 State_1 State_2;
+{ 38 39. State_0 State_1;
+{ 39 40. State_0 State_1;
+{ 40 41. State_0 State_1;
+{ 41 42. State_0 State_1;
+{ 42 43. State_0 State_1;
+{ 43 44. State_0 State_1;
+{ 44 45. State_0 State_1;
+{ 45 46. State_0 State_1;
+{ 46 47. State_0 State_1;
+{ 47 48. State_0 State_1;
+{ 48 49. State_0 State_1 State_2;
+{ 49 50. State_0 State_1;
+{ 50 51. State_0 State_1 State_2;
+{ 51 52. State_0 State_1;
+{ 52 53. State_0 State_1;
+{ 53 54. State_0 State_1;
+{ 54 55. State_0 State_1;
+{ 55 56. State_0 State_1;
+;
+
+
+ccode  - 0.55;
+
+
+;
