@@ -1,0 +1,136 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 16.29.47'
+83 35
+
+&[num]
+Hypsiprymnodon_moschatus              00000000000000000000000000000000000000000000000000000000000000000000000000000000000
+Bettongia_penicillata                 00010010000000000000000000000000000000000000000001110100000000001102000001110000003
+Potorous_tridactylus                  00010000000000001000000000000000000002000000000001110100000000100102000001100001003
+Ngamaroo_archeri                      ?????????????????0??001??????0000????000010000000021?10001???010??0000????????000??
+Lagostrophus_fasciatus                00000021000000002010102012000112110011001201101001110100210100100212001001110001001
+Troposodon_minor                      ?????????????0?020100020120001111100110012112010???????????????????????????????????
+Nowidgee_matrix                       ????????????????00000010000000210??0020001000000???????????????????????????????????
+Ganguroo_bilamina                     ????????????????????002??????0210??0020001011010?????????????????????0??0??1101002?
+Wanburoo_hilarus                      ????????????0001002000221100002101?1021001111010???????????????????????????????????
+Hadronomas_puckridgi                  200201211200100100200022110000310101232001111010011201000111101102001??013?210??12?
+Simosthenurus_occidentalis            21120121120010011040102211100232020323201211111101122100221200113100122213031112122
+Procoptodon_goliah                    211201211200100110401022111002320203232012111101011201002212001131001222130311?2122
+Sthenurus_andersoni                   20020121120012011040102211000232020323201211111101120100221200113102122013???112122
+Bohra_illuminata                      100000210111011220101022110000220?12021012111010103322100001201020000??112??10?10??
+Dendrolagus_bennettianus              10000021011101123120102211000021011202100211101010332221000022202001010122021020011
+Dendrolagus_matschiei                 10000021011101122120102211000021011202100211101010332220000022202011010122021021011
+Dorcopsis_veterum                     00000011000001101001002211000020011002001111101001120211000110100200000011121010010
+Dorcopsoides_fossilis                 000000110000?11010010022110000200?11220012111010011201110101101002?00201011????0010
+Dorcopsulus_vanheurni                 000000110010011010010022110000200110020011111010-----21---011-----00000111121010010
+Protemnodon_anak                      10000021011002102030102212000022011102002211101001122200020122112001021002121012011
+Congruus_congruus                     100000210110021020301022120000??????????2??????????????????????????????????????????
+Lagorchestes_conspicillatus           000000210000021020101022120000220110020022111010021212001001-1001212001101121011002
+Lagorchestes_hirsutus                 00000021000002102010102212000022011002002211101001121200100131001212001101121001002
+Macropus_eugenii                      00000021000002103010102213011022011102012211201001121200010130000200021001111011002
+Macropus_fuliginosus                  00000021000002103000112113011022011102012211202002121200020110001212021001111011012
+Macropus_robustus                     00000021000002103010112213011022011102012211202002121200020130101212021101111111012
+Onychogalea_unguifera                 00001021000022103000102213000022211002012211201002121200120130001212021001111011002
+Baringa_nelsonensis                   ?0??1???????22??20001022130110222?11020122111010???????????????????????????????????
+Kurrabi_mahoneyi                      ????????????????20101022130110220??1020022111010???????????????????????????????????
+Petrogale_brachyotis                  00000021011102122010102212000022011202001211101001220210000110100000000101021011010
+Setonix_brachyurus                    00000021000002101010102212000021011102001211101001120210000112100000000102121000011
+Thylogale_billardierii                00000021000002102010102212000022011102001211101001120210000010100000000101111011011
+Wallabia_bicolor                      00000021000002102030102212000022011102002211101002121200120130100200021101121012012
+Prionotemnus_palankarinnicus          ????0????????21020101022130100220?11020012111010???????????????????????????????????
+Macropus_pavana                       ????????????????30001121130110220??????122112020???????????????????????????????????
+
+;
+
+
+cnames
+{ 0 Rostrum_depth shallow intermediate deep;
+{ 1 Marked_cranial_foreshortening_(brachycephaly) absent present;
+{ 2 Basicranial_plane_relative_to_palatal_plane same_plane_or_slightly_higher markedly_higher;
+{ 3 Splanchnocranium_anteroventral_deflection marked intermediate minimal;
+{ 4 Masseter_origin_on_jugal shallow deep,_with_distinct_orbital_rim;
+{ 5 Post_end_of_jugal_deep,_expanded_to_form_marked_ectoglenoid_process absent present;
+{ 6 Postglenoid_process absent small large;
+{ 7 Neurocranium_element_contact frontal-squamosal parietal-alisphenoid;
+{ 8 Ectotympanic_proportions small thick,_wide,_rugose,_ventrally_keeled;
+{ 9 Maximum_supraoccipital_breadth_relative_to_occiput_height deeper_than_broad subequal_in_depth_and_breadth broader_than_deep;
+{ 10 Foramen_magnum_size_relative_to_occiput_size small large;
+{ 11 V-shaped_squamosal_inflation_between_occiput_and_zygomatic_arch absent present;
+{ 12 Relative_anteroposterior_length_of__upper_incisors I2_and/or_I3_not_reduced_relative_to_I1 I2_highly_reduced_relative_to_I1_and_I3 I2-3_highly_reduced_relative_to_I1;
+{ 13 I1_shape sub-cylindrical slightly_broadened markedly_broadened;
+{ 14 I3_anterobuccal_crest absent_or_very_small,_restricted_to_anterior_end distinct;
+{ 15 I3_lingual_surface no_anterolingual_crest_or_lingual_shelf anterolingual_crest_present,_no_lingual_shelf fine_anterolingual_crest_and_small_lingual_shelf_present;
+{ 16 P3_--_number_of_cuspules/ridgelets_anterior_to_large_posterior_one 5_or_more 4 3 <3;
+{ 17 Deep_cleft_on_P3/p3_main_crest_immediately_posterior_to_ant_cuspule absent present;
+{ 18 P3_lingual_cingulum absent_or_very_low,_fine low,_narrow_to_moderately_broad,_tapered_anteriorly broad,_not_raised_into_crest_along_ling_edge_(with/-out_cuspules) broad,_raised_into_low_crest_along_lingual_edge raised_into_high_crest_along_lingual_edge;
+{ 19 P3_lateral_constriction_immediately_anterior_to_posterolingual_cusp absent present;
+{ 20 Upper_cheek_tooth_row_shape_in_transverse_plane straight bowed_(laterally_convex);
+{ 21 Molar_progression absent present;
+{ 22 Molar_morphology bunodont bunolophodont bilophodont;
+{ 23 Preprotocrista_development strongly_developed,_confluent_with_precingulum small_but_distinct absent;
+{ 24 Postprotocrista_orientation restricted_to_lingual_side_of_tooth extends_into_interloph_valley_near_to_tooth_midline;
+{ 25 Postprotocrista_development short,_thick fine,_low intermediate high,_thick,_strongly_developed;
+{ 26 Postprotocrista_division not_divided incipiently_or_completely_divided_into_two_components;
+{ 27 Postparacrista_development present absent_or_very_fine,_low;
+{ 28 Postmetacrista_/_postmetaconulecrista_development both_distinct Postmetaconulecrista_enlarged,_postmetacrista_absent_or_v._weak;
+{ 29 Symphyseal_plate_morphology shallow,_attachment_area_for_cruciate_ligaments_smooth_or_v._slight_rugo deep,_attachment_area_for_cruciate_ligaments_rugose deep,_attachment_area_for_cruciate_ligaments,_v.rugose,_ant._expanded;
+{ 30 Buccinator_Sulcus absent broad,_deep_concavity narrow,_shallow narrow,_deep;
+{ 31 Anterior_extent_of_masseteric_canal_(deep_masseter_insertion) to_below_anterior_cheek_teeth to_below_posterior_cheek_teeth posterior_to_m4_(near_vertical);
+{ 32 Insertion_area_for_anteriormost_layer_of_middle_masseter small_to_moderately_proportioned broad_and_concave large,_terminates_ventrally_at_distinct_ridge;
+{ 33 Mandibular_condyle_shape barrel_shaped,_not_tapered_medially oval_or_circular barrel_shaped,_tapered_medially;
+{ 34 Position_of_i1_occlusal_surface_during_incisor_occlusion i1_rests_on_crowns_of_I2-3_and_posterior_facet_on_I1 i1_rests_on_palate,_bordered_by_I2-3;
+{ 35 i1_morphology thin,_elongate,_procumbent procumbent_blade_with_thick_enamel_flanges slightly_robust_with_thin_enamel_flanges markedly_robust_and_upturned;
+{ 36 Enamel_distribution_on_i1 principally_buccal_side,_but_may_extend_onto_ventrolingual_aspect extn_of_bucc_enamel_onto_ling/dors_side_completely_encircles_i1 lingual_layer_present_but_not_continuous_with_buccal_layer;
+{ 37 Morphology_of_p3 blade_with_many_fine_serrations_along_length_of_crown crown_markedly_curved_in_lingually_at_posterior_end_(near_L-shaped) straight_or_slightly_curved_blade_with_fewer_coarser_serrations crown_markedly_broadened;
+{ 38 Buccal_side_of_p3 lacks_eminence,_cingulid_or_crest bears_posterobuccal_eminence bears_well-developed_buccal_cingulid_or_crest;
+{ 39 Cheek_tooth_row_shape_in_dorsoventral_plane flat_or_very_slightly_convex markedly_convex_dorsally;
+{ 40 Molar_crown_height low intermediate high;
+{ 41 Premetacristid_development well_developed,_confluent_with_paracristid moderately_developed weakly_developed_or_absent;
+{ 42 Slight_postmetacristid present absent;
+{ 43 Postprotocristid_development distinct slight_or_absent;
+{ 44 Cristid_obliqua_form straight_or_slightly_kinked,_restricted_to_buccal_side_of_tooth straight_or_slightly_curved,_terminates_near_tooth_midline_low_on_pos distinctly_kinked,_terminates_near_tooth_midline_low_on_posterior_fac;
+{ 45 Paracristid_and_cristid_obliqua_division absent present;
+{ 46 Posterior_face_of_hypolophid postentocristid_distinct,_meets_large_posthypocristid both_crests_fine_or_absent posthypocristid_present,_adjacent_to_distinct_central_groove;
+{ 47 Lophid_enamel_crenulations absent present;
+{ 48 Tuber_calcanei_medial_torsion absent present;
+{ 49 Relative_length_of_calcaneum_articular_region long_(>0.43) intermediate_(0.43-0.35) short_(<0.35);
+{ 50 Step_of_calcaneum-cuboid_articulation incipient markedly_or_slightly_bevelled slightly_smoothed,_oblique smoothed;
+{ 51 Ventromedian_facet_of_cuboid_articulation_on_calcaneus absent continuous_with_dorsolateral_facet separate,_distinct,_well-developed reduced,_confluent_with_dorsomedial_facet;
+{ 52 Relative_breath_of_calcaneum-astragalus_articulation intermediate_(0.40-0.45) narrow_(<0.40) broad_(>0.45);
+{ 53 Distinctness_of_medial_and_lateral_astragalar_facets confluent,_smoothly_continuous_anteriorly continuous_anteriorly_but_facet_contours_distinct distinct,_separate_facets;
+{ 54 Shape_of_calcaneum-astragalus_lateral_facet untapered_or_marginally_tapered_medially slightly_or_moderately_tapered_medially markedly_tapered_medially;
+{ 55 Medial_extent_of_sustentaculum_tali not_or_slightly_projected_beyond_medial_edge_of_medial_facet projected_markedly_beyond_medial_edge_of_medial_facet;
+{ 56 Shape_of_sustentaculum_tali straight_(anteroventrally_oriented)_or_very_slightly_curved rounded squared;
+{ 57 Posterior_extent_of_sustentaculum_tali roughly_in_line_with_fibular_facet intermediate significantly_posteriorly_placed_from_fibular_facet;
+{ 58 Orientation_of_astragalar_trochlear_crests_(relative_to_long_axis_of_calcaneum) oblique_(anterolaterally_oriented) anteroposteriorly_oriented;
+{ 59 Depth_of_astragalar_trochlea_(relative_height_of_medial_astragalar_trochlear_crest) shallow_groove_(low_crests_subequal_in_height) intermediate_(well-developed_medial_crest) deep_groove_(high_crests_especially_medial_crest);
+{ 60 Medial_malleolar_process/fossa_on_talus fossa_intermediate,_no_distinct_process fossa_intermediate,_process_small,_slightly_medially_extended fossa_broad/shallow,_process_large_and_medially_extended fossa_narrow/deep,_process_small,_slightly_medially_extended;
+{ 61 Metatarsal_IV_length_relative_to_calcaneus_length intermediate_(1.5-2.4) long_(>2.4) short_(<1.5);
+{ 62 Metatarsal_IV_relative_breadth narrow_(<0.12) intermediate_(0.12-0.16) broad_(>0.16);
+{ 63 Metatarsal_IV_distal_epiphysis_breadth narrow_relative_to_ligament_attachments distinctly_broad_relative_to_shaft_width,_min_development_of_lig_att;
+{ 64 Metatarsal_V_relative_breadth intermediate_(0.07-0.13) narrow_(<0.07) wide_(>0.13) highly_to_extremely_reduced;
+{ 65 Metatarsal_V_plantar_ridge small,_posteriorly_restricted absent elongate,_well_developed;
+{ 66 Tibia_relative_length_of_fibular_contact short_(<0.62) long_(>0.62);
+{ 67 Tibia_relative_length_of_anterior_crest intermediate_(0.20-0.26) long_(>0.26) short_(<0.20);
+{ 68 Tibia_anterior_crest_shape stepped_in_distally not_stepped_distally,_curves_smoothly_into_diaphysis;
+{ 69 Tibia_length_relative_to_that_of_femur intermediate_(1.10-1.45) short_(<1.10) long_(>1.45);
+{ 70 Femur_development_of_greater_trochanter_crest distally_flared_or_intermediate distally_narrowed distally_flared_and_markedly_broadened;
+{ 71 Innominate_angle_of_ilium_to_ischium slight_angle aligned_in_same_plane large_angle;
+{ 72 Innominate_rectus_femoris_origin distinctly_separate_from_acetabular_rim intermediate adjacent_to_acetabular_rim;
+{ 73 Innominate_iliopubic_process very_small,_pointed long,_well-developed,_square_in_outline short,_broad very_large;
+{ 74 Innominate_relative_length_of_ischium_to_ilium long_(>0.7) short_(<0.7);
+{ 75 Scapula_relative_area_of_supraspinous_to_infraspinous_fossa roughly_equal supraspinous_fossa_roughly_half_area supraspinous_fossa_roughly_one-third_area supraspinous_fossa_much_smaller_than_infraspinous;
+{ 76 Scapula_acromion_shape anterodorsally_curved straight;
+{ 77 Scapula_--_displacement_of_acromion_relative_to_glenoid_fossa caudal_to_the_cranial_margin_of_the_glenoid_fossa cranially_displaced;
+{ 78 Humerus_--_relative_size_of_medial_tuberosity_to_lateral_tuberosity slightly_smaller distinctly_smaller subequal;
+{ 79 Humerus_--_development_of_deltoid_versus_pectoral_crests deltoid_insertion_poorly_developed intermediate,_small_deltoid_tuberosity_connected_by_oblique_ridge large_deltoid_tuberosity_separated_from_pectoral_crest_by_sulcus;
+{ 80 Ulna_--_posterior_margin_of_trochlear_notch_relative_width wide narrow;
+{ 81 Ulna_olecranon_length/shape_relative_to_length_of_ulna long,_deep intermediate reduced;
+{ 82 Radius_cross-section_depth_(mid-length)_to_width_of_the_diaphysis intermediate_(1.3-1.5) shallow_(<1.3) deep_(1.5-2.0) very_deep_(>2.0);
+;
+
+
+ccode  - 0.82;
+
+
+;

@@ -1,0 +1,54 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 16.27.42'
+23 13
+
+&[num]
+Cryptobranchus_alleganiensis          00000000000000000000000
+Proteus_anguinus                      01001100001110001002201
+Necturus_maculosus                    010000000?1110000001?01
+Necturus_krausei                      ?????????????0000001001
+Paranecturus_garbanii                 0101????0100000000011?1
+Opisthotriton_kayi                    10?1?101??0001102000010
+Prodesmodon_copei                     12210101210002102002210
+Scapherpeton_tectum                   01011010000000002111000
+Lisserpeton_bairdi                    01010110000000001111000
+Piceoerpeton_willwoodense             1111?000200000001111000
+Piceoerpeton_naylori                  1111????200000000?110?0
+Habrosaurus_dilatus                   0100????000100010022210
+Proamphiuma_cretacea                  10010102000000010022210
+
+;
+
+
+cnames
+{ 0 Relative_depth_of_anterior_cotyles nearly_flat_to_shallowly_excavated moderate_to_deeply_excavated;
+{ 1 Outline_of_anterior_cotyles subcircular compressed_dorsoventrally compressed_lateromedially;
+{ 2 Form_of_odontoid_process anteriorly_elongate_knob dorsoventrally_flattened_and_reduced_in_length dorsoventrally_flattened_and_reduced_further_to_a_horizontal_bar;
+{ 3 Position_of_neural_canal_relative_to_anterior_cotyles above partly_between;
+{ 4 Dorsal_outline_of_posterior_margin_of_neural_arch_roof truncate_or_pointed forked;
+{ 5 Dorsal_outline_of_neural_crest broadens_posteriorly narrows_posteriorly;
+{ 6 Condition_of_anterior_end_of_neural_crest_in_dorsal_view not_emarginated_laterally emarginated_laterally;
+{ 7 Postzygapophyses prominent_and_laterally_divergent smaller_and_directed_more_ventrolaterally "._._._weakly_developed_and_does_not_project_ventrally_or_laterally_any_significant_distance_from_the_neural_arch"_(Gardner,_2003a:774);
+{ 8 Condition_of_articular_surface_of_odontoid_process large small absent;
+{ 9 Alar-like_process_of_centrum absent present;
+{ 10 Lateral_flanges_of_neural_arch absent present;
+{ 11 Condition_of_articular_surface_of_odontoid_process_and_anterior_cotyles not_confluent confluent;
+{ 12 Position_of_odontoid_process_relative_to_anterior_cotyles midheight_or_lower upper_one-half;
+{ 13 Form_of_centrum amphicoelous semi-opisthocoelous fully_opisthocoelous;
+{ 14 Posterior_basapophyses absent present;
+{ 15 Anterior_basapophyses absent present;
+{ 16 Position_of_ventral_margin_of_subcentral_keel_in_lateral_view_of_middle_trunk_vertebrae_relative_to_ventral_margin_of_anterior_and_posterior_cotyles above approximately_in_line below;
+{ 17 Height_of_neural_spine low high;
+{ 18 Height_of_neural_crest_of_middle_trunk_vertebrae low,_gently_rises_posteriorly_onto_base_of_neural_spine moderate_in_height,_rises_at_a_more_pronounced_angle_posteriorly_relative_to_dorsal_surface_of_neural_arch_roof high,_rises_at_a_pronounced_angle_and_is_equal_to_or_greater_than_the_height_of_the_neural_spine;
+{ 19 Form_of_transverse_process bicipitate_and_appressed bicipitate_and_divergent unicipitate;
+{ 20 Form_of_transverse_process_and_condition_of_lateral_ends_of_rib-bearer(s)_of_middle_trunk_vertebrae bicipitate_with_dorsal_and_ventral_rib-bearers_hollow bicipitate_with_dorsal_rib-bearer_solid_and_ventral_rib-bearer_hollow_ unicipitate_and_solid;
+{ 21 Condition_of_neural_spine finished_in_cartilage finished_in_bone;
+{ 22 Mediolateral_groove_on_the_posterior_face_of_the_neural_arch_spanning_between_the_neural_spine_and_postzygapophyses absent present;
+;
+
+
+ccode  - 0.22;
+
+
+;

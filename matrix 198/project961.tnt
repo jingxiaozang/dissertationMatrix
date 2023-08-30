@@ -1,0 +1,75 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 16.34.47'
+33 24
+
+&[num]
+Anilius                                                000000000000000000000000000110000
+Cylindrophis                                           000000?00000000000100000101110000
+Anomochilus                                            0010001000?000?000111111111120000
+Melanophidium_punctatum                                010000100000000?0022111111?111111
+Melanophidium_wynaudensis                              001000?00000000100221111111111111
+Platyplecturus_madurensis                              001000?1110222110122111111?121?11
+Uropeltis_woodmasoni_BMNH_1930.5.8.73-74               111112011112120112221111111121111
+Brachyophidium_rhodogaster_BMNH_1930.5.8.98            101001111012011102221111111121111
+Rhinophis_drummondhayi_BMNH_1930.5.8.67-68[b]          111111111112110112221111111121111
+Rhinophis_sanguineus                                   11111201111111011?221111111121111
+Plectrurus_perrotetii                                  111010?11112110112221111111121111
+Pseudotyphlops_philippinus                             111000111101101112221111111121111
+Plectrurus_aureus                                      111010011112010112221111111121111
+Uropeltis_woodmasoni                                   111?1??11112?2?112221111111121111
+Brachyophidium_rhodogaster                             101?0??111?2011?0222111111?021111
+Uropeltis_rubramaculatis                               11101001111212?11222111111?121?11
+Uropeltis_melanogaster_TMM_M-10045                     111?1??1110?2111122211?11?1121111
+Uropeltis_melanogaster                                 111?1??111?20111122211?11?11?1111
+Rhinophis_blythi                                       111?1001111?02111222111111?121?11
+Uropeltis_sp.                                          111?1001110201110222111111?121111
+Rhinophis_philippinus?                                 11111211110212111222111111?121111
+Rhinophis_philippinus                                  111?121111022210122211111??121111
+Rhinophis_homolepis                                    11111111111221111222111111??21?11
+Rhinophis_drummondhayi                                 11111211111201111222111111??21?11
+
+;
+
+
+cnames
+{ 0 anterior_tip_of_maxilla State_0 State_1;
+{ 1 nasal_shape State_0 State_1;
+{ 2 palatine_teeth State_0 State_1;
+{ 3 buttressing_contact_between_maxilla_and_vomer State_0 State_1;
+{ 4 optic_foramen State_0 State_1;
+{ 5 ossified_base_of_crista_trabecularis State_0 State_1 State_2;
+{ 6 supraorbital_process_of_parietal State_0 State_1;
+{ 7 supraoccipital State_0 State_1;
+{ 8 prootic_and_opisthotic State_0 State_1;
+{ 9 basisphenoid_and_basioccipital State_0 State_1;
+{ 10 laterosphenoid State_0 State_1;
+{ 11 facial_nerve_branches State_0 State_1 State_2;
+{ 12 juxtastapedial_recess State_0 State_1 State_2;
+{ 13 position_of_jugular_foramen State_0 State_1 State_2;
+{ 14 division_of_jugular_foramen State_0 State_1;
+{ 15 number_of_hypoglossal_foramina State_0 State_1;
+{ 16 stalk_of_occipital_condyle State_0 State_1;
+{ 17 posteroventral_process_of_dentary State_0 State_1 State_2;
+{ 18 contact_of_exoccipitals State_0 State_1 State_2;
+{ 19 vomerine_process_of_palatine State_0 State_1 State_2;
+{ 20 pterygoid_teeth State_0 State_1;
+{ 21 suprastapedial_process_of_quadrate State_0 State_1;
+{ 22 position_of_quadrate State_0 State_1;
+{ 23 retroarticular_process State_0 State_1;
+{ 24 premaxillary_teeth State_0 State_1;
+{ 25 contact_between_premaxilla_and_vomer State_0 State_1;
+{ 26 preorbital_ridge_on_frontal State_0 State_1;
+{ 27 interchoanal_process_of_parasphenoid State_0 State_1;
+{ 28 posteroventral_part_of_crista_circumfenestralis State_1 State_2;
+{ 29 modification_of_occipital_condyle State_0 State_1;
+{ 30 superior_alveolar_nerve_canal State_0 State_1;
+{ 31 proportions_of_frontal State_0 State_1;
+{ 32 supratemporal State_0 State_1;
+;
+
+
+ccode  - 0.32;
+
+
+;

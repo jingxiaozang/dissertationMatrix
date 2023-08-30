@@ -1,0 +1,74 @@
+nstates num 7;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 16.28.32'
+33 23
+
+&[num]
+Grammopelta_lineata           0110110010000-00-000001010000110-
+Caio_romulus                  0011111010100-00-000011111000110-
+Arsenura_albopicta            0012110211202000-0100102110001130
+Arsenura_archianassa          0012110111202000-00001021????????
+Arsenura_armida               0012110111202000-0000102110201130
+Arsenura_aspasia              1012110111201000-0000114110111032
+Arsenura_batesii              1302114111202000-0001113110001121
+Arsenura_beebei               0012110111202000-0000112110301130
+Arsenura_biundulata           1012110111201000-0000113110101032
+Arsenura_ciocolatina          0012110111202020-0000112111301130
+Arsenura_cymonia              1012110111202000-0000113120001121
+Arsenura_delormei             ???21102112020?0-0000102110401130
+Arsenura_drucei               13?2114111202000-0001113110001121
+Arsenura_meander              1010010100100-00-0000215110001133
+Arsenura_mossi                0012110111202000-1000112111001130
+Arsenura_orbignyana           1210012110210-00-0000116110001113
+Arsenura_pandora              1010013110100-00-0000215110001133
+Arsenura_polyodonta           1010002310200-10-0000116110501133
+Arsenura_ponderosa            1312114111202000-0010113010001121
+Arsenura_rebeli               1012110111202000-2000112112000130
+Arsenura_sylla                101211011120200110000113110001123
+Arsenura_thomsoni             1??21101112021?100000113110001123
+Arsenura_xanthopus            1210012110200-00-0000115110001113
+
+;
+
+
+cnames
+{ 0 Antenas_-_tipo_no_macho Quadridentada Quadripectinada;
+{ 1 Antenas_-_tipo_na_fêmea Filiforme Dentada Bipectinada Quadripectinada;
+{ 2 Antenas_-_forma_dos_pelos_nos_antenômeros_das_fêmeas Retos Curvos,_formando_um_anel;
+{ 3 Asas_anteriores_-_formato Arredondadas Alongadas Alongadas_com_forte_curvatura_subapical_na_borda_externa_dos_machos;
+{ 4 Asas_anteriores_-_banda_mediana_com_tonalidade_de_cor_cinza_com_pontos_negros Presente Com_outras_tonalidades_ou_não_pontilhadas_de_negro;
+{ 5 Asas_anteriores_-_direção_da_linha_interna Convergindo_para_o_centro_da_mancha_celular Não_convergindo_para_o_centro_da_mancha_celular;
+{ 6 Asas_anteriores_-_forma_da_linha_externa Reta Convexa_ou_levemente_ondulada Ondulada_em_forma_de_"S" Difusa,_sem_forma_definida,_às_vezes_imperceptível Variando_de_forte_a_pouco_ondulada;
+{ 7 Asas_anteriores_-_número_de_lobos Ausentes Um_ou_dois_lobos Pelo_menos_três_lobos Quatro_lobos;
+{ 8 Asas_anteriores_-_venação_subcostal Visivelmente_mais_claras Com_tonalidade_não_destacadas_dessa_forma;
+{ 9 Asas_posteriores_-_forma_da_borda_externa_nos_machos Arredondada Côncava;
+{ 10 Asas_posteriores_-_manchas_celulares Ausentes Presentes_e_pouco_nítidas Presentes_e_muito_nítidas;
+{ 11 Asas_posteriores_-_linha_esbranquiçada_dentro_da_mancha_fechadora_da_célula Ausente Presente;
+{ 12 Asas_posteriores_-_prolongamento_em_forma_de_cauda_nos_machos Ausente Presente,_discreto_com_ápice_pouco_afilado Presente,_proeminente_com_ápice_afilado;
+{ 13 Asas_posteriores_-_forma_do_prolongamento_em_forma_de_cauda_dos_machos Arredondada Levemente_lobada_ou_reta;
+{ 14 Asas_posteriores_-_origem_de_Rs_nas_fêmeas Afastada_de_M1 Com_M1_(veia_Rs_com_mesma_origem_de_M1) Anastomosada_na_base_com_M1;
+{ 15 Asas_posteriores_-_mancha_ondulada_na_banda_marginal_ao_longo_da_linha_clara Ausente Presente;
+{ 16 Asas_posteriores_-_forma_da_mancha_ondulada_da_banda_marginal Estreita_e_menos_destacada Larga_e_mais_destacada;
+{ 17 Asas_posteriores_-_fêmea_com_projeções_triangulares_entre_as_nervuras Ausentes,_discretas_ou_não_triangulares Presentes_com_mancha_clara_na_margem_interna Presentes_sem_a_mancha_clara;
+{ 18 Asas_anteriores_e_posteriores_-_manchas_brancas_muito_evidentes_entre_a_borda_interna_e_CuA1 Ausentes_ou_não_contrastantes Presentes;
+{ 19 Asas_anteriores_e_posteriores_-_pontuações_amarelas_bem_evidentes_ao_longo_da_linha_da_banda_marginal Ausente Presente;
+{ 20 Asas_anteriores_e_posteriores_-_pontuações_brancas_submarginais_muito_evidentes Ausentes Presentes;
+{ 21 Asas_anteriores_e_posteriores_-_destaque_das_manchas_celulares Ausentes Presente_e_mais_destacadas_nas_anteriores Presente_com_anteriores_e_posteriores_igualmente_destacadas;
+{ 22 Asas_anteriores_e_posteriores_-_banda_submarginal Pouco_contraste_em_relação_a_banda_marginal,_especialmente_nos_machos Com_contraste;
+{ 23 Asas_anteriores_e_posteriores_-_linha_clara_da_banda_submarginal Ausente Ausente_nos_lobos_das_asas_anteriores Presente_larga_com_lobos_muito_proeminentes_(em_vista_ventral) Presente_menos_larga_(em_vista_ventral) Nitidamente_largas_como_uma_faixa Presente_acompanhada_de_linha_ou_manchas__escuras_disformes Presente_amarelada_ou_bege;
+{ 24 Asas_anteriores_e_posteriores_-_coloração_predominante Amarelo Tonalidades_cinza_ou_terra;
+{ 25 Genitália_do_macho_-_lobo_subapical_na_valva Ausente Arredondado Pontiagudo;
+{ 26 Genitália_do_macho_-_processo_interno_com_prolongamento_puntiforme_na_valva Ausente Presente_afilado Presente_e_discretamente_afilado;
+{ 27 Genitália_do_macho_-_parte_proximal_do_edeago_em_vista_ventral Simples Lobado Levemente_lobado Lobado_com_aleta Lobado_com_expansão_corniforme Lobado_afilado;
+{ 28 Genitália_do_macho_-_porção_distal_do_edeago_com_lobos_muito_proeminentes Ausente_ou_não_proeminente Presente;
+{ 29 Genitália_do_macho_-_comprimento_da_porção_proximal__do_edeago Particularmente_longo,_simples__e_muito_estreito Lobado,_curto_ou_menos_estreito;
+{ 30 Genitália_do_macho_-_cornuti_na_vesica Ausentes Presentes;
+{ 31 Genitália_do_macho_-_forma_do_unco Simples Bifido_com_apíce_arredondado Bífido_com_ápice_afilado Trífido;
+{ 32 Genitália_do_macho_-_forma_dos_dentes_subapicais_do_unco Separados Muito__separados Separados_com_base_muito_larga_e_fundida Próximos_mas_não_fundidos;
+;
+
+
+ccode  - 0.32;
+
+
+;

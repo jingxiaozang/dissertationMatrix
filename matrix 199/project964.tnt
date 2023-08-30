@@ -1,0 +1,140 @@
+nstates num 8;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 16.35.22'
+98 24
+
+&[num]
+Leptoceratops_gracilis                -1--0---0010001-00?0--0-00-----000-0000-0000000-00-------------------00000000000000000000000000000
+Protoceratops_andrewsi                -0--0---000000010000000-0?--?--000-0000-0010000-0000-0---------------00000000000000000000000000000
+Magnirostris_dodsoni                  -1--0---000110000000100-?1000--000-0000-?????0????-------------------00100?0??????????????????????
+Bagaceratops_rozhdestvenskyi          -1--0---000100000000000-?0-----000-0000-001??00-?0-------------------0010000??????????????????????
+Turanoceratops_tardabilis             -???????????????0000???-?0001-1?1?????0-??????????????????????????????00????0?????????????????????
+Zuniceratops_christopheri             -1000000???010000000--100000102?1101100-?0?0????0010-0---------------00000000???110?????????01?0??
+Diabloceratops_eatoni                 -01100001010010000?0001??000102?11011010001100101111110011100000101011??????1?????????????????????
+Albertaceratops_nesmoi                -?1?000??????01-101?00???000112?111111??00110010111111001111000010101?1101111?????????????????????
+Rubeosaurus_ovatus                    -01??0001?1??0??????1??0?000022?1?????????????101??1?100?1000101111?1?????????????????????????????
+Styracosaurus_albertensis             -01100001111001-11111010000002211111111000110010111111001110001111111111011111?111101111111101111?
+Spinops_sternbergorum                 -??1?00???????1-????1??0?000022?111???10??????101111?100??112000?0?0??????????????????????????????
+Centrosaurus_apertus                  -01100001111001-1111101000000201111111100011001011111100111120001010111101111111111011111111011111
+Coronosaurus_brinkmani                -011?000111??01-11111010000102011111111000110010111111001111??0010101111011111?11?1????111110?111?
+Xenoceratops_foremostensis            -????????????????????0???????????????????01?0010?111?1??1110100010101?????????????????????????????
+Sinoceratops_zhuchengensis            -??1??????????001???1?????00022010-???100011000-111111001111?00010101?????????????1????11?????11??
+Einiosaurus_procurvicornis            -?11?000??????1-111110111100022010-111100011001011111100110001?010101111011111?11?1??1?111??1111??
+Achelousaurus_horneri                 -011?00011110?1-111120111100022?10-1?1100011001011111100?10001101010111101111?????????????????????
+Pachyrhinosaurus_canadensis           -011000011110?1-11112011?110022?10-111100?1100??11???1???10121101010111101????????????????????????
+Pachyrhinosaurus_lakustai             -01100001111001-111120111110022?10-1?11000110010111111001111211010101111011111?11?1??11111110111??
+Pachyrhinosaurus_perotorum            -01?0000111???1-11?1201??110022?10-???1????1?010?111?1???111?11010101?????1?1???1???????????0111??
+Chasmosaurus_belli                    -100111000-0100111111101?000?0201111111111011111110001110010300-0-0-011011111111111111111111111111
+Pentaceratops_sternbergii             -100111000-0110111111101000111201111111111011111110001110010300-0-0-01101111111111111111111111?111
+Avaceratops_lammersi                  -01?000011110?1-10100011?001111?11011?100011000-11--0100?1100000101011??011111111?10?11???????1?1?
+Nasutoceratops_titusi                 -01100001111001-10100011?001112?110??1100011000-111101001110000010101???????111?1?10??????????????
+
+;
+
+
+cnames
+{ 0 no_character;
+{ 1 Rostral_elongate State_0 State_0 State_1 State_1;
+{ 2 premax_septum_semicircular State_0 State_0 State_1 State_1;
+{ 3 pm_septum_formed_by_pm_and_nasal State_0 State_0 State_1 State_1;
+{ 4 pm_narial_strut_present State_0 State_0 State_1 State_1;
+{ 5 pm_septal_fossa_present State_0 State_0 State_1 State_1;
+{ 6 pm_triangular_process_present State_0 State_0 State_1 State_1;
+{ 7 ventral_septal_recess State_0 State_0;
+{ 8 pm_oral_margin_caudoventral_expansion State_0 State_0 State_1 State_1;
+{ 9 pm_extent_of_expansion State_0 State_0 State_1 State_1;
+{ 10 pm_ventral_angle_only_pm State_0 State_0 State_1 State_1;
+{ 11 pm_caudoventral_process_inserts_between_max_and_nasal State_0 State_0 State_1 State_1;
+{ 12 pm_caudoventral_process_formed State_0 State_0 State_1 State_1;
+{ 13 pm_nasal_contact_doral_view_nasal_inserts_into_premaxilla State_0 State_0 State_1 State_1;
+{ 14 accessory_antorbital_fenestra_presnent State_0 State_0 State_1 State_1;
+{ 15 aaof_size_small State_0 State_0 State_1 State_1;
+{ 16 external_antorbital_fossa_small State_0 State_0 State_1 State_1;
+{ 17 max_tooth_row_ventrally_displaced State_0 State_0 State_1 State_1;
+{ 18 maxillary_cavity_present State_0 State_0 State_1 State_1;
+{ 19 ectopterygoid_vestigual State_0 State_0 State_1 State_1;
+{ 20 Nasal_ornamentation State_0 State_0 State_1 State_1 State_2 State_2;
+{ 21 epinasal State_0 State_0 State_1 State_1;
+{ 22 narial_spine State_0 State_0 State_1 State_1;
+{ 23 sinus_enters_postorbital State_0 State_0 State_1 State_1;
+{ 24 subadult_ornamentation State_0 State_0 State_1 State_1;
+{ 25 pacyosteotic_boss State_0 State_0 State_1 State_1;
+{ 26 horncore_position State_0 State_0 State_1 State_1;
+{ 27 horncore_orientation State_0 State_0 State_1 State_1;
+{ 28 horncore_length State_0 State_0 State_1 State_1;
+{ 29 horncore_curvature State_0 State_0 State_1 State_1 State_2 State_2;
+{ 30 horncore_lateral_curvature State_0 State_0 State_1 State_1 State_2 State_2;
+{ 31 prefrontal_present State_0 State_0 State_1 State_1;
+{ 32 Palpebral_blocky State_0 State_0 State_1 State_1;
+{ 33 antorbital_butress State_0 State_0 State_1 State_1;
+{ 34 butress_long State_0 State_0 State_1 State_1;
+{ 35 jugal_ventrally_oriented State_0 State_0 State_1 State_1;
+{ 36 Jugal_infratemporal_process_present State_0 State_0 State_1 State_1;
+{ 37 epijugal_scar_equilateral State_0 State_0 State_1 State_1;
+{ 38 frontal_fontanelle State_0 State_0 State_1 State_1;
+{ 39 frontal_fontanelle_keyhole_shaped State_0 State_0 State_1 State_1;
+{ 40 rostral_parietal_directly_over_oc State_0 State_0 State_1 State_1;
+{ 41 squamosl_triangular State_0 State_0 State_1 State_1;
+{ 42 squamosal_forms_floor_of_DTF State_0 State_0 State_1 State_1;
+{ 43 squamosal/quadrate_contact_elongated_grove State_0 State_0 State_1 State_1;
+{ 44 sq_thickened_rounded_swelling_on_medial_margin State_0 State_0 State_1 State_1;
+{ 45 parietosquamosal_contact_medially_concave State_0 State_0 State_1 State_1;
+{ 46 parietal_median_embayment State_0 State_0 State_1 State_1;
+{ 47 embayment_deep State_0 State_0 State_1 State_1;
+{ 48 parietal_rim_on_medial_margin_of_parietal_fenestra State_0 State_0 State_1 State_1;
+{ 49 Parietal_sharp_median_crest State_0 State_0 State_1 State_1;
+{ 50 Parietal_transverse_bar_rostrocaudally_thick State_0 State_0 State_1 State_1;
+{ 51 Parietal_transverse_bar_wide State_0 State_0 State_1 State_1;
+{ 52 frill_imbrication_of_marginal_undulations State_0 State_0 State_1 State_1;
+{ 53 epiossifications_on_frill State_0 State_0 State_1 State_1;
+{ 54 episquamosal_delta_shaped State_0 State_0 State_1 State_1;
+{ 55 6_or_more_episquamosals State_0 State_0 State_1 State_1;
+{ 56 eps State_0 State_0 State_1 State_1;
+{ 57 5_or_more_epiparietals_per_side State_0 State_0 State_1 State_1;
+{ 58 p1_present State_0 State_0 State_1 State_1;
+{ 59 p2_spike State_0 State_0 State_1 State_1;
+{ 60 p2_curved State_0 State_0 State_1 State_1 State_2 State_2 State_3 State_3;
+{ 61 P3_spike State_0 State_0 State_1 State_1;
+{ 62 P3_curvature State_0 State_0 State_1 State_1;
+{ 63 p4_spike State_0 State_0 State_1 State_1;
+{ 64 P5_present State_0 State_0 State_1 State_1;
+{ 65 P5_spike State_0 State_0 State_1 State_1;
+{ 66 P6_present State_0 State_0 State_1 State_1;
+{ 67 p6_spike State_0 State_0 State_1 State_1;
+{ 68 P7_present State_0 State_0 State_1 State_1;
+{ 69 supraoccipital_excluded_in_foramen_magnum State_0 State_0 State_1 State_1;
+{ 70 predentary_dorsal_and_verntral_processes_subequal State_0 State_0 State_1 State_1;
+{ 71 Predentary_triturating_surface_inclined_laterally State_0 State_0 State_1 State_1;
+{ 72 dentary_lateral_ridge_confluent_with_cutting_surface_of_predentary State_0 State_0 State_1 State_1;
+{ 73 caudal_extent_of_tooth_row_caudal_to_coronoid_process State_0 State_0 State_1 State_1;
+{ 74 double_rooted_teeth State_0 State_0 State_1 State_1;
+{ 75 number_of_alveoli_in_dentary_more_than_20 State_0 State_0 State_1 State_1;
+{ 76 3_or_more_replacement_teeth_per_alveolus State_0 State_0 State_1 State_1;
+{ 77 syncervical_with_complete_ring State_0 State_0 State_1 State_1;
+{ 78 axis_neural_spine_swept_back_to_C3 State_0 State_0 State_1 State_1;
+{ 79 atlantal_rib_absent State_0 State_0 State_1 State_1;
+{ 80 dorsal_vertebae_shortened State_0 State_0 State_1 State_1;
+{ 81 sacrum_longitudinal_sulcus State_0 State_0 State_1 State_1;
+{ 82 scapula_makes_up_more_than_half_of_the_glenoid State_0 State_0 State_1 State_1;
+{ 83 large_olecranon_process State_0 State_0 State_1 State_1;
+{ 84 clavical_absent State_0 State_0 State_1 State_1;
+{ 85 unguals_flat_with_rounded_tips State_0 State_0 State_1 State_1;
+{ 86 penultimate_phalanges_wider_than_long State_0 State_0 State_1 State_1;
+{ 87 ilium_lateral_eversion State_0 State_0 State_1 State_1;
+{ 88 ischial_pedulcle_shorter_then_pubic_peduncle State_0 State_0 State_1 State_1;
+{ 89 pubis_prepubic_process_long State_0 State_0 State_1 State_1;
+{ 90 pubis_postpubic_rod_short State_0 State_0 State_1 State_1;
+{ 91 pubis_forms_medial_wall_of_acetabulum State_0 State_0 State_1 State_1;
+{ 92 ischium_laterally_compressed State_0 State_0 State_1 State_1;
+{ 93 ischium_curved State_0 State_0 State_1 State_1;
+{ 94 femur_without_distinct_greater_and_lesser_torchantters State_0 State_0 State_1 State_1;
+{ 95 small_4th_trochanter State_0 State_0 State_1 State_1;
+{ 96 tibia_shorter_than_femur State_0 State_0 State_1 State_1;
+{ 97 MT_I_half_the_length_of_II State_0 State_0 State_1 State_1;
+;
+
+
+ccode  - 0.97;
+
+
+;
