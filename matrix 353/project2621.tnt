@@ -1,0 +1,98 @@
+nstates num 7;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 09.15.11'
+32 48
+
+&[num]
+Hypothetical_Ancestor                 20010300000202330001??0002210200
+Podowrinella                          200103?0000202230?0???0002210100
+Acernaspis_quadrilineata              00112500010000030001?10231201000
+Acernaspis_woodburnensis              100104?0010002130????10?30??0?00
+Acernaspis_sufferta                   000115000?00021300???302302?1101
+Acernaspis_sororia                    1021?500010002120001?30232202100
+Acernaspis_konoverensis               000115?00?0002120?????0231203000
+Acernaspis_boltoni                    010113000100022100???30332223111
+Acernaspis_rectifrons                 011114?00100022100?1??02322?3100
+Acernaspis_incerta                    ?0?115?0?01002110?????0231102001
+Acernaspis_pulcher                    1021?5?00?1002210????30??3?0111?
+Acernaspis_becsciensis                101104?00?0002?30???????330?211?
+Acernaspis_superciliexcelsis          101004000000?213000??30333022111
+Acernaspis_mimica                     10000400??00121300???303330?211?
+Acernaspis_orestes                    ?0?00400000012130001?30333022111
+Acernaspis_elliptifrons               1?1115?01?10021?0?????02320?1100
+Acernaspis_xynon                      000105?00?0002110?????0232?11101
+Acernaspis_rubicundula                10110101020002130001?30232110000
+Acernaspis_skidmorei                  ??0?1?????200213??????0232012?00
+Acernaspis_dispersa                   ?0?115000?000213000???0330011100
+Acernaspis_salmoensis                 ?0?105?0000?0213?10????2320??101
+Acernaspis_cf._stokesii               2011121210021?130?00?00?322?3100
+Ananaspis_sp._nov.                    3031241201221?220011??11??323111
+Ananaspis_macdonaldi                  30311313120112220011??133421321?
+Ananaspis_nuda                        20011412?0121222011???13?0211211
+Ananaspis_amelangorum                 20111213101212220110?11333223012
+Ananaspis_fecunda                     101112141012122?01????0111111223
+Ananaspis_aspera                      2011131310222222?11??????1111223
+Ananaspis_decora                      101112131012122201?1???231111123
+Kainops_guttulus                      20212313101322231110?012222212?2
+Kainops_ekphymus                      ?0?121140022222311????121?200223
+Kainops_microps                       303120131022222311?1??1211201222
+Kainops_veles                         303120131022222311?2??1212211222
+Kainops_invius                        30312413111222231?1???1211222222
+Kainops_raymondi                      202113131012222311?1?01313222222
+Paciphacops_serratus                  302125?32?222222???????312221233
+Paciphacops_crossei                   30211514?0122223?1???2?3122??2?3
+Paciphacops_latigenalis               ???1251510222223?12??2331?221233
+Paciphacops_eldredgei                 304124140012121311????333?321222
+Paciphacops_sp._nov                   30412314001322231122?133?5323222
+Paciphacops_hudsonicus                30312414101222230131??3334223222
+Paciphacops_logani                    202124141013021111???223?3??2123
+Paciphacops_campbelli                 30412414101322330131?23435223223
+Paciphacops_birdsongensis             2031251410132233013???3??422??23
+Paciphacops_claviger                  10011314200?122011???23432322233
+Viaphacops                            ?012102510??0?1021?2?23433?2?2?3
+Phacops_rana                          21113?250014121321220?333??01230
+Phacops_iowensis                      3032?02500?41222212202332?10??31
+
+;
+
+
+cnames
+{ 0 Size_of_Glabella <51% 51.0-55.9% 56-60.9% 61-65.9%;
+{ 1 Length_of_Occipital_Ring short_(</=_20%) long_(>20%);
+{ 2 Width_of_Occipital_Ring <32% 32-33.9% 34-35.9% 36-37.9% >/=_38%;
+{ 3 Intercalating_ring_(Character_B) small,_subtriangular,_transversely_strongly_vaulted other small,_circumscribed_by_furrows,_set_anterior_to_L1.;
+{ 4 Shape_of_L1 L1_small medium large,_distinct_adaxial_edge large,_indistinct_adaxial_edge;
+{ 5 Length_of_L2_relative_to_L3_(character_C) 40-49% 50-59% 60-69% 70-79% 80-89% 90-99% 100-109%;
+{ 6 Granulation_on_glabella granulation_present_on_all_convex_surfaces present_on_tubercles,_reduced_between, absent_between_tubercles;
+{ 7 Glabellar_tuberculation_(Character_K) tubercles_absent low,_weak,_very_sparse_tubercles weak,_sparse distinct,_medium_density distinct_to_coarse,_dense,_granulated_tubercles coarse_or_mosaic,_non-granulated_tubercles very_large,_steep-sided_tubercles;
+{ 8 Occipital_median_node_(Character_L) node_absent weak_to_distinct_node longer_than_diameter_(spine);
+{ 9 Raised_rims_along_S2_and_S3 rims_absent weak distinct;
+{ 10 Length_of_postocular_area_(Character_F) less_than_half_the_length_of_posterior_border half_to_equal longer_than;
+{ 11 Lateral_border_furrow_(Character_H) absence_or_hint_of_furrow narrow,_weak narrow,_deep wide,_distinct wide,_shallow_to_effaced;
+{ 12 Inflation_of_palpebral_area palpebral_area_lower_than_palpebral_lobe about_level markedly_higher;
+{ 13 Axial_furrow_along_L1 faint_to_absent weak,_thin distinct;
+{ 14 Palpebral_furrow_(Character_G) faint_to_absent weak,_thin distinct deep;
+{ 15 Genal_angle_(Character_J) drawn_out,_with_acute_tip_or_large_spine drawn_out,_with_small_spine rounded_angular,_with_distinct_node rounded,_with_or_without_hint_of_node;
+{ 16 Border_ridge absent weak_ridge_anteriorly strong;
+{ 17 Auxiliary_muscle_impressions clearly_visible absent_or_faintly_present_anteriorly_only.;
+{ 18 Sculpture_on_palpebral_area even_surface pitted perforated_appearance smooth_between_tubercles;
+{ 19 Sculpture_on_cephalic_border evenly_granulated_surface granulation-free_spots_or_depressions pits_or_perforations;
+{ 20 Glabellar_width_[1_modified] 51-55.9%;
+{ 21 Posterior_incisions absent weak distinct strong;
+{ 22 Sclera_in_eyes thin_sclera slightly_thickened,_dorsally_only considerably_thickened_dorsally,_only_weakly_ventrally entire_surface_thickened;
+{ 23 Vincular_furrow_medially anteriorly_pointed bevelled_margin wide,_shallow_furrow distinct,_deep_furrow wide,_very_deep_furrow;
+{ 24 Vincular_Notches absent weak distinct very_strong,_near_separate_pits;
+{ 25 Width_of_pygidial_axis 27.0-29.9% 30.0-32.9% 33.0-35.9% 36.0-38.9% 39.0-41.9% 42.0%-44.9%;
+{ 26 Pseudoarticulating_half_ring_in_anterior_furrow absent widened_furrow_or_hint_of_ring distinct_ring strong_ring,_near_level_with_axial_ring_in_front,_ornamented;
+{ 27 Interring_furrows_posteriorly furrows_continuous shallower_medially weak_to_absent_medially;
+{ 28 Length_of_anterior_five_axial_rings 62.0-65.9% 66.0-69.9% 70.0-73.9% >/=74.0%;
+{ 29 Number_of_Congruent_Segments three_congruent_segments four five_or_more;
+{ 30 Depth_of_pleural_furrows weak,_thin_pleural_furrows deep,_thin deep,_steep-sided_to_medium_wide deep,_wide;
+{ 31 Interpleural_furrows interpleural_furrows_barely_visible weak distinct deep;
+;
+
+
+ccode  - 0.31;
+
+
+;

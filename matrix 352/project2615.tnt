@@ -1,0 +1,77 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 09.14.36'
+41 18
+
+&[num]
+Arganodus_atlantis               202012200-01-01????00?000?1010111????????
+Asiatoceratodus                  202012200-?1-0??????????????0010????????2
+Beltanodus                       111001000-?1-00??????????????????????????
+Ceratodus                        ?12112200-01-00??????0?????01010?????????
+Dipterus                         000000000-?1-0000004?0?1011?00000???????0
+Fergano_martini                  202012200-01-00????030???11?110030??????1
+Gnathorhiza                      111001100-?1-0101103?2?0?10?000040?0????1
+Gosfordia                        202011200-?1-010000????????0?????????0?02
+Lepidosiren_paradoxa             22201321111001120011221210321022510122042
+Microceratodus                   111011200-?1-0?????????????????????????0?
+Neoceratodus_forsteri            112112200-01-0000002101101111000200000031
+Paraceratodus                    201010200-?1-00?????????????0?0?4????????
+Protopterus_annectens            22201321100012111111211210211022511111112
+Protopterus_amphibius            22201321100012110111211210211022511111102
+Protopterus_aethiopicus          22201321100012111111211210211022511111122
+Protopterus_dolloi               22201321110002110011221210321022511111132
+Ptychoceratodus                  201111200-01-01????????11?12101130???????
+Sagenodus                        000000000-01-00011001001011100001010000?1
+
+;
+
+
+cnames
+{ 0 Anterior_skull_roof State_0 State_1 State_2;
+{ 1 Ethmoid_articulation State_0 State_1 State_2;
+{ 2 Median_series State_0 State_1 State_2;
+{ 3 Sutures_between_median_series State_0 State_1;
+{ 4 Paired_median_bones State_0 State_1;
+{ 5 Mediolateral_series,_number_of_elements State_0 State_1 State_2 State_3;
+{ 6 Sensory_lines,_presence State_0 State_1 State_2;
+{ 7 Frontoparietal,_sagittal_crest State_0 State_1;
+{ 8 Frontoparietal,_lateral_processes State_0 State_1;
+{ 9 Frontoparietal,_anterior_extent_of_lat_proc State_0 State_1;
+{ 10 Frontoparietal,_ventral_prongs State_0 State_1;
+{ 11 Additional_lateral_parietals State_0 State_1;
+{ 12 Supraorbital,_lateral_process State_0 State_1;
+{ 13 Supraorbital,_midline_articulation State_0 State_1 State_2;
+{ 14 Dermosphenotic,_free_or_fused/lacking State_0 State_1;
+{ 15 Operculum,_shape/curve State_0 State_1 State_2;
+{ 16 Suboperculum,_curvature State_0 State_1;
+{ 17 Suboperculum,_lateral_ridge State_0 State_1;
+{ 18 Suboperculum,_dorsal_process State_0 State_1;
+{ 19 Parasphenoid,_posterior_end State_0 State_1 State_2 State_3 State_4;
+{ 20 Parasphenoid,_ridges State_0 State_1 State_2 State_3;
+{ 21 Parasphenoid,_shape_of_anterior_end State_0 State_1 State_2;
+{ 22 Exoccipitals,_presence State_0 State_1;
+{ 23 Pterygoid,_posterior_flaring State_0 State_1 State_2;
+{ 24 Prearticular,_coronoid_process State_0 State_1;
+{ 25 Splenial,_presence State_0 State_1;
+{ 26 Angular,_relative_length State_0 State_1 State_2 State_3;
+{ 27 Angular,_dorsal_process_location State_0 State_1 State_2;
+{ 28 First_tooth_ridge State_0 State_1;
+{ 29 Toothplate_angle State_0 State_1;
+{ 30 Pterygoid_tooth_plates,_contact State_0 State_1 State_2;
+{ 31 Prearticular_tooth_plates,_contact State_0 State_1 State_2;
+{ 32 Number_of_ridges_on_pterygoid_tooth_plates State_0 State_1 State_2 State_3 State_4 State_5;
+{ 33 Vomerine_teeth,_shape State_0 State_1;
+{ 34 Ceratohyal,_distal_ridge State_0 State_1;
+{ 35 Ceratohyal,_curvature State_0 State_1;
+{ 36 Anocleithrum_size State_0 State_1 State_2;
+{ 37 Cleithrum,_shape State_0 State_1 State_2;
+{ 38 Clavicle,_anterior_pocket State_0 State_1;
+{ 39 Rib_number State_0 State_1 State_2 State_3 State_4;
+{ 40 Scales State_0 State_1 State_2;
+;
+
+
+ccode  - 0.40;
+
+
+;

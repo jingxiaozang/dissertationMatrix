@@ -1,0 +1,120 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 09.15.41'
+68 34
+
+&[num]
+Platyprosopus_mexicanus                      001010--1000100002100021001101010030-0?010000000-0200000000000000001
+Acylophorus_glaberrimus                      111111100102000012100021000-0121103110100000111110200001001100111000
+Acylophorus_pratensis                        11111???0101110010100021100-0121103120100000111110200001001100111001
+Anchocerus_birmanus                          10111110010201001210002100100121103110100000111110200001001100111000
+Afroquedius_sexpunctatus                     000010--010110100000002110111101103120111000100110100001001101110001
+Arrowinus_peckorum                           00000????000100000000021101111010000-011100000?110010101101010000001
+Hesperus_apicialis                           001011012111011000010000010-112010310101001---1120000001001001110001
+Ocypus_brunnipes                             0010110101101110020101000110112010310011100000?0-0200001001001110001
+Philonthus_splendens                         001010--21110110000100100110112010310101001---1120010101101001111001
+Platydracus_stercorarius                     000011010110111000010100111011201030-01110001000-0000001001001110001
+Quedius(Microsaurus)fulgidus                 001011?1010111100000002110111121103120111000100100100001001001111001
+Quedius(Quedius)fuliginosus                  001011?0010111100000002110111121103120111000100100100001001001111001
+Staphylinus_caesareus                        001011010110111000010100011011201030-01110000000-0000001001001110001
+Triacrus_dilatus                             000011012110111000021000010-0120103101110100101110201011001001011001
+Valdiviodes_ashworthi                        00001???11011000000000011011110110112011100010?110000001001011110001
+Xanthopygus_xanthopygus                      001011000110111000021000110-1120103101110000101120001011011001111001
+Quediomimus_hybridus                         001010--0101101000000021000-1111003120111001101110210101101001110111
+Quediocafus_insolitus                        001011010101101000000021101111?0003120111001101110200001001011110111
+Cheilocolpus_nanus                           001011010101101100000021001110-000312011100000?0-0200001001101110111
+Rolla_sp.                                    001010--0101101000000021000-10-1003120111001101111-10101101101110111
+Heterothops_binotatus                        001010--0101100101000021000-00-0003120111001101110210101001001110121
+Loncovilius_semiflavus                       001011010101100000000001100-00-0003120111000101101-00001001101010111
+Devilleferus_brunkei                         000011010101??100000002110100121003120111000100100000001001001110111
+Quedius_sidneensis                           0010110?0101101000000021100-0111003110111001101120210101101101110111
+Quedius_viridulus                            001011000101101000000021000-00-10031?0111001101121-1010110100?110111
+Sphingoquedius_strandi                       0010110-0101101000000021100-11100031?011101---1120200001000101?10111
+Amblyopinus_emarginatus                      001010--2001?00000000021000-10-10030-011100010-0-1-00001001-0111011?
+Quedius_antipodum                            001011001101101000000021100-1111003120111000101121-00001001001110121
+Cheilocolpus_impressifrons                   0010110-0101101000000021000-01100031?0111001101121-1010110100111011?
+Loncovilius(Lienturius)leiocephalus          001011010101101000000021100-111000312011100010112021010110110111011?
+Astrapaeus_ulmi                              001010--0101100212100021100-1121111120111000100110100001001001110001
+Quedius(Cyrtoquedius)labiatus                001010--0101101000000021100-1121111120111000000110100001001101110001
+Quediomacrus_puniceipennis                   000010--0101011000000011100-1121102120010100100110000001001001111001
+Lonia_regalis                                00001111010101100000001110111111102121010100100110000001001001111001
+
+;
+
+
+cnames
+{ 0 Antennae,_length_of_the_first_segment antennomere_I_at_most_as_long_as_antenomeres_II_and_III_combined antennomere_I_distinctly_longer_than_antennomeres_II_and_III_combined;
+{ 1 Antennae,_antennomere_III,_tomentose_pubescence Absent Present;
+{ 2 Antennae,_antennomere_IV,_tomentose_pubescence Absent Present;
+{ 3 Antennae,_apical_antennomere About_as_long_or,_usually,_much_longer_than_penultimate Shorter_than_penultimate;
+{ 4 Head,_neck_constriction Distinct_at_sides_only Fully_developed,_distinct_all_around;
+{ 5 Head,_infra_orbital_ridge,_presence absent present;
+{ 6 Head,_infra_orbital_ridge,_anterior_extension Not_extended_more_than_half_the_length_of_gula Extended_more_than_half_the_length_of_gula;
+{ 7 Head,_infra_orbital_ridge,_development_of_basal_portion Present_as_horizontal_ridge_between_nuchal_ridge_and_postgenal_ridge,_often_minute Turning_distinctly_dorsally_on_neck;
+{ 8 Head,_nuchal_ridge,_development present_dorsally_and_laterally missing_dorsally,_present_laterally missing_laterally,_present_dorsally;
+{ 9 Head,_postgenal_ridge,_presence absent present;
+{ 10 Head,_dorsal_basal_ridge,_presence absent present;
+{ 11 Head,_ligula,_shape more_or_less_bilobed,_with_variously_developed_rounded_lobes compact_and_entire_(or_at_most_slightly_notched_medially) strongly_reduced,_indistinct;
+{ 12 Head,_mentum,_seta_alpha absent present;
+{ 13 Head,_mentum,_seta_beta absent present;
+{ 14 Head,_mandibles,_dorso-lateral_groove,_presence absent present;
+{ 15 Head,_maxillary_palpus,_apical_segment,_shape More_or_less_fusiform_to_parallel-sided,_sometimes_very_elongate Aciculate_(needle-like_and_much_smaller_than_previous_segment) Distinctly_expanded_toward_truncate_apex;
+{ 16 Head,_maxillary_palpus,_apical_segment,_dense,_short_setae,_presence absent present;
+{ 17 Head,_labial_palpus,_apical_segment,_shape More_or_less_fusiform_to_parallel-sided,_sometimes_very_elongate Aciculate_(needle-like_and_much_smaller_than_previous_segment) Distinctly_expanded_toward_truncate_apex;
+{ 18 Head,_labial_palpus,_apical_segment,_dense_and_short_setae,_presence absent present;
+{ 19 Prothorax,_hypomeron,_superior_marginal_line Present_along_entire_length_of_pronotum,_not_deflexed_under_anterior_angle Present_along_entire_length_of_pronotum,_deflexed_under_anterior_angle Ending_at_anterior_angle_(and_therefore_not_deflexed_under_it);
+{ 20 Prothorax,_hypomeron,_inferior_marginal_line,_development Not_continued_beyond_anterior_angle_of_pronotum_as_a_separate_entity Continued_beyond_anterior_angle_of_pronotum_as_a_separate_entity;
+{ 21 Prothorax,_hypomeron,_superior_and_inferior_marginal_lines,_intersection Lines_not_intersecting Lines_intersecting;
+{ 22 Prothorax,_hypomeron,_inflexion Not_inflexed_(most_of_its_surface_visible_in_lateral_view) Slightly_inflexed_(most_of_its_surface_hidden_in_lateral_view) Strongly_inflexed_(not_visible_in_lateral_view);
+{ 23 Prothorax,_front_angles Not_strongly_produced_beyond_(anteriad_of)_anterior_margin_of_prosternum Strongly_produced_beyond_(anteriad_of)_anterior_margin_of_prosternum;
+{ 24 Prothorax,_postcoxal_process absent present;
+{ 25 Prothorax,_fusion_of_pronotum_and_prosternum Pronotum_and_prosternum_not_fused_in_procoxal_cavity,_therefore_pronotosternal_suture_complete_in_cavity Pronotum_and_prosternum_at_least_partially_fused_in_procoxal_cavity,_therefore_pronotosternal_suture_missing_in_part_of_cavity;
+{ 26 Prothorax,_prosternum,_longitudinal_ridge,_presence Absent Present;
+{ 27 Prothorax,_prosternum,_longitudinal_ridge,_development Present_only_on_basisternum Present_on_basisternum_and_furcasternum;
+{ 28 Prothorax,_basisternum,_pair_of_macrosetae Absent Present;
+{ 29 Mesothorax,_elytron,_subbasal_ridge,_presence Absent Present;
+{ 30 Mesothorax,_elytron,_subbasal_ridge,_shape Horizontal,_reaching_humerus Horizontal_but_reduced,_not_reaching_humerus Sinuate,_directed_anteriad;
+{ 31 Mesothorax,_elytron,_humeral_spines_or_spine-like_setae,_presence Absent Present;
+{ 32 Mesothorax,_mesoscutellum,_posterior_scutellar_ridge,_presence Absent Present;
+{ 33 Mesothorax,_epipleural_row_of_setae_in_impressed_punctures,_presence Absent Present;
+{ 34 Mesothorax,_elytron,_punctation Without_punctures_or_setiferous_pores With_only_a_few_macrosetae_arranged_in_rows,_including_epipleuron With_only_a_few_macrosetae_arranged_in_rows,_epipleuron_with_more_or_less_even_punctation With_even_punctation_on_disc_and_epipleuron;
+{ 35 Procoxa,_internal_ridge,_presence Absent Present;
+{ 36 Procoxa,_internal_ridge,_development Not_running_along_external_ridge,_ending_distinctly_before Not_running_along_external_ridge,_nearly_meeting_to_entirely_fusing_with_external_ridge Running_along_external_ridge;
+{ 37 Metacoxa,_transverse_carina,_presence Absent Present;
+{ 38 Protarsomeres,_dorsal_chaetotaxy Tarsomeres_glabrous,_with_only_marginal_setae_or_at_most_with_a_few_setae_of_marginal_row_duplicated Tarsomeres_setose,_setae_not_restricted_to_marginal_series;
+{ 39 Protarsomeres,_shape Tarsomeres_I-IV_more_or_less_cylindrical,_not_transversely_widened_and_not_flattened_dorso-ventrally tarsomeres_I-IV_more_or_less_dorso-ventrally_flattened_and_transversely_widened;
+{ 40 Metatarsomeres_2-5,_dorsal_chaetotaxy Glabrous_along_middle Setose;
+{ 41 Metatarsomere_IV,_ventral_spine-like_setae Distinctly_interrupted_medially_and_removed_from_apical_margin Not_distinctly_interrupted_medially_(2-3_setal_widths)_and_not_removed_from_apical_margin;
+{ 42 Apical_tarsomere,_empodial_setae,_presence Present Absent;
+{ 43 Apical_tarsomere,_empodial_setae,_development One_pair_of_setae One_seta;
+{ 44 Apical_protarsomere,_empodial_setae Distinctly_longer_than_half_the_length_of_claws No_more_than_half_the_length_of_claws;
+{ 45 Apical_metatarsomere,_empodial_setae About_as_long_as_that_of_protarsus Distinctly_longer_than_that_of_protarsus;
+{ 46 Hind_wing,_venation,_veins_CuA_and_MP4 Veins_CuA_and_MP4_completely_separate Veins_CuA_and_MP4_fused_in_one_vein_(although_its_origin_from_two_veins_often_obvious);
+{ 47 Metanotum,_protergal_glands,_cuticular_manifestation,_presence Absent Present;
+{ 48 Metanotum,_prototergal_glands,_cuticular_manifestation,_morphology Shallow_impression Well-developed_acetabulum More_or_less_invaginated_capsulae_with_smaller_openings;
+{ 49 Abdominal_tergite_II,_basal_longitudinal_carina,_presence Present Absent;
+{ 50 Abdominal_tergite_II,_basal_longitudinal_carina,_development Entire_(connecting_anterior_margin_of_tergite_with_transverse_basal_carina) Extended_(extending_beyond_transverse_basal_carina) Reduced_(not_reaching_transverse_basal_carina);
+{ 51 Abdominal_tergite_III,_posterior_basal_transverse_carina,_presence Absent Present;
+{ 52 Abdominal_tergite_III,_disc,_curved_ridge,_presence Absent Present;
+{ 53 Abdominal_tergite_IV,_posterior_basal_transverse_carina,_presence Absent Present;
+{ 54 Abdominal_tergite_IV,_disc,_curved_ridge,_presence Absent Present;
+{ 55 Abdominal_tergite_V,_anterior_basal_transverse_carina,_development Incomplete Complete,_reaching_the_level_of_spiracles;
+{ 56 Abdominal_tergite_V,_posterior_basal_transverse_carina,_presence Absent Present;
+{ 57 Abdominal_tergite_V,_disc,_curved_ridge,_presence Absent Present;
+{ 58 Abdominal_tergite_VI,_anterior_basal_transverse_carina,_presence Absent Present;
+{ 59 Abdominal_sternite_III,_basal_transverse_carina,_shape At_middle,_straight,_rounded,_or_forming_an_obtuse_angle At_middle,_sharply_pointed_and_forming_an_acute_angle;
+{ 60 Male:_basal_mesotarsomere,_brush_of_adhesive_setae_(not_flattened_into_a_broad_pad),_presence Absent Present;
+{ 61 Male:_sternum_VIII,_apical_margin,_median_emargination,_presence Absent,_at_most_vaguely_concave Present;
+{ 62 Male:_sternum_IX,_shape_of_base More_or_less_symmetrical Weakly_to_strongly_asymmetrical;
+{ 63 Male:_aedeagus,_parameres,_separation Paired,_well_separated Fused_into_a_single_lobe_(sometimes_this_lobe_more_or_less_secondarily_bifurcate);
+{ 64 Male:_aedeagus,_paramere(s),_sensory_peg_setae,_presence Absent Present;
+{ 65 Male:_aedeagus,_paramere(s),_development Paramere(s)_not_(or_at_most_slightly)_produced_over_apex_of_median_lobe,_paramere_smaller_than_median_lobe Paramere_strongly_produced_over_apex_of_median_lobe,_paramere_larger_than_median_lobe;
+{ 66 Male:_aedeagus,_paramere(s),_degree_of_attachment_to_median_lobe Fused_to_median_lobe_only_at_base,_paramere(s)_distinctly_separated_from_median_lobe_along_entire_length Fused_to_median_lobe_only_at_base,_very_closely_appressed_to_median_lobe_along_entire_length Fused_to_median_lobe_along_entire_length,_paramere(s)_and_median_lobe_hardly_(or_not)_distinguishable_from_each_other;
+{ 67 Female:_protarsomeres,_adhesive_setae,_presence Absent Present;
+;
+
+
+ccode  - 0.67;
+
+
+;

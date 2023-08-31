@@ -1,0 +1,442 @@
+#NEXUS
+
+    [ File output by Morphobank v3.0 ?; 2023-07-29 03.07.15 ]
+
+    BEGIN TAXA;
+    DIMENSIONS NTAX=34;
+    TAXLABELS
+    		'Platyprosopus mexicanus'
+		'Acylophorus glaberrimus'
+		'Acylophorus pratensis'
+		'Anchocerus birmanus'
+		'Afroquedius sexpunctatus'
+		'Arrowinus peckorum'
+		'Hesperus apicialis'
+		'Ocypus brunnipes'
+		'Philonthus splendens'
+		'Platydracus stercorarius'
+		'Quedius?fulgidus'
+		'Quedius?fuliginosus'
+		'Staphylinus caesareus'
+		'Triacrus dilatus'
+		'Valdiviodes ashworthi'
+		'Xanthopygus xanthopygus'
+		'Quediomimus hybridus'
+		'Quediocafus insolitus'
+		'Cheilocolpus nanus'
+		'Rolla sp.'
+		'Heterothops binotatus'
+		'Loncovilius semiflavus'
+		'Devilleferus brunkei'
+		'Quedius sidneensis'
+		'Quedius viridulus'
+		'Sphingoquedius strandi'
+		'Amblyopinus emarginatus'
+		'Quedius antipodum'
+		'Cheilocolpus impressifrons'
+		'Loncovilius?leiocephalus'
+		'Astrapaeus ulmi'
+		'Quedius?labiatus'
+		'Quediomacrus puniceipennis'
+		'Lonia regalis'
+    ;
+    ENDBLOCK;
+
+    BEGIN CHARACTERS;
+	DIMENSIONS NCHAR=68;
+	FORMAT DATATYPE=STANDARD GAP=- MISSING=? SYMBOLS="01234";
+	CHARLABELS
+		 [1] 'Antennae, length of the first segment'
+		 [2] 'Antennae, antennomere III, tomentose pubescence'
+		 [3] 'Antennae, antennomere IV, tomentose pubescence'
+		 [4] 'Antennae, apical antennomere'
+		 [5] 'Head, neck constriction'
+		 [6] 'Head, infra orbital ridge, presence'
+		 [7] 'Head, infra orbital ridge, anterior extension'
+		 [8] 'Head, infra orbital ridge, development of basal portion'
+		 [9] 'Head, nuchal ridge, development'
+		 [10] 'Head, postgenal ridge, presence'
+		 [11] 'Head, dorsal basal ridge, presence'
+		 [12] 'Head, ligula, shape'
+		 [13] 'Head, mentum, seta alpha'
+		 [14] 'Head, mentum, seta beta'
+		 [15] 'Head, mandibles, dorso-lateral groove, presence'
+		 [16] 'Head, maxillary palpus, apical segment, shape'
+		 [17] 'Head, maxillary palpus, apical segment, dense, short setae, presence'
+		 [18] 'Head, labial palpus, apical segment, shape'
+		 [19] 'Head, labial palpus, apical segment, dense and short setae, presence'
+		 [20] 'Prothorax, hypomeron, superior marginal line'
+		 [21] 'Prothorax, hypomeron, inferior marginal line, development'
+		 [22] 'Prothorax, hypomeron, superior and inferior marginal lines, intersection'
+		 [23] 'Prothorax, hypomeron, inflexion'
+		 [24] 'Prothorax, front angles'
+		 [25] 'Prothorax, postcoxal process'
+		 [26] 'Prothorax, fusion of pronotum and prosternum'
+		 [27] 'Prothorax, prosternum, longitudinal ridge, presence'
+		 [28] 'Prothorax, prosternum, longitudinal ridge, development'
+		 [29] 'Prothorax, basisternum, pair of macrosetae'
+		 [30] 'Mesothorax, elytron, subbasal ridge, presence'
+		 [31] 'Mesothorax, elytron, subbasal ridge, shape'
+		 [32] 'Mesothorax, elytron, humeral spines or spine-like setae, presence'
+		 [33] 'Mesothorax, mesoscutellum, posterior scutellar ridge, presence'
+		 [34] 'Mesothorax, epipleural row of setae in impressed punctures, presence'
+		 [35] 'Mesothorax, elytron, punctation'
+		 [36] 'Procoxa, internal ridge, presence'
+		 [37] 'Procoxa, internal ridge, development'
+		 [38] 'Metacoxa, transverse carina, presence'
+		 [39] 'Protarsomeres, dorsal chaetotaxy'
+		 [40] 'Protarsomeres, shape'
+		 [41] 'Metatarsomeres 2-5, dorsal chaetotaxy'
+		 [42] 'Metatarsomere IV, ventral spine-like setae'
+		 [43] 'Apical tarsomere, empodial setae, presence'
+		 [44] 'Apical tarsomere, empodial setae, development'
+		 [45] 'Apical protarsomere, empodial setae'
+		 [46] 'Apical metatarsomere, empodial setae'
+		 [47] 'Hind wing, venation, veins CuA and MP4'
+		 [48] 'Metanotum, protergal glands, cuticular manifestation, presence'
+		 [49] 'Metanotum, prototergal glands, cuticular manifestation, morphology'
+		 [50] 'Abdominal tergite II, basal longitudinal carina, presence'
+		 [51] 'Abdominal tergite II, basal longitudinal carina, development'
+		 [52] 'Abdominal tergite III, posterior basal transverse carina, presence'
+		 [53] 'Abdominal tergite III, disc, curved ridge, presence'
+		 [54] 'Abdominal tergite IV, posterior basal transverse carina, presence'
+		 [55] 'Abdominal tergite IV, disc, curved ridge, presence'
+		 [56] 'Abdominal tergite V, anterior basal transverse carina, development'
+		 [57] 'Abdominal tergite V, posterior basal transverse carina, presence'
+		 [58] 'Abdominal tergite V, disc, curved ridge, presence'
+		 [59] 'Abdominal tergite VI, anterior basal transverse carina, presence'
+		 [60] 'Abdominal sternite III, basal transverse carina, shape'
+		 [61] 'Male: basal mesotarsomere, brush of adhesive setae ?, presence'
+		 [62] 'Male: sternum VIII, apical margin, median emargination, presence'
+		 [63] 'Male: sternum IX, shape of base'
+		 [64] 'Male: aedeagus, parameres, separation'
+		 [65] 'Male: aedeagus, paramere?, sensory peg setae, presence'
+		 [66] 'Male: aedeagus, paramere?, development'
+		 [67] 'Male: aedeagus, paramere?, degree of attachment to median lobe'
+		 [68] 'Female: protarsomeres, adhesive setae, presence'
+	;
+	STATELABELS
+		1
+		'antennomere I at most as long as antenomeres II and III combined'
+		'antennomere I distinctly longer than antennomeres II and III combined'
+		,
+		2
+		'Absent'
+		'Present'
+		,
+		3
+		'Absent'
+		'Present'
+		,
+		4
+		'About as long or, usually, much longer than penultimate'
+		'Shorter than penultimate'
+		,
+		5
+		'Distinct at sides only'
+		'Fully developed, distinct all around'
+		,
+		6
+		'absent'
+		'present'
+		,
+		7
+		'Not extended more than half the length of gula'
+		'Extended more than half the length of gula'
+		,
+		8
+		'Present as horizontal ridge between nuchal ridge and postgenal ridge, often minute'
+		'Turning distinctly dorsally on neck'
+		,
+		9
+		'present dorsally and laterally'
+		'missing dorsally, present laterally'
+		'missing laterally, present dorsally'
+		,
+		10
+		'absent'
+		'present'
+		,
+		11
+		'absent'
+		'present'
+		,
+		12
+		'more or less bilobed, with variously developed rounded lobes'
+		'compact and entire ?'
+		'strongly reduced, indistinct'
+		,
+		13
+		'absent'
+		'present'
+		,
+		14
+		'absent'
+		'present'
+		,
+		15
+		'absent'
+		'present'
+		,
+		16
+		'More or less fusiform to parallel-sided, sometimes very elongate'
+		'Aciculate ?'
+		'Distinctly expanded toward truncate apex'
+		,
+		17
+		'absent'
+		'present'
+		,
+		18
+		'More or less fusiform to parallel-sided, sometimes very elongate'
+		'Aciculate ?'
+		'Distinctly expanded toward truncate apex'
+		,
+		19
+		'absent'
+		'present'
+		,
+		20
+		'Present along entire length of pronotum, not deflexed under anterior angle'
+		'Present along entire length of pronotum, deflexed under anterior angle'
+		'Ending at anterior angle ?'
+		,
+		21
+		'Not continued beyond anterior angle of pronotum as a separate entity'
+		'Continued beyond anterior angle of pronotum as a separate entity'
+		,
+		22
+		'Lines not intersecting'
+		'Lines intersecting'
+		,
+		23
+		'Not inflexed ?'
+		'Slightly inflexed ?'
+		'Strongly inflexed ?'
+		,
+		24
+		'Not strongly produced beyond ? anterior margin of prosternum'
+		'Strongly produced beyond ? anterior margin of prosternum'
+		,
+		25
+		'absent'
+		'present'
+		,
+		26
+		'Pronotum and prosternum not fused in procoxal cavity, therefore pronotosternal suture complete in cavity'
+		'Pronotum and prosternum at least partially fused in procoxal cavity, therefore pronotosternal suture missing in part of cavity'
+		,
+		27
+		'Absent'
+		'Present'
+		,
+		28
+		'Present only on basisternum'
+		'Present on basisternum and furcasternum'
+		,
+		29
+		'Absent'
+		'Present'
+		,
+		30
+		'Absent'
+		'Present'
+		,
+		31
+		'Horizontal, reaching humerus'
+		'Horizontal but reduced, not reaching humerus'
+		'Sinuate, directed anteriad'
+		,
+		32
+		'Absent'
+		'Present'
+		,
+		33
+		'Absent'
+		'Present'
+		,
+		34
+		'Absent'
+		'Present'
+		,
+		35
+		'Without punctures or setiferous pores'
+		'With only a few macrosetae arranged in rows, including epipleuron'
+		'With only a few macrosetae arranged in rows, epipleuron with more or less even punctation'
+		'With even punctation on disc and epipleuron'
+		,
+		36
+		'Absent'
+		'Present'
+		,
+		37
+		'Not running along external ridge, ending distinctly before'
+		'Not running along external ridge, nearly meeting to entirely fusing with external ridge'
+		'Running along external ridge'
+		,
+		38
+		'Absent'
+		'Present'
+		,
+		39
+		'Tarsomeres glabrous, with only marginal setae or at most with a few setae of marginal row duplicated'
+		'Tarsomeres setose, setae not restricted to marginal series'
+		,
+		40
+		'Tarsomeres I-IV more or less cylindrical, not transversely widened and not flattened dorso-ventrally'
+		'tarsomeres I-IV more or less dorso-ventrally flattened and transversely widened'
+		,
+		41
+		'Glabrous along middle'
+		'Setose'
+		,
+		42
+		'Distinctly interrupted medially and removed from apical margin'
+		'Not distinctly interrupted medially ? and not removed from apical margin'
+		,
+		43
+		'Present'
+		'Absent'
+		,
+		44
+		'One pair of setae'
+		'One seta'
+		,
+		45
+		'Distinctly longer than half the length of claws'
+		'No more than half the length of claws'
+		,
+		46
+		'About as long as that of protarsus'
+		'Distinctly longer than that of protarsus'
+		,
+		47
+		'Veins CuA and MP4 completely separate'
+		'Veins CuA and MP4 fused in one vein ?'
+		,
+		48
+		'Absent'
+		'Present'
+		,
+		49
+		'Shallow impression'
+		'Well-developed acetabulum'
+		'More or less invaginated capsulae with smaller openings'
+		,
+		50
+		'Present'
+		'Absent'
+		,
+		51
+		'Entire ?'
+		'Extended ?'
+		'Reduced ?'
+		,
+		52
+		'Absent'
+		'Present'
+		,
+		53
+		'Absent'
+		'Present'
+		,
+		54
+		'Absent'
+		'Present'
+		,
+		55
+		'Absent'
+		'Present'
+		,
+		56
+		'Incomplete'
+		'Complete, reaching the level of spiracles'
+		,
+		57
+		'Absent'
+		'Present'
+		,
+		58
+		'Absent'
+		'Present'
+		,
+		59
+		'Absent'
+		'Present'
+		,
+		60
+		'At middle, straight, rounded, or forming an obtuse angle'
+		'At middle, sharply pointed and forming an acute angle'
+		,
+		61
+		'Absent'
+		'Present'
+		,
+		62
+		'Absent, at most vaguely concave'
+		'Present'
+		,
+		63
+		'More or less symmetrical'
+		'Weakly to strongly asymmetrical'
+		,
+		64
+		'Paired, well separated'
+		'Fused into a single lobe ?'
+		,
+		65
+		'Absent'
+		'Present'
+		,
+		66
+		'Paramere? not ? produced over apex of median lobe, paramere smaller than median lobe'
+		'Paramere strongly produced over apex of median lobe, paramere larger than median lobe'
+		,
+		67
+		'Fused to median lobe only at base, paramere? distinctly separated from median lobe along entire length'
+		'Fused to median lobe only at base, very closely appressed to median lobe along entire length'
+		'Fused to median lobe along entire length, paramere? and median lobe hardly ? distinguishable from each other'
+		,
+		68
+		'Absent'
+		'Present'
+		
+	;
+	MATRIX
+	'Platyprosopus mexicanus'		                      001010--1000100002100021001101010030-0?010000000-0200000000000000001
+	'Acylophorus glaberrimus'		                      111111100102000012100021000-0121103110100000111110200001001100111000
+	'Acylophorus pratensis'		                        11111???0101110010100021100-0121103120100000111110200001001100111001
+	'Anchocerus birmanus'		                          10111110010201001210002100100121103110100000111110200001001100111000
+	'Afroquedius sexpunctatus'		                     000010--010110100000002110111101103120111000100110100001001101110001
+	'Arrowinus peckorum'		                           00000????000100000000021101111010000-011100000?110010101101010000001
+	'Hesperus apicialis'		                           001011012111011000010000010-112010310101001---1120000001001001110001
+	'Ocypus brunnipes'		                             0010110101101110020101000110112010310011100000?0-0200001001001110001
+	'Philonthus splendens'		                         001010--21110110000100100110112010310101001---1120010101101001111001
+	'Platydracus stercorarius'		                     000011010110111000010100111011201030-01110001000-0000001001001110001
+	'Quedius?fulgidus'		                 001011?1010111100000002110111121103120111000100100100001001001111001
+	'Quedius?fuliginosus'		                  001011?0010111100000002110111121103120111000100100100001001001111001
+	'Staphylinus caesareus'		                        001011010110111000010100011011201030-01110000000-0000001001001110001
+	'Triacrus dilatus'		                             000011012110111000021000010-0120103101110100101110201011001001011001
+	'Valdiviodes ashworthi'		                        00001???11011000000000011011110110112011100010?110000001001011110001
+	'Xanthopygus xanthopygus'		                      001011000110111000021000110-1120103101110000101120001011011001111001
+	'Quediomimus hybridus'		                         001010--0101101000000021000-1111003120111001101110210101101001110111
+	'Quediocafus insolitus'		                        001011010101101000000021101111?0003120111001101110200001001011110111
+	'Cheilocolpus nanus'		                           001011010101101100000021001110-000312011100000?0-0200001001101110111
+	'Rolla sp.'		                                    001010--0101101000000021000-10-1003120111001101111-10101101101110111
+	'Heterothops binotatus'		                        001010--0101100101000021000-00-0003120111001101110210101001001110121
+	'Loncovilius semiflavus'		                       001011010101100000000001100-00-0003120111000101101-00001001101010111
+	'Devilleferus brunkei'		                         000011010101??100000002110100121003120111000100100000001001001110111
+	'Quedius sidneensis'		                           0010110?0101101000000021100-0111003110111001101120210101101101110111
+	'Quedius viridulus'		                            001011000101101000000021000-00-10031?0111001101121-1010110100?110111
+	'Sphingoquedius strandi'		                       0010110-0101101000000021100-11100031?011101---1120200001000101?10111
+	'Amblyopinus emarginatus'		                      001010--2001?00000000021000-10-10030-011100010-0-1-00001001-0111011?
+	'Quedius antipodum'		                            001011001101101000000021100-1111003120111000101121-00001001001110121
+	'Cheilocolpus impressifrons'		                   0010110-0101101000000021000-01100031?0111001101121-1010110100111011?
+	'Loncovilius?leiocephalus'		          001011010101101000000021100-111000312011100010112021010110110111011?
+	'Astrapaeus ulmi'		                              001010--0101100212100021100-1121111120111000100110100001001001110001
+	'Quedius?labiatus'		                001010--0101101000000021100-1121111120111000000110100001001101110001
+	'Quediomacrus puniceipennis'		                   000010--0101011000000011100-1121102120010100100110000001001001111001
+	'Lonia regalis'		                                00001111010101100000001110111111102121010100100110000001001001111001
+    ;
+    ENDBLOCK;
+

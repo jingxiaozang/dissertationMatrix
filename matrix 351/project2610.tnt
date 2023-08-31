@@ -1,0 +1,88 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 09.14.05'
+53 17
+
+&[num]
+Teilhardina_belgica              ???00000000000??0000100101000000011011010000000000010
+Copelemur_tutus                  101110121101101210200221202000?2?1140111??00????????2
+Copelemur_australotutus          00110012110110121020022120200011111401011100000100312
+Copelemur_praetutus              00110002110110121020022120200011111411000100??????312
+Cantius_abditus                  10?100001000000?1000102201000111100202000000000000100
+Cantius_nunienus                 11010?1010?000100??01002000??11??20?000100?0010100100
+Cantius_torresi                  00000000001000010000000001000100?00?0000?000??????100
+Cantius_ralstoni                 00?100000?0000111000002201000100000?000000?0000000100
+Cantius_mckennai                 00?100011100001110000022010001?0?0010100?110000?00100
+Cantius_trigonodus               00?100?111000011100000220100?1111001010101?0000?00100
+Notharctus_venticolus            10121?102??100110??0111???1011?1??23?0?1?300010110220
+Notharctus_robinsoni             01?110132111021100?10121101111?221231111?301010212221
+Notharctus_tenebrosus            0?1111132121001100?11101101111?2212?1101?301010212221
+Smilodectes_gracilis             0?11100420211220111032032021003??00211000201101100412
+Smilodectes_mcgrewi              011210011?111020111022232121101??00?01000211111110412
+Smilodectes_sororis              ???????1102100231?101223212100?010041?101001??????110
+Pelycodus_jarrovii               00??????????0101200020320000110001121100100???????200
+
+;
+
+
+cnames
+{ 0 c1-p1_diastema short/absent moderate/long;
+{ 1 p2_roots double one?two single;
+{ 2 p2_paracristid weak strong;
+{ 3 p3_paracristid weak strong_and_straight strong_and_curving;
+{ 4 p3_postvallid weak_and_single_or_double strong_and_single_or_double;
+{ 5 p3_talonid cuspule_absent central_cuspule_present;
+{ 6 p3_shape distolingually_narrow distolingually_expanded;
+{ 7 p4_paraconid small low,_moderate central,_distinct,_mesially_projecting high,_small,_incorporated_into_paracristid absent;
+{ 8 p4_paracristid weak,_compressed strong,_compressed strong,_broad;
+{ 9 p4_metaconid distinct,_low,_appressed distinct,_high,_separate distinct,_high,_connected_to_protoconid_by_crest;
+{ 10 p4_talonid central_ridge_only ridge_and_buccal_cusp ridge,_buccal,_and_lingual_cusps;
+{ 11 p4_lingual_talonid sloping basined_with_cuspule_and/or_incipient_talonid_notch;
+{ 12 m1_paraconid distinct,_lingual distinct,_mesial weak/absent;
+{ 13 m1_paracristid lower,_short,_curving high,_broad,_continuous curving,_mesially_extended;
+{ 14 m1-2_entoconid low,_isolated intermediate,_marginal high,_isolated;
+{ 15 m1-2_entocristid short,_steeply_sloping high,_strong high,_short,_mesiolingually_inflected sloping,_mesially_inflected;
+{ 16 m1_hypoconulid low,_cuspate,_weak low,_shelf-like,_strong absent;
+{ 17 m1-2_talonid_notch closed narrow;
+{ 18 m1-2_entoconid_notch closed narrow open;
+{ 19 m1_cristid_obliqua continuous_with_metaconid not_continuous_with_metaconid;
+{ 20 m2_paraconid distinct small small,_very_appressed absent;
+{ 21 m2_paracristid low,_broad,_continuous broad,_mesially_expanded low,_broad,_not_continuous;
+{ 22 m2_hypoconulid small,_cuspate,_low large,_cuspate shelf-like absent;
+{ 23 m3_paraconid distinct small small,_very_appressed absent;
+{ 24 m3_paracristid low,_broad,_continuous low,_broad,_continuous,_mesially_expanded short,_not_continuous_lingually;
+{ 25 m3_entoconid distinct low,_weak mesiobucally_inflected;
+{ 26 m3_entocristid strong absent mesiobucally_inflected;
+{ 27 m3_talonid_notch closed open;
+{ 28 m3_talonid_enamel smooth rugose;
+{ 29 m3_cristid_obliqua not_flexed,_joins_postvallid flexed,_continuous_with_protoconid;
+{ 30 M1-2_mesostyle absent small,_crescentic large,_crescentic large,_cuspate;
+{ 31 M1-2_parastyle weak/absent moderate strong;
+{ 32 M1-2_metastyle weak/absent moderate strong;
+{ 33 M1_paraconule moderate,_mesial small,_mesial strong,_mesial;
+{ 34 M1_metaconule small_ridge_with_cuspule weak larger,_cuspate;
+{ 35 M1-2_hypocone absent small/weak,_continuous_PPC small,_weakly_lobate lobate,_separate,_distinct compressed,_blade-like,_lingual;
+{ 36 M2_paraconule distinct,_mesial small,_mesial;
+{ 37 M2_metaconule distinct_ridge weak_ridge State_2;
+{ 38 M3_mesostyle weak/absent strong;
+{ 39 M3_parastyle weak moderate_to_strong;
+{ 40 M3_paraconule small absent;
+{ 41 M3_metaconule weak absent large,_isolated large,_crestiform;
+{ 42 M3_hypocone absent small,_continuous_PPC;
+{ 43 Upper_molar_shape rectangular squared;
+{ 44 P4_shape rectangular squared;
+{ 45 P4_protocone low elevated;
+{ 46 P4_protocone_position lingual,_separated_from_paracone appressed_to_paracone_base;
+{ 47 P4_distolingual_basin absent developed,_partially_closed strong,_fully_closed;
+{ 48 P4_paracone tall,_inflated tall,_buccolingually_compressed;
+{ 49 P4_metacone absent paracone_twinned present;
+{ 50 Upper_molar_postprotocingula_(Nannopithex_Fold) absent low,_does_not_extend_to_apex_of_protocone weak,_short,_extends_to_apex_of_protocone strong,_compressed,_extends_to_apex_of_protocone curving,_extends_from_apex_of_protocone_and_is_continuous_with_lingual_cingulum;
+{ 51 M3_postprotocrista present,_weakly_inflated absent present,_sharply_crested,_often_continuous_with_protocone;
+{ 52 m3_entoconid_notch absent weak strong;
+;
+
+
+ccode  - 0.52;
+
+
+;
