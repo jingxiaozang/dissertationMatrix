@@ -1,0 +1,94 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 13.24.21'
+52 24
+
+&[num]
+Simpsonotus               000?00001000?00000000000?00000000000000000?000000000
+Pleurostylodon            00??00000000?00000000011?110000000000000000000000000
+Colbertia                 00000000?00000000000001????0020000000000000000?00000
+Notopithecus              0100000000000100000000100100022000000011110011100110
+Transpithecus             010000000010111010100?100?0????0000100???1?????????0
+Guilielmoscottia          ?????1000010101000100?????0????0000100?????????????0
+Antepithecus              0100000000001100000000??0?0002?0000000???1?????????0
+Antofagastia              ???????0?001101000000?????????????????1??1??1??????1
+Johnbell                  ?10?010010101021?0110010010002210000001????????????1
+Ignigena                  ??0?010010111121?0110??????????????????????????????1
+Punapithecus              ?????10100011?2110000??????????10001001??1??1??????1
+Eopachyrucos              ???????????11?3??1111???????0221001100?????????????0
+Santiagorothia            010011101011102011111010011002111011001131111?011110
+Proargyrohyrax            0100??10111?102011111??????????1101100???1??1??????0
+Cochilius                 11?0011111112031111120100111022311111011211121101120
+Plagiarthrus              110011111111203111112??0011002030011001??21121011??0
+Archaeophylus             ?10?1111111?203110112??????????1111110???1??21?????0
+Protypotherium            1100111110112031111120200110011211111111311111001110
+Interatherium             1111011101102031101121101111110311111111221021101120
+Miocochilius              110001111011203?111120110010120210111111211111111110
+Progaleopithecus          ??????1?011?20311011202001100221101111???1?????????0
+Federicoanaya             010011011?1?2?311111202001100111?01100113111111??1?0
+Brucemacfaddenia          11001111111?2?31111120??011?0111001100?????????????0
+Patriarchus               ?????????????????????0110011130?????????????????????
+
+;
+
+
+cnames
+{ 0 I1_size subequal_or_larger_than_other_anterior_teeth greatly_enlarged;
+{ 1 I2-C_shape I2_laterally_compressed,_I3-C_ovoid/conical all_laterally_compressed;
+{ 2 C_size large,_similar_in_size_to_I3 reduced;
+{ 3 I2-3_size subequal reduced,_with_I3_smaller_than_I2;
+{ 4 I2-C_exterior_face convex_or_vague_anterior_swelling distinct_vertical_anteroexternal_ridge;
+{ 5 P1_vertical_anteroexternal_ridge no_ridge ridge_present;
+{ 6 P3-4_parastyle/paracone_inflection shallow deep;
+{ 7 P3-4_fossettes fossettes_moderately_to_strongly_persistent labial_fossettes_disappear_rapidly_with_wear;
+{ 8 P2-4_metacone_ectoloph moderate_to_strong_metacone_ectoloph_column metacone_ectoloph_very_low_or_almost_flat;
+{ 9 P3-4_dimensions W_>_L_or_with_mild_anteroexternal_expansion L_>_W,_rectangular_shape;
+{ 10 P2-4_cingulum anterior_cingulum_low_on_crown,_posterior_about_midway_up_crown anterior_cingulum_absent,_posterior_high_on_crown,_merging_early_in_wear;
+{ 11 M1-3_paracone/parastyle_inflection distinct_but_shallow absent_or_reduced;
+{ 12 M1-2_fossettes anteroexternal,_posteroexternal_and_lingual_fossettes_present fossettes_of_varying_longevity fossettes_absent_or_very_rapidly_disappear_with_wear;
+{ 13 Mesial_inflection_on_M1-2_protoloph weak_or_absent well_developed;
+{ 14 Lingual_sulcus_on_M1-2 well_expressed_although_rapidly_interrupted_by_an_entoloph well_expressed_and_more_persistent,_although_narrow well_developed,_persistent,_relatively_wide_and_well_expressed_on_the_lingual_wall highly_or_completely_persistent_and_very_expressed_on_the_lingual_wall;
+{ 15 Central_fossa_on_M1-2 well_or_moderately_developed_and_oblique faint_or_absent;
+{ 16 M3_hypocone absent_or_diminutive developed;
+{ 17 M1-3_metacone_ectoloph distinct very_low_or_flat;
+{ 18 M1-3_anterior_cingulum present_and_low_on_crown absent;
+{ 19 M1-3_dimensions W_>_L_or_about_equidimensional L_>_W,_rectangular_shape;
+{ 20 Crown_height_in_posterior_Ps_and_Ms brachydont hypsodont hypselodont;
+{ 21 i3_size i3_>_i2 reduced;
+{ 22 i1-2_shape no_groove with_a_shallow_lingual_groove _i1-2_bifid_labial_and_lingually;
+{ 23 *i1-i2 cylindric_or_slightly_expanded_mesiodistally expanded_mesiodistally;
+{ 24 *i3-c expanded_mesiodistally,_with_distinct_lingual_groove cylindric,_with_shallow_lingual_groove;
+{ 25 *i1-3_imbrication absent present;
+{ 26 *i1-3_implantation non_procumbent procumbent;
+{ 27 c_size larger_than_i1-3 subequal_to_i1-3 smaller_than_i1-2_or_missing;
+{ 28 c-p1_diastema absent present;
+{ 29 *p1 reduced_or_absent no_talonid_differentiated with_talonid_insinuated with_talonid_differentiated;
+{ 30 *p1_-2 not_imbricated mesially_imbricated_by_C mesially_and_distally_imbricated_by_c_and_pm2,_respectively;
+{ 31 p2-4_talonid_development_and_relative_size p2_no_talonid,_p3_very_small,_p4_present_but_smaller_than_trigonid p2-3_distinct_talonids_but_small,_p4_smaller_or_subequal_to_trigonid p2-4_display_reduced_talonids p2_subequal_to_larger,_p3-4_larger_talonids;
+{ 32 p3-4_crown_morphology narrow_labial_sulcus,_more_posteriorly_oriented_lingual_sulcus two_lobes,_well_defined_labial_and_lingual_sulci_opposite_one_another;
+{ 33 Relative_size_of_m1-3_trigonid_and_talonid m1_talonid_subequal_to_or_slightly_smaller_than_trigonid,_m2_talonid_subequal_to_or_slightly_larger_to_trigonid,_m3_talonid_larger_than_trigonid all_talonids_larger_than_trigonids;
+{ 34 m1-3_crown_morphology not_bilobed,_lingual_sulcus_broad_and_extends_posteriorly bilobed,_persistent_labial_and_lingual_sulci_directly_opposite_one_another;
+{ 35 p3-4_molarization p4_approaching_molariform,_p3_considerably_smaller_than_the_molars p4_molariform,_p3_enlarged_but_smaller_than_molars;
+{ 36 m1-3_trigonid_shape anterior_margin_broad anterior_margin_short,_producing_a_triangular_appearing_lobe;
+{ 37 m3_third_lobe small larger_with_a_distinct_labial_groove;
+{ 38 Role_of_jugal_in_zygoma included_in_orbit excluded_from_orbit_by_maxilla;
+{ 39 Position_of_nasofrontal_suture flush_or_posterior_to_anterior_margin_of_orbit well_anterior_to_anterior_margin_of_orbit;
+{ 40 Nasofrontal_suture_shape rounded,_nasal_projecting_into_frontal nearly_straight_transversely nasal_trends_posteriorly_from_the_median nasal_trends_posteriorly_from_the_median_but_is_jagged_with_small_posteriorly_projecting_processes;
+{ 41 Descending_process_on_zygoma none small large;
+{ 42 Dorsal-posterior_maxillary_process dorsal_process_present_but_is_not_excluded_from_orbit_rim dorsal_process_present_and_is_excluded_from_orbit_margin_by_an_anteriorly_projecting_sliver_of_frontal;
+{ 43 Rostrum_length rostrum_short_compared_to_anteroposterior_length_of_skull,_<35%_of_total_cranium_length modest_lengthening_of_rostrum,_≥35%_of_total_cranium_length;
+{ 44 Angle_of_zygoma_with_face,_at_attachment_site low_angle_(≤45º) steep_angle_(>45º_and_<90º) perpendicular_(90º);
+{ 45 Muzzle_shape_and_dental_arcade ventrally_broader_than_dorsally,_posterior_broader_than_anterior,_dental_arcade_forms_a_“triangle” muzzle_is_narrower_(ventral_portion_no_broader_than_dorsal)_and_cheektooth_rows_are_convex_labially;
+{ 46 Dorsal-posterior_process_on_external_premaxillary present absent;
+{ 47 Palatine_notch_position reaches_mid_to_anterior_M3_region reaches_posterior_M3_region;
+{ 48 Posterior_bulla adjacent_to_paraoccipital_process posterior_bulla_laps_up_onto_paraoccipital_process;
+{ 49 Glenoid_fossa shallow,_wide_mediolaterally deeply_excavated_and_narrow;
+{ 50 Postglenoid_process_and_foramen broad_process_with_uncompressed_foramen glenoid_fossa_encroaches_medioposteriorly_on_bulla/meatus process_is_sharper_and_narrower_separating_fossa_from_meatus process_severely_compressed_as_is_foramen;
+{ 51 Size,_as_estimated_from_molar_dimensions moderate_to_large_(M1_AP_and_TR_dimensions_both_≥4_mm) very_small_(M1_AP_and_TR_dimensions_both_<_4_mm);
+;
+
+
+ccode  - 0.51;
+
+
+;

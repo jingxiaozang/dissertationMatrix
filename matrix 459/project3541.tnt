@@ -1,0 +1,114 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 13.15.42'
+74 22
+
+&[num]
+Pachypleurosauria                  000000?000010?00000000000000010?100000000000?00001000011100000100000?00100
+Simosaurus                         2210000001001?1011000001100001001000100121010-1000001011100011201000010100
+Germanosaurus                      2111101001011110011101111000??0????????????1???0???????????????0??????????
+Nothosaurus_winkelhorsti           11?110111001010000010111011111120??????????1100???????????????????????????
+Nothosaurus_yangjuanensis          2201100100000010121101011110?1120?????1021?1120010011001010100211111010001
+Nothosaurus_marchicus              2201100100100110?2?1011?1???11110101??1????12200?1001????1010020?00??101?1
+Nothosaurus_mirabilis              220111010011011012?10??0011111110111111???212?11?1???011100100?0?????1????
+Nothosaurus_juvenilis              11?01101001100100101010100001?110??????????1?010???????????????01???011???
+Nothosaurus_giganteus              2201100100110110110101??0?11101101?11?102121110001021101000110211?10010??1
+Nothosaurus_zhangi                 ?????????????????????????????????101100??1?????0??0???????????????????????
+Nothosaurus_tchernovi              220111000011001012111--00?11111?011?????2?21211111???????00110????????????
+Nothosaurus_haasi                  020011000101111012111--1000011120??????????12011?????????11110?????????01?
+Nothosaurus_youngi                 2?00100100?10011020101010?11101?00???11111112?000111?00???000021112110?001
+Nothosaurus_jagisteus              220111010011011012110101011010110111111?21112110??0?101110011000000??11???
+Nothosaurus_edingerae              2200?000??100?111211???10011?11????????????1?0?0??????????????????????????
+Lariosaurus_hongguoensis           11001001?01??11001010101011010110100011100?0200?????0??0?010?0210021?01102
+Lariosaurus_buzzii                 01001011100101000101???10000111201001?11??11??00010?0100?0001111?0??10110?
+Lariosaurus_calcagnii              0101000?000?001012100?000000111?00101?1???2????011020101011010210031111101
+Lariosaurus_curionii               1100000?01110?10?211???001111110000?1?1?2?20?000011??0110110100111????????
+Lariosaurus_balsami                1100100?010?0?10021?00100??0?11200001?1?2??????001?1001101101??1103110110?
+Lariosaurus_valceresii             11?1100?000000101210??00000011100???1?1?1??02??001010????1000021112110?102
+Lariosaurus_xingyiensis            ?1001001001?0010021011010111101201?01011112120001112010001?000211?211??01?
+
+;
+
+
+cnames
+{ 0 Ratio,_condylobasal_skull_length_divided_by_longitudinal_diameter_of_upper_temporal_fossa more_than_3.8 3.0-3.4 less_than_2.9;
+{ 1 Ratio_of_longitudinal_diameter,_upper_temporal_fossa_to_orbit_(modified_from_Liu_et_al.,_2014) 1.0_or_less more_than_1.0_but_less_than_2.0 2.0_or_more;
+{ 2 Ratio,_the_distance_from_the_snout_to_the_anterior_margin_of_the_internal_naris_divided_by_the_distance_from_the_snout_to_the_anterior_margin_of_the_external_naris smaller_than_1.2 larger_than_1.3;
+{ 3 Ratio,_distance_from_posterior_margin_of_external_naris_to_anterior_margin_of_orbit_divided_by_the_width_of_the_postorbital_arch more_than_1.7 less_than_1.5;
+{ 4 Snout unconstructed constricted;
+{ 5 Rostrum short_and_rounded long,_slender_and_parallel-edged;
+{ 6 Premaxilla(e)_in_adult paired partly_or_fully_fused;
+{ 7 Maxilla,_depression_at_lateral_margin_of_external_naris_and_a_foramen_at_its_bottom_for_the_exit_of_a_lateral_branch_of_the_superior_alveolar_nerve absent present;
+{ 8 Nasals_in_adult paired fused;
+{ 9 Nasal(s) meeting_each_other seperated_from_one_another_by_nasal_processes_of_the_premaxillae_extending_back_to_the_frontal_bone(s);
+{ 10 Nasal,_anterolateral_process_lining_the_entire_medial_margin_of_external_naris absent present;
+{ 11 Nasal,_length_behind_level_of_posterior_margin_of_external_naris_more_than_twice_of_the_maximal_width absent present;
+{ 12 Nasals large small;
+{ 13 Nasal-prefrontal_contact present absent;
+{ 14 Pineal_foramen close_to_the_middle_of_the_parietal_skull_table displaced_posteriorly;
+{ 15 Pineal_foramen_located_within_a_deep_trough absent present;
+{ 16 Parietal_extending_beyond_the_anterior_margin_of_upper_temporal_fossa present absent;
+{ 17 Parietal_skull_table broad weakly_constricted strongly_constricted;
+{ 18 Parietal_skull_table,_constriction_in_the_posteriormost_part absent present;
+{ 19 Dorsal_exposure_of_prefrontal large reduced;
+{ 20 Jugal present absent;
+{ 21 Jugal_-_2 entering_orbit excluded_from_posterior_margin_of_orbit;
+{ 22 Jugal-squamosal_contact absent present;
+{ 23 Postfrontal,_shape elongated triradiate;
+{ 24 Postfrontal,_distinct_constriction_behind_the_orbit absent present;
+{ 25 Postfrontal entering_upper_temporal_fossa excluded_from_upper_temporal_fossa;
+{ 26 Postorbital,_forming_the_entire_anterior_margin_of_the_upper_temporal_fossa absent present;
+{ 27 Upper_temporal_fenestra,_constriction_of_anterior_corner absent present;
+{ 28 Quadratojugal present absent;
+{ 29 Pterygoid-ectopterygoid_transverse_flanges well_developed strongly_reduced;
+{ 30 Occipital_crest absent present;
+{ 31 Supraoccipital,_sagittal_crest_(modified_from_Liu_et_al.,_2014) absent reduced well_developed knob-like;
+{ 32 Mandibular_articulations approximately_level_with_occipital_condyle displaced_to_a_level_distinctly_behind_occipital_condyle;
+{ 33 Mandible,_constriction absent present;
+{ 34 Mandibular_symphysis short long;
+{ 35 Mandibular_symphysis,_anterior_fusion_in_adult absent present;
+{ 36 Splenial entering_mandibular_symphysis excluded_from_mandibular_symphysis;
+{ 37 Splenial,_posterior_extension long short;
+{ 38 Retroarticular_process short long;
+{ 39 Retroarticular_process_dorsal_surface,_foramen_for_the_innervation_of_chorda_tympani_nerve absent present;
+{ 40 Retroarticular_process,_trough_on_lateral_surface_for_the_insertion_of_the_depressor_mandibulae_muscle/superficial_pterygoideus_muscle absent weak strong;
+{ 41 Retroarticular_process,_trough_on_medial_surface_for_the_insertion_of_posterior_fibers_of_pterygoideus_internus_muscle absent present;
+{ 42 Dentary_fangs absent present_but_less_than_5 5;
+{ 43 Premaxillary_teeth more_than_5 5;
+{ 44 Premaxillary_fangs absent present_but_less_than_5 5_or_more;
+{ 45 Number_of_small_maxillary_teeth_anterior_to_the_maxillary_fang(s) 3_or_less 4 5_or_more;
+{ 46 Posterior_extension_of_the_maxillary_tooth_row no_more_than_sixty_percent_of_the_skull_length_(snout_tip_to_posterior_margin_of_quadrate) more_than_sixty-five_percent_of_the_skull_length;
+{ 47 Neural_spines_on_dorsal_vertebrae low tall;
+{ 48 Elongation_of_neural_spines_in_proximal_tail_region absent present;
+{ 49 Zygapophyseal_pachyostosis absent present;
+{ 50 Pachyostosis_of_dorsal_ribs absent present;
+{ 51 The_number_of_sacral_ribs three four five;
+{ 52 Medial_gastral_rib_elements,_lateral_process all_single may_two-pronged;
+{ 53 Clavicles,_medially broad narrow;
+{ 54 Clavicles do_not_meet_in_front_of_the_interclavicle meet_in_an_interdigitating_anteromedial_suture;
+{ 55 Clavicles,_anterolaterally_expanded_corners absent present;
+{ 56 Interclavicle rhomboidal T-shaped triangular;
+{ 57 Humerus,_proximal_width_compared_with_the_mid-shaft greater less;
+{ 58 Humerus,_preaxial_margin_of_shaft_in_dorso-ventral_view with_straight_angle smoothly_curved;
+{ 59 Humerus,_insertional_crest_for_latissimus_dorsi_muscle reduced prominent;
+{ 60 Humerus,_ectepicondylar_groove open_and_notched_anteriorly open_without_anterior_notch;
+{ 61 Humerus,_entepicondylar_foramen present absent;
+{ 62 Radius,_compared_with_ulna shorter longer approximately_of_the_same_length;
+{ 63 Ulna,_mid-diaphysis slender broadened;
+{ 64 Ulna,_distinctly_broadened_proximal_head absent present;
+{ 65 Ulna,_anterior_margin smoothly_concave with_a_tuberosity;
+{ 66 Carpal_ossifications,_number_(modified_from_Liu_et_al.,_2014) two_or_three four five six;
+{ 67 Hyperphalangy_in_manus absent present;
+{ 68 Ilium,_iliac_blade present absent_(i.e.,_reduced_to_simple_dorsal_stub);
+{ 69 Pubis,_ventral_(medial)_margin convex concave;
+{ 70 Pubis,_obturator_foramen_in_adult closed open;
+{ 71 Femur,_internal_trochanter well_developed reduced;
+{ 72 Femur,_intertrochanteric_fossa rudimentary_or_absent distinct_but_reduced;
+{ 73 Total_number_of_tarsal_ossifications four_or_more three two;
+;
+
+
+ccode  - 0.73;
+
+
+;

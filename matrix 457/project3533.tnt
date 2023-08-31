@@ -1,0 +1,145 @@
+nstates num 2;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 13.13.58'
+85 42
+
+&[num]
+Astacidea                   0000000000-00-00000000000000-000000-100000---000000-000-100000000000000-00000-0000000
+Platykotta                  000000000??00-010100000??100???????01??0?????000?????????????00?????????1????????????
+Blepharipoda                0110000000-00-1101101-0000101-----00100000---100000-1011100000000000110-1100100000101
+Galathea                    0110000000-00-1101101-000110101---00100000---100000-1001100000000000010-1100100000101
+Chirostylus                 0110?00000-00-??01101-0?01101--???0?100000---100000-10111000?0000?00010-11??10000??01
+Callichimaera               0000100000-00-1101001?00?1100011110?1000?1100101100-1?010-???000010?10111100110??1?10
+Homolodromiidae             0000000101100-000000000000000000000001000100110000100011??001000000000111111110100100
+Goniodromitidae             [01][01][01][01]000101100-0000000000?0???0000???010???????0?????????????????????????????????????0
+Prosopidae                  0000000101100-0000000000?????????????????????1?110??001?????????????????????????????0
+Tanidromitidae              0000000101000-0000000000??????????0?????????????????????????????????????????????????0
+Glaessneropsidae            0000000010-0110000000000????????????????????????????????????????????????????????????0
+Konidromitidae              0000000010-00-0000000000????????????????????????????????????????????????????????????0
+Dromiidae                   1111[01]00010-00-0[01]00000100000000000010010001011101101010[01]1[01]100111000000011111111001[01]100
+Dynomenidae                 1111100010-00-1100[01]0010000[01]000000000010001001101101[01]0001110011100[01]0000101101100100000
+Sphaerodromiidae            1111[01]00010-00-11[01][01][01]001000000000000100100010011011010001111001110000000111111110100000
+Diaulacidae                 1111100010-00-1101[01]001000010000000000100?100?10110??100?0-??????????001011??100?????0
+Xandarocarcinidae           1111100010-00-110110010000100?????0??100?????11110101?110-00?110?0??000-11??0-0?????0
+Basinotopidae               0111000010-00-00000001000000000000100100?10011001010000?11?0?10000??0?1111??110?????0
+Homolidae                   0000000101000-0001000111011000100101010101000101101011[01]0??000[01]00[01]10000101101100001100
+Latreilliidae               0000000000-00-000100010101100010010101010100010110101100??000000110000101101100001100
+Poupiniidae                 0000000001000-000100010101100010010101010100010110101100??0000000100001011000-0001100
+Mithracitidae               01000[01][01]001000-000100010100100?????0?0101?????10110101100?????11001??0?1011??100?????0
+Etyidae                     1111000010-11[01]1101-001000010001110001100?1000101101110010-00?11011010?1111??1100????0
+Feldmannidae                1111001010-1[01]11111-0010[01]00100011100?1100?100010110111?010-00?11011010?11????1100???10
+Dakoticancridae             1101101010-00-1101[01]011000[01]10101110001[01][01]0?1000101101110010-00?1101101001011??1010????0
+Ibericancridae              1101101010-01-11010011000010101110001100?1000101101110010-00?11011010?1111??1110????0
+Lyreididae                  01[01]0101010-0101111101100101100111101110001100101101111010-000101111110101100100001110
+Raninidae                   01[01]0101010-01111111011001011-0111101100001100[01]01100-10010-000101111110101100100001110
+Camarocarcinidae            1111110010-01111010111001010001110001100?????10???11?1????0??101111??010????10??????0
+Cenomanocarcinidae          1111110010-01111010111001010001110001100?1000101101111010-00?101111110101100100????10
+Necrocarcinidae             1111110010-01111010111001010001110001100?1000101101111010-00?101111??01011??100?????0
+Orithopsidae                1111100010-11111010111001010001110001100?????101101111010-00?????1???010????100?????0
+Palaeocorystidae            0111100010-01111[01]1[01][01][01]1001010001110001100?1000101101111010-00?10111111?1011001000????0
+Cyclodorippidae             11[01][01]000010-[01]111101001100111010111100101001000101110-10010-000101111100111111111001110
+Cymonomidae                 10[01][01]000000-00-1101001100111010111100101001000101110-10010-000101111100111111111001110
+Phyllotymolinidae           1111[01]00010-[01]111101001100011010111100101001000101100-10010-000101111100111111111001110
+Torynommidae                1000000010-00-01010001000010001110001100?????10110??10010-?0????11???01111??110?????0
+Componocancridae            1111100010-11111111011000[01]10101111001010?0---1011?0-1???0-?1??10?1???011????11??????0
+Goniochelidae               1111100010-11111010111000110?111110?101??0---101100-1?0?0-?1?1?011??001111??11??????0
+Carcinidae                  1111101010-1111111101100011011111001101010---111100-11010-0101101101000-11000-1001110
+Corystidae                  0111101010-1[01]111[01]1101100001011111101101010---111100-11110-0101101101000-11000-1001110
+Varunidae                   1111101010-00-1111101100011011111001101010---111100-11010-1101101101000-11000-1001110
+
+;
+
+
+cnames
+{ 0 carapace_proportions elongate as_long_as_wide_or_wider;
+{ 1 anterolateral_margins indistinct distinct;
+{ 2 spines_or_teeth_on_anterolateral_margins absent present;
+{ 3 carapace_with_well_differentiated_anterolateral_and_posterolateral_margins absent present;
+{ 4 posterolateral_margins rounded,_not_defined defined;
+{ 5 spines_on_posterolateral_margin absent present;
+{ 6 posterior_margin concave straight_to_convex;
+{ 7 reentrants_on_posterior_margin absent present;
+{ 8 orbit not_defined defined;
+{ 9 augenrest_presence absent present;
+{ 10 augenrest,_if_present shallow deep;
+{ 11 inner_orbital_angle not_defined defined;
+{ 12 upper_orbital_fissures absent present;
+{ 13 number_of_orbital_fissures,_if_present one two;
+{ 14 sub-hepatic_swelling present absent;
+{ 15 antennal_groove present absent;
+{ 16 cervical_groove distinct indistinct;
+{ 17 postcervical_groove_well-developed present absent;
+{ 18 branchio-cardiac_groove distinct indistinct;
+{ 19 longitudinal_ridge_or_tubercles_on_branchial_region absent present;
+{ 20 cervical_or_branchio-cardiac_groove reaching_ventral_carapace ending_at_anterolateral_margin_or_before_reaching_it;
+{ 21 intestinal_region narrow,_limited_by_branchio-cardiac_grooves wide;
+{ 22 lateral_linae absent present;
+{ 23 epistomal_spine absent present;
+{ 24 buccal_cavern wide elongated,_triangular;
+{ 25 thoracic_sternum narrow wide;
+{ 26 sternites_1-3 indistinct_ventrally distinct_ventrally;
+{ 27 posterior_sternites wide narrow,_reduced;
+{ 28 lateral_position_of_posterior_sternites not_visible visible;
+{ 29 episternites_definition not_clearly_defined clearly_defined_by_grooves;
+{ 30 episternites_4-5 process-like wide;
+{ 31 suture_4-5 only_lateral_position distinct_axially;
+{ 32 suture_5-6 only_lateral_position distinct_axially;
+{ 33 suture_6-7_as_seen_externally_on_thoracic_sternum incomplete complete;
+{ 34 sternite_4_with_anteriorly_protruded_plate absent present;
+{ 35 median_line_on_sternite_8 absent present;
+{ 36 sterno-coxal_depression present absent;
+{ 37 sterno-pleonal_depression_in_male absent present;
+{ 38 sterno-pleonal_cavity_in_male absent present;
+{ 39 homolid_press-button absent present;
+{ 40 sella_turcica absent present;
+{ 41 spermatheca_presence absent present;
+{ 42 spermatheca,_if_present paired united;
+{ 43 spermatheca_position,_if_present around_level_of_pereopod_3_coxa much_anterior_to_pereopod_3_coxa;
+{ 44 aperture_of_spermatheca,_if_present with_margins_not_raised raised;
+{ 45 pleon not_folding folding;
+{ 46 pleonal_somites visible_dorsally not_visible;
+{ 47 pleonal_pleura well_developed reduced;
+{ 48 articulating_rings_of_pleon present absent;
+{ 49 fusion_of_pleonal_somites_and_telson_in_male absent present;
+{ 50 pleonal_locking_presence absent present;
+{ 51 pleonal_locking,_if_present coxal_spine sternal_lobe_or_double_peg;
+{ 52 pleonal_somite_6_with_triangular_lateral_lobes present absent;
+{ 53 socket_on_pleonal_somite_6 absent present;
+{ 54 telson_of_male elongate,_much_longer_than_wide about_as_long_as_wide_or_wider_than_long;
+{ 55 anterior_end_of_telson,_if_folding_present,_between_third_maxillipeds present absent;
+{ 56 conspicuous_uropods_remain present absent;
+{ 57 if_uropods_remain_present well_developed_uropods uropodal_plates;
+{ 58 male_gonopore_position coxal sternal;
+{ 59 female_gonopore_position coxal sternal;
+{ 60 renal_opening_of_2nd_antennal_coxa_with_beak-like_structure absent present;
+{ 61 maxilliped_3_form pediform operculiform;
+{ 62 maxilliped_3_much_longer_than_wide present absent;
+{ 63 maxillped_3_with_two_planes absent present;
+{ 64 maxilliped_3_with_crista_dentata present absent;
+{ 65 maxilliped_3_coxae large,_touching_each_other small,_not_touching_each_other;
+{ 66 palp_of_maxilliped_3_merus,_position distal_position inner-mesial_position;
+{ 67 palp_of_maxilliped_3_merus different_plane same_level_to_merus;
+{ 68 pereopods_2-4_form normal wide,_flattened;
+{ 69 pereopod_5_hidden_in_gill_chamber absent present;
+{ 70 coxa_of_all_pereopods_at_same_level present absent;
+{ 71 if_not_all_coxae_of_pereopods_at_same_level only_p5_dorsal p4-p5_dorsal;
+{ 72 pereopod_2 chelate simple;
+{ 73 pereopod_3 chelate simple;
+{ 74 pereopod_4 simple chelate;
+{ 75 pereopod_5 simple chelate;
+{ 76 pereopod_size_normal present absent;
+{ 77 if_not_all_pereopods_normal only_p5_reduced p4_and_p5_reduced;
+{ 78 coxae_of_pereopods elongate,_large short;
+{ 79 male_coxa_p5,_modification not_modified modified;
+{ 80 male_coxa_p5,_penial_tube penial_tube_absent penial_tube_present;
+{ 81 pleopods_of_segments_3-5_in_male present absent;
+{ 82 male_second_pleopod_with_well-developed_exopod present absent;
+{ 83 external_shape_of_eye_facets square-ish hexagonal;
+{ 84 linea_anomalica absent present;
+;
+
+
+ccode  - 0.84;
+
+
+;

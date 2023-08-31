@@ -1,0 +1,172 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 13.16.24'
+120 34
+
+&[num]
+Karaurus                            000??000000?000000?00000?0??100000000??0???0001000?0?????0000000?00?000???????????????????0111????0??00??000?0???0?00?00
+Cryptobranchus                      000011101111110100100010001?100?10100?0011010011010010001111110100200001100?000000200000111111000001000001??0011111?1?00
+Andrias                             000011101111110100100010001?100110100?00110100110100100011111101002000011?010000002000001111110000010000?1??0011111?0000
+Hynobius                            000?0?000011?1000010?00?001?000110?0??001100001101000000010?0001??2011011?100000?02000001111111000000000?1???10021110000
+Onychodactylus                      00000000001111000010000?001?000?10101?001100001101001000010000011120110111010000?020000011111110020?0000?1000010211?1000
+Plethodon                           ?10000010113121???101000111?100011001??1110?011001301110010000?211211??11101221110212111012111111201000?013??0?101111100
+Desmognathus                        110000010113121???1011??111?100011001??1110?0110013011100100010211211??1110?2211102?2111012111111201000?013??0?12111?000
+Amphiuma                            120011110113100200101000011?100100100?0011010010111011011?0110121021000112?12210?0111010012111001011000?01???0?1010?1?01
+Proamphiuma                         ????????????????????????????????????????????0010?11???????????????????????????????????????2??????????????????0????????0?
+Rhyacotriton                        010000010011120000100001011?000011001?00110200100120111001010002?12100011110221111111111012111101101000??133100021111000
+Siren                               031?101111120002000111??1101?1100001310000021010113011011111?012111100?1?111211210000000?02110000011100001???0?11?011?01
+Pseudobranchus                      031?101111120002000111??110111100001310010011010113111011111?011111100?1?111211210000000?02110000011100??????0?11?01??01
+Habrosaurus                         0?0?????????00????0??????????01????001??00??101??13??????????????????????????????????????????????????????1???0????0?????
+Necturus                            011?1102?1101002101011??1101100010001?10101100100100110111?1??1200210001121?12111021111101211100100100011????0????1?0?01
+Proteus                             011?1102?1101002101011??110110000000??10001100100100110111?1??1100210001121?12111021111101211100101100011????0????1?1?01
+Salamandra                          010110010113220010101000011?000111002?00110201100131011001000002112011111111221000211110012111101001000?01???01?0??10000
+Taricha                             110110010113210010101000011?000001102?00110201100131011001000012112011111111221000211110012111101001010??11??0011?111100
+Tylototriton                        00011000011321001?101000011?000001102?00110201100131011000000011102011111011221000211010012111101001011??11??0????1?1100
+Dicamptodon                         010000010013??00?010000001001000?100???01100001001200110010100021120110111002210012111110121111010010000?130?0?101111000
+Ambystoma                           01000101011302000010?000011??00011000?00110200100130011001011002112000011100221001212111012111?01001000?01??000021110000
+Valdotriton                         0000?110011?0000??10100??11?100?11000?001?0200100120?????101?00211??1?0???????????????????2111????0??00??????0???1110?00
+Jeholotriton                        000??0000?1?1?0000?0?????01??00????0???0???200?10??0?????100000110??0?0????????????????????111????0??00???0??0????????10
+Liaoxitriton_zhongjiani             0000?0000?10110000101000?01?000000?00?001?0000?10??0?????100000??0??1?01100???????????????1111????0?0000?00????02???0?00
+Pangerpeton                         000??00000102?000010000??01??0000?001?00110?001101???????10000011???011???????????????????1111????0?000??00??1110?????00
+Chunerpeton                         0000?0001110000000?00010?01?00000?000?00??0?00?10??0?????111000110??000???????????????????1111????0?000??00??0?????00?00
+Beiyanerpeton                       000000010010000000001001?11?100?0?000010000000?001?00????1011000?0??000???????????????????1111?0??0?0000?110?0???0000?00
+Iridotriton                         000???0???1??????????0???01??0?????0????1???00?10????????1?0????????11???????????????????????1????0?0????0??????????????
+Qinglongtriton                      000000010010010000000000?10110000?0000101010001001301???0101000010??000???????????????????1111?0??0?0000?110?0???0010?00
+Linglongtriton                      000000010010110000100000?01?100?10001?00110?001101001???0100000110??1111110???????????????1111????0?0000?0100010210001?0
+Liua                                000000000011110000100000001??00110001?001102001101001???01000001102011111?010000?02000001111111000010000?100000021111000
+Pseudohynobius                      000000010011110000100000001?100110001?001102001101001???01000001102011111?010000?02000001111111000010000?1230?0021110010
+Nuominerpeton                       000000000011110000100000?01?000?10001?001100001101001???0100000110??1111100???????????????1111????0?0000?001?01021100000
+Regalerpeton                        0000?0000011100000100000??1??0000?001?10000200110??01????100000110??1??11?0???????????????1111????0?0000?00??0?0???10010
+Liaoxitriton_daohugouensis          0?0??00??01?1100?010?0????1?00??10001?00??0??0110????????1?????????????11?????????????????1111????0??00????????02??00??0
+
+;
+
+
+cnames
+{ 0 premaxillae_separate_or_fused State_0 State_1;
+{ 1 dorsal_process_of_premaxilla State_0 State_1 State_2 State_3;
+{ 2 Maxilla State_0 State_1;
+{ 3 maxillary_tooth_row State_0 State_1;
+{ 4 septomaxilla State_0 State_1;
+{ 5 Anterodorsal_fenestra State_0 State_1;
+{ 6 Anteromedial_fenestra_between_vomers State_0 State_1;
+{ 7 Nasal_ossification State_0 State_1 State_2;
+{ 8 Lateral_expansion_of_nasals State_0 State_1;
+{ 9 Lacrimal State_0 State_1;
+{ 10 Quadratojugal_present_absent State_0 State_1;
+{ 11 Prootic/Opisthotic/Exoccipital_complex State_0 State_1 State_2 State_3;
+{ 12 Posterior_process_of_vomer State_0 State_1 State_2;
+{ 13 Posterolateral_border_of_vomer State_0 State_1 State_2;
+{ 14 Ossification_of_pterygoid State_0 State_1;
+{ 15 Shape_of_pterygoid State_0 State_1 State_2;
+{ 16 Vomer/pterygoid_contact State_0 State_1;
+{ 17 Pterygoid/Maxillary_contact State_0 State_1;
+{ 18 Palatine_in_adult State_0 State_1;
+{ 19 Anterior_extension_of_parasphenoid_between_premaxillae State_0 State_1;
+{ 20 Internal_carotid_foramen_penetrating_parasphenoid State_0 State_1;
+{ 21 Prefrontal_present_absent State_0 State_1;
+{ 22 Nasal/prefrontal_contact State_0 State_1;
+{ 23 Prefrontal/Maxilla_contact State_0 State_1;
+{ 24 Basilaris_complex_of_inner_ear State_0 State_1;
+{ 25 Angular/Prearticular_fusion State_0 State_1;
+{ 26 Coronoid_in_adult State_0 State_1;
+{ 27 Coronoid_teeth_in_adult State_0 State_1;
+{ 28 Articular State_0 State_1;
+{ 29 Dentary_teeth State_0 State_1;
+{ 30 Sharp_deflection_of_posterior_part_of_dentary State_0 State_1;
+{ 31 Hypobranchial_I_and_ceratobranchial_I_separate_fused State_0 State_1;
+{ 32 Hypobranchial_I_ossification State_0 State_1;
+{ 33 Ceratobranchial_II_in_adult State_0 State_1;
+{ 34 Basibranchial_II_present_absent State_0 State_1;
+{ 35 Premaxillary_teeth_present_absent State_0 State_1;
+{ 36 Vomerine_teeth State_0 State_1 State_2 State_3;
+{ 37 Palatine_teeth_in_adult State_0 State_1;
+{ 38 Pterygoid_teeth State_0 State_1;
+{ 39 Parasphenoid_tooth_shagreen State_0 State_1;
+{ 40 Marginal_teeth_pedicellate_or_not State_0 State_1;
+{ 41 Tooth_crown_monocuspid_or_bicuspid State_0 State_1;
+{ 42 Orbitosphenoid_as_a_discrete_bone_present_absent State_0 State_1;
+{ 43 Parasphenoid/Pterygoid_contact State_0 State_1 State_2;
+{ 44 Y-shaped_dorsal_crest_in_trunk_vertebrae State_0 State_1;
+{ 45 Vertebral_centrum_amphicoelous_opithocoelous State_0 State_1;
+{ 46 Tuberculum_interglenoideum_of_atlas_absent_present State_1;
+{ 47 Head_of_postatlantal_ribs_bicapitate_unicapitate State_0 State_1;
+{ 48 Postatlantal_ribs_in_association_with_vertebrae State_0 State_1;
+{ 49 Atlantal_spinal_nerve_foramen_present_absent State_0 State_1;
+{ 50 Postatlantal_spinal_nerve_foramen State_0 State_1 State_2 State_3;
+{ 51 Ossified_stapes_in_adults_present_absent State_0 State_1;
+{ 52 operculum_present_absent State_0 State_1;
+{ 53 Lateral_wall_of_nasal_capsule State_0 State_1;
+{ 54 Lateral_narial_fenestra_present_absent State_0 State_1;
+{ 55 Posterior_wall_of_nasal_capsule_complete_incomplete State_0 State_1;
+{ 56 Nasolacrimal_duct_present_absent State_0 State_1;
+{ 57 Sculptured_dermal_skull_roof State_0 State_1;
+{ 58 Frontal_anterior_extension State_0 State_1;
+{ 59 Anterolateral_process_of_parietal State_0 State_1;
+{ 60 Parietal/prefrontal_contact_above_orbit State_0 State_1;
+{ 61 Frontal/maxilla_contact_present_absent State_0 State_1;
+{ 62 Squamosal_orientation_in_dorsal_view State_0 State_1;
+{ 63 Exposure_of_otic-occipital_complex_in_dorsolateral_view State_0 State_1 State_2;
+{ 64 Midline_contact_of_otic-occipital_complex_over_foramen_magnum State_0 State_1;
+{ 65 Medial_contact_of_squamosal_with_parietal_or_other_roofing_element State_0 State_1;
+{ 66 Origin_of_M._adductor_mandibulae_internus_superficialis State_0 State_1 State_2;
+{ 67 Ypsiloid_cartilage State_0 State_1;
+{ 68 Dorsal_and_ventral_crest_of_humerus State_0 State_1;
+{ 69 Radial_and_ulnar_condyles_of_humerus State_0 State_1;
+{ 70 Femoral_trochanter_forming_a_twig-like_projection State_0 State_1;
+{ 71 Fusion_of_distal_carpal_1+2_as_basale_commune State_1;
+{ 72 Fusion_of_distal_tarsal_1+2_as_basale_commune State_1;
+{ 73 Number_of_centrale_in_manus_and_pes State_0 State_1 State_2;
+{ 74 Intermedium_and_ulnare State_0 State_1;
+{ 75 Distal_carpal_4_and_distal_carpal_5_fusion_or_separation State_0 State_1;
+{ 76 Haploid_chromosome_number State_0 State_1 State_2;
+{ 77 Diploid_chromosome_number State_0 State_1 State_2;
+{ 78 Microchromosome State_0 State_1;
+{ 79 Ciliated_epithelium_of_cloaca State_0 State_1 State_2;
+{ 80 Extent_of_epidermis_in_female_cloacal_chamber State_0 State_1;
+{ 81 Primary_and_secondary_folds_in_male_cloacal_tube_and_associated_glands State_0 State_1;
+{ 82 Anteroventral_cloacal_glands State_0 State_1 State_2;
+{ 83 Spermathecae_in_cloaca State_0 State_1;
+{ 84 Dorsal_cloacal_glands State_0 State_1 State_2;
+{ 85 Posteroventral_cloacal_glands State_0 State_1;
+{ 86 Kingsbury"s_glands_and_dorsal_pelvic_glands_in_male_cloaca State_0 State_1;
+{ 87 Lateral_pelvic_glands_in_male_cloaca State_0 State_1;
+{ 88 Pubotibialis_and_puboischiotibialis_muscles State_0 State_1;
+{ 89 Kidney State_0 State_1;
+{ 90 Number_of_free_ribs_associated_with_postsacral_vertebrae State_0 State_1 State_2;
+{ 91 Ectopterygoid_present_absent State_1;
+{ 92 Postfrontal_present_absent State_1;
+{ 93 Scapula-coracoid_ossification State_0 State_1;
+{ 94 Movable_eyelids_present_absent State_0 State_1;
+{ 95 Nasolabial_groove State_0 State_1;
+{ 96 Mode_of_fertilization State_0 State_1;
+{ 97 Lungs State_0 State_1 State_2;
+{ 98 Number_of_presacral_vertebrae State_0 State_1;
+{ 99 Relative_development_sequence_between_Neural_arch_and_centrum_of_the_vertebrae State_0 State_1;
+{ 100 Quadrate_present_and_absent State_0 State_1;
+{ 101 Frontosquamosal_arch_absent_present State_0 State_1;
+{ 102 Maxillary_arcade_complete_incomplete State_0 State_1;
+{ 103 Columellar_process_of_squamosal_present_absent State_0 State_1;
+{ 104 Facial_nerve_in_relation_to_ligamentum_squamoso-columellare State_0 State_1;
+{ 105 Anterior_process_of_the_maxilla State_0 State_1;
+{ 106 Anterodorsal_fenestra"s_involvement_with_adjacent_bones State_0 State_1 State_2 State_3;
+{ 107 Lacrimal"s_involvement_with_naris_and_orbit State_0 State_1 State_3;
+{ 108 Position_of_the_trochlear_foramen State_0 State_1;
+{ 109 Ossification_of_ascending_process_of_the_palatoquadrate State_0 State_1;
+{ 110 Anteroventral_extension_of_the_orbitosphenoid_on_the_ventral_border State_0 State_1;
+{ 111 Position_of_the_optic_foramen State_0 State_1;
+{ 112 Position_of_the_oculomotor_foramen State_0 State_1 State_2;
+{ 113 Stapedial_foramen_at_the_base_of_the_stylus_of_the_stapes_present_absent State_0 State_1;
+{ 114 Dentary_groove_on_the_labial_aspect_of_the_dentary State_0 State_1;
+{ 115 Basibranchial_II_shape State_0 State_1;
+{ 116 Ceratohyal_ossification State_0 State_1;
+{ 117 Distal_tarsal_4_and_distal_tarsal_5_fusion_separation State_0 State_1;
+{ 118 Frontoparietal_fontanelle_absent_present State_0 State_1;
+{ 119 Number_of_toes State_0 State_1;
+;
+
+
+ccode  - 0.119;
+
+
+;

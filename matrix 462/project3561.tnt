@@ -1,0 +1,164 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 13.20.07'
+110 36
+
+&[num]
+Cimmerius                 102?10111111001100111?1?11-?21011?214102-2111010010022211132111102001000200000110010221-------110-020000000000
+Diastylis                 102??011111100?000??101213012111142131001103131001100??11032111102010000210000100010221-------112-000000021220
+Hemilamprops              101310010111000002101122?????????42?3202?2231310011100212032111102021000210000100010121?0?????0121221000010000
+Eobodotria                122??01111111?00032??0???????????42???10??????????????????????????????201?2100?20010?21?10??0?0110110000000101
+Alticuma                  1?0010?11?1100??0???11?10?-?2101?42???00011?1?10?00????11?321111020?02202220002200?0021-111-03?1110000000000?1
+Bacescuma                 10201001011101?0010000?111-12101132?11000101111021?00001113?111102000220222000220010021-1000--010-0100000000?1
+Bodotria                  1???10???1110???0???00????2??101?4201?00??????10?1?????1??3?111?0?0??22?222000220010?2?0????0????10??0000000?1
+Coricuma                  101010211111?-210320?12212222101101?01000223131001?1-0011131111102000221222100221110121-10????1112022000021221
+Cyclaspis                 112??0?????10???0????0??1?2?2??1??20??000??????0?1?????1????11110?0??220?2200022?0?00?1-???????10-0????00000?1
+Cyclaspoides              1?2??01?1?1100???10?1??21?2?2101142???000?131?11-----001??3?1111020??22?2220002200??0?1-?103--?1?10??000000001
+Eocuma                    112??0???11?0???0???????1?1???0??420??000?1?1??0?1?????1??0?111??????2212220002200?0001-?0?????10-040??00000?1
+Iphinoe                   10??10??1??100??0??????21????1?1??20??000???1?10?1?????1??32?111??0??2212220002200?0???0????0???1????0000????1
+Austrocuma                12?01??1?11100??02?100?211-?210100001?0002??1210?1?0???1?13?111?020?0221?22?0022??10?21-?0?211?10-0?000000?201
+Mossambicuma              1120101??111001???0311?201-??10?122??000001?1310210???01?13?1111020??221222000220010001-100?--?10-0400000000?1
+Upselaspis                1?23-011111100??0?01111211-12100142???000?131310210?2021103211110201022122200022?010121-111-02?1?00310000000?1
+Zygosiphon                1102-0011111????1112002111-121011420000000131310010?022111311111020202202220002200??021-111-0301110120000000?1
+Apocuma                   1?23-0?001?100???10?11?011-1210?142?2102-?23?3100100???11132111?0200?000210000200010?2?1101-0??10-010000000021
+Cumopsis                  1???101?11110???0?0?0022?1-1210?142???0????31300?10????111?211110?010111211000220010?21-?01-1??111???0000000?1
+Heterocuma                1??010?111110???0?20002?1?-1?101142???000??112?0?101-??1???211010?0?0111211000220010021-0-----?11???2000000011
+Hypocuma                  112010?11111000001?311??1?2121?11?204?02-21?1?1001?0???11132111102010000200000100010021-121-031111012??0000001
+Leptocuma                 11??10?111110???0??????2?????101132?2102-2?313?0?100???1??3?11110?0?0000?00000110010??1-????????1?0??0000000?1
+Mancocuma                 12??1011111100?00??????21?2??10?11012100?2221?00?1001220203211000?00000?100001110010?21-100?--11110??000021221
+Spilocuma                 1?001011111100?20?01002211-1?10?10013102-2?313100110???11032111?02000000200000110010?21-10????11110100012212-1
+Pseudoleptocuma           11?01011111100?10?21????11-32101142?210012221?001100???11032111?0?010000100000100010021-1003--111101?000001201
+Pseudosympodomma          11?3-0?11?11?-?10?2000??1??121??142?2?000???1?00?10????1??3211110?020000?220002200100?1-111-0???1?0??000000001
+Gephyrocuma               ?2201011111100?0020100?01?20210?1?2??211-2221?001100122011121000000?000021101011001?001-11?31311110400000000?1
+Zenocuma                  1003-001101101300300001111-321001?2??111-20010001100122011321000000200002000001?0010121-0-----011104100??????1
+Pomacuma                  1???10?1111100300200001?11-?2101142???1?02201?0011?013201?021000000100002000001100100?1-11??0311110400000000?1
+Gigacuma                  111?1011111101??0000002?11-??11014202?000?221000110???2110221111000200002220002200100?1-101-031112010000000021
+Sympodomma                11??10??0??101??022000??1?21?1???42???000???1?00?10????1??3211110?0200002000002200100??11???0???1?0??000000001
+Speleocuma                1?1010211111001?02?0001211-?2101102??102-22213100100??21113211?1020?0000200000220010021-101-030011021000021221
+Gaussicuma                11??10??11110???0?0?11??11-?21?11?2?110?0???1?10010????1??3211110201?00020000020001?00?1121-0?11110??000000001
+Glyphocuma                11?010??1111?-??0?20?0?21?2??11?1?2?2?000??31??0?1?0???1103211110?0?000?2?00002?0010021-110?--?11?0??0000000?1
+Bathycuma                 1??010?111?10?????2?11??1???21??122?21000?2?1?10?10????11?32111?0?0??00020000020001?0??11?1-0???1?0??0000000?1
+Vaunthompsonia            11?010???1110?????0?00??1?2?210?1120??0?12??1310?1?????1??321111020??00?2000002000100???1???0???11???0000000?1
+Picrocuma                 12????01111100?0021100??1?-3?10110012102-2030310?12?1??1?13211110200000?200000220010?21-1003--110-0?00012210-1
+
+;
+
+
+cnames
+{ 0 Carapace_versus_pleon_length equal shorter longer;
+{ 1 Carapace_and_pereon_versus_pleon_length equal shorter _longer;
+{ 2 Carapace_versus_pereon_length equal shorter longer;
+{ 3 Carapace_viewed_from_dorsal laterally_compressed_anteriorly laterally_compressed_posteriorly laterally_compressed_in_the_medial_portion not_compressed;
+{ 4 When_carapace_is_laterally_compressed_anteriorly oviform_posteriorly not_oviform;
+{ 5 Carapace_shape_in_dorsal_view longer_than_wide wider_than_long as_wide_as_long;
+{ 6 Median_dorsal_ridge_on_carapace present absent as_a_dorsal_serration;
+{ 7 Dorso-lateral_ridges_on_carapace present absent;
+{ 8 Lateral_ridges_on_carapace present absent;
+{ 9 Anterior_transverse_ridge_on_carapace present absent;
+{ 10 Posterior_transverse_ridge_on_carapace present absent;
+{ 11 Lateral_horns_on_carapace present absent;
+{ 12 Pseudorostral_lappets extend_beyond_frontal_lobe do_not_extend_beyond_the_frontal_lobe;
+{ 13 When_pseudorostral_lobes_extend_beyond_frontal_lobe_they meet_in_midline extend_towards_midline_but_do_not_meet_or_partially_meet_leaving_suture_between_them widely_separated;
+{ 14 Antennal_notch not_distinct depression subacute_incision acute_incision;
+{ 15 Anterolateral_corner_of_carapace bluntly_rounded,_poorly_defined,_obtuse_angle_greater_than_90_degrees subacute_tooth acute_tooth;
+{ 16 Branchial_siphons extend_just_beyond_pseudorostrum long,_extending_much_beyond_pseudorostrum;
+{ 17 Frontal_lobe_size 1_/_5_or_less_of_carapace_length 1_/_4_of_carapace_length 1_/_3_of_carapace_length half_of_carapace_length more_than_half_of_carapace_length;
+{ 18 Frontal_lobe_shape as_wide_as_long wider_than_long longer_than_wide;
+{ 19 Frontal_lobe anteriorly_linguiform_(extended) somewhat_extended notched_anteriorly not_extended;
+{ 20 Ocular_pigment present absent;
+{ 21 Eye_lenses present absent;
+{ 22 Antenna_1_,_basal_article_of_the_peduncle geniculated arcuate straight;
+{ 23 Antenna_1_,_length_of_basal_article_of_peduncle longer_than_the_other_two_articles_together same_length_than_the_other_two_articles_together shorter_than_the_other_two_articles_together;
+{ 24 Antenna_1_,_males_with_a_group_of_aesthetasc_on_distal_margin_of_peduncle present absent;
+{ 25 Antenna_1_,_main_flagellum uniarticulated bi-articulated tri-articulated with_4_articles with_5_articles;
+{ 26 Antenna1_,_when_main_flagellum_has_three_or_more_articles third_article_longer_than_second second_and_third_articles_same_length second_article_longer_than_third;
+{ 27 Antenna_1_,_number_of_aesthetascs_in_last_article_of_main_flagellum_(_sometimes_only_males) three_or_more two one none;
+{ 28 Antenna_1_,_number_of_aesthetascs_on_proximal_article_of_main_flagellum_(_sometimes_only_males) three_or_more two none;
+{ 29 Antenna_1_,_accessory_flagellum not_reduced reduced absent;
+{ 30 Antenna_1_,_accessory_flagellum uniarticulated biarticulated;
+{ 31 Antenna_1_,_brush_of_at_least_three_setae_on_accessory_flagellum present absent;
+{ 32 Antenna_1_,_aesthetasc_on_accessory_flagellum present absent;
+{ 33 Antenna_2_in_males not_reaching_the_end_of_pereon reaching_to_end_of_pereon reaching_approximately_half_length_of_pleon reaching_almost_the_end_of_pleon reaching_the_end_of_pleon;
+{ 34 Antenna_2_in_males_,_modifications_for_grasping on_anterior_margin on_posterior_margin absent;
+{ 35 Male_antenna_2_,_sensory_setae_on_anterior_margin_of_article_4 present absent;
+{ 36 Female_antenna_2_,_number_of_articles one two three four five;
+{ 37 Maxilliped_3_,_basis_shape geniculated arcuate straight;
+{ 38 Maxilliped_3_,_basis_shape_-_2 normal very_expanded_(with_opercular_functions);
+{ 39 Maxilliped_3_,_extension_of_basis dorsally_over_ischium ventrally_over_ischium absent;
+{ 40 Maxilliped_3_,_when_basis_has_a_dorsal_extension extends_beyond_the_articulation_of_the_ischium_and_merus slightly_expanded_dorsally;
+{ 41 Maxilliped_3_,_ischium_length_relative_to_merus_(without_considering_extensions) longer equal shorter;
+{ 42 Maxilliped_3_,_merus without_dorsal_extension extended_dorsally_over_carpus laterally_expanded;
+{ 43 Maxilliped_3_,_carpus_shape proximally_widened distally_widened oviform not_widened;
+{ 44 Maxilliped_3_,_length_of_carpus_relative_to_propodus_plus_dactylus longer equal_or_shorter;
+{ 45 Maxilliped_3_,_propodus_shape distally_widened proximally_widened oviform not_widened;
+{ 46 Maxilliped_3_,_brush_setae_on_propodus present absent;
+{ 47 Number_of_pereonites_covered_by_carapace one three;
+{ 48 Visibility_of_first_pereonite well_exposed visible_only_above_lateral_midline not_visible;
+{ 49 Pereonite_2_and_3 fused not_fused;
+{ 50 Pereonite_2_,_length proportional_to_other_pereonites narrow_(not_wider_than_the_third_pereonite) wide;
+{ 51 Pereonite_2_,_ventrolateral_expansion present absent;
+{ 52 Ventrolateral_expansion_of_pereonite_2 not_overriding_other_somites overriding_pereonite_1_and_/_or_carapace overriding_pereonite_3 overriding_pereonite_1_and/or_carapace,_and_also_pereonite_3;
+{ 53 Pereonite_3_,_ventrolateral_expansion absent overriding_pereonite_2 overriding_pereonite_4 overriding_pereonites_2_and_4;
+{ 54 Pereonite_4_,_ventrolateral_expansion absent overriding_pereonite_3 overriding_pereonite_5 overriding_pereonite_3_and_5;
+{ 55 Pereopod_1_,_basis-carpus_expanded_and_ischium-merus_rotated_for_opercularity present absent;
+{ 56 Pereopod_1_,_basis_shape geniculated arcuate straight;
+{ 57 Pereopod_1_,_row_of_setae_on_basis present absent;
+{ 58 Pereopod_1_,_extension_on_the_basis with_dorso-distal_extension_on_totally_or_partially_covering_the_ischium ventral_opercular_extension ventral_slight_extension absent;
+{ 59 Pereopod_1_,_basis_inner_apical_angle extended_to_form_a_subtriangular_tooth-like_process extended_to_form_a_convex_process process_absent;
+{ 60 Pereopod_1_,_ischium_length elongate often_longer_than_merus normal_size_(_small);
+{ 61 Pereopod_1_,_ischium_shape modified_as_a_rounded_lobe_with_exterior_concavity_(_opercular) not_modified;
+{ 62 Pereopod_1_,_carpus_shape oviform not_oviform;
+{ 63 Pereopod_1_,_row_of_setae_on_carpus present absent;
+{ 64 Pereopod_1_,_length_of_carpus_relative_to_basis shorter equal;
+{ 65 Pereopod_1_,_presence_and_number_of_setae_on_the_propodus with_a_brush_(_3_or_more)_of_long_setae_on_the_propodus_(_setae_longer_than_carpus) at_least_three_setae_in_a_linear_arrangement_along_propodus setae_absent;
+{ 66 Pereopod_1_,_length_of_basis_relative_to_propodus longer equal;
+{ 67 Pereopod_1_,_length_of_carpus_relative_to_propodus longer equal shorter;
+{ 68 Pereopod_1_,_at_least_three_terminal_setae_on_dactylus present absent;
+{ 69 Pereopod_2_,_exopod_in_females fully_developed reduced absent;
+{ 70 Pereopod_2_,_exopod_in_males fully_developed reduced absent;
+{ 71 Pereopod_2_,_ischium present absent;
+{ 72 Pereopod_2_,_length_of_dactylus_relative_to_propodus shorter equal longer;
+{ 73 Pereopod_3_,_exopod_in_females fully_developed reduced absent;
+{ 74 Pereopod_3_,_exopod_in_males fully_developed reduced absent;
+{ 75 Pereopod_3_,_number_of_articles seven six;
+{ 76 Pereopod_3_,_merus_length normal_(_much_smaller_than_basis) enlarged_(_almost_as_large_as_basis);
+{ 77 Pereopod_3_,_modification_of_articulation_of_carpus_and_propodus normal,_articulated_at_the_distal_end_of_the_carpus articulated_on_side_wall_of_carpus;
+{ 78 Pereopod_4_,_exopod_in_females fully_developed reduced absent;
+{ 79 Pereopod_4_,_exopod_in_males fully_developed reduced absent;
+{ 80 Pereopod_4_,_number_of_articles seven six;
+{ 81 Pereopod_5_,_number_of_articles seven six;
+{ 82 Articular_pegs_on_pleon present absent;
+{ 83 Size_of_pleonite_5_relative_to_pleonite_6 longer as_long_as_or_shorter;
+{ 84 Pleonite_6_,_shape longer_than_wide as_wide_as_long wider_than_long;
+{ 85 Length_of_pleonite_6_relative_to_peduncle_of_uropods longer equal shorter;
+{ 86 Setae_on_posterior_edge_of_pleonite_6 present absent;
+{ 87 Pleonite_6_,_when_setae_present_on_posterior_edge two_setae_close_to_midline more_than_two_setae_at_posterior_end;
+{ 88 Pleonite_6 not_extended_past_the_insertion_of_the_uropods extended_past_the_insertion_of_the_uropods;
+{ 89 Pleonite_6_,_amount_extended_between_uropods slightly_extended well_extended strongly_extended;
+{ 90 Pleonite_6_,_amount_extended_between_uropods_-_2 whole_width_of_terminal_end middle_portion_of_distal_end;
+{ 91 Pleonite_6_,_when_whole_terminal_end_extended ends_in_a_point ends_in_a_line ends_concave ends_in_a_rounded_apex;
+{ 92 Pleonite_6_,_width_of_the_extension_when_only_middle_portion_of_terminal_end_extended wide narrow;
+{ 93 Pleonite_6_,_when_only_middle_portion_of_terminal_end_extended ends_in_a_point ends_in_a_line ends_concave ends_rounded_apex;
+{ 94 Anal_plates_,_extension_beyond_posterior_margin_of_pleonite_6 present absent;
+{ 95 Anal_plates_,_setae_on_posterior_edge present absent;
+{ 96 Number_of_articles_of_uropod_endopod one two three;
+{ 97 Length_of_articles_of_uropod_endopod articles_approximately_equal proximal_article_longer proximal_article_shorter;
+{ 98 Length_of_articles_of_uropod_exopod proximal_article_shorter proximal_article_longer articles_approximately_equal;
+{ 99 Uropods_,_length_of_peduncle_relative_to_rami much_longer_than_rami_(_more_than_50%_longer) longer equal slightly_shorter_than_exopods_only shorter;
+{ 100 Uropods_,_length_of_rami_with_respect_to_each_other equal endopod_longer endopod_shorter;
+{ 101 Uropod_,_terminal_setae_on_endopod present absent;
+{ 102 Uropod_,_terminal_setae_on_exopod present absent;
+{ 103 Males_,_pleopods_on_pleonite_1 present absent;
+{ 104 Males_,_pleopods_on_pleonite_2 present reduced absent;
+{ 105 Males_,_pleopods_on_pleonite_3 present reduced absent;
+{ 106 Males_,_pleopods_on_pleonite_4 present absent;
+{ 107 Males_,_pleopods_on_pleonite_5 present reduced absent;
+{ 108 Males_,_process_on_pleopodal_endopod well_developed reduced absent;
+{ 109 Telson free fused_with_pleonite_6_forming_a_pleotelson_;
+;
+
+
+ccode  - 0.109;
+
+
+;

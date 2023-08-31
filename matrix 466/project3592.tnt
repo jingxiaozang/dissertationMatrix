@@ -1,0 +1,158 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 13.22.55'
+99 41
+
+&[num]
+Quedius_molochinus_(Quediina)                     01-0111100-000100000000000011111010030001000111010100000020000-000110000--1100101-0001011200001-000
+Platyprosopus_elongatus_(Platyprosopini)          01-01010010000100000000000100001010030111000111000000000020010-011010000--1210001-0101--00000000000
+Achenium_humile_(Lathrobiina)                     00111001021000000000011100110010001120110001000000010000001000-200110211011101010010000001001001100
+Domene_scabricollis_(Lathrobiina)                 00111101020000000000011100100010001110110001000001010000011101120000121101110110001000--0110101-???
+Lathrobium_brunnipes_(Lathrobiina)                00111101020000000000011100111010001120130001000000010000011101120010011101110101001000--0110111-100
+Lathrobium_fulvipenne_(Lathrobiina)               00111101020000000000011100111010001120130001000000010000011101120010011101110101001000--0110111-000
+Lobrathium_grande_(Lathrobiina)                   00111001020000000000011100110011011120110001000001010000011101120010121101111101001000000110101-000
+Lobrathium_reitteri_(Lathrobiina)                 00111101020000000000011100101010001120110001000001010000011101120010121101110101001000--0110??1?100
+Pseudolathra_pulchella_(Lathrobiina)              00101101020001000000011100011011011120120011000000010000011001120010110111111100000000010110101-010
+Tetartopeus_rufonitidus_(Lathrobiina)             00111101021000000000011100110010011110110001000000010000011101120010021111110101001000--0110101-000
+Micrillus_distortus_(Lathrobiina)                 00111101021000000000010100010011011130110001000001010001100001211010010111100010000101000110??1-010
+Micrillus_irakensis_(Lathrobiina)                 00111101020000000000010100010011010130110001000000010001001000-11010010111100010000101000110001-010
+Micrillus_testaceus_(Lathrobiina)                 00101101020000000000010100010011010130110001000001010001000001210010010111100010000101000110??11010
+Scymbalium_anale_(Lathrobiina)                    001010010210001010100101000010010101301110010000010100011001010100100101111100100001010001101001110
+Scymbalium_laetum_(Lathrobiina)                   001011010210001010100101000110010101301300010000010100011000010110100101111000100001010001100000???
+Scymbalium_lathrobioides_(Lathrobiina)            00101101020000000000010100010010010130110001000000010001000000-11010010111100010000101??0110????010
+Scymbalium_minutissimum_(Lathrobiina)             00111101020000000000010100010011011130110001000000010001001000-11110010101100010000101??0110????010
+Scymbalium_simplarium_(Lathrobiina)               00101101021000101010010100011001010130130001000000010001100001010010010111100010000101000110????010
+Scymbalium_sparsicolle_(Lathrobiina)              00101101021000101000010100011001010130130001000001010001100101011010010111100010000101000110????010
+Scymbalium_usagarae_(Lathrobiina)                 0011100102100000000001010?010010011130110001000000010001100101011010010111100010000101000110????010
+Micrillus_fossil_(Lathrobiina)                    001110010??????????0?1010??1101001?13011000100000?0?????????????1??0010???110010000101??011????????
+Scymbalium_fossil_(Lathrobiina)                   00101101020100???000?1010?01??0001??3013000000000?0?00??????????1?10?10???110010000101??011??????10
+Dysanabatium_jacobsoni_(Lathrobiina)              00111101010000000000011100101011011130120001000000010000011101120020000111111100000001110010101-???
+Phanophilus_comptus_(Lathrobiina)                 00101101010000000000011100011011011120110001000000010000010001220010010111111110000001000110101-??0
+Notobium_(lathrobiina)                            001011010100000000000101000110110111201100010000010100000101012200101101111110100010010000101000???
+Astenus_californicus_(Astenina)                   001111100101000111-11113011010101-1111110001000012001113011001022100010101101110010111--0010101-110
+Nazeris_pallidipes_(Astenina)                     000111100101100111-11113011010101-1111110001000002001113011001222000010101101110010111--0010101-110
+Dibelonetes_sp._(Stilicopsina)                    000111100101110110011113011010101-1111110101000011001113011001222020010101101110010111110010??1-112
+Achenomorphus_corticinus_(Medonina)               00111101110001010000011300101010011120010101000011011000011001020010010100110110010101000010111-011
+Medon_apicalis_(Medonina)                         00100201110100001000011301101011011120010001000001011000011101220010000100110110010101110010111-011
+Sunius_melanocephalus_(Medonina)                  00100201110100001000011301001011011120110001000001011000011001220010000100110110010101--0010101-000
+Echiaster_sp_(Echiasterina)                       001002001101100110011113011010101-1101120102000112001113011001220111010100000110010101110010121-???
+Rugilus_angularis_(Stilicina)                     001002011101000000001113011010101-1000010101000001011000011001210101000101100110010101110010101-010
+Scopaeus_minutus_(Scopaeina)                      00111100110110011000011301101011011100110102000001001000011001220110010111000110010001110010??1-???
+Pinophilus_sp._(Pinophilini)                      000110010100000011-0002510110001010020011000100001000002001101210021010111120110000101000010121-???
+Procirrus_lefebvrei_(Pinophilini)                 000000000101100111-1002500100001010010110002000102000002001000-1202101011102011000000100001012001?2
+Homaeotarsus_bicolor_(Cryptobiina)                10111101010000101010010200010001010030120011000001000000000101211010110111000010000101000111101-???
+Ochthephilum_fracticorne_(Cryptobiina)            10111101010100001000011200001011010030120011000001000000000001210010010111000010000101110111101-110
+Hyperomma_mandibulare_(Dicaxina)                  00111101010000100000010200001011011030120001000001000001011001210010110111100010000101--01110001???
+Leptobium_gracile_(Dolicaonina)                   001001010101000000000104100000110100301210010000010000011110012200100101011100100001011101111000???
+Paederus_littorarius_(Paederina)                  0010010101000010101001041000001101002011001200000000100001100121211000010111111001010101011100000?0
+
+;
+
+
+cnames
+{ 0 Antennae,_form non-geniculate geniculate;
+{ 1 Antennae,_insertion,_base_of_antennomere_1,_concealment concealed_(fully_or_partially)_under_"frontal_shelf" not_concealed;
+{ 2 Antennae,_concealed_base_of_antennomere_1,_degree_of_concealment complete partial;
+{ 3 Antennae,_antennomere_3,_tomentose_pubescence,_presence absent present;
+{ 4 Antennae,_antennomere_4,_tomentose_pubescence,_presence absent present;
+{ 5 Antennae,_antennomeres_9_and_10,_shape elognated,_filiform,_thin elongated,_increasing_in_width_towards_apex_of_antenommere wider_than_long;
+{ 6 Antennae,_antennomere_11,_shape symmetrical asymmetrical;
+{ 7 Antennae,_setation without_long_setae_extending_perpendicular_to_the_antennal_axis with_long_setae_extending_perpendicular_to_the_antennal_axis;
+{ 8 Eyes,_setae_between_ommatidia,_presence absent present;
+{ 9 Head,_labrum,_shape apical_margin_entire apically_with_median_notch_developed_to_different_extent,_but_apical_margin_does_not_form_two_lobes clearly_divided_into_two_lobes_(sometimes_with_apical_pair_of_teeth_between_lobes);
+{ 10 Head,_labrum,_depth_of_emargination shallow,_basally_not_reaching_membrane_connecting_labrum_with_frons_(frontoclypeus) deep,_basally_extended_through_membrane_connecting_labrum_with_frons_(frontoclypeus);
+{ 11 Head,_labrum,_apical_pair_of_teeth,_presence absent present;
+{ 12 Head,_labrum,_lateral_pairs_of_teeth,_presence absent present;
+{ 13 Head,_labrum,_a_single_median_tooth,_presence absent present;
+{ 14 Head,_labrum,_apical_membrane,_presence absent present;
+{ 15 Head,_labrum,_setae_on_the_margin_of_sclerotized_(not_membranous)_area,_presence present absent;
+{ 16 Head,_labrum,_ventral_side,_setation,_presence present absent;
+{ 17 Head,_labrum,_attachment_to_frons_(frontoclypeus) with_distinct_membrane_between_frons_and_base_of_labrum without_distinct_membrane_between_frons_and_base_of_labrum;
+{ 18 Head,_membrane_between_labrum_and_frons_(frontoclypeus),_apical_margin straight emarginate;
+{ 19 Head,_mandibles,_shape stout thin;
+{ 20 Head,_mandibular_prostheca,_presence present absent;
+{ 21 Head,_maxillary_palpomeres_3_and_4,_length palpomere_3_equal_to_or_shorter_than_4 palpomere_3_longer_than_4;
+{ 22 Head,_maxillary_palpomeres_3_and_4,_width palpomere_3_almost_equal_or_equal_to_4 palpomere_3_twice_as_wide_as_4 palpomere_3_narrower_than_4;
+{ 23 Head,_maxillary_palpomere_4,_shape fusiform conical nipple-like,_elongate small,_acicular truncate,_short securiform;
+{ 24 Head,_maxillary_palpomere_4,_setation glabrous_or_at_most_slightly_setose heavily_setose;
+{ 25 Head,_labial_palpomere_3,_development normal,_not_acicular very_thin,_acicular;
+{ 26 Head,_frons,_punctation sparser_than_on_the_rest_of_head as_on_the_rest_of_head;
+{ 27 Head,_integument smooth with_microscuplture;
+{ 28 Head,_ventral_basal_ridge,_development underdeveloped_or_absent fully_developed;
+{ 29 Head,_postgenal_ridge,_presence absent present;
+{ 30 Head,_nuchal_ridge,_presence absent present;
+{ 31 Head,_gular_sutures,_shape straight curved;
+{ 32 Head,_gular_sutures,_with_respect_to_each_other separate_all_the_way fused;
+{ 33 Head,_separate_gular_suture,_extension parallel_to_each_other not_parallel_to_each_other;
+{ 34 Head,_gular_sutures,_development_at_base_of_gula continue_through_neck_to_posterior_margin_of_head become_indistinct_(fade)_not_reaching_posterior_margin_of_head;
+{ 35 Neck,_postoccipital_suture_vs_gula postoccipital_suture_do_not_cross_gular_sutures,_not_distinct_at_base_of_gula postoccipital_suture_crosses_gular_sutures_and_continues_through_base_of_gula;
+{ 36 Neck,_width very_narrow,_equal_or_less_than_1/5_of_head_width narrow,_equal_or_less_than_1/3_of_head_width regular,_equal_or_less_than_1/2_of_head_width wide,_more_than_1/2_of_head_width;
+{ 37 Head_capsule,_from_apical_margin_of_frons_to_neck_constriction,_vs_pronotum,_length head_shorter_or_as_long_as_pronotum head_longer_than_pronotum;
+{ 38 Pronotum,_length wider_than_long,_or_quadrate longer_than_wide;
+{ 39 Pronotum,_widest_at base apex_or_anterior_to_its_middle middle same_width_everywhere;
+{ 40 Pronotum,_front_angles_(in_dorsal_view) not_producing_over_anterior_margin_of_pronotum producing_over_anterior_margin_of_pronotum;
+{ 41 Pronotum,_anterior_margin,_shape normal,_not_produced_in_a_neck-like_way produced_in_a_neck-like_way;
+{ 42 Pronotum,_punctation irregular with_distinct_rows_of_punctures_along_midline;
+{ 43 Pronotum,_superior_marginal_line_of_pronotal_hypomeron,_development marginal_line_fully_developed,_not_deflexed_under_anterior_angle_of_pronotum marginal_line_fully_developed,_deflexed_under_anterior_angle_of_pronotum marginal_line_short,_not_extending_to_anterior_edge_of_pronotum,_or_absent;
+{ 44 Prothorax,_front_angles_of_pronotum_vs_prosternum_(in_ventral_view) front_angles_not_produced_beyond_the_meeting_point_of_prosternum_and_pronotum front_angles_produced_beyond_the_meeting_point_of_prosternum_and_pronotum;
+{ 45 Pronotum,_hypomeron,_development not_inflexed inflexed;
+{ 46 Pronotum,_true_(not_translucent)_postcoxal_process_of_hypomeron,_development well_developed absent;
+{ 47 Prosternum,_prosternal_carina_[prosternal_suture_sensu_Blackwelder_1936]_(separating_basisternum_from_furcasternum),_presence present absent;
+{ 48 Prosternum,_basisternum,_transversal_carina,_presence absent present;
+{ 49 Prosternum,_basisternum,_surface relatively_smooth,_not_wrinkled_or_punctate wrinkled punctate;
+{ 50 Prosternum,_furcasternum,_sharp_longitudinal_carina,_presence present absent;
+{ 51 Prosternum,_furcasternum,_transversal_carina,_presence absent present;
+{ 52 Prosternum,_furcasternum,_relative_extension_basad less_extended_-_its_pointy_edge_does_not_reach_the_level_of_the_tip_of_postcoxal_process more_extended_-_its_pointy_edge_reaches_the_level_of_the_tip_of_postcoxal_process;
+{ 53 Prosternum,_furcasternum,_lateral_extension not_expanded_under_anterior_coxae expanded_under_anterior_coxae;
+{ 54 Mesospiracular_peritremes,_development distinct reduced;
+{ 55 Mesothorasic_membrane_(area_under_anterior_coxae),_degree_of_sclerotisation soft,_without_stronger_sclerotized_areas with_stronger_sclerotized_areas_embedding_spiracles with_fully_sclerotized_areas_embedding_spiracles hidden_behind_furcasternum;
+{ 56 Mesosternum,_prepectus,_clear_triangular_sclerotisation_in_the_middle,_presence absent present;
+{ 57 Mesosternum,_sterno-pleural_sutures,_shape curved,_converging_towards_each_other_in_their_basal_(closer_to_prepecturs)_half curved,_running_parallel_to_each_other_in_their_basal_(closer_to_prepecus)_half straight,_running_transversly_along_entire_extension;
+{ 58 Mesosternum,_sterno-pleural_sutures,_basal_end ending_at_prepectus ending_before_(not_reaching)_prepectus;
+{ 59 Mesosternum,_basisternum,_longitudinal_carina,_presence absent present;
+{ 60 Mesosternum,_furcasternum,_longitudinal_intercoxal_carina,_presence present absent;
+{ 61 Mesosternum,_transversal_carina_between_sterno-pleural_sutures,_presence absent present;
+{ 62 Mesosternum,_transversal_carina_between_sterno-pleural_sutures,_shape straight_or_interrupted_in_the_middle pointed_apicad_(towards_abdomen) pointed_or_curved_basad_(towards_prothorax);
+{ 63 Mesosternum,_lateral_ridges_near_(apicad_from)_prepectus,_presence_and/or_number absent present,_single present,_double;
+{ 64 Mesosternum,_connection_to_metasternum mesosternum_clearly_separated_from_metasternum_by_a_membrane mesosternum_separated_from_metasternum_by_suture,_no_membrane mesosternum_completely_fused_to_metasternum;
+{ 65 Mesosternum,_ridge_below_coxal_rests,_presence present absent;
+{ 66 Mesothorax,_scutellum,_ridge(s),_presence with_only_one_(posterior)_scutellar_ridge with_both_anterior_and_posterior_scutellar_ridges without_any_ridges;
+{ 67 Mesothorax,_elytra,_epipleuron,_marginal_ridge,_presence present absent;
+{ 68 Mesothorax,_epipleuron,_additional_ridge_(in_addition_to_marginal_ridge),_presence absent present;
+{ 69 Profemorae,_middle_part_ventrally,_projection,_presence absent present_as_blunt,_small_projection present_as_sharp,_big_projection;
+{ 70 Protibiae,_inner_side_with_protibial_combs,_shape without_projection_to_match_the_projection_on_profemorae with_projection_in_the_area_of_the_protibial_combs;
+{ 71 Protibiae,_pale_spines_on_inner_surface,_arrangement not_arranged_into_distinct_transverse_or_oblique_protibial_combs_(except_a_single_row_near_tibial_apex) arranged_into_several_to_many_transverse_or_oblique_protibial_combs;
+{ 72 Protibiae,_protibial_combs,_number a_few_(not_more_than_6) many_(10_or_more);
+{ 73 Protibiae,_protibial_combs,_position long,_extending_along_the_length_of_the_tibia short,_extending_only_transverse_to_the_length_of_the_tibia;
+{ 74 Protarsi,_adhesive_spatulate_setae_underneath,_presence absent present;
+{ 75 Protarsi,_tarsomeres_1-4,_width_compared_to_meso-_and_metatarsi not_widened notably_widened extremely_widened;
+{ 76 Protarsi,_tarsomere_4,_shape simple bilobed;
+{ 77 Mesotibiae,_outer_edge,_thorns,_presence present absent;
+{ 78 Mesotibiae,_outer_side,_long_bristles,_presence present absent;
+{ 79 Mesotarsi,_tarsomeres_1_and_2,_length tarsomere_1_equal_to_or_longer_than_2 tarsomere_1_shorter_than_2;
+{ 80 Metatibiae,_apical_ctenidium,_presence present absent;
+{ 81 Metatibiae,_apical_ctenidium,_location on_both_sides_(anterior_and_posterior)_of_tibia only_on_one_side_(posterior)_of_tibia;
+{ 82 Metatarsi,_tarsomeres_1_and_2,_length tarsomere_1_equal_to_or_longer_than_2 tarsomere_1_shorter_than_2;
+{ 83 Metatarsi,_tarsomeres_1_and_5,_length tarsomere_1_shorter_than_5 tarsomere_1_equal_to_or_longer_than_5;
+{ 84 Metarsi,_tarsomeres_4_and_5,_length tarsomere_4_equal_to_or_shorter_than_5 tarsomere_4_longer_than_5;
+{ 85 Metatarsi,_tarsomere_5_vs_tarsomeres_2-4,_length tarsomere_5_equal_to_2-4_combined tarsomere_5_shorter_than_2-4_combined;
+{ 86 Hind_wings,_venation,_MP3_vein,_presence present absent;
+{ 87 Hind_wings,_venation,_veins_MP4_and_CuA,_development completely_separate largely_or_completely_fused;
+{ 88 Intersegmental_membrane,_pattern regular,_rectangular,_brick-wall different_than_brick-wall;
+{ 89 Abdominal_tergal_sclerites_IX,_shape produced_into_flat,_apically_obtuse_to_sharp,_sometimes_with_spine-like_process produced_into_inflated,_apically_sharp_process produced_into_inflated,_apically_obtuse_or_rounded_process;
+{ 90 Abdominal_sternite_III,_keel_between_metacoxae,_presence absent present;
+{ 91 Abdominal_sternite_IV,_antero-median_gland,_presence absent present_(one_median_gland);
+{ 92 Male,_tergum_IX,_development divided_into_two_plates single_plate;
+{ 93 Male,_tergum_X,_development present_as_clear_distinct_sclerite present_as_somewhat_reduced_sclerite absent;
+{ 94 Male,_aedeagus,_paired_parameres,_presence present absent;
+{ 95 Male,_aedeagus,_paired_parameres,_development long,_fully_developed short,_reduced;
+{ 96 Female,_tergum_IX,_development divided_into_two_plates single_plate;
+{ 97 Female,_sternum_IX,_development consisting_of_two_pairs_of_gonocoxites consisting_of_one_pair_of_gonocoxites as_a_single_sclerite_not_divided_into_gonocoxites;
+{ 98 Female,_tergum_X,_development present_as_clear_distinct_sclerite present_as_somewhat_reduced_sclerite absent;
+;
+
+
+ccode  - 0.98;
+
+
+;

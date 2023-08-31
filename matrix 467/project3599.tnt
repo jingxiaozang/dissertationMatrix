@@ -1,0 +1,200 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 13.23.53'
+128 54
+
+&[num]
+Promitobates_ornatus_0054             11000--11111100110110-----10---01--1022-100011210101041001111201110001001000-----0-000-00-00003001100-0-?10002110000??1011000010
+Roeweria_virescens_0081               32010--00-111100101111100111021012-1012-102010110101011011100201111000-00000-----0-000-012003020010-0-0-?10013010000??0?00???010
+Mischonyx_bresslaui_3363              0000100111011001111010100011011101110111111110110101020-11011010111011100111101301001120113130001010101111110000---1100111101101
+Mischonyx_bresslaui_2120              0000100111011001111010100011011101110111111110110101020-11011010111011000111101301001120113130001010101111110000---1100111101101
+Mischonyx_bresslaui_2809              0000100111011001111010100011011101110111111110110101020-11011010111011000111101301001120113130001010101111110000---1100111101101
+Mischonyx_bresslaui_2151              0000100111011001111010100011011101110111111110110101020-11011010111011000111101301001120113130001010101111110000---1100111101101
+Mischonyx_anomalus_2953               00001001110111011110101011110111111101101110102101010210111010101110111001111014-11011201131200010111011011021010001100111111101
+Mischonyx_anomalus_0122               00001001110111011110101011110111111101101110102101010210111010101110111001111014-11011201131200010111011011021010001100111111101
+Mischonyx_clavifemur_0845             0?001001110111011110111011110111111101101110102101010011111010101110111001111014-11011201131200010111011121012010001111111111001
+Piassagera_brieni_0141                441111001001200111111110011100201021000-010011210101140-00------010000--1000-----0-000-00-0000200110??1111201001000???1011101000
+Pseudotroglus_telluris_2118           440010101001111011111000211112011211000-11201211111110100130012-?10001021000-----0-000-00-00001101111011112012010001101011100100
+Ampheres_leucopheus_0377              320110111101200001101111211101211111012-1010102101010410112000011100110210110114-10111301030412001111011112010010001111011101100
+Gonyleptes_antiquus_3707              000011011100--00100-1000110101111111010-101011210111110-111010101110110100010113112110-01200412001101011111013010001101011101101
+Sodreana_sodreana_0056                231112100-01110100100-----0102110211002-0---10010101010-2120110010-?10--00011104-11000-01110103010110-11112012010000??1111101100
+Heliella_singularis_1837              130011101101210010101001011101111111012-102012111111140-0130012-?10001001000-----10000-00-000020??0?????????????????????????????
+Gonyleptes_horridus_0103              21000-101101100000101110011102111211010-102010110101020-212011000111111100011101-12110-11030210001111111112012110001111111000100
+Multumbo_terrenus_2136                0?0011111101110111101000211111111111010-112012212121220-0130002-010000--0000-----10010-01-00001110111011112010011011111111011001
+Multumbo_dimorphicus_0069             0?00111111011001111010002111121112110110112012212121220-1110101-1100110100110122-10011101130001100111011112010010011111011011101
+Deltaspidium_tenue                    3211101111012000111110110111002010-1012-100010210111141011000201?11010-110110114-100112110400120????????????????????????????????
+Deltaspidium_orguense_0520            321110111101200111101011011100211011012-100012210111100-11000201?11011021010-----10011301040012001101011111010110011101111011101
+Deltaspidium_asperum_2201             3211100111012000001010112111021012-1012-102010210101040-111100011100111210111204-10111301040412001101011111010110111101111111101
+Mischonyx_squalidus_0085              0000100111011001011010100111011111110110111111111111110-110110100110110100010021-10011201230110100101111111111010001101011111101
+Mischonyx_parvus_3621A                0000110111011101111010101011011111110110111110110111120-111010101110110201011104-10011001131300010100-10011110110001110111111101
+Mischonyx_proletariae_2361            0000110111011001011010100011111101110110111110010101030-111011100110110101111213010010-01230310101100-11111110110001111111001101
+Mischonyx_bresslaui_0111              0000100111011001111010100011011101110111111110110101020-11011010111011000111101301001120113130001010101111110000---1100111101101
+Mischonyx_poeta_3650A                 0000110111011001001010100011011101110110111010110101020-111100101110110001010110-12010-01230100000101110111112010001101011001101
+Mischonyx_processigerus_3648          0000100112011001111010000111001100110010110110110111120-111010101110110101011103012010-01230310001111011121012010001101011001101
+Mischonyx_arlei                       0?0010011101200111101010211110011001012-102010010111020-110002100110111101112114-10111201200110010111011111110010001100111100001
+Mischonyx_minimus_3649                000011011101100111101000211110010001022-102010011111020-11000211011011010001-114-10011201201210000111011111111110101100111111101
+Mischonyx_intervalensis_0099          0000110111011101111010100111011111110110112010110101120-111110100110110101111213010011101121310000111011111112110001101011111101
+Mischonyx_insulanus_1455              0000110111011001111010000111011111110110111010110111130-111010100100110001110011-11011201101300001111111112010010001101011101101
+Mischonyx_insulanus_2345              0000110111011101111010100011011111110110111110110111130-111110100100110000110311-12010-01210100001101011111010010001111011111001
+Mischonyx_kaisara_3575                0000100111011001011010100111111111010110111110110111110-11110010011010-101010120-100112011213100????????????????????????????????
+Mischonyx_insulanus_3066              0000110111011001111010000111011111110110111010110111130-111010100100110001110011-11011201101300001111111112010010001101011101101
+Mischonyx_intermedius_4116A           000011001101100101101000011102210221020-102010010111120-110002100110110100011011-11100-01200402000101011111012010001101111101101
+Mischonyx_fidelis_4115A               0000110111011001111010000111011101110110111110010101010-111110000100110101111001-11110-01230200010101010012010110001110111111001
+Mischonyx_scaber                      0000110111011001011010100111011111110110111110110101000?111100000110110101010011-11110-012301000????????????????????????????????
+Mischonyx_anomalus_0693               00001001110111011110101011110111111101101110102101010210111010101110111001111014-11011201131200010110011011021010001100111111101
+Mischonyx_clavifemur_0079             0?001001110111011110111011110111111101101110102101010011111010101110111001111014-11011201131200010111011121012010001111111111001
+Mischonyx_reitzi_0672                 0000110111011101111110101111011111110110111010210101010-111110100110111201111113010010-0113120001011????????????????????????????
+Gonyleptes_antiquus_3708              000011011100--00100-1000110101111111010-101011210111110-111010101110110100010113112110-01200412001101011111013010001101011101101
+Mischonyx_squalidus_2026              0000100111011001011010100111011111110110111111111111110-110110100110110100010021-10011201230110100101111111111010001101011111101
+Mischonyx_fidelis_4115B               0000110111011001111010000111011101110110111110010101010-111110000100110101111001-11110-01230200010101010012010110001110111111001
+Mischonyx_intermedius_4116B           000011001101100101101000011102210221020-102010011111120-110002100110110100011011-11100-01200402000101011111012010001101111101101
+Mischonyx_intermedius_4117A           000011001101100101101000011102210221020-102010011111120-110002100110110100011011-11100-01200402000101011111012010001101111101101
+Mischonyx_insulanus_0143              0000110111011101111010100011011111110110111110110111130-111110100100110000110311-12010-01210100001101011111010010001111011111001
+Mischonyx_insulanus_1374              0000110111011101111010100011011111110110111110110111130-111110100100110000110311-12010-01210100001101011111010010001111011111001
+Mischonyx_parvus_3621B                0000110111011101111010101011011111110110111110110111120-111010101110110201011104-10011001131300010101010011110110001110111111101
+Mischonyx_parvus_3651A                0000110111011101111010101011011111110110111110110111120-111010101110110201011104-10011001131300010101010011110110001110111111101
+Mischonyx_poeta_3650B                 0000110111011001001010100011011101110110111010110101020-111100101110110001010110-12010-01230100000101110111112010001101011001101
+Mischonyx_processigerus_0463          0000100112011001111010000111001100110010110110110111120-111010101110110101011103012010-01230310001111011121012010001101011001101
+Mischonyx_intervalensis_3709          0000110111011101111010100111011111110110112010110101120-111110100110110101111213010011101121310000111011111112110001101011111101
+Mischonyx_bresslaui_3375              0000100111011001111010100011011101110111111110110101020-11011010111011000111101301001120113130001010101111110000---1100111101101
+Mischonyx_anomalus_1638               00001001110111011110101011110111111101101110102101010210111010101110111001111014-11011201131200010111011011021010001100111111101
+
+;
+
+
+cnames
+{ 0 Dorsal_scutum,_shape_(males) Gamma_R Gamma_P Gamma Gamma_T Non-Gamma;
+{ 1 Dorsal_scutum,_shape_(females) Alfa Gamma Gamma_T Gamma_P Non-Gamma;
+{ 2 Pedipalp,_length Short_(shorter_than_the_dorsal_scutum) Long_(longer_than_the_dorsal_scutum);
+{ 3 Pedipalp,_tibia_e_tarsus,_expasion Same_thickness_of_the_femur Clearly_more_expanded_than_the_femur;
+{ 4 Dorsal_scutum,_anterior_margin,_lateral_tubercles_(Mendes,_2011) Absence Presence;
+{ 5 Dorsal_scutum,_anterior_margin,_lateral_tubercles,_number 3_in_each_lateral 2_in_each_lateral 4_or_more_in_each_lateral;
+{ 6 Dorsal_scutum,_anterior_margin,_lateral_tubercles,_size All_with_the_same_size One_of_the_tubercles_clarly_more_developed_than_the_others;
+{ 7 Dorsal_scutum,_frontal_hump,_elevation Low Elevated;
+{ 8 Dorsal_scutum,_frontal_hump,_tubercles Absence Presence;
+{ 9 Dorsal_scutum,_frontal_hump,_tubercles,_number 1_(single_armation) 2_(one_pair) 4_(2_pairs);
+{ 10 Dorsal_scutum,_number_of_areas 3 4;
+{ 11 Dorsal_scutum,_ocularium,_median_armature Absence Presence;
+{ 12 Dorsal_scutum,_ocularium,_median_armature,_number 1 2_(one_pair) 3_pares;
+{ 13 Dorsal_scutum,_ocularium,_median_armature,_size Tubercle_(smaller_than_the_occularium"s_height) Spine_(bigger_than_the_occularium"s_height);
+{ 14 Dorsal_scutum,_ocularium,_median_armature,_merge Not_merged Apex_merged;
+{ 15 Dorsal_scutum,_ocularium,_anterior_granulation Absence Presence;
+{ 16 Dorsal_scutum,_ocularium,_posterior_granulation Absence Presence;
+{ 17 Dorsal_scutum,_prosoma,_lateral_granulation Absence Presence;
+{ 18 Dorsal_scutum,_prosoma,_posterior_armature Absence Presence;
+{ 19 Dorsal_scutum,_prosoma,_posterior_armature_-_2 Pair_of_tubercles Several_tubercles;
+{ 20 Dorsal_scutum,_mid-bulge,_lateral_margin,_armature Absence Presence;
+{ 21 Dorsal_scutum,_mid-bulge,_lateral_margin,_distribution Presence_in_the_whole_extension Presence_on_the_posterior_half_only;
+{ 22 Dorsal_scutum,_mid-bulge,_lateral_margin,_armature,_size Big_tubercles Small_tubercles;
+{ 23 Dorsal_scutum,_mid-bulge,_lateral_margin,_armature,_shape Rounded Pointed;
+{ 24 Dorsal_scutum,_mid-bulge,_lateral_margin,_armature,_colour_(in_alcohol) Clearer_than_the_rest_of_the_body Darked_than_the_rest_of_the_body Same_colour_of_the_rest_of_the_body;
+{ 25 Dorsal_scutum,_mid-bulge,_lateral_margin,_posterior_armature,_merge Merged,_forming_bigger_tubercles Not_merged;
+{ 26 Dorsal_scutum,_area_I,_longitudinal_groove Absence Presence;
+{ 27 Dorsal_scutum,_area_I,_paired_median_armature Absence Presence;
+{ 28 Dorsal_scutum,_area_I,_paired_median_armature,_size Small_tubercles Conspicuous_tubercles;
+{ 29 Dorsal_scutum,_area_I,_paired_median_armature,_colour_(in_alcohol) Clearer_than_the_rest_of_the_body Darker_than_the_rest_of_the_body Same_colour_of_the_rest_of_the_body;
+{ 30 Dorsal_scutum,_area_I,_paired_median_armature,_length_in_comparison_to_median_armatures_of_area_III Larger_than_the_median_armatures_from_area_III Smaller_than_the_median_armatures_from_area_III Same_size_of_the_median_armatures_from_area_III;
+{ 31 Dorsal_scutum,_area_II,_paired_median_armature Absence Presence;
+{ 32 Dorsal_scutum,_area_II,_other_armatures Absence Presence;
+{ 33 Dorsal_scutum,_area_II,_armatures,_colour_(in_alcohol) Clearer_than_the_rest_of_the_body Darker_than_the_rest_of_the_body Same_colour_of_the_rest_of_the_body;
+{ 34 Dorsal_scutum,_area_II,_paired_median_armature,_size_in_comparison_median_armatures_of_other_dorsal_scutum_areas Bigger_than_the_median_armatures_from_other_areas Smaller_than_the_median_armatures_from_other_areas Same_size_of_the_median_armatures_from_other_areas;
+{ 35 Dorsal_scutum,_area_III,_armature Absence Presence;
+{ 36 Dorsal_scutum,_area_III,_median_armature,_number 2_(one_pair) 1_(single_armature);
+{ 37 Dorsal_scutum,_area_III,_paired_median_armature,_colour_(in_alcohol) Clearer_than_the_rest_of_the_body Darker_than_the_rest_of_the_body Same_colour_of_the_rest_of_the_body;
+{ 38 Dorsal_scutum,_area_III,_paired_median_armature,_form Rounded Elipse Sharp;
+{ 39 Dorsal_scutum,_area_III,_elliptic_paired_median_armature Slightly_compressed_laterally Strongly_compressed_laterally;
+{ 40 Dorsal_scutum,_area_III,_lateral_tubercles Absence Presence;
+{ 41 Dorsal_scutum,_area_III,_other_armature,_size Small_tubercles Well-developed_tubercles;
+{ 42 Dorsal_scutum,_area_III,_other_armature,_colour_(in_alcohol) Clearer_than_the_rest_of_the_body Darker_than_the_rest_of_the_body Same_colour_of_the_rest_of_the_body;
+{ 43 Dorsal_scutum,_area_III,_other_armature,_form Rounded Elipse;
+{ 44 Dorsal_scutum,_posterior_margin,_armature Absence Presence;
+{ 45 Dorsal_scutum,_posterior_margin,_armature,_size Small_tubercles Presence_of_central_tubercle_more_developed_or_apophysis All_tubercles_well-developed;
+{ 46 Dorsal_scutum,_granulation,_density_(DaSilva_&_Pinto-da-Rocha,_2010) Low_(scattered_granules,_some_regions_of_dorsal_scute_smooth) Median_(granules_scattered_throughout_dorsal_scute) High;
+{ 47 Free_tergite_I,_armature Absence Presence;
+{ 48 Free_tergite_I,_armature,_size Small_tubercles Presence_of_central_tubercle_more_developed_or_apophysis All_tubercles_well-developed;
+{ 49 Free_tergite_II,_armature Absence Presence;
+{ 50 Free_tergite_II,_armature,_size Small_tubercles Presence_of_central_tubercle_more_developed_or_apophysis All_tubercles_well-developed;
+{ 51 Free_tergite_III,_armature Absence Presence;
+{ 52 Free_tergite_III,_armature,_size Small_tubercles Presence_of_central_tubercle_more_developed_or_apophysis All_tubercles_well-developed;
+{ 53 Leg_II,_basitarsus,_segmentation,_number 6 7 8 9 10_or_more;
+{ 54 Leg_III,_trochanter,_armature Absence Presence;
+{ 55 Leg_III,_trochanter,_armature_-_2 Trochanter_with_many_tubercles Prolateral_basal_aphphysis;
+{ 56 Leg_IV,_coxa,_apical_width_of_males_in_ventral_view_(compared_to_coxa_III) Coxa_III_and_IV_with_the_same_width Coxa_IV_2_times_larger_than_coxa_III Coxa_IV_4_times_larger_than_coxa_III;
+{ 57 Leg_IV,_coxa,_apical_prolateral_apophysis_on_males Absence Presence;
+{ 58 Leg_IV,_coxa,_apical_prolateral_apophysis,_length_(compared_to_trochanter_IV) Shorter_than_trochanter_IV Similiar_size_of_trochanter_IV Longer_than_trochanter_IV Tubérculo;
+{ 59 Leg_IV,_coxa,_apical_prolateral_apophysis,_basal_tubercle Absence Presence;
+{ 60 Leg_IV,_coxa,_apical_prolateral_apophysis,_secondary_subdistal_lobe Absence Presence;
+{ 61 Leg_IV,_coxa,_apical_prolateral_apophysis,_direction_in_dorsal_view Slightly_inclined_relative_to_the_axis_of_the_base__of_coxa_IV Transversal Oblique;
+{ 62 Leg_IV,_coxa,_apical_prolateral_apophysis,_apex_width Base_more_than_4_times_larger_than_the_apex Base_2_times_larger_than_the_apex Base_as_large_as_the_apex;
+{ 63 Leg_IV,_coxa,_apical_prolateral_apophysis,_thickness Robust Sharp;
+{ 64 Leg_IV,_coxa,_apical_prolateral_apophysis_in_females Absence Smaller_than_the_male"s;
+{ 65 Leg_IV,_coxa,_apical_retrolateral_apophysis Absence Presence;
+{ 66 Leg_IV,_coxa,_apical_retrolateral_apophysis,_size Tubercle Apophysis;
+{ 67 Leg_IV,_coxa,_apical_retrolateral_apophysis,_number_of_branches 1 2;
+{ 68 Leg_IV,_trochanter,_prolateral_armature Absence Presence;
+{ 69 Leg_IV,_trochanter,_retrolateral_apical_armature Absence Presence;
+{ 70 Leg_IV,_trochanter,_retrolateral_apical_armature,_size Tubercle Apophysis;
+{ 71 Leg_IV,_trochanter,_retrolateral_armature,_number One Two Three_or_more_(forming_a_line);
+{ 72 Leg_IV,_femur,_thickness Short_and_robust Long_and_thin;
+{ 73 Leg_IV,_femur,_prolateral_curvature Straight_(not_curved) Curved;
+{ 74 Leg_IV,_femur,_retrolateral_basal_apophysis Absence Presence;
+{ 75 Leg_IV,_femur,_dorso-basal_apophysis_(DBA) Absence Presence;
+{ 76 Leg_IV,_femur,_dorso-basal_apophysis,_size Small Big_(longer_than_larger) Tubercle;
+{ 77 Leg_IV,_femur,_dorso-basal_apophysis,_apex_direction Apex_anteriorly_directed Apex_dorsally_directed Apex_retrolaterally_directed Apex_prolaterally_directed;
+{ 78 Leg_IV,_femur,_dorso-basal_apophysis,_apex_width Base_more_than_4_times_larger_than_the_apex Base_2_times_larger_than_the_apex Base_as_large_as_the_apex;
+{ 79 Leg_IV,_femur,_dorso-basal_apophysis,_shape Digitiform Falciform Blunt Ramificada Conic;
+{ 80 Leg_IV,_femur,_branched_dorso-basal_apophysis,_bigger_branch Retrolateral Dorsal;
+{ 81 Leg_IV,_femur,_prolateral_line_of_tubercles Absence Presence;
+{ 82 Leg_IV,_femur,_prolateral_line_of_tubercles,_development Equally_developed Medians_bigger Apical_bigger;
+{ 83 Leg_IV,_femur,_prolateral_line_of_tubercles,_single_apical_apophysis Absence Presence;
+{ 84 Leg_IV,_femur,_dorsal_line_of_tubercles Absence_(dorsally_smooth) Presence;
+{ 85 Leg_IV,_femur,_dorsal_line_of_tubercles,_apophysis_after_DBA Absence Presence;
+{ 86 Leg_IV,_femur,_dorsal_line_of_tubercles,_apophysis_after_DBA,_number 1 2 3_-_6 More_than_6;
+{ 87 Leg_IV,_femur,_line_of_tubercles_between_the_dorsal_and_retrolateral_lines Absence Presence;
+{ 88 Leg_IV,_femur,_retrolateral_line_of_tubercles Absence Presence;
+{ 89 Leg_IV,_femur,_retrolateral_line_of_tubercles,_position_of_the_bigger_apophysis Basal_third Medial_third Apical_Third;
+{ 90 Leg_IV,_femur,_retrolateral_line_of_tubercles,_number_of_apophysis_on_the_basal_half 0_(absence_of_apophysis_on_the_basal_half) 1_(one) 2_(two) 3_-_6 More_than_6;
+{ 91 Leg_IV,_femur,_retrolateral_line_of_tubercles,_median_apophysis Absence Presence;
+{ 92 Leg_IV,_femur,_retrolateral_line_of_tubercles,_number_of_apophysis_on_the_apical_half 0_(absence_of_apophysis_on_the_apical_half) 1_(one) 2_(two) 3_-_6 More_than_6;
+{ 93 Leg_IV,_femur,_retrolateral_line_of_tubercles,_more_developed_apical_tubercle Absence Presença;
+{ 94 General_body_color_(in_ethanol) Brownish Black Yellowish Avermelhado;
+{ 95 Body_totally_or_partially_covered_with_sediment Absence Presence;
+{ 96 Penis,_ventral_plate,_form_in_lateral_view Globose Thin;
+{ 97 Penis,_ventral_plate,_form Longer_than_larger_(thin) Larger_than_longer_(developed_lateral_expansions);
+{ 98 Penis,_ventral_plate,_ventral_side,_T1_microsetae Absence Presence;
+{ 99 Penis,_ventral_plate,_ventral_side,_T1_microsetae,_distribution Sparse_or_present_in_regions Presence_in_the_whole_extension;
+{ 100 Penis,_ventral_plate,_ventral_side,_medio-apical_excavation Absence_of_excavation Presence_of_excavation;
+{ 101 Penis,_ventral_plate,_ventral_side,_degree_of__the_medio-apical_excavation Slightly_excavated Very_excavated;
+{ 102 Penis,_ventral_plate,_apical_cleft Absence Presence;
+{ 103 Penis,_ventral_plate,_apical_cleft,_depth Shallow_(in_dorsal_view,_gets_at_most_until_the_line_of_the_first_MC) Deep_(in_dorsal_view_it_gets_more_basal_than_the_MC);
+{ 104 Penis,_ventral_plate,_apical_groove,_format Edges_a_little_sloped Edges_very_sloped;
+{ 105 Penis,_ventral_plate,_Macrosetae_C_(MC),_number 2 3 4;
+{ 106 Penis,_ventral_plate,_Macrosetae_C_(MC),_format Straight Helicoidal Curve;
+{ 107 Penis,_ventral_plate,_Macrosetae_C_(MC),_position Distal Sub-distal;
+{ 108 Penis,_ventral_plate,_Macrosetae_A_(MA),_number 2 3 4;
+{ 109 Penis,_ventral_plate,_Macrosetae_A_(MA),_position_on_the_ventral_plate Linear_in_dorso-ventral_direction Triangled_shaped Parable_shaped Linear_in_baso-apical_direction;
+{ 110 Penis,_ventral_plate,_Macrosetae_B_(MB),_size Small_(clearly_smaller_than_the_MA) Big_(same_size_of_the_MA);
+{ 111 Penis,_ventral_plate,_Macrosetae_D_(MD) Absence Presence;
+{ 112 Penis,_ventral_plate,_Macrosetae_D_(MD),_number One Two Three;
+{ 113 Penis,_ventral_plate,_Macrosetae_D_(MD),_size Small Big;
+{ 114 Penis,_ventral_plate,_Macrosetae_D_(MD),_position_in_lateral_view Ventral_to_the_MC Dorsal_to_the_MC;
+{ 115 Penis,_ventral_plate,_Macrosetae_E_(ME) Absence Presence;
+{ 116 Penis,_ventral_plate,_Macrosetae_E_(ME),_number 1 2;
+{ 117 Penis,_ventral_plate,_Macrosetae_E_(ME),_position_of_the_most_basal_ME Ventral_and_alingned_to_the_MC Ventral_and_medial_to_the_MC;
+{ 118 Penis,_ventral_plate,_well-developed_lateral_lobes Absence Presence;
+{ 119 Penis,_ventral_plate,_lateral_lobes,_position Medial Basal;
+{ 120 Penis,_ventral_process Absence Presence;
+{ 121 Penis,_ventral_process,_flabelum Absence Presence;
+{ 122 Penis,_ventral_process,_flabelum,_format As_long_as_large Longer_than_larger_(thin);
+{ 123 Penis,_ventral_process,_flabelum,_lateral_parts Serrated,_with_the_apex_of_the_processes_pointed_to_the_penis_base Smooth;
+{ 124 Penis,_ventral_process,_flabelum,_apex Without_a_longer_central_terminal With_a_longer_central_terminal;
+{ 125 Penis,_stylus,_apex,_microsetae Absence Presence;
+{ 126 Penis,_stulus,_apex,_format Inclined_relative_to_the_penis_axis,_keeled State_1;
+{ 127 Penis,_stylus,_apex,_keel Absence Presence;
+;
+
+
+ccode  - 0.127;
+
+
+;
