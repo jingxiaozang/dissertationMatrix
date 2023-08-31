@@ -1,0 +1,103 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 13.37.21'
+45 40
+
+&[num]
+Actinostrobus                       20010100020000102?000100020011111112110111101
+Amentotaxus                         0101?100010010????000100??0100100?1??0000000-
+Athrotaxis                          000111000?0021000?010000000000110102111100000
+Austrocedrus                        1001110-020110100?0001000110?01101111?0????03
+Calocedrus_muelleri                 200101000200001021000100020011111112110111101
+Calocedrus_decurrens                11012101020100101?001001111000110111100000103
+Calocedrus_macrolepis               11012101020100101?0000000110?01101101??????03
+Chamaecyparis_lawsoniana            1101110002010010010000001110?0110112100?00100
+Chamaecyparis_nootkatensis          1101210-020100101?1010001110?01101121??????11
+Chamaecyparis_obtusa                11011100020100100?000000111000110112100000100
+Cryptomeria_japonica                0001210000000100000000001001?0110112100000100
+Cunninghamia_lanceolata             000100001100100000000000110100110102100000100
+Cupressus_arizonica                 1001010102?000102?10110002101011011210?????10
+Cupressus_sempervirens              100101010200001021101100021010110112101101110
+Diselma                             10012101020020100?0010001000?01101111?0????03
+Fitzroya                            20012101021000100?00110001001011011?1?01?1101
+Fokienia                            11012100020100100?0000001100?01101111??????00
+Glyptostrobus                       001111000?01000130000000010100110111100000100
+Juniperus_conferta                  2001?1010100201021101100121010110110100000113
+Juniperus_drupacea                  2001?101010020102?1010001210101101101??????13
+Juniperus_procera                   10012101020000102?1011001210?011011?100?00113
+Libocedrus_plumosa                  11011100020100100?0001000200?01101101??????03
+Libocedrus_yateensis                11011100020100100?0001000200?01101101??????03
+Metasequoia                         10112100110010013?010010100100110102100?00100
+Microbiota                          11012101020000101?001?0002?0?01101101??????03
+Neocallitropsis                     30000000000002200?0000010100?01101121??????00
+Papuacedrus                         11010100020100100?0001000110?01101111??????03
+Picea                               0001?10113000110000001000-0000000001000100000
+Pilgerodendron                      10011100021020100?0000000100?011011?1??????03
+Platycladus                         110121010?0100102?00100012100011011?100000102
+Sequoia                             00012100??00000130000000010100111102111200100
+Sequoiadendron                      00011110020000000?000000010100010112111000110
+Taiwania_cryptomerioides            00010100120001000?010001110100110111101000100
+Taxodium_distichum                  0011210001000001300000000001?0110111100000100
+Tetraclinis                         30010100020100102?00110002101011011?110000103
+Thuja_occidentalis                  11012110020100100?00100011100011011?1??0???00
+Thuja_standishii                    11012110020100100?0001001110?011011?100?00000
+Thuja_plicata                       11012110020100100?0001000110?011011?1??????00
+Thujopsis                           11012110?20100100?000000101000110112100000112
+Widdringtonia                       ?00101000200001011001000000010111112110??1102
+
+;
+
+
+cnames
+{ 0 Phyllotaxis helical opposite_and_decussate ternate whorls_of_4;
+{ 1 Branching_pattern axillary_branchlets_arising_on_all_sides_of_the_stem branchlets_restricted_to_one_plane;
+{ 2 Determinate_short_shoots_seasonally_deciduous absent present;
+{ 3 Vertical_parenchyma_in_the_wood absent present;
+{ 4 Transverse_walls_of_vertical_parenchyma smooth with_small_nodules with_large_nodules;
+{ 5 Arrangement_of_bordered_pits_in_the_early_wood_tracheids alternate_and_multiseriate uniseriate;
+{ 6 Torus_on_the_membrane_of_intertracheal_pits present absent;
+{ 7 Pitting_of_the_tangential_walls_of_ray_parenchyma one_large_pit_occupying_most_or_all_of_the_wall several_small_pits_separated_by_thick_wall,_giving_appearance_of_distinct_‘‘nodules’’_of_thickening;
+{ 8 Ray_tracheids absent present;
+{ 9 Form_of_adult_leaves falcate_in_profile_and_tetragonal_in_cross_section linear_to_lanceolate_and_bifacially_flattened scale-like State_3;
+{ 10 Seedling_phyllotaxis whorled opposite helical;
+{ 11 Mature_foliage_leaves monomorphic dimorphic;
+{ 12 Stomatal_distribution_on_adult_leaves amphistomatic hypostomatic epistomatic;
+{ 13 Distribution_of_transfusion_tracheids_in_leaves separate_strands_lateral_to_vascular_bundle continuous_band_across_the_adaxial_side_of_the_xylem_strand surrounding_the_vascular_bundle;
+{ 14 Form_of_transfusion_tracheids large_cells_with_many_pits small_cells_with_few_pits large_cells_with_few_pits;
+{ 15 Thickening_of_walls_of_transfusion_tracheids evenly_thickened walls_bearing_prominent_ribs_of_lignification;
+{ 16 Pits_on_transfusion_tracheids circular_bordered barred trabeculate large_irregular_pits_with_narrow_border;
+{ 17 Development_of_xylem_in_the_leaf_trace acropetal basipetal;
+{ 18 Tropolones_in_wood_extractives absent present;
+{ 19 Accumulation_of_2-3dihydroamentoflavone_in_adult_leaves absent present;
+{ 20 Accumulation_of_cupressuflavone_derivatives_in_adult_leaves absent present;
+{ 21 Accumulation_of_hinokiflavone_derivatives_in_adult_leaves absent present;
+{ 22 Accumulation_of_2-3_dihydrohinokiflavone_in_adult_leaves absent present;
+{ 23 Accumulation_of_taiwaniaflavone_derivatives_in_adult_leaves absent present;
+{ 24 Accumulation_of_robustaflavone_derivatives_in_adult_leaves absent present;
+{ 25 Methylation_pattern_in_leaf_biflavone_fraction di-_and_trimethyl_ethers_conspicuous monomethyl_ethers_and_parental_compounds_as_major_constituents,_dimethyl_ethers_as_minor_constituents_only parental_compounds_as_major_constituents,_methyl_ethers_present_as_minor_constituents_or_absent;
+{ 26 Accumulation_of_nootkatin_in_the_heart_wood absent present;
+{ 27 Germination_of_pollen_grains without_papilla with_papilla;
+{ 28 Number_of_nuclei_within_pollen_grain_at_pollination binucleate_or_multinucleate uninucleate;
+{ 29 Layer_of_peripheral_cells_in_megagametophyte absent present;
+{ 30 Thickness_of_megaspore_membrane prominently_thickened not_distinctly_thickened;
+{ 31 Complexing_of_archegonia archegonia_separated_by_at_least_one_layer_of_sterile_tissue_of_the_prothallus two_or_more_archegonia_in_direct_contact,_usually_enclosed_within_a_common_jacket_layer;
+{ 32 Tiered_arrangement_of_proembryo_cells proembryo_differentiated_into_three_or_four_distinct_tiers_of_cells,_including_upper,_suspensor_and_embryo_tiers proembryo_nontiered;
+{ 33 Fusion_between_seed_scale_complex_and_subtending_bract free partially_fused completely_fused;
+{ 34 Orientation_of_ovules inverted erect;
+{ 35 Number_of_ovules_per_cone_scale one two more_than_two;
+{ 36 Base_chromosome_number 11 12;
+{ 37 Archegonial_position_within_female_gametophyte all_apical apical_and/or_lateral;
+{ 38 Archegonial_jacket_layer clearly_differentiated not_clearly_differentiated;
+{ 39 Number_of_cells_in_the_initial_cellular_proembryo,_reflecting_the_number_of_free-nuclear_divisions eight four two;
+{ 40 Prosuspensors absent present;
+{ 41 Size_of_proembryo_relative_to_archegonium basal_in_archegonium filling_archegonium;
+{ 42 Cleavage_polyembryony absent present;
+{ 43 Seed_maturation in_the_first_year second_year_or_later;
+{ 44 Number_of_fertile_scales_in_the_female_cone 1 3 4 up_to_6 more_than_6;
+;
+
+
+ccode  - 0.44;
+
+
+;

@@ -1,0 +1,83 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 13.33.41'
+54 11
+
+&[num]
+Lissomus_spp.                    10110001001100000000??00?0?00?0?00101000?0000000020000
+Cussolenis_mutabilis             01000010000001110000??10?0?0100?00001000?0001000020000
+Pterotarsus_bimaculatus          01000011011110110100??11?0?0101000001201?11010000?0???
+Balgus_rugosus                   010010111111101101111111010011110000020111302000000100
+Balgus_obconicus                 0100101111111011021110111100111010011210?0113000000???
+Balgus_eschscholtzi              01001011111110110111111100?0111101000001?1201000121110
+Balgus_schnusei                  010011111111101112111011111011101001000101011000010021
+Balgus_tuberculosus              01001011111110110?1110111100111111000201?2101000011000
+Balgus_eganensis                 010010111111101101111011110011101100020121111000000???
+Balgus_humilis                   0100101111111011021120111100111011011201?1111010010000
+Balgus_albofasciatus             0100101111111011011101110101111000000101?12011?1001100
+
+;
+
+
+cnames
+{ 0 Subantenal_groove_on_the_head absent present;
+{ 1 Antennomeres_VI–X,_in_male serrate flabellate;
+{ 2 Exposure_of_the_larger_portion_of_the_labrum_in_relation_to_clypeus exposed hidden_under_the_clypeus_(apex_is_occasionally_visible);
+{ 3 Prosternal_chin-piece inconspicuous,_little_distinct conspicuous_and_very_distinct;
+{ 4 Pronotal_tubercles absent present;
+{ 5 Exposure_degree_of_lateral_thoracic_sclerites hidden_under_the_elytra partially_visible;
+{ 6 Tibial_dorsal_depression_where_the_tarsus_fits,_and_tibia_shape absent_and_tibia_not_expanded_and_flattened_dorsoventrally present_and_tibia_strongly_expanded_and_flattened_dorsoventrally;
+{ 7 Number_of_apical_spurs_on_protibia two zero;
+{ 8 Body_vestiture equally_distributed forming_patterns_on_the_elytra_as_well_as_on_the_pronotum;
+{ 9 Apical_tooth_on_parameres present absent;
+{ 10 Length_of_the_apical_region_of_the_median_lobe_in_relation_to_the_length_of_the_basal_region_of_the_phallobasis almost_the_same_lenght apical_region_of_the_median_lobe_at_least_twice_as_long_as_the_basal_region_of_phallobasis;
+{ 11 Sclerotization_of_ovipositor partly_weakly_sclerotized entirely_sclerotized;
+{ 12 Ratio_between_the_length_and_width_of_VIII_female_sternite about_as_wide_as_long much_longer_than_wide;
+{ 13 Sclerotization_of_bursa_copulatrix weakly_sclerotized,_with_one_or_more_small_sclerites strongly_sclerotized,_with_one_or_more_large_sclerotization_regions;
+{ 14 Shape_of_prosternal_process,_in_ventral_view high,_bifid uniformly_curved,_following_procoxa,_with_short_apex,_not_bifid;
+{ 15 Head prognathous hipognathous;
+{ 16 Eye_shape_in_lateral_view spherical_surface,_dorsal_margin_not_sinuous corrugated_surface,_dorsal_margin_sinuous;
+{ 17 Color_of_antennal_rami black yellow brown,_yellow_at_the_apex;
+{ 18 Antennal_rami_and_their_setae_in_males the_same_size_as_in_the_female significantly_longer_in_males_than_in_females;
+{ 19 Longitudinal_median_anterior_depression_of_the_head absent present;
+{ 20 Extension_of_longitudinal_median_anterior_depression_of_the_head not_extend_to_the_vertex,_which_is_replaced_by_a_thin_line continues_posteriorly_on_a_longitudinal_groove_on_the_vertex,_not_V-shaped continues_posteriorly_on_a_longitudinal_groove_on_the_vertex,_V-shaped;
+{ 21 Depth_of_longitudinal_median_anterior_depression_of_the_head very_deep_and_conspicuous weak_and_inconspicuous;
+{ 22 Projection_of_prosternal_chin-piece slightly_oblique clearly_oblique;
+{ 23 Localization_of_antennal_pocket located_mesally_in_relation_to_the_hypomeron,_following_only_apical_portion_of_the_length_of_notosternal_suture located_mesally_in_relation_to_hypomeron,_following_all_the_length_of_notosternal_suture;
+{ 24 Pronotal_tubercles_-_2 weakly_developed,_diffuse_margins well_developed,_protruding,_well_defined_margins;
+{ 25 Anterior_pronotal_tubercle absent present;
+{ 26 Posterolateral_rounded_pronotal_tubercle with_no_bioluminescent_organ with_bioluminescent_organ;
+{ 27 Short_and_oblique_carina_on_posterior_angle_of_pronotum absent present;
+{ 28 Pronotal_median_longitudinal_groove absent present;
+{ 29 Extension_of_pronotal_median_longitudinal_groove incomplete,_extends_at_most_to_the_basal_half complete,_extends_from_base_to_the_apex_or_even_closer_to_the_apex;
+{ 30 Extension_of_antennal_pocket does_not_extend_to_the_basal_region_of_prosternal_process extends_to_the_basal_region_of_prosternal_process;
+{ 31 Depth_of_antennal_pocket_next_to_the_basal_region_of_the_prosternal_process shallow very_deep;
+{ 32 Elytral_tubercles absent present;
+{ 33 Surface_of_the_scutellum not_carinate carinate;
+{ 34 Distance_between_mesocoxal_cavities greater_than_half_of_the_diameter_of_mesocoxal_cavity,_but_smaller_than_the_total_diameter_of_the_mesocoxal_cavity greater_than_the_diameter_of_mesocoxal_cavity;
+{ 35 Coloration_of_the_apical_third_of_the_elytra dark_brown_to_black light_brown_to_yellow_(specimens_with_all_black_cuticle_was_coded_as_“0”) light_brown_to_yellow_(specimens_with_all_black_cuticle_were_coded_as_“?”);
+{ 36 Large_black_band_on_the_basal_two_third_of_elytra absent present_(specimens_with_all_black_cuticle_were_coded_as_“1”) present_(specimens_with_all_black_cuticle_were_coded_as_“?”);
+{ 37 Number_of_longitudinal_nervures_on_basal_elytra zero four five;
+{ 38 Format_of_ventrite_5 triangular pentagonal;
+{ 39 Longitudinal_median_carina_of_ventrite_5 absent present;
+{ 40 Number_of_longitudinal_teeth_on_the_longitudinal_median_carina_of_ventrite_5 zero one two three four five;
+{ 41 Ventrite_5_apex_format acuminate truncate_and_without_curved_apex abruptly_truncate_and_curved_at_apex;
+{ 42 Body_vestiture_density dorsal_and_ventral_region_covered_with_few_setae,_short,_sparse dorsal_and_ventral_region_covered_with_pubescence,_moderately_dense_on_head_and_pronotum,_sparse_on_elytra Dorsal_and_ventral_region_of_the_head_and_pronotum_covered_with_moderately_dense_pubescence,_most_densely_covered_on_elytral_bands Body_entirely_covered_with_pubescence,_very_dense;
+{ 43 Ratio_of_the_prothorax’_height_in_relation_to_the_elytra’s_and_mesothorax’_height approximately_the_same prothorax’_height_clearly_shorter_than_the_elytra’s_and_mesothorax’_height;
+{ 44 Body_shape flattened_dorsoventrally subcylindrical cylindrical obconical;
+{ 45 Paramere_setae present absent;
+{ 46 Density_of_paramere_setae six_or_more_setae at_most_three_setae;
+{ 47 Constriction_on_approximately_half_the_length_of_the_paramere absent present;
+{ 48 Paramere_apex_format acuminate rounded;
+{ 49 Ratio_between_the_length_of_the_phallobasis_in_relation_to_the_length_of_paramere phallobasis_around_2.5–3_times_as_long_as_the_paramere phallobasis_approximately_1.5–2_times_as_long_as_paramere phallobasis_approximately_as_long_as_paramere;
+{ 50 Concavity_of_the_phallobasis,_in_dorsal_view limited_to_the_base_of_the_phallobasis expanded_from_the_base_to_the_apex,_reaching_the_limit_of_the_parameres;
+{ 51 Ratio_of_the_length_of_the_baculum_in_relation_to_the_lenght_of_the_coxite baculum_approximately_4–5.5_times_as_long_as_the_coxite baculum_approximately_6–6.5_times_as_long_as_coxite;
+{ 52 Degree_of_separation_between_the_baculum separated_by_approximately_the_width_of_the_baculum_itself separated_by_approximately_two_times_the_width_of_the_baculum_itself separated_by_approximately_three_times_the_width_of_the_baculum_itself;
+{ 53 Coxite_setae_in_ventral_side absent present;
+;
+
+
+ccode  - 0.53;
+
+
+;

@@ -1,0 +1,100 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 13.38.30'
+62 20
+
+&[num]
+Boreosomus_piveteaui                    01000001100?010200???0000000?0?000?0???0?000000??011001?00?0??
+Birgeria_groenlandica                   01001?01100?011200???0000000?0?00000???0??010101?010001000?00?
+Chondrosteus_acipenseroides             0100010101??011210???1000000?1010001???000010101?011101000?00?
+Peipiaosteus_pani                       0000????000?011200???1011000?101002????11?010101?000001000?10?
+Polyodon_spathula                       1111????0000011001000202100101?1?01000111011010000110000000110
+Protopsephurus_liui                     1011????0100011011?001011001?101100????11?110101?011101000?00?
+Priscosturion_longipinnis               0000????10?10112111102???110?101011????11001120??211111101?010
+Huso_huso                               010000002110001111?0121111001101010101111001131101111111111111
+Scaphirhynchus_platorhynchus            00000000311110111111021111101101112111011101131112111111111010
+Pseudoscaphirhynchus_kauffmani          00000011211011111110021111101101022111111001131113111111111010
+Pseudoscaphirhynchus_hermanni           00000011211011111110021111101101022111111001131103111111111010
+Acipenser_brevirostrum                  00001000211100111110021111001101011111111001131101111111111110
+Acipenser_stellatus                     00000011211011111110021111001101021111111001131101111111111110
+Acipenser_ruthenus                      0?000000211000111110121111001101011111011001131101111111111110
+Acipenser_fulvescens                    00001000211100111110021111001101011111111001131101111111111110
+Acipenser_oxyrinchus                    01000000211100111110021111001101021111111001131101111111111110
+Acipenser_transmontanus                 00000000211100111110021111001101021111111001131101111111111110
+Acipenser_baerii                        00000000211000111110121111001101021111111001131101111111111110
+Anchiacipenser_acanthaspis              0100001?21?100?1111??2110100?10101?????1??0?131?????11?111??0?
+Engdahlichthys_milviaegis               0100000?21?10????1????????????????????????0113???1???1???1????
+
+;
+
+
+cnames
+{ 0 Well-developed_anterior_and_posterior_divisions_of_the_fenestra_longitudinalis absent present;
+{ 1 Contact_at_midline_between_frontal_bones absent present;
+{ 2 Posterior_extent_of_parietals ending_anterior_to_posttemporals extending_posterior_to_posttemporals;
+{ 3 Stellate_bones absent present;
+{ 4 Shape_of_jugal_bone distinct_horizontal_and_vertical_arms_forming_a_?reverse-L?_shape horizontal_and_vertical_arms_not_distinct,_forming_a_triangular_shape;
+{ 5 Postorbital_bone present absent;
+{ 6 anterior_extent_of_horizontal_arm_of_jugal_bone does_not_reach_nasal_capsule undercuts_nasal_capsule;
+{ 7 Medial_process_of_jugal present absent;
+{ 8 Supraorbital_bone absent present_without_a_descending_process present_with_a_wedge-shaped_descending_process present_with_a_greatly_expanded_descending_process;
+{ 9 Median_extrascapular absent present;
+{ 10 Rostral_canal straight curves;
+{ 11 Dorsal_rostral_bone_shape elongate_and_narrow short_and_broad;
+{ 12 Spines_on_dermal_skull_bones absent present;
+{ 13 Trunk,_occipital,_supraorbital_lateral_lines meet_in_posttemporal meet_in_lateral_extrascapular;
+{ 14 Posterior_elongation_of_parasphenoid absent present;
+{ 15 Ascending_process_of_parasphenoid extends_perpendicularly extends_anteriorly extends_posteriorly;
+{ 16 Median_anterior_process_of_the_parasphenoid absent present;
+{ 17 Ventral_rostral_bones absent present;
+{ 18 Posteriormost_ventral_rostral_bone paired single;
+{ 19 Ventral_surface_of_posteriormost_ventral_rostral_bone keeled flat;
+{ 20 Surface_of_ventral_rostral_bones smooth_with_only_slight_ornamentation with_a_variable_number_of_distinct_prominences;
+{ 21 Opercle larger_than_subopercle smaller_than_subopercle absent;
+{ 22 Branchiostegals elements_grade_smoothly_in_size_and_shape_from_dorsal_to_ventral individual_elements_of_distinctly_different_shapes;
+{ 23 Branchiostegal_number greater_than_seven greater_than_one_but_fewer_than_seven one;
+{ 24 Posterior_margin_of_the_branchiostegals smooth serrated;
+{ 25 Dorsalmost_branchiostegal_pillar-like_and_laterally_concave no yes;
+{ 26 Anterior_margin_of_subopercle rounded_or_lobate with_elongate_anterior_extension;
+{ 27 Posterior_margin_of_subopercle smooth_and_rounded serrate;
+{ 28 Palatal_complex absent present;
+{ 29 Palatoquadrates without_symphysis_between_pars_autopalatina with_symphysis_between_pars_autopalatina;
+{ 30 Quadratojugal bridging_palatoquadrate_and_dermopalatine not_bridging_palatoquadrate_and_dermopalatine;
+{ 31 Premaxillae_and_maxillae present absent;
+{ 32 Ectopterygoid_and_dermopalatine separate fused;
+{ 33 Medial_dermopalatine_expansion absent slight_medial_broadening greatly_exaggerated_medial_broadening;
+{ 34 Prearticular broad small_and_thin absent;
+{ 35 Posteroventral_edge_of_hyomandibula does_not_flare flares;
+{ 36 Interhyal?posterior_ceratohyal_articulation anteriorly_positioned_on_interhyal posteriorly_positioned_on_interhyal;
+{ 37 Anterior_shelf_of_hypobranchial absent present;
+{ 38 Median_posterior_branchial_cartilage absent present;
+{ 39 Ossified_basibranchials present absent;
+{ 40 Gill_rakers with_teeth without_teeth;
+{ 41 Dorsal_head_of_hyomandibula oval_in_cross_section circular_in_cross_section;
+{ 42 ?Microctenoid?_scales absent present;
+{ 43 Anterior_abdominal_scales present absent;
+{ 44 Continuous_series_of_dorsal_scutes_extending_from_skull_to_dorsal_fin absent present;
+{ 45 Trunk_lateral_line encased_in_normal_interlocking_scales encased_in_slender_tubes encased_in_non-interlocking_scales encased_in_enlarged_scutes;
+{ 46 Ventral_scute_series absent present;
+{ 47 Ossified_supraneurals present_throughout_trunk absent_in_subdorsal_region_and_anterior_caudal_peduncle;
+{ 48 Caudal_cercus absent present;
+{ 49 Caudal_peduncle_scutes absent lateral_line,_post-dorsal_fin,_post-anal_fin lateral_line,_paired_dorsal,_paired_ventrolateral,_paired_ventromedial lateral,_paired_dorsal,_large_scutes_intercalated_between_lateral_series_and_ventral_midline_but_not_organized_in_distinct_series;
+{ 50 Dorsal_caudal_fulcra one more_than_one;
+{ 51 Ventral_caudal_fulcrum absent present;
+{ 52 Pectoral_fin_spine absent present;
+{ 53 Supracleithrum_reaching_level_of_extrascapulars absent present;
+{ 54 Medial_laminar_expansion_of_cleithrum_and_clavicle_forming_rear_of_branchial_(opercular)_chamber absent present;
+{ 55 Cardiac_shield absent present;
+{ 56 Posterior_cleithral_notch absent present;
+{ 57 Clavicle_and_cleithrum_suture absent_or_loose,_not_interdigitating present,_tight_and_interdigitating;
+{ 58 Supracleithral_cartilage absent present;
+{ 59 Round-based_scales absent present;
+{ 60 Clavicles not_sutured sutured;
+{ 61 Anterior_junction_of_clavicles convex straight_line;
+;
+
+
+ccode  - 0.61;
+
+
+;

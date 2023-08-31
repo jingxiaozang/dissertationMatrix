@@ -1,0 +1,302 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 13.35.15'
+248 36
+
+&[num]
+Varanus                         00100001100300000001000000000000003000-00010000-000000000-00000-00100010100000010000000-000000000000000000000000010000000000000-000000000000000-0000000?0000000000000000000000000000000010-000200000000001000000000000?0000000001000-0-10000001000100000
+Najash                          1?1???11110?20000?00010110010010001?10010001?10?010000101-000000000000100?1?00010010000?0??10000011110?020000001?1010111100011100001?1?00011000?01?000001????1??0011202001001?????110?00?1-1102010010?1011101?20001110011?0110111110?0001213000110000000
+Leptotyphlops                   11101110110100000011002??00002111--000211??1??1----100021---100-01??0000111112100100000-0?0200001011110100000001100011200?10?01?110111111111011?1110?0101000100000111101010-0111121100002--1002-1-000111?00010200012111001011?0001002001010111-10110??01
+Anomalepipidae                  11101110110100000011002??0000211023000211??1??1-000001021---110-0100000011111?100100000-0?0200001011100100000001100011200110001?11011111-112011?1110?010100010000011110101000111121100001--1102-11000111?0001020001211102100010001002001010?11110110?010
+Typhlops                        21101110110100000011002??00002111--000211?11??1---0101021---110-01--0000111112100100000-0?0200001011100100000001100011200?10?01?11011111-112011?1110-0111000100000111101010-0111121100001--1102-1-000111?0101020001211102100010001002001010?11-10111???1
+Dinilysia                       2?111??11100??????0?0102100000100111100100110100000000?01-00000000000010001100010110000001?100000?11100120?00001010101111000?010?101?1???????00?000000001??????000112020010011111111010001-1100010010?1011101010001110011101101111111000010210011?000000
+Sanajeh                         1??????????????????????2??????1????????10?01020????????????????????1????0?110001?11000??0???12?10????1?12?1????1??010???1?0111???001?1???????????1??????????1??????????01?0???????????????????????01??1???????????1??????????1111????1?????30??????0000?
+Wonambi                         2?111?????0?????????0??2?????1?0???110110011020011?010101?011101?0?1????0???01011110000?0011121101?111?1201?0??101010?111?01111??001?1????120????11?0???1??01???0?11202011??1101111101000?????10?-010?11101111110011???11101111111111110010?????11000?00
+Yurlunggur                      2111101??103??0?01000001?00?1110011111010??1020001?01010100111010011?0100???01011?1?000?00111211011111?12?0????1?1010111100111???001?1???????10?011001??1??0110000112020110?1101??110??001?11010?0010???10??1?1????1?00??????1111111110001040?011?000000
+Anilius                         101110000100200001001011100011111--001010?11010000001001100111110000001011110100011001000102100001101011101200111101111010101011110111111111011?01110111110001010011212001001111121111101--110001100011111100021101??10??101111001102001010201-101000000
+Cylindrophis                    111110100100100001001001100011101--011010?11010000001001100101110000001011110100010001000102101001111011101200111101111010101011110111111111011?011101111100010100112120010011111211111012-11000110001111100002?0011110121011110011020010102111101100000
+Uropeltidae                     11100???0101100?01001001100011111--001010?110?00---100011-01011-000?0010111111?00100010-010210001?111211?01200111?0111101?101011110111111111011?01110111110?010?001121??010010111211?11?1--110?0110001111000??2?001111??2101111001?02001010?1111011000?0
+Anomochilus                     111000100101100001001001100011111--001010?110000000?00011-01011-000000101111110001000100010210101?11101110120011?????????????????????1111111011?01110111110001000011211101001111121111101--11020110001111100102?0011110121011????????0?????21?-1?1100000
+Pachyrhachis                    2??11?1??10?????????00???00???10011??0?11??112???0101??11??????10111?111?20?1??????????1??????????10???120110001??0101111?001?120111?11011110???????0???1????10?001???2??1????1???1?????-?-1011??????111?0?1????111?????1?01111021?1?0?00?????1101?00000
+Haasiophis                      2?111?1??10???????0?00???00???1?0??0?1?11?01121?00101??11?11??11?111?011????1????0????11?????1?0??10???120110001010101111?10??121?11011011110???????01111???1?0?0011???101?0?1????1?????0?-1011??????111?0????2???111101?101111?2??1?0??0??300?101?00000
+Eupodophis                      2?011?1??10????????????1????????0??????1???1101???1011?11????2?101???1?1????1????????????????1????1????120110001010001111?00??0?1111111011?10???????0???1???1??????1?????????1?1??1?????????011??????1?1??????1??????1????0?11112??1001?01????1101?00000
+Xenopeltis                      200110110102200101001103100011111--00101110202000010110110011111111100100011100101000101010111000110012120120111120111101110101211010111----111?11110111110111101111211101110110?211-1110-0111111100011110101021111211112111111001102001110101-10-100000
+Loxocemus                       200110110102100101001102100011100210010111020200101011011001111111110010121011010100?10101011101111001212012011112011110111010121101011111?2011?11110111110111100111211101111111?21111100201011111100111111111211011111111011110111120010101111101100000
+Erycinae                        21011111011?1011011011012?10111???2100111??211101010?1011111121111?10011120012011100?1011??11?0?011?0101211201111201111010011012110101111122011?11110111111021100011?11101?11111?2111110??1101?012101111111011211?121101?10111001111?0010101111101100000
+Ungaliophiidae                  210110110110201101101?01201011101?2100111?021?1000101101111112?111010011120012010100010111011000111001?1211?1-211101111010011012110101111122011?111101??11?011100011211111111111121111101?01011012101111111111211112111121011110011020010101111101100000
+Boinae                          21011?11011?2011011011?1211011110111?0111122121011101?011111120111110011120012111?00?1111011120101100121211201111201111?10011012110101111122011?11110111111021101011212111111111121111110-110110121011111110112111111101210111101111?101110411?101100000
+Pythoninae                      2?011?11010020010110111121101110011100111?0212101110120111?1021111110011120012111100?101?00112?101100121211201111201111010011012110101111122011?1111011111102110101121211111111112111110021101101210111111101121111111111101111111112101110411?101100000
+Tropidophiidae                  21011111011320010100110110111111011100111?021011101010011101121111010011120012011101110111011100111001?1211201211211111110011011110101111122?11?11111111111011100011211111111111?21111110-01011011001111101111211112110121111110011020011101111101100000
+Bolyeriidae                     210110110113200101001101101011101--100111?02120010101101110112111101001112011201110001011??110001110012121120111120111111001101211010111----111?11110111111011100011211111111111?211110102010110110011111111112?1112110121?1111001102001110?11110-100000
+Acrochordidae                   21011110111310011211111200111110112110?11?021211101010011101120111111021120010??010111011101110011100101201?1-21121111111?01101211010?11----111?111111??111011100011110111001111?21111010-1101101100011010?111110?1211012111111011102001010101110-100000
+Basal_colubroides               2101101??113110112111?0???11111??1?100111?021??1101010011101020111?110211300121?110111011??1?0001110?101211-1-211211110110?1101211010111----111?111111??111011100011211111111111?2110-110?1101101100111110111021101211012111011001112?0?110111110-100000
+Coniophis                       2?1?????????????????????????????????????????0?????????????????????????????????????????????????????????????????????0001201?10?01??10?????????????????????1??0??????????????????0???????????????????????11????1?1??????????????01001001?01010?????0??0????
+Parviraptor_estesi              2?1?1??????????????????????????????????????10101????????????????????????????????????????????????????????????????????????????????????????????????????????1??0????????????????1??012??0-??????????????????????????????????????????????????????????????????
+Portugalophis_lignites          2?1?1??????????????????????????????????????10101??????????????????????????????????????????????????????????0?????????????????????????????????????????????1??00???????????????1?0012??0-1???????????????101??0??0???????????????????????????????????00????
+Diablophis_gilmorei             2?1????????????????????????????????????????1??01??????????????????????????????????????????????????????????0????????1000?0?001????10?????????????????????1??0????????????????1??012??0-????????????????101??0??0???????????????0001102?10000???????00????
+Eophis_woodwardi                ??1????????????????????????????????????????????????????????????????????????????????????????????????????1??0?????????????????????????????????????????????1?????????????????????????????????????????????101?00??0????????????????????????????????????0????
+Aff.Parviraptorestesi           ????????????????????0???????0??0???????????????????????????????????????????????????????????????????????????????????1000?0?001????10????????????????1??????????????????????????????????????????????????????????????????????????000?102???0?0?????????????
+Menarana_nosymena               ?????????????????????????????????????????????????????????????????????????????0?1??1?????0??101?????????????????????101111?0011????0??1???????????10????????????????????????????????????????????????1??????????????????????????1111110110010?????????????
+Madtsoia_camposi                ??1?1??????????????????2???????????????????10???????1?1???1?12?????????????????????????????????????????1??0??????10101111?01111??00??1??????????????????1??0???????????????????1??????????????10??????11???0?????????????????11111112?00010????????0????
+Nanowana                        2?111??????????????????2???????????????????10200????10101?00110100?1???????????????????????????????????1200????1??0101111??0111??00?????????????????0???1??02???????????????1?1111??01000?????10??????111010111?1111????1??1111111101???110?????1?00???0
+Xiaophis                        ????????????????????????????????????????????????????????????????????????????????????????????????????????????????0??1112?1?000????101?1????????????????????????????????????????????????????????????????????????????????????????101??1???1010?????0???????
+
+;
+
+
+cnames
+{ 0 Maxillary_and_dentary_teeth relatively_short_conical,_upright robust,_recurved elongate_needle-shaped,_distinctly_recurved;
+{ 1 Premaxillary_dentition present absent;
+{ 2 Alveoli_and_base_of_teeth not_expanded_transversely wider_transversely_than_anteroposteriorly;
+{ 3 Pterygoid_teeth absent present;
+{ 4 Premaxilla broadly_articulated_with_maxilla loosely_contacting_maxilla;
+{ 5 Transverse_processes_of_premaxilla curved_backwards extending_straight_laterally_or_anterolaterally;
+{ 6 Nasal_process_of_premaxilla elongate,_approaching_or_contacting_frontals short,_divide_nasals_only_at_anterior_margin_or_not_at_all;
+{ 7 Dorsal_(horizontal)_lamina_of_nasal relatively_broad_anteriorly,_with_narrow_gap_between_lateral_margin_and_vertical_flange_of_septomaxilla dorsal_lamina_of_nasal_distinctly_tapering_anteriorly,_leaving_wide_gap_between_lateral_margin_and_vertical_flange_of_septomaxilla;
+{ 8 Medial_flanges_of_nasal,_articulation_with_median_frontal_pillars present absent;
+{ 9 Anterior_margin_of_nasals restricted_to_posteromedial_margins_of_nares extend_anteriorly_toward_tip_of_rostrum;
+{ 10 Lateral_flanges_of_nasals articulate_with_anterior_margin_of_frontals separated_from_frontals;
+{ 11 Posterolateral_margin_of_nasal contacts_anteromedian_margin_of_prefrontal elements_in_contact_along_most_of_their_length contact_between_elements_with_interfingering_of_nasal_and_prefrontal_margins nasals_do_not_contact_prefrontals;
+{ 12 Septomaxilla_posterior_dorsal_process_of_lateral_vertical_flange absent short long;
+{ 13 Septomaxilla_articulation_with_median_frontal_pillars absent present;
+{ 14 Ventral_portion_of_posterior_edge_of_lateral_flange_of_septomaxilla_and_opening_of_Jacobsen’sorgan located_at_level_of_posterior_edge_or_behind distinctly_in_front;
+{ 15 Vomeronasal_cupola fenestrated_medially closed_medially_by_a_sutural_contact_of_septomaxilla_and_vomer;
+{ 16 Septomaxilla forms_lateral_margin_of_opening_of_Jacobson’s_organ vomer_extends_into_posterior_part_of_lateral_margin,_restricting_septomaxilla_to_anterolateral_part_of_lateral_margin_of_opening_of_Jacobson’s_organ;
+{ 17 Vomeronasal_nerve does_not_pierce_vomer exits_vomer_through_single_large_foramen through_cluster_of_small_foramina;
+{ 18 Posterior_ventral_(horizontal)_lamina_of_vomer long,_parallel_edged short,_tapering_to_pointed_tip;
+{ 19 Posterior_dorsal_(vertical)_lamina_of_vomer well_developed reduced_or_absent;
+{ 20 Prefrontal articulates_with_frontal_laterally anterolaterally;
+{ 21 Lateral_margin_of_prefrontal slanting_anteroventrally positioned_vertically;
+{ 22 Lacrimal_foramen_on_prefrontal not_completely_enclosed enclosed_by_prefrontal prefrontal_lacking_foramen;
+{ 23 Lateral_foot_process_of_prefrontal absent contacts_maxilla_only maxilla_and_palatine palatine_only;
+{ 24 Medial_foot_process_of_prefrontal absent present,_low present,_high;
+{ 25 Anterior/lateral_flange_of_prefrontal_covering_nasal_gland_and_roofing_auditus_conchae absent present;
+{ 26 Ventral_margin_of_lateral_surface_of_prefrontal articulates_with_dorsal_surface_of_maxilla retains_only_posterior_contact;
+{ 27 Dorsal_lamina_of_prefrontal contacts_or_forms_overlapping_contact_with_nasal_posteromedially remains_separate_from_nasal;
+{ 28 Medial_frontal_pillars absent present;
+{ 29 Transverse_horizontal_shelf_of_frontal developed_and_broadly_overlapped_by_nasals poorly_developed_and_never_broadly_overlapped_by_nasals absent;
+{ 30 Lacrimal present absent;
+{ 31 Postfrontal present absent;
+{ 32 Jugal present fused_or_absent;
+{ 33 Jugal,_ventral_tip Contact_or_approaches_prefrontal_(or_lacrimal),_forming_or_contributing_to_ventral_margin_of_orbit contacts_or_closely_approaches_ectopterygoid/maxilla,_forming_almost_complete_posterior_margin_of_orbit remains_separated_by_wide_gap_from_ectopterygoid;
+{ 34 Jugal,_dorsal_head contacts_postorbital contacts_parietal fuses_or_articulates_with_only_the_posterodorsal_surface_of_postfrontal lack_of_dorsal_contact;
+{ 35 Parietal without_lateral_wings_meeting_postorbital_bones with_lateral_wings_meeting_postorbital_bones;
+{ 36 Distinct_lateral_ridge_of_parietal extending_posteriorly_from_anterior_lateral_wing_up_to_prootic absent present;
+{ 37 Frontoparietal_suture relatively_straight frontoparietal_suture_U-shaped;
+{ 38 Optic_foramen,_posterior_margin posteriorly_located,_straight_parietal_margin ,_posteriorly_located,_concave_parietal_margin anteriorly_located,_posterior_border_within_frontal;
+{ 39 Lateral_margins_of_braincase_open_anterior_to_prootic descending_lateral_processes_of_parietal_enclose_braincase State_1;
+{ 40 Supratemporal_processes_of_parietal distinctly_developed not_distinctly_developed;
+{ 41 Parietal_enters_anterior_aspect_of_base_of_basipterygoid_process absent present;
+{ 42 Contact_between_parietal_and_supraoccipital V-shaped_with_apex_pointing_anteriorly straight_transverse_line V-shaped_with_apex_pointing_posteriorly;
+{ 43 Ascending_process_of_maxilla tall,_extending_to_dorsal_margin_of_prefrontal short absent;
+{ 44 Small_horizontal_shelf_on_medial_surface_of_anterior_end_of_maxilla present absent;
+{ 45 Posterior_end_of_maxilla does_not_project_beyond_posterior_margin_of_orbit projects_moderately_beyond_posterior_margin_of_orbit projects_distinctly_beyond_posterior_margin_of_orbit,_with_broad_flat_surface;
+{ 46 Medial_(palatine)_process_of_maxilla located_in_front_of_orbit located_below_orbit;
+{ 47 Medial_(palatine)_process_of_maxilla_-_2 pierced not_pierced;
+{ 48 Anterior_end_of_supratemporal located_behind_or_above_posterior_border_of_trigeminal_foramen anterior_to_posterior_border_of_trigeminal_foramen;
+{ 49 Supratemporal_facet_on_opisthotic-exoccipital flat sculptured_and_delineated_with_projecting_posterior_rim_that_overhangs_exoccipital;
+{ 50 Free-ending_posterior_process_of_supratemporal absent present;
+{ 51 Supratemporal present absent;
+{ 52 Anterior_dentigerous_process_of_palatine absent present;
+{ 53 Medial_(choanal)_process_of_palatine forms_extensive_concave_surface_dorsal_to_ductus_nasopharyngeus narrows_abruptly_to_form_curved_finger-like_process forms_short_horizontal_lamina_that_does_not_reach_vomer;
+{ 54 Choanal_process_of_palatine without_expanded_anterior_flange_articulating_with_vomer with_anterior_flange;
+{ 55 Pterygoid_contacts_palatine complex_and_finger-like_articulations tongue-in-groove_joint reduced_to_flap-overlap;
+{ 56 Palatine_contact_with_ectopterygoid present absent;
+{ 57 Dentigerous_process_of_palatine_contact_with_vomer_and/or_septomaxilla_posterolateral_to_opening_for_Jacobson’s_organ present absent;
+{ 58 Maxillary_process_of_palatine anterior_to_posterior_end_of_palatine at_posterior_end_of_palatine;
+{ 59 Lateral_(maxillary)_process_of_palatine_and_maxilla in_well-defined_articulation loosely_overlapping_medial_(palatine)_process_of_maxilla,_or_absent;
+{ 60 Maxillary_branch_of_trigeminal_nerve pierces_lateral_(maxillary)_process_of_palatine passes_dorsally_between_palatine_and_prefrontal;
+{ 61 Vomerine_(choanal)_process_of_palatine articulates_broadly_with_posterior_end_of_vomer meets_vomer_in_well-defined_articular_facet touches_or_abuts_vomer_without_articulation_or_remains_separated_from_vomer;
+{ 62 Internal_articulation_of_palatine_with_pterygoid short long;
+{ 63 Pterygoid_tooth_row anterior_to_basipterygoid_joint tooth_row_reaches_or_passes_level_of_basipterygoid_joint;
+{ 64 Quadrate_ramus_of_pterygoid robust,_rounded_or_triangular_in_cross-section,_but_without_groove blade-like_and_with_distinct_longitudinal_groove_for_protractor_pterygoidei;
+{ 65 Transverse_(lateral)_process_of_pterygoid forms_distinct,_well-defined_lateral_projection gently_curved_lateral_expansion_of_pterygoid,_or_absent;
+{ 66 Lateral_edge_of_ectopterygoid straight angulated_at_contact_with_maxilla;
+{ 67 Anterior_end_of_ectopterygoid restricted_to_posteromedial_edge_of_maxilla invades_dorsal_surface_of_maxilla;
+{ 68 Pterygoid_attached_to_basicranium by_strong_ligaments_at_palatobasal_articulation pterygoid_free_from_basicranium_in_dried_skulls;
+{ 69 Quadrate slender broad;
+{ 70 Quadrate_-_2 slanted_clearly_anteriorly,_posterior_tip_of_pterygoid_dislocated_anteriorly_from_mandibular_condyle_of_quadrate positioned_slight_anteriorly_or_vertically_(cephalic_condyle_positioned_behind_or_at_same_level_of_mandibular_condyle) slanted_posteriorly_(cephalic_condyle_positioned_in_front_of_mandibular_condyle);
+{ 71 Cephalic_condyle_of_quadrate elaborated_into_posteriorly_projecting_suprastapedial_process suprastapedial_process_absent_or_vestigial;
+{ 72 Stapedial_footplate broad_and_massive narrow_and_thin;
+{ 73 Stylohyal not_fused_to_quadrate fuses_to_posterior_tip_of_suprastapedial_process fusesto_ventral_aspect_of_reduced_suprastapedial_process stylohyal_fuses_to_quadrate_shaft;
+{ 74 Stapedial_shaft straight angulated;
+{ 75 Stapedial_shaft_-_2 slender_and_longer_than_diameter_of_stapedial_foot-plate thick,_and_equal_to,_or_shorter_than_diameter_of_stapedial_footplate;
+{ 76 Paroccipital_process_of_otooccipital well_developed_and_laterally_projected reduced_to_short_projection_or_absent;
+{ 77 Juxtastapedial_space_defined_by_a_crista_prootica,_crista_tuberalis_and_crista_interfenestralis absent present,_but_not_completely_enclosed_("incipient"crista_circumfenestralis) present_and_enclosed_(_fully_developed_crista_circumfenestralis);
+{ 78 Stapedial_footplate_-_2 mostly_exposed_laterally Prootic_and_otoocipital_converges_upon_stapedial_footplate;
+{ 79 Crista_interfenestralis does_not_form_individualized_component_around_the_juxtastapedial_space does_form_individualized_component_around_juxtastapedial_space;
+{ 80 Jugular_foramen exposed_in_lateral_view_by_crista_tuberalis concealed_in_lateral_view_by_crista_tuberalis;
+{ 81 Otooccipitals do_not_contact_each_other_dorsally contact_each_other_dorsally;
+{ 82 Basioccipital_posterolateral_processes short_and_narrow,_do_not_extend_toward_posterior_margin_of_occipital_condyle wider_than_condyle_and_long,_combine_with_crista_tuberalis_to_extend_to_approximate_posterior_margin_of_occipital_condyle;
+{ 83 Supraoccipital_contact_with_prootic narrow broad;
+{ 84 Prootic_exclusion_of_parietal_from_trigeminal_foramen absent present;
+{ 85 Laterosphenoid absent present;
+{ 86 Prootic_ledge_underlap_of_posterior_trigeminal_foramen absent present;
+{ 87 Prootic exposed_in_dorsal_view_medial_to_supratemporal_or_to_supratemporal_process_of_parietal fully_concealed_by_supratemporal_or_parietal_in_dorsal_view;
+{ 88 Exit_hyomandibular_branch_of_facial_nerve_inside_opening_for_mandibular_branch_of_trigeminal_nerve absent present;
+{ 89 Vidian_canal does_not_open_intracranially open_intracranially;
+{ 90 Anterior_opening_of_Vidian_canal single divided;
+{ 91 Sella_turcica bordered_posteriorly_by_well-developed_dorsum_sellae dorsum_sellae_low dorsum_sellae_not_developed,_sella_turcica_with_shallow_posterior_margin;
+{ 92 Lateral_wings_of_basisphenoid’ absent present;
+{ 93 Ventral_surface_of_basisphenoid smooth with_weakly_developed_sagittal_crest_from_which_protractor_pterygoidei_originates with_strongly_projecting_sagittal_crest;
+{ 94 Basioccipital contributes_to_ventral_margin_of_foramen_magnum basioccipital_excluded_by_medial_contact_of_otooccipitals;
+{ 95 Basisphenoid-basioccipital_suture smooth transversely_crested;
+{ 96 Basipterygoid_(basitrabecular)_processes present absent;
+{ 97 Crista_trabeculares short_and_or_indistinct elongate_and_distinct_in_lateral_view;
+{ 98 Cultriform_process_of_parabasisphenoid does_not_extend_anteriorly_to_approach_posteriormargin_of_choanae approaches_posterior_margin_of_vomer;
+{ 99 Parabasisphenoidal_rostrum_behind_optic_foramen narrow broad;
+{ 100 Parabasisphenoid_rostroventral_surface flat_or_broadly_convex concave;
+{ 101 Basioccipital_meets_parabasisphenoid suture_located_at_level_of_fenestra_ovalis located_at_or_behind_trigeminal_foramen basioccipital_and_parabasisphenoid_fused;
+{ 102 Parasphenoid_rostrum_interchoanal_process absent broad narrow;
+{ 103 Anteromedial_margin_of_dentaries symphyseal_articular_facet no_symphyseal_facet;
+{ 104 Posterior_dentigerous_process_of_dentary absent present,_short present,_long;
+{ 105 Medial_margin_of_adductor_fossa relatively_low_and_smoothly_rounded forms_distinct_dorsally_projecting_crest;
+{ 106 Mental_foramina_on_lateral_surface_of_dentary two_or_more one;
+{ 107 Coronoid_process_of_coronoid_bone high,_tapering_distally high,_with_rectangular_shape low,_not_exceeding_significantly_coronoid_process_of_compound_bone;
+{ 108 Coronoid_bone present absent;
+{ 109 Posteroventral_process_of_coronoid present absent;
+{ 110 Coronoid_process_on_lower_jaw formed_by_coronoid_bone_only or_by_coronoid_and_compound_bone or_by_compound_bone_only_(coronoid_absent);
+{ 111 Posdentary_elements presence_of_separate_elements fusion_of_surangular_/articular_intocompound_bone;
+{ 112 Chevrons present absent;
+{ 113 Hemapophyses absent present,_short present,_long;
+{ 114 Hypapophyses restricted_to_anterior-most_precloacal_vertebrae present_throughout_precloacal_skeleton;
+{ 115 Para-diapophysis confluent separated_into_dorsal_and_ventral_facet;
+{ 116 Prezygapophyseal_accessory_processes absent present;
+{ 117 Subcentral_paralymphatic_fossae_on_posterior_precloacal_vertebrae absent present;
+{ 118 Subcentral_foramina absent present,_consistently_small present,_of_variable_size;
+{ 119 Well-developed,_consistently_distributed_paracotylar_foramina absent present;
+{ 120 Ventral_margin_of_centra smooth median_prominence_from_cotyle_to_condyle;
+{ 121 Axis_intercentrum not_fused_to_anterior_region_of_axis_centrum fused;
+{ 122 Neural_spine_height well-developed_process low_ridge_or_absent;
+{ 123 Posterior_margin_of_neural_arch shallowly_concave_in_dorsal_view with_deep_V-shaped_embayment_in_dorsal_view;
+{ 124 Cotyle_shape_of_precloacal_vertebrae oval circular;
+{ 125 Parazygantral_foramen absent present;
+{ 126 Lymphapophyses absent present;
+{ 127 Lymphapophyses_-_2 three_or_fewer three_lymphapophyses_and_one_forked_rib more_than_three_lymphapophyses_and_one_forked_rib;
+{ 128 Sacral_vertebrae present absent;
+{ 129 Position_of_synapophyses_in_relation_to_lateral_edge_of_prezygapophyses at_same_level_or_slightly_more_projected_laterally clearly_medial_to_edge_of_prezygapophyses;
+{ 130 Pachyostotic_vertebrae absent present;
+{ 131 Precloacal_vertebrae_number fewer_than_100 more_than_100;
+{ 132 Caudal_vertebrae_number greater_than_50percent_of_precloacal_number approximately_10percent_or_less_than_precloacal_number;
+{ 133 Tuber_costae_absent_from_ribs ,_tuber_costae_present State_1;
+{ 134 Pectoral_girdle_and_forelimbs present absent;
+{ 135 Tibia,_fibula,_and_hind_foot present absent;
+{ 136 Trochanter_externus present absent;
+{ 137 Pelvis external_to_sacral-cloacal_ribs internal_to_sacral-cloacal_ribs;
+{ 138 Ilium_and_pubis_length ilium_longer_than_pubis ilium_and_pubis_of_same_size pubis_much_longer_than_ilium;
+{ 139 Pelvic_elements with_strongly_sutured_contact with_weak_(cartilaginous)_contact fused_together;
+{ 140 Pelvic_elements_-_2 present absent;
+{ 141 Medial_vertical_flanges_of_nasals absent present;
+{ 142 Preorbital_ridge dorsally_exposed overlapped_by_prefrontal;
+{ 143 Lateral_foot_process_of_prefrontal_-_2 articulates_with_lateral_edge_of_maxilla_via_thin_anteroposteriorly_directed_lamina articulates_with_maxilla_via_large_contact_that_runs_from_lateral_to_medial_dorsal_surface_of_maxilla;
+{ 144 Medial_finger-like_process_of_ectopterygoid_articulating_with_medial_surface_of_maxilla present absent;
+{ 145 Posterolateral_corners_of_basisphenoid strongly_ventrolaterally_projected not_projected;
+{ 146 Basioccipital_-_2 expanded_laterally_to_form_floor_of_recessusscalae_tympani excluded_from_floor_of_recessusscalae_tympani_by_otooccipital;
+{ 147 Frontal_subolfactory_process absent_or_present_as_simple_horizontal_lamina present_and_closing_tractus_olfactorius_medially;
+{ 148 Ectopterygoid_contact_with_pterygoid restricted_to_transverse_(lateral)_process_of_pterygoid contact_expanded_significantly_on_dorsal_surface_of_pterygoid_body;
+{ 149 Maxillary_process_of_palatine_-_2 main_element_bridging_contact_with_maxilla_and_palatine_inventral_view covered_ventrally_by_expanded_palatine_process_of_maxilla;
+{ 150 Coronoid_bone_contributes_to_anterior_margin_of_adductor_fossa present absent;
+{ 151 Coronoid_bone_-_2 sits_mostly_on_dorsal_and_dorsomedial_surfaces_of_compound_bone,_being_exposed_in_both_lateral_and_medial_views_of_mandible applied_to_medial_surface_of_compound_bone;
+{ 152 Teeth,_implantation interdental_ridges_absent interdental_ridges_present;
+{ 153 Teeth,_replacement replacement_teeth_lie_vertically lie_horizontally_in_jaws;
+{ 154 Teeth,_replacement_-_2 single_replacement_tooth_per_tooth_position two_or_more_replacement_teeth_per_tooth_position;
+{ 155 Teeth,_attachment ankylosed_to_jaws teeth_loosely_attached_by_connective_tissue;
+{ 156 Teeth,_size crowns_isodont_or_enlarged_at_middle_of_tooth_row crowns_large_anteriorly,and_decrease_in_size_posteriorly anterior_teeth_conspicuously_elongate,_length_of_crown_significantly_exceeds_height_of_dentary_at_midlength;
+{ 157 Premaxilla_-_2 ascending_process_transversely_expanded,_partly_roofing_external_nares ascending_process_mediolaterally_compressed,_blade-like_or_spine-like;
+{ 158 Premaxilla_-_3 premaxilla_medial_to_maxillae located_anterior_to_maxillae;
+{ 159 Prefrontal_-_2 prefrontal_socket_for_dorsal_peg_of_maxilla_absent present;
+{ 160 Prefrontal_extends_medially_across_frontal_for_more_than_75percent_of_width_of_frontal absent present;
+{ 161 Expanded_naris Weakly_developed_naris strongly_concave_anterior_margin_of_prefrontal_bordering_naris;
+{ 162 Frontal nasal_processes_of_frontal_project_between_nasals nasal_processes_absent;
+{ 163 Frontals frontals_taper_anteriorly,_distinct_interorbital_constriction frontals_broad_anteriorly,_interorbital_region_broad;
+{ 164 Frontal_-_2 subolfactory_process_abuts_prefrontal_in_immobile_articulation subolfactory_process_articulates_with_prefrontal_in_mobile_joint subolfactory_process_with_distinct_lateral_peg_or_process_that_clasped_dorsally_and_ventrally_by_prefrontal;
+{ 165 Frontals_and_parietals do_not_contact_ventrally descending_wings_of_frontals_and_parietals_contact_ventrally_to_enclose_optic_foramen;
+{ 166 Parietal,_sagittal_crest absent present_posteriorly_but_not_anteriorly,_and_extending_for_no_more_than_50percent_of_parietal_midline_length present_anteriorly_and_posteriorly,_and_extending_more_than_50percent_of_parietal_midline_length;
+{ 167 Parietal_-_2 narrow inflated;
+{ 168 Parietal_Posteriorly_broad_parietal posteriorly_narrow_parietal State_1;
+{ 169 Skull,_postorbital_region_relative_length short,_less_than_half elongate,_half_or_more;
+{ 170 Supraoccipital_region_of_skull nuchal_crests_absent present;
+{ 171 Supratemporal_-_2 supratemporal_short,_does_not_extend_posterior_to_paroccipital_process elongate,_extending_well_beyond_paroccipital_process;
+{ 172 Maxilla palatine_process_short,_weakly_developed palatine_process_long,_strongly_projecting_medially;
+{ 173 Maxilla,_premaxillary_process medial_projection_articulating_with_vomers_present premaxillary_process_does_not_contact_vomers;
+{ 174 Maxilla,_number_of_mental_foramina 5_or_more 4_or_fewer;
+{ 175 Maxilla,_supradental_shelf_development extending_full_length_of_maxilla reduced_anterior_to_palatine_process;
+{ 176 Maxilla,_medial_surface_of_facial_process_with_distinct_naso-lacrimal_recess_demarcated_dorsally_by_anteroventrally_trending_ridge present absent;
+{ 177 Maxilla,_medial_surface_of_facial_process_with_well-defined_fossa_for_lateral_recess_of_nasal_capsule present reduced_and_present_as_small_fossa_on_back_of_facial_process absent,_fossa_for_lateral_recess_developed_entirely_on_prefrontal;
+{ 178 Maxilla_-_2 extensive_contact_of_dorsal_margin_of_maxilla_with_nasal nasal-maxilla_contact_lost;
+{ 179 Maxilla_-_3 maxilla_overlaps_prefrontal_laterally_in_tight_sutural_connection overlap_reduced,_mobile_articulation;
+{ 180 Maxilla_-_4 palatine_process_of_maxilla_projects_medially palatine_process_of_maxilla_downturned;
+{ 181 Maxilla,_superior_alveolar_foramen positioned_near_middle_of_palatine_process,_opening_posterodorsally positioned_near_anterior_margin_of_palatine_process,_opening_medially;
+{ 182 Maxilla,_accessory_foramen_posterior_to_palatine_process absent present;
+{ 183 Maxilla,_ectopterygoid_process absent present;
+{ 184 Maxilla_-_5 15_or_more_maxillary_teeth fewer_than_15_maxillary_teeth maxilla_without_teeth;
+{ 185 Postfrontal_-_2 anterior_and_posterior_processes_clasping_frontals_and_parietals anterior_and_posterior_processes_present,_but_postfrontal_abuts_frontals_and_parietals anterior_and_posterior_processes_absent;
+{ 186 Supratemporal_-_3 free_caudal_end_of_supratemporal_projects_posteroventrally free_caudal_end_of_supratemporal_projects_posteriorly_or_posterodorsally;
+{ 187 Quadrate,_lateral_conch present absent;
+{ 188 Quadrate,_maximum_length_relative_to_proximal_width quadrate_elongate,_maximum_length_at_least_125percent_of_maximum_width_of_quadrate_head quadrate_short,_length_less_than_125percent_of_width_of_quadrate_head;
+{ 189 Quadrate,_proximal_end_plate-like absent present;
+{ 190 Palatine,_dentition teeth_small_relative_to_lateral_teeth enlarged,_palatine_teeth_at_least_half_diameter_of_posterior_maxillary_teeth palatine_lacking_dentition;
+{ 191 Palatine,_elongate_lateral_process_projecting_to_lateral_edge_of_orbit_to_articulate_with_caudal_margin_of_prefrontal absent present;
+{ 192 Epipterygoid present absent;
+{ 193 Ectopterygoid clasps_pterygoid_anteromedially ectopterygoid_overlaps_pterygoid ectopterygoid_abuts_pterygoid_medially;
+{ 194 Vidian_canals posterior_openings_symmetrical asymmetrical;
+{ 195 Exoccipital-opisthotic horizontal,_wing-like_crista_tuberalis_absent present;
+{ 196 Otooccipitals_-_2 do_not_project_posteriorly_to_level_of_occipital_condyle project_posteriorly_to_conceal_occipital_condyle_in_dorsal_view;
+{ 197 Sclerotic_ring present absent;
+{ 198 Dentary,_enlarged_mental_foramen absent present;
+{ 199 Dentary,_depth_of_Meckelian_groove_anteriorly deep_slot shallow_sulcus;
+{ 200 Dentary,_angular_process_shape posteroventral_margin_of_dentary_angular_process_weakly_wrapped_around_underside_of_jaw dentary_angular_process_projects_more_nearly_horizontally_to_wrap_beneath_jaw;
+{ 201 Dentary,_angular_process_length_relative_to_coronoid_process angular_process_distinctly_shorter_than_coronoid_process,_former_terminating_well_anterior_to_latter subequal_in_length_posteriorly;
+{ 202 Dentary,_symphysis weakly_projecting_medially hooked_inward_and_strongly_projecting_medially;
+{ 203 Dentary,_ventral_margin unexpanded,_medial_margin_of_dentary_straight_in_ventral_view expanded,_medial_margin_crescentic_in_ventral_view;
+{ 204 Dentary,_coronoid_process wraps_around_surangular_laterally_and_medially broad_and_sits_atop_surangular;
+{ 205 Dentary,_coronoid_process_with_slot_for_medial_tab_of_surangular absent or_present;
+{ 206 Dentary,_subdental_shelf present_along_entire_tooth_row present_only_along_posterior_portion_of_tooth_row absent;
+{ 207 Surangular,_dentary_process_with_distinct_triradiate_cross-section absent present;
+{ 208 Surangular,_adductor_fossa small_or_absent extended_caudally_towards_jaw_articulation;
+{ 209 Surangular ventrolateral_surface_of_surangular_bearing_distinct_crest_for_attachment_of_adductor_muscles absent present;
+{ 210 Coronoid,_lateral_overlap_of_coronoid_onto_dentary absent present;
+{ 211 Splenial_attachment_to_dentary_above_Meckel’s_canal close_throughout_length loose,with_dorsal_dentary_suture_confined_to_posterodorsal_corner_of_splenial contact_with_subdental_shelf_reduced_to_small_spur_of_bone_or_contact_lost_entirely;
+{ 212 Splenial_-_angular_articulation splenial_overlaps_angular splenial_abuts_against_angular_to_form_hinge_joint;
+{ 213 Splenial,_size splenial_elongate,_extends_more_than_half_distance_from_angular_to_dentary_symphysis splenial_short,_extends_less_than_half_distance_from_angular_to_symphysis;
+{ 214 Splenial,_anterior_mylohyoid_foramen present absent;
+{ 215 Angular,_lateral_exposure_(with_coronoid_region_pointing_dorsally) angular_broadly_exposed_laterally_along_length angular_narrowly_exposed_laterally;
+{ 216 Angular,_length_posteriorly_relative_to_glenoid_(quadrate_articulation) relatively_long,extends_more_than_half_distance_from_anterior_end_of_angular_to_glenoid relatively_short,half_or_less_of_distance_to_glenoid very_short,_one_third_or_less_of_distance_to_glenoid;
+{ 217 Surangular,_enlarged_anterior_surangular_foramen absent or_present;
+{ 218 Coronoid_eminence well-developed weakly_developed_or_absent;
+{ 219 Glenoid,_shape quadrate_cotyle_shallow ,_anteroposteriorly_concave_and_transversely_arched,_‘saddle_shaped’;
+{ 220 Retroarticular_process retroarticular_process_elongate or_shortened;
+{ 221 Hypapophyses_of_anterior_precloacals short,_about_50percent_length_of_centrum long,_subequal_to_or_longer_than_centrum;
+{ 222 Vertebrae,_ridge-like_or_bladelike_ventral_keels_developed_posterior_to_hypapophyses absent present;
+{ 223 Vertebrae,_dorsolateral_ridges_of_neural_arch absent present;
+{ 224 Vertebrae,_vertebral_centrum narrow_in_ventral_view broad_and_subtriangular_in_shape broad_and_square;
+{ 225 Vertebrae,_arterial_grooves absent_in_neural_arch present;
+{ 226 Vertebrae,_posterior_condyle confluent_with_centrum_ventrally distinctly_separated_from_centrum_by_groove/constriction_between_centrum_and_condyle;
+{ 227 Vertebrae narrow,_width_across_zygapophyses_not_significantly_greater_than_distance_from_prezygapophyses_to_postzygapophyses vertebrae_wide,_width_across_zygapophyses_150percent_of_length_or_more;
+{ 228 Vertebrae,_zygosphene_anterior_margin deeply_concave_anterior_edge shallowly_concave_anterior_edge straight_or_slightly_sinuous_anterior_edge;
+{ 229 Basioccipital,_ventral_surface smooth sagittal_crest_of_parabasisphenoid_extends_into_basiocciptal;
+{ 230 Vertebrae,_zygosphene_width,_expressed_as_ratio_of_zygosphene_width_to_cotyle_width,_in_anterior_view wide,_ratio_close_to_or_more_than_1 narrow,_ratio_significantly_less_than_1;
+{ 231 Vertebrae,_constriction_index,_expressed_as_neural_arch_minimal_width_to_total_width,_measured_at_the_level_of_the_prezygapophyseal_lateral_edge slight_constriction,_ratio_equal_to_or_more_than_0.67 marked_constriction,_ratio_less_than_0.67;
+{ 232 Vertebrae,_narrow_and_sharp_haemal_keel absent present;
+{ 233 Vertebrae,_cotyle_size,_expressed_as_ratio_of_cotyle_width_to_total_width_(measured_as_the_interdiapophyseal_width) big_cotyle,_ratio_more_than_0.5 middle-sized_cotyle,_ratio_between_0.5_and_0.3 small_cotyle,_ratio_less_than_0.3;
+{ 234 Vertebrae,_small_lateral_ridge_on_precloacal_vertebrae_extending_from_the_parapophyses,_below_lateral_foramen absent present;
+{ 235 Supraoccipital,_shape_of_dorsal_exposure broad_and_square wider_than_longer,_with_broad_edges_(rectangular) wider_than_long,_with_pointed_medial_edges diamond-shaped M’-shaped absent_or_fused;
+{ 236 Supraoccipital,_size_of_dorsal_exposure,_expressed_as_ratio_of_supraoccipital_length_(measured_at_the_midline)_to_parietal_width_(measured_at_the_line_delimited_by_the_anterior_borders_of_the_prootic) big,_ratio_of_0.5_or_more small,_ratio_clearly_less_than_0.5;
+{ 237 Vertebrae_-_2 unfused_intercentra_in_precloacal_vertebrae_posterior_to_the_axis,_present absent;
+{ 238 Jugal,_distinct_posterior_process_for_quadratomaxillary_ligament present absent;
+{ 239 Postorbital present absent;
+{ 240 Vertebrae,_arqual_ridges_on_middle_precloacals absent present;
+{ 241 Pubis,_obturator_foramen present absent;
+{ 242 Ascending/facial_process_of_maxilla,_posterior_notch_on_medial_surface_for_prefrontal present absent;
+{ 243 Dentition,_dentary_teeth present absent;
+{ 244 Parietals single remain_paired_in_adult_skull;
+{ 245 Supraoccpitals single remain_paired_in_adult_skull;
+{ 246 Prootic_-_2 separated_element fused_to_braincase;
+{ 247 Ectopterygoid_-_2 present highly_reduced_or_absent;
+;
+
+
+ccode  - 0.247;
+
+
+;

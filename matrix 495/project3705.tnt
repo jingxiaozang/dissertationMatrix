@@ -1,0 +1,238 @@
+nstates num 7;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 13.39.30'
+193 27
+
+&[num]
+Phyllodytes_luteolus                   2001002002111210010111211310103112101111302121010121012011100001101?3112?????????11001110-1101011000111001012000010--03010111101000010010011131001010111111?01??01???10-0001010110011100101?0001?
+Dendropsophus_elegans                  110110000112211001001111111011111120111140022101012102201100--110-1?01110-010021000101111011100210001010210000000110?000303000044223-020000-1000010211113110001000-0200-10000101101101001000-20?3
+Dendropsophus_microps                  0001001002021110011111011210103111201111400111010021?2200110--110-0?0011?????????00101111001000210001110110100000110?100100111034223-010000-??00010211024?1?00????????1110000001101101001010-00?3
+Dendropsophus_minutus                  000010000011211001110101101010311020111140012101012102200110--110-0?00210-41000-00010111100100021020121011010000010--000000000022222-01000?0??0001031002511100000120011110000001101001001000-1023
+Dendropsophus_sanborni                 10011020020011100100010112100-1?01000-1-2121210101110120010011110-1?00110-00-00-00010111111110021000121010012001010--0003000000222221000--0-0--0010210025?1?00????????1010000101101001001000-?0?3
+Pseudis_minuta                         1011140?12002310012111211110103111201111200110011121022011?00101121200020-00-00-000111001111101100210210101210000110?220204220211345101100111210000311122010010?01??21?-0000000100--00000000-00??
+Scarthyla_goinorum                     1011130002002210012001211210103112101111311211010121012011103101121?00221000-????0010110111101010000121101002100-1?0?000003?000113231020011111?00101010121100110113001101000000100--00000000-1020
+Scinax_alter                           1001102?02011210012011211310103110201111212121000121012011100101111010221031110-000101101110100111101011?10120010110?000101101111123-01100111200010101012?1001000???010101000101001000101000-20?1
+Scinax_catharinae                      1001002002012210012101211210103110201111300221000121012011102001101?102210010????00100111010010110201001100200000110?010000001111123-01?0011120001010110011?0?1000-1??110110000100101011101102021
+Scinax_fuscovarius                     1001121001012210012111211310103110211111210221000121022001101101101?00221031010-0001011110101001112010004101?000010-?110000001111123101100111200010110100111????01????1101000101001000001000-2021
+Scinax_perpusillus                     2000102102111210012011211312103110101111210221000121010011102001121?0022?????????001011010010101111010001101?000010--110101101100011-0110011120001010100111???????????1101100001001010101000-2011
+Xenohyla_truncata                      210111200213111021102121121000311220111131212100112010200100--01121?0022?????????00001000-01010210001000?10000000110?00000000103422310210011121001001001111101?001?0200110000011101101011010-00?1
+Sphaenorhynchus_botocudo               100013010010001?3110102010110101121010002021101210101211100131100-22211011310021111001111102020110001210110220?11011?440?01310045344??????????????1011024?0-1???1?????0-1100?010011001000011101??
+Sphaenorhynchus_bromelicola            100?130?0??0001?311010201011010112101?001031?0121020121110?110100-21211013310021111001110-0202011???????210120?1?01104?0?01310033323011000111211101011014?0-1?11?1101?0011001010011001000011101??
+Sphaenorhynchus_cammaeus               10??1?0?0??0001?3??0?0201011010112?01?00?????0121020???1?0??1??00-2221101???00??1110011110?2??0110001?10??012011?0110440?02330033323??????????????10??????0?1???????1????????????????????????01??
+Sphaenorhynchus_canga                  10001?0000?0001?412000201011010112201?002110101210201211001110?00-2221101131002111100111100200011000111011012001?01004?0?00?0003322301111011121?1010??????0?1???????1????????????????????????01??
+Sphaenorhynchus_caramaschii            100?130?011000112100002010110101122010002122001210201121001110100-222110132100201110011110020101100012101101?01100110440?01310033222011110111210101011014?0-1?11???01?0011001010011001?00011101?1
+Sphaenorhynchus_carneus                100113000210000--0000-000-0--100------0-0001101210001201001111010-21211011310020111100110-02?002?0001110?101?0??001?0000?020000333230?1110101?1010?001014?0-11101120100011001110011001000011101?2
+Sphaenorhynchus_dorisae                ?001130?0110000--0000-20101101010200?0000121101210101211000010000-2121100-210021111001110-02100110001010?1010000001006104104500433240?100111121010101101310-1101111010001101101001100110001110121
+Sphaenorhynchus_lacteus                101?130?0?1000112100102010110101122010001021201210201121001110100-22211011110021111001111002?00110001010?10010110110051040044004334401111011121010101101410-1101113010001100101001100111001110121
+Sphaenorhynchus_mirim                  100011010---000--0001-2010110-010210?0000010101210201211001010000-21211011210010111001111012110010001210110200000011?510011440033323??????????????101101510-1???????1?0-11011000011001000111101??
+Sphaenorhynchus_platycephalus          1000130?0110001131001020101101011220100011221012102012?1101010100-22211012210021111001111102110110001010100120?100110330300310033323011100111211101011014?0-1??1?1101?0011001010011001000011101??
+Sphaenorhynchus_palustris              100013000010001131000020101101011?20100011?110121010?211?00110100-2221101131000-111001111102000110001110?10220?1?01104?0?0231004534401101?111212101011014?0-111111?0100011101010011001000011101??
+Sphaenorhynchus_pauloalvini            10011?20011011100100111?1110002111201?01411220021011001010101011100?20211?01000-10010011101110021000121011012100-1111111?0200003332301110011121010100111210-01110121100-110011100110010000110010?
+Sphaenorhynchus_planicola              100011010010000--0001-201011010112?010001020001210201121001010000-212110111100201110011110121001100011103101?00000110510410440033324011011111210101011025?0-111111101000110110100010010001111012?
+Sphaenorhynchus_prasinus               100?1300001000112000?1201?11010112?0100021??10121020111100?010000-22211011310021111001111002010110001?10?100101000110510410440043323011010111210101011013?0-11111100100011011010011001110011101??
+Sphaenorhynchus_surdus                 1000110?01100011210010201011010112201000212210121020122100111?100-222110132100211110011110020101100011101101?0?1?01104?0?02310033222011100111211101011014?0-1?11???01?00110010100110010100111012?
+
+;
+
+
+cnames
+{ 0 Medial_relation_nasals Widely_separated Slightly_separated Juxtaposed_to_septum_nasi;
+{ 1 Anterior_angular_process Absent Present;
+{ 2 Relantionship_between_Mxlry._proc._of_nasal_and_the_post._wall_and_pl._antor. Betw_post_and_planum_antor Surpasses_the_planum_anto;
+{ 3 Relation_between_nasal_and_sphenotmoid Nonverlapping Overlapping;
+{ 4 Exposure_of_the_frontoparietal_fontanelle Almost_comple_exposed Narrow_space;
+{ 5 Posterior_portion_of_the_internal_margins_of_frontoparietals Roughly_stright_margins Irregularly_idented Keyhole-like_fenestra Juxtaposed Fused_medially;
+{ 6 Tectum_Synoticum Cartilaginous Partially_Ossified Entirely_Ossified;
+{ 7 Medial_projection_of_the_post_margin_of_the_exocciptalis Absent Present;
+{ 8 Lamina_perpendicularis Poorly_developed Well-developed;
+{ 9 Degree_of_anterior_ossification_of_the_Sphenothmoid Not_incorporating Only_the_base Incorporate_at_least_the_half_of_the_septum_nasi;
+{ 10 Nature_of_the_crista_supraorbitalis Separated Continuous;
+{ 11 Relative_length_of_the_crista_supraorbitalis Extremely_short Short_1/3 Moderately__1/2 Elongate_2/3;
+{ 12 Maximum_height_of_the_par_facialis_of_the_maxilla Reduced_1-1.2_x Develop._2x Well_develop._3x;
+{ 13 Posterior_extension_of_maxilla Reduced_1/2_of_X Mod._developed__2/3_of_X Develop.__5/6_of_X Surpasses__5/6_of__X;
+{ 14 Maxillary_and_Premaxillary_teeth Absent Present;
+{ 15 Structure_of_the_maxillary_and_premaxillary_teeth Pedicellate Co-occurence_of_Pedicellate_and_non_pedicellate;
+{ 16 Percentage_of_the_maxilla_edentate Maxilla_dentate_95% Maxilla_edentate_10-25% Maxilla_edentate_35-40% Maxilla_edentate_55-80% Maxilla_edentate_in_95%;
+{ 17 Relation_between_m,axilla_and_premaxilla Not_overlapping Overlaps;
+{ 18 Width_of_the_base_of_alary_process_of_the_premaxilla Narrow_1/3 Intermediate_1/2 Wider_2/3;
+{ 19 Orientation_of_the_premaxilla Directed_anteriorly Directed_dorsally;
+{ 20 Lateral_orientation_of_the_alary_process_of_the_premaxilla Directed_laterally Directed_dorsally Directed_medially;
+{ 21 Portion_of_the_pars_dentalis_of_the_premaxilla_with_teeth Teeth_separated Teeth_present_in_all_par_dentalis;
+{ 22 Degree_od_anterior_extension_of_the_quadratojugal Extremely_short Short__1/_6_of_X Elongate_1/5-1/3_of_X;
+{ 23 Quadratojugal-squamosal_relationship Separate Articulate;
+{ 24 Zygomatic_ramus_of_the_squamosal Absent Present;
+{ 25 Relative_length_of_the_zygomatic_ramus_of_the_squamosal Extremely_short_1-1.5_x Short__2.2-2.4_x Mod._elongate_3.2-3.6_x Elongate_4.8-5.8_x;
+{ 26 Otic_ramus_of_the_squamosal Absent Present;
+{ 27 Shape_of_the_otic_ramus_of_the_squamosal_in_lateral_view SubCuneiform Square Rectangular;
+{ 28 Relation_between_otic_ramus_and_ossified_portion_of_the_crista_parotica Broad_gap Narrow_gap/juxtaposed/Overlapping;
+{ 29 Orientation_of_mediodistal_portion_of_the_medial_ramus_of_the_pterygoid Directed_posteromedially Directed_posterolaterally;
+{ 30 Length_of_the_posterior_ramus_of_the_pterygoid Extremely_short Short_1/2 Mod._long_3/4 Elongate._Reaches_the_distal_portion;
+{ 31 Denigerous_process_of_the_vomer Absent Present;
+{ 32 Development_of_the_dentigerous_process_of_the_vomer Extremely_reduced Differentiated_>_3_teeth;
+{ 33 Relationship_between_dentigerous_process_and_prechoanal/postchoanal_processes Between_pre/postchoanal Medially_to_postchoanal Posteriorly_to_postchoanal;
+{ 34 Relationship_between_dentigerous_process_and_m.body_of_vomer Separated_of_the_vomer Contiguous_by_constriction Continuous_to_vomer;
+{ 35 Medial_contact_between_dentigerous_process Not_in_contact In_contact;
+{ 36 Vomerine_teeth Absent Present;
+{ 37 Structure_of_the_vomerine_teeth Non_pedicellate Pedicellate;
+{ 38 Medial_portion_of_the_anterior_process_of_vomers_that_covers_the_solum_nasi Absent Present;
+{ 39 Arrangement_of_the_vomerine_teeth_on_the_dentigerous_process Irregular Arranged_in_a_contiuous_row;
+{ 40 Relative_length_of_the_palatines Ossified_slivers Overlap_3/4_of_the_planum_antorbitale Overlap_the_planum_antorbitale Reach_the_lateral_portion_of_the_sphenethmoid Reach_the_neurocranial_portion;
+{ 41 Relative_length_of_the_cultriform_process At_the_level_of_orbitonasal_foramen Posterior_to_the_orbitonasal_foramen;
+{ 42 Shape_of_the_anterior_portion_of_the_cultriform_process Triangular Rounded Identated Truncated;
+{ 43 Relative_length_of_the_posteromedial_process_of_the_parasphenoid Extremely_reduced Shorter_than_1/2 Reaching_the_1/2;
+{ 44 Relative_length_of_the_alary_process_of_the_parasphenoid Ext._short_.Do_not_reach_the_condyloid_fossa Short._At_level_of_condyloid_fossa Elongate._Surpasses_the_condyloid_fossa;
+{ 45 Posterolateral_process_of_the_crista_parotica Absent Present;
+{ 46 Shape_of_the_tympanic_annulus Shallow Deep_and_expanded_internally;
+{ 47 Shape_of_the_pars_externa_plectri Not_expanded_Cylindrical Mediodistal_expanded Completely_expanded;
+{ 48 Relation_between_pars_externa_plectri_and_tympanic_annulus Entering_dorsal Entering_posterior;
+{ 49 Orientation_of_the_pars_media_plectri_with_respect_to_the_transversal_skull_axis Directed_ventrally Directed_dorsally;
+{ 50 Expansion_of_distal_protion_of_the_pars_media_plectri Expanded_2x Slightly_expanded_1.2-1.3_x Unexpanded;
+{ 51 Medial_end_of_the_pars_media_plectri Reduced Dilated;
+{ 52 Relationship_between_the_pars_interna_plectri_and_operculum Occupies_the_dorsal_portion Occupies_a_small_space;
+{ 53 Mineralization_of_the_pars_interna_plectri Minealized Partially_mineralized Not_mineralized;
+{ 54 Coronoid_process Absent Small_projection Prominent_projection;
+{ 55 Relationship_between_angulosplenail_and_dentary In_contact_or_adjacent Not_in_contact;
+{ 56 Nature_of_the_connection_between_superior_prenasal_and_alary_cartilages Separated_by_unchondrified_tissue Synchondroticaly_fused;
+{ 57 Shape_of_the_alary_cartilage Rectangular Square;
+{ 58 Contact_point_of_the_inferior_prenasal_cartilage_on_the_alary_process_of_the_maxilla Located_on_the_basal_portion Located_on_the_middle;
+{ 59 Orientation_of_the_portion_of_the_inferior_prenasal_cartilage_that_articulate_with_the_soolum_nasi Oriented_mediolaterally Oriented_laterally;
+{ 60 Shape_of_the_median_prenasal_process_of_the_septum_nasi Subcylindrical Subtriangular Triangular Rounded;
+{ 61 Relative_length_of_the_medial_prenasal_process_of_the_septum_nasi At_the_level_of_the_alay_process Surpassing_the_alary_process;
+{ 62 Cartilaginous_lamina_that_extends_from_cartilaginous_branch_to_inferior_margin_of_the_oblique_cartilage Absent Present;
+{ 63 Connection_between_lamina_nariochoanalis_and_postnasal_wall Connected_to_the_postnasal_wall Not_connected_to_the_postnasal_wall;
+{ 64 Anterior_process_of_the_hyale Absent Present;
+{ 65 Shape_of_anterior_process_of_the_hyale Slender Dendriform Laminar;
+{ 66 Shape_of_anterolateral_process Not_distally_expanded Expanded_distally Laminar;
+{ 67 Relative_length_of_the_posterolateral_process_in_males Short_6-6.5_x Mode._long_3-3.5_x Elongate_2-2.5_x;
+{ 68 Shape_of_the_hyoglossal_sinus U-shaped V-shaped Rectangular Round;
+{ 69 Hyale Straight Curved_medially;
+{ 70 Maximum_Height_fo_the_hyoid_plate 1/6_of_the_minimum_width 1/3-2/3_of_the_minimum_width 1-1.3x_the_minimum_width;
+{ 71 Point_of_attachment_of_hyale_to_the_skull To_the_basal_process To_the_limit_between_basal_process_and_otic_capsule To_the_otic_capsule;
+{ 72 Esophageal_process_in_males Absent Present;
+{ 73 Orientation_of_the_esophageal_process Directed_ventrally Directed_dorsally Directed_posteriorly Directed_obliquely;
+{ 74 Shape_of_the_cardiac_process Subcylindrical._Widht_similar Laminar._Medial_projection Laminar._Width_similar Laminar._Wider_than_adjacent_parts U-shaped;
+{ 75 Internal_butresses_od_arytenoid Absent Present;
+{ 76 Number_of_internal_burtresses_od_the_arytenoids One,_medial Three,_medial_and_distal_thisrds;
+{ 77 Rod_of_cartilage_supporting_each_end_of_the_vocal_chord Absent Present;
+{ 78 Fibrous_masses Not_chondrified Partially_mineralized Chondrified;
+{ 79 Shape_of_the_fibrous_masses Subtriangular Elongate;
+{ 80 Carilaginous_process_of_arytenoid_supporting_the_frenulum Absent Present;
+{ 81 Length_of_coracoids Short__0.10-0.14x Elongate_at_least__0.17x;
+{ 82 Length_of_Clavicles Short__0.08-0.10x Elongate_at_least__0.15x;
+{ 83 Length_of_the_scapulas Short_1.15-1.4_x Elongate_1.75-2.20x;
+{ 84 Anterior_margins_of_the_scapula Concave Oblique;
+{ 85 Anterior_process_of_the_suprascapula Absent Present;
+{ 86 Relative_expansion_of_the_pars_acromialis 2x_of_the_pars_glenoidalis Equal_or_slightly_more_expand._than_pars_glenoidalis;
+{ 87 Shape_of_the_distal_portion_of_the_sternum Bilobed Simple;
+{ 88 Distal_portion_of_the_omeosternum Not_expanded Expanded;
+{ 89 Relative_length_of_the_base_of_omeosternum 1.0-2.0x at_least_2.6x;
+{ 90 Orientation_of_the_transverse_process_of_presacral_vertebra_II Inclined_anteriorly Perpendicular;
+{ 91 Relative_length_of_the_transverse_process_of_presacral_vertebra_IV Short Moderately_long Elongate;
+{ 92 Orientation_of_the_transverse_process_of_presacral_vertebra_VI Inclined_posteriorly Perpendicluar;
+{ 93 Orientation_of_the_transverse_process_od_presacral_VII Inclined_anteriorly Perpendicular Inclined_posteriorly;
+{ 94 Contact_between_presacral_II_and_III Not_in_contact Medial_contact;
+{ 95 Expansion_of_the_sacral_diapophysis Unexpanded Mode._expand._1.5-3.0_x Strongly_expand._4.5x;
+{ 96 Shape_of_the_iliac_arch U-shaped V-shaped;
+{ 97 Number_of_distal_prepollical_elements One Two;
+{ 98 Shape_of_the_first_distal_prepollical_element Bladelike Cylindrical Subcylindrical;
+{ 99 Longitudinal_axis_of_the_terminal_phalange Curved Straight;
+{ 100 Shape_of_the_intercalary_elemen_between_ultiamate_and_penultimate_phalanges Elongate_and_cylindrical Concave_disc;
+{ 101 Mineralization_of_intercalary_elements_between_ultimate_and_penultimate_phalanges Not_mineralized Partially_mineralized Completely_mineralized;
+{ 102 Preaxial_dilatation_of_the_mecarpal_IV Ausente Present;
+{ 103 Contact_between_proximal_portions_of_the_metatarsi_IV_and_V Free In_close_contact;
+{ 104 Number_of_distal_elements_to_the_prehallux One Two Three Four Five;
+{ 105 Preaxial_dilatation_on_metatarsal_I Absent Present;
+{ 106 Vocal_sac_structure Median,_subgular Paired_lateral;
+{ 107 Orientation_of_nostrils Directed_laterally Directed_laterodorsally Directed_dorsally;
+{ 108 Black_lateral_line Absent Incomplete Complete;
+{ 109 White_lateral_line Absent Present;
+{ 110 White_canthal_line Absent Present;
+{ 111 White_dorsolateral_line Absent Present;
+{ 112 Longitudinal_white_line_under_eye Absent Present;
+{ 113 Tympanic_membrane Absent Present;
+{ 114 Nature_of_nuptial_pad_on_finger Without_epidermal_projections With_epidermal_projections;
+{ 115 Coloration_of_nuptial_pad_with_epidermal_projections_on_Finger_II Ligth Dark;
+{ 116 Relative_size_of_the_epidermal_projections_of_the_nuptial_pads 10-12_projections_by__0.01_mm² 5-7_projections_by__0.01_mm²;
+{ 117 Subcloacal_ornamentation Not_ornamentation Small_tubercles Small,_conical_tubercles Swelled_tubercles Weak_dermal_fold Dermal_flap/rounded Dermal_flap/triangular;
+{ 118 Ornamentation_on_the_ventral_surface Absent Small,_rounded_tubercles Small,_conical_tubercles Two_lateral,_round,_and_small_dermal_pads Two_lateral,_thick_and_flat_dermal_pads;
+{ 119 Cloacal_sheath Absent Present;
+{ 120 Dermal_ornamentation_on_forearm Absent Row_of_rounded_tubercles Row_of_conical_tubercles Crenulated_fold Smooth_fold;
+{ 121 Dermal_ornamentation_on_elbow Absent Present;
+{ 122 Internal_dermal_fold_on_tarsus Absent Row_of_roundedtubercles Crenulated_fold Smooth_fold Keel;
+{ 123 External_dermal_ornamentation_on_tarsus Absent Row_of_rounded_tubercles Row_of_conical_tubercles Crenulated_fold Smooth_fold;
+{ 124 Dermal_ornamentation_on_heel Absent Rounded_tubercles Conical_tubercles Crenulated_fold Round_calcar_appendage Triangular_calcar_appendage;
+{ 125 Supratympanic_fold Weak Strong;
+{ 126 Shape_of_the_adhesive_disc_on_hands Rounded Truncated Oval/elliptical;
+{ 127 Degree_of_the_preaxial_webbing_of_Finger_IV Absent Fringe Antepenultimate Midlenght Penultimate;
+{ 128 Degree_of_the_postaxial_webbing_of_Finger_IV Absent Fringe Midlengtt_basal_phalange Penultimate Midlength_2_phalange Adhesive_disc;
+{ 129 Degree_of_webbing_between_Toes_I_and_II Absent Subarticular_tubercle First_Phalange Adhesive_Disc;
+{ 130 Degree_of_the_preaxial_webbing_of_Toe_IV Fringe Antepenultiamte Penultimate Midlength_basal_phalange Adhesive_disc;
+{ 131 Degree_of_the_postaxial_webbing_of_Toe_IV Fringe Antepenultimate Midlength_basal_phalange Penultimate Midlength_s_phalange Adhesive_disc;
+{ 132 Position_of_the_nostrils_with_respect_to_the_main_body_axis EllipticalAcute_angle EllipticalParallel;
+{ 133 Fleshy_flanges_on_internal_margins_of_the_nostrils Absent Present;
+{ 134 Position_of_the_oral_disc Ventral Subterminal Terminal;
+{ 135 Submarginal_papillae_of_the_oral_disc Absent Present;
+{ 136 Marginal_Papillae_of_the_oral_disc Small,_homogeneous Few,_enlarged,_2x;
+{ 137 Ventral_gap_in_the_row_of_marginal_papillae_of_the_oral_disc Absent Present;
+{ 138 Anterior_teeth_rows Absent Present;
+{ 139 Number_of_the_anterior_teeth_rows One Two;
+{ 140 Posterior_teeth_rows Absent Present;
+{ 141 Number_of_the_posterior_teeth_rows One Two Three Four;
+{ 142 Gap_in_the_first_posterior_teeth_rows Absent Present;
+{ 143 Relative_length_of_the_spiracle Short Medium Large;
+{ 144 Dark_pigmentation_on_ventral_surface_of_proctodeal_tube Absent Present;
+{ 145 Direction_of_the_opening_of_the_vent_tube Medial Dextral;
+{ 146 Apical_supplementary_element_of_the_m._intermandibularis Absent Present;
+{ 147 Relationship_between__m._Intermandibularis_and_m.submentalis Overlapps_he_posterior_margin Overlaps_the_posterolateral_margin Juxtaposes_the_posterior_margin_medially Overlaps_the_posterior_margin_medially;
+{ 148 Medial_raphe_of_the_m._intermandibularis Absent Present;
+{ 149 Medial_aponeurosis_of_the_m._intermandibularis Absent Present;
+{ 150 Medial_portion_of_the_m._Interhyoideus Araphic Medial_raphe;
+{ 151 Relative_degree_of_anterior_development_of_the_m._Interhyoideus Poorly_developed_1/5 Developed_1/3 Well-developed_1/2;
+{ 152 Posterior_extension_of_the_fold_of_the_m._interhyoideus_fold Surpasses_slightly_the_mandible Reaches_to_1/3-1/2_of_the_m._deltoideus Reaches_the_posterior_portion_of_the_m.deltoideus Reaches_the_anterior_margin_of_the_m._pectoralis Reaches_the_posterior_margin_of_the_m._pectoralis Surpasses_the_m._pectoralis;
+{ 153 Origin_of_the_m._genohyoideus_lateralis From_mandible_by_tendon From_mandible_by_tissue_conective_and_fibers;
+{ 154 Number_of_slips_of_the_m._genohyoideus_lateralis One,_external_part Two,_external_and_internal_parts;
+{ 155 Insertion_of_the_internal_part_of_the_m._genohyoideus_lateralis Posteromedial_process_and_hyoid_plate Hyoid_plate;
+{ 156 M._petrohyoideus_anterior Inserted_on_the_lateral_margin_of_the_hyoid_plate With_a_additional_layer_of_fibers_on_the_hyoid_plate;
+{ 157 Disposition_of_the_fibers_of_the_m._petrohyoideus_anterior Separated_in_bundles Continuous;
+{ 158 Insertion_of_the_branch_I__of_the_m._petrohyoideus_posterior On_the_base_of_the_posteromedial_process Aprox_on_the_half_of_the_posteromedial_process;
+{ 159 Number_of_insertion_of_the_branch_III__of_the_m._petrohyoideus_posterior One,_posteromedial_process Two,_posteromedial_process_and_cricoid;
+{ 160 Insertion_of_the_m._sternohyoideus Continuous Discontinuous;
+{ 161 Pars_dorsalis_of_the_m._sternohyoideus Absent Present;
+{ 162 Insertions_of_pars_dorsalis_of_the_m._sternohyoideus Hyoid_plate Hyoid_plate_and__thyroide_membrane Posteromedial_process Thyroide_menbrane;
+{ 163 Relationship_between_the_main_body_of_the_m._hyoglossus_and_the_posteromedial_process_of_the_hyoid. Subterminal Terminal;
+{ 164 Origin_of_medial_segment_of_the_m._hioglossus Hyoid_plate Hyale Posteromedial_process;
+{ 165 Inflected_fibers__of_the_m._genioglossus Absent Present;
+{ 166 M._lumbricalis_brevis_digiti_IV,_lateral_slip_(LBBIV_lateral) Absent Present;
+{ 167 Origin_of_the_m._lumbricalis_brevis_digiti_V,_lateral_slip_(LBBV_lateral) DC_3-4-5 Aponeurosis_(palmaris_profundus);
+{ 168 Origin_of_the_m._flexor_teres_digiti_V_(FT_V). Metacarpal_IV_and_V Metacarpal_V;
+{ 169 Burtons_ligament Absent Present;
+{ 170 Insertion_of_the_medial_branch_of_the_extensor_digitorum_comunis_longus_(EDCL)_on_the_basal_phalange Absent Present;
+{ 171 Insertion_of_the_postaxial_branch_of_the_extensos_digitorum_comunis_longus_(EDCL)_on_fascia Absent Present;
+{ 172 EBD_2_medial_slip Absent Present;
+{ 173 EBP_2:_origin_from_DC_2 Absent Present;
+{ 174 EBD_4_medial_slip Absent Present;
+{ 175 EBP_5_medial:_accessory_slip_form_M4 Absent Present;
+{ 176 M._flexor_teres_hallucis Absent Present;
+{ 177 FM_2:_origin_from_DT2-3_(or_DT3) Absent Present;
+{ 178 FM_4_and_TM_4:_distal_end_of_FM_IV_dorsal_to_TM_4 Absent Present;
+{ 179 FM_4_and_TM_4:_distal_end_of_FM_IV_ventral_to_TM_4 Absent Present;
+{ 180 LB_5_medial:_additional_insertion_onto_metatarsus_5 Absent Present;
+{ 181 FDB:_structure_of_the_tendon_of_insertion Undivided Divided;
+{ 182 Origin_of_TVP_from_DT2-3 Absent Present;
+{ 183 EC:_insertion_on_digiti_2 Absent Present;
+{ 184 ESH:_insertion_lateral_fibers_on_medial_region_of_basal_phalanx_2_via_tendon Absent Present;
+{ 185 EBS_3:_insertion_on_M3 Absent Present;
+{ 186 EBD_II_lateral Absent Present;
+{ 187 EBD_5_lateral Absent Present;
+{ 188 EBD_5_lateral:_lenght_of_fibers Fibers_reach_the_distal_margin_of_the_first_phalange Fibers_reach_the_distal_margin_of_the_phalange_2;
+{ 189 Origin_of_the_m._pectoralis_portio_abdominalis Fibers_originate_at_midbody Fibers_originate_on_pelvis_tendon_not_evident Fibers_originate_on_pelvis_tendon_evident;
+{ 190 White_parietal_peritoneum Absent Present;
+{ 191 Oviposition_site Leaves Phytotelmaata Submerged;
+{ 192 Number_of_Chromosomes 22 24 26 30;
+;
+
+
+ccode  + 0 5.6 9 11.13 16 18 22.25 30 34 40.54 67.71 91 93 95 101.108 127.131 134 141 143 151.152 192 - 1.4 7.8 10 14.15 17 19.21 26.29 31.33 35.39 55.66 72.90 92 94 96.100 109.126 132.133 135.140 142 144.150 153.191;
+
+
+;
