@@ -1,0 +1,105 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 18.20.32'
+55 32
+
+&[num]
+Caenorhabditis                              0?0?000????00-000--0---------------------------0-00-???
+Priapulus                                   0?0?000????10-000--0---------------------------0-00-???
+Aysheaia                                    000?000????100001000100?1???0-0?00??0?0??0?0?1-1000-???
+Kerygmachela                                0010000????100011001100?1???0-0000000?0??0?0?0-100?0200
+Pambdelurion                                000?0110???100011001100?1???0-0?00?00?0??0?0?0-100?000?
+Opabinia                                    0021010????200011011100?1???0-000???0????0?0??-10110010
+Caryosyntrips                               ????????????????11??101010000-0000000?0??0?000-????????
+Anomalocaris_kunmingensis                   ????????????????11??101010?0100?00101?0000?1?00????????
+Amplectobelua_stephenensis                  ????????????????11??101?11?0100?0011110000?0001????????
+Amplectopbelua_symbrachiata                 102??1??????110?11111010111010000011100001110010-111111
+Lyrarapax_unguispinus                       1021011????211011111101?1?1???0?0011110????1?000-111?1?
+Anomalocaris_canadensis                     102101111102110111111010101010010000100101010000-111210
+NIGP_154565                                 ????????????????11??101010?01111000010010101?00????????
+Anomalocaris_saron                          102101111??21?0?1111101010101111000010020111?000-111111
+Anomalocaris_cf_saron_Nevada                ????????????????11??101010101001000010030111?00????????
+Anomalocaris_balang                         ????????????????11??101?1?1???01000010030101?00????????
+Paranomalocaris_multisegmentalis            ????????????????11??10101000100?000010040111?00????????
+Anomalocaris_cf_canadensis_Emu_Bay          ????????????????11??101010??1001000010020111?00????????
+Anomalocaris_pennsylvanica                  ????????????????11??101010?0100100000-0----100-????????
+Tamisiocaris_borealis                       11??????????????11??101010??1?10000011050110010????????
+Anomalocaris_briggsi                        ????????????????11??101010101?1?000011050110010????????
+Fezouata_hurdiid                            ????????????????11??101?10?0101?10??111?00?0?00????????
+Peytoia_nathorsti                           112101110002110111111011100010101000111?10?01000-1?1100
+Schinderhannes                              ?121?11????211??11111011110???101000111?10?0100??1?1111
+Cf_peytoia_Balang                           ????????????????11??1011110010101000??1????0?00????????
+Hurdia_victoria                             1121?11100121?0?11?11011110110101100111?10?01000-11?100
+Hurdia_cf_victoria_Utah                     ?????1?10?1?????11??101111010-101100111?1000100????????
+Stanleycaris_hirpex                         ????????????????11??101111011010100011241000100????????
+Hurdia_sp_B_Burgess_ROM                     ????????????????11??101111010-1010001?2?1000120????????
+Hurdia_sp_B_Utah                            ????????????????11??101111?10-101000112?1000120????????
+Chengjiangocaris                            1021120----211101111111100?-0------------------1100-000
+Olenoides                                   1120120----21010111111100??-0------------------1100-000
+
+;
+
+
+cnames
+{ 0 Head_sclerotization unsclerotized bearing_one_or_more_sclerotized_shields;
+{ 1 Head_size small enlarged;
+{ 2 Eyes absent small_and_simple large,_compound;
+{ 3 Eye_stalks absent present;
+{ 4 Preoral_scleral_plate absent present;
+{ 5 Mouth_direction anterior ventral posterior;
+{ 6 Mouth:_sclerotized_oral_plates_arranged_in_a_radial_array absent present;
+{ 7 Mouth:_scleral_plates_overlapping not_overlapping overlapping_in_a_wheel-shaped_or_pineapple_slice_array,_with_enlarged_anterior,_posterior_and_lateral_plates;
+{ 8 Mouth:_toothplate_arrangement symmetrical,_tetraradiate asymmetrical,_triradiate;
+{ 9 Mouth:_external_surface smooth bearing_sharp,_tooth-like_protuberances;
+{ 10 Mouth:_accessory_oral_plates_or_spines_inside_primary_oral_ring absent present;
+{ 11 Body:_division_of_external_surface undivided bearing_annuli divided_into_segments;
+{ 12 Body_shape cylindrical broad_anteriorly_and_tapering_posteriorly,_maximum_width_of_trunk_anteriorly_about_300%_width_of_tail;
+{ 13 Body:_relative_length_of_segments segments_subequal_along_length_of_body posterior_segments_reduced,_anterior_segments_150%_or_more_length_of_posterior_segments;
+{ 14 Body:_sclerotoization unsclerotized bearing_a_series_of_overlapping_dorsal_plates;
+{ 15 Gut simple,_straight bearing_a_series_of_lateral_diverticula;
+{ 16 Paired_lateral_appendages absent present;
+{ 17 Limb_structure annulated broken_into_discrete_articles_or_segments;
+{ 18 Number_of_appendage_pairs_(limbs_or_flap_pairs,_including_frontal_appendage) 13_or_fewer 14_or_more;
+{ 19 Lateral_flaps/exopods absent present;
+{ 20 Function_of_anteriormost_pair_of_limbs used_for_walking laterally_or_anteriorly_directed,_specialized_non-locomotory_function_as_grasping_appendage_or_antenna;
+{ 21 Antenna absent present;
+{ 22 Anteriormost_appendage_sclerotization soft composed_of_sclerotized_segments_separated_by_membranes;
+{ 23 Frontal_appendage:_number_of_articles 14_or_more 13_or_fewer;
+{ 24 Frontal_appendage:_ventral_spines absent present;
+{ 25 Frontal_appendage:_length_of_distal_articles elongate short_and_closely_packed_relative_to_proximal_segments;
+{ 26 Frontal_appendage:_curvature straight_or_downcurved_proximally with_a_dorsal_kink_near_articles_2/3;
+{ 27 Frontal_appendage:_orientation_of_terminal_spine terminal_spine_hooked_down terminal_spine_hooked_upward;
+{ 28 Frontal_appendage:_terminal_segments_bearing_distally_projecting_dorsal_spines absent present;
+{ 29 Frontal_appendage:_form_of_dorsal_spines_on_terminal_segments short_and_robust long_and_needle-like;
+{ 30 Frontal_appendage:_form_of_ventral_spines short elongate,_length_exceeding_article_diameter;
+{ 31 Frontal_appendage:_longest_spine_borne_on_article_2 absent present;
+{ 32 Frontal_appendage:_width_of_ventral_spines narrow anteroposteriorly_expanded,_platelike;
+{ 33 Frontal_appendage:_ventral_spines:_variability_in_width_along_length_of_appendage subequal_to_or_narrower_in_width_than_proximal_spines ventral_spines_become_broader_distally;
+{ 34 Frontal_appendage:_ventral_spines:_orientation_of_proximal_ventral_spines proximal_spines_directed_ventrally proximal_spines_directed_forwards_by_45_degrees_or_more_to_oppose_tip_of_appendage,_forming_a_claw;
+{ 35 Frontal_appendage:_ventral_spines:_hypertrophied_pincer_spine absent present;
+{ 36 Frontal_appendage:_ventral_spines:_auxiliary_spines absent present_on_anterior_edge_of_one_or_more_ventral_spines;
+{ 37 Frontal_appendage:_ventral_spines:arrangement_of_anterior_auxiliary_spines radiating pectinate;
+{ 38 Frontal_appendage:_ventral_spines:_curvature_of_distal_tips straight_or_weakly_curved hooked_forward,_talon-like strongly_hooked_forward,_tips_forming_a_90_degree_angle_with_the_base_of_the_spine;
+{ 39 Frontal_appenadge:_ventral_spines:_auxiliary_spines:_modal_number_of_anterior_auxiliary_spines none one two three four_or_five six_or_more;
+{ 40 Frontal_appendage:_ventral_spines:_auxiliary_spines:_orientation_of_anterior_auxiliary_spines directed_distally_towards_tip_of_ventral_spines directed_anteriorly_towards_tip_of_ventral_spines;
+{ 41 Frontal_appendage:_ventral_spines:_auxiliary_spines:_presence_on_posterior_edge_of_ventral_spines absent present_on_one_or_more_ventral_spines;
+{ 42 Frontal_appendage:_ventral_spines:_auxiliary_spines:_number_of_posterior_auxiliary_spines one_(single) two_or_more;
+{ 43 Frontal_appendage:_ventral_spines:_relative_length_of_adjacent_spines adjacent_spines_similar alternating_(long-short-long,_etc.);
+{ 44 Frontal_appendage:_ventral_spines:_relative_length_of_lateral_and_medial_spines subequal medial_spine_reduced_relative_to_lateral_spine;
+{ 45 Frontal_appendage:_ventral_spines:_curvature straight_or_curved_anteriorly all_ventral_spines_curve_towards_base_of_appendage proximal_ventral_spines_curve_towards_base,_but_more_distal_spines_do_not;
+{ 46 Frontal_appendage:_ventral_spines:_auxiliary_spines:_serial_distribution auxiliary_spines_on_numerous_ventral_spines auxiliary_spines_on_only_one_proximal_article;
+{ 47 Trunk_legs absent present;
+{ 48 Trunk_legs:_sclerotization soft sclerotized;
+{ 49 Flap_length subequal_along_length_of_body anterior_flaps_about_twice_as_long_as_posterior_flaps;
+{ 50 Dorsal_blades_("gills") absent present;
+{ 51 Dorsal_blades:_distribution confined_to_flaps present_dorsally_("on_back");
+{ 52 Flaps,_rays/striations absent present,_transversely_oriented present,_anteroposteriorly_oriented;
+{ 53 Tail:_tailfan reduced_or_absent present,_composed_of_2-3_pairs_of_enlarged_flaps;
+{ 54 Tail:_furcae/streamers absent present;
+;
+
+
+ccode  - 0.54;
+
+
+;

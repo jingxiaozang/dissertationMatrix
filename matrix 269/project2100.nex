@@ -1,0 +1,1278 @@
+#NEXUS
+
+    [ File output by Morphobank v3.0 ?; 2023-07-28 21.43.37 ]
+
+    BEGIN TAXA;
+    DIMENSIONS NTAX=71;
+    TAXLABELS
+    		'Hypsidoris farsonensis'
+		'Ictalurus australis'
+		'Ictalurus balsanus'
+		'Ictalurus furcatus'
+		'Ictalurus dugesii'
+		'Ictalurus lupus'
+		'Ictalurus meridionalis'
+		'Ictalurus mexicanus'
+		'Ictalurus pricei'
+		'Ictalurus punctatus'
+		'Ictalurus countermani'
+		'Ictalurus spodius'
+		'Ictalurus rhaeas'
+		'Ameiurus catus'
+		'Ameiurus serracanthus'
+		'Ameiurus brunneus'
+		'Ameiurus platycephalus'
+		'Ameiurus natalis'
+		'Ameiurus melas'
+		'Ameiurus nebulosus'
+		'Ameiurus hazenensis'
+		'Ameiurus lavetti'
+		'Ameiurus leidyi'
+		'Ameiurus macgrewi'
+		'Ameiurus pectinatus'
+		'Ameiurus peregrinus'
+		'Ameiurus reticulatus'
+		'Ameiurus sawrockensis'
+		'Ameiurus vespertinus'
+		'Astephus resimus'
+		'Astephus antiquus'
+		'Astephus sp.'
+		'Noturus albater'
+		'Noturus baileyi'
+		'Noturus elegans'
+		'Noturus eleutherus'
+		'Noturus exilis'
+		'Noturus fasciatus'
+		'Noturus flavater'
+		'Noturus flavipinnis'
+		'Noturus flavus'
+		'Noturus funebris'
+		'Noturus furiosus'
+		'Noturus gilberti'
+		'Noturus gladiator'
+		'Noturus gyrinus'
+		'Noturus hildebrandi'
+		'Noturus insignis'
+		'Noturus lachneri'
+		'Noturus leptacanthus'
+		'Noturus maydeni'
+		'Noturus miurus'
+		'Noturus munitus'
+		'Noturus nocturnus'
+		'Noturus phaeus'
+		'Noturus placidus'
+		'Noturus stanauli'
+		'Noturus stigmosus'
+		'Noturus taylori'
+		'Noturus trautmani'
+		'Prietella lundbergi'
+		'Prietella phreatophila'
+		'Pylodictis olivaris'
+		'Satan eurystomus'
+		'Trogloglanis pattersoni'
+		'Bagrus bajad'
+		'Cranoglanis bouderius'
+		'Pangasius nasutus'
+		'Plotosus canius'
+		'Silurus glanis'
+		'Schilbe mystus'
+    ;
+    ENDBLOCK;
+
+    BEGIN CHARACTERS;
+	DIMENSIONS NCHAR=209;
+	FORMAT DATATYPE=STANDARD GAP=- MISSING=? SYMBOLS="01234567";
+	CHARLABELS
+		 [1] 'Mouth position'
+		 [2] 'Presence of eyes'
+		 [3] 'Orbital rim'
+		 [4] 'Barbel on rim of posterior nares.'
+		 [5] 'Gill membrane attachment'
+		 [6] 'Gill membrane overlap'
+		 [7] 'Gular fold between the lower jaw and hyoid bar anterior to the branchiostegal membranes'
+		 [8] 'Presence of adipose fin'
+		 [9] 'Adipose fin length'
+		 [10] 'Shape of long adipose fin'
+		 [11] 'Caudal fin shape'
+		 [12] 'Caudal fin lobes '
+		 [13] 'Proximity of posterior end of anal fin to ventral lobe of caudal fin'
+		 [14] 'Lateral line extent'
+		 [15] 'Presence of lateral line ossicles'
+		 [16] 'Distribution of lateral line ossicles'
+		 [17] 'Skin pigmentation'
+		 [18] 'Adipose fin saddle pigmentation'
+		 [19] 'Pectoral fin pigmentation'
+		 [20] 'Dorsal fin pigmentation'
+		 [21] 'Pigmentation on caudal peduncle '
+		 [22] 'Pigmentation of belly'
+		 [23] 'Two unpigmented areas immediately anterior of dorsal fin'
+		 [24] 'Pigmentation at base of caudal fin'
+		 [25] 'Pigmentation posterior to eyes'
+		 [26] 'Pigmentation at margin of caudal fin'
+		 [27] 'Pigmentation posterior to head, anterior to dorsal fin'
+		 [28] 'Pigmentation posterior to dorsal fin'
+		 [29] 'Dorsal fin saddle pigment'
+		 [30] 'Post-dorsal fin saddle pigmentation'
+		 [31] 'Darker pigmentation forming "skeleton-key" pattern on caudal fin'
+		 [32] 'Profile of the mesethmoid cornua.'
+		 [33] 'Dorsal width of the mesethmoid'
+		 [34] 'Mesethmoid cornua'
+		 [35] 'Mesethmoid cleft'
+		 [36] 'Mesial process of the mesethmoid cornua'
+		 [37] 'Snout width'
+		 [38] 'Skull roof shape'
+		 [39] 'Skull width'
+		 [40] 'Anterior cranial fontanelle in post-juveniles and adults'
+		 [41] 'Anterior cranial fontanelle division'
+		 [42] 'Position of the anterior cranial fontanelle'
+		 [43] 'Posterior cranial fontanelle'
+		 [44] 'Form of the posterior tip of the supraoccipital process'
+		 [45] 'Length of supraoccipital process'
+		 [46] 'Width of the supraoccipital process measured at the midpoint of the process'
+		 [47] 'Vertical lamina of the supraoccipital process'
+		 [48] 'Origin of jaw adductor muscle ? and skull roof ?.'
+		 [49] 'Predominant surface texture of supraoccipital bone near posterior cranial fontanelle and on the base or even the whole surface of posterior process.'
+		 [50] 'Cross-sectional profile of the supraoccipital bone'
+		 [51] 'Rear margin of the skull'
+		 [52] 'Presence of a jaw adductor muscle attachment crest on frontal bone'
+		 [53] 'Development of the frontal crest'
+		 [54] 'Length of the muscle crests on frontal'
+		 [55] 'Frontal jaw adductor muscle crest continued onto lateral ethmoid'
+		 [56] 'Infraorbital sensory canal exit from skull.'
+		 [57] 'Anterior extent of the sphenotic on the skull roof margin relative to the epiphyseal bar.'
+		 [58] 'Sphenotic process'
+		 [59] 'Development of sphenotic process'
+		 [60] 'Extrascapular: canal bone part.'
+		 [61] 'Extrascapular: lamellar bone part.'
+		 [62] 'Fusion of canal bone and lamellar bone parts of the extrascapular'
+		 [63] 'Pterotic wing form'
+		 [64] 'Pterotic wing surface'
+		 [65] 'Pits on the pterotic wing'
+		 [66] 'Nasal bone'
+		 [67] 'Laminar bone shelf around margin of nasal bone'
+		 [68] 'Number of infraorbital bones'
+		 [69] 'Lateral ethmoid wing'
+		 [70] 'Shape of pointed lateral ethmoid tip'
+		 [71] 'Orientation of lateral ethmoid wing'
+		 [72] 'Superficial ophthalmic nerve foramen'
+		 [73] 'Vomerine teeth'
+		 [74] 'Parasphenoid stem'
+		 [75] 'Parasphenoid stem width relative to orbitosphenoid width'
+		 [76] 'Adductor arcus palatini scar'
+		 [77] 'Orbitosphenoid shelves'
+		 [78] 'Development of orbitosphenoid shelves'
+		 [79] 'Pterosphenoid - prootic joint'
+		 [80] 'Prootic - exoccipital joint'
+		 [81] 'Prootic - exoccipital joint'
+		 [82] 'Prootic - basioccipital joint'
+		 [83] 'Descending wing of the frontal'
+		 [84] 'Dorsolateral trough on the edge of the frontal below the infraorbital canal exit and occupied by a slip of the levator arcus palatini muscle. '
+		 [85] 'Optic foramen'
+		 [86] 'Optic foramen size'
+		 [87] 'Lower jaw size'
+		 [88] 'Mandibular lateralis sensory canal pores'
+		 [89] 'First mandibular sensory canal pore and tube'
+		 [90] 'Dentary symphyseal process'
+		 [91] 'Anterodorsal margin of the dentary'
+		 [92] 'Anteroventral crest of the dentary'
+		 [93] 'Coronoid process'
+		 [94] 'Posterior process of the articular'
+		 [95] 'Anguloarticular bone'
+		 [96] 'Dentary teeth'
+		 [97] 'Distribution of dentary teeth'
+		 [98] 'Direction of dentary teeth'
+		 [99] 'Development of premaxilla'
+		 [100] 'Premaxillary bone width'
+		 [101] 'Mesial process of premaxilla'
+		 [102] 'Sublateral process of premaxilla'
+		 [103] 'Size of sublateral process of the premaxilla'
+		 [104] 'Teeth on the sublateral process of the premaxilla'
+		 [105] 'Distribution of premaxillary teeth'
+		 [106] 'Shape and uniformity of premaxillary teeth'
+		 [107] 'Direction of premaxillary teeth'
+		 [108] 'The deep or A3 layer of the adductor mandibulae musculature. '
+		 [109] 'Autopalatine length'
+		 [110] 'Hyomandibular shape'
+		 [111] 'Anterior process of the hyomandibular'
+		 [112] 'Opercular facet position '
+		 [113] 'Hyomandibular - metapterygoid joint'
+		 [114] 'Hyomandibular - quadrate joint'
+		 [115] 'Hyomandibular crest for attachment of the deep ? adductor mandibulae musculature'
+		 [116] 'Development of levator arcus palatini muscle crest on the hyomandibular ?'
+		 [117] 'Length of the levator arcus palatini crest'
+		 [118] 'Position of the levator arcus palatini crest on the hyomandibular'
+		 [119] 'Presence of the levator operculi crest on the posterodorsal edge of the hyomandibular for the attachment of the levator operculi muscle'
+		 [120] 'Adductor hyomandibularis process'
+		 [121] 'Development of adductor hyomandibularis process'
+		 [122] 'External opening of the lower foramen of the facial nerve canal'
+		 [123] 'Lower foramen of the facial nerve canal and the mandibularis nerve foramen. '
+		 [124] 'Shape of the external opening of the lower foramen of the facial nerve canal. '
+		 [125] 'Position of the symplectic canal'
+		 [126] 'Preopercle attachment area for the jaw adductor muscle'
+		 [127] 'Preopercle attachment surface for the jaw adductor muscle'
+		 [128] 'Vertical limb of preopercle'
+		 [129] 'Suprapreopercle bone'
+		 [130] 'Suprapreopercle bone number'
+		 [131] 'Quadrate - metapterygoid joint'
+		 [132] 'Quadrate - metapterygoid joint length'
+		 [133] 'Ventral margin of the metapterygoid'
+		 [134] 'Dorsal margin of the metapterygoid'
+		 [135] 'Endopterygoid bone'
+		 [136] 'Endopterygoid bone size'
+		 [137] 'Posterior ceratohyal-anterior ceratohyal joint'
+		 [138] 'Anterior ceratohyal keel'
+		 [139] 'Posterior ceratohyal shape '
+		 [140] 'Anterior ceratohyal - ventral hypohyal joint'
+		 [141] 'Dorsal hypohyal size'
+		 [142] 'Urohyal shape'
+		 [143] 'Shape variation among subtriangular urohyals'
+		 [144] 'Opercle form'
+		 [145] 'Opercle shape'
+		 [146] 'Dorsal margin of the opercle'
+		 [147] 'Levator operculi muscle scar'
+		 [148] 'Interopercle shape'
+		 [149] 'First centrum'
+		 [150] 'First centrum paired dorsal pits'
+		 [151] 'First centrum paired ventral ridges sutured with the superficial ossification of the complex centrum'
+		 [152] 'Os suspensorium'
+		 [153] 'Joint between the Weberian complex centrum ? and the fifth centrum'
+		 [154] 'Posterior extensions of the superficial ossification of the fifth centrum onto the sixth centrum'
+		 [155] 'Joint between the anterior limb of the fourth transverse process of the Weberian complex and posttemporal-supracleithrum'
+		 [156] 'Profile of basal recess of the fourth transverse process'
+		 [157] 'Vertical bony lamina on dorsal midline of Weberian complex between third and fourth neural spines'
+		 [158] 'Development of the vertical lamina between third and fourth neural spines'
+		 [159] 'Depth of the Weberian complex'
+		 [160] 'Swimbladder wall development'
+		 [161] 'Swimbladder structure'
+		 [162] 'Caudal-fin skeleton consolidation'
+		 [163] 'Fusion of the parhypural'
+		 [164] 'Presence of separate hypural 6'
+		 [165] 'Fusion of hypurals 3, 4, and 5'
+		 [166] 'Fusion of hypurals 1 and 2'
+		 [167] 'Hypurapophyses'
+		 [168] 'Caudal-fin rays'
+		 [169] 'Posterior limbs of the middle nuchal plate'
+		 [170] 'Development of posterior limbs of the middle nuchal plate'
+		 [171] 'Basal foramina through the first dorsal-fin proximal radial'
+		 [172] 'Dorsal-fin spine articulation facets on the second proximal radial'
+		 [173] 'Second dorsal-fin spine development'
+		 [174] 'Second dorsal-fin spine length'
+		 [175] 'Pectoral-fin soft rays, modal counts'
+		 [176] 'Pectoral-fin radials'
+		 [177] 'Length of posterior process of cleithrum'
+		 [178] 'Bony ornamentation on the posterior cleithral process'
+		 [179] 'Tuberculate bony ornamentation on the posterior cleithral process'
+		 [180] 'Distribution of tuberculate bony ornamentation on the posterior cleithral process'
+		 [181] 'Length of cleithral symphysis'
+		 [182] 'Ventral coracoid keel'
+		 [183] 'Length of ventral coracoid keel'
+		 [184] 'Secondary coracoid keel along the rear edge of the coracoid just below the scapular foramen'
+		 [185] 'Length of secondary coracoid keel'
+		 [186] 'Shape of the pectoral-spine extensor muscle fossa of the coracoid'
+		 [187] 'Depth of the extensor muscle fossa of coracoid'
+		 [188] 'Transcapular ligament between the posttemporal-supracleithrum and basioccipital'
+		 [189] 'Subpterotic process of the posttemporal-supracleithrum'
+		 [190] 'Size of the subpterotic process of the posttemporal-supracleithrum'
+		 [191] 'Curvature of pectoral-fin spine shaft.'
+		 [192] 'Pectoral-fin spine tip'
+		 [193] 'Anterior distal serrae of pectoral-fin spine'
+		 [194] 'Anterior dentations of pectoral-fin spine'
+		 [195] 'Size of anterior dentations of the pectoral-fin spine'
+		 [196] 'Anterior ridge of pectoral-fin spine'
+		 [197] 'Pectoral-fin spine posterior dentations'
+		 [198] 'Pectoral-fin spine posterior-dentation halves'
+		 [199] 'Pectoral-fin spine posterior dentations distribution'
+		 [200] 'Pectoral-fin spine posterior groove at the base of dentations'
+		 [201] 'Posterior dentation bases distribution'
+		 [202] 'Asymetrically distributed posterior dentation bases'
+		 [203] 'Pectoral-fin spine posterior dentation size'
+		 [204] 'Postlateral process of pelvic girdle'
+		 [205] 'Posterior bony process of pelvic girdle '
+		 [206] 'Contact between the posterolateral and anterolateral processes of the pelvic girdle'
+		 [207] 'Pelvic splint'
+		 [208] 'Pelvic-fin rays'
+		 [209] 'Pectoral-fin shaft development in large individuals'
+	;
+	STATELABELS
+		1
+		'Subterminal, upper jaw extending anteriorly beyond lower jaw'
+		'Terminal, upper and lower jaws equally extending anteriorly'
+		'Superior, lower jaw extending anteriorly beyond upper jaw'
+		,
+		2
+		'Eyes present'
+		'Eyes absent'
+		,
+		3
+		'The orbital rim with a fold and free from the cornea of the eye'
+		'The orbital rim without a free fold, its integument is continuous with the cornea and the eyes appear subcutaneous'
+		,
+		4
+		'Absent'
+		'Present'
+		,
+		5
+		'Gill membranes free from each other'
+		'Gill membranes narrowly united to each other'
+		'Gill membranes broadly united to each other'
+		,
+		6
+		'Gill membranes diverge from each other posteriorly without overlap'
+		'Gill membranes overlap one another before diverging'
+		,
+		7
+		'Present'
+		'Absent'
+		,
+		8
+		'Absent'
+		'Present'
+		,
+		9
+		'Short, the length of the fin is about the same as its depth'
+		'Long, the length of the fin is more than two times its depth'
+		,
+		10
+		'Adipose fin fully joined to the upper lobe of the caudal fin and their margin is smoothly continuous'
+		'Adipose fin partly joined to the upper lobe of the caudal fin their and there is a notch between them'
+		,
+		11
+		'Margin forked'
+		'Margin rounded or emarginated, without lobes'
+		,
+		12
+		'Tip of the lobes pointed'
+		'Tip of the lobes rounded'
+		,
+		13
+		'Distant'
+		'Close'
+		,
+		14
+		'Lateral line reaches the caudal skeleton'
+		'Lateral line does not reach the caudal skeleton, it could end around the adipose or the dorsal fin.'
+		,
+		15
+		'Absent'
+		'Present'
+		,
+		16
+		'Several small ring link ossicles around the body lateral line canal '
+		'One or few superficial ossicles anteriorly'
+		,
+		17
+		'Present'
+		'Absent'
+		,
+		18
+		'Pigment in adipose region not noticeably darker than surrounding pigment'
+		'Darker pigment barely extending ventrally onto flank, diffuse to absent on adipose fin'
+		'Darker pigment barely extending ventrally onto flank, well-formed and distinct on adipose fin, typically not extending to dorsal margin'
+		'Darker pigment barely extending ventrally onto flank, well-formed and distinct on adipose fin, typically extending to dorsal margin'
+		'Darker pigment extending ventrally half-way down flank, well-formed and distinct on adipose fin, extending to dorsal margin'
+		'Darker pigment extending ventrally through anal fin, well-formed on adipose fin, extending to dorsal margin'
+		,
+		19
+		'Small melanophores present, equal size and evenly spaced'
+		'Melanophores clumped, uneven or fin immaculate'
+		,
+		20
+		'Spine with darker pigment, membrane over soft rays with evenly pigmented or immaculate'
+		'Well pigmented throughout, somewhat darker distally, diffuse clear distal margin'
+		'Dorsal dark band extends to distal margin, uniform width'
+		'Dorsal dark band not reaching distal margin, narrowing posteriorly'
+		'Dorsal fin evenly pigmented throughout with small, uniformly sized melanophores'
+		'Dark spot of pigment at anterodosal margin of dorsal fin, does not extend posteriorly'
+		'Darker at the base of the dorsal fin'
+		,
+		21
+		'Not noticeable darker than surrounding pigment'
+		'Darker pigment forming discrete blotches dorsally and ventrally, centrally diffuse'
+		'Darker pigmentation forms distinct continuous band, not as diffuse centrally'
+		'Darker pigmentation forms distinct, continuous band, bold throughout'
+		,
+		22
+		'Absent'
+		'A few scattered melanophores'
+		'Well pigmented, evenly sized and spaced melanophores'
+		,
+		23
+		'Absent'
+		'Present'
+		,
+		24
+		'Not noticeably darker than surrounding pigment'
+		'Pigment darker, forming a conspicuous bar'
+		,
+		25
+		'Uniformly pigmented'
+		'Unpigmented region continuous with unpigmented region on cheeks'
+		'Unpigmented region separated from unpigmented region on cheeks by band of melanophores'
+		,
+		26
+		'Not noticeably darker than surrounding pigment'
+		'Dark band along posterior margin'
+		'Dark band extending along the dorsal, posterior, and ventral margins of the caudal fin'
+		,
+		27
+		'Not noticeably lighter than surrounding pigment'
+		'Pigmentation lighter than surrounding pigment'
+		,
+		28
+		'Pigment not noticeable lighter than surrounding pigment'
+		'Pigmentation lighter than surrounding pigment'
+		,
+		29
+		'Pigment not noticeably darker than surrounding pigment'
+		'Darker pigmentation forming dorsal saddle, diffuse to absent on flanks'
+		'Darker pigmentation forming dorsal saddle, extending strongly onto flanks'
+		,
+		30
+		'Pigment not noticeably darker than surrounding pigment'
+		'Darker pigmentation forming post-dorsal fin saddle, not extending greatly onto flanks'
+		'Darker pigmentation forming post-dorsal fin saddle, extending greatly onto flanks'
+		,
+		31
+		'Absent'
+		'Present'
+		,
+		32
+		'Abruptly downturned, vertical to the body axis'
+		'Gently downturned, horizontal to the body axis'
+		'Gently upturned, slightly vertical to the body axis'
+		,
+		33
+		'Narrow, width three or more times in length'
+		'Intermediate, width two times in length'
+		'Broad, width less than two times in length'
+		,
+		34
+		'Cornua widely forked, the anterior margin of the skull is broad'
+		'Cornua not widely forked, the anterior margin of the skull is narrow'
+		,
+		35
+		'Deep '
+		'Shallow'
+		,
+		36
+		'Absent'
+		'Present'
+		,
+		37
+		'Narrow, width across mesethmoid cornua less than length of the mesethmoid'
+		'Broad, width across mesethmoid cornua much greater than length of the mesethmoid'
+		,
+		38
+		'Arched'
+		'Flattened'
+		,
+		39
+		'Broad, width fits less than three times in the length of the skull'
+		'Narrow, width fits three times or more in the length of the skull'
+		,
+		40
+		'Open'
+		'Almost completely closed except in juveniles'
+		,
+		41
+		'Absent'
+		'Present'
+		,
+		42
+		'Anterior edge of the fontanelle located anterior or at the same level of the lateral ethmoid wing tip'
+		'Anterior edge of the fontanelle located posterior to the lateral ethmoid wing tip'
+		,
+		43
+		'Open along its entire length'
+		'Open anteriorly and almost closed posteriorly'
+		'Almost closed or closed along its length'
+		,
+		44
+		'Simple'
+		'Bifid'
+		,
+		45
+		'Short, length of the process much shorter than length of the supraoccipital bone without the process'
+		'Intermediate, length of the process less than the length of the supraoccipital bone without the process'
+		'Long, length of the process about the same or greater than the length of the supraoccipital bone without the process'
+		,
+		46
+		'Narrow'
+		'Broad'
+		,
+		47
+		'Absent'
+		'Present'
+		,
+		48
+		'Jaw adductor muscle restricted to suspensorium and lateral-most margin of skull. Skull roofing bones lacking fossae, crests and scars of jaw muscle attachment, bones often extensively ornamented with pits, ridges and grooves, or tubercles '
+		'Jaw adductor muscle expanded onto skull roof; skull roof usually with a smooth-floored temporal fossa, bounded by paired crests of muscle attachment running longitudinally ? across supraoccipital and anterolaterally across frontal '
+		,
+		49
+		'Ridges and grooves with a preferred longitudinal orientation'
+		'Coarse but without a predominant longitudinal orientation'
+		'Smooth or nearly so'
+		,
+		50
+		'Jaw adductor muscle parasagittal crests elevated at their midpoint, forming a plateau with angular edges'
+		'Jaw adductor muscle parasagittal crests elevated at their midpoint, each crest with rounded profile'
+		'Jaw adductor muscle parasagittal crests elevated at their midpoint, each crest steeply rounded to concave and together forming a sharp median ridge '
+		,
+		51
+		'Forming an obtuse angle with the supraoccipital process'
+		'Forming a right degree angle with the supraoccipital process'
+		'Forming an acute angle with the supraoccipital process'
+		,
+		52
+		'Present'
+		'Absent'
+		,
+		53
+		'Weakly developed crest'
+		'Well developed crest'
+		,
+		54
+		'Frontal adductor muscle crest meets skull roof margin at about the level of epiphyseal bar'
+		'Frontal crest meets skull roof margin anterior to level of epiphyseal bar'
+		'Frontal crest meets skull roof margin posterior to level of epiphyseal bar'
+		,
+		55
+		'Anterior end of the crest reaching onto the lateral ethmoid bone'
+		'Anterior end of the crest not reaching onto the lateral ethmoid bone'
+		,
+		56
+		'Within sphenotic'
+		'At sphenotic-frontal joint '
+		'Within frontal'
+		,
+		57
+		'Anteriormost tip of the sphenotic margin reaches the transverse level of the anterior end of the epiphyseal bar'
+		'Anteriormost tip of the sphenotic does not reach level of the posterior end of the epiphyseal bar'
+		'Anteriormost tip of the sphenotic extends beyond the level of the anterior end of the epiphyseal bar'
+		,
+		58
+		'Absent'
+		'Present'
+		,
+		59
+		'Large angular '
+		'Slightly rounded or pointed'
+		,
+		60
+		'Absent'
+		'Present'
+		,
+		61
+		'Present'
+		'Absent'
+		,
+		62
+		'Fused'
+		'Not fused'
+		,
+		63
+		'Angular or pointed'
+		'Rounded'
+		,
+		64
+		'Pits absent'
+		'Pits present'
+		,
+		65
+		'Pits shallow '
+		'Pits deep'
+		,
+		66
+		'Nasal bone narrow'
+		'Nasal bone wide'
+		,
+		67
+		'Absent'
+		'Present'
+		,
+		68
+		'Five'
+		'Six'
+		'Seven'
+		,
+		69
+		'Pointed tip'
+		'Rounded tip'
+		,
+		70
+		'Acute'
+		'Attenuated'
+		,
+		71
+		'Curved downward'
+		'Forming and obtuse angle with the lateral skull margin'
+		'Nearly horizontal'
+		,
+		72
+		'Small, foramen inconspicuous'
+		'Large, foramen conspicuous in dorsal view'
+		,
+		73
+		'Absent'
+		'Present'
+		,
+		74
+		'Tapering posteriorly, parasphenoid broader anteriorly than posteriorly'
+		'Parasphenoid does not taper, the width of the parasphenoid stem is closely the same anteriorly and posteriorly'
+		'Parasphenoid tapered anteriorly, parasphenoid stem narrower anteriorly than posteriorly '
+		,
+		75
+		'Orbitosphenoid with horizontal shelves that are much wider than parasphenoid stem'
+		'Orbitosphenoid narrower than parasphenoid stem'
+		'Orbitosphenoid about the same width as parasphenoid '
+		,
+		76
+		'Posterior margin of the muscle scar on the parasphenoid turns dorsally, away from the ventral edge of the bone'
+		'Muscle scar continuous with the ventral edge of the parasphenoid'
+		,
+		77
+		'Present'
+		'Absent'
+		,
+		78
+		'Prominent'
+		'Intermediate'
+		'Weak'
+		,
+		79
+		'Present'
+		'Absent'
+		,
+		80
+		'Synchondral'
+		'Sutural'
+		,
+		81
+		'Few sutures developed'
+		'Primarily sutural contact'
+		,
+		82
+		'Largely synchondral contact'
+		'Largely sutural contact'
+		,
+		83
+		'Frontal wing deep, its depth is at least one third of the skull depth'
+		'Frontal wing shallow, its depth less than one third of the skull depth'
+		,
+		84
+		'Absent'
+		'Present'
+		,
+		85
+		'Single foramen'
+		'Double foramen'
+		,
+		86
+		'Large'
+		'Small'
+		,
+		87
+		'Lower jaw short, its maximum depth contained no more than three times in its length'
+		'Long, maximum depth of the lower jaw contained more than three times in its length'
+		,
+		88
+		'Six pores'
+		'Seven pores'
+		'Eight pores'
+		,
+		89
+		'First mandibular sensory canal tube and pore remote from mandibular symphysis'
+		'First mandibular sensory canal tube and pore close to mandibular symphysis '
+		'First mandibular sensory canal tube and pore close to symphysis and tubes opening into a median pit or united with its opposite first tube and pore '
+		,
+		90
+		'Absent'
+		'Present'
+		,
+		91
+		'Anterodorsal margin of the dentary tapers strongly towards the symphysis '
+		'Anterodorsal margin of the dentary tapers gradually towards the symphysis'
+		,
+		92
+		'Anteroventral margin of the dentary gradually tapers evenly to the symphysis '
+		'Sharp anteroventral crest of dentary developed beneath the second and sometimes third sensory pore of the dentary'
+		'Anteroventral crest of the dentary extends to the symphysis'
+		,
+		93
+		'Coronoid process low, its posterior or articular edge shallowly inclined '
+		'Coronoid process intermediate, its articular edge moderately inclined '
+		'Coronoid process high, its articular edge steeply inclined'
+		,
+		94
+		'Moderate process at the base of the articular bone'
+		'Enlarged process projecting from base of the articular'
+		,
+		95
+		'Anguloarticular short, its length about equal to its depth'
+		'Anguloarticular long, its length more than twice its depth'
+		,
+		96
+		'Present'
+		'Absent'
+		,
+		97
+		'Teeth distributed on the entire surface of the dentary'
+		'Teeth occupying only the anterior half of the dentary'
+		,
+		98
+		'Teeth pointing anteriorly off the dentary'
+		'Teeth mostly vertical'
+		'Teeth pointing lingually off the dentary'
+		,
+		99
+		'Heavily ossified'
+		'Weakly ossified, thin and porous'
+		,
+		100
+		'Premaxilla narrow, its symphyseal length contained less than twice in its width'
+		'Premaxilla width intermediate, its symphyseal length contained two to three times in its width'
+		'Premaxilla broad, its symphyseal length contained more than three times in its width'
+		,
+		101
+		'Absent'
+		'Present'
+		,
+		102
+		'Absent'
+		'Present'
+		,
+		103
+		'Short'
+		'Intermediate'
+		'Long'
+		,
+		104
+		'Absent'
+		'Present'
+		,
+		105
+		'Teeth sparse sometimes margins are toothless'
+		'Teeth abundant, distributed on the entire surface of the premaxilla'
+		,
+		106
+		'All teeth are about the same size'
+		'Strong gradation in tooth size'
+		,
+		107
+		'Teeth are straight or slightly curved inward'
+		'Teeth strongly curved inward'
+		,
+		108
+		'A3 not or slightly subdivided '
+		'A3 subdivided internally to form a separate A3'' bundle'
+		'A3 subdivided into separate A3'' bundle and further partly subdivided into an adductor tentaculi muscle'
+		'A3 completely subdivided into separate A3'' bundle and separate adductor tentaculi muscle '
+		,
+		109
+		'Short '
+		'Intermediate'
+		'Long'
+		,
+		110
+		'Hyomandibular elongated, length is greater than depth'
+		'Hyomandibular short, length about the same as the depth'
+		,
+		111
+		'Slender '
+		'Broadly flattened'
+		,
+		112
+		'Opercular facet above the midpoint of hyomandibular'
+		'Opercular facet at or near the midpoint of the hyomandibular'
+		'Opercular facet below midpoint of hyomandibular'
+		,
+		113
+		'Long, length of suture almost equal to the width of the metapterygoid'
+		'Short length of suture shorter than the width of the metapterygoid '
+		,
+		114
+		'Synchondral'
+		'Sutural'
+		,
+		115
+		'Absent'
+		'Present'
+		,
+		116
+		'Crest with a rounded edge'
+		'Crest with a sharp edge'
+		,
+		117
+		'Restricted to the hyomandibular'
+		'Extending along the hyomandibula and the metapterygoid'
+		,
+		118
+		'Anterior end of the crest meets the upper end of the suture between the hyomandibular and metapterygoid'
+		'Anterior end of the crest meets the midpoint of the suture between the hyomandibular and metapterygoid'
+		'Anterior end of the crest located above the suture between hyomandibular and metapterygoid'
+		,
+		119
+		'Absent'
+		'Present'
+		,
+		120
+		'Adductor hyomandibularis process absent'
+		'Adductor hyomandibularis process present'
+		,
+		121
+		'Small'
+		'Prominent'
+		,
+		122
+		'Single'
+		'Double'
+		,
+		123
+		'Lower foramen of the facial nerve canal distinctly separated from mandibularis nerve foramen'
+		'Lower foramen of the facial nerve canal superimposed on mandibularis nerve foramen'
+		,
+		124
+		'Open widely, ovoid or circular'
+		'Narrowly constricted'
+		,
+		125
+		'Piercing the suspensorium at the preopercle-quadrate suture'
+		'Piercing the suspensorium in the preopercle'
+		,
+		126
+		'Preopercle not expanded anterior to the sensory canal'
+		'Preopercle expanded anterior to the sensory canal'
+		,
+		127
+		'Flat'
+		'Concave'
+		,
+		128
+		'Upper end of the preopercle vertical limb extends above the level of the adductor crest'
+		'Upper end of the preopercle vertical limb is truncated at the level of the adductor crest'
+		,
+		129
+		'Absent'
+		'Present'
+		,
+		130
+		'Single'
+		'Double'
+		,
+		131
+		'Quadrate-metapterygoid joint mainly synchondral'
+		'Quadrate-metapterygoid joint mainly bony and sutural'
+		,
+		132
+		'The quadrate-metapterygoid joint is about as long as the quadrate-hyomandibular joint'
+		'The quadrate-metapterygoid joint is about twice as long as quadrate-metapterygoid joint'
+		'The quadrate-metapterygoid joint is about half the length of quadrate-metapterygoid joint'
+		,
+		133
+		'Curved'
+		'Straight'
+		,
+		134
+		'Curved'
+		'Straight'
+		,
+		135
+		'Present'
+		'Absent'
+		,
+		136
+		'Large'
+		'Moderate'
+		'Small'
+		,
+		137
+		'Dorsal cartilage present, otherwise bony'
+		'Cartilage nearly completely replaced by direct bony contact'
+		,
+		138
+		'The dorsal margin of the anterior ceratohyal is compressed and rounded '
+		'The dorsal margin of the anterior ceratohyal is sharply keeled and nearly straight'
+		,
+		139
+		'Triangular with small dorsal facet at the interhyal articulation'
+		'Elongated with an expanded lower margin and the interhyal facet is a well-defined depression'
+		,
+		140
+		'Synchondral'
+		'Bony'
+		,
+		141
+		'Large'
+		'Small'
+		,
+		142
+		'Subtriangular'
+		'Rhomboidal'
+		,
+		143
+		'Vertical and horizontal laminae subequal in length and the urohyal is moderately broad'
+		'Horizontal lamina longer than vertical lamina making the urohyal broad'
+		'Vertical lamina is longer than the horizontal lamina and the urohyal is elongated'
+		,
+		144
+		'Angle between dorsal and anterior edges about 90 degrees'
+		'Angle between dorsal and anterior sides greater than 90 degrees'
+		,
+		145
+		'Short, length of the opercle is contained more than twice in its depth '
+		'Long, length of the opercle is contained two or fewer times in its depth'
+		,
+		146
+		'Curved'
+		'Straight'
+		,
+		147
+		'Dorsal edge crest present'
+		'Dorsal edge flattened, without a crest'
+		,
+		148
+		'Posterior end of the interopercle moderately expanded'
+		'Posterior end of the interopercle not expanded'
+		'Posterior end of the interopercle greatly expanded'
+		,
+		149
+		'Present'
+		'Absent'
+		,
+		150
+		'Present '
+		'Pits absent or not conspicuous'
+		,
+		151
+		'Ridges weakly developed'
+		'Ridges well developed'
+		,
+		152
+		'Wide'
+		'Narrow'
+		,
+		153
+		'Weberian complex and fifth centra articulate via a normal intervertebral joint'
+		'Weberian complex and fifth centra tightly articulated via a deeply sutural bony joint'
+		,
+		154
+		'Absent'
+		'Present'
+		,
+		155
+		'Posttemporal-supracleithrum facet of fourth transverse process deeply expanded, depth of basal recess of the fourth transverse process next to complex centrum fits less than twice in the facet length'
+		'Posttemporal-supracleithrum facet moderately expanded, depth of basal recess of the fourth transverse process next to complex centrum fits at least three times in the facet length'
+		,
+		156
+		'Basal recess curved'
+		'Basal recess nearly straight'
+		,
+		157
+		'Absent'
+		'Present'
+		,
+		158
+		'Dorsal margin of the vertical lamina reaching dorsal to the midpoint of the fourth neural spine'
+		'Dorsal margin of the lamina reaching the midpoint of the fourth neural spine'
+		'Dorsal margin of the lamina reaching to only one third of the fourth neural spine height'
+		,
+		159
+		'Weberian complex depth greater than length'
+		'Weberian complex depth less than length'
+		,
+		160
+		'Absent or vestigial'
+		'Well developed thick wall '
+		,
+		161
+		'Single sac with an incomplete internal partition'
+		'Single anterior sac with an incomplete internal partition plus a large posterior sac separated by a constriction'
+		,
+		162
+		'Variable but incomplete degrees of fusion of the caudal skeleton components'
+		'All components of the caudal skeleton fused'
+		,
+		163
+		'Parhypural fused only with hypurals 1 and 2'
+		'Parhypural separate from hypurals 1 and 2'
+		,
+		164
+		'Present'
+		'Absent as a separate element, its fate uncertain'
+		,
+		165
+		'Fused'
+		'Separate unfused hypurals 3, 4, and 5'
+		,
+		166
+		'Fused together without other elements'
+		'Separate unfused hypurals 1 and 2'
+		,
+		167
+		'Hypurapophyses prominent, well developed'
+		'Hypurapophyses low, weakly developed '
+		,
+		168
+		'13 branched caudal-fin rays'
+		'15 branched caudal-fin rays'
+		'More than 15 but less than 55 branched caudal-fin rays, number variable'
+		'More than 55 branched caudal-fin rays, number variable'
+		,
+		169
+		'Posterior limbs of the middle nuchal plate present'
+		'Posterior limbs absent'
+		,
+		170
+		'Posterior limbs stout'
+		'Posterior limbs slender'
+		,
+		171
+		'Foramina not visible from above'
+		'Foramina conspicuously visible from above'
+		,
+		172
+		'Dorsal-fin spine facets nearly planar'
+		'Dorsal-fin spine facets markedly concave'
+		,
+		173
+		'Second dorsal-fin spine well ossified, stout and usually sharp'
+		'Second dorsal-fin spine weakly ossified, and segmented distally'
+		,
+		174
+		'Second dorsal-fin spine slightly shorter than pectoral spine'
+		'Second dorsal-fin spine much shorter than pectoral spine'
+		'Second dorsal-fin spine longer than pectoral spine'
+		,
+		175
+		'8 rays'
+		'9 rays'
+		'10 rays'
+		'11 rays'
+		'More than 11 rays'
+		'7 rays'
+		,
+		176
+		'Separate'
+		'Partially fused'
+		'Fused'
+		,
+		177
+		'Long, its length more than twice its basal depth'
+		'Intermediate, its length about the same as its basal depth'
+		'Short, its length less than its basal depth'
+		,
+		178
+		'Absent, process weakly textured '
+		'Present as bony ridges and/or tubercles'
+		,
+		179
+		'Absent'
+		'Present'
+		,
+		180
+		'Tubercles distributed on base and ventral edge'
+		'Tubercles distributed widely over the surface of the process'
+		,
+		181
+		'Short, the length of the cleithral symphysis less than half the total length of the cleithral plus coracoid symphysis'
+		'Long, the length of the cleithral symphysis more than half the total length of the cleithral plus coracoid symphysis'
+		,
+		182
+		'Present'
+		'Absent'
+		,
+		183
+		'Short, keel extends less than half way to the midline'
+		'Intermediate, keel extends slightly more than half way to midline'
+		'Long, keel nearly reaches midline'
+		,
+		184
+		'Absent'
+		'Present'
+		,
+		185
+		'Short, keel does not reach midlength of the coracoid'
+		'Long,  keel reaches at least midlength of the coracoid'
+		,
+		186
+		'Long, midline length of coracoid much less than width of pectoral-spine extensor fossa'
+		'Short, midline length of coracoid about equal to width of pectoral-spine extensor fossa fossa'
+		,
+		187
+		'Shallow, the posterior edge of the coracoid not sharply upturned
+'
+		'Deep, the posterior edge of the coracoid sharply turned upward'
+		,
+		188
+		'Completely ossified'
+		'Incompletely ossified, its medial end ligamentous'
+		,
+		189
+		'Present, articulates with or closely approaches the ventral surface of the pterotic wing'
+		'Absent'
+		,
+		190
+		'Small, does not contact the pterotic'
+		'Large articulating with the ventral surface of the pterotic wing'
+		,
+		191
+		'Spine shaft straight or nearly so'
+		'Spine shaft recurved'
+		,
+		192
+		'Sharp'
+		'Blunt'
+		,
+		193
+		'Few weak depressions near distal tip of spine, edge almost smooth '
+		'Few moderately strong and sharp serrae near distal tip of spine'
+		'Numerous large and sharp serrae extending over distal half or more of spine shaft'
+		,
+		194
+		'Absent'
+		'Present'
+		,
+		195
+		'Anterior dentations weak'
+		'Anterior dentations strong'
+		,
+		196
+		'Anterior ridge low, weakly developed'
+		'Anterior ridge elevated, strongly developed'
+		,
+		197
+		'Absent'
+		'Present'
+		,
+		198
+		'Posterior-dentation halves mostly bisymmetrically aligned'
+		'Posterior-dentation halves mostly imperfectly aligned'
+		,
+		199
+		'Regularly spaced'
+		'Irregularly spaced'
+		,
+		200
+		'Present'
+		'Absent'
+		,
+		201
+		'Simetrically distributed'
+		'Asymetrically distributed'
+		,
+		202
+		'Few proximal dentations arise only from dorsal half of spine shaft'
+		'Most or all proximal dentations arise only from dorsal half of spine shaft'
+		,
+		203
+		'Weak '
+		'Strong '
+		'Very strong'
+		,
+		204
+		'Prominent'
+		'Small'
+		,
+		205
+		'Absent'
+		'Present'
+		,
+		206
+		'Joined by a bony sheet'
+		'Posterolateral and anterolateral processes not joined'
+		,
+		207
+		'Present '
+		'Absent'
+		,
+		208
+		'6'
+		'8'
+		'9'
+		'Mode of 9 but 10 rayed'
+		'More than 10'
+		,
+		209
+		'Remaining round or ovoid without marked flattening'
+		'Marked dorsoventral flattening '
+		
+	;
+	MATRIX
+	'Hypsidoris farsonensis'		           ??????????010??????????????????100111?00000111?00-21---001111-0110011-10112????0????0011?00?1000010200--101?11?100000010-00001011001110?0000?020?1?00?0?11???????0101111000002??21101010-??11?0000-01000??1010100
+	'Ictalurus australis'		              000110010-0000100010000000000001010100?00?11111101?0?1120??10100-00???0000001-111100000000?010?0??0001011002211110110?110?10110010000?02000000001?10001?11001?010010110100000010010-?021001001?000-010000-1100010
+	'Ictalurus balsanus'		               000110010-010010001000000000000101010110001010110000111211110100-00?002100001-11110000100001101000000121100221111001021100001100101011021001000011100010110011011011110101100230110-10110010010000-00--00--100010
+	'Ictalurus furcatus'		               000110010-000010001000000000000111010010011121110000111201110100-00?002100001-111100000000011010010000-0100221111001001110101100101000020000000011000010110011011010110101100220010-10210010010000-110000-0100011
+	'Ictalurus dugesii'		                000110010-010010001000000000000101010010001111110010111200-10100-00?000000001-111100001000111010??00010110022111101100110010110010000102000000001110001?11001?010010110100000010010-?01100100100010011?00-0100010
+	'Ictalurus lupus'		                  000110010-010010001000000000000101010010001111110010111200-10100-00???0000001-111100000000?010?0??0001011002211110110?110?10110010000?02000000001?10001?110011010010110101100010110-?011001001?000-110000-1100010
+	'Ictalurus meridionalis'		           000110010-000010001000000100000111010010001121110010111220-10100-00?001100001-111100000000111010010000--100221111001011110101100101000020001100011000010110010011010110101100220010-10210010010100-11?100-1000111
+	'Ictalurus mexicanus'		              000110010-0000100010000001000001010100?00?1?111101?0?1120??10100-00???0000001-111100000000?010?0??0001011002211110110?11??10110010000??2000000001?10001?110?1?010010110100000010010-?021001001?0010010000-1100010
+	'Ictalurus pricei'		                 000110010-010010001100000000000101010010002111110010111201110110-00?010000001-1111000000000010?0??0001001002211110100010-010110010100102010000001?10001?110?1?01001011010110002001101011011001?010-010000-1100010
+	'Ictalurus punctatus'		              000110010-000010001000000000000101010010000121110010111220-10100-00?001000000211110000100000101010000101110221111010-210-0111101100000020001000110110010111111010010110101000010011010110010010001011??00-1000010
+	'Ictalurus countermani'		            ???????????????????????????????101010011-01???0100001112011?0?011???0000000101?11?1000?????????0???20100100??????????????0??????????????????????????0???????????????????????0???01101010-??00100110110000-1?0???0
+	'Ictalurus spodius'		                ???????????????????????????????101010110002??1?112101112?0??????????01200??????????????0?00010000???????????????10?1?????????11?????????????????????0???????????????????????0???011??02?????0?000100100?0-1?0???0
+	'Ictalurus rhaeas'		                 ?????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????1011??00-1?????1
+	'Ameiurus catus'		                   100110010-1-0010001000000000000121011000000011110020110211110100-102010000000010-001011000122000010211000003111101110010-0101111111101000101001111110010100011010010110100010010001110010010010011001101101001010
+	'Ameiurus serracanthus'		            000110010-1-0010001600000100000111011100001011110110110201110100-11201000000001100010100000220000102111000031111011100111010111111100100110100101110001011000-010010110100110210001110010000010001001101101000010
+	'Ameiurus brunneus'		                000110010-1-0010000600000100000121011100000000110120110201110100-11201200000001100010110000220000002010110031112011110110000111111100100010100100111001010010-110010110101110120001010010000010001101110111001010
+	'Ameiurus platycephalus'		           000110010-1-0010000600000100000121011100001011110100110211110100-112010000000011000101100002200000021110000311120111001110101111111001000101000???11001011101201001011010111012000111000-000010001011101111001010
+	'Ameiurus natalis'		                 000110010-1-0010000000000000000121011100002001012200111211110100-11201010000001101010100101220000101110010030111011000110000111111100100010100011101001011101211001011010101000011101000-000010000-01000110000010
+	'Ameiurus melas'		                   100110010-1-0110000600000000000121101100011011110100110211110101011201010000001100010100001220000101010010030111011100111000111111111101010100011011001011001201001011010100001011101000-000010000-01110100001010
+	'Ameiurus nebulosus'		               100110010-1-0010000000000000000111010100012001110110111201110101111201210000001100010110001220000101111000030111011100110000111111111101010100211001001011000-01001011010000001001101010-110010001011110101001020
+	'Ameiurus hazenensis'		              ???????????????????????????????121111?01011000?1?120111211110100-???1-1?0??????1????????????2??0??01110?1????111??110011000?1111????1????1???000000?0?1?11001???????????????0???2???1000-??00100?110????????0???0
+	'Ameiurus lavetti'		                 ??????????1-???????????????????121111?00001000?102101112?111??01011?01100?????????????1?00?1???01?0210--10??01????11?????00?01?1????0?00?1?????1110?0??????????????????2????0???1110?00?????0?001100111???1001?10
+	'Ameiurus leidyi'		                  ???????????????????????????????1110111?0001010?10110111221110101????001100??00?1000101??00?120?0??02?10?100?0?????11??1?110?????????0????1???01?????0?1?10??????????????????0???111??001110?0??01100111011??0???0
+	'Ameiurus macgrewi'		                ???????????????????????????????111011?00000010?10110111211110100-???00100??????????1??1000?22??0??02?10?100?0?????110????01??111????0????1???00001010?1?100?12???01011???1??00??111000011??00?0000-0111?100001?10
+	'Ameiurus pectinatus'		              ???????????????????????????????11101????????????????????????????????????00??00???1????1??0121010??02?0--10??????????????????????????????01???02????00?1?101?????????????????0???11100001?0000?0000-?10000-1001010
+	'Ameiurus peregrinus'		              ???????????????????????????????1?101??0???1?11?102101???????????????????0???????????????00?120?0??0211011???0?????11??1?0???????????????????????????0???????????????????????0???1011????????0???011?1?1???1?0???0
+	'Ameiurus reticulatus'		             ???????????????????????????????11101??????1?11??????????????????????????0?????????????0??01?2??00?0?????????0????????????????????????????????00?????0???????????????????????0???1110????????0???00-?1???111?0???0
+	'Ameiurus sawrockensis'		            ???????????????????????????????111111100011001?11110121?111???111???1-1100??00??????00??0??12??0??02????100?01??01110??11000??1?????0?0?0101002?????0???????1???????????????0???1010??????1?0?00011?11000-1?0???0
+	'Ameiurus vespertinus'		             ???????????????????????????????1?11111000?1021?101201112211101010???1-2000??00??00?10110000120?0??0210--1???0?????11??1100??????????????????????????0???111?12??????????00?00???0110?001010?0?00011?1?0???1?0???0
+	'Astephus resimus'		                 ???????????????????????????????221101100010???100-21---000-1000111?????010?1??????001-??0??1???0??0?????????1????????????0001???????????????????????0??????????????????????????????????????01???????????????0??20
+	'Astephus antiquus'		                ?0?????11100???????????????????221101100010021?00-21---00111000101??1-1000100001000000??00?1?0?0???000--100??11001100?10-0001100??10????000000011100001?100?1????010110100?00020000-0000-000100000-011100?0001020
+	'Astephus sp.'		                     ?????????????????????????????????110?1?00?0??1?00-?1---?????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????0
+	'Noturus albater'		                  0011??01111-011?0210300021112101???????00?0????12??????2??????????1?0?0?0?????????10???????????0??0?????????????????02???????0????????01????1??10???0??1???????100????1200??0?112???????????0?1??10?1?????2?0?020
+	'Noturus baileyi'		                  00?1??01101-011?0110200001111101???????00?0????12??????2??????????1?0?0?0?????????10???????????0??0?????????????????02???????0????????01????1??10???0??1???????100????1200??0?012???????????0?1??10?1?????2?0?010
+	'Noturus elegans'		                  0011??01101-011?0110100111111101???????00?0????12??????2??????????1?0?0?0?????????10???????????0??0?????????????????02???????0????????01????1??10???0??1???????100????1200??0?012???????????0?1??10?1?????2?0?020
+	'Noturus eleutherus'		               0011??01111-011?0111310101111101???????00?0????12??????2??????????1?0?0?0?????????10???????????0??0?????????????????02???????0????????01????0??10???0??0???????100????1200??0?011???????????0?1??11?1?????2?0?020
+	'Noturus exilis'		                   10111001101-011?00020000021111010101011001000--12120011210-11-10-11?010000211-10-0100110?010101001010111000??11101110111001011110-111102100110010110001011110-110011111201000101200-1000-001000000-01100??1000120
+	'Noturus fasciatus'		                00?1??01111-011?0110100111112101???????00?0????12??????2??????????1?0?0?0?????????10???????????0??0?????????????????02???????0????????01????1??10???0??1???????100????1?00??0?012???????????0?1??10?1?????2?0?020
+	'Noturus flavater'		                 00?1??01111-001?0413300021112201???????00?0????12??????2??????????1?0?0?0?????????10???????????0??0?????????????????02???????1????????01????0??10???0??0???????100????1200??0?010???????????0?1??11?1?????2?0?020
+	'Noturus flavipinnis'		              00?1??01111-011?0411301021112101???????00?0????12??????2??????????1?0?0?0?????????10???????????0??0?????????????????02???????0????????01????0??10???0??0???????100????1300??0?010???????????0?1??11?1?????2?0?120
+	'Noturus flavus'		                   00111001101-00100004000000?111011101011001200--12120010211111-10-102012001211-10-0100111101110000100012100012101011100111010111111100102110100210110001010110-110011111301110120210-0000-001000010-00--010-001020
+	'Noturus funebris'		                 0011??01111-111?0004020000000001???????00?2????12??????2??????????0?0?2?0?????????10???????????0??0?????????????????00???????1????????0?????0??10???0??0???????100????1201??0?122???????????0?0??0-?1?????0?0?120
+	'Noturus furiosus'		                 00?1??01111-011?031130?121112101???????00?0????12??????2??????????1?0?0?0?????????10???????????0??0?????????????????02???????0????????01????1??10???0??0???????100????1?00??0?010???????????0?1??11?1?????2?0?120
+	'Noturus gilberti'		                 0011??01111-011?0000000000000001???????00?0????12??????2??????????1?0?0?0?????????10???????????0??0?????????????????02???????0????????02????1??10???0??1???????100????1201??0?112???????????0?0??0-?1?????0?0?120
+	'Noturus gladiator'		                0011??01111-011?0513311121112111???????00?0????12??????2??????????1?0?0?0?????????10???????????0??0?????????????????02???????0????????02????1??10???0??0???????100????1?00??0?010???????????0?1??11?1?????2?0?120
+	'Noturus gyrinus'		                  1011??01101-111?0000000000000001???????00?0????12??????2??????????0?0?2?0?????????10???????????0??0?????????????????00???????1????????02????1??10???0??1???????100????1300??0?511???????????0?0??0-?0--???-?0?010
+	'Noturus hildebrandi'		              0011??01101-011?01103001?1112101???????00?0????12??????2??????????1?0?0?0?????????10???????????0??0?????????????????02???????0????????01????1??10???0??1???????100????1200??0?112???????????0?1??10?1?????2?0?010
+	'Noturus insignis'		                 00111001101-011000020000020000011101011000000--12120101211111-10-11201200101??10-0100111100010100100011010012101011101111000101111100001100100010110000010100-110010111300100111210-1000-001000111001111??1000120
+	'Noturus lachneri'		                 10?1??01101-011?0000000000000001???????00?0????12??????2??????????0?0?2?0?????????10???????????0??0?????????????????00???????0????????02????1??10???0??1???????100????1300??0?012???????????0?0??0-?0--???-?0?110
+	'Noturus leptacanthus'		             0011??01101-011?00110?0000000001???????00?0????12??????2??????????1?0?2?0?????????10???????????0??0?????????????????00???????1????????02????1??10???0??1???????100????1201??0?112???????????0?0??0-?0--???-?0?110
+	'Noturus maydeni'		                  0011??01101-011?0210300021112101???????00?0????12??????2??????????1?0?0?0?????????10???????????0??0?????????????????02???????0????????01????1??10???0??1???????100????1?00??0?112???????????0?1??10?1?????2?0?020
+	'Noturus miurus'		                   00111001101-011?0315200?2111210101010110000000012?20?11211111-11111?010001111-10-0100110?010?01001000110100??11111110210-00010111-12000?0000101100100?1011100-11001000130000000110001020-101001001001000??2001120
+	'Noturus munitus'		                  00?1??01111-011?0313311121112111???????00?0????12??????2??????????1?0?0?0?????????10???????????0??0?????????????????02???????0????????01????1??10???00?0???????100????1200??0?010???????????0?1??11?1?????2?0?020
+	'Noturus nocturnus'		                00111001101-111?0004010000000001?1010110012000012?00?10200-11-10-11?011001011-10?0100110?0001010100?0110100??11111110010-01011101-121102000000110110001010110-110010111201100011200-10110001000000-01011??1001020
+	'Noturus phaeus'		                   0011??01101-111?0004020000000001???????00?0????12??????2??????????1?0?2?0?????????10???????????0??0?????????????????00???????0????????0?????0??10???0??0???????100????1200??0?122???????????0?0??0-?1?????1?0?120
+	'Noturus placidus'		                 0011??01101-011?0111301121112101???????00?0????12??????2??????????1?0?0?0?????????10???????????0??0?????????????????02???????0????????0?????1??10???0??0???????100????1200??0?010???????????0?1??10?1?????2?0?020
+	'Noturus stanauli'		                 00?1??01101-011?0110100001111101???????00?0????12??????2??????????1?0?0?0?????????10???????????0??0?????????????????02???????0????????01????1??10???0??1???????100????1?00??0?012???????????0?1??11?1?????2?0?010
+	'Noturus stigmosus'		                00111001101-001003133111211121110101011001000--12?00?01200-11-10-112010101210210-010011110001010010001101001211111110210-000101111100102000110110111001010110-110011101200000101010-10010101001011101001102000120
+	'Noturus taylori'		                  00?1??01101-011?0115200?21112101???????00?0????12??????2??????????0?0?0?0?????????10???????????0??0?????????????????02???????0????????02????1??10???0??0???????100????1?00??0?012???????????0?1??11?1?????2?0?120
+	'Noturus trautmani'		                0011??01101-011?0110100011111101???????00?0????12??????2??????????1?0?0?0?????????10???????????0??0?????????????????02???????0????????01????1??10???0??1???????100????1200??0?012???????????0?1??10?1?????2?0?120
+	'Prietella lundbergi'		              01-10001111-000-1----00-------010010???1-?000--?2??0?????11???1??00?????0?????????????1210?????0010200--????0?????100?????????????????02000??02?????0???0??????0001100?1????1?1?2?????????????0100--0--?---???110
+	'Prietella phreatophila'		           01-10001101-010-1----00-------0111010111-1000--1210001?210-11-10-110000001211-10?010011110001000010200--100?010101100101000010010-10011-0000102110100?0100001011000100001--01210200-0000-001000100-00--0??-000110
+	'Pylodictis olivaris'		              200110010-1-0010001001000000000120101110002020110020111211010000-1121-1000101-10-0101-1221100110020101111010101001111-00-100000111110100101101-110100101101110110010100101000130110-00010011010021111100111000030
+	'Satan eurystomus'		                 11-10101111-010-1----00-------0110111110010000-1202001111111011111?01-1101211-010110001220021010010?00--000?111011000100-00000010-0001??1000102011121--?00011200-00100?101100020210-1020-101000000-01011111?0??30
+	'Trogloglanis pattersoni'		          01-12011101-01111----00-------010011101001100-012100001201100110-0?11-1002211-10-010000000101001--1100-----?111110100211000011010-0011??010010111010010?0011120??011001100000000110-10111111000000-01011110101010
+	'Bagrus bajad'		                     1001010111000010001000000000000101110110000020102-11---010-1000110011-1010111-011110010000121010020200--100??01010110111000011100-10100?101111-011000?0?10100-010010101101000010110-0000-010100000--10000?001110?
+	'Cranoglanis bouderius'		            0001100101000010001600000100000100110010000121100-21---001111-0110?00020010001110110001000101010110100--000??111001---10-00111100-00010?0101000111000?1?110012010010100200000230010-0020-011100100-010110?0001030
+	'Pangasius nasutus'		                000000010-000010001000000000000021111010001121000-01---01101000110010121110001111100011200010010010200--100??11110110201101001010-10100?010101-111010?111100121100101102010002?0010-0000-1101100010010000?101010?
+	'Plotosus canius'		                  00011000--1-1010001001000100000101110010002000100-21---11101010100?01-1011000111100001000010100001000100010??10100111-11010001000-11000?1101000011000?0110110-0101------01010220110-0000-0001101110010000?001113?
+	'Silurus glanis'		                   20100000--1-1010000001000000000121101100010000002-21---001001-00-110001111110100-10000100012101002020111101??10110101-00-01011011?00110?100101-010000?0110110-01001111110???0?40200-11-0-000110100-00--1---01114?
+	'Schilbe mystus'		                   2011010?--010010001001000000000120011000102020102-21---001110110-1101-1010001-011100011000120110010200--001??01111100200-01101001012010?100101-110000?1011100-010011001101000020110-1020-0101000110010000?0011100
+    ;
+    ENDBLOCK;
+
+          BEGIN ASSUMPTIONS;
+      TYPESET * UNTITLED = unord: 1 - 209;
+      ENDBLOCK;
+      
