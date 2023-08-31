@@ -1,0 +1,204 @@
+nstates num 2;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 17.30.52'
+145 41
+
+&[num]
+Euperipatoides_rowelli             10001100100000000001000011101000101100000000000100010000000000101??001010000100101000001000110001000000000000010010000000100000000000001000010000
+Orthoporus_ornatus                 01010011001000011000000011111001101010000000000100?10000000000101010010?0000110000000001101000000000000000000000000000101000000000000000010000000
+Scolopendra_polymorpha             01010011001000011000000011110110101010000000000010010000100000101010001?0000110000?00001001010011000000000000000000000100100000000000000010000000
+Scutigera_coleoptrata              01010011001000011000000011110110101010000000000010010000100000101010001?0000110000?00001001010011000000000000000000001000010001000000000100000000
+Lycythorhychus_sp.                 0101010000100000?01000001?011000100000100010101100?10000000000?01??0010?0000?00000?000010001100??000000000000011010000000000000000000000000010111
+Limulus_polyphemus                 0101010010100000001110001?011100100001100010001100?10000000000101??00?1?0000000100100001000110001000000000000011000001000010010000000001000011111
+Hadrurus_arizonensis               01010100100001100111100010011100100000101000100100010000000000101010001?0000000100100001000110001000000000000011010000000000000000000001000011111
+Eremobates_pallipes                0101010010000110011110001001110010000110010011010001000000000010101001010000100100100101000110001000000000000010010000000000000000000001000011111
+Mastigoproctus_giganteus           0101010010000110011111001001110010000011000001010001000000000010110000110000101100100101000110001000000000000010010000000100000000000001000011111
+Phrynus_marginemaculata            0101010010000110011111001001110010000011000001010001000000000010110000110000101100100101000110001000000000000010010000000100000000000001000011111
+Heptathela_kimurai                 01010100100001100111100010011100100000000000000000?0000000000010101001000000100000110001000110001000000000000010010000000001010000000011000011111
+Cupinennius_salei                  0101010010000110011101001001110000000000000000000000000000000010101001000000100000110001000110001000000000000010010000000001010000000011000011111
+Triops_longicaudatus               010100000100000110001000101101001010100000000001101000000010000000?000000000000000000001100000110000000000000000000010000010001000000000000000000
+Artemia_salina                     0101000001000000100010001011010000000000000000000000000000100000000000000000000000000001100000110000000000000000000010000010001000000000000000000
+Tigriopus_californicus             010100000110000100001000100101001110100000000001001?01000?100010000000010000000000000001001001?110?0000000000000000100010000000000000000000000000
+Godzilliognomus_frondosus          010100000110000100001000100101001110100000000001001?1011001000100??000010000000000000001001001?11010000000000000000000010000000000000000000000000
+Nebalia_pugettensis                0101000001000001?0001000100001001110100000000000101?0100001000000000000000000000000000011010010100100000000000000000100000001011100101000?0000000
+Ligia_occidentalis                 01010000011000010000100010010100101010000000000100100100001000000000000000000000000000010010010111000000100100000000100000001011000100001?0000000
+Pseudosquilla_ciliata              010100000100000100001000100101001110100000000000011?001000101110101000010000000000000001001001011101?00011000000100110000000101100010100010000000
+Pandalopsis_dispar                 0101000001000001000010001001010010101000000000000110101001101110001000010000000000000001001001011010?00000010000000110000000101110010100010000000
+Hemigrapsus_oregonensis            0101000001000111000011001001010010101000000000000110101101101110110000010000000000000?01001001011010?000?0010000000?10000000101110010100110000000
+Ceonobita_clypeatus                0101000001000111000011001001010010101000000000000110101101101110110000010000000000000?01001001011010?00000010000000?10000000101110010100010000000
+Astacus_fluviatalis                0101000001000001000010001001010010101000000000000110101101101110001000010000000000000?01001001011010?00000010000000?10000000101110010100010000000
+Machilis_germanicus                0101000100000001000010111001010010101000000100010001010000010000000000000000000000000001101001010010000000000000000110000000101001101100110000000
+Lepisma_saccharina                 0101000100000001000010110001010010001000000100010001000000010011110000100010110000000001100000011101010011000000100110000010000010000100010000000
+Potamanthus_luteus                 0101000100011101000010110001010000000000000000000000000000010010101000100000110000000001001001010010000000010000100110000000101010101100011000000
+Libellula_saturata                 0101000100011101000010010001010000000000000000000000000000000010101000100000100100010001001001011101110011000000100110000000101000110100111000000
+Aquarius_remigis                   0101000100001110011001010001010000000000000000000000000000010010101?00100000100001000001001001011101?11011001000100?10000000000001101100110000000
+Schistocerca_americana             0101000100011101000010010001010010101000000100010010010000010011101?10110010100000000001001001011101110011000000100110000000100010101100110000000
+Anisolabis_maritima                0101000100000000010010110001010010101000000100001001010000010011101110110101100001000111001001111101000010000100100?100000001010?0101100010000000
+Periplaneta_americana              0101000100011101000010110001010010101000000100010001010010010011110100111000100010001101001001011101010011100000100110000000101010101100110000000
+Mantis_religiosa                   0101000100001101000010010001010010101000000100001001010010010011110100111000100010000111001001011101110011100000100110000000101000110100110000000
+Chauliognathus_lecontei            0101000100001100010010010001010010101000000000000001010000010011101?10110101100000000111001001011101?10010010000100?10000000101000101100110100000
+Dineutus_sublineatus               0101000100001100010010010001010000000000000000000000000000010011101?10100101100000001111001001011101111011001000100?10000000101000101100110100000
+Thermonectus_marmoratus            0101000100001100010010010001010000000000000000000000000000010010101?10100000100000000111001001011101?10011001000100?10000000101000101100110100000
+Apis_mellifera                     0101000100001100010010010001010010101000000000010001010010010011110000111000100010001101001001011101110111010000100110000000100001101100100100000
+Polistes_flavus                    0101000100001100010010010001010010101000000000010001010010010011110000111000100010001111001001011101110011010000100110000000100001101100100100000
+Dasymutilla_sp.                    0101000100001100010010010001010011101000000000010001010010010011110?00111000100010001111001001011101?100110100001001100000001000011011?01001?0000
+Macroglossum_stellaratum           0101000100001100010010010001010010101000000000001001010010010011101100110100100101000001001001011101010010010000100110000000101000101100010100000
+Drosophila_melanogaster            0101000100001110010011010001010010101000000000001001010010010011111100110100100101000001001001011101010100010000100110000000101000101100000100000
+Alalcomenaeus_sp.                  010100?010000110011101001????????????????????????????????????????????????????????????????????????????????????????0????000?000???????????????11111
+
+;
+
+
+cnames
+{ 0 Nerve_cords_lateralized State_0 State_1;
+{ 1 Segmented_postoral_nervous_system State_0 State_1;
+{ 2 Brain_asegmental State_0;
+{ 3 Segmental_appendages_jointed State_0 State_1;
+{ 4 Orthogonal_connectives State_0 State_1;
+{ 5 Absence_of_articulated_antenniform_head_appendages,_but_cephalized State_0 State_1;
+{ 6 Deutocerebral_appendages_with_internalized_muscles_throughout State_0 State_1;
+{ 7 First_antenna_(A1)_only State_0 State_1;
+{ 8 Appendages_corresponding_to_location_of_first_antenna_(A1) State_0 State_1;
+{ 9 Second_antenna_(A2) State_0 State_1;
+{ 10 Isomorphic_"thoracic"_ganglia State_0 State_1;
+{ 11 Thoracic_ganglia_segmental_but_unfused State_0 State_1;
+{ 12 Pterothoracic_neuropil State_0 State_1;
+{ 13 Meso-_and_metathoracic_ganglia_fused State_0 State_1;
+{ 14 Pro-,_meso-_and_metathoracic_ganglia_fused State_0 State_1;
+{ 15 Discrete_suboesophageal_ganglion State_0 State_1;
+{ 16 Discrete_tritocerebrum State_0 State_1;
+{ 17 Supra-_and_suboesophageal_ganglion_completely_fused State_0 State_1;
+{ 18 Suboesophageal_ganglion_completely_fused_to_thoracic_plus_abdominal_ganglia State_0 State_1;
+{ 19 Contiguous_neuropils_throughout State_0 State_1;
+{ 20 Discrete_segmental_ganglia_in_abdomen State_0 State_1;
+{ 21 Abdominal_ganglia_fused State_0 State_1;
+{ 22 Last_two_abdominal_ganglia_fused State_0 State_1;
+{ 23 Three_ganglia_serving_three_paired_postmandibular_appendages State_0 State_1;
+{ 24 Segmental_ganglia_serving_more_than_three_paired_postmandibular_appendages State_0 State_1;
+{ 25 Pronounced_layering_of_lateral_neuropils State_0 State_1;
+{ 26 Lateral_neuropils_contiguous_across_midline State_0 State_1;
+{ 27 Discrete_bilateral_neuropils_connected_by_tracts State_0 State_1;
+{ 28 Uniform_somata_other_than_motor_neurons_or_giant_neurons State_0 State_1;
+{ 29 Clustering_of_somata_of_different_sizes State_0 State_1;
+{ 30 Separate_but_intermingled_olfactory_(ball-shaped)_and_mechanosensory_(sausage-shaped)_glomeruli_in_deutocerebrum State_0 State_1;
+{ 31 Mixed_offactory_and_mechanosensory_afferents_in_deutocerebrum State_0 State_1;
+{ 32 Glomeruli_in_CNS State_0 State_1;
+{ 33 Olfactory_lobes_with_glomeruli_clustered_as_groups State_0 State_1;
+{ 34 Glomeruli_pre-oral State_0 State_1;
+{ 35 Glomerular_afferents_from_pre-antennal_appendages State_0 State_1;
+{ 36 Afferents_to_glomeruli_from_antennules_(1st_antennae) State_0 State_1;
+{ 37 Afferents_to_glomeruli_from_pedipalp State_0 State_1;
+{ 38 Afferents_to_glomeruli_from_postoral_appendages State_0 State_1;
+{ 39 Afferents_to_glomeruli_from_modified_leg_1 State_0 State_1;
+{ 40 Afferents_to_glomeruli_from_posterior_to_leg_4_(from_pectines) State_0 State_1;
+{ 41 Afferents_to_glomeruli_from_modified_leg_3 State_0 State_1;
+{ 42 Segmental_glomeruli_supplied_by_all_leg_neuromeres State_0 State_1;
+{ 43 Glomeruli_in_tritocerebrum_associated_with_mouthparts State_0 State_1;
+{ 44 Glomeruli_in_posterior_cephalothoracic_ganglia State_0 State_1;
+{ 45 Glomeruli_in_anterior_cephalothoracic_ganglia State_0 State_1;
+{ 46 Glomeruli_in_all_postoral_ganglia State_0 State_1;
+{ 47 Glomeruli_ball-like State_0 State_1;
+{ 48 Glomeruli_compound State_0 State_1;
+{ 49 Glomeruli_wedge-shaped State_0 State_1;
+{ 50 Projection_neurons_mainly_multiglomerular State_0 State_1;
+{ 51 Uniglomerular_projection_neurons_predominate State_0 State_1;
+{ 52 Accessory_glomeruli,_not_1st_order_neuropils State_0 State_1;
+{ 53 Homolateral_ascending_axons_from_olfactory_lobe State_0 State_1;
+{ 54 Heterolateral_ascending_axons_from_olfactory_lobe State_0 State_1;
+{ 55 Heterolateral_ascending_neurons_from_accessory_glomeruli State_0 State_1;
+{ 56 Divergent_pathways_from_olfactory_lobes_supplied_by_unique_antennal_pair State_0 State_1;
+{ 57 Divergent_pathways_from_olfactory_lobes_supplied_by_first_antenna_(A1) State_0 State_1;
+{ 58 Striate/layered_neuropil_supplied_by_second_antenna_(A2) State_0 State_1;
+{ 59 Striate_neuropil_supplied_by_single_antennal_pair State_0 State_1;
+{ 60 Globuli_cells_in_eyestalk_protocerebrum State_0 State_1;
+{ 61 Eye_stalk_with_discrete_layered_neuropil State_0 State_1;
+{ 62 Globuli_cells_or_equivalent_in_lateral_protocerebrum State_0 State_1;
+{ 63 Discrete_neuropil_supplied_by_grouped_globuli_cells State_0 State_1;
+{ 64 Clustered_parallel_fibers State_0 State_1;
+{ 65 Rectilinear_dendritic_intercepts_of_clustered_parallel_fibers State_0 State_1;
+{ 66 Diffuse_dendritic_intercepts_of_clustered_parallel_fibers State_0 State_1;
+{ 67 Liana_enwrapping_of_clustered_parallel_fibers State_0 State_1;
+{ 68 Clustered_parallel_fibers_arranged_as_core_and_concentric_layers State_0 State_1;
+{ 69 Heterolateral_lobes_supplied_by_clustered_parallel_fibers State_0 State_1;
+{ 70 Homolateral_lobes_supplied_by_clustered_parallel_fibers State_0 State_1;
+{ 71 Olfactory_glomeruli,_independent_of_location,_supply_input_to_globuli_cell_neuropil State_0 State_1;
+{ 72 Double_concave_peripheral_swelling_supplied_by_globuli_cells State_0 State_1;
+{ 73 Double_convex_peripheral_swelling_supplied_by_globuli_cells State_0 State_1;
+{ 74 Turban-shaped_peripheral_swelling_supplied_by_globuli_cells State_0 State_1;
+{ 75 Isomorphic_peripheral_swelling_supplied_by_globuli_cells State_0 State_1;
+{ 76 Clusterd_parallel_fibers_form_elongated_lobes State_0 State_1;
+{ 77 Clustered_parallel_fibers_form_elongated_lobes_with_prominent_swellings State_0 State_1;
+{ 78 Clustered_parallel_fibers_provide_folded_lobes State_0 State_1;
+{ 79 Clustered_parallel_fibers_provide_multiple_parallel_lobes State_0 State_1;
+{ 80 Clustered_parallel_fibers_with_serial_subdivisions_in_lobes State_0 State_1;
+{ 81 Clustered_parallel_fibers_provide_diverging_lobes State_0 State_1;
+{ 82 Connections_between_lobes_and_midline_neuropils State_0 State_1;
+{ 83 Visual_afferent_supply_to_clustered_parallel_fibers State_0 State_1;
+{ 84 Visual_supply_to_head_of_clustered_parallel_fibers State_0 State_1;
+{ 85 Mechanosensory_supply_head_of_clustered_parallel_fibers State_0 State_1;
+{ 86 Eversion_of_clustered_parallel_fibers_recurrent_to_peripheral_swelling State_0 State_1;
+{ 87 Fascicle_switch State_1;
+{ 88 Fascicle_switch_but_rostral_midline_neuropil_absent_or_trace State_0 State_1;
+{ 89 Midline_neuropil_entirely_absent State_0;
+{ 90 Columnar_midline_neuropil_with_<50_columns State_0 State_1;
+{ 91 Columnar_midline_neuropil_with_>50_columns State_0 State_1;
+{ 92 Rostral_midline_neuropil_dominant State_0 State_1;
+{ 93 Caudal_midline_neuropil_dominant State_0 State_1;
+{ 94 Isomorphic_midline_neuropil State_0 State_1;
+{ 95 Inputs_to_caudal_midline_neuropil_upper,_heterolateral State_0 State_1;
+{ 96 Inputs_to_caudal_midline_neuropil_lower,_heterolateral State_0 State_1;
+{ 97 Fan-shaped_neurons State_0 State_1;
+{ 98 Extended_spindle-shaped_neurons State_0 State_1;
+{ 99 Paired_glomeruli_as_ventral_satellite_to_midline_neuropil State_0 State_1;
+{ 100 Indirect_visual_relays_to_rostral_component_of_midline_neuropil State_0 State_1;
+{ 101 Caudal_midline_neuropil_with_superficial_layer State_0 State_1;
+{ 102 Rostral_midline_neuropil_split/lateralized State_0 State_1;
+{ 103 Caudal_midline_neuropil_thick,_lower_layer_toroid State_0 State_1;
+{ 104 Caudal_midline_neuropil_thick,_lower_layer_arched State_0 State_1;
+{ 105 Caudal_midline_neuropil_thick,_folia_pronounced State_0 State_1;
+{ 106 Caudal_midline_neuropil_thick,_folia_discrete State_0 State_1;
+{ 107 Caudal_midline_neuropil_thick,_modestly_foliate State_0 State_1;
+{ 108 Caudal_midline_neuropil_thick,_folia_reduced State_0 State_1;
+{ 109 Caudal_midline_neuropil_thick,_diffuse State_0 State_1;
+{ 110 Rostral_midline_neuropil_extended,_arcuate State_0 State_1;
+{ 111 Rostral_midline_neuropil_extended,_equal_depth_with_caudal State_0 State_1;
+{ 112 Rostral_midline_neuropil_stout,_8-16_subunits_only State_0 State_1;
+{ 113 Single_lens_eyes State_0 State_1;
+{ 114 "Eyespots" State_0;
+{ 115 Ocelli_sensu_Paulus State_0 State_1;
+{ 116 Facet_eyes__8_receptors State_0 State_1;
+{ 117 Facet_eyes_>8_receptors State_0 State_1;
+{ 118 Stemmatal_eyes_sensu_Paulus State_0 State_1;
+{ 119 Optic_neuropil_not_present State_0 State_1;
+{ 120 Single_optic_neuropil_only State_0 State_1;
+{ 121 Glomerular_optic_neuropil_only State_0 State_1;
+{ 122 Two_nested_retinotopic_optic_neuropils State_0 State_1;
+{ 123 Three_nested_retinotopic_optic_neuropils State_0 State_1;
+{ 124 Four_nested_retinotopic_optic_neuropils State_0 State_1;
+{ 125 Chunk_cross-over_of_axons_between_optic_neuropils State_0 State_1;
+{ 126 Tectum-like_neuropil_receiving_uncrossed_axons_from_next_distal_neuropil State_0 State_1;
+{ 127 Second_optic_neuropil_undivided,_tangential_processes_proximal State_0 State_1;
+{ 128 Optic_tectum_vestigial State_0 State_1;
+{ 129 Optic_tectum_integrated_into_third_optic_neuropil State_0 State_1;
+{ 130 Cuccati_bundle_divides_second_optic_neuropil State_0 State_1;
+{ 131 Deep_optic_lobe_neuropil_1 1_retinotopy State_1;
+{ 132 Retinotopy_coarsened_in_third_optic_neuropil State_0 State_1;
+{ 133 Linear_reversal_of_axons_between_optic_neuropils State_0 State_1;
+{ 134 Retinotopic_inputs_to_parallel_fibers_supplied_by_globuli_cells State_0 State_1;
+{ 135 Optic_neuropil_connected_directly_to_rostral_mid-line_neuropil State_0 State_1;
+{ 136 Giant_fibers_in_visual_tectum State_0 State_1;
+{ 137 Protocerebral_glomeruli_supplied_by_retinotopic_neuropils State_0 State_1;
+{ 138 Aquatic_nymphal_brain State_0 State_1;
+{ 139 Holometabolous_development_of_brain State_0 State_1;
+{ 140 Stomodeum_extends_to_rostral_margin_of_protocerebrum State_0 State_1;
+{ 141 Partial_or_complete_fusion_of_brain_with_5-6_post-cerebral_neuromeres State_0 State_1;
+{ 142 Serial_optic_neuropils,_only_one_outside_protocerebrum State_0 State_1;
+{ 143 At_least_two_eyes_each_side_of_midline_relaying_to_their_optic_neuropils State_0 State_1;
+{ 144 1st_postocular_appendages_with_elbow_joint_/_fixed_and_movable_fingers State_0 State_1;
+;
+
+
+ccode  - 0.144;
+
+
+;

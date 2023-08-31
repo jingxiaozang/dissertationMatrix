@@ -1,0 +1,136 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 17.43.52'
+85 33
+
+&[num]
+Peramus                              ???00000000100000?0000-00--0-----001000100?0?0010000??00?000?100000010000000000000000
+Kielantherium                        ??????????????00100000000001000001???000??0?1???????????????????????????0100001000001
+Eomaia                               0110011100????00??00001110?10??0?1???00000001001000000000000010100000?0001100?1??1000
+Prokennalestes                       ?010011100110000100000111001000001000000000010000000??00?0010000001000000110001001000
+Murtoilestes                         ????0?????????0010000111200100000100????????????????????????????????????011?001001?00
+Bobolestes                           ???0??????????00010101122101001001?00100111010????00??00?001?100100121010110011011000
+Paranyctoides                        ???0???1001?000010111111211111111110?010????10????00?100?1000000100000010210101112010
+Eozhelestes                          ???0?????????????????????????????????101??1?1?????00??00?100?10010??????0210001002110
+Sheikhdzheilia                       ??????????????10001111222101211001120?????1????????????????????????000111210001112100
+Avitotherium                         ??????????????1111111122210121101100???????????????????0??????0000??????1221101112?1?
+Lainodon                             ????????????????????????????????????????????????????????????????????????121010111210?
+Gallolestes                          ???????????????????????22101?11011????????1?????????????????????????????1221111112110
+Zhelestidae_gen._nov.                ?????????????????????????????????????0001110110100??????????????1??000111211011112110
+Parazhelestes_mynbulakensis          ??00001100110111111111222101211111120011111010000000?000?1000000100121111221011112110
+Parazhelestes_robustus               ?00000?1001101111111112221012111111210111110100?0000?000?10000001???????1221011112110
+Aspanlestes                          ?0001011001101111111112221012110111201?1111010000000??00?1000000100121111211011112110
+Zhelestes                            ?110112100110111111111222101211011120111111010010000?000?10001001?0021111211011112110
+Eoungulatum                          ?100001???2211110111122221012111111?0110??1110????00?000?100010010??????1211011112111
+Cimolestes                           ?1?11031012??0010111001221111010?10?001111?100000010110002100110300001000200001012000
+Maelestes                            ??1010210110111001110012?1?1101011020011??1011011010?10002100111201001100221011012000
+Batodon                              ???1???100111011011101122111101011?200????1????????????0???0011130002110021001101?000
+Bulaklestes                          ???1???100????0011110?1121111000011??011111?100????????0??010000300001000210001011000
+Daulestes                            ???1???1001110000011001121111000?100?0111?10100????????0?????000301001000220001011000
+Uchkudukodon                         ???1???1001010001011001121111000?1?000111110101100100000020100003010????0220001011000
+Kennalestes                          101?00?1011111001011001121111001110000111111010??1?000?0??000?01301000010210011011000
+Asioryctes                           10110032011210000111001101211001010100111101010?00?000?00?000?01311000010220011011000
+Ukhaatherium                         11110132011210000111001101211001010100??111?01??000000000000010131100?0102200?10?1?00
+Deccanolestes                        ???????111????010111121221011011010000????1????????????0???00101?00???011210101011000
+Kulbeckia                            20110032011?10100111112121112001?10100?1110100????011111111000003??121111222011111000
+Zhanglolestes                        ???0??????????????????????????????????????0???????1111?2121111002?0121111212001121001
+Zalambdalestes                       20110032111110110111112001112001010110111101?0121111111212111000300121111222111122100
+Barunlestes                          ??11??32111110110111112001?120010101111111010012111111121211100-300121111222111122101
+Gypsonictops                         ???????211221111011111222101201111010?101111000??1?????0??0001001?002111122?011112000
+
+;
+
+
+cnames
+{ 0 Ultimate_upper_incisor in_premaxilla between_premaxilla_and_maxilla in_maxilla;
+{ 1 Upper_canine_roots 2 1;
+{ 2 Diastema_C_P absent present;
+{ 3 Premolars 5 4;
+{ 4 upper_P1_roots 2 1;
+{ 5 P1_posterior_diastema absent present;
+{ 6 upper_P3 as_long_or_longer_than_P2_and_double-rooted shorter_than_P2_and_double-rooted shorter_than_P2_and_single-rooted lost;
+{ 7 P4_protocone absent small,_lingual_bulge with_enlarged_basin;
+{ 8 P4_parastylar_lobe absent_or_small well_developed;
+{ 9 P4_roots 2 3;
+{ 10 P5_protocone absent_or_narrow_cingulum smaller_than_paracone approaches_paracone_in_height;
+{ 11 P5_metacone absent swelling large;
+{ 12 P5_para-_and_metastylat_lobes subequal parastylar_larger;
+{ 13 P5_cingula absent present;
+{ 14 Upper_molar_stylar_shelf more_than_25%_of_tooth_width less_than_25%;
+{ 15 Ectoflexus deep shallow_to_absent;
+{ 16 Preparastyle absent present;
+{ 17 Stylar_cusp_B_(stylocone) small_but_distinctive vestigial_to_absent;
+{ 18 Preparacrista strong weak_or_absent;
+{ 19 Preparacrista_and_postmetacrista cuspate not_cuspate;
+{ 20 Paracone_and_metacone_bases adjoined separate;
+{ 21 Metacone_size_to_paracone noticeably_smaller slightly_smaller subequal_to_larger;
+{ 22 Conular_region_width narrow_(less_than_.3_total_tooth_width) moderate_(.31-.50_total_tooth_width) wide_(more_than_.51_total_tooth_width);
+{ 23 Paraconule weak_or_absent prominent,_closer_to_protocone prominent,_midway_or_closer_to_paracone;
+{ 24 Metaconule weak_or_absent prominent,_closer_to_protocone prominent,_midway_or_closer_to_metacone;
+{ 25 Internal_conular_cristae indistinctive distinctive_and_wing-like;
+{ 26 Conular_basins distinct_para-_and_metaconular_basins_absent present metaconule_very_small_or_absent_and_metaconular_basin_absent;
+{ 27 Protocone absent present;
+{ 28 Protocone_height low tall,_approaching_paracone_and_metacone subequal;
+{ 29 Protocone_antero-posterior_expansion subequal_to_paracone larger_than_paracone;
+{ 30 Procumbent_protocone absent present;
+{ 31 Protocone_labial_shift absent_(10-20%) present_(more_than_21%);
+{ 32 Lingual_cingula_on_upper_molars absent present;
+{ 33 Lingual_root_on_upper_molars supporting_paracone supporting_trigon;
+{ 34 M1_parastylar_lobe_position_to_paracone anterolabial anterior;
+{ 35 M2_parastylar_and_metastylar_lobe_positions both_lobes_extend_same_distance_labially parastylar_lobe_is_more_labial metastylar_lobe_is_more_labial;
+{ 36 M3_width_to_M2 subequal smaller;
+{ 37 Mandibular_symphysis_posterior_extent p2_or_more_anterior p3_or_more_posterior;
+{ 38 Meckelian_groove present absent;
+{ 39 "Coronoid"_facet present absent;
+{ 40 Mandibular_foramen positioned_on_ventral_shelf_of_a_larger_pterygoid_fossa opens_into_small_depression_on_lingual_side_of_ascending_ramus_of_mandible;
+{ 41 Mandibular_foramen_dorsal_to_prominent,_oblique_subpterygoid_ridge present absent;
+{ 42 Posteriormost_mental_foramen below_p4_or_more_anterior below_p5_or_more_posterior;
+{ 43 Masseteric_fossa bordered_ventrally_by_well_defined_crest_connected_to_condyle crest_absent,_fossa_extends_to_ventral_margin_of_mandible;
+{ 44 Labial_mandibular_foramen absent present;
+{ 45 Tilting_of_coronoid_process more_than_110_degrees 95_to_105_degrees;
+{ 46 Coronoid_process_width broad_(roughly_2_molar_lengths) narrow_(subequal_to_or_less_than_molar_length);
+{ 47 Mandibular_condyle_position_to_alveolar_level at_alveolar_level slightly_above_alveolar_level above_by_more_than_molar_length;
+{ 48 Peduncle_of_condylar_process posteriorly_directed posterodorsally_directed;
+{ 49 Angular_process_to_condylar_process anterior level_with_or_posterior_to;
+{ 50 Lower_incisors 4 3;
+{ 51 Lower_anteriormost_incisor_size small,_subequal_to_subsequent greatly_enlarged;
+{ 52 Lower_anteriormost_incisor_shape conical anteroposteriorly_compressed;
+{ 53 Lower_anteriormost_incisor_procumbency absent present;
+{ 54 Lower_anteriormost_incisor_gorwth determinate ever-growing;
+{ 55 Lower_anteriormost_incisor_root_length not_extending_posteriorly_below_p1 extending_posteriorly_below_p1 extending_posteriorly_below_penultimate_or_ultimate_premolar;
+{ 56 Lower_anteriormost_incisor_enamel covers_the_tooth discontinuous_posteriorly;
+{ 57 i4_size subequal_to_i3 greatly_reduced absent;
+{ 58 Lower_posteriormost_incisor_procumbency absent present;
+{ 59 Lower_canine enlarged small;
+{ 60 Lower_canine_procumbency absent present;
+{ 61 Lower_canine_roots 2 1;
+{ 62 p1_roots 2 1;
+{ 63 p1-p2_diastema absent present,_subequal_to_one_tooth_root_diameter;
+{ 64 p3 as_long_or_longer_than_p2_and_double-rooted shorter_than_p2_and_double-rooted,_could_be_lost_in_old_specimens shorter_than_p2_and_single-rooted lost_in_all_specimens;
+{ 65 p4_paraconid vestigial_or_absent distinctive;
+{ 66 p5_length longer_than_p4 equal_or_less_than_p4;
+{ 67 p5_paraconid cingulid_cusp_or_absent trigonid_cusp;
+{ 68 p5_metaconid absent swelling separate;
+{ 69 p5_lingual_cingulid complete_or_shortly_interrupted_at_base_of_protoconid absent;
+{ 70 p5_talonid ridge-like,_not_basined with_incipient_basin_lingual_to_talonid_ridge;
+{ 71 p5_talonid_width narrower_than_anterior_crown as_wide_as_anterior_crown;
+{ 72 Trigonid_height twice_or_more_the_height_of_talonid less_than_twice_the_height_of_talonid;
+{ 73 Trigonid_to_talonid_length long_(more_than_75%_of_total_length) some_shortening_(51-75%_of_total_length) anteroposterior_compression_of_trigonid_(50%_or_less_of_total_length);
+{ 74 Trigonid_configuration open,_paracristid-protocristid_angle_more_than_50_degrees more_acute,_angle_between_36_and_49_degrees anteroposteriorly_compressed,_angle_less_than_35;
+{ 75 Protoconid_height tallest_cusp_on_trigonid subequal_to_paraconid_and_or_metaconid smaller_than;
+{ 76 Paraconid_on_lingual_margin absent present;
+{ 77 Protocristid_orientation oblique transverse;
+{ 78 Talonid small_heel multicusped_basin;
+{ 79 Talonid_width_to_trigonid narrower subequal_to_wider,_with_expanded_talonid_basin;
+{ 80 Cristid_obliqua contacts_lingual_to_protocristid_notch at_protocristid_notch labial_to_protocristid_notch;
+{ 81 Entoconid absent smaller_than subequal_to_larger_than_hypoconid_or_hypoconulid;
+{ 82 Hypoconulid_on_m1-2 about_equidistant_from_hypoconid_and_entoconid about_twice_closer_to_entoconid_than_to_hypoconid;
+{ 83 Labial_postcingulid absent present;
+{ 84 m3_size_to_m2 subequal_to_larger smaller;
+;
+
+
+ccode  - 0.84;
+
+
+;

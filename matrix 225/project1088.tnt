@@ -1,0 +1,73 @@
+nstates num 2;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 17.33.07'
+44 11
+
+&[num]
+Genetta_sp.                                  000000000010001101101001000100000010001100?0
+Herpestides_antiquus                         00-000?00-1000110110011101101110111110?10???
+Protoviverrops_gervaisi/intermedium          ???????????????????0???1??????10110111?11?0?
+Mesoviverrops_sp.                            ????????????????????1?110-111?11110?11??????
+Plioviverrops_orbignyi                       1-1101?11?10011101?01111011111111101111010??
+Gansuyaena_guerini/megalotis                 111101111110011101?1111111011111110111??????
+Proteles_cristatus                           1111011110?1111111?11101100100-?---0--101011
+Tungurictis_spocki                           10--0010101001?101?00110010111101111111???1?
+Hyaena_hyaena                                10--11101000110000?0011001011110111111101111
+Protictitherium_crassum                      ?0--???????0???????0011001011110110111??????
+Ictitherium_viverrinum                       10--1-101?00011100?00110011111101101111010??
+
+;
+
+
+cnames
+{ 0 CRAN:_Rostrum-basicranium_length_ratio 0:_rostrum_<_basicranium 1:_rostrum_>_basicranium;
+{ 1 CRAN:_Shape_of_anterior_palate 0:_narrow 1:_broad;
+{ 2 CRAN:_Postorbital_process_size 0:_small 1:_large;
+{ 3 CRAN:_Rostral_expansion_of_frontal_sinus 0:_absent 1:_present;
+{ 4 CRAN:_Caudally_elongated_frontal_sinus 0:_absent 1:_present;
+{ 5 CRAN:_Postorbital_constriction 0:_not_expanded 1:_expanded;
+{ 6 CRAN:_Infraorbital_foramen_size 0:_unreduced 1:_reduced;
+{ 7 BASICRAN:_Hypertrophic_bullae 0:_absent 1:_present;
+{ 8 BASICRAN:_Ectotympanic_size 0:_not_enlarged 1:_large;
+{ 9 BASICRAN:_Cristatympanic_size 0:_not_enlarged 1:_enlarged;
+{ 10 BASICRAN:_Auditory_meatus_size 0:_not_enlarged 1:_large;
+{ 11 BASICRAN:_Vertical_septum_in_bulla 0:_absent 1:_present;
+{ 12 BASICRAN:_Auditory_meatus_tube 0:_absent 1:_present;
+{ 13 BASICRAN:_Ventral_ectotypmanic 0:_unreduced 1:_reduced;
+{ 14 BASICRAN:_Mastoid_process_size 0:_unreduced 1:_small;
+{ 15 BASICRAN:_Paroccipital_process_size 0:_unreduced 1:_small;
+{ 16 BASICRAN:_Paroccipital_process_shape 0:_not_cupped 1:_cupped;
+{ 17 BASICRAN:_Basioccipital_at_occipital_condyles 0:_angular,_V_shaped 1:_U_shaped;
+{ 18 BASICRAN:_Septum_of_bulla_composition 0:_unilaminar 1:_bilaminar;
+{ 19 DENT:_Diastema_in_cheek_dentition 0:_absent 1:_present;
+{ 20 DENT:_Cheek_dentition_crown_height 0:_high_crowned 1:_low_crowned;
+{ 21 DENT:_P3/_protocone 0:_present 1:_absent;
+{ 22 DENT:_P4/_parastyle 0:_without_notch 1:_large_with_notch;
+{ 23 DENT:_p/4_crown_height 0:_high 1:_low;
+{ 24 DENT:_p/4_protocone_width 0:_unreduced 1:_reduced;
+{ 25 DENT:_p/4_metastyle_size 0:_not_enlarged 1:_large;
+{ 26 DENT:_M1/_basal_cingulum 0:_absent 1:_present;
+{ 27 DENT:_M1/_conules 0:_present 1:_absent;
+{ 28 DENT:_P4/_protocone_position 0:_not_anterior 1:_anterior_position;
+{ 29 DENT:_P4/,_P/4,_M/1_interlocked 0:_absent 1:_present;
+{ 30 DENT:_M/1_trigonid_open_-_paraconid_large 0:_absent 1:_present;
+{ 31 DENT:_Root_of_M/1_trigonid_reduced,_talonid_root_large 0:_absent 1:_present;
+{ 32 DENT:_M/1_paraconid_size 0:_not_larger_than_protoconid 1:_larger_than_protoconid;
+{ 33 DENT:_M/1_entoconid_large_&_tall,_talonid_notch_deep 0:_absent 1:_present;
+{ 34 DENT:_M/1_hypoconid_size 0:_not_enlarged 1:_large;
+{ 35 DENT:_P/4_posterior_cingulum_and_accessory_cusp 0:_absent 1:_present;
+{ 36 DENT:_M/1_anterolabial_basal_cingulum 0:_absent 1:_present;
+{ 37 DENT:_M/1_carnassial_notch 0:_deep 1:_shallow;
+{ 38 POSTCRAN:_digitigrady 0:_absent 1:_present;
+{ 39 POSTCRAN:_Entepicondylar_foramen 0:_absent 1:_present;
+{ 40 POSTCRAN:_supertrochlear_foramen 0:_absent 1:_present;
+{ 41 POSTCRAN:_tibia_proportion 0:_long 1:_short;
+{ 42 POSTCRAN:_calcaneum_ectal(?)_facet 0:_absent 1:_present;
+{ 43 POSTCRAN:_Caudals 0:_unreduced 1:_reduced;
+;
+
+
+ccode  - 0.43;
+
+
+;

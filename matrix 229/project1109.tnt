@@ -1,0 +1,94 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 17.36.24'
+65 11
+
+&[num]
+Mesosuchus_browni                             000000-0-100000010000000000100000000------00000000000000000000000
+Howesia_browni                                00000?-0-100010010000000??00100000??-----010000?0?00??010000??000
+Rhynchosaurus_spp.                            0000000001000001000000000000?0000001000001100?20??00000??001101?1
+Stenaulorhynchus_stockleyi                    000110000?0101110010010100001100000020001120002100010011001100011
+Mariante_rhynchosaur                          0100100000010111110010110001000100??200011200?21???????????110???
+Bentonyx_sidensis_(BRSUG-_27200)              000111000?01001010001110??01110010????0???1???20?????????????????
+Isalorhynchus_genovefae                       111?1111111010????00??1?11?0011100110110010111101011111111???1021
+T_sulcognathus                                11111111101110011111111011100111011120011011112111???1??1??001121
+Hyperodapedon_spp.                            111011101?1?11011011?110111??111?111??1110?111?011111110?111?1021
+Fodonyx_spenceri_(EXEMS-60-1985.292)          11??1?000???????????????00???1????01101001100021?????????????????
+Hyperodapedontidae                            ????????????????????????????????????????????????1?????????1???0??
+
+;
+
+
+cnames
+{ 0 Skull_dimensions longer_than_broad broader_than_long broader_than_long__.;
+{ 1 Skull_height <50%_of_the_midline_length >50%_of_the_midline_length;
+{ 2 Orbit_orientation mostly_lateral mostly_dorsal;
+{ 3 Orbital_medial_margin rounded forming_a_marked_angle;
+{ 4 Jugal_and_maxillary_heights_bellow_the_orbit_ventral_margin maxilla_higher jugal_higher;
+{ 5 Jugal-lacrimal_contact minimal extensive_contact_of_the_jugal_anterior_process;
+{ 6 Jugal_lateral_surface anguli_oris_crest_does_not_reach_jugal_anterior_process anguli_oris_crest_reaches_jugal_anterior_process;
+{ 7 Jugal_surface_dorsal_to_anguli_oris_crest lacking_a_secondary_crest with_a_secondary_anguli_oris_crest;
+{ 8 Lateral_overlap_of_maxilla_by_jugal absent_or_minimally_expanded well_developed;
+{ 9 Jugal_subtemporal_process height_>50%_of_the_length height_<50%_of_the_length;
+{ 10 Relative_widths_of_postorbital_bar_and_lower_temporal_fenestra <0.4 >0.4;
+{ 11 Dorsomedial_surface_of_prefrontal_near_the_orbital_rim flat_or_slightly_concave deeply_concave;
+{ 12 Procumbent_lacrimal_and_prefrontal_anterolateral_margin absent present;
+{ 13 Dorsal_groove_on_frontal deeper_posteriorly same_depth_throughout_its_length;
+{ 14 Well-marked_Â‘VÂ’-shaped_crest_along_frontal-postfrontal_contact absent present;
+{ 15 Frontal_and_parietalmidline_lengths frontal_longer parietal_longer;
+{ 16 Postfrontal excluded_from_upper_temporal_fenestra_border forming_the_upper_temporal_fenestra_border;
+{ 17 Postfrontal_dorsal_surface flat markedly_concave;
+{ 18 Postorbital_anteroventral_process expanding_ventral_to_the_level_of_the_orbital_midpoint expanding_dorsally_to_orbital_height_midpoint;
+{ 19 Postorbital_ventral_process expands_anterior_to_the_jugal fits_dorsal_to_the_jugal;
+{ 20 Postorbital-parietal_suture visible_in_dorsal_view hidden_in_dorsal_view;
+{ 21 Parietal_body not_expanded_laterally_at_midlength expanded_laterally_at_midlength;
+{ 22 Parietal_transverse_process posterolaterally_directed laterally_directed;
+{ 23 Distal_tip_of_parietal_transverse_process not_anteriorly_curved anteriorly_curved;
+{ 24 Squamosal_ventral_process thinner_than_50%_of_dorsoventral_length broader_than_over_50%_of_dorsoventral_length;
+{ 25 Relative_position_of_quadratojugal_and_squamosal_processes squamosal_ventral_process_anterior_to_quadratojugal_dorsal_process squamosal_ventral_process_overlapping_the_quadratojugal_dorsal_process;
+{ 26 Supratemporal present absent;
+{ 27 Ventral_margin_of_opisthotic_paroccipital_process convex straight;
+{ 28 Pterygoid_midline_suture_length greater_than_or_equal_to_the_distance_between_the_posterior_margin_of_the_suture_and_the_basipterygoid_articulation less_than_the_distance_between_the_posterior_margin_of_the_suture_and_the_basipterygoid_articulation;
+{ 29 Elements_forming_the_border_of_the_suborbital_fenestra ectopterygoid,_palatine,_and_maxilla ectopterygoid_and_palatine_only;
+{ 30 Occipital_condyle_position anterior_to_craniomandibular_articulation aligned_to_craniomandibular_articulation;
+{ 31 Basioccipital_and_basisphenoid/parasphenoid_lengths basisphenoid/parasphenoid_longer basioccipital_longer;
+{ 32 Relative_positions_of_the_basipterygoid_process_of_the_basisphenoid_and_the_ectopterygoid_process_of_the_pterygoid at_the_same_level basipterygoid_process_of_the_basisphenoid_posterior_to_ectopterygoid_process_of_the_pterygoid;
+{ 33 Basipterygoid_process_dimensions_(dorsoventral_length anteroposterior_width):_longer_than_wide wider_than_long;
+{ 34 Mandible_depth <0.25_of_the_total_length >0.25_of_the_total_length;
+{ 35 Dentary_length half,_or_less,_than_the_total_mandibular_length greater_than_half_of_the_total_mandibular_length;
+{ 36 Medial_maxillary_groove absent present_but_not_reaching_the_anterior_half_of_the_maxilla State_2 present_and_reaching_the_anterior_half_of_the_maxilla;
+{ 37 Maxillary_area_lateral_to_main_groove narrower_than_the_medial_area same_width_or_broader_than_themedial_area;
+{ 38 Maxillary_cross-section_lateral_to_main_groove crest-shaped cushion-shaped;
+{ 39 Tooth_rows_lateral_to_main_maxillary_groove a_single_clear_row more_than_one_clear_row;
+{ 40 Number_of_tooth_rowsmedial_tomainmaxillary_groove two_rows_and_scattered_teeth three_or_more_tooth_rows;
+{ 41 Occlusal_tooth_rows_on_the_anterior_half_of_the_maxilla four_or_more_tooth_rows fewer_than_four_tooth_rows;
+{ 42 Maxillary_lingual_teeth absent scattered_teeth State_2 large_number_of_teeth_on_the_medial_surface_of_the_bone;
+{ 43 Maxillary_teeth only_conicals conicals_and_?pyramidal? conicals_and_Â‘pyramidalÂ’;
+{ 44 Dentary_teeth only_conicals conical_and_anteroposteriorly_compressed;
+{ 45 Posterior-most_dentary_teeth on_the_anterior_half_of_dentary on_the_posterior_half_of_dentary;
+{ 46 Lingual_dentary_teeth absent present_and_forming_one_row State_2 present_and_forming_more_than_one_row;
+{ 47 Dentary_teeth_on_the_dentary_lingual_surface scattered crowded;
+{ 48 Truncal_vertebrae_with_ossified_intercentrum present absent;
+{ 49 Epipophyses_on_cervical_postzygapophyses spine-shaped crest-shaped;
+{ 50 Second_sacral_vertebra with_a_notch_between_the_iliac_articular_surface_and_the_posterior_process posterior_process_continuous_to_the_iliac_articular_surface;
+{ 51 Caudal_vertebrae_neural_spines height_twice_the_length height_less_than_twice_the_length;
+{ 52 Interclavicle posterior_process_longer_than_twice_the_lateral_processes posterior_process_shorter_than_twice_the_lateral_process;
+{ 53 Posterior_process_of_the_coracoid present absent;
+{ 54 Dorsal_margin_of_the_ilium anterior_process_<15%_of_the_length_of_the_posterior_process anterior_process_>15%_of_the_length_of_the_posterior_process;
+{ 55 Pubic_tubercle present absent;
+{ 56 Internal_trochanter continuous_with_the_femoral_head separated_from_femoral_head;
+{ 57 Relative_size_of_astragalar_articular_facets tibial_facet_greater_than_centrale_facet centrale_facet_greater_than_tibial_facet;
+{ 58 Metatarsal_I longer_than_broad broader_than_long;
+{ 59 Axis_ventral_keel Present absent;
+{ 60 Axial_parapophisis Present absent;
+{ 61 Cervical_postaxial_vertebrae_ventral_keel Absent present;
+{ 62 Position_of_the_transverse_process_of_cranial_truncal_vertebrae At_the_level_of_prezygapophisys posteriorly_located_in_the_vertebra_centrum;
+{ 63 Supinator_process_on_the_external_surface_of_humeral_ectoepicondyle Absent present_and_hook-shaped State_2 present_and_formed_by_a_low_supinator_ridge_and_ligament_groove;
+{ 64 Crest_on_anteromedial_region_of_tibial_shaft Absent present;
+;
+
+
+ccode  - 0.64;
+
+
+;

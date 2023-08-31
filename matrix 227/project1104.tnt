@@ -1,0 +1,205 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 17.35.11'
+127 60
+
+&[num]
+Elops_cf_senegalensis                   00000010000000000010000---00000000000000000000000000000000000000000000000000000000000000000--0-000-000000---000000000000000000-
+Hiodon_alosoides                        00000000000000010001000---0001000-0----0000000000000000000000000000000000000000000000000010--0-000-010000---001000000001000000-
+Denticeps_clupeoides                    00000000000001000000100---00000001000000000000000000000000101210000000000000000000000000000--0-000-000000---0010100000000100?0-
+Distichodus_antonii                     00000000001010100000000---001000010001000010010000000000001002000000000000000000000000000000000100-0000000000000000000101000100
+Psilorhynchus_sucatio                   110000001000110000001120110011011-1111100000010-10101100011112---00101000111101000201011100102200-000010110001200?0010112100000
+Psilorhynchus_pseudecheneis             11000000100011100010112011001100111111100000010-10101100011112---00101100110101000201011000102200-001010??0001200?0010112100100
+Psilorhynchus_tenura                    11000000101011100010112001001101111111100000010-10101100011112---00101000110101000201011000102200-000010??0001200?0010112100100
+Psilorhynchus_melissa                   11000000101011100010112011001100111111100000010-10101100001112---00101000110101000201011000102200-000010110001200?0110111100100
+Psilorhynchus_gracilis                  11000000101011100010112011001100111111100000010-10101100001112---00101000110101000201011000102200-000010110001200?0110111100100
+Psilorhynchus_robustus                  11000000101011100010112011001100111111100000010-10101100001112---00101000110101000201011000100200-000010110001200?0110111100100
+Psilorhynchus_balitora                  11000000101011100010112011001100111111100000010-1010110001111210000101000110101000201011100102200-000010110001200?0010112100100
+Psilorhynchus_nepalensis                11000000101011100010112011001100111111100000010-1010110001111210000101000110101000201011100102200-000010110001200?0010112100100
+Psilorhynchus_breviminor                11000000101011100010112011001100111111100000010-1010110001111210000101000110101000201011100102200-000010110001200?0010112100100
+Psilorhynchus_rahmani                   11000000101011100010112011001100111111100000010-10101100011112---00101000110101000201011100102200-000010110001200?0010112100100
+Psilorhynchus_pavimentatus              11000000101011100010112011001100111111100000010-10101100011112---00101000110101000201011100102200-000010??0001200?0010112100100
+Psilorhynchus_brachyrhynchus            11000000101011100010112011001100111111100000010-1010110001111210000101000110101000201011100102200-000010110001200?0010112100100
+Psilorhynchus_homaloptera               110000001??01?100010?120110011001?????100???????????11??0????????????????????01????????????10?200??????0??00?????????01121001?0
+Cyprinus_carpio                         1120000001101110100001201100110001111100000000010000110000111210000001000000101000210011000100000000001000000010000001112000000
+Barbus_barbus                           1100000001001100100001201100110001111100000000010000110000111210000001000000101000210011000100000000001000000010000001112000000
+Balantiocheilos_melanopterus            1100000001001110100001201100110001111100000000010000110000111210000001000000101000210011000100000000001000000010000001112000000
+Garra_dembeensis                        1100001001101100100011202100110001111100000010010010110000111210000001010000101100210011000100000-00001000000020000010112000000
+Osteochilus_hasselti                    1100000001101100100011202100110001111100000010010010110000111210000001110000101101210011000100000-00001000000010000000112000000
+Labeo_longipinnis                       1100001001101100100011202100110001111100000010010010110000111210000001110000101101210011000100000-00001000000010000000112000000
+Lobocheilos_bo                          1100000001101100100011202100110001111100000010010010110000111210000001010000101101210011000100000000001000000010000000112000000
+Crossocheilus_reticulatus               1100000001101110100011202100110001111100000011010010110000111210000001010000101101210011000100000-00001000000010000000112000000
+Gobio_gobio                             1100000000001101000001201100110001111100000000010000110000111210000101000000101000210011000100001100001000000010000000112000100
+Abramis_brama                           1100000000001101000001201100110001111100000000010000110000111210000001000000101000210011000100001100001000000010000000112000000
+Zacco_cf_platypus                       1100000000001101000001201100110000111100000000000000110000111210000001000000101000210011000100001100001000000010000000112000100
+Rhodeus_sericeus                        110000000010110100-0112011001100011111000000000-0000110000111210000001000000101000210011000100001100001000000010000000112000100
+Notemigonus_crysoleucas                 1100000000001101000011201100110001111100000000010000110000111210000001000000101000210011000100001100001000000010000000112000000
+Rasbora_cephalotaenia                   1100000000001100000011201100110000111100000000010000110000111210000001000000101000210011000100001100001000000010000000112000000
+Phoxinus_phoxinus                       11000000000011010000012011001100011111000000000-0000110000111210000001000000101000210011000100001100001000000010000000112001000
+Gyrinocheilus_pennocki                  11000010001010000110001000001101011011100000000-110001000111111000000110000100-000000111010100000011000100100010010000112000000
+Gyrinocheilus_aymonieri                 11000010001011000110001000001101011011100000000-110001000111111000000110000100-000000111010100000011000100100010010000112000000
+Myxocyprinus_asiaticus                  11100000010010100110002100001110011111011001100-10011100011112101001100000011010001000110?1100100001000000000010000000112010000
+Cycleptus_elongatus                     11100000000011000110002100001110011111011001000-1001110001111210100110000001101000100011001100100001000000000010000000112010000
+Catostomus_commersonii                  111000100000111101-00021001011-00-1111011001100--001110001111210100110000001101000100011001100100001000000000010000000112000000
+Carpiodes_carpio                        11100000010010100110002100001110011111011001100-1001110001111210100110000001101000100011001100100001000100000010010000112010000
+Syncrossus_cf_berdmorei                 102111010100111000100010000111110-101102200001000000110000111210000110110000111000200011001101010011010000100010001000112001010
+Chromobotia_macracanthus                102111010100111001100010000111110-101102200001000000110000111210000110110100111000210011001101010011010000100010001000112001010
+Yasuhikotakia_modesta                   102111110110111000100010000111110-1011022000010000001100001112---00110110000111000210011001101010011010000100010001000112001010
+Yasuhikotakia_sidthimunki               102111010100111000100010000011110-1011022000010000001100001112---00110100000111000200011001100010010010000100010001000112001?10
+Vaillantella_euepiptera                 102111100000110000100010000001110-1011020000010000001100001112---00111100000111000200011000100010010010000100020001000112001?10
+Cobitis_paci?ca                         102111010001111-00-01010001011----1011000110011--000111001111210010110111100111010200011000100000?10100000111020101000113101010
+Cobitis_cf_taenia                       102111010001111-00-01010001011----1011000110011--000111001111210010110011100111000200011000100000?10100000111020101000113101010
+Iksookimia_koreensis                    102111010001111-00-01010001011----1011000110011--000111001111210010110111100111010200011000100000?10100000111020101000113101010
+Niwaella_multifasciata                  102111010001111-00-01010001011----1011000110011--000111001111210010110111100111010200011000100000?10100000111020101000113101010
+Acantopsis_choirorhynchus               102111010001111-00100010001011-1011011000110011--000111001111210010110111100111010200011000100000?10100000110020101000113101010
+Lepidocephalus_cf_guntea                102111010001111-00-01010001011---11011000110011--000111001111210010110111100111010200011000100000?101000001110201010001131010-0
+Barbatula_barbatula                     112001000000111100101020000011110-1111020000010-00001100011112---11100110100111000200011000110200?10000100100020101000112101011
+Mesonoemacheilus_triangularis           102011100000111000100020000011110-1111022000010-0000110000111210011110110100111000200011000110200010010100100020001000112001011
+Lefua_costata                           112001100000111-00-01020001011----1111020000010--000110001111210010110110100111000200011000110210?100001001000200010001-2101?11
+Acanthocobitis_cf_zonalternans          102011000000111000100020000011110-1111020000010-0000110000111210011110110100111000200011000110200010010100100010001000112101011
+Annamia_normani                         112001100010111000111020200001110-1111000000010-0000110111111211010110110100011000200011010110201?10000000100021001010113101?11
+Gastromyzon_cranbrooki                  112001100000111000111020100001110-1111000000010-100011011111121101-110110100011000200011010110201?10000000100011001010112101011
+Homaloptera_stephensoni                 11201110000011100011100---000111011111020000010-0000110001111210010110110100111000200011020110200?10000000100021001010111101011
+Homaloptera_zollingeri                  11200110000011000011100---000111011111020000010-0000110001111210011110110100111000200011020110200?10000000100021001010112100011
+Jianghanichthy_hubeiensis               ???00010000???00010???????00?1000111??0??000000?0?011100001112100???????????0??????????10????00?00?000??00???0100??00011200000?
+Amyzon_aggregatum                       1??00000000???1?011???????10?1100111110??000100?100111000111121?????????????101????????10??1001000??00??00???0100??00011200000?
+Chanos_chanos                           01000-101-0-10011000000---0000000010100000000001000001000011121000000000000001?000110000010????000?001??0???00200?0000111000100
+
+;
+
+
+cnames
+{ 0 Kinethmoid absent present;
+{ 1 Preethmoid absent present;
+{ 2 Second_preethmoid_element absent second_preethmoid_cartilage_present second_preethmoid_present;
+{ 3 Articulation_between_ethmoid_complex_and_frontals absent,_posterodorsal_edge_of_ethmoid_complex_or_supraethmoid_firmly_sutured_or_tightly_abuting_anterior_edge_of_frontals present,_posterodorsal_edge_of_ethmoid_complex_articulating_in_a_shallow_facet_along_anterior_edge_of_frontals;
+{ 4 Relationship_between_ethmoid_complex_and_vomer separate fused;
+{ 5 Contact_between_orbitosphenoid_and_ethmoid_complex absent present;
+{ 6 Anterolateral_process_of_the_lateral_ethmoid absent present;
+{ 7 Erectile_suborbital_spine,_formed_by_enlargement_of_lateral_ethmoid absent present;
+{ 8 Preepiphysial_fontanelle absent present;
+{ 9 Interorbital_septum interorbital_septum_formed_only_by_the_orbitosphenoid interorbital_septum_formed_by_the_orbitosphenoid_and_a_dorsal_component_of_the_parasphenoid;
+{ 10 Ventral_keel_on_parasphenoid absent present;
+{ 11 Contact_between_orbitosphenoid_and_pterosphenoid present absent;
+{ 12 Basisphenoid present absent;
+{ 13 Anterior_opening_of_trigeminofacial_chamber anterior_opening_of_trigeminofacial_chamber_contained_within_prootic anterior_opening_of_trigeminofacial_chamber_on_anterior_edge_of_prootic,_its_anterior_edge_bordered_by_the_posterior_edge_of_the_pterosphenoid_or_lateral_wing_of_the_parasphenoid;
+{ 14 Postepiphysial_fontanelle absent present;
+{ 15 Connection_between_supraorbital_sensory_canal_and_otic_sensory_canal contacting_antimere_along_midline separate_from_antimere;
+{ 16 Fenestration_of_the_dilatator_fossa absent present;
+{ 17 Pterotic_fossa absent present;
+{ 18 Supratemporal_commissure located_on_parietal_or_extrascapular located_on_supraoccipital;
+{ 19 Exoccipital contacting_antimere_along_midline separate_from_antimere;
+{ 20 Intercalar present absent;
+{ 21 Subtemporal_fossa absent_or_represented_only_by_a_shallow_concavity_on_the_ventral_surface_of_the_neurocranium present,_represented_by_a_deep_concavity_on_the_ventral_surface_of_the_neurocranium;
+{ 22 Basioccipital_process absent present_as_long_parallel_processes,_not_united_to_form_a_canal_around_the_dorsal_aorta present_as_a_large_bony_structure,_forming_a_canal_around_the_dorsal_aorta;
+{ 23 Fenestration_of_the_basioccipital_process absent present;
+{ 24 Pharyngeal_process_of_the_basioccipital_process absent present,_horizontal_in_cross_section present,_terete_in_cross_section;
+{ 25 Masticatory_plate absent present;
+{ 26 Supraorbital_sensory_canal present absent;
+{ 27 Anterolateral_process_of_the_frontal absent present;
+{ 28 Lateral_occipital_foramen absent present;
+{ 29 Antorbital present absent;
+{ 30 Relationship_between_anteriormost_portion_of_infraorbital_sensory_canal_and_infraorbital_1 anteriormost_portion_of_infraorbital_sensory_canal_completely_enclosed_on_infraorbital_1 anteriormost_portion_of_infraorbital_sensory_canal_completely_or_partially_disjunct_from_infraorbital_1;
+{ 31 Nature_of_infraorbital_series_posterior_to_infraorbital_1 infraorbital_series_posterior_to_infraorbital_1_represented_by_four,_roughly_plate-like_bones infraorbital_series_posterior_to_infraorbital_1_represented_by_a_variable_number_of_small_tubular_ossifications_around_the_infraorbital_canal;
+{ 32 Medial_face_of_infraorbital_2 straight with_shelf,_cupping_ventral_surface_of_lateral_ethmoid;
+{ 33 Spatial_arrangement_of_Infraorbital_5_and_supraorbital in_contact_or_separated_only_by_a_short_distance widely_separate;
+{ 34 Dermopalatine present absent;
+{ 35 Dorsomedial_autopalatine_process absent present;
+{ 36 Autopalatine-endopterygoid_articulation absent present;
+{ 37 Ectopterygoid?autopalatine_overlap present absent;
+{ 38 Length_of_autopalatine short,_terminating_level_with_or_slightly_anterior_to_area_of_articulation_with_ethmoid_region autopalatine_greatly_extended_past_area_of_articulation_with_ethmoid_region,_terminating_dorsal_to_maxilla;
+{ 39 Preautopalatine_element absent present_and_cartilaginous present_and_ossified;
+{ 40 Mesiopreautopalatine absent present_and_cartilaginous present_and_ossified;
+{ 41 Endopterygoid expansive_and_sheet-like reduced_and_rod-like_posteriorly;
+{ 42 Metapterygoid?quadrate_fenestra absent present;
+{ 43 Metapterygoid simple_posterior_lamina_near_hyomandibular with_membrane_bone_flanges_forming_suture_to_anterior_edge_of_the_hyomandibular;
+{ 44 Symplectic simple_dorsal_lamina_near_metapterygoid with_membrane_bone_flanges_on_dorsal_edge_forming_suture_to_ventral_edge_of_metapterygoid;
+{ 45 Lateral_face_of_hyomandibular without_membrane_bone_flange with_large_membrane_bone_flange_overlapping_preopercle;
+{ 46 Ventral_margin_of_the_opercle straight_or_convex concave;
+{ 47 Opercular_sensory_canal absent present;
+{ 48 Connection_between_preopercular_sensory_canal_and_infraorbital_sensory_canal absent present;
+{ 49 Interopercle anteriormost_point_directed_anteriorly anteriormost_point_directed_anteromedially_towards_ventral_midline;
+{ 50 Interopercular?preopercular_articulation absent present;
+{ 51 Anterodorsal_head_of_opercle absent,_or_if_present_short greatly_elongate;
+{ 52 Premaxilla extending_furthest_dorsally_at_a_point_lateral_to_the_dorsal_midline extending_furthest_dorsally_adjacent_to_the_dorsal_midline;
+{ 53 Oral_teeth present absent;
+{ 54 Coronomeckelian present absent;
+{ 55 Angulararticular similar_in_width_to_the_posteriormost_point_of_the_dentary_in_ventral_view,_not_extended_laterally_as_a_sharp_point much_wider_than_the_posteriormost_point_of_the_dentary_in_ventral_view,_extending_laterally_as_a_sharp_point;
+{ 56 Maxilla without_large_spine-like_process_overlapping_dorsal_surface_of_premaxillae with_large_spine-like_process_overlapping_dorsal_surface_of_premaxillae;
+{ 57 Mandibular_sensory_canal present absent;
+{ 58 Basihyal_toothplate present absent;
+{ 59 Pharyngobranchial_tooth_plates present absent;
+{ 60 Anterior_basibranchial_copula_toothplate present absent;
+{ 61 Posterior_basibranchical_copula with_dermal_toothplates_associated_with_dorsal_surface with_dermal_(toothless)_plates_associated_with_dorsal_surface without_dermal_plates_or_toothplates;
+{ 62 Gill-raker_teeth present absent;
+{ 63 Gill_rakers small-based_elements,_base_narrower_than_total_height wide-based_elements,_base_wider_than_total_height;
+{ 64 Gill_rakers,_dorsal_edge without_comb-like_projections with_comb-like_projections;
+{ 65 Gill-filament_ossifications absent present;
+{ 66 Basihyal anterior_edge_straight_or_slightly_rounded,_with_a_singular_cartilaginous_tip anterior_edge_bifurcated,_with_two_prominent_cartilaginous_tips;
+{ 67 Sublingual_ossifications absent present;
+{ 68 Posterior_basibranchial_copulae complete segmented;
+{ 69 Ventral_keel_on_posterior_basibranchial_copula_or_derivative_elements present absent;
+{ 70 Basibranchial_1 present absent;
+{ 71 Basibranchial_2 anterior_edge_similar_in_width_or_only_slightly_wider_than_posterior_edge anterior_edge_markedly_wider_than_posterior_edge;
+{ 72 Posterior_tip_of_basibranchial_3 on_same_plane_as_anterior_tip,_not_intimately_associated_with_the_tip_of_hypobranchial_3 lower_than_anterior_tip,_articulating_in_a_concave_facet_on_the_anterior_tip_of_hypobranchial_3;
+{ 73 Basibranchial_4 absent present;
+{ 74 Hypobranchial_2 present absent,_only_hypobranchial_3_cartilage_present;
+{ 75 Hypobranchial_3 present absent,_only_hypobranchial_3_cartilage_present;
+{ 76 Ceratobranchial_5 extending_no_further_dorsally_than_other_ceratobranchials nding_much_further_dorsally_than_other_ceratobranchials;
+{ 77 Transversus_ventralis_V_process_on_ceratobranchial_5 absent present;
+{ 78 Ceratobranchial_5_teeth teeth_bound_to_Cb5_by_collagenous_fibers teeth_ankylosed_to_Cb5;
+{ 79 Epibranchial_1 not_dorsally_overlapped_by_epibranchial_2 dorsally_overlapped_by_epibranchial_2;
+{ 80 Anterior_head_of_epibranchial_1 not_twisted_ventrad twisted;
+{ 81 Anterior_edge_of_epibranchial_1 without_large_membranous_flange_on_anterior_edge with_large_membranous_flange_on_anteroventral_edge;
+{ 82 Pharyngorbranchial-1_element present_and_ossified present_but_cartilaginous absent;
+{ 83 Pharyngobranchial_3 not_overlapping_Pb2 overlapping_Pb2;
+{ 84 Upper_gill-arch_cartilages articulating confluent;
+{ 85 Foramen_between_pharyngobranchials_2_and_3 absent present;
+{ 86 Pharyngobranchial_uncinate_processes present absent;
+{ 87 Number_of_branchiostegal_rays more_than_three three;
+{ 88 Branchiostegal_articulating_with_medial_face_of_anterior_ceratohyal similar_in_size_and_shape_to_more_posterior_branchiostegal_rays reduced,_composed_of_articular_head_only,_or_absent;
+{ 89 Interhyal_element present_and_ossified present_and_cartilage interhyal_element_absent;
+{ 90 Lateral_face_of_the_posterior_ceratohyal flat with_knob-like_process_posteriorly;
+{ 91 Lateral_process_of_the_second_vertebral_centrum short elongate,_projecting_well_into_somatic_musculature;
+{ 92 Shape_of_the_tripus triangular Y-shaped;
+{ 93 Neural_spine_of_fourth_vertebral_centrum similar_in_size_or_smaller_than_more_posterior_spines larger_than_more_posterior_spines State_2;
+{ 94 Connection_between_lateral_process_of_the_second_vertebral_centrum_and_the_outer_arm_of_the_os_suspensorium no_contact_between_lateral_process_of_the_second_vertebral_centrum_and_the_outer_arm_of_the_os_suspensorium_or_contact_without_fusion_of_the_two_structures ventral_arm_of_the_lateral_process_of_the_second_vertebral_centrum_fused_with_the_outer_arm_of_the_os_suspensorium State_2;
+{ 95 Supraneural_2 present absent;
+{ 96 Supraneural_3 with_simple_median_crest,_without_division median_crest_with_modified_dorsal_surface;
+{ 97 Supraneural_3/supraneural_5_contact absent present;
+{ 98 Claustrum posterodorsal_edge_not_sutured_to_anterior_edge_of_neural_complex posterodorsal_edge_sutured_to_anterior_edge_of_neural_complex;
+{ 99 Dorsal_prezygapophysis_of_fifth_vertebral_centrum dorsal_prezygapophysis_of_fifth_vertebral_centrum_widely_separate_from_neural_arch_of_fourth_vertebral_centrum dorsal_prezygapophysis_of_fifth_vertebral_centrum_abutting_neural_arch_of_fourth_vertebral_centrum;
+{ 100 Parapophyses autogenous fused_to_centra;
+{ 101 Ventral_prezygopophyses ventral_prezygopophyses_separate_from_ventral_postzygopophyses_on_caudal_vertebrae ventral_prezygopophyses_strongly_interdigitating_with_ventral_postzygopophyses_on_caudal_vertebrae;
+{ 102 Contact_between_fifth_parapophysis_and_outer_arm_of_the_os_suspensorium absent present;
+{ 103 Lateral_process_of_the_first_vertebral_centrum absent_or,_when_present,_short elongate,_projecting_well_into_somatic_musculature;
+{ 104 Fifth_rib without_large_cup-shaped_depression_on_anterior_edge with_large_cup-shaped_depression_on_anterior_edge;
+{ 105 Post-Weberian_process absent present;
+{ 106 Intercalarium base_with_contact_to_vertebral_column base_without_contact_to_vertebral_column;
+{ 107 Os_suspensorium not_surrounding_anterior_swim-bladder_chamber completely_surrounding_anterior_swim-bladder_chamber;
+{ 108 Bony_contact_between_anteriormost_point_of_coracoid_and_cleithrum present absent;
+{ 109 Post-temporal present absent;
+{ 110 Postcleithrum more_than_one one absent;
+{ 111 Cleithrum well_separted_from_vertebral_elements closely_associated_with_lateral_process_of_second_vertebral_centrum;
+{ 112 Number_of_pectoral_radials four three;
+{ 113 Baudelot?s_ligament ligamentous with_ligamentous_ossification;
+{ 114 Cleithral?occipital_ligament absent present;
+{ 115 Pectoral_radial_3 without_dorsally_directed_process_proximally with_dorsally_directed_process_proximally;
+{ 116 Rib_associated_with_pelvic_splint similar_in_shape_to_other_ribs greatly_thickened_and_robust;
+{ 117 Third_unbranched_dorsal_fin_ray segments_of_each_hemitrich_free proximal_segments_of_each_hemitrich_fused,_forming_a_?spine?-like_ray;
+{ 118 Terminal_compound_centrum preural_centrum_1,_ural_centrum_1,_and_ural_centrum_2_separate preural_centrum_1,_ural_centrum_1,_and_ural_centrum_2_fused,_forming_a_compound_centrum;
+{ 119 Number_of_epurals two_or_more one;
+{ 120 Proximal_tip_of_hypural_1 separate_from_surrounding_hypural_and_parhypural_elements,_and_autogenous_with_ural_centrum_1_or_compound_centrum separate_from_surrounding_hypural_and_parhypural_elements,_and_separated_from_compound_centrum_by_a_short_hiatus fused_to_proximal_tip_of_parhypural fused_to_proximal_tip_of_parhypural_+_hypural_2_+_compound_centrum;
+{ 121 Hypural_6 present absent;
+{ 122 Hypural_3 proximal_tip_not_fused_with_associated_centrum proximal_tip_fused_with_compound_centrum;
+{ 123 Lateral-line_bearing_scale_size moderate_to_large,_height_of_lateral-line_bearing_scale_much_greater_than_height_of_lateral-line_canal_ossification small,_height_of_lateral_line_bearing_scale_equal_to_or_shorter_than_height_of_lateral-line_canal_ossification;
+{ 124 Anterior_radii present absent;
+{ 125 Lateral-line_canal_ossifications similar_in_size_and_shape_along_entire_length_of_canal third_and_fourth_lateral-line_canal_ossifications_much_larger_than_more_anterior_and_posterior_ossifications;
+{ 126 Anterior_swim-bladder_chamber single divided;
+;
+
+
+ccode  - 0.126;
+
+
+;

@@ -1,0 +1,98 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 17.37.43'
+42 38
+
+&[num]
+Aphrodita_aculeata                     00000010-000-0000000000000000-100000000000
+Palmyra_aurifera                       01000010-000-00000000001000010100000010000
+Harmothoe_imbricata                    010100010000-0000000000000000-100000000000
+Lepidonotus_squamatus                  010100010000-0000000000000000-100000000000
+Ceratonereis_longiceratophora          01110101011111010000001100110-011001000100
+Ceratocephale_loveni                   01110101011111010000001100110-011001000100
+Nereimyra_punctata                     01110100-11110010000001101000-011001000100
+Ophiodromus_flexuosus                  01010100-11111010000001101000-011011000100
+Sirsoe_methanicola                     1-010100-11110010000001101010-011001000100
+Eulalia_viridis                        00111000-000-0100000001300010-000000000000
+Notophyllum_foliosum                   00111000-000-?100000001300010-000000000000
+Eteone_picta                           00111000-000-0100000001300010-000000000000
+Eusyllis_blomstrandi                   01010000-11110010000001100010-000011001100
+Pionosyllis_enigmatica                 01010000-11110000000001100010-000011000100
+Streptosyllis_bidentata                01010000-01110000000001100010-000011001100
+Syllides_fulvus                        01010000-01110000000001100010-000011001100
+Synmerosyllis                          01010000-11110000000001100010-000011000100
+sp.                                    0101001110110?01??010?1200101101100?00?011
+Chrysopetalum_debile                   010100111011000111010012001011011000000011
+Arichlidon_reyssi                      010100111011000111010112001011011000000011
+B_heterosetosa                         010100111011000111010112001011011000001011
+Paleanotus_sp.                         010100111011000111010112001011011000000011
+Dysponetus_populonectens               01010011101100010101001200100-011000011011
+Dysponetus_bulbosus                    01010011101100010101001200100-011000011011
+Dysponetus_sp.                         ??010011101100010101001200100-011000011011
+Dysponetus_caecus_1                    1-010011101100010101001200100-011000011011
+Dysponetus_caecus_2                    1-010011101100010101001200100-011000011011
+Vigtorniella_sp.                       1-110010-01100010001011200100-011000000011
+Vigtorniella_ardabilia                 01110010-01100010001011200100-011000000011
+Vigtorniella_flokati                   1-110011?01100010001011200100-011000000011
+Calamyzas_amphictenicola               1-11101110?11100001-000110010-001010110???
+sp                                     1-111010-0110?0000??10?210110-1011?0?100??
+Iheyomytilidicola_lauensis             1-111010-0110100001-101210110-101100?100??
+Laubierus_alvini                       1-111010-0110?00001-101210110-101100?100??
+Natsushima_bifurcata                   1-111010-0110?000001100210110-101110110011
+Natsushima_sashai                      1-111010-0110?000001100210110-101110110011
+Shinkai_longipedata                    1-111010-0110?000001100210110-101110110011
+Shinkai_fontefridae                    1-111010-0110?000001100210110-101110110011
+
+;
+
+
+cnames
+{ 0 Eyes p a;
+{ 1 Number_of_eyes 1p 2p;
+{ 2 Median_antenna p a;
+{ 3 Lateral_antenna a p;
+{ 4 Differentiated_paired_antennae_and_palps p a;
+{ 5 Biarticulated_palps a p;
+{ 6 Ventrolateral_palps a p;
+{ 7 Jaws a p;
+{ 8 Stylet_shaped_jaws a p;
+{ 9 Dorsal_tooth a p;
+{ 10 Transversee__proboscis_groove a p;
+{ 11 Pharynx undiff diff;
+{ 12 Pharynx_differentiation partial proventricle;
+{ 13 Proboscis_terminal_ring papillae smooth;
+{ 14 Proboscis_surface smooth papillose;
+{ 15 Ciliated_surface a p;
+{ 16 Caruncle a p;
+{ 17 Mouth_flap a p;
+{ 18 Dorsal_cirri_on_segment_one p a;
+{ 19 First_dorsal_cirri_differs_from_others p a;
+{ 20 Ventral_cirri_on_segment_1 p a;
+{ 21 Ventral_cirri_on_segment_2 p a;
+{ 22 Chaetae_on_segment_1 p a;
+{ 23 Dorsal_cirri elytr digit pyri foliac;
+{ 24 Length_of_dorsal_cirri long short;
+{ 25 Annulated_dorsal_cirri a p;
+{ 26 Enlarged_cirrophores a p;
+{ 27 Notochaetae p a;
+{ 28 Paleae a p;
+{ 29 Paleae_with_internal_ribs a p;
+{ 30 Compound_neurochaetae p a;
+{ 31 Chambered_neurochaetae a p;
+{ 32 Longitudinal_channels_within_neurochaetae a p;
+{ 33 Differentiated_neurochaetae_(hooks_and_sigmoid_chaetae)_in_adults a p;
+{ 34 Notoaciculae p a;
+{ 35 Multiple_neuroaciculae_in_median_segments a p;
+{ 36 pygidium_as_a_circular_structure a p;
+{ 37 pygidial_cirri p a;
+{ 38 median_pygidial_papilla a p;
+{ 39 Circular_muscles a p;
+{ 40 Glands_in_cirrophores a p;
+{ 41 Gametes_obvious_in_notopodia a p;
+;
+
+
+ccode  - 0.41;
+
+
+;

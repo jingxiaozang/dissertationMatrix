@@ -1,0 +1,142 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 17.31.23'
+92 32
+
+&[num]
+Lithobius_forficatus                 00000000000000000-000001000000000000000-000000100000000000100000001-0-000-0?00-0000?0-000000
+Henicops_washpoolensis               00000000000000000-000001000000000000000-000000100000000000000000001-0-000-0?00-0000?0-000000
+Craterostigmus_tasmanianus           10000001100000000-0001110000101000000-0-00000?000010000000000010000-???0?-0?00-0001??-00000?
+Cryptops_hortensis                   10100000001100000-000000000010000000000-01000001011100000000011111--0-000-0?00-0000?0-000000
+Scolopocryptops_ferrugineus          10100000001100000-0000000000101000000-0-00000001011100000000011111--0-000-0?00-0000?0-000000
+Scolopendra_cingulata                00100000001100000-0000000100101000000-0-00000001011100000000001111--0-000-0?00-0000?0-000000
+Aphilodon_weberi                     1110100111110--10-100000100101111010000-0112001012?1001000000111000?---1000?20-0000?????0011
+Arrup_kyushuensis                    11101001101000000-100011200001100000000-0101000002?1111111011111000?0-?01?0?00-0100?10110101
+Ballophilus_rouxi                    11101001131101101010110100111000010000120102011112?1001000000111000?10100?1?00-1001???010011
+Bothriogaster_signata                11111001121101001010001001110000000001111111000113?1001000000111000?1010001?0100000???000011
+Clinopodes_flavidus                  11101001111100010-1001000010110001000010011001101211001000000111000?11210?002??00010??111011
+Dicellophilus_carniolensis           11101001101000000-000011100000111000000-0111000002111011110111110000000?1?0?00-0100?10110101
+Dignathodon_microcephalus            11101001111000010-110010101110110010000-0111001012?1001000000111000?1-200?0020-0011010110011
+Eucratonyx_meinerti                  11101010101001111010110000011000000000100111100113?1001000000111000110??0?0020-0001???010011
+Geophilus_carpophagus                11101001101100010-10110000110100010000101110001012110010000001110000102?000020-0001010111011
+Gonibregmatus_anguinus               11101100121101010-11011100111000000111100111100113?1001000000111000110??0?1?20-0001?10110011
+Haplophilus_subterraneus             11111001121101001010111101111000000001111111010112?100100000011100011010011?0110000?10000011
+Henia_vesuviana                      11101001111100010-110010101110000010001101100010121100100000011100001120000020-0011?10110011
+Himantarium_gabrielis                11111001121001001010011100110000000011111111000113?100100000011100011010011?0110000?10000011
+Hydroschendyla_submarina             111010011011010111101101000110000000001001120111121100100000011100001010001?00-1001???000011
+Mecistocephalus_tahitiensis          11101011101000000-000011000001111000000-01110000021111111111111100000-?01?0?00-0100???110101
+Notiphilides_maximiliani             11101111121101100-1011100001100000011110011203-113?1001000000111000110100?1?10-1000?11010011
+Orphnaeus_brevilabiatus              111011?1121101100-1000100001100000011110011103-11211001000000111000?1010001?10-1000?11010011
+Orya_almohadensis                    11101111121101100-1011100001100000011110011103-113?100100000011100011010001?10-1000?11010011
+Pachymerium_ferrugineum              11101001101110110-101101001001100000001001100010121100100000011100001121??0020-0001010011011
+Pectiniunguis_argentinensis          11101001101101111110110100011000000000100112021112?1001000000111000?101?0?1?00-0001???000011
+Plesioschendyla_confossa             111010??1011010110100101000110000?0?00100112011112?1001000000111000?101?001?00-0001???010011
+Ribautia_repanda                     11101000101110010-10000000100110000000100110020012?1001000000111000?11210?0120-?0011??111011
+Steneurytion_antipodum               1110100?101010010-10010100000110000000100110000012?1001000000111000?1121000120-00011??111011
+Strigamia_maritima                   11101001111100010-100000000111000001001001100111121100100000011100001021000?20-0001???110011
+Tygarrup_diversidens                 111010?1101000000-000011000000100001000-0101000002?110111111111100000-?01?0?00-0100???110101
+Zelanophilus_provocator              11101001101010010-1000010000001000000010011000001211001000000111000?10210?0020-0001?10011011
+
+;
+
+
+cnames
+{ 0 Variability_in_number_of_antennal_articles_within_the_species variable invariable;
+{ 1 Number_of_antennal_articles at_least_17 14;
+{ 2 Antennal_articles_with_row_of_sensilla_(sensilla_macrotrichoidea_of_Ernst)_for_telescopic_movement absent present;
+{ 3 Two_lateral_pits_on_terminal_antennal_article absent present;
+{ 4 Two_lateral_areas_with_club-like_sensilla_(sensilla_basiconica_of_Ernst)_on_terminal_antennal_article absent present;
+{ 5 Button-like_sensilla_on_antennal_articles absent present;
+{ 6 Club-like_sensilla_(sensilla_basiconica)_on_antennal_articles_other_than_XIV absent present;
+{ 7 Spear-like_sensilla_(sensilla_brachyconica_of_Ernst)_on_the_apex_of_terminal_antennal_article absent present;
+{ 8 Cluster_of_a_few_sensilla_of_types_a_and_b_on_dorsal_and_ventral_sides_of_antennal_articles_II,_V,_IX,_XIII_(Geophilomorpha)_or_II,_VI,_XI,_XVI_(Craterostigmus) absent present;
+{ 9 Antennal_form filiform_antennuate filiform_non-attenuate very_short,_attenuate clavate;
+{ 10 Tomosvary''s_organs present absent;
+{ 11 Frontal_line present absent;
+{ 12 Clypeal_area_(one_or_two_finely_areolate_"insulae") absent present;
+{ 13 Composition_of_labrum more_than_one_component single_piece;
+{ 14 Suture_delineating_clypeus_from_labrum_on_external_surface present absent;
+{ 15 Arrangement_of_pectinate_lamella(e)_of_mandible multiple_lamellae_arranged_in_an_imbricated_series lamellae_arranged_in_a_single_row;
+{ 16 Differentiation_of_dorsalmost_pectinate_lamella_("dentate_lamella") lacking_strong_change_in_pigmentation_and_without_marked_thickening_of_the_teeth_compared_to_more_ventral_pectinate_lamellae abrupt_change_in_pigmentation_/_sclerotisation_and_with_marked_thickening_of_the_teeth_compared_to_more_ventral_pectinate_lamellae;
+{ 17 Structure_of_dorsal_sclerotized_lamella single_file_of_teeth_without_division_into_blocks three_blocks_of_teeth;
+{ 18 Coxosternite_of_first_maxillae divided_in_the_middle undivided;
+{ 19 Median_projection_of_coxosternite_of_first_maxillae well_developed represented_by_a_rounded_shoulder wholly_absent;
+{ 20 Lappets_at_the_basis_of_coxosternite_of_first_maxillae absent present;
+{ 21 Lappets_at_the_basis_of_telopodite_of_first_maxillae absent present;
+{ 22 Articles_of_telopodite_of_first_maxillae two one;
+{ 23 Postmaxillary_sclerites absent present;
+{ 24 Pretarsus_of_telopodite_of_second_maxillae claw seta_or_seta-/spine-bearing_tubercle none;
+{ 25 Accessory_spines_on_the_base_of_pretarsus_of_second_maxillae absent present;
+{ 26 Chitinous_lines absent present;
+{ 27 Median_projection_on_anterior_margin_of_forcipular_coxosternite present absent;
+{ 28 Coxopleural_suture posterior_part_ventral,_running_onto_lateral_side_of_forcipule_more_anteriorly entirely_ventral;
+{ 29 Denticle_at_base_of_forcipular_tarsungulum absent present;
+{ 30 Denticle_at_base_of_forcipular_trochanteroprefemur absent present;
+{ 31 Denticle_at_base_of_forcipular_femur absent present;
+{ 32 Denticle_at_base_of_forcipular_tibia absent present;
+{ 33 Poison_calyx_symmetry symmetrical asymmetrical_(pores_more_strongly_developed_on_one_side_of_calyx);
+{ 34 Poison_calyx_location within_the_telopodite in_the_trunk;
+{ 35 Poison_calyx_shape drop-like_(calyx_distinctly_expanded_compared_to_duct) cylindrical_(calyx_not_much_wider_than_duct);
+{ 36 Principal_paratergites absent present;
+{ 37 Intercalary_paratergites absent present;
+{ 38 Ventral_pores absent_in_at_least_female present_in_both_sexes;
+{ 39 Definition_of_ventral_pore_areas pore_area_lacking_topological_definition_from_surrounding_parts_of_sternite pore_area_depressed_relative_to_surrounding_parts_of_sternite pore_area_raised_above_surrounding_parts_of_sternite;
+{ 40 Ventral_grooves absent present;
+{ 41 Preterga absent present;
+{ 42 Terminal_leg_dimorphism,_swelling_in_males absent_(as_slender_in_male_as_in_female) present;
+{ 43 Pretarsus_of_terminal_legs present,_claw-like absent tubercle,_variably_with_a_seta;
+{ 44 Coxopleura_of_ultimate_legs_expanded_onto_preceding_segment(s) absent present;
+{ 45 Coxal_organs simple homogeneous heterogenous absent;
+{ 46 Coxal_pores both_dorsal_and_ventral ventral_only;
+{ 47 Anal_organs present absent;
+{ 48 Variability_in_number_of_pairs_of_legs_in_the_species constant variable;
+{ 49 Number_of_pairs_of_legs_in_female 15 21_or_23 37-87 more_than_87;
+{ 50 Parental_care absent present;
+{ 51 Post-embryonic_development anamorphic epimorphic;
+{ 52 Clypeal_areolation homogeneous marked_on_the_anterior_part,_virtually_absent_on_the_posterior_part;
+{ 53 Mid-longitudinal_areolate_stripe_on_clypeus absent present;
+{ 54 Paralabial_sclerites_(=coclypeus) present absent;
+{ 55 Stilus absent present;
+{ 56 Labral_sidepiece_divided_into_alae_by_transverse_thickened_line absent present;
+{ 57 Telopodite_of_first_maxilla_(and_coxal_projection_where_present)_with_sclerotized_basal_part,_hyaline_distal_part evenly_sclerotised hyaline_distal_part_present;
+{ 58 Paired_longitudinal_cephalic_sulci absent present;
+{ 59 Sternal_apodemata_(rhachis_of_Crabill) absent present;
+{ 60 Posterior_part_of_sternum_and_internal_part_of_coxopleura_of_ultimate_leg-bearing_segment_with_thick_pilosity evenly_setose short,_dense_setae_present;
+{ 61 Ocelli present absent;
+{ 62 Sclerotization_of_midline_of_forcipular_coxosternum unsclerotized_median_suture sclerotized,_inflexible;
+{ 63 Common_hinge_between_all_four_articles_of_forcipular_telopodite separate_articles common_hinge;
+{ 64 Dorsal_brush_on_second_maxillary_tarsus absent present;
+{ 65 Tergites_of_forcipular_and_first_leg-bearing_segments separate single_tergite;
+{ 66 Female_gonopods_with_basal_article_bearing_macrosetae,_distal_article_a_robust_claw absent present;
+{ 67 Segmental_arrangement_of_longitudinal_connectives_between_spiracles connected_between_successive_spiracles_along_length_of_trunk connections_between_spiracles_separated_by_one_or_more_segments_at_least_in_anterior_part_of_trunk;
+{ 68 Labral_bristle_bands distinctly_differentiated_pair_of_spine_bands_on_each_side_of_midpiece_tooth_plate labral_part_of_epipharynx_lacking_paramedian_spine_bands;
+{ 69 Spinules_on_spines_of_labral_side_piece absent_(spines_or_teeth_lacking_spinules) present_(plumose_spines_with_extensive_covering_of_spinules);
+{ 70 Shape_of_border_between_labral_and_clypeal_parts_of_epipharynx gently_arched_medially strongly_arched,_with_median_labral_part_short concave_medially,_with_labral_part_in_front_of_a_median_notch;
+{ 71 Scales_on_clypeal_part_of_epipharynx_with_fringe_of_spines_directed_distally absent present;
+{ 72 Sensilla_in_median_cluster_on_epipharynx_surrounded_by_short_spines surrounding_spines_absent surrounding_spines_present;
+{ 73 Circlet_of_branching_spines_encircling_sensilla_coeloconica_on_median_clypeal_part_of_epipharynx absent present;
+{ 74 Lateral_cluster_of_spear-shaped_sensilla_with_inflated_base_and_distomedially-directed_apices_on_clypeal_part_of_epipharynx absent present;
+{ 75 Extent_and_orientation_of_hypopharnygeal_bar elongate_bar,_nearly_perpendicular_on_hypopharynx restricted_to_proximal_part_of_hypopharynx,_triangular_in_dorsal_view;
+{ 76 Distribution_of_cuticular_armature_on_hypopharynx spines_confined_to_lips_of_hypopharynx dense_aggregations_of_triangular_spines_confined_to_distal_end,_spines_small_medially_and_larger_distolaterally dense_scales_with_short,_needle-like_projections_covering_most_of_frontal_surface,_distal_tip_and_ventral_side_of_hypopharynx;
+{ 77 Proximal_part_of_hypopharynx_bearing_robust_spines_similar_to_those_on_pharynx pharynx-type_spines_absent spines_present;
+{ 78 Density_of_spines_on_proximal_part_of_hypopharynx similar_to_that_on_pharynx much_denser_than_those_on_pharynx;
+{ 79 Spear-shaped_sensilla_on_proximal_part_of_hypopharynx absent present;
+{ 80 Longitudinal_furrow_bisecting_distal_part_of_hypopharynx,_strengthened_by_sclerotization absent present;
+{ 81 Bilobate_distal_tip_of_hypopharynx lobes_absent lobes_present;
+{ 82 Median_incison_on_backside_of_hypopharynx absent_(unpaired) present_(incision_continuous_from_membranous_lips_to_border_with_first_maxilla);
+{ 83 Median_plate_on_proximal_ventral_surface_of_hypopharynx absent present;
+{ 84 Form_of_sensilla_along_lips_and_distal_tip_of_hypopharynx button-shaped_sensilla_with_conspicuous_terminal_pore conical_sensilla_with_indistinct_terminal_pore;
+{ 85 Distribution_of_conical_sensilla_on_distal_and_ventral_parts_of_hypopharynx confined_to_lips_and_distal_tip scattered_on_entire_ventral_surface_of_hypopharynx;
+{ 86 Mandibular_condyle well_developed,_hook-shaped_condyle condyle_represented_by_a_ridge_or_hump;
+{ 87 Lamina_condylifera_of_mandible_delimited_by_sutures present_(suture_well-defined_along_much_or_all_of_sclerite) absent_(sutures_indistinct);
+{ 88 Ventral_margin_of_mandible_with_respect_to_gnathal_edge ventral_margin_sharply_angled_with_respect_to_gnathal_edge ventral_margin_a_continuation_of_gnathal_edge,_bearing_a_row_of_slender_spines;
+{ 89 Robustness_of_tentorium tentorial_bars_robust,_with_expanded_pigmented_/_sclerotized_parts pigmented_parts_of_tentorial_bars_confined_to_slender_strips;
+{ 90 Position_of_epipharyngeal_bar_of_tentorium submarginal,_surrounded_by_non-sclerotized_areas marginal,_articulating_with_labrum;
+{ 91 Pharynx_cross-section pharynx_with_broad_section,_small_dilator_muscles narrow,_double_anchor_cross-section,_sclerotized,_with_massive_dilator_muscles_attaching_to_sides_of_pharynx;
+;
+
+
+ccode  - 0.91;
+
+
+;
