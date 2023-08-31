@@ -1,0 +1,102 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 13.28.16'
+57 27
+
+&[num]
+Amentotaxus_argotaenia                      20?000001201111001220220000100000100100111?01011010000000
+Amentotaxus_formosana                       200000001201111001220220000100000100100111?01011010000000
+Amentotaxus_gladifolia                      200000001201111001220220000100000100100110?01011010000000
+Prumnopitys_amara                           000000001120222022311110001001010001000100110111001102200
+Prumnopitys_anglica                         ?00001021120220?0231111?001011000001000111?10001010000021
+Prumnopitys_andina                          001100111020210022301100011011000001000110110210001112211
+Prumnopitys_exigua                          111110011120210022301000011011000001000100110010100111110
+Prumnopitys_ferruginea                      111111111200200022211110111000000001000110110011001102221
+Prumnopitys_ferruginoides                   011111011000111001311110001000010001000110110010101101121
+Prumnopitys_harmsiana                       011111111200210012301100011011100001022110?10111001112121
+Prumnopitys_ladei                           111111011200100011201000011001000001000000110211001112212
+Prumnopitys_montana                         111110111120211021311110011011010001011100110011101112221
+Prumnopitys_montana_var_meridensis          111110111120200002301000001001001001000110110210001102111
+Prumnopitys_standleyi                       111110111120210000301000001001010001000000110211002112220
+Prumnopitys_taxifolia                       00111111120020002220100001100101000102110011011100?112110
+Podocarpus_dispermus                        000000101200211112212110010000011001000100010111101112110
+Podocarpus_elatus                           0000000012002??102?02101010000000020100000?10012100000021
+Podocarpus_henckelii                        000000001200211102?????1010000000020100000?10012100000021
+Podocarpus_latifolius                       000000001200?1?102?12??1010000000020000000210012100000021
+Podocarpus_longifoliolatus                  000000001200?1?00????220010000000020000000?10012100000021
+Podocarpus_neriifolius                      00000000120021?102011111010000000020100000?10012100000021
+Podocarpus_platyphyllus                     ?000001?1??02?0?02?0110?0000000000??100000?10012100000021
+Podocarpus_salignus                         0000000012002??1122?2210010000000020000000?10012100000021
+Podocarpus_smithii                          0000000012002??102?02101010000000020100000?10012100000021
+Podocarpus_travisiae                        ?00000001??02?0112?02201011000000020100000?10012100000021
+Podocarpus_tzagajanicus                     0000000?1020211012111110010100000020000000?10012100000021
+Sciadopitys_verticillata                    3001002000000??002??1100000100000010100001?00011000100000
+
+;
+
+
+cnames
+{ 0 Leaf_arrangement alternate_helical alternate_two-ranked opposite pseudoverticillate;
+{ 1 Leaf_fall single branchlets;
+{ 2 Leaf_maximum_length_mm larger_than_fifty one_to_fifty;
+{ 3 Leaf_maximum_width_mm shorter_than_five one_to_five;
+{ 4 Leaf_symmetry symmetrical asymmetrical;
+{ 5 Leaf_curvature straight falcate;
+{ 6 Leaf_apex acute mucronate bluntly_truncate;
+{ 7 Petiole_length_mm shorter_than_three one_to_three absent;
+{ 8 Leaf_vein_number more_than_one_vein_per_leaf one_vein_per_leaf;
+{ 9 Midrib_adaxial plane grooved raised;
+{ 10 Midrib_abaxial plane grooved raised;
+{ 11 Abaxial_leaf_surface_strongly_white-waxy absent present;
+{ 12 Adaxial_epidermal_cell_shape isodiametric irregular rectangular;
+{ 13 Adaxial_epidermal_cell_length_μm one_to_forty forty_one_to_eighty more_than_eighty;
+{ 14 Adaxial_epidermal_cell_width_μm one_to_twenty twenty_to_forty more_than_forty;
+{ 15 Adaxial_epidermal_anticlinal_walls_beaded absent present;
+{ 16 Adaxial_epidermal_anticlinal_walls_shape straight_to_curved sinuous State_2;
+{ 17 Abaxial_epidermal_cell_shape isodiametric irregular rectangular;
+{ 18 Abaxial_epidermal_cell_length_μm one_to_forty forty_one_to_eighty more_than_eighty State_3;
+{ 19 Abaxial_epidermal_cell_width_μm one_to_twenty twenty_one_to_forty more_than_forty;
+{ 20 Abaxial_cell_L/W_ratio less_than_two/one two/one_to_five/one larger_than_five/one;
+{ 21 Abaxial_stomate_band_epidermal_cell_length_μm absent one_to_twenty twenty_one_to_forty larger_than_forty;
+{ 22 Abaxial_stomate_band_epidermal_cell_width_μm absent one_to_twenty twenty_one_to_forty larger_than_forty;
+{ 23 Abaxial_epidermal_anticlinal_walls_beaded absent present;
+{ 24 Abaxial_epidermal_anticlinal_walls_buttressed absent present;
+{ 25 Abaxial_epidermal_anticlinal_walls_shape straight_to_curved sinuous;
+{ 26 Abaxial_epidermal_cell_flanges absent present;
+{ 27 Epidermal_papillae absent present;
+{ 28 Epidermal_periclinal_walls_rugose absent present;
+{ 29 Epidermal_periclinal_walls_pitted absent present;
+{ 30 Epidermal_periclinal_walls_with_globules absent present;
+{ 31 Epidermal_periclinal_walls_granular absent present;
+{ 32 Epidermal_periclinal_wall_sculpturing_stronger_abaxially absent present;
+{ 33 Transverse_mesophyll_fibre_ridges absent present;
+{ 34 Adaxial_stomatal_band_number absent single_per_side less_than_one_per_side;
+{ 35 Abaxial_stomatal_bands_discontinuous absent present;
+{ 36 Stomatal_rows_uniseriate absent present;
+{ 37 Adaxial_stomatal_length_μm absent one_to_forty larger_than_forty;
+{ 38 Adaxial_stomatal_width_μm absent one_to_thirty_five larger_than_thirty_five;
+{ 39 Abaxial_stomatal_length_μm one_to_forty larger_than_forty;
+{ 40 Abaxial_stomatal_width_μm one_to_thirty_five larger_than_thirty_five;
+{ 41 Stomatal_papillae absent present;
+{ 42 Stomatal_plug_components solid_layers rods globular;
+{ 43 Stomata_amphicyclic absent present;
+{ 44 Subsidiary_cells_radially_elongated_in_a_starlike_pattern absent present;
+{ 45 Two_subsidiary_cells absent occur common;
+{ 46 Four_subsidiary_cells occur common;
+{ 47 More_than__subsidiary_cells occur common always;
+{ 48 Polar_cells usually_absent usually_present;
+{ 49 Stomatal_subsidiary_cell_papillae absent present;
+{ 50 Stomatal_subsidiary_cell_striations absent present State_2;
+{ 51 Stomatal_subsidiary_cell_flanges absent present;
+{ 52 Guard_cell_cuticular_flanges thin wide;
+{ 53 Polar_extensions short,_thick ribbonlike State_2;
+{ 54 Inter-guard/subsidiary_cell_flanges slightly_rolled prominently_rolled State_2;
+{ 55 Florin_ring_groove absent slight prominent;
+{ 56 Florin_ring_groove_surface smooth striated State_2;
+;
+
+
+ccode  - 0.56;
+
+
+;

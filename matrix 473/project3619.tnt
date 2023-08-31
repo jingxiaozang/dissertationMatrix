@@ -1,0 +1,96 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 13.27.20'
+57 21
+
+&[num]
+Pseudopsis                        01200000200001000003220000000001-000000102000110000000001
+Quedius_molochinus                00100031000010001003201-00000111-0000-0001000000000000001
+Ochthephilum                      111000112100100010020200000101001000100000000000001000010
+Homaeotarsus                      111000012100100011020200000101001000100000000000001100010
+Hyperomma                         011000012000100010020200100100002000000000000000001000011
+Paederus                          011000011401100010010100000101001000000010000000001000011
+Leptobium                         011000211401100010020200101101103100000000000000001100011
+Lathrobium                        011000012500000010010300000101002200001100000000001000000
+Medon                             012001111500000000011100000100000100020000000000000000000
+Astenus                           011000111500000011100100000101000100020010000000000000000
+Pinophilus                        01000011231121000001?100111101103200011010100000000000101
+Lathropinus                       010000112311210000010100111101103200011010100000000000101
+Procirrus                         010000212211221010003102111102103120011010100221101010101
+Neoprocirrus                      01001021221123010101010211110210302001101010022110101010?
+Oedodactylus                      011000312311210000011101111102103110011010100121101011100
+Pseudoprocirrus                   010000312311210010010102111102103110011010100121100010101
+Palaminus                         0110001123112100?0002100111112003021011010111221121100101
+Paraprocirrus                     01001011221122001000310211110200312001101010022110101010?
+Oedichirus                        0101002123112100?0000102111102003021011010110221111010101
+Stylokyrtus                       01100031231121001001010?111102101020011010100221101?1?10?
+Cretoprocirrus_trichotos          010100312311210?1001010????10210?00002000???022110????1??
+
+;
+
+
+cnames
+{ 0 Antennae,_form straight geniculate;
+{ 1 Head,_"shelf"_concealing_antennal_bases absent present;
+{ 2 Antennae,_antennomeres_9_and_10,_shape elongated,_filiform,_thin elongated,_egg_or_funnel_shaped wider_than_long;
+{ 3 Antennomere_11,_apical_spiniform__pencil_of_setae absent present;
+{ 4 Antennomere_11,_length shorter_than_antennomeres_9_and_10_combined longer_than_antennomeres_9_and_10_combined;
+{ 5 Eyes,_setae_between_ommatidia absent present;
+{ 6 Head,_labrum,_submedial_anterior_margin,_development denticles_and_lobes_absent denticles,_one_pair denticles,_two_pairs lobes,_one_pair;
+{ 7 Head,_epistomal_suture present absent;
+{ 8 Head,_maxillary_palpomere_3,_shape elongated,_regular expanded,_more_fusiform slightly_expanded,_vase-like;
+{ 9 Head,_maxillary_palpomere_4,_form parallel_sided,_slender nipple-like fusiform,_elongate securiform truncate acicular;
+{ 10 Head,_maxillary_palpomere_4,_cross_section cylindrical compressed;
+{ 11 Head,_maxillary_palpomere_4,_pubescence absent fine_and_dense;
+{ 12 Head,_maxillary_palpomere_4,_width narrower_than_palpomere_3 as_wide_or_almost_as_wide_as_palpomere_3 wider_than_palpomere_3;
+{ 13 Head,_shape_(including_eyes) rectangular,_elongate transverse elongate,_strongly_tapered_posteriorly hexagonal;
+{ 14 Head,_pedunculate_base absent present;
+{ 15 Head,_ventral_side,_postocular_grooves absent present;
+{ 16 Head,_posterior_margin,_temples,_shape straight rounded;
+{ 17 Head_vs._pronotum,_width head_narrower_or_as_wide_as_pronotum head_wider_than_pronotum;
+{ 18 Head_vs._pronotum,_length head_shorter_or_as_long_as_pronotum head_longer_than_pronotum;
+{ 19 Neck,_width narrow,_equal_or_less_than_1/3_of_head_width regular,_equal_or_less_than_1/2_of_head_width wide,_more_than_1/2_of_head_width very_wide,_as_wide_as_head;
+{ 20 Pronotum,_length longer_than_wide length_and_width_subequal wider_than_long extremely_elongated_(twice_as_long_as_wide);
+{ 21 Pronotum,_widest_at base apex_or_anterior_to_its_middle middle same_width_everywhere;
+{ 22 Pronotum,_postcoxal_process_of_hypomeron,_development well_developed_and_sclerotised poorly_developed,_translucent,_somewhat_flexible;
+{ 23 Pronotum,_postcoxal_process_of_hypomeron,_punctation absent present,_sparse present,_dense;
+{ 24 Mesospiracular_peritremes,_development small enlarged;
+{ 25 Mesospiracular_peritremes,_lateral_margin separated_from_hypomeron fused_to_hypomeron;
+{ 26 Procoxae,_cavity open closed_by_mesothoracic_peritreme;
+{ 27 Mesothorax,_elytra,_elongated_elytral_base absent present;
+{ 28 Mesothorax,_elytra,_apicolateral_angle,_macroseta absent present;
+{ 29 Mesothorax,_elytra,_posterior_margin broadly_and_evenly_rounded sinuate,_lobed_laterally_or_lateromedially emarginated;
+{ 30 Mesothorax,_elytra,_row_of_setae_on_edge_of_posterior_margin absent present;
+{ 31 Protibia,_comb-like_rows_of_setae present absent;
+{ 32 Protibia,_comb-like_rows_of_setae,_number_of_fully_developed_rows two three four more_than_four;
+{ 33 Protibia,_ctenidial_depression absent shallow deep;
+{ 34 Protarsomeres_1_to_4,_form cylindrical_or_dorsoventrally_flattened protarsomeres_1_to_3_bulbous protarsomeres_1_to_4_bulbous;
+{ 35 Protarsomere_5,_ventral_surface,_pubescence absent_or_sparse dense;
+{ 36 Protarsus,_dense_pale_adhesive_setae_underneath present absent;
+{ 37 Metatibia,_apical_ctenidium present_on_both_sides_and_separated,_inner_comb_long_and_outer__short_and_with_few_tines present_on_both_sides_and_connected_or_nearly_connected_to_each_other,_inner_comb__moderately_shorter_than_outer_and_with_numerous_tines present_on_one_side_only;
+{ 38 Metatibia,_width same_along_whole_length apically_expanded;
+{ 39 Metatarsomere_1,_length equal_to_or_longer_than_metatarsomere_2 shorter_than_metatarsomere_2;
+{ 40 Metatarsomere_4,_apical_portion,_length not_or_slightly_extending_beneath_metatarsomere_5 extending_beneath_metatarsomere_5;
+{ 41 Intersegmental_membrane,_pattern_of_sclerites regular,_brick-wall,_sclerites_hexagonal,_rectangular_or_quadrangular irregular,_sclerites_rounded irregular,_sclerites_different_shape;
+{ 42 Intersegmental_membrane,_sclerites,_degree_of_sclerotisation weakly_sclerotised,_stronger_only_on_sclerite_edges entire_sclerites_strongly_sclerotised;
+{ 43 Abdominal_intersegmental_membrane,__windows absent present;
+{ 44 Abdominal_segments_III-VI,_integument,_imbricate_macrosculpture absent present;
+{ 45 Abdominal_segment_III,_paratergites two_pairs one_pair paratergal_carina_present;
+{ 46 Abdominal_segments_IV-VI,_paratergites two_pairs one_pair absent;
+{ 47 Abdominal_segment_VII,_paratergites present,_two_pairs absent;
+{ 48 Abdominal_terga_and_sterna_IV_to_VI separated fused;
+{ 49 Abdominal_tergum_and_sternum_VII separated fused_basally,_with_incision_apically fused,_without_incision;
+{ 50 Tergum_IX,_lateroapical_process,_form curved,_platelike_lobe elongate_and__tapered_prong;
+{ 51 Tergum_IX,_lateroapical_process attached_to_base_of_IX separated_from_base_of__IX;
+{ 52 Tergum_IX,_lateroapical_process,_apex straight ventrally_curved;
+{ 53 Terga_IX_and_X separated fused;
+{ 54 Sternum_III,_posteriorly_directed_sublateral_carina absent present;
+{ 55 Abdomen,_sternite_IV,_anteromedian_gland absent present;
+{ 56 Male,_aedeagus,_well-developed_parameres absent present;
+;
+
+
+ccode  - 0.56;
+
+
+;

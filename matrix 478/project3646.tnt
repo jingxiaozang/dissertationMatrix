@@ -1,0 +1,289 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 13.30.12'
+202 69
+
+&[num]
+Actocharis_readingii                00--011101-01000-0100221101001000110-101011-101000-020000-?00010000010-01110000011000-2200101--00100001000011000100000100001000200-100--0---0000210000100211---10-0000110100200110-00-01000-00010121201112
+Aleochara_curtula                   1100000100001000-01002211010010101111101011-100-00-020010-010010000010-000000001110000221000000100-00020000112200000010-0011000000-102130012010010101101010001010-00000-1100200111100-00000-00010121011212
+Aleochara_moerens                   0100000100001000-01002211010010101111101011-100-00-0200110010010000010-000200001110001221000000101000020100112200000010-0011010000-102030012010000101101010001010-00000-0100200111101000000-00010121011212
+Aleochara_sp_Myanmar                10--000100001000-01002211010010101111101011-100-00-0200110010010000010-010000001110001221000000100-00020000112200000010-0011000000-102030012010010101101010001010-00000-0100200111100-00000-00010121011212
+Amarochara_forticornis              00--000100001000-01002211010010100011101011-100-00-020000-000010000010-02020000111000021100000000100002000011210100001100001020000-102030012000000101101010000010-00000-0100200111101000000-00010121011112
+Atheta_monticola                    00--000100101000-01002211010010000010101011-111000-0201010000010000010-00000000111001120001000000100001000011010100001100001000100-131-30012010000100000021000010-0100110100200110-01001000-01110121011112
+Autalia_longicornis                 00--010101-1-000-01002211010000000010101011-100-00-0211010000010000010-00000000031003-2001101--00120010000011110101011110001010200-100--002211002100??0002001-010-0000111100200111100-01000-00010120001212
+Baeostethus_chiltoni                00--011101-01000-0100221101001010110-101011-101?01?020000-100010000010-01210000011003-0-00101--00130002010011100000000100011010200-100--0---0000210000000201---10-0000110100200110-00-01000-00010120201012
+Bolitochara_pulchra                 00--000100100000-010022110101-0000011101011-101000-021100-000010000010-00000000011003-2001101--00130010000011010101001110001020200-101-20012010000101100010000010-0011101100200111101001000-00010111001212
+Colle_campbellensis                 00--000100101000-01002211010010000011101011-101000-0201010000010000010-01000000111003-2000101--00110012010011000100001110001010000-100--00000100200000001201---10-0100???100200111101000000-00010021011012
+Cordalia_obscura                    00--000101-01000-0100221101001??00010101011-101000-0201010000010000010-00000000011001120011000000110011000011101000001111101010100-101-20012010000101110020000010-00100-0101200110-01001000-01111121011112
+Crataraea_suturalis                 10--000100001000-01002211010010001010101111-101000-020000-100010000010-0000000011100110-011000000100002010011010000001110001020000-101-30013010000100000120000010-0110111100200111100-00000-00010120011012
+Cyllophallia_dauphinensis           00--00010001-000-01002211010010100010101011-111000-0201010000010000010-00000000111003-2001101--00110010000011010000001100001020100-101-0101201000010110002001-010-00100-0100200111101001000-00010120011112
+Cypha_longicornis                   10--00111001-100-01002211011--1-00010100-11-1011110020000-000110000010-00001000111001120000000000100002010010-200000000-0011000300-10202101100001010100011101-110-00000-0100200111000-01001100010020011112
+Cyphea_latiuscula                   00--000100001000-01002211010010000010101011-101000-020000-000010000010-00000000111000-0-??101--00100001000011020100001110001010200-131-3001201000010100002001-010-00?0110110200111101001000-00010120001112
+Deinopsis_erosa                     10--10111011-001001001110001--1-000100-0-11-1012011000000-000010001000-111110011100022220100001010-000011000--2000000111001101041100220011--000000100000001001201000010-10-0201120-10-1-101100010100020012
+Demerina_bickmanni                  00--000101-01000-01002211010010000010????11-101000-020?????00010001010-0?00000001100???????00000010000001001??01000000110001000100-102020002000001100?100210???10-1--10-1110200110-00-01000-01010121011112
+Diestota_testacea                   00--00010001-000-01002211010010000010101011-101000-0211010000010000000-00000000011001-2100111--00120010000011010100001110001010200-100--001201000010110001101-010-0010110100200111101000000-00010120011112
+Diglotta_mersa                      00--010101-1-000-010?2211011--0000010????11-101000-0201010000010010000-01100000011003-0-00111--002-0011010011100100001100001010200-100--00021000210000000201---10-0001101100200111100-01000-00010121001112
+Dinaraea_linearis                   00--000101-01000-01002211010010000010101011-111000-0201010000010000010-00000000111001121001000000110011000011010100001110001010100-101-30002200000100000021000010-0100110100200110-01001000-01110121011112
+Dinarda_dentata                     10--000100001000-01002211011--0001011101011-100-00-020100-000010000010-00000000111001120001000000100001010011020000001110001010000-101-30003010000100000120000010-0100111100200111101000000-00010110011012
+Dioxeuta_sp                         00--000101-1-000-01002211010000000010101?11-101000-120000-100010000010-0020001010100000-0010000001000010000111001000000-0011000100-131-20013??002100000001001-010-00000-0100200110-00-00000-00010121011112
+Drusilla_canaliculata               00--001100100000-11002211010010001111101011-100-00-020100-000010000010-02010000011001021000000000100002000011111100001110101010100-101-300120000101111000211---10-01000-0100200110-01001000-00110121011112
+Ecitogaster_sp                      00--00010011-000-01002211011--010110-101011-100-00-020000-100010000010-0200000011100000-100000000101000010011101101010110111000300-101-3002100001011111001101?010-1--10-1100200110-01001000-00?10122011112
+Ecitomorpha_arachnoides             00--000101-1-000-01002211010011-01010101011-1?0-00-020000-100010000010-0002000011100110-100000000101000010011111101010111001010100-101-30013010021000010020000010-1--11??100200110-00-01000-01110121011112
+Geostiba_circellaris                00--000100101000-01002211010010000010111-11-101000-0201010000010000010-00000000111001021001000000100001010011110100001100001010100-101-200020100001000000211---10-0100110100200110-01001000-01110121011112
+Gnypeta_carbonaria                  00--000100101000-01002211010010001110101011-101000-0201010000010000010-00000000111001022001000000110010000011110100001100001010100-100--0012010000101100021000010-0110110100200110-00-00001211010021011112
+Gymnusa_variegata                   10--101111-1-001001002010100011-1--0-0-0-1001011010010000-000000011000-101110010111033220001021010-000111000--2000000111001101000110020111--020000100020000001211100010-10-0200101010-1-001000010020000011
+Gyrophaena_congrua                  00--000100101000-010022110101-0000010101011-101000-021100-000010000010-00000000001001-0-01?01--002-00100000110101000010-0011010200-101-3000200001010100001101-010-0100100100200111100-01000-00010121011112
+Habrocerus_capillaricornis          10--000011-1-10100100100-000011-0000-0-0-100000-00-020000-000011000010-0202000011100021-000000000100010100010-100000001000000000010031-311--0200200-0020011001110-00000-00-021001??00-1-11??000?????????10
+Halobrecta_flavipes                 00--00010001-000-01002211010010000010101011-111000-0201010000010000010-00000000111003-2001101--00110012000011010100001100001020100-101-0001201000010110002001-010-0100110100200110-01000000-00010110011112
+Haploglossa_marginalis              10--000100001000-01002211010010001111101111-101000-020000-100010000010-0000000001100100-011000000100002010011020000001110001020000-101-30011010000100000120000010-01000-1100200111100-00000-00010???011?12
+Homalota_plana                      00--000100000000-01002211010000000010101011-101000-0211010000010000010-00000000101001-2000101--00130011000011010100001100001000200-101-3001200000010000002101-010-0100110100200111101001000-00010121011112
+Hoplandria_lateralis                1111000100001000-01002211010010100010101011-101000-0201010010010000010-00000000001003220111000000110012000011010000001100001010100-101-20012010010101000020020010-0010111100200111101000000-00010121011112
+Hygronoma_dimidiata                 00--000101-00000-01002211010010000010101011-111000-020100-000010000010-00000000111001021001000000100001010011110100001100001010300-101-3001200002100000002101-010-0110110100200110-00-01000-01110120011112
+Leptusa_antarctica                  00--001100001000-01002211010010000010101011-101000-0211010000010000010-00000000011003-0-01101--00130010000011010100001110001010200-131-30-----00001000000201---10-0110111100200111101001000-00010111011112
+Leptusa_pulchella                   00--001100001000-01002211010010000010101011-101000-0211010000010000010-00000000011001-0-01101--00130010000011110101001110001020200-101-3001200000010000001001-010-0011101100200111101001000-00010120001112
+Leucocraspedum_scorpio              10--00011001-000-01012211110010000011101011-101000-0200011000010000010-10000000001001-0-00001--00110002010011120000001100011010100-130--1012000000001100010000010-00000-0110200110-01001000-00010112111112
+Lomechusa_emarginata                00--00110011-000-01002211011--1-0110-101011-100-00-020000-100010000010-0200000001100000-000000000101002000011120100001100011010100-102030023010010111100010001010-0100011100200110-00-01000-01110121011112
+Masuria_plumbea                     00--00110001-000-01002211110010101010101011-101000-0200011100010001001110111000011001-0-01101--000-0010010011010100001110001020100-10201001300000010113001001-010-0000111110200110-01001000-00010020011112
+Meotica_filiformis                  011100010011-000-0100221101001010000-101011-101000-020100-000010000010-00000000111001120001000000110001010011?00100001110001010000-130--000200002110000012001?010-00100-0100200111101000000-00010120011212
+Myllaena_elongata                   10--00010011-000-01012211110010001010101011-101000-0200011101010001101110111000021001-0-01111--001100100100111200000010-0001020200-101-1001100002000003001001-010-00000-0110200111102101000-00010110121112
+Neodioxeuta_sp                      00--000001-1-000-01002211010010000010101111-101000-120000-100010000010-0020001010100010-0010000001000020000111001000000-0001000100-131-200????0?210000000101---10-00000-0100200110-00-00000-00010121011112
+Oligota_pumilio                     00--00111001-000-01002211011--1-00010100-11-1011110020000-100110000010-000100001010010220000000000-0000???010-20000001100011010300-10202101100001010100001001-110-00010-0100200101010-01001100010020011112
+Olisthaerus_megacephalus            00--000011-1-000-0000000-010011-0100-0-0-100101100-020000-100010000010-0201000011100021-0000000001001021110112001101000-000000000100020201--02000010002000001-210-1--10-10-0200000-10-1-00100000---1000010
+Orphnebius_draco                    00--01010011-000-110022110101-000110-101011-110-00-020000-100010000010-020000100110001211000000001000020100110201010110-1001000100-102110022000010111100011001010-0100111100200110-02101000-01110???011112
+Oxypoda_longipes                    111000000001-000-01002211010010100011101011-101000-020100-000010000010-00000000111001021001000000100002000011010000001100001020000-131-30012010000100000120001010-0100111100200111101000000-00010120011012
+Oxypodinus_anxius                   00--00010001-000-01012211110010000010101011-100-00-0200011001010000001010100000011001-0-00101--000-00100100110200000010-0001020100-100--001210000010110001001-010-00000-0110200110-01001000-00010?????1112
+Paraconosoma_polita                 10--000011-1-000-01011010010011-1--0-1010101100-00-020000-000010000000-11110000051003322000001001100000011010-200000000-0011000000-100--100202100010?000110000000-1--10-1000200101010-1-001100010000120012
+Phloeocharis_subtilissima           00--000101-1-00110010201000001010010-0-0-101101100-020000-000010000010-0001000010100021-000000000100100111010-100101000-00010000010131-311--00000010002001001-200-1--10-10-0200000-10-1-00100000---1000010
+Phloeopora_corticalis               00--000101-00000-01002211010010000010101011-101000-0200010100010000010-0000000011100000-001000000100001000011000100001110001010000-131-2001301000010100012001-010-0110111100200111100-00000-00010121001112
+Phyllodinarda_xenocephala           10--00110011-000-?1002211011--010110-101011-110-00-120100-000010000010-02010000111000021100000000100002010011120001011101011101100-101-20012010100110110011000010-01000-0100200110-00-01000-01110121011112
+Phytosus_spinifer                   00--000100101000-01002211010010000010101011-101000-020100-000010000010-00000000011001-0-01001--00130011000011000100001110001010200-030--001201000010000002001-010-0100110100200110-01001000-00010121201112
+Piochardia_schaumii                 110000011001-000-01002211010010001111101011-101000-020000-010010000010-020200001110001221000000101000020000111200000010-0011010000-102030012000000101101010001010-00000-0100200111101000000-00010121011212
+Placusa_incompleta                  10--00010001-000-0100221101001000000-101011-100-00-020100-000010000010-01200000001002-0-00101--00100000010011010000000100001010200-101-2001201002010000011001?010-01000-0100200111101000000-00010111011112
+Pronomaea_picea                     00--000100000000-01012211010010000011101011-101000-0200011100010001001010211000041001-2100111--000-0010010011010101001110001020100-100--0002000000101130010000010-00100-1100200110-01001001100010020011212
+Pseudosemiris_circassica            00--000100101000-01002211010010001110111-11-100-00-020100-000010000010-00000000111001021001000000100001010011110100001100001010100-101-30002010000101000021000010-0100110100200110-01001000-01110121011112
+Silusa_rubiginosa                   00--000100001000-01002211010000000010101011-101000-0211010000010000000-00000000011003-0-01111--00130012000011110101001110001020200-101-3001301000010010001001-010-0010101100200111101001000-00010121001112
+Stylogymnusa_subantarctica          10--101101-1-001001021010201--1-1--0-0-0-0011012011010000-000000111000-10311101001101-2200012--010-0001?1200--200000011100100100012000--1-----00000-00000101---01000010-10-0201101010-1-000-00010120000012
+Tachinus_proximus                   10--000011-1-01110010000-010011-0100-0-0-100000-00-020000-000011000010-2200000010101021-000000000100102101111220010001110000000000-0120311--02000010002000001-210-00000-10-0000020-00-1-000-0000---2000000
+Tachyusa_objecta                    00--000100101000-01002211010010001110101011-101000-0201010000010000010-01000000111001020001000000110010000011110100001110001010100-100--00120100001010000200???10-0110110100200110-00-00001211010021011112
+Termitobaena_bryanti                00--000110001000-01002211011--1-0110-101011-110-00-120000-100010000010-020000100?100000-000000000101000000011110000001100001000100-101-2001200002100000001001-010-00000-1100200110-00001000-01010120011112
+Termitodiscus_heimi                 10--00010011-000-0100221101001010000-101011-101000-120000-000010000010-02020000101000120000002000100001010011120000000110011101100-100--001200001010100001001-010-00000-0110200110-02101000-00010121011212
+Termitusa_sjoestedti                10--001111-1-000-010122110100100?????????11-100-00-02000???0001000010??11100000??1003-0-00?01--00100000??001??2000?0000-0011000200-100--0---??00200000300101---10-00000-0110200110-02101000-00010112121112
+Thamiaraea_cinnamomea               00--000100101000-01002211010010000010101011-111000-0201010000010000010-00000000111001-2100101--00110012000011010100001100001010100-101-30012010000101100021000010-0100110100200110-01001000-01110120011112
+Trichophya_pilicornis               00--00100011-00100100100-000011-1--0-100-1001011010010000-000010000010-00000000001000121000000000100010210011210000001110001010000-1120001--0200200-0020011000110-00000-00-020001??00-1-100-0000---1000010
+Typhloponemys_sp_Israel             10--000100101000-01002211010010101110101011-100-00-020?00-?00010000010-020000001010000200010000001000020100110200000010-1011101100-102020012000100111000010000010-1--10-1100200110-00-01000-00?10121011112
+Typhloponemys_sp_Tanzania           10--000100101000-01002211010010101110101011-100-00-020?00-?00010000010-0000000010100010-0010000001000020100110200000010-1011101100-102020022000100111000010000010-1--10-1100200110-00-01000-00?10121011112
+Zyras_collaris                      00--000100001000-110022110101-000110-101011-100-00-020100-000010000010-02000000011001021100000000100002010011110100001100001010100-101-20012010010111100021001010-01000-0100200110-01001000-01110121011112
+
+;
+
+
+cnames
+{ 0 Forebody,_form parallel-sided fusiform;
+{ 1 Antenna,_apical_antennal_article,_coeloconic_sensillae absent present;
+{ 2 Antennae,_apical_segment,_coeloconical_sensillae numerous one_pair;
+{ 3 Antennae,_coeloconic_sensillae,_shape circular elongated;
+{ 4 Head,_setigerous_pores absent present;
+{ 5 Head,_width distinctly_narrower_than_pronotum more_less_as_wide_or_wider_than_pronotum;
+{ 6 Head,_mandibular-ocular_distance less_than_0.5_length_of_eye equal_or_longer_than_0.5_length_of_eye;
+{ 7 Head,_frontoclypeal_suture present absent;
+{ 8 Head,_hypostomal_suture complete_to_lateral_edge_of_submentum absent_or_incomplete;
+{ 9 Head,_occipital_suture present absent;
+{ 10 Head,_occipital_suture,_when_present complete_to_anterior_edge_of_head incomplete;
+{ 11 Head,_postoccipital_sutures present absent;
+{ 12 Head,_postoccipital_sutures,_when_present complete incomplete;
+{ 13 Labrum,_divided_into_two_halves_by_medial_longitudinal_suture not_divided divided;
+{ 14 Labrum,_anterior_margin,_medial_area without_row_of_six_to_eight_flattened,_spatulate_or_modified_setae with_row_of_six_to_eight_flattened,_spatulate_or_modified_setae;
+{ 15 Labrum,_apicolateral_margins not_modified_to_setose_or_spinose_processes modified_to_setose_or_spinose_processes;
+{ 16 Labrum,_setose_processes_in_anterolateral_areas simple bifid;
+{ 17 Epipharynx,_subapical_pair_of_sensory_spines absent present;
+{ 18 Epipharynx with_peglike_sensillae_in_midline_and_mesolateral_areas without_peglike_sensillae_in_midline_and_mesolateral_areas;
+{ 19 Epipharynx,_medial,_basal_(more_oral)_to_posteriorly_directed_setae without_medial_multiporose_structure with_medial_multiporose_structures;
+{ 20 Labrum,_shape transversal,_L<W quadrate,_L=W elongate,_L>W;
+{ 21 Epipharynx,_mesolateral_areas mesolateral_areas_with_dense_patch_of_setose_processes_on_each_side_of_midline mesolateral_areas_with_a_few_scattered_long_setose_processes_on_each_side_of_midline mesolateral_areas_without_elongate_setose_processes;
+{ 22 Epipharynx,_middle_basal_region with_dense_patch_of_orally_directed_setose_processes with_orally_directed_short_spinules without_setose_processes_or_spinules;
+{ 23 Labrum,_apodeme reduced_and_(or)_invisible present,_well-defined;
+{ 24 Labrum,_apodeme,_when_present simple_and_short complex_and_long;
+{ 25 Labrum,_discal_setation with_a_few_longer_setae numerous_short_setae without_discal_setae;
+{ 26 Epipharynx,_medial_region,_medial_pore_field with_a_few_irregularly_scattered_pores,_or_pores_absent with_numerous_pores_in_a_linear_or_rectangular_array;
+{ 27 Epopharynx,_basal_medial_region pores_present absent;
+{ 28 Epipharynx,_basal_medial_region,_sensory_pores elongated_row irregular_cluster;
+{ 29 Epipharynx,_basal_region_sensory_pores transverse_row_of_sensory_pores_divided_into_two_parts transverse_row_not_divided;
+{ 30 Epipharynx,_mesal_region_of_medial_pore_field,_pores present absent;
+{ 31 Epipharynx,_mesal_region_of_medial_pore_field pores_not_fused pores_fused;
+{ 32 Epipharynx,_lateral_pores present absent;
+{ 33 Epipharynx,_lateral_pores,_when_present up_to_six_pores_present more_than_six_pores;
+{ 34 Epipharynx,_lateral_pores,_grouping_in_a_row row_not_extended row_extended_to_anterior_1/2-1/3_of_lenght_of_epipharynx;
+{ 35 Epipharynx,_basal_lateral_pores absent present;
+{ 36 Epipharynx,_basal_lateral_pores,_number up_to_five_pores many_pores;
+{ 37 Epipharynx,_a-sensillum absent present;
+{ 38 Epipharynx,_a-sensillum,_when_present not_reduced reduced;
+{ 39 Epipharynx,_e-sensillum absent present;
+{ 40 Epipharynx,_e-sensillum,_size short elongated;
+{ 41 Mandibles,_shape very_elongate_(length/width_ratio_greater_than_2.5) shorter_(length/width_ratio_less_than_2.5);
+{ 42 Mandibles,_molar_lobe distinct indistinct;
+{ 43 Mandible,_molar_lobe,_when_distinct divided_from_base_of_mandible_by_suture not_divided_from_base_of_mandible_by_a_suture;
+{ 44 Mandibles,_number_of_ventral_ball-and-socket_articulating_surfaces two one;
+{ 45 Mandiblr_(right),_recess_at_first_one-third absent present;
+{ 46 Mandible_(right),_subapical_teeth absent present;
+{ 47 Mandible_(right),_number_of_subapical_teeth one_small one_large two_large;
+{ 48 Mandible_(left),_shape without_deep_V-shaped_incision_in_lateral_margin with_deep_V-shaped_incision_in_lateral_margin;
+{ 49 Mandible_(left),_subapical_teeth absent present;
+{ 50 Mandibles_(left),_number_of_subapical_teeth one_large two_large;
+{ 51 Mandible_(left),_crescent_adge absent present;
+{ 52 Mandibles,_prostheca a_few_large_teeth fringe_of_small_teeth fringe_of_filiform_setulae;
+{ 53 Mandibles,_molar_ventral_area without_dense_patch_of_spinules with_dense_patch_of_spinules;
+{ 54 Mandibles,_molar_dorsal_area,_"velvety_patch" absent present;
+{ 55 Mandibles,_molar_dorsal_area,_"silk_patch" absent present;
+{ 56 Mandibles,_molar_dorsal_area,_row_of_spinules absent present;
+{ 57 Mandibles,_molar_dorsal_area,_number_of_row_of_spinules one_or_two_rows more_than_two_rows;
+{ 58 Mandibles,_molar_area,_scale-like_structures absent present;
+{ 59 Maxillary_palpi,_apical_pseudosegment absent present;
+{ 60 Maxillary_palpi,_apical_segment not_medially_divided_into_pseudosegments medially_divided_into_pseudosegments;
+{ 61 Galea,_external_(aboral)_base without_hook-like_process with_hooklike_process;
+{ 62 Galea,_internal_(adoral)_base with_hook-like_notch without_notch_or_indentation;
+{ 63 Galea,_apical_setae mostly_filiform_or_spinose many/most_flattened_and_subspatulate;
+{ 64 Maxillary_palpomere_1 short,_much_shorter_than_palpomere_2 long,_almost_as_long_as_palpomere_2;
+{ 65 Maxillary_palpomeres_2_and_3 moderate_length_to_short very_long;
+{ 66 Maxillary_palpomere_4_(apical_palpomere) moderate_sized,_longer_than_greatest_width_of_maxillary_palpomere_3 minute,_shorter_than_width_of_apex_of_maxillary_palpomere_3;
+{ 67 Maxillary_palpomere_3,_sensory_field absent present;
+{ 68 Lacinia,_length long,_slender_and_stylate_to_substylate,_length_6x_or_more_width_at_base normal,_not_noticeably_long_and_stylate,_length_5x_or_less_width_at_base;
+{ 69 Lacinia,_interdigitating_setae absent present;
+{ 70 Lacinia,_interdigitating_setae,_size small large;
+{ 71 Lacinia,_apicomesal_edge partially_spinose completely_spinose brushy;
+{ 72 Galea,_length_to_lacinia subequal shorter_than_lacinia longer_than_lacinia;
+{ 73 Galea,_apical_spines/setae brushy_with_scattered_or_distinct_rows_of_setae_or_spines subapical_setae_or_spines_forming_a_single_row subapical_setae_or_spines_forming_a_double_row spines_or_setae_greatly_reduced;
+{ 74 Galea,_width_to_lacinia subequal narrower_than_lacinia wider_than_lacinia;
+{ 75 Cardo,_shape triangular rectangular;
+{ 76 Mentum,_size small large_(occupying_most_of_ventral_area_of_head);
+{ 77 Mentum_and_submentum free fussed_with_submentum;
+{ 78 Mentum,_width_to_gula greatest_width_about_equal_to_apex_of_gula greatest_width_much_greater_than_apex_of_gula;
+{ 79 Mentum,_shape 2x_longer_than_wide 3x_longer_than_wide;
+{ 80 Mentum,_anterior_margin straight weakly_to_moderately_emarginate bispinate bilobbed dyply_cleft with_apically_rounded_processes;
+{ 81 Mentum,_shape_-_2 broadest_in_basal_quarter_(distinctly_narrower_at_base) broadest_basally_(not_distinctly_narrowed_basally);
+{ 82 Mentum,_anterolateral_surface on_same_plane_as_discal_areas on_different_plane_from_discal_areas;
+{ 83 Ligula_of_prementum without_fringe_of_setae with_fringe_of_setae;
+{ 84 Ligula,_shape short_and_broad short_and_slender long_and_broad long_and_slender;
+{ 85 Ligula,_length shorter_than_palpomere_1 almost_same_as_palpomere_1 longer_than_palpomere_1 extremely_long,_reaching_the_tip_of_labial_palpus;
+{ 86 Ligula,_shape_of_apex entire broadly_and_shallowly_emarginare divided_into_two_lobes;
+{ 87 Ligula,_shape_of_apex,_division_into_two_lobes divided_in_apical_half_or_less divided_in_apical_half_or_more divided_to_base,_or_near_base;
+{ 88 Ligula,_apical/subapical_spines without_two_to_three_apical/subapical_sensory_spines with_two_to_three_apical/subapical_sensory_spines;
+{ 89 Ligula,_middle_part,_pair_of_sensory_setae absent present;
+{ 90 Ligula,_base_area without_two_pores_at_the_base_of_ligula with_two_distinctive_pores;
+{ 91 Labial_palpi,_shape not_styliform styliform;
+{ 92 Labial_palpi,_fusion palpomeres_not_fused_(three-articled) palpomeres_1_and_2_fused_(apparently_two-articled) palpomeres_1,_2_and3_fused_(apparently_one-articled);
+{ 93 Labial_palpomere_2,_shape_and_size subquadrate_or_elongate_and_slender subglobose_or_globose minute,_less_than_0.2x_length_of_1;
+{ 94 Labial_palpomere_1,_length subequal_to,_or_shorter_than_2_and_3_together much_longer_than_2_and_3_together;
+{ 95 Labial_palpi,_apical_pseudosegment absent present;
+{ 96 Labial_palpomere_1,_longitudinal_row_of_setae absent present;
+{ 97 Prementum,_presence_of_discal_setae not_present two_present one_present;
+{ 98 Prementum,_distance_between_discal_setae large,_greater_than_2x_width_of_setal_pore small,_1-2x_width_of_setal_pore contiguous one_behind_the_other;
+{ 99 Prementum,_setae with_two_setae_at_most with_many_unordered_setae_on_prementum;
+{ 100 Prementum,_medial_area without_barlike_or_clublike_sclerotized_support_(in_medial_pseudopore_area) with_barlike_or_clublike_sclerotized_support_in_medial_area;
+{ 101 Prementum,_medial_pseudopore_field broad_(greater_than_2x_width_of_discal_seta_pore) narrow_(less_broad_than_2x_width_of_discal_seta_pore);
+{ 102 Prementum,_medial_pseudopore_field,_pseudopores without_pseudopores with_a_few_scattered_pseudopores_(six_to_eight_or_less) with_numerous_pseudopores;
+{ 103 Prementum,_lateral_area,_pores present,_many one_pore_on_each_side absent;
+{ 104 Prementum,_lateral_area,_pseudopores present absent;
+{ 105 Prementum,_lateral_pseudopore_field,_setae_number one_seta_on_each_side two_setae_on_each_side absent;
+{ 106 Hypopharynx,_rows_of_setigerous_pores_on_each_side_medial_to_hypopharyngeal_fringe without with;
+{ 107 Hypopharynx with_irregularly_scattered_setae_on_each_side_of_midline with_well-differentiated_row_of_setae_on_each_side_of_midline;
+{ 108 Hypopharinx,_setae_on_aboral_margin absent present;
+{ 109 Hypopharinx,_setae_on_aboral_margin,_when_present present_only_at_base_or_½_of_length_of_hypopharynx present_up_to_2/3_or_apex_but_not_reach_it present_on_all_appendage;
+{ 110 Pronotum,_shape distinctly_broadest_in_anterior_half broadest_near_center broadest_in_posterior_half;
+{ 111 Pronotum,_medial_longitudinal_sulcus absent present;
+{ 112 Hypomeron not_visible_in_lateral_view visible_in_lateral_view;
+{ 113 Hypomeral_process absent present;
+{ 114 Prosternum,_shape rectangular square;
+{ 115 Prosternum not_fussed_with_hypomeron fussed_with_hypomeron;
+{ 116 Prosternum,_shape_(without_lateral_flanges) rectangular distinctly_square;
+{ 117 Prosternum,_medial_suture absent present;
+{ 118 Prosternum,_medial_keel absent present;
+{ 119 Prosternum,_medial_keel,_when_present blunt sharp;
+{ 120 Mesospiracular_peritremes separated meeting_at_midline;
+{ 121 Scutellar_shield not_carinate carinate;
+{ 122 Elytron,_shape longer_than_wide quadrate;
+{ 123 Elytra,_epipleural_ridge present absent;
+{ 124 Elytra,_pseudoepipleural_ridge absent present;
+{ 125 Elytra,_posterolateral_margin not_sinuate slightly_to_moderate_sinuate strongly_sinuate;
+{ 126 Elytra,_posterolateral_edge not_modified forming_triangle_appendage;
+{ 127 Tarsomeres,_number five-five-five four-five-five four-four-five four-four-four three-three-three;
+{ 128 Last_tarsal_segment,_large_dorsolaterally_directed_seta_on_each_side_near_apex absent present;
+{ 129 Protibia,_preapical_longitudinal_ctenidium_of_setulae absent present;
+{ 130 Protibia,_preapical_longitudinal_ctenidium_of_setulae,_when_present not_in_a_depression in_shallow_depression_or_hollow in_deep_depression_or_hollow;
+{ 131 Tibia,_irregularly_distributed_stout_spines present absent;
+{ 132 Tarsal_claws,_shape simple with_large_basal_lobe with_medial_and_sub-basal_tooth with_small_basal_tooth;
+{ 133 Empodial_setae absent one_seta two_setae;
+{ 134 Empodial_bristles,_relative_lengths_(when_two_setae) equal/subequal_in_length one_distinctly_shorter_than_the_other;
+{ 135 Empodial_bristles,_length_relative_to_tarsal_claws distinctly_longer_than_tarsal_claws subequal_in_length_to_tarsal_claws distinctly_shorter_than_tarsal_claws_but_longer_than_0.5x_length_of_tarsal_claws distinctly_shorter_than_0.5x_length_of_tarsal_claws;
+{ 136 Ventral_lamella_on_hind_coxae absent_or_small present,_covering_base_of_trochander;
+{ 137 Mesonotum,_anterolateral_setae_separation clearly_divided_into_large_and_small_groups_of_setae large_group_of_setae_subdivided_into_two_groups;
+{ 138 Mesonotum,_large_field_of_setae 6_setae_or_less 8-13_setae 15_and_more_setae;
+{ 139 Mesonotum,_small_field_of_setae 1_seta 2_setae 3_setae many_setae_present;
+{ 140 Mesonotum,_medial_field,_pores absent present,_up_to_8 present,_more_than_8;
+{ 141 Mesonotum,_medial_field,_surface without_modification with_scale-like_surface with_short_setae;
+{ 142 Meso-ventral_process ventral_surface_not_shield-like ventral_surface_expanded,_shield-like;
+{ 143 Meso-metaventral_process not_fused fused;
+{ 144 Mesocoxae,_separation narrowly_to_moderate_separated broadly_separated contiguous;
+{ 145 Mesocoxal_acetabula completely_margined_posteriorly_by_fine_ridge not_margined_posteriorly,_open;
+{ 146 Metaventral_process small_and/or_indistinct distinct;
+{ 147 Metaventral_process,_when_distinct shorter_or_subequal_length_to_that_of_mesosternal_process much_longer_than_mesosternal_process;
+{ 148 Mesocoxal_cavities continuous separated;
+{ 149 Mesocoxal_cavities,_intercoxal_bar absent present;
+{ 150 Mesocoxal_cavities,_mesendosternite with_short_appendages with_elongated_blade-like_appendages with_elongated_curved_appendages with_short_and_broad_appendages;
+{ 151 Mesocoxal_cavities,_mesendosternite,_additional_pair only_appendages_on_apico-lateral_margin_present short_appendages_on_lateral_margins_present;
+{ 152 Mesocoxal_cavities,_lateral_longitudinal_ridge absent present;
+{ 153 Metendosternite,_flanges_for_muscle_attachment_at_apex_of_distal_arms large_to_very_large_(length_of_flange_subequal_to,_or_greater_than,_minimum_distance_between_flanges) small_to_moderate_sized_(length_of_flange_distinctly_less_than_minimum_distance_between_flanges indistinct_to_absent_(flange_indistinct_and_difficult_to_distinguish_from_apical_ends_of_arms_or_arms_uniformly_tapered_to_muscle_attachments;
+{ 154 Metendosternite,_medial_spine_between_distal_arms absent present;
+{ 155 Hind_wings present absent_or_rudimentary;
+{ 156 Wings,_presence_of_flabellum present,_well_developed absent State_2;
+{ 157 Wings,_flabellum,_number_of_appendages 12_or_fewer 15_and_more;
+{ 158 Wings,_setae_at_R1_area 3_setae_present setae_absent more_than_3_setae_present;
+{ 159 Laterotergites_on_abdominal_segments_3-7,_number one two;
+{ 160 Comb_of_cuticular_projections_on_posterior_margins_of_abdominal_segments_3-6 absent present;
+{ 161 Cuticular_projections_on_posterior_margins_of_abdominal_segments_3-6,_form two_types_of_projection one_type_of_projection;
+{ 162 Abdominal_tergite_IV-VI,_base_area,_transverse_ridges present absent;
+{ 163 Abdominal_tergite_IV-VI,_pattern_of_transverse_ridges one_ridge two_ridges;
+{ 164 Abdominal_tergites_IV-VI,_lateral_bar_between_transverse_ridges ridges_not_connected_to_each_other_by_a_bar two_ridges_connected_to_each_other_by_a_bar;
+{ 165 Abdominal_ventrite_III-VI,_pattern_of_transverse_ridges with_well-marked_basal_ridge without_basal_ridge;
+{ 166 Abdominal_ventrite_VII,_glands_opening absent,_indistinctive_or_very_few present,_gorming_group;
+{ 167 Abdominal_ventrite_VII,_glands_openings,_when_grouped field_broad field_narrow;
+{ 168 Abdominal_ventrites_VII,_basal_transverse_ridge present,_complete absent_or_incomplete;
+{ 169 Abdominal_tergum_VII,_tergal_gland_opening_on_anterior_margin absent present;
+{ 170 Tergum_VII,_gland_opening,_size large,_about_0.5×_width_of_tergite small,_0.2-0.4×_width_of_tergite;
+{ 171 Abdominal_sternum_IV without_medial_gland_opening with_medial_gland_opening;
+{ 172 Male_tergum_VIII divided_into_two_triangular_processes divided_into_four_triangular_processes various,_but_not_as_above;
+{ 173 Abdominal_tergites_VIII-IX not_incorporated_into_genital_apparatus incorporated_into_genital_apparatus;
+{ 174 Abdominal_tergum_X,_apical_form subtrapezoidal,_rounded_apically elongate,_with_elongate_apex;
+{ 175 Male_tergum_IX,_laterotergal_struts absent_or_reduced present;
+{ 176 Male_tergum_IX complete narrowly_divided_into_hemitergites completely_divided_into_hemitergites;
+{ 177 Male_sternum_IX,_anterior_struts absent present;
+{ 178 Male_sternum_IX,_anterior_struts,_when_present longer_than_0.5_length_of_sternum_IX shorter_than_0.5_length_of_sternum_IX;
+{ 179 Tergum_X,_shape widest_at_middle widest_at_base_or_near_base;
+{ 180 Setose_areas_of_tergum_X not_divided_into_two_linear_lobes divided_into_two_linear_lobes_in_apical_half divided_to_near_base_into_two_linear_lobes;
+{ 181 Tergum_X,_setose_area not_completly_divided_into_two_lobes completly_divided_into_two_lobes;
+{ 182 Aedeagus,_median_lobe,_compressor_plate present absent;
+{ 183 Aedeabus,_median_lobe,_compressor_plate,_when_present long,_extended_entire_length_of_medial_lobe short,_well-defined_compressor_plate;
+{ 184 Median_lobe,_internal_sac,_spines few,_absent_or_insignificant many_and_prominent;
+{ 185 Basal_bulb_of_aedeagus sclerotized completely_membranous;
+{ 186 Median_lobe,_attachments_for_parameres process_absent_or_small_and_insignificant process_present;
+{ 187 Median_lobe,_attachments_for_parameres,_when_present with_pair_of_wery_large_process with_single_large_process with_blade-like_process;
+{ 188 Medial_lobe_of_aedeagus,_basal_bulb not_deeply_incised_by_V-shaped_unsclerotized_region deeply_incised_by_V-shaped_unsclerotized_region;
+{ 189 Medial_lobe,_basal_bulb,_sclerotized_flap_over_base_of_compressor_plate absent present;
+{ 190 Medial_lobe,_athetine_bridge absent present;
+{ 191 Paramere_characteristics,_general_form small,_slender,_rodlike,_not_enclosing_medial_lobe broad,_enclosing_median_lobe;
+{ 192 Paramere_velum not_divided_into_a_paramerite_and_condylite_lobe divided_into_a_paramerite_and_condylite_lobe;
+{ 193 Paramere,_velum,_form long_(more_than_half_as_long_as_paramere) shorter_(less_than_half_as_long_as_paramere);
+{ 194 Paramere,_apical_lobe_of_paramerite_(length) long_and_slender_(longer,_or_as_long_as_paramerite) medium_length_(less_than_length_of_paramerite,_but_more_than_0.5x_as_long short,_less_than_0.5x_as_long_as_paramerite;
+{ 195 Paramere,_apical_lobe_of_paramerite,_setae_distribution sub-basally_to_apex only_in_apical_half without_setae;
+{ 196 Paramere,_apical_lobe round pointed flared;
+{ 197 Paramere,_apical_lobe_of_paramerite,_articulation not_articulated clearly_articulated_anterior_to_edge_of_velum articulated_posterior_to_anterior_edge_of_velum;
+{ 198 Paramere,_condylite,_articulation_with_paramerite not_apparently_articulated clearly_articulated;
+{ 199 Paramere,_paramerite,_hinge_zone_extended_from_"dorsal_surface"_to_near_articulation_between_condylite_and_paramerite absent present,_but_faint present,_prominent;
+{ 200 Female_tergum_VIII divided_into_two_triangular_processes,_with_setae_at_apex_of_each various,_but_not_divided_into_two_triangular_processes;
+{ 201 Female_gonocoxites clearly_articulated,_two-_segmented apical_lobe_reduced_to_spinose_process apical_lobe_absent;
+;
+
+
+ccode  - 0.201;
+
+
+;

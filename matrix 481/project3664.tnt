@@ -1,0 +1,64 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 13.31.45'
+26 20
+
+&[num]
+Selaginella                         1??13213210112?01?1000020?
+Isoetes                             1??132143101100010?0110000
+Austrolycopodium                    04010001100102111011100400
+Dendrolycopodium                    04010101101102111011101300
+Diphasiastrum                       04010001101102111111001?00
+Diphasium                           04010001101102111111000200
+Huperzia                            00100000010001000011000?00
+Lateristachys                       02011301101112111011000200
+Lycopodiastrum                      01010?01101102111011000200
+Lycopodiella                        02011301101112111010000?00
+Lycopodium                          04010101101102111011000402
+Palhinhaea                          02011301101112111011001?10
+Phlegmariurus                       00000?000100010010?1000?00
+Phylloglossum                       00002102010000011011210000
+Pseudodiphasium                     04010?01100102111111000300
+Pseudolycopodiella                  02011301101112111?10?00?00
+Pseudolycopodium                    03010101101102111011001300
+Spinulum                            04010101101102111011100301
+Lycopodicaulis_oellgaardii          0?????0110???2???011100300
+Paurodendron_stellatum              1??1??1030???2???011100200
+
+;
+
+
+cnames
+{ 0 Reproductive_mode plants_homosporous,_with_a_unimodal_distribution_of_spore_sizes,_sporangia_all_of_the_same_type plants_heterosporous,_with_a_bimodal_distribution_of_spore_sizes,_sporangia_of_two_types_(megasporangia_and_microsporangia);
+{ 1 Spore_distal_surface_sculpture distal_spore_surface_sculpture_foveolate-fossulate_ distal_spore_surface_sculpture_scabrate_ distal_spore_surface_sculpture_rugate_ distal_spore_surface_sculpture_bacculate_ distal_spore_surface_sculpture_reticulate;
+{ 2 Spore_outline_in_polar_view spore_margins_convex_to_straight_and_corners_acute_to_rounded_ spore_margins_concave_and_corners_truncate;
+{ 3 Gametophyte_paraphyses paraphyses_present_ paraphyses_absent_;
+{ 4 Gametophyte_growth_habit gametophyte_wholly_subterranean gametophyte_wholly_surficial gametophyte_initially_wholly_subterranean,_becoming_partially_surficial gametophytes_endosporic;
+{ 5 Gametophyte_morphology Cylindrical_or_conic Disc-shaped Endosporic,_spherical Branched;
+{ 6 Ligule ligule_absent ligule_present;
+{ 7 Shoot_stele_type actinostelic_protostele plectostelic_protostele siphonostele Selaginellaean_type_suspended_protostele Isoetalean_type_protostele;
+{ 8 Root_emergence_type roots_adventitious,_with_corticular_emergence roots_adventitious,_without_corticular_emergence roots_emerging_from_rhizophore roots_emerging_from_rhizomorph;
+{ 9 Relative_diameter_of_shoot_stele stele_occupying_>_1/3_total_stem_diameter stele_occupying_<_1/3_total_stem_diameter;
+{ 10 Mucilage_canals_in_sporophyll_base mucilage_canal_in_sporophyll_base_absent mucilage_canal_in_sporophyll_base_present;
+{ 11 Sporangium_epidermis_cell_wall_lignification sporangium_epidermal_cells_with_walls_thick_and_lignified_ sporangium_epidermal_cells_with_walls_thin_and_non-lignified;
+{ 12 Sporangium_epidermis_wall_cell_shape sporangial_cell_walls_sinuate sporangial_cell_walls_non-sinuate;
+{ 13 Shoot_branching_type shoots_unbranched shoots_dichotomic-isotomously_branched shoots_dichotomic-anisotomously_branched;
+{ 14 Sporophyll_attachment_position sporophylls_basally_attached sporophylls_subpeltate/peltate;
+{ 15 Sporophyll_persistence sporophylls_persistent,_green_following_dehiscence_of_sporangia sporophylls_deciduous,_senescing_following_dehiscence_of_sporangia;
+{ 16 Presence_of_gemmae gemmae_present gemmae_absent;
+{ 17 Isophylly/anisophylly Plants_isophyllous Plants_anisophyllous_;
+{ 18 Growth_habit aquatic terrestrial epiphytic;
+{ 19 Aerenchyma_in_stems aerenchyma/air_canals_present aerenchyma/air_canals_absent;
+{ 20 Microphyll_symmetry Microphylls_dorsiventrally_flattened_from_proximal_to_distal_end_of_the_leaf_lamina Microphylls_dorsiventrally_flattened_near_the_proximal_end_but_becoming_terete_near_the_middle_length_of_the_leaf_lamina Microphylls_terete_along_its_entire_leaf_lamina;
+{ 21 Shoot_elongation lycophylls_borne_on_an_elongate_shoot_(space_visible_between_alternating_lycophyll_sub-whorls lycophylls_borne_on_reduced_shoot_appearing_tufted_(no_space_visible_between_sub-whorls_of_lycophylls).;
+{ 22 Tree-like_branching Plants_lacking_tree-like_branching Plants_with_tree-like_branching;
+{ 23 Phyllotaxy leaves_arranged_in_a_subwhorl leaves_(sub-)opposite,_decussate leaves_alternate,_spirally_arranged,_in_3-5_ranks leaves_alternate,_spirally_arranged,_in_6-8_ranks leaves_alternate,_spirally_arranged,_in_9-11_ranks leaves_alternate,_spirally_arranged,_in_>_11_ranks;
+{ 24 Microphyll_pubescence microphylls_glabrous microphylls_pubescent;
+{ 25 Microphyll_apex microphyll_apices_rounded_to_acute,_without_an_apical_projection microphyll_apices_acute_to_acuminate,_spinulose microphyll_apices_acute,_with_long,_scariose,_hairlike_projection;
+;
+
+
+ccode  - 0.25;
+
+
+;

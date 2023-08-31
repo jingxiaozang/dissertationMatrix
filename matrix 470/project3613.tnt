@@ -1,0 +1,182 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 13.25.48'
+63 49
+
+&[cont]
+Cunninghamia_lanceolata              0.068-0.119 0.082-0.122 0.108-0.128 0.119-0.153 0.032-0.073 0.021-0.063 0.056-0.111 0.221-0.45 0.052-0.093 0.286-0.405
+Taiwania_cryptomerioides             0.024-0.051 0.004-0.024 0.067 0.051-0.085 0.0-0.004 ? 0.056 0.015-0.038 0.016-0.052 0.643-0.762
+Cupressus_sempervirens               0.051-0.102 0.061-0.082 0.047-0.108 0.085-0.119 0.004-0.016 0.0-0.021 0.056-0.222 0.0-0.008 ? 0.405
+Cupressus_sargentii                  0.034-0.085 0.041-0.102 0.047-0.087 0.085-0.153 0.004-0.012 ? 0.056-0.111 0.0-0.008 0.012-0.016 0.167-0.405
+Xanthocyparis_vietnamensis           0.014-0.02 0.02-0.029 0.077-0.108 0.119-0.153 0.002-0.008 0.0-0.01 0.0-0.056 0.004-0.015 0.012-0.018 0.048-0.131
+Podocarpus_latifolius                0.01-0.031 0.012-0.029 0.128-0.209 ? 0.073-0.113 0.021-0.042 ? 0.26-0.603 0.113-0.234 0.286
+Podocarpus_macrophyllus              0.017-0.034 0.02-0.029 0.189-0.229 0.254-0.288 0.073-0.153 0.01-0.021 ? 0.298-0.756 0.073-0.194 0.167
+Dacrycarpus_dacrydioides             0.0-0.007 0.0-0.008 0.057-0.067 ? 0.024-0.032 0.0-0.01 ? 0.0-0.008 0.0-0.012 0.643
+Sciadopitys_verticillata             0.102-0.356 0.082-0.184 0.148-0.249 0.186-0.254 0.008-0.016 0.021-0.063 ? 0.603-0.756 0.032-0.063 0.405-0.464
+Araucaria_araucana                   0.492-0.661 0.592-0.796 0.696-1.0 0.322-0.492 0.315-0.597 0.792-1.0 0.444-0.722 0.183-0.45 0.294-0.597 0.524
+Araucaria_angustifolia               0.39-0.661 0.306-0.714 0.797 0.492 0.315-0.597 0.271-0.583 0.333-0.556 0.107-0.374 0.052-0.395 0.524
+Araucaria_bidwillii                  0.661-1.0 0.796-1.0 0.797-1.0 0.831-1.0 0.234-0.597 0.125-0.271 0.333-0.444 0.069-0.374 0.052-0.294 0.464
+Araucaria_hunsteinii                 0.492-0.831 0.469-0.633 0.594 0.254 0.395-0.879 0.188-0.479 0.333-0.444 0.374-0.756 0.234-0.395 1.0
+Araucaria_bernieri                   0.254-0.322 0.245-0.306 0.29-0.391 0.186-0.254 0.133-0.173 0.135-0.167 0.111-0.222 0.183-0.351 0.294-0.496 0.524
+Araucaria_biramulata                 0.288-0.356 0.306-0.388 0.391-0.493 0.254-0.322 0.234-0.274 0.271-0.375 0.278-0.333 0.031-0.069 0.052-0.113 0.286
+Araucaria_columnaris                 0.254-0.322 0.265-0.327 0.351-0.594 0.186-0.39 0.153-0.274 0.229-0.417 0.444-0.556 0.023-0.053 0.028-0.093 0.524-0.643
+Araucaria_cunninghamii               0.18-0.39 0.163-0.306 0.29-0.391 0.153-0.254 0.073-0.214 0.021-0.104 0.111-0.167 0.023-0.076 0.012-0.063 0.714
+Araucaria_heterophylla               0.237-0.339 0.306-0.449 0.493-0.594 0.39-0.492 0.153-0.194 0.167-0.271 0.444-0.556 0.023-0.046 0.052-0.073 0.524-0.762
+Araucaria_humboldtensis              0.203-0.288 0.163-0.306 0.331-0.432 0.288-0.322 0.113-0.133 0.146-0.167 0.222 0.023-0.038 0.032-0.083 0.0-0.286
+Araucaria_laubenfelsii               0.322-0.424 0.265-0.347 0.27-0.31 0.186-0.254 0.315-0.435 0.375-0.583 0.444-0.556 0.053-0.145 0.073-0.234 0.286
+Araucaria_luxurians                  0.322-0.39 0.306-0.388 0.351-0.493 0.186-0.322 0.476-0.597 0.375-0.542 0.556-0.722 0.023-0.115 0.042-0.123 0.405
+Araucaria_montana                    0.254-0.356 0.265-0.347 0.391-0.493 0.22-0.254 0.194-0.657 0.271-0.583 0.444-0.556 0.053-0.107 0.113-0.214 0.405
+Araucaria_muelleri                   0.356-0.492 0.347-0.429 0.331-0.432 0.288-0.322 0.798-1.0 0.583-0.792 0.722-1.0 0.145-0.237 0.183-0.365 0.107-0.167
+Araucaria_nemorosa                   0.254-0.39 0.224-0.388 0.391-0.432 0.22-0.288 0.194-0.476 0.167-0.375 0.556 0.023-0.069 0.018-0.052 0.167
+Araucaria_rulei                      0.254-0.39 0.204-0.306 0.31-0.391 0.288 0.315-1.0 0.375-0.688 0.444-0.778 0.092-0.183 0.093-0.274 0.167-0.226
+Araucaria_schmidii                   0.22-0.288 0.184-0.224 0.391 0.254 0.073-0.194 0.104-0.188 ? 0.031-0.061 0.016-0.032 0.286
+Araucaria_scopulorum                 0.169-0.288 0.163-0.286 0.331-0.391 0.186-0.288 0.093-0.214 0.167-0.208 0.222-0.333 0.011-0.034 0.042-0.063 0.167
+Araucaria_subulata                   0.237-0.39 0.245-0.388 0.331-0.391 0.254-0.288 0.194-0.395 0.208-0.25 0.444 0.023-0.038 0.012-0.042 0.524
+Agathis_robusta                      0.254-0.492 0.306-0.388 0.229-0.27 0.22-0.254 0.153-0.234 0.125-0.229 0.0-0.333 0.374-0.832 0.194-0.597 0.524
+Agathis_australis                    0.153-0.237 0.184-0.286 0.148-0.189 0.153 0.113-0.194 0.104-0.167 ? 0.168-0.298 0.173-0.294 0.583
+Agathis_dammara                      0.322-0.424 0.388-0.51 0.229-0.29 0.22-0.254 0.032-0.073 0.083-0.125 0.056-0.222 0.183-0.603 0.395-0.798 0.583-0.702
+Agathis_atropurpurea                 0.102-0.169 0.122-0.184 0.128-0.168 0.119-0.153 0.028-0.056 0.042-0.115 0.0-0.167 0.374-0.603 0.294-0.597 0.524
+Agathis_borneensis                   0.322-0.424 0.388-0.51 0.229-0.29 0.22-0.254 0.073-0.153 0.167-0.479 0.111-0.444 0.183-0.756 0.395-1.0 0.524-0.583
+Agathis_lanceolata                   0.322-0.39 0.388-0.469 0.229-0.29 0.22 0.073-0.093 0.125-0.167 ? 0.45-0.603 0.294-0.395 0.405-0.524
+Agathis_macrophylla                  0.322-0.424 0.388-0.51 0.229-0.29 0.22-0.254 0.093-0.173 0.125-0.271 ? 0.298-0.603 0.294-0.597 0.345-0.405
+Agathis_microstachya                 0.237-0.373 0.245-0.388 0.189-0.229 0.186-0.254 0.032-0.056 0.063-0.125 0.0-0.167 0.221-0.603 0.194-0.435 0.524
+Agathis_montana                      0.288 0.265 0.108-0.148 0.153 0.153-0.194 0.125-0.167 ? 0.412-0.679 0.274-0.435 0.048-0.167
+Agathis_moorei                       0.322-0.492 0.347-0.469 0.29-0.391 0.254-0.322 0.093-0.113 0.083-0.146 ? 0.336-0.527 0.153-0.234 0.405-0.524
+Agathis_ovata                        0.186 0.184 0.168-0.209 0.22-0.254 0.113-0.194 0.167-0.271 ? 0.298-0.641 0.294-1.0 0.048-0.226
+Araucaria_famii                      0.16-0.2 0.2-0.22 0.2-0.22 0.207-0.25 ? ? ? ? ? ?
+Wollemia_nobilis                     0.407 0.388 0.128-0.209 0.153-0.22 0.395-0.476 0.354 0.111-0.389 0.145-0.603 0.032-0.093 0.405
+Araucaria_mirabilis                  0.068-0.254 0.082-0.306 0.148-0.249 0.051-0.186 ? ? ? ? ? 0.524
+Araucarites_bindrabunensis           0.237 0.163 0.249 0.102 ? ? ? ? ? ?
+Araucaria_sphaerocarpa               0.424-0.492 0.51-0.592 0.31 0.22 ? ? ? ? ? ?
+Araucaria_nipponensis                0.102-0.186 0.122-0.224 0.189-0.229 ? ? ? ? 0.011-0.221 ? ?
+Araucaria_vulgaris                   0.058 0.069 ? ? ? ? ? 0.011-0.019 0.113-0.133 ?
+Araucaria_brownii                    ? 0.163-0.184 0.148 0.085 ? ? ? ? ? ?
+Wairarapaia_mildenhallii             0.119 0.224 0.148 0.051 ? ? ? ? ? ?
+Emwadea_microcarpa                   0.014-0.031 0.004-0.016 0.0-0.026 0.0-0.024 ? ? ? 0.008-0.015 0.02-0.028 ?
+
+
+&[num]
+Cunninghamia_lanceolata             11130100110111010111110001[12]10110000100000100101002011
+Taiwania_cryptomerioides            111301001?01[01]10[01]011111000101011000[02]00[01]000000101012011
+Cupressus_sempervirens              [01]00[12]10001010-10[23]0011110010[01]0001000200001020?011022011
+Cupressus_sargentii                 [01]00110001010-10[23]0011110010[01]000110020[01]001000?001022011
+Xanthocyparis_vietnamensis          000110001010-10[012]0011110010[01]00010002000010[02]0?001002011
+Podocarpus_latifolius               302111001320-0001110--110[01]21111001010000201000?111001
+Podocarpus_macrophyllus             302111001320-0001110--110[01]2111100101000020101021210?1
+Dacrycarpus_dacrydioides            302101001320-0001110--111[01]11111[01]01000100000010?122001
+Sciadopitys_verticillata            [12]10300001321000[23]01111100[01]111001000[01]000000010111011001
+Araucaria_araucana                  100301101100-1001100--000[01]2102001101002-0000100101130
+Araucaria_angustifolia              100301101100-1001100--000[01]2102001101002-0000100101130
+Araucaria_bidwillii                 [01]0030110120100001100--00012102021101002-1000100101130
+Araucaria_hunsteinii                [01]0030110120111001100--00012102000001002-1000100101130
+Araucaria_bernieri                  [01]0030110120111001100--00102102010000010-0001100101130
+Araucaria_biramulata                [01]0030110120111001100--00102102010000012-0102100101130
+Araucaria_columnaris                [01]0030110120111001100--00102102010000012-0002100101130
+Araucaria_cunninghamii              [01]0030110120111001100--00102102010000012-0001100102130
+Araucaria_heterophylla              [01]0030110120111001100--00101102010000012-0101100101130
+Araucaria_humboldtensis             [01]0030110120111001100--00102102010000010-0001100101130
+Araucaria_laubenfelsii              [01]0030110120111001100--00102102010000012-0102100101130
+Araucaria_luxurians                 [01]0030110120111001100--00102102010000012-0101100101130
+Araucaria_montana                   [01]0030110120111001100--00102102010000012-0101100101130
+Araucaria_muelleri                  [01]0030110120111001100--00102102010000012-0002100101130
+Araucaria_nemorosa                  [01]0030110120111001100--00102102010000012-0002100101130
+Araucaria_rulei                     [01]0030110120111001100--00102102010000012-0101100101130
+Araucaria_schmidii                  [01]0030110120111001100--0010210201000001?-000[02]100101130
+Araucaria_scopulorum                [01]0030110120111001100--00102102010000010-0001100101130
+Araucaria_subulata                  [01]0030110120111001100--00102102010000011-0001100101130
+Agathis_robusta                     [01]00301111011010001111000002103000021102-00[01]1010000031
+Agathis_australis                   [01]00301111011010001111000002103000021[01]02-20[01][01]010000031
+Agathis_dammara                     [01]00301111011010001111000002103000021[01]02-200[12]010000031
+Agathis_atropurpurea                [01]00301111011010001111000002103000021102-200[012]010000031
+Agathis_borneensis                  [01]0030111101101000111100000[12]103000021102-2002010000031
+Agathis_lanceolata                  [01]0030111101101000111100000[12]103000021102-200[12]010000031
+Agathis_macrophylla                 [01]00301111011010001111000002103000021[01]02-200[12]010000031
+Agathis_microstachya                [01]0030111101101000111100000[12]103000021102-2001010000031
+Agathis_montana                     [01]00301111011010001111000002103000021102-2000010000031
+Agathis_moorei                      [01]00301111011010001111000002103000021102-200[12]010000031
+Agathis_ovata                       [01]00301111011010001111000001103000021102-200[12]010000031
+Araucaria_famii                     10030100020111001100--00??????00?000012-0001100??????
+Wollemia_nobilis                    [01]003011110110100011111001021020000[02]1[012]02-1001100000030
+Araucaria_mirabilis                 [01]?0301001[23]0100001100--00??????00??00012-00??????????0
+Araucarites_bindrabunensis          ??0301?0120100?01100--00??????0??????????????????????
+Araucaria_sphaerocarpa              0?030100120100?01100--00??????00?????????????????????
+Araucaria_nipponensis               [01]?0301101101[01][01]?01100--00??????00?????????????????????
+Araucaria_vulgaris                  ??0301001201[01]0?01100--00??????00?????????????????????
+Araucaria_brownii                   ??0301?0130100?01100--00??????0??????????????????????
+Wairarapaia_mildenhallii            ??0301??10110??001111100??????00?????????????????????
+Emwadea_microcarpa                  1?0301??1011?10001111100???????0??000?2-0????????????
+
+;
+
+
+cnames
+{ 0 Ovuliferous_cone_length;
+{ 1 Ovuliferous_cone_width;
+{ 2 Seed_length;
+{ 3 Seed_width;
+{ 4 Pollen_cone_length;
+{ 5 Pollen_cone_width;
+{ 6 Microsporangia_number;
+{ 7 Mature_leaf_length;
+{ 8 Mature_leaf_width;
+{ 9 Maximum_tree_height;
+{ 10 Ovuliferous_cone_morphology spherical/globose ellipsoidal/subglobose cylindrical irregular;
+{ 11 Ovuliferous_cone_spreading_at_maturity absent present;
+{ 12 Ovuliferous_cone_at_maturity mostly_lignified_(woody) mostly_coriaceous mostly_fleshy;
+{ 13 Number_of_ovuliferous_complexes_per_cone 1 2-10 11-20 more_than_20;
+{ 14 OC_phyllotaxis helical decussate whorled;
+{ 15 OC_morphology peltate non-peltate;
+{ 16 OC_spreading_from_the_cone_at_maturity absent present;
+{ 17 OC_proximal_scallop absent present;
+{ 18 Bract/scale_fusion_at_OC absent present;
+{ 19 Bract/scale_degree_of_fusion totally_fused relictual_scale_tip free_scale_up_to_one-third_of_OC_length free_scale_more_than_one-third_of_OC_length;
+{ 20 Bract/scale_length bract_longer_than_scale bract_and_scale_mostly_equal_in_length scale_longer_than_bract;
+{ 21 OC_lateral_extensions absent present;
+{ 22 OC_lateral_extension_morphology woody thin;
+{ 23 OC_vascularization_at_origin independent_trace_for_bract_and_scale unique_trace_for_bract_and_scale;
+{ 24 Bract_similar_to_vegetative_leaves absent present;
+{ 25 number_of_seeds_per_OC 1 2-4 5-10 more_than_10;
+{ 26 Seed_embedded_in_ovuliferous_scale_tissues absent present;
+{ 27 Ovule_orientation_at_maturity erect recurved;
+{ 28 Seed_abscission absent present;
+{ 29 Integumentary_seed_wings absent present;
+{ 30 Integumentary_seed_wing_number 1 2;
+{ 31 Integumentary_seed_wing_symmetry assymetric symmetric;
+{ 32 seed_position_on_OC adaxial terminal;
+{ 33 Epimatium absent present;
+{ 34 Pollen_cone_disposition axillary terminal;
+{ 35 Pollen_cone_aggregation absent present;
+{ 36 Pollen_cone_morphology spherical/globose ellipsoidal/subglobose cylindrical;
+{ 37 Microsporophyll_phllotaxy decussate helical whorled;
+{ 38 Pollen_sacci nonsaccate saccate;
+{ 39 Basal_bracts_on_pollen_cone absent as_bud_scales highly_modified_from_vegetative_leaves unmodified_or_slightly_modified_from_vegetative_leaves;
+{ 40 Pollination_drop absent present;
+{ 41 Number_of_cotyledons 2 more_than_2 cotyledon_tube;
+{ 42 Germination epigeal cryptogeal;
+{ 43 Seedling not_fleshy fleshy;
+{ 44 Phyllotaxis_of_mature_leaves helical whorled opposite_to_subopposite;
+{ 45 Mature_leaves_in_transversal_section rhomboidal_to_tetragonal thin_and_broad;
+{ 46 Mature_leaf_apex acute obtuse State_2;
+{ 47 Mature_leaf_apex_curvature straight curved;
+{ 48 Mature_leaf_venation one_vein two_veins multiple_veins;
+{ 49 Midrib evident_from_external_view not_evident_from_external_view;
+{ 50 Mature_leaf_insertion sessile reduced_base petiolate;
+{ 51 Mature_leaf_margin entire serrate minutely_denticulate;
+{ 52 Stomatal_disposition_on_mature_leaves amphistomatic hypostomatic;
+{ 53 Stomatal_orientation_on_mature_leaves mostly_parallel_to_leaf_axis mostly_oblique_to_leaf_axis mostly_perpendicular_to_leaf_axis;
+{ 54 Florin_rings present absent;
+{ 55 Cuticle_surface relatively_smooth undulating;
+{ 56 Frequent_number_of_subsidiary_cells 4-5 more_than_5 fewer_than_4;
+{ 57 Habit monoecious dioecious;
+{ 58 Phyllotaxy_of_first-order_branches whorled_to_pseudowhorled helical irregular;
+{ 59 Branching_orders 2 3 4;
+{ 60 Last-order_branch_arrangement mostly_tridimensional mostly_pinnate;
+{ 61 Chromosome_number 10 11 12 13 more_than_13;
+{ 62 Bud_scales absent present;
+;
+
+
+ccode  - 0.62;
+
+
+;
