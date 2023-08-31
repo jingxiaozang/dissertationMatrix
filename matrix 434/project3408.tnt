@@ -1,0 +1,67 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 12.56.19'
+30 19
+
+&[num]
+Zaraalestes_minutus                 0?00200?0010020000100000000???
+Eogalericius_butleri                ?2000100100000?01030000000????
+Eochenus_sinensis                   0100??022000000010?0000000??1?
+Galerix_aurelianensis               0?00??0?10101001?120000000????
+Galerix_exilis                      ?100?10?101010?11110000000?000
+Galerix_iliensis                    1?001101101???0101?0000000????
+Galerix_nanus                       0100200?00101001?1?0000000????
+Galerix_saratji                     0?002102101010010110000000????
+Galerix_symeonidisi                 11001?0??0101??1?1?0000000????
+Schizogalerix_anatolica             12111211201000110120000000????
+Schizogalerix_evae                  ?20?121???????1?01?0000000????
+Schizogalerix_moedligensis          12111211201???1101?0000000????
+Schizogalerix_pasalarensis          12011211201???1101?0000000????
+Parasorex_depereti                  1?00??0??0100?1101200000000???
+Parasorex_ibericus                  12001201?0110?1101200000000?00
+Parasorex_kostakii                  1200110??01???0??1?0000000????
+Parasorex_socialis                  1200??0??01000110120000000?000
+Deinogalerix_masinii                1?001?01?110001101111111111111
+Apulogalerix_pusillus               1200??0??011000121200000000000
+
+;
+
+
+cnames
+{ 0 P3_hypocone Absent Present;
+{ 1 M1-2_development_of_the_metaconule_distal_arm Distal_arm_absent Directed_distally_and_connected_or_not_to_cingulum Extended_to_the_posterolabial_corner_of_the_tooth;
+{ 2 M1-2_mesostyle Absent_or_usually_unidivided Invariably_divided;
+{ 3 M1-2_relative_widening Not Yes;
+{ 4 M1_protocone-hypocone-metaconule_connection Protocone-metaconule_connection_only Protocone-hypocone_only Triple_connection;
+{ 5 M1_hypocone__distal_arm Absent Not_connected_to_distal_cingulum Connected_to_distal_cingulum;
+{ 6 M1_distolabial-mesolingual_stretch Not Yes;
+{ 7 M2_protocone-hypocone-metaconule-connection Protocone-metaconule_connection_only Protocone-hypocone_only Triple_connection;
+{ 8 M2_hypocone_distal_arm Absent Not_connected_to_distal_cingulum Connected_to_distal_cingulum;
+{ 9 M3_shape Triangular Sub-triangular;
+{ 10 M3_size Large Small;
+{ 11 i3 Present Absent;
+{ 12 Relative_size_of_p2/p3 p2<p3 p2>=p3;
+{ 13 Number_of_roots_in_p2 Two-rooted Fused_roots One-rooted;
+{ 14 Paraconid-protoconid_connection_in_p4 Paraconid_not_connected_to_protoconid Paraconid_connected_to_protoconid;
+{ 15 Precingulid_in_p4 May_be_present Completely_absent;
+{ 16 Development_of_metaconid_in_p4 Strong_and_high Weak Absent;
+{ 17 Hypoconulid_in_m3 Present Absent;
+{ 18 Position_of_the_mental_foramen One_beneath_p2 One_beneath_p3 One_beneath_p3/4_or_p4 One_beneath_p2_and_one_beneath_p3;
+{ 19 Relative_size_of_m1_trigonid Non-elongated Elongated;
+{ 20 Relative_size_of_P3-4 Non-enlarged Enlarged;
+{ 21 Relative_size_of_p3-4 non-enlarged enlarged;
+{ 22 Morphology_of_P3/p3_and_P4/p4 Slender_and_sharp Bulbous;
+{ 23 Cuspids_of_p4 Pointed Blunt;
+{ 24 Morphology_of_metastylid_in_m1 Sharp Bulbous;
+{ 25 Preprotocristid_in_p4 Sharp Blunt;
+{ 26 Crown_of_i1 Non-bilobed Bilobed;
+{ 27 Coronoid_process High Low;
+{ 28 Height_of_condyle_above_toothrow High Low;
+{ 29 Height_of_ascending_ramus High Low;
+;
+
+
+ccode  + 0.29;
+
+
+;

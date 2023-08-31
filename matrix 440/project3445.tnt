@@ -1,0 +1,82 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 13.04.04'
+34 30
+
+&[num]
+Cryptopygus_antarcticus               02100--0-00000-00020000-00--------
+Campodea_fragilis                     02110--0-00000110020101101----00--
+Tricholepidion_gertschi               02111001211000120?22002101110001?0
+Lepisma_saccharina                    11110000-11000120?220-21-112003100
+Dasyleptus_brongniarti                0210102??1100?0?1?200?10?0????????
+Dasyleptus_sharovi                    0210102??1100???1???0?10?0????????
+Dasyleptus_triassicus                 0210?????110000?1??0??21?0????????
+Ditrigoniophthalmus_verae             1212110111100101100110112101101101
+Charimachilis_caucasicus              1002110101100101100110210100000122
+Turquimachilis_mendesi                1?01110101100101100110211100000122
+Mesomachilis_nearctica                1002111101100101111110211100003100
+Gigamachilis_triassicus               1?0?1?0??110?1??1?0??02101????????
+Praemachilis_excelsior                1001111111100101100110210112100100
+Allopsontus_asiaticus                 1001110121100101110110211100101100
+Lepismachilis_ysignata                1001110101100101110110212112100100
+Songmachilis_xinxiangensis            1002110101100101110110211112101100
+Trigoniophthalmus_alternatus          1001110111100111110110211100000100
+Pedetontinus_luanchuanensis           1101110101100101100110210112100100
+Petrobius_brevistylis                 1101110101100102100110211112101111
+Petrobiellus_takunagae                1212110101100102100110210112100101
+Cretaceomachilis_longa                121111?1?111110?10011121011?????--
+Unimeinertellus_abundus               1211111101111?011010112101121??0--
+Nullmeinertellus_wenxuani             12111111?111????1021112101??????--
+Neomachilellus_dominicanus            1212110101111?1?10211121011311?0--
+Neomachilellus_szeptyckii             12111101011112111021112101131120--
+Meinertellus_adisi                    12121101011112111021112101131120--
+Nesomachilis_australica               12111101211112011001112101121120--
+Allomachilis_froggatti                12121101111102011001112101121120--
+Machilinus_oaxacensis                 12111111211112111021112101131120--
+Machilontus_phami                     12121101011112011010112101121120--
+
+;
+
+
+cnames
+{ 0 scales_on_body absent present;
+{ 1 scales_on_antenna present_on_pedicellus_and_flagellum absent_on_flagellum absent_on_pedicellus_and_flagellum;
+{ 2 scales_on_maxillary_and_labial_palps,_legs_and_stylets present absent;
+{ 3 antennae very_short,_not_beyond_thorax shorter_than_or_as_long_as_body_length longer_than_body;
+{ 4 compound_eyes reduced_or_absent very_large;
+{ 5 relative_position_of_compound_eyes not_touching contact_dorsally;
+{ 6 eyes_shape round oval bean-shaped;
+{ 7 lateral_ocelli absent present;
+{ 8 ocelli_shape,_and_position_corresponding_to_eyes sole-shaped rounded_to_triangular_submedial_position rounded_to_triangular_sublateral_position;
+{ 9 mouthparts entognathous ectognathous;
+{ 10 maxillary_palp highly_reduced developed;
+{ 11 longitudinal_projection_(processus_basalis) absent present_on_the_basal_segment_of_maxillary_palp;
+{ 12 hook-like_projection absent present_on_the_second_segment_of_the_maxillary_palp_in_male;
+{ 13 humps_present_on_the_first_segment_of_maxillary_palps without_inner_hump with_one_inner_hump with_two_inner_humps;
+{ 14 shape_of_the_distal_segment_of_labial_palp elongate broadened;
+{ 15 mandible with_mandibular_molar_plate with_four_distinct_teeth apical_part_of_mandible_without_tooth_or_with_less_than_four_distinct_teeth;
+{ 16 shape_of_the_thorax more_or_less_flattened strongly_arched;
+{ 17 sensory_field_on_forefemur_of_male without_sensory_field with_opened_sensory_field;
+{ 18 coxal_stylet present_on_both_middle_and_hind_legs present_only_on_hind_leg completely_absent;
+{ 19 number_of_tarsal_segments less_than_three three more_than_three;
+{ 20 number_of_clows_on_tarsi two one;
+{ 21 abdominal_sternite large_and_broader_than_one_of_the_corresponding_coxite_and_longer_than_1/2_the_length_of_one_of_them small_width_at_most_0.8x_width_of_one_corresponding_coxite,_length_at_most_0.35x_length_of_coxite;
+{ 22 abdominal_stylet completely_absent present_including_on_coxite_I present_but_absent_on_coxite_I;
+{ 23 annulation_on_abdominal_stylet present absent;
+{ 24 eversible_vesicle at_most_one_eversible_vesicle_on_each_coxite_II–VII coxite II–V_with_two_pairs_of_eversible_vesicles coxite_II–VI_with_two_pairs_of_eversible_vesicles;
+{ 25 lateral_cerci completely_reduced present;
+{ 26 ovipositor not_extending_beyond_the_ends_of_stylet-IX extending_beyond_the_ends_of_stylet-IX;
+{ 27 ovipositor_type primary_type secondary_type tertiary_type quaternary_type;
+{ 28 gonapophysis_VIII_and_IX with_less_than_40_articles, more_than_40_articles;
+{ 29 penis longer_than_1/2_length_of_coxite_IX shorter_than_1/2_length_of_coxite_IX;
+{ 30 penis_aperture apical subapical_round subapical_triangular ventral_slit-like;
+{ 31 paramere absent only_present_on_abdominal_segment_IX present_on_abdominal_segment_VIII_and_IX;
+{ 32 Paramera_IX articulated not_articulated highly_modified;
+{ 33 Paramera_IX_tubular_setae with_tubular_setae without_tubular_setae highly_modified;
+;
+
+
+ccode  + 0.33;
+
+
+;

@@ -1,0 +1,199 @@
+nstates num 7;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 12.51.20'
+132 49
+
+&[num]
+Perotrochus_atlanticus                0000-00000-0000000000000000000--0000000---0-0---??----------000?0-000000000000-00000-0-00-00--000000000000-0000----00-0?000??0??00?0
+Calliostoma_tupinamba                 0110-1000100000001000100100100001000000---0-0---001001--00-000000-111010010--0-00000-0-01-010-010100511001-0010011001010212000101-2?
+Calliostoma_adspersum                 0100-1000100000011001100100000--0000000---100---001001--00-000000-111010010200-00000-0-02-010-010210421001-0010011000010212000101-21
+Gaza_compta                           2000-2011--00001------01100000--0000000---0-11020?-000--00-?001?0-1?10?0000100-00000-0-1-?011-?10200211002-1--0011?0010?20?0???01-??
+Monodonta_labio                       1000-1000100000001000000200000-000010013001110001010120100-101000-1?1000101110-0110100-02-010-?1211042101300100111100101002101011--2
+Cittarium_pica                        1000-2000100000001100000100101100000000---??1302?0301201010001100-1?100020101110010100-02-011-0021111110131010011111010100210000020?
+Cantharidus_sp.                       0000-20100-00001-0---001100000-00000000---101102?00000--00-100000-1?1010111110-0000100-04-01--?1111041201300100021110101001000011-0?
+Ethalia_striolata                     2000-10002-11001-0---001100101220010000---0-1002?010020000-010100-1?0111100320-00100-0-1-01---011100411002-1--1----00101-01000001-3?
+Ethalia_guamensis                     2000-10002-11001-0---001100101200010000---0-1002?010020000-010100-1?0111100220-00100-0-1-01---011100411002-1--1----00101-01000001-3?
+Trochus_maculatus                     0110-100010000000000010010011----010020---111100101001--10-101000-1210102011?0-0001100-03-011-0101104110131010011110010100210000001?
+Tectus_fenestratus                    0110-1000100000001000000010000--0000010---??1202?03000--00-001100-1?10101001?1?0001100-04-011-11001141201310100020100101002001001-3?
+Oxystele_sinensis                     3000-1101--0111-------1-100000--0000000---0-120210?001--011001100-1?101010101100111100-03-010-0102104110130010011111010111210011003-
+Stomatella_varia                      4000-10001000001-0-00001101----------00---0-1000?00000--00-0000---021010101210-0010100-03-011-01021041101300100121100101001?0000????
+Margarites_pupillus                   0000-1011--000000110000110011----000000---101201102001--10-001100-1?1000100210-00000-0-03-011-010210311003-0000111001100102100000202
+Bolma_tayloriana                      0010-1000110100000000000100000-30000000---0-1102101000--00-?0?011012100010001100111111?1--00-???1?1?42??13?0?002???0??????????001-13
+Lunella_coronata                      100102000100000011001000200000--0200100---101200?00000--01000?0111121010101010-000111111-3011100101142101300100100-0010020100?000203
+Lithopoma_tectum                      0100-3101--0001-------0-010000--00010011-?0-11122?1000--1100001011121010110110-00??100-03-011-00011141101300100100-00101203001000133
+Turbo_petholatus                      1000-20002-1101-------1-100000--0200100---0-1212?11000--00-0001010121010110010-001111101-11---10101242201300100220-00100221000000003
+Turbo_cidaris                         1000-20002-1001-------1-100000-00000100---0-1110111000--21103011101210101100?10001111101-100-010101242201300100220-00100221001000103
+Turbo_natalensis                      1000-20002-1000001100001100000-00000100---1011101110020021103011111210101100?10001112121-200-010101142101300100210-00100213001000103
+Phasianella_variegata                 5000-10001110001------1-101----------00---101110?000020120-04011100210101001?0-0000-----------0-----4-3012-0000002-00100201001?????3
+Prisogaster_niger                     1000-1001--0010001100001200000-00000000---101002100002010110011011131010101020-000011111-200-00010114220131010002111010100201?000113
+Solariella_carvalhoi                  00010201010000001110000010011----010000---0-0---?000020220-020100-1?1001001210-00001?0-04-010-0101005111130010002100100010200120---2
+Solariella_obscura                    00010201010?00000110000010011----010000---0-0---?000020220-020100-1?1001001??0-0000100-04-010-0101005111130010002100000010200120---2
+Agathistoma_patagonicum_1             6000-1000100000000100101100101001001001211111102101100--011001100-1310001011110100010101-200-000101142101310100011110101002111000011
+Agathistoma_patagonicum_2             6000-1000100000000100?011001010010010012110-1102101100--011001100-1310001011110100010111-200-000101142101310100011110101002111000011
+Agathistoma_patagonicum_3             6000-1000100000000100?01100001-000010012110-1102101100--011001100-1310001011110100011111-200-000101142101310100111110101002111000011
+Agathistoma_patagonicum_4             6000-1000100000000100101100001-000010012110-1102101100--011001100-1310001011110100011111-300-000101142101310100111110101002111000011
+Agathistoma_viridulum_1               6001110001000000011001001001010110010012111110021011021000-001100-1310001011110100011111-300-000101142101310100111110101002111000113
+Agathistoma_viridulum_2               6001110001000000011001001001010010010012111110?21011021000-001100-1310001011110100011111-300-000101142101310100111110101002111000113
+Agathistoma_viridulum_3               6001110001000000011001001001010010010012111110?21011021000-001100-1310001011110100011111-200-000101142101310100111110101002111000113
+Agathistoma_hotessierianum_1          60011100010000000110010110010100101100121110100210110210011001100-1310001011110100011111-300-000101142101310100111110101002111000121
+Agathistoma_hotessierianum_2          6000-100010000000110010110010100101100121110100210110210011001100-1310001011110100011111-200-000101142101310100111110101002111000121
+Agathistoma_fasciatum                 6001120002-1001-------1-10010100100100121110100210110210011001100-1310001011110100011111-?00-100101142101310100111110101002111000124
+Agathistoma_snodgrassi                6000-100010000000110110110010101101100121110100210110210011001100-1310001011110100011111-200-000101242101310100111110101002111000024
+Agathistoma_lividomaculatum           00011100010000000111010110010100101100121110100210110210011001100-1310001011210?00011111-300-00?101042101310100111110101002111000114
+Agathistoma_marianum                  60011100010000001110010120010101100100121110100210110210011001100-1310001011210100011111-200-00010114210131010011111010100211100011?
+Agathistoma_corteziana                6001110001000000011001011001010110110010--10100210110210011001100-1310001011110100012111-200-000101142101310100111110101002111000111
+Agathistoma_eiseni                    600111000100000001100101100101001011001211111102101101--011001100-1310001011210100012111-200-000101142101310100111110101002111000113
+Agathistoma_verrucosum                6000-10001000000010101001001010110110012111110021011021000-001000-1310001011110100011111-200-010101142101310100111110101002111000113
+Omphalius_nigerrimus                  00111100???0111-------0-110000-0?0010010--10110210110210010001100-1?10?0101011010?011111-200-00010124220131010002111010100200100000?
+Chlorostoma_atrum                     3000-1101--0011-------0-000000--1001000---0-11020011020100-001100-1310001010?10101012111-300-100101142201310100021110101002011000013
+Chlorostoma_funebrale                 0000-1001--0010001101002100000--10010011-10-11020011020000-001100-131000101??10101012111-?00-10010124220131010002111010?002011000013
+Chlorostoma_gallina                   0000-21003-001000110?000100000-010010011-10-11021011020000-001100-1310001010?10101011111-200-000101242101310100011110101002011000113
+Tegula_pellisserpentis                0100-1000110000000000001100000-000110011-110110210110201011001100-131000101??11?00012101-200-000101142101310100111110101102111000113
+Tegula_excavata                       0100-1100110100000100001100101011010000---11110210110201011001100-1310001010110001011111-200-000101142101310100111110101002111000014
+Instistoma_aureotinctum               0000-10001000000001000011101010011110011-110110210110201010001100-1310001011110101011111-300-01010114220131010002111010?00201100??1?
+Norrisia_norrisii                     3000-40000-00001-1---001100101011300000---0-120210110201011002100-1?10001010111000010121-400-00010114220131010002111010100301100022?
+Carolesia_blakei                      6001110001000000?1100001100?0?????110010--??10?2101002200??001??0-???0?0?00????????10101-21---00110240201302102?211?0101?021????????
+
+;
+
+
+cnames
+{ 0 Shell,_shape trochiform turbiniform discoid ventriculose auriform bulimoid globose;
+{ 1 Shell,_whorl_profile deeply_convex slightly_convex;
+{ 2 Shell,_last_whorl,_keel absent present;
+{ 3 Shell,_spire,_shoulder absent present;
+{ 4 Shell,_spire,_shoulder,_shape carinated rounded;
+{ 5 Shell,_aperture,_base oblique slightly_straight rounded straight angulated;
+{ 6 Shell,_aperture,_growth_of_outer_lip up_to_1/2_whorl more_than_½_whorl more_than_½_whorl;
+{ 7 Shell,_external_iridescence absent present;
+{ 8 Shell,_axial_blotches present absent;
+{ 9 Shell,_axial_blotches,_shape parallel_lines oblique_patches mosaic striated;
+{ 10 Shell,_oblique_blotches,_arrangement irregular regular;
+{ 11 Shell,_spiral_blotches absent present;
+{ 12 Shell,_base,_spiral_blotch_surrounding_umbilical_area absent present;
+{ 13 Shell,_purplish-black_color absent present;
+{ 14 Shell,_spire,_spiral_cords present absent;
+{ 15 Shell,_spire,_spiral_cords,_shape nodulose smooth;
+{ 16 Shell,_spire,_differentiated_and_equidistant_spiral_cords absent present;
+{ 17 Shell,_spiral_cords,_distance_between_cords smaller_than_cord_width larger_to_or_equal_than_cord_width;
+{ 18 Shell,_spiral_cords,_nodules,_shape conspicuous inconspicuous;
+{ 19 Shell,_periphery,_distinct_beaded_spiral_cords absent present;
+{ 20 Shell,_prominent_subsutural_beaded_spiral_cord absent present;
+{ 21 Shell,_secondary_cords absent present;
+{ 22 Shell,_base,_spiral_cords present absent;
+{ 23 Shell,_base,_width_of_spiral_cords_relative_to_the_width_of_spiral_cords_in_the_spire thinner equal wider;
+{ 24 Shell,_base,_shape straight slight_convex convex;
+{ 25 Shell,_spire,_axial_ribs absent present;
+{ 26 Umbilicus present absent;
+{ 27 Umbilicus,_shape closed open;
+{ 28 Umbilicus,_columellar_callus present absent;
+{ 29 Umbilicus,_columellar_callus,_position at_shell_level protruding;
+{ 30 Umbilicus,_occlusion_from_columellar_callus_in_open_umbilicus unoccluded occluded_by_1/3_of_total_umbilicus_area occluded_by_more_than_half_of_total_umbilicus_area;
+{ 31 Umbilicus,_columellar_callus,_color whitish green red orange;
+{ 32 Umbilicus,_columellar_callus,_width_relative_to_diameter_of_the_umbilicus wider thinner;
+{ 33 Umbilical_area,_color whitish orange greenish_brown dark_brown;
+{ 34 Umbilical_area,_spiral_cords absent present;
+{ 35 Umbilical_area,_outer_edge_varix_ending_in_a_tooth absent present;
+{ 36 Umbilical_area,_carinated_edge absent present;
+{ 37 Columella,_posterior_area,_shape arched twisted serrated;
+{ 38 Columella,_base,_tooth absent present;
+{ 39 Columella,_base,_tooth,_number one two three multiple;
+{ 40 Columella,_base,_arrangement_of_teeth scattered aligned_to_axis;
+{ 41 Columella,_base,_length_of_anterior_tooth_relative_to_the_others more_than_twice_the_length twice_the_length;
+{ 42 Shell_aperture,_internal_lirae absent present;
+{ 43 Shell_aperture,_internal_lirae,_shape smooth nodulose;
+{ 44 Head,_cephalic_lappets absent present;
+{ 45 Head,_cephalic_lappets,_width_relative_to_ommatophore_width narrower twice_as_wide three_times_as_wide same_width;
+{ 46 Head,_cephalic_lappets,_longitudinal_inner_flap absent present;
+{ 47 Head,_cephalic_lappets,_edge papillated fringed smooth;
+{ 48 Head,_cephalic_tentacles,_dorsal_coloration uniform longitudinal_line(s) transversal_lines;
+{ 49 Epipodium,_posterior_region surrounding_the_posterior_region_of_the_opercular_pad surrounding_the_anterior_region_of_the_opercular_pad;
+{ 50 Epipodium,_tentacle,_number_of_pairs three four six ten_or_more;
+{ 51 Epipodium,_pair_of_anterior_tentacles,_position_relative_to_each_other symmetrical asymmetrical;
+{ 52 Epipodium,_neck_lobe distinguishable_from_epipodium indistinguishable_from_epipodium;
+{ 53 Epipodium,_left_neck_lobe,_shape smooth slightly_fringed bearing_tentacles;
+{ 54 Epipodium,_left_neck_lobe,_tentacles,_shape smooth bearing_anterior_flap_at_its_edge State_2;
+{ 55 Epipodium,_left_neck_lobe,_tentacles,_number two_to_seven more_than_10 one;
+{ 56 Epipodium,_right_neck_lobe,_shape smooth slightly_fringed tentacles;
+{ 57 Epipodium,_right_neck_lobe,_layers single multiple;
+{ 58 Epipodium,_right_neck_lobe,_layers,_length same_length outer_layer_twice_as_long_as_the_inner_layer;
+{ 59 Epipodium,_tentacles,_base,_sense_organs,_shape papilliform fringed;
+{ 60 Foot,_anterior_end,_shape not_extended,_simple bifid laterally_expanded,_?horned? medially_expanded,_in_a_longitudinal_line anteriorly_expanded;
+{ 61 Foot,_coloration reddish_to_light_brown blackish_to_dark_brown intense_red;
+{ 62 Foot,_dorsal_papillae present absent;
+{ 63 Foot,_opercular_pad,_shape reniform round;
+{ 64 Operculum corneous calcareous;
+{ 65 Operculum,_calcareous_surface smooth rough;
+{ 66 Pallial_cavity,_mantle_border,_exhalant_siphon absent present;
+{ 67 Pallial_cavity,_right_female_nephrostome,_shape tubular ampoule rosette undifferentiated;
+{ 68 Pallial_cavity,_transverse_pallial_vein absent present;
+{ 69 Pallial_cavity,_ctenidium,_ctenidial_filaments bipectinated monopectinated;
+{ 70 Pallial_cavity,_ctenidium,_suspensory_membrane absent present;
+{ 71 Snout,_dorsal_surface smooth papillated;
+{ 72 Snout,_anterior-ventral_surface papillated longitudinal_folds rounded_folds;
+{ 73 Snout,_medial_ventral_line,_shape single everted_in_a_pseudoproboscis;
+{ 74 Jaw thick thin;
+{ 75 Odontophore_muscle,_m7a,_width_of_relative_to_width_of_m7 ten_times_as_thick three_times_as_thick twice_as_tick same_thickness;
+{ 76 Odontophore_muscle,_m7a,_point_of_intersection_with_m7 posterior_end posterior_end_of_the_medial_region anterior_end_of_the_medial_region;
+{ 77 Odontophore_muscle,_m1d absent present;
+{ 78 Odontophore_muscle,_m1d,_length_relative_to_cerebral_ganglion_length up_to_1/2 more_than_1/2;
+{ 79 Odontophore_muscle,_mx absent present;
+{ 80 Odontophore_muscle,_posterior_retractor_muscle absent present;
+{ 81 Odontophore_muscle,_m9 absent present;
+{ 82 Odontophore_muscle,_m10d absent present;
+{ 83 Radula,_rachidian_tooth,_base,_interaction_with_the_innermost_lateral_tooth overlapping interlocking;
+{ 84 Radula,_rachidian_tooth,_base,_interlocking_position anterior median posterior;
+{ 85 Radula,_rachidian_tooth,_base,_inner_edge absent present;
+{ 86 Radula,_rachidian_tooth,_base,_inner_edge_length_relative_to_the_rachidian 1/3 half more_than_half;
+{ 87 Radula,_rachidian_tooth,_stem present absent;
+{ 88 Radula,_rachidian_tooth,_stem,_shape lanceolated tubular triangular rectangular dorsally_expanded,_?hooded?;
+{ 89 Radula,_rachidian_tooth,_shape_of_stemless_tooth triangular rhomboidal hexagonal trapezoid hippocrepiform;
+{ 90 Radula,_rachidian_tooth,_apical_cusp present absent;
+{ 91 Radula,_rachidian_tooth,_apical_cusp,_development undeveloped well_developed_(protracted);
+{ 92 Radula,_rachidian_tooth,_protracted_apical_cusp,_serration present absent;
+{ 93 Radula,_rachidian_tooth,_undeveloped_apical_cusp,_length_relative_to_inner_edge 1/3_the_length half_the_length;
+{ 94 Radula,_rachidian_tooth,_extra_attachment_membrane absent present;
+{ 95 Radula,_rachidian_tooth,_row,_teeth_interaction absent present;
+{ 96 Radula,_rachidian_tooth,_ratio longer_than_wider wider_than_longer as_wide_as_long;
+{ 97 Radula,_rachidian_tooth,_length_relative_to_the_innermost_laterals reduced equal longer;
+{ 98 Radula,_rachidian_tooth,_width_relative_to_the_innermost_lateral_tooth equal wider;
+{ 99 Radula,_rachidian_tooth,_distance_between_teeth_in_the_column no_distance_(interacting_to_each_other) smaller_than_the_length_of_a_tooth larger_than_the_length_of_a_tooth;
+{ 100 Radula,_pair_of_lateral_teeth multiple nine seven six five four;
+{ 101 Radula,_lateral_teeth,_shape_relative_to_the_rachidian irregular similar different;
+{ 102 Radula,_lateral_teeth,_height_within_same_row decreases_and_increases equal_height increasing_gradually decreasing_gradually;
+{ 103 Radula,_outermost_lateral_teeth,_shape_relative_to_the_inner_teeth similar different;
+{ 104 Radula,_lateral_teeth,_base,_interaction_in_row overlapping interlocking;
+{ 105 Radula,_lateral_teeth,_base,_shape stalk_shaped square_shaped rounded ball-and-socket;
+{ 106 Radula,_lateral_teeth,_ball-and-socket_base,_interaction_to_adjacent_tooth ventral dorsal;
+{ 107 Radula,_lateral_teeth,_stem present absent State_2;
+{ 108 Radula,_lateral_teeth,_stem,_hood absent present;
+{ 109 Radula,_lateral_teeth,_stem,_interaction_in_row present absent;
+{ 110 Radula,_lateral_teeth,_apical_cusp present absent State_2;
+{ 111 Radula,_lateral_teeth,_apical_cusp,_shape pointed rounded keel_shaped;
+{ 112 Radula,_outermost_lateral_teeth,_apical_cusp,_length_relative_to_inner_teeth_cusps shorter equal_length longer;
+{ 113 Radula,_lateral_teeth,_apical_cusp,_lateral_edge smooth serrated bicuspidated;
+{ 114 Radula,_lateral_teeth,_secondary_cusps,_position laterally_in_the_apical_cusp medially_and_posteriorly_in_the_apical_cusp;
+{ 115 Radula,_lateral_teeth,_dorsal_side,_keel absent present;
+{ 116 Radula,_latero-marginal_plate absent present;
+{ 117 Radula,_marginal_teeth,_shape feather-shaped sickle_shaped;
+{ 118 Radula,_innermost_marginal_teeth unmodified modified;
+{ 119 Radula,_innermost_marginal_teeth,_stem,_interaction_with_outermost_lateral_teeth absent present;
+{ 120 Radula,_innermost_marginal_teeth,_apical_cusp,_length_relative_to_the_outermost_lateral_teeth_apical_cusp_length circa_half_the_length same_length more_than_twice_the_length;
+{ 121 Radula,_innermost_marginal_teeth,_apical_cusp,_length_relative_to_adjacent_marginal_tooth_cusp same_length twice_the_length three_times_the_length;
+{ 122 Radula,_innermost_marginal_teeth,_apical_cusp,_shape tricuspidate bicuspidate serrated smooth;
+{ 123 Radula,_innermost_marginal_teeth_1-5,_apical_cusp,_shape pointed rounded;
+{ 124 Haemocoel esophagus_covering_less_than_half_of_odontophore_length esophagus_covering_more_than_2/3_of_odontophore_length;
+{ 125 Salivary_gland,_shape branched_(indistinguishable) rounded_(distinguishable);
+{ 126 Esophagus,_esophageal_folds,_numbers four three more_than_three;
+{ 127 Esophagus,_esophageal_folds,_shape free fused;
+{ 128 Esophagus,_left_dorsal_esophageal_fold,_position curved_left straight;
+{ 129 Esophagus,_dorsal_folds,_width_relative_to_ventral_folds extending_to_the_ventral_right_fold extending_to_the_diverticulum ?_extending_to_the_posterior_end_of_the_mid-gut;
+{ 130 Pregas_esofágicas_dorsais,_largura_em_relação_às_pregas_ventrais same_width half_the_width less_than_half_the_width more_than_half_the_width;
+{ 131 Stomach,_spiral_caecum,_number_of_whorls four one_and_a_half one_half three_and_a_half two;
+;
+
+
+ccode  - 0.131;
+
+
+;

@@ -1,0 +1,80 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 12.51.59'
+38 24
+
+&[num]
+"zhelestids"              0001000000000000000000000100000000000?
+Oxyprimus                 1000001000000000101010000000101100110?
+Protungulatum             10000010000000001010100000001011001100
+Mimatuta                  1100001000010000101010001110101100110?
+Bubogonia                 ?????01101010010101010????00202110111?
+Promioclaenus             11010011011000121111100101001021101110
+Litaletes                 1101001101010012111111011100102110110?
+Choeroclaenus             ?2?00011010000121011100?01001021101110
+Protoselene               1102001111010011101010010110202110110?
+Ellipsodon                ?1???01201101012111010?10110104210121?
+Mioclaenus                1200101111101012111110010010104210121?
+Molinodus                 11000011011010111010000?11112132111120
+Tiuclaenus                11000012011010121110000100112132111110
+Pucanodus                 11000012011000121010000100112132111100
+Simoclaenus               ?1???011011010111010000?11112132111120
+Andinodus                 ??????????????????????????11213211112?
+Escribania                ??????????????????????????11213111112?
+Lamegoia                  ?1?2112301101012111021??11112033111120
+Paulacoutoia              ?1121123011000121111210?11112033211120
+Ernestokokenia            ?1???12301100012111021??1?11202321112?
+Didolodus                 1112112311100012111021??1111203321112?
+Miguelsoria               11??1123011000121111211111112033101121
+Protolipterna             11121013011001121111211211112031101121
+Asmithwoodwardia          11121013011001121111201011112033101101
+
+;
+
+
+cnames
+{ 0 Premolars_number five four;
+{ 1 Inflation_of_premolars not_inflated slightly_inflated strongly_inflated;
+{ 2 Postprotocrista_of_P3 P3_with_an_incipient_or_small_protocone_and_a__posterior_edge_not_expanded_posteriorly small_or_medium-sized_protocone_present_and__postprotocrista_expanded_posteriorly;
+{ 3 Metacone_of_P4 absent present_as_a_small_swelling_of_the_postparacrista well-developed_cusp,_almost_as_high_as_the__paracone_and_connate_to_it;
+{ 4 Outline_of_P4 triangular quadrangular;
+{ 5 Size_of_the_conules small_to_medium-sized enlarged_and_swollen;
+{ 6 Position_of_conules_of_M1-2_(see_Nessov_et_al.__1998:_75)_relative_to_paracone_and_metacone_vs__protocone conules_closer_to_midposition conules_closer_to_protocone_than_to_midposition conules_on_labial_flank_of_protocone_but__approximately_equidistant_from_the_labial_and__lingual_edges_of_the_tooth;
+{ 7 Stylar_shelf present_but_narrow reduced_to_a_labial_cingulum loss_of_a_true_labial_cingulum_and_presence_of_a__faint_to_small_labial_rim_(i.e._not_separated_from__the_labial_face_of_the_para-and_metacones_by_a_sulcus) increase_of_the_size_of_the_labial_rim,_labial__to_metacone,_it_is_generally_interrupted_labial__to_paracone_and_when_present_weak._The_rim__labial_to_metacone_is_sometimes_a_true_cingulum;
+{ 8 Mesostyle absent present;
+{ 9 Stylocone_and_parastyle separated_(i.e._parastylar_groove_present) fused_(i.e._parastylar_groove_absent);
+{ 10 Orientation_of_the_preparacrista_(i.e._position__of_the_parastyle) conspicuously_oriented_laterally oriented_approximately_in_line_with_the_parametacones;
+{ 11 Relative_size_of_paracone_and_metacone paracone_larger_and_taller_than_metacone both_cusps_subequal_in_height_and_volume;
+{ 12 Relative_position_of_paracone_and_metacone__of_M2 metacone_posterior_to_paracone metacone_posterolingual_to_paracone;
+{ 13 Relation_of_paracone_and_metacone_at_base paracone_and_metacone_in_contact_at_base,__V-shaped_or_narrow_U-shaped_centrocrista_(i.e.__trigon_basin_small) paracone_and_metacone_not_in_contact_at_base__with_a_wide_U-shaped_centrocrista_(i.e._trigon__basin_expanded);
+{ 14 Pre-and_postcingula do_not_extend_further_labially_than_the_conules__or,_at_least,_the_lingual_edge_of_the_para-_and__metacones reach_(or_almost_reach)_the_para-_and_metastyles;
+{ 15 Relations_of_postmetaconular_crista_and__postcingulum independent_from_the_postcingulum connects_to_the_postcingulum_at_the_metastyle meets_the_postcingulum_below_the_metacone__(i._e_the_postcingulum_has_?captured?_the_metacingular__portion_of_the_postmetaconular_crista);
+{ 16 Extension_of_the_postmetaconular_crista ends_below_the_metacone_labially reaches_the_metastyle_labially;
+{ 17 Preparaconular_and_postmetaconular_cristae well-marked strong_reduction_or_loss_of_the_conular_portion;
+{ 18 Postparaconular_and_premetaconular_cristae9 present_and_well-marked reduced_or_absent_(important_individual_variation);
+{ 19 Lingual_extremity_of_the_postcingulum at_the_same_level_as_precingulum_on_protocone__slopes located_much_higher_on_protocone_than__precingulum;
+{ 20 Hypocone absent present_as_a_thickening_of_the_lingual_extremity__of_the_postcingulum,_and_much_lower_than_the__protocone large_cusp_almost_as_high_as_the_protocone;
+{ 21 Cusp_on_precingulum_anterior_to_paraconule absent present;
+{ 22 Mandibular_symphysis unfused ankylosed;
+{ 23 Size_of_lower_canine unreduced reduced enlarged;
+{ 24 Metaconid_of_p4 small_to_medium-sized_and_appressed_against__protoconid enlarged_and_distinctly_separated_from_the__protoconid;
+{ 25 Talonid_of_p4 formed_of_one_single_cusp_in_a_median_position__on_the_talonid) presence_of_a_labially_positioned_hypoconid__with_an_incipient_talonid_basin;
+{ 26 Slopes_of_flanks_of_the_trigonid labial_slope_slightly_to_strongly_oblique_and__lingual_slope_subvertical both_slopes_oblique;
+{ 27 Paracristid asymmetrical_in_relation_to_the_anteroposterior__axis_of_the_tooth,_paraconid_portion_straight_and__forms_an_obtuse_angle_with_the_protoconid_portion deeply_arched_posteriorly_and_approximately__symmetrical_in_relation_to_the_anteroposterior__axis_of_the_tooth,_paraconid_portion_makes_an__angle_of_approximately_90°_with_the_protoconid__portion;
+{ 28 Metaconid lingual_to_protoconid slightly_posterior_to_protoconid strongly_posterior_to_protoconid;
+{ 29 Posterior_slope_of_metaconid not_inflated_with_straight_protocristid strongly_inflated,_invading_the_talonid_basin__with_concave_protocristid;
+{ 30 Entocristid present_and_extends_anterodorsally_on_the_base__of_the_posterior_wall_of_the_metaconid_(talonid__basin_closed_lingually) present_and_extends_anteroventrolingually_on__posterolingual_base_of_metaconid present_but_anterior_extremity_remains_at_lingual__base_of_metaconid absent_or_extremely_faint talonid_basin_secondarily_closed_by_development__of_a_continuous_neomorphic_crest_(smooth__or_cuspate)_that_connects_hypoconulid_to_posterior__slope_of_metaconid;
+{ 31 Entoconid_and_hypoconulid_of_m1-2 entoconid_subequal_in_size_to_hypoconulid__and_hypoconulid_salient_posteriorly hypoconid_smaller_than_entoconid_and_not__salient_posteriorly_(i.e._reduction_of_the_flexids__separating_the_hypoconulid_from_the_entoconid__and_hypoconid) entoconid_reduced,_subequal_to_or_smaller__than_hypoconulid entoconid_tends_to_increase_in_size;
+{ 32 Hypoconulid_and_entoconid approximated_but_well-individualized connate_or_fused well-separated;
+{ 33 Hypoconid forms_labial_half_of_talonid_or_less,_does_not__invade_talonid_basin_anterior_to_the_hypoconulid large,_conical,_extends_on_lingual_half_of__talonid_and_invades_talonid_basin_anterior_to__hypoconulid;
+{ 34 Hypoconulid_of_m3 only_slightly_larger_than_hypoconulid_of_m1-2 proportionally_much_larger_than_hypoconulid__of_m1-2_(strongly_enlarged_when_compared_to__condition_in_0;
+{ 35 Postcingulid weak_with_talonid_cusp_not_inflated medium-sized_to_strong weak_with_strongly_inflated_talonid_cusps;
+{ 36 M3s unreduced moderately_to_greatly_reduced enlarged;
+{ 37 Tarsus portion_of_the_calcaneum_distal_to_ectal_facet__and_neck_of_astragalus_not_expanded expanded;
+;
+
+
+ccode  - 0.37;
+
+
+;

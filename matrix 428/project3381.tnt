@@ -1,0 +1,145 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 12.46.58'
+93 34
+
+&[num]
+Ascaphus_truei                               000100100010100000000012-0-0000101000000000000000001031003?0020000101001001002001000100000000
+Acris_crepitans                              10010010000100120?000100011100200000001000000??0?111?21013101212111111100001021100001000000?0
+Barbourula_busuangensis                      10102110200011110?1011000110?00100001000111010100100?1000100010100101000000001101100111000000
+Bombina_bombina                              100000100000001101000000010000010000000121100001010011000100010100?11000000101001100111000000
+Alytes_obstetricans                          100000101000001001100000010010010000000010100010010111100010010200011000000001001000100100000
+Cratia_gracilis                              1001??????0?1????????10?????????0?1?1??????00????????????0?1?2????1???10?00??????????????????
+Cordicephalus_gracilis                       2010?10230011?111?1??012-1?021--0??1001010010??0?1??11?112?01103101?10000?0???0??000???0100?1
+Discoglossus_pictus                          200021101000101001011100111010001100100011000010010111000000020200011000000101001020000100000
+Eodiscoglossus_santonjae                     ?1?0?00???0?0????????10?????????01?????0??1??????1?????0?0??02??10??1?0?0?????00??1?1?????0??
+Eleutherodactylus_gossei                     200000002001001102000100011110100100000000101????110?2102311121211?1111010010?2100200001000?0
+Elkobatrachus_brocki                         ?0??0??01?????????01?1???????0?1?????1????0??????1????0010?011010?00??1?0?0?10????0?1????01??
+Eopelobates_deani                            ?1010011?1??0?12??01?10?????????11??00??????0????1???21012?01102111?????????10????0??00??00??
+Eorubeta_nevadensis_holotype                 ?1?????0????????????????????????????????0?0??????1?????020?01202??????1???????????1??????????
+Genibatrachus_baoshanensis                   10?0011?20??1?1???0??000010010?100????1011??0????????21000000202000??01000????????00?0??010??
+Gobiates_leptocolaptus                       1101??1???010011??01??00-1?010??121???10?1?00???????????????????????10101????????????????????
+Heleophryne_purcelli                         10010010000001120?10100000-100??000000?01?1001-001???211101012021?10101010010221?00??000100?2
+Helioporus_albopunctatus                     101120101100021102101102-111101100101?1111?00????100?211100012121110001010110?211000100100010
+Hyla_meridionalis                            1001000000000010020001000111100000000010001001-10110121020100102110101101001101100000000000??
+Iberobatrachus_angelae                       2?00?01???00011?0?11?1011100????1??01?001?000????10??1?00000020?0??01?00??0????0??0??????00?1
+Liaobatrachus_zhaoi                          1000101?11000111??101000010020010?1?1?10?010101??001?000100012010000?000001???????01????10???
+Leptobrachium_hasselti                       1001?0?0100000110101000010-0101101101100110011-1110102101110110111?00110101110?101012000000?0
+Limnodynastes_punctatus                      10010010100001110?001100011110010110001101100????1000211?010120211000110101102211020100100010
+Lithobates_catesbeianus                      2000211020000211021000000101100001101011001011-?011100102301121211?01111111110211021100000010
+Miopelodytes_gilmorei                        ?1?????01?????????0??10??????????10?0????????????1????100200110?101??01?????????????????010??
+Rhinophrynus_dorsalis                        200001023000101101000100010011--0000100110012000110000001200120211?0100000102-010000100100110
+Pelodytes_ibericus                           100000100000001101010100010010010100000120100021111?12101210100?00111000?00110110101100001000
+Prospea_holoserisca                          ?0??0?10?101??12????????????????001?1????1???????1???20011?01101100????01?0???????01?????01??
+Ptychadena_mascareniensis                    2000000020010011021010000111100101001001011000-?02110-10230112121100111111011021002110011001?
+Eorubeta_nevadensis_(new_specimens)          ?1?00?100100?111??1??10??????0?112??0?0?0?0??02??101?1?020?012020?0?10101?0?????0?10100??0??1
+Scaphiopus_holbrooki                         1100211021011012010111111110101112101110110001-0110012001010110311110110100102010101100100100
+Spea_bombifrons                              10012010100101120101011111101011001011010?0001-1110002001100110311111110100102010101100100100
+Pelobates_cultripes                          1100211121011?12010111020110101112101100110001-0110012001200100100111100101110010101100100100
+Trichobatrachus_robustus                     10002110210000110210110001111020001011?10?10?????101?0000301121211001111111112210021?0001001?
+Xenopus_laevis                               1012010?3010112011000012-0-021--00011001001101-1010111001210100310011000200002001020011010011
+
+;
+
+
+cnames
+{ 0 Skull_shape_Baez_and_Basso_(1996) length_and_width_subequal width_greater_than_length width_<_length;
+{ 1 Dermal_sculpturing absent present;
+{ 2 Preorbital_skull_length_(Baez,_2012) one-third_or_mor_of_skull_length one-quarter_or_less_of_skull_length;
+{ 3 Nasal_medial_contact_Baez_and_Basso_(1996) in_contact_or_very_narrowly_separated_for_most_of_length separated fused;
+{ 4 Nasal,_posterior_margin_shape_(Ponssa_et_al._in_review) arcuate relatively_blunt_and_perpendicular_to_medial_axis_of_skull forms_posterior_apex;
+{ 5 Nasal-frontoparietal_contact_(Maglia,_1998) not_in_contact in_contact;
+{ 6 Nasal,_maxillary_process_development_(Clarke,_2007) absent present,;
+{ 7 Frontoparietal_# paired paired_with_posteromedial_element azygous;
+{ 8 Frontoparietal_medial_contact separate_throughout_length in_partial_contact sutured_together_throughout_length_or_partially_fuseed fused_with_no_trace_of_suture;
+{ 9 Frontoparietal_posterolateral_processes absent present;
+{ 10 Frontoparietal_fenetra_(Baez_et_al,_2009) completely_surrounded_by_sphenethmoid_anteriorly not_completely_surrounded_by_sphenethmoid_anteriorly;
+{ 11 Planum_anteorbital_(Henrici_et_al.,_2013) cartilaginous_or_ossified/mineralized_less_than_one-half ossified/mineralized_more_than_one-half;
+{ 12 Sphenethmoid_dorsal_exposure_(Baez,_2012) present absent;
+{ 13 Sphenethmoid_proportions length_<_width length>_width length=width;
+{ 14 Sphenethmoid_configuration_(Baez,_2012) right_and_left_halves_dorsally_and_ventrally_separated girdle_bone only_dorsally_separated,_united_ventrally;
+{ 15 Sphenethmoid,_anterior_end anterior_process_absent anterior_process_moderately_developed anterior_process_reaches_level_of_premaxilla;
+{ 16 Optic_foramina,_margins__(Baez,_2012) bound_in_cartilage_and_cartilage_and_bone bound_completely_in_bone;
+{ 17 Perilymphatic_foramina_position_relative_to_jugular_foramen_(Baez,_2012) inferior_and_superior_anterior inferior_posterior,_superior_anterior inferior_and_superior_posterior;
+{ 18 Maxilla,_preorbital_process_(Baez,_2012)) absent_or_weakly_developed present_and_well_developed;
+{ 19 Maxilla,_palatine_process_of_pars_facialis_(Cannatella,_) absent present;
+{ 20 Maxilla,_ptrerygoid_process absent present;
+{ 21 Maxilla,_pars_facialis_development low high,_restricted_to_preorbital_portion_of_maxilla high,_extends_posterior_of_orbital_region;
+{ 22 Quadratojugal present absent;
+{ 23 Vomer_postchoanal_process_(Henrici_et_al.,_2013) short,_less_than_or_equal_to_prechoanal_process elongate,_longer_than_prechoanal_process absent;
+{ 24 Vomer,_Postchoanal_process_articulation Does_not_articulate_with_maxilla articulates_with_maxilla;
+{ 25 Vomer,_plate-like_anterior_process_(Baez,_2012) absent_or_poorly_developed well_developed SEE_EVANS_ET_AL_2006;
+{ 26 Vomer_anterior_process_articulation_(Ponssa_et_al.,_in_review) free contacts_maxilla;
+{ 27 Palatine absent present;
+{ 28 Parasphenoid,_anterior_extent_(Baez_et_al.,_2009) posterior_of_level_of_anteorbital_plane approaches_or_at_level_of_anteorbital_plane_or_slightly_posterior anterior_to_level_of_anteorbital_plane;
+{ 29 Parasphenoid_lateral_alae present absent;
+{ 30 Parasphenoid_lateral_alae_mediolateral_length lateral_alae_length_<_paraspenoid_length lateral_alae_length_>_cultriform_process_length subequal;
+{ 31 Parasphenoid_lateral_alae_orientation posteriorly_directed directed_laterally;
+{ 32 Squamosal_zygomatic_ramus_contact_with_maxilla absent present;
+{ 33 Squamosal_otic_ramus greatly_reduced_to_absent present,_forming_distinct,_thin_process present_and_expanded_dorsoventrally;
+{ 34 Squamosal_otic_plate reduced_to_absent well_developed_and_contacts_crista_parotica well_developed_and_reaches_frontoparietal;
+{ 35 Prootic,_eustacian_canal absent present;
+{ 36 Crista_parotica_(Baez,_2012) poorly_developed well_developed;
+{ 37 Occiptial_artery_(Henrici_et_al.,_2013) dorsal_to_skull_roof in_closed_canal in_closed_canal_that_exits_dorsally;
+{ 38 pterygoid_anterior-med__ramusrelative_length_(Henrici_et_al.,_2013) long,_>_than_2x_length_of_medial_ramus short,_less_than_2x_length_of_medial_ramus very_long_and_reaches_level_of_planum_anteorbital;
+{ 39 pterygoid_anterior_ramus_extent short,_does_not_reaches_planum_anteorbital long,_does_reach_planum_anteorbital;
+{ 40 pterygoid,_anterior_ramus_curvature curvature_present straight_to_slightly_curved anterior_curvature_very_strong;
+{ 41 Pterygoid_medial_ramus_(Baez,_2012) does_not_contact_parasphenoid contacts_parasphenoid;
+{ 42 Agulosplenial_coronoid_process_(Baez,_2012) absent_or_poorly_developed present_and_blade-like;
+{ 43 mentomekelial_bone present absent;
+{ 44 Jaw_articulation,_position_(Evans_et_al.,_2006) lateral_to_otic_capsule posterior_to_otic_capsule at_anterior_margin_of_otic_capsule;
+{ 45 Parahyoid_bone_(Cannatella,_1985) present absent;
+{ 46 Parahyoid_bone,_shape__(Cannatella,_1985) plate-like_and_median V-shaped V-shaped_with_addition_of_posterolateral_horns;
+{ 47 Hyoid_apparatus,_posteromedial_process_(Baez,_2012) anterior_end_wider_than_posterior_end posterior_end_wider_than_or_equal_to_anterior_end;
+{ 48 Hyoid_apparatus,_hyale_general_configuration_(Baez_et_al.,_2009) complete incomplete;
+{ 49 Vertebral_number nine eight ADD_TEN_IS_USE_VIERALLA;
+{ 50 Atlas,_cotyle_configuration closely_juxtaposed widely_separated confluent;
+{ 51 Atlas_intercotylar_margin notched_to_concave unnotched;
+{ 52 Vertebral_centum_formation_(Haas,_2003) perichordal epichordal;
+{ 53 Vertebral_centrum_articulation_(last) amphicoelous opisthocoelous procoelous notochordal;
+{ 54 posterior_presacral_vertebrae_dorsal_articulation imbricate non-imbricate;
+{ 55 Presacral_I-II_fusion unfused fused;
+{ 56 Presacral_transverse_processes_relative_length tp_of_V4_<_V5 tp_of_V4_>_V5 tp_of_V4~_V5;
+{ 57 Presacral_6_vertebrae_transverse_process_orientation lateral moderately_anterior strongly_anterior moderately_posterior;
+{ 58 Presacral_vertebrae_uncinate_process_on_presacral_III_(Baez_et_al.,_2009) present absent;
+{ 59 Presacral_vertebra_V-VIII_transverse_process_length_compared_to_sacral_diapophyses_(Baez,_2012) shorter nearly_equal_or_equal greater;
+{ 60 Prescaral_vertebrae_ribs present_in_adults absent_in_adults;
+{ 61 Sacrum,_diapophyses_expansion_(Henrici_et_al.,_2013) broadly_expanded expanded not_expanded;
+{ 62 Scarum,_diapophyses_distal_cross_section_(Henrici_et_al.,_2013) flattened subcircular;
+{ 63 Sacrum-urostyle_articulation_(Baez_and_Basso,_1996) cartilaginous monocondylar bicondylar fused;
+{ 64 Urostyle_transverse_processes present absent;
+{ 65 Urostyle,_dorsal_ridge_(Baez,_2012) low_to_absent present_and_conspicuous;
+{ 66 Urostyle,_relative_length_(Henrici,_) greater_than_or_equal_to_presacral_column_length less_than_length_presacral_column;
+{ 67 Cleithrum_distal_end not_bifurcate bifurcate;
+{ 68 Scapula_proportions dorsoventral_length_of_glenoid_area_1/3_or_less_the_same_for_scapula glenoid_area_more_than_1/3_length_of_scapula;
+{ 69 scapula-clavicle_proportions scapula_shorter_than_clavicle scapula_subequal_or_longer_than_clavice;
+{ 70 Scapula_anterior_lamina present absent;
+{ 71 Clavicle_shape_(Baez,_2009) curved straight absent;
+{ 72 scapula-clavicle_articulation clavicle_anterior_overlaps_scapula clavicle_abuts_scapula fused;
+{ 73 Coracoid_medial_end free in_contact_medially;
+{ 74 coracoid,_medial_end_expansion less_than_1/2_length_of_shaft greater_than_1/2_length_of_shaft;
+{ 75 Omosternum absent present;
+{ 76 Sternum,_condition cartilaginous ossified absent;
+{ 77 sternum_shape linear posterolaterally_divergent_cartilaginous_horns_(clarke_1987) broad_plate_(cannatella,_1985);
+{ 78 Postaxial_carpals_(ulnare_and_distal_carpals_3,_4,_5) all_free ulnare_and_3_free,_4_and_5_fused ulnare_free,_3,_4,_5_fused;
+{ 79 Carpal_torsion absent present;
+{ 80 Ilium,_preacetabular_zone present absent;
+{ 81 Iliac_shaft_spiral_groove absent present;
+{ 82 Iliac_shaft,_dorsal_crest absent present_and_short present_and_extends_most_of_length_of_shaft;
+{ 83 ilium,_dorsal_tubercle present incipient_to_absent;
+{ 84 ilium,_acetabular_shape width>height width<height State_2;
+{ 85 Ilium,_ventral_acetabular_expasion present absent;
+{ 86 Ilium,_interiliac_tubercle absent present;
+{ 87 Ischium_shape_in_lateral_aspect expanded_posterodorsally not_expanded_posterodorsaly;
+{ 88 Pubis cartilaginous ossified;
+{ 89 tibiale-fibulare_relationship separate_or_fused_at_proximal_and_distal_ends completely_fused_throughout_their_length;
+{ 90 Prehallux,_distal_bone not_modified_into_spade modified_into_spade;
+{ 91 Distal_tarsals_2_and_3 separate fused;
+{ 92 Distal_phalanx_shape knobbed acuminate T-shaped;
+;
+
+
+ccode  - 0.92;
+
+
+;
