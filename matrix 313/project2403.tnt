@@ -1,0 +1,107 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 08.02.47'
+66 23
+
+&[num]
+Calophyllum                                         0?1?0010011-?010100020?0101000100000?01111000010201?1101110001?100
+Caraipa                                             0???0001010?10111000?0?0110000?00?0031?11101?01021?01101?1?0100?00
+Clusiella                                           001100111100?00100000?10110000100000?1001100010110?1??????????????
+Haploclathra                                        0?100011010?10111001201011000011000031?11101101021?0??01???0100?00
+Kayea                                               01110011010?1011100000?01?1000?00000?001100100102?1010011110011100
+Kielmeyera                                          01110001010010?1100??010110000??0?00?101110110002100000????0?1??00
+Mahurea                                             001100010101101110010010110000100100?1011101100110?000?100??001100
+Marila_grandiflora_group                            01100010010110111000??100100?0100?10?10?1101000110?000110011001100
+Marila_tomentosa_group                              0?1000100101101?1000??00010000100100?10?1101000110?0101?0011001100
+Mesua_ferrea_group                                  0?0-101?01001012100?00021-1000100000210111010010201011010100010100
+Mammea_americana_group                              011101110100?0121000000111200010000?21011100001020111??10111001110
+Mammea_bongo_group                                  011101110100?11200000?01112000100?001101110?00102011100101111011?0
+Neotatea                                            00100000011-00?110010?111-000010100031011101100110?0?0?10001100000
+Poeciloneuron_indicum                               0?1101110100101111010?101100001100102101000100102??0100?0110101100
+Endodesmia_calophylloides                           000-00111100100300010?101100101000001-11-000001020?0100?011??00101
+Lebrunia_bushaie                                    010-0011110010?300010?001010101000001-11-000001020?010000110100001
+Cratoxylum_sects._Cratoxylum_and_Tridesmos          10110010010010001000?0?0?1001100000031010?12100110?00?000?00101100
+Eliaea_articulata                                   1011001001001000000000001100110000003101011?100110?01?01?111011100
+Harungana_madagascariensis                          10100010010010011000111012011100000051?101000001?000110?1100?11100
+Psorospermum_cerasifolium_group                     100-00100100100010001?1012011100000051010100000110?011000110011100
+Vismia_cayennensis_group                            101?00100100100?100011101?0111000000510101000?0110001?0?01?0011100
+Hypericum_sect._Myriandra                           ???00?100??01000??10001011?000000000??0?001100011??00?000??0000000
+Mammea_paramericana                                 ?????????????????????????????????????????222????????10010111001110
+
+;
+
+
+cnames
+{ 0 Phellogen_initiation_in_stem superficial deep_seated;
+{ 1 Cortical_sclereids_in_stem absent present,_thickening_of_cell_wall_even present,_thickening_of_cell_wall__u-shaped;
+{ 2 Functional_terminal_buds no yes;
+{ 3 Terminal_buds_with_scales no yes state_2;
+{ 4 Axillary_buds_immersed no yes state_2;
+{ 5 Branching_from_axils_of_leaves_of_current_flush no yes;
+{ 6 Leaf_insertion alternate opposite_or_whorled;
+{ 7 Colleters_present no yes;
+{ 8 Stipuliform_structures none round_or_peltate;
+{ 9 Secondary_veins_arising_from_the_length_of_the_midrib no yes;
+{ 10 Intersecondary_veins_modified_as_resin_canals no yes;
+{ 11 Tertiary_veins_parallel_and_at_right_angles_to_secondary_veins no yes;
+{ 12 Shape_of_the_exudate_containing_structures_in_the_mesophyll none glands canals;
+{ 13 Fibers_in_mesophyll_of_lamina no yes;
+{ 14 Lamina_with_lignified_margin no yes;
+{ 15 Midrib_structure one_layer_of_vascular_tissue_only at_least_two_layers,_adaxial_layer_inverted_with_respect_to_the_layer_immediately_below_it at_least_two_layers,_adaxial_layer_not_inverted at_least_two_layers,_adaxial_layer_with_no_clear_arrangement;
+{ 16 Lateral_bundles_in_leaf_transcurrent no yes;
+{ 17 Abaxial_palisade_tissue_present no yes;
+{ 18 Stomatal_type paracytic anomocytic;
+{ 19 Indumentum_of_unbranched_unicellular_hairs no yes;
+{ 20 Indumentum_of_multicellular_hairs no stellate other_than_stellate;
+{ 21 Prenylated_anthranoids absent present;
+{ 22 Inflorescence_or_flower_position axillary terminal;
+{ 23 Inflorescence_type at_least_some_internodes_developed fasciculate flower_single;
+{ 24 Terminal_flowers_on_inflorescence_present no yes;
+{ 25 Bracteoles absent present_normal present_but_displaced_one_internode;
+{ 26 Sepal_number five_or_multiples_of_five four two three;
+{ 27 Hairs_on_adaxial_surface_of_petals no yes;
+{ 28 Androecium_arrangement not_fasciculate fasciculate;
+{ 29 Fasciclodia_present_in_staminate_or_perfect_flowers no yes;
+{ 30 Filament_attachment dorsifixed basifixed;
+{ 31 Anthers_locellate no yes;
+{ 32 Anther_length less_than_6mm greater_than_6mm;
+{ 33 Anthers_with_crateriform_glands no yes;
+{ 34 Anther_thecae_with_porose_dehiscence no yes;
+{ 35 Pollen_aperture_number three at_least_four;
+{ 36 Carpel_number more_than_five one two three four five;
+{ 37 Ovary_septate no yes;
+{ 38 Ovules_per_carpel two_or_more one;
+{ 39 Style_length absent_or_shorter_than_ovary equal_to_or_longer_than_ovary;
+{ 40 Stylar_fusion free fuzed;
+{ 41 Stigma_type punctate transversely_expanded linear;
+{ 42 Stigma_surface smooth rounded_papillate pointed_papillate;
+{ 43 Fruit_type indehiscent septicidal_or_septifragal_dehiscence loculicidal_dehiscence;
+{ 44 Seeds_winged no yes;
+{ 45 Seeds_with_surface_glands no yes;
+{ 46 Seed_coat_complex no yes;
+{ 47 Lignified_exotegmen absent present;
+{ 48 Ratio_of_cotyledon_to_hypocotyl_plus_radicle less_than_0.2 greater_than_0.2_to_less_than_2 greater_than_2;
+{ 49 Cotyledons_cordate_at_the_base no yes;
+{ 50 Germination_type epigeal hypogeal;
+{ 51 Dioecy absent present;
+{ 52 Vessels_exclusively_solitary less_than_80%_of_vessels over_80%_of_vessels;
+{ 53 Vessel_arrangement_in_transverse_section none diagonal_or_radial_arrangement;
+{ 54 Scalariform_perforation_plates absent mixed;
+{ 55 Vessel-ray_parenchyma_pits_ similar_in_size_and_shape_to_intervessel_pits enlarged_with_reduced_borders other;
+{ 56 Unilaterally_compound_vessel-ray_parenchyma_pits absent present;
+{ 57 Tracheids absent present;
+{ 58 Fiber_pits_on_both_radial_and_tangential_walls no yes;
+{ 59 Axial_parenchyma_apotracheal_(diffuse/d-i-a) no yes;
+{ 60 Axial_parenchyma_paratracheal no yes;
+{ 61 Axial_parenchyma_banded no yes;
+{ 62 Multiseriate_rays no yes;
+{ 63 Upright_marginal_ray_cells no yes;
+{ 64 Radial_canals no yes;
+{ 65 Included_phloem no yes;
+;
+
+
+ccode  - 0.65;
+
+
+;

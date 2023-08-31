@@ -1,0 +1,171 @@
+nstates num 7;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 07.53.13'
+111 42
+
+&[num]
+Aneurophyton                     0-00-00000002-00----00-00000-000----0000----0-00-00-0000-0-------0---00---0006-------000000------0-0-----------
+Archaeopteris                    1-01-000010020000-0-10-10000-000--11000000000-00-20-001200-------0---00---0006-------0000000-----00------------
+Cecropsis                        1-11-00-01-0-000000-10-10000-00---11000000000-00-20-001200-------0---00---0006-------0000000-----00------------
+Elkinsia                         1-12-00-01-200000---01-00000-000--00000010000-00-01-0020010-00000100000---1006-------0000000-----0000--------0-
+Heterangium                      1-12-00-01-20000000001-10000-0000-00000011000-00-01-002-020000000100000---1006-------0000000-----00000-------0-
+Lyginopteris                     1-12-00101120000000002-10000-0000-00000011100-00-01-0020020001000100000---1006-------0000000-----00000-------0-
+Callistophyton                   1-12-001011300000--003-10000-0000-00000011100-00-11-0021031010011210110---0006-------1111000000---0-00-------0-
+Quaestora                        1-12-00102---200----03-10000-0000-00--00--1---------0-2--20000010210110---0006-------------------0000--------0-
+Medullosa                        1-12-00101-22200000003-11001-0000-00000011100--0-01-002--200000102?0110-----06-------0100000-0--0000000------0-
+Ginkgo                           1012010101102110000001010110-001003300111440?--1--00022003-010011210101---0006-------11010000--101000000-000010
+Emporia                          1-12-00101012010000-11-10100-001--42112114400--1-20-0220131020000210-00---0006-------011100000----0----------1-
+Pinus                            10120?0101134010000013010110-0010142111114401--1-10002221320-1001211101---0006------01111000000021000010-010011
+Podocarpus                       1?12000101134010000013010110-0010042111214401--1-1000-221320-100121110----2006------01111000000021000010-010011
+Taxus                            1012000101134010000003010110-0010042011-14400-01-1000-2003-01100121110----3006------12202000-02-21100010-010011
+Cordaixylon                      1-120-0101132010000012010100-0010-44022114400-01-00-0-20031010011210110---0006-------0111000-00---00-00------0-
+Mesoxylon                        1-12000201132000000001-10100-0010-44022114400--1-00-0-20031010011210110---0006-------0111000-00---00-00------0-
+Corystosperms                    1-12010101120-0-000012-10100-001--11000010400--0-1000?2103-110011210-10---2106-------111100000----1------------
+Peltasperms                      1-12------130---0-0--------0------2?000010000--0-1000-2103--10---2--------0006-------110-0000-----0------------
+Glossopteris                     1-12--0101131000200-10-10-000001--02000014000-00-?0-012102-0110012111-1---2006-------111101000----0-0----------
+Caytonia                         1-12-1-1011-0---210----10--0------01000013000-00-110-02202-0100-1011--1---2106-------111100000----1------------
+Cycadaceae                       101200001113010100011201110-00000012000013400-00-1000020020011011211110---0006------011010000001110000000000010
+Zamiaceae                        101200001113010100?11201010-00000022000013400-00-1100020050001011211110---0006------01101000000111000000000001-
+Bennettitales                    1-12-00-?1030010001-0201010-00010-220000?43-0-?0--?0012004000020001111?---0006-------110200000---11000-------1-
+Pentoxylon                       1-12-101-1031100000010-11---00010-1100001?310-00-000022002-010011011111----006-------110200000----1------------
+Ephedra                          11120002-2032110-0001001011-00100044012114410-11-010022004-1-1101211110---0106------02102010-00021100011-1100-1
+Welwitschia                      11120002-2032-1021111301011-01100044012114410-11-010022004-111101011110---0106------01102010001-2-11111--1101-1
+Gnetum                           11120-02-203111021111001011-0?1000440121144---1--0-0022004-101101211100---0106------022020-1-01-2-111111-1101-1
+Magnoliaceae                     11120001-1031-10111?1411010-0010114-00000--000021111102212-1-0001-111010014014000001?1102000013-2110201111010-1
+Eupomatia                        1-120001-1031-1011101411010-001011--00000--000021311102212-1-0001-1110100140141000-00-002000013-2110201111010-1
+Austrobaileya                    11120001-2031-1011101411010-001011--00000--000021211102212-1-0001-11101001401400000001103100123-2110201111010-1
+Chloranthaceae                   111200?1-2031-1011101411010-001011--00000---0--?13110-2202-1-0001-11101-004010-1-12-01103100123-2110201111010--
+Laurales                         11120001-2031-1011101411010-001011--00000--1000203110-2212-1-0001-11101-00401011010002202-01--3-2110201111010--
+Winteraceae                      11120001-0031-1011111411010-000011--00000--100021311002212-1-0001-11101110401-00000001003100023-2110201111010-1
+Eudicots                         111200?1-1033-1011?01011010-001011--00000--100020311002212-1-0001-111011?0401301?0??0-003---123-2110201111010-1
+Aristolochioideae                11120011-1033-1011001411010-011011--00000--10102-311002212-1-0001-111011004015101011011031000-3-2110201111010--
+Piperaceae                       11120011-1033-1011-01411010-001011--00000--101020311002212-1-0001-11101100401-02102-0110300?123-211?201101010-1
+Nymphaeales                      1-121011-1033-10110-1011010--00-11--00000--00?0212110022-2-1-0001-1110111040140010??0110200-023-2110201101010-0
+Monocots                         11121011-103?-10-1101?-1010--01-11--00000--101020311002212-1-0001-11101--04012001011-1103-0-013-2110201111010-1
+Charcoalified_seeds              1--2---1------------------------------2-----------------04-0-1-01-1---0---400---------------------1------------
+Doylea_tetrahedrasperma          1?12??01?1???010?????0?101000-00??4?112214???-??-???-?2113200000121-001---500-------?1111000??????0????????????
+Doylea_mongolica                 1?12???1?1???0???10????10????-??????112214???-??-???-?211??10?001??-???---500-------?1111000???????????????????
+Petriellales                     1?12??01?1?02???211??3?10?0?0-0???33100011100-00-?0?-0221221010010---00---200-------??????????????1????????????
+
+;
+
+
+cnames
+{ 0 Life_Cycle homosporous heterosporous;
+{ 1 Maule_reaction_in_lignin absent present;
+{ 2 Functional_megaspores More_than_one One;
+{ 3 Meio/megasporial_dehiscence along_one_side over_apex_and-along_part_or_entire_length_of_both_sides indehiscent;
+{ 4 Radicle persistent replaced_by_adventitious_roots;
+{ 5 Vegetative_short_shoots absent present;
+{ 6 Habit woody (semi)_herbaceaous;
+{ 7 Branching apical single_bud_axillary multiple_buds;
+{ 8 persistent_leaf_bases absent present;
+{ 9 leaves leaves_absent alternate_helical opposite_whorled;
+{ 10 Cataphylls absent present;
+{ 11 Dichotomies_in__vegetative__leaves in_all in_some at_base_but_not_distally in_none;
+{ 12 Morphology_of_Veg_Leaves pinnately_compound simply_pinnate_veined_or_dissect_into_parall_vein_seg linear_to_dichotomous_w_two_or_more_veins palmately_veined linear_w_one_vein_Rarely_two_may_fork_apically parallel_veins;
+{ 13 Leaf_trace_divergence from_one_cauline_protoxylem_or_sympodium_at_one_level two_or_more_cauline_px_strands_or_cauline_bundles_at_one_lel two_or_more_cauline_px_strands_over_length_stem;
+{ 14 Leaf_traces mesarch endarch;
+{ 15 Girdling_leaf_traces absent present;
+{ 16 Laminar_Venation one reticulate_hierarchical reticulate_anastomosing parallel;
+{ 17 Guard_cell_poles raised level_with_aperture;
+{ 18 Stomata Haplocheilic Syndetocheilic;
+{ 19 Foliar_sclereids absent present;
+{ 20 Sparganum/dictyoxylon_cortex absent present;
+{ 21 Secretory_structures isolated_cells_or_groups_of_cells cavities canals absent oil_cells;
+{ 22 Apical_meristem without_tunica with_tunica;
+{ 23 Protoxylem_architecture single_centrarch_cauline_strand two_or_more_sympodial_strands_near_primary_margin;
+{ 24 Polystele absent present;
+{ 25 Primary_xylem mesarch endarch;
+{ 26 Metaxylem with_scalariform_pitting without_scalariform_pitting;
+{ 27 Secondary_xylem external_only external_internal;
+{ 28 Tertiary_spiral_thickenings_in_tracheids absent present;
+{ 29 End_wall_pit_or_vessel_perforations multiple simple;
+{ 30 Vessels absent present;
+{ 31 Rays at_least_some_multiseriate all_uniseriate_or_biseriate;
+{ 32 Companion_cells_in_phloem absent present;
+{ 33 Sieve_tube_plastic_inclusions starch PI PII;
+{ 34 Megaporangium_bearing_structures not_aggregated aggregated_but_not_forming_determinate_strobili forming_simple_cones aggregated_simple_cones_not_forming_compound_cones compound_cones_with_determinate_growth;
+{ 35 Microsporangium_bearing_structures not_aggregated aggregated_but_not_forming_determinate_strobili forming_simple_cones aggregated_simple_cones_not_forming_compound_cones forming_compound_cones;
+{ 36 Symmetry_of_megasporangium_bearing_or_ovuliferous_fertile_shoot radial bilateral_dorsiventral;
+{ 37 Megasporangium-bearing_or_ovuliferous_bract_shoot_complexes absent helical vertical_rows;
+{ 38 Megasporangium-bearing_or_ovuliferous_fertile_shoot_complexes absent with_distinct_appendages without_distinct_appendages;
+{ 39 Bract_and_axillary_ovlate_shoot_complexes absent with_bract_free_from_shoot with_bract_partly_or_completely_fused_to_shoot;
+{ 40 Megasporangia_and_microsporangia intermixed_or_aggregated_as_bisporangiate_structure separated_into_monosporangiate_structures;
+{ 41 Megsporophylls dichotomous_only dichotomous_and_or_pinnate dichotomous_or_simple pinnate simple;
+{ 42 microsporophylls1 dichotomous_only dichotomous_and_or_pinnate dichotomous_or_simple pinnate simple;
+{ 43 Microsporophylls2 helically_arranged whorled_or_opposite;
+{ 44 Meio/microsporangia_per_sporophyll more_than_two two;
+{ 45 Stamen_numbers various multiples_of_three;
+{ 46 Microsporophylls3 free basally_fused;
+{ 47 Microsporophylls4 pinnate_or_paddle_like simple,one_veined,scale-like simple,one-(rarely)-three_veined,_with_two_pairslateral_sporangia;
+{ 48 Stamen_form filamentous laminar;
+{ 49 Position_of_meio/microsporangia terminal abaxial adaxial State_3;
+{ 50 Meio/microsporangia free fused_at_least_basally;
+{ 51 Meio/microsporangia_dehiscence ecto/endokinetic endothecial;
+{ 52 Inner_staminodes absent present;
+{ 53 Megasporangium/ovule_bearing_structure pinnate simple_paddle_like_megasporangia_not_in_two_rows simple_stalk_like_with_one_megasporangium_or_meg_sessile;
+{ 54 Meio_or_megasporangia dehiscent_along_one_side dehiscent_over_apex_and_along_part_or_entire_length_of_sides indehiscent;
+{ 55 Position_of_attachment_of_megasporangium-ovule terminal_or_lateral abaxial adaxial;
+{ 56 Ovule_megasporangium_orientation erect inverted;
+{ 57 Integument1 absent lobate_pre_integument with_simple_apex with_bifid_apex with_tubular_micropyle State_5;
+{ 58 Integumentary_vascularization numerous_bundles_one_in_each_lobe two_bundles_dividing_in_major_plane unvascularized;
+{ 59 Integument with_sclerotesta_and_sarcotesta simple;
+{ 60 Anatomical_symmetry_of_ovule radial 180_degree_rotational bilateral;
+{ 61 Fusion_of_integument_to_nucellus free fused_more_than_fifty_percent_of_length;
+{ 62 Tubular_micropyle absent composed_of_2_integumentary_layers composed_of_all_integumentary_layers;
+{ 63 Sarcotesta absent_or_uniseriate multiseriate;
+{ 64 Integument_apex_sealing_post_pollination absent present;
+{ 65 Pollen_chamber absent_(cellular_apex_solid) hydrasperman non_hydrasperman_(no_membranous_floor_with_central_column);
+{ 66 Central_column present absent;
+{ 67 Lagenostome-salpinx-nucellar_beak present absent;
+{ 68 Pollen_chamber_sealing_post_pollination not_sealed sealed;
+{ 69 Megasporangium/nucellus_vascularization not_vascularized vascularized;
+{ 70 Nucellar_cuticle thin thick;
+{ 71 Testa multiplicative non-multiplicative;
+{ 72 Exotesta normal palisade;
+{ 73 Ruminations_in_the_seed_coat absent present;
+{ 74 Ovule_or_homologue not_enclosed enclosed_in_one_vascularized_structure_composed_of_telomes enclosed_in_one_vascularized_structure_composed_of_laminae enclosed_in_one_unvascularized_structure_layer_of_tissue enclosed_in_two_layers_of_tissue enclosed_in_one_vascularized_structure_composed_of_petiole_and_la;
+{ 75 Meio_or_Megasporang_or_ovule not_surrounded_by_subtending_leaf_homologs surrounded_by_one_or_two_pairs_of_subtend_leaf_homologues;
+{ 76 Closed_carpel_with_stigmatic_pollen_germination absent present;
+{ 77 Carpel_number 1 2 3 4/5 numerous 4/6 none;
+{ 78 Hypanthium absent present;
+{ 79 Placentation marginal/laminar apical basal;
+{ 80 Carpels spiral_or_irregular whorled;
+{ 81 Ovules_per_carpel several one,apical;
+{ 82 Perianth more_than_two_whorls,_spiral_irregular two_whorls none;
+{ 83 Perianth_symmetry various trimerous;
+{ 84 Microspore/pollen_cytokinesis simultaneous successive;
+{ 85 Microspore/pollen_with proximal_tetrad_scar distal_sulcus_or_round_germinarion_area no_aperture;
+{ 86 Microspore/pollen_symmetry radial bilateral global;
+{ 87 Microspores/pollen non-saccate_or_subsaccate saccate;
+{ 88 Infratectal_structure massive_or_spongy_alveolar honeycomb_alveolar granular columellar;
+{ 89 Tectum continuous_or_finely__perforate foveolate-reticulate;
+{ 90 Exine_striations absent present;
+{ 91 Supratectal_spinules absent present;
+{ 92 Aperture_membrane smooth_or_weakly_sculptured conspicuously_sculptured;
+{ 93 Endexine uniformly_thick_lamellated absent thin_non_lamellated;
+{ 94 Microgametophytes_with five_or_more_nuclei four_nuclei_,tube_nucleus_produced_by_the_second_division 4_nuclei_tube_nucleus_produced_by_1st_division_no_prothallus three_nuclei;
+{ 95 Sterile_cell colinear_with_other_microgametophyte_cells ring_shaped;
+{ 96 sperm small,_flagellate_and_zooidogamous large,_flagellate_and_zooidogamous non-flagellate;
+{ 97 Megaspore_tetrad tetrahedral linear;
+{ 98 Megaspore_wall thick thin;
+{ 99 Megagametophyte1 monosporic tetraspopric;
+{ 100 Megagametophyte2 large__cellular_normal_archegonia large_apical_part_and_egg_free_nuclear 8_nucleate_central_part_free_nuclear_egg_cellular_w/o_neck_c;
+{ 101 Megagametophyte_cellularization enclosing_single_nuclei,_resulting_in_uninucleate_cells enclosing__several_nuceli_resulting_in_multinucleate_polyploid_c;
+{ 102 Sperm_transfer zooidogamous siphonogamous;
+{ 103 Fusion_of only_one_sperm_with_female_gametophyte_nucleus regular_fusion_of_both_sperm;
+{ 104 Nutritive_tissue_in_seed endosperm_plus_perisperm endosperm_only;
+{ 105 Embryo derived_from_several_free_nuclei from_a_sigle_uninucelate_cell_by_cellular_divisions;
+{ 106 Proembryo not_tiered tiered;
+{ 107 Secondary_suspensor_(embryonal_tubes) present absent;
+{ 108 Feeder_in_embryo absent present;
+{ 109 Postzygotic_quiescence_and/or_seed_dormancy absent present;
+{ 110 Seed_germination hypogeal epigeal;
+;
+
+
+ccode  - 0.110;
+
+
+;

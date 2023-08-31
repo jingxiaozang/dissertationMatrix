@@ -1,0 +1,68 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 07.55.47'
+22 28
+
+&[num]
+Cedrus_deodara                             0000000000000202000100
+Sciadopitys_verticillata                   00000-011?100212103101
+Cunninghamia_lanceolata                    0010120000111212011101
+Taiwania_cryptomerioides                   0000000000112011030101
+Athrotaxis_laxifolia                       0000000001001011130101
+Sequoiadendron_giganteum                   0000000001012211133101
+Sequoia_sempervirens                       0020020001012111133101
+Metasequoia_glyptostroboides               1020020000212111133101
+Cryptomeria_japonica                       0000000000022011122011
+Glyptostrobus_pensilis                     0000000001022011120013
+Taxodium_distichum                         0020000000222101120011
+Thuja_occidentalis                         1101001011021010130011
+Platycladus_orientalis                     1101001011021010130011
+Austrocedrus_chilensis                     1101001011021010230012
+Elatides_zhoui                             0000110000111112012101
+Elatides_williamsonii                      0000020000111212012101
+Elatides_harrisii                          000011000012101?01110?
+Sewardiodendron_laxum                      0010020000111212012100
+Cunninghamia_taylorii                      0000120?001??112011101
+Austrohamia_minuta                         00100????01??01103010?
+Cunninghamiostrobus_goedertii              001012000????21?01110?
+Hubbardiastrobus_cunninghamioides          0000?????????012011101
+Hughmillerites_juddii                      0????????????21?01110?
+Scitistrobus_duncaanensis                  0????????????212011101
+Acanthostrobus_edenensis                   01???2???????11201?101
+Parataiwania_nihongii                      0????????????11101210?
+Pentakonos_diminutus                       0????????????011012101
+Stutzeliastrobus_foliatus                  000000000?????1203?102
+
+;
+
+
+cnames
+{ 0 Phyllotaxis_of_mature_leaves/microsporophylls/bract-scale_complexes helical decussate;
+{ 1 Imbricate_scale_leaves absent present;
+{ 2 Leaf_bases_on_ultimate_shoots_twisted absent commonly_twisted_to_form_multiple_ranks_of_leaves commonly_twisted_to_form_a_single_rank_of_leaves;
+{ 3 Leaves_on_ultimate_shoots_heteromorphic_with_facial_and_lateral_leaves absent present;
+{ 4 Leaf_margin entire toothed;
+{ 5 Stomatal_distribution_on_leaves_of_the_ultimate_shoots amphistomatic epistomatic/predominantly_adaxial hypostomatic/predominantly_abaxial;
+{ 6 Stomata_with_strongly_developed_Florin_rings absent present;
+{ 7 Subsidiary_cell_number 4-7 8-12;
+{ 8 Papillae_on_epidermal_cells_in_stomatal_band absent present;
+{ 9 Pollen_cones_position lateral_to_subterminal in_terminal_clusters;
+{ 10 Pollen_cones_aggregation single in_cluster/pseudowhorl in_spikelike_system;
+{ 11 Pollen_sac_number_per_microsporophyll strictly_two two_to_three four_to_nine;
+{ 12 Pollen_grain_distal_pore_(circular_aperture) absent present_but_lacking_a_distinct_papilla present_and_papillate;
+{ 13 Average_mature_seed_cone_size_(maximum_length) less_than_or_equal_to_2.0_cm more_than_2_cm_to_3_cm more_than_3_cm;
+{ 14 Bract-scale_complexes_at_maturity deciduous persistent;
+{ 15 Bract-scale_complex_number_per_seed_cone one_to_10 11_to_40 more_than_40;
+{ 16 Mature_bract-scale_complex_morphology foliate peltate valvate;
+{ 17 Ovuliferous_scale_in_mature_seed_cones forming_most_of_the_bract-scale_complex a_small_membranous_structure a_robust_protuberance_between_ovule_and_bract not_obviously_visible,_possibly_absent;
+{ 18 Number_of_ovules_associated_with_each_bract-scale_complex one_to_two three four_to_six seven_to_ten;
+{ 19 Seed_orientation_at_maturity erect_(micropyle_facing_away_from_the_cone_axis) inverted_(micropyle_facing_toward_the_cone_axis);
+{ 20 Seed_position_at_maturity on_the_bract-scale_complex axillary_to_bract-scale_complex;
+{ 21 Seed_wing_position wing_absent lateral_flanges distal proximal;
+;
+
+
+ccode  - 0.21;
+
+
+;

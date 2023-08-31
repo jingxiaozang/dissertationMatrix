@@ -1,0 +1,185 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 07.51.34'
+144 23
+
+&[num]
+OUTGROUP_dummy                               ???????????????????????????????????????????????????????????--------------------------------------------------------------------------------00000
+Protungulatum_donnae                         00001010010010001000011110110001??0110000100101101011010000??????????000010000??????????????????????????????????0001?002010000110122???????01010
+Mithrandir_gillianus                         0001101000021000101001112011000101101000100110?1?001100000011???000?000001001?101?????????????????10111?1?0111???????00201000001002210100?101010
+Didymictis_spp.                              0001211111110020?20001012011???31001010?0100?0?1?101?0??121111?21010111111110110011101000001011000001110??1010001011110212010000110211100?001101
+Viverravus_spp.                              0000111110010020?100?0011001???3001101000100?0?0?1011000120????10?1??00011110100010001?2??010???0001011010011???1010000?01?????????????????01101
+Cimolestes_magnus                            11001000000200200000000110110001?100100001000010?101?010000--------------------------------------------------------------------------------01100
+Arfia_gingerichi                             ??????00110200201100001120?00010?001100010011001110???00001--------------------------------------------------------------------------------11100
+Arfia_junnei                                 ?????????????0?11?00?01120?00010?00010001001101101011?????1--------------------------------------------------------------------------------11100
+Arfia_shoshoniensis_and_opisthotoma          0000000011?2100?1100??11201000101?0?100010011001?1011100001????211111111111111110111?002?011????11001?10111001001011100002?00100102????????11100
+Prototomus_minimus                           10?1??00111001200201100010?0000????1001001100110111?0?100?0--------------------------------------------------------------------------------11100
+Prototomus_deimos                            1001??0?0?0101200?0110001?100001??????????????????????????0--------------------------------------------------------------------------------11100
+Prototomus_phobos                            10?10000000101200201000010100001001010101?100110111100?0000????101101?????????????????????????????0?0110000?????100001??0000000?00011??0??011100
+Prototomus_secundarius                       ???1??000?010120020100101010??????1?1010101001101111001?000--------------------------------------------------------------------------------11100
+Gazinocyon_whitiae                           10110000010101200201001010100001001000?010100110?111001000000???????0110120101??????????????????11??????????????100001??02000?0?01?1101000?11100
+Prototomus_martis                            100?00001000012002011000??000001???0100?001002101111001000?--------------------------------------------------------------------------------11100
+Pyrocyon_strenuus                            110?00?010??0120021110001?000001?10?100000110210111100110010000110100?0?0000?0000???00?0?00???????11?1?00001000110?00?12001100110000100010011100
+Pyrocyon_dioctetus                           11000000100101200211100010000001?????????????2????????11??1--------------------------------------------------------------------------------11100
+Prolimnocyon_haematus                        100000?010??0?000?0110001011010300001100?110011?011??011110--------------------------------------------------------------------------------11100
+Prolimnocyon_atavus                          11000000100?010002?11000101?11030?00110001100210?11100111110101000000000000000000000010001??0000000100010101?001000000??1000000?0111011000011100
+Galecyon_morloi                              ?????????????1000210100010??0002??11010?01100000000?0?????0--------------------------------------------------------------------------------11100
+Galecyon_peregrinus                          0???0001?01001?00310100010?10102??????????????????????????1--------------------------------------------------------------------------------11100
+Galecyon_mordax                              ?00001?1001101100?101?0010110102?????????110000000000?????11010??????0??1?110???????????????????01?01???????????????????????10100101???????11100
+Galecyon_chronius                            ?00011110011111003101?00120101021?11110101?00000000000001?1101?111111010121101??????000110001110??0????01011101221010121010010100101002101111100
+
+;
+
+
+cnames
+{ 0 p1_size large small absent;
+{ 1 p1_roots one two;
+{ 2 Diastema_between_p1_and_p2 less_than_length_of_p2 greater_than_length_of_p2;
+{ 3 Diastema_between_p2_and_p3 absent small;
+{ 4 p3_proportions elongate_and_low,_protoconid_apex_lower_than_p2 short_and_high,_protoconid_apex_taller_than_p2 elonagte_and_low,_prototonid_apex_taller_than_p2;
+{ 5 p3_talonid_cusps hypoconid_only second_cusp_present_distal_to_the_hypoconid;
+{ 6 p4_mesial_cusp absent_or_very_weak strong;
+{ 7 p4_protoconid_height tall:_>=_m1_protoconid low:_<_m1_protoconid;
+{ 8 p4_protoconid_cross-section circular lenticular;
+{ 9 p4_talonid_height tall low;
+{ 10 p4_talonid_buccal_cusps hypoconid_only second_cusp_present_distal_to_hypoconid;
+{ 11 Lingual_margin_of_p4_talonid no_rim_present weak_rim_present well-developed_entocristid_present;
+{ 12 p4_width narrow_(gracile) broad_(robust);
+{ 13 Basal_distention_of_m2_buccal_enamel_(modified_from_Sole_2013_C37) weak_or_absent strong;
+{ 14 m2_buccal_cingulid_at_mesial_margin_of_crown weak_&_crestiform,_restricted_to_paraconid_mid-height weak_&_denticulate_(m2_only),_restricted_to_paraconid_mid-height strong_&_shelflike,_extends_to_base_of_paraconid;
+{ 15 m2_buccal_cingulid absent_or_restricted_to_hypoflexid continuous_around_protoconid_and/or_hypoconid;
+{ 16 Protoconid_height_on_m1-2 much_taller_than_metaconid_&_paraconid,_trigonid_>>_talonid slightly_taller_than_metaconid_&_paraconid,_trigonid_>_talonid;
+{ 17 m2_paraconid_and_metaconid_relative_heights paraconid_substantially_lower_than_metaconid paraconid_moderately_lower_than_metaconid paraconid_subequal_to_metaconid paraconid_taller_than_metaconid;
+{ 18 m2_paraconid_orientation slightly_oblique,_trigonid_relatively_closed strongly_oblique,_trigonid_relatively_open;
+{ 19 Length_of_paraconid_portion_of_m2_paracristid short elongate;
+{ 20 m1-2_paraconid_keel weak strong;
+{ 21 m2_metaconid_position metaconid_apex_immediately_lingual_to_protoconid_apex metaconid_apex_distolingual_to_protoconid_apex;
+{ 22 Width_of_m1_talonid Substantially_narrower_than_trigonid Subequal_to_trigonid_width;
+{ 23 m1-2_hypoconid_size small,_apex_at_distobuccal_corner_of_crown,_postcristid_absent enlarged,_apex_mesial_to_distobuccal_corner,_postcristid_present;
+{ 24 m1-2_entoconid_size very_small,_much_lower_than_hypoconulid,_talonid_semitrenchant small,_subequal_to_hypoconulid,_low_rim_on_lingual_margin enlarged,_subequal_to_hypoconulid,_well_separated,_distinct_wall;
+{ 25 m1-2_entoconulid_morphology absent_or_very_small,_becomes_indictinct_with_light_wear forming_a_series_of_denticulations_on_lingual_entocristid mesially_displaced_and_well-separated_from_remainder_of_entocristid;
+{ 26 m1-2_talonid_basin_depth shallow,_cusp_relief_low deep,_cusp_relief_substantial;
+{ 27 m1-2_size m2_much_larger_than_m1 size_subequal;
+{ 28 m3_roots two one;
+{ 29 m3_trigonid_height much_taller_than_talonid,_differential_comparable_to_m1-2 low,_height_differential_reduced_compared_to_m1-2;
+{ 30 m3_morphology comparable_to_m1-2_with_minor_distinctions disjunct_from_m1-2,_paraconid_and_paracristid_greatly_enlarged;
+{ 31 m3_size larger_than_m1-2 subequal_to_m1-2 slightly_reduced strongly_reduced;
+{ 32 orientation_of_P3 aligned_with_P4 set_at_an_angle_to_P4;
+{ 33 Protocone_lobe_on_P3 absent present;
+{ 34 P4_buccal_cingulum complete incomplete_mesially;
+{ 35 P4_parastyle weak_or_absent forming_a_strong,_conical_cusp;
+{ 36 P4_metastyle long,_subequal_to_length_of_paracone short,_much_shorter_than_paracone;
+{ 37 P4_protocone_position lingual_to_paracone mesiolingual_to_paracone;
+{ 38 P4_protocone_size prominent,_extending_as_far_lingually_as_M1_protocone reduced,_lingual_extent_less_than_on_M1;
+{ 39 P4_preprotocrista continuous_onto_parastyle ending_at_base_of_paracone;
+{ 40 P4_metastylar_orientation long_axis_inclined_relative_to_long_axis_of_paracone long_axis_parallel_to_long_axis_of_paracone;
+{ 41 M1_parastyle_development poorly_developed,_slight_thickening_at_mesiobuccal_corner prominent,_well-developed_cusp_and_lobe_mesial_to_paracone;
+{ 42 M1_paracone_and_metacone separate_almost_to_base fused_to_midway_from_base;
+{ 43 M1_paracone_and_metacone_size paracone_much_larger_and_taller_than_metacone paracone_slightly_larger_than_metacone,_heights_subequal;
+{ 44 Separation_of_M1_metacone_and_metastyle linear_crests_separated_by_a_carnassial_notch a_single_unbroken_arcuate_crest_connects_metacone_&_metastyle;
+{ 45 Elongation_of_molar_carnassial_metastyles_(M1_and_M2_if_applicable) short,_much_less_than_combined_length_of_paracone_&_metacone moderate,_subequal_to_combined_length_of_paracone_&_metacone elongate,_greater_than_combined_length_of_paracone_and_metacone;
+{ 46 Orientation_of_M1_metastyle subparallel_to_a_line_between_paracone_&_metacone_apices sharply_oblique_to_a_line_between_paracone_&_metacone_apices;
+{ 47 Development_of_M1_conules paraconule_larger_and_more_elevated_than_metaconule paraconule_and_metaconule_subequal_in_size_and_height;
+{ 48 Termination_of_M1_postmetaconule_crista joins_metastylar_crest_at_distolingual_corner_of_crown terminates_beneath_metastylar_crest;
+{ 49 M1_protocone_transverse_width short,_apex_of_protocone_close_to_apices_of_buccal_cusps elongate,_apex_well_lingual_to_apices_of_buccal_cusps;
+{ 50 M1_protocone_length broad compressed;
+{ 51 M1_protocone_height much_lower_than_buccal_cusps slightly_lower_than_buccal_cusps;
+{ 52 Elongation_of_M1_distal_cingulum distal_cingulum_terminates_beneath,_does_not_contact,_metaconule distal_cingulum_extends_buccal_to_metaconule;
+{ 53 Central_M2_width_(excluding_stylar_regions) subequal_or_slightly_greater_than_M1_width much_greater_than_M1_width;
+{ 54 M2_stylocone absent present;
+{ 55 Orientation_of_M2_parastylar_lobe oriented_mesially_or_mesiobuccally oriented_buccally;
+{ 56 Distal_portion_of_M2 well-developed,_metastylar_elongation_comparable_to_M1 reduced,_metacone_much_smaller_than_paracone,_metastyle_absent;
+{ 57 M3 slighlty_smaller_than_M1-2 much_reduced_in_size absent;
+{ 58 Enamel_texture_on_cheek_teeth smooth crenulate;
+{ 59 (Scapula)_glenoid_shape ovoid,_distinctly_longer_than_wide subcircular,_length_and_width_more_similar;
+{ 60 (Scapula)_distal_deflection_of_anterior_glenoid_fossa restricted_to_anterior_1/3_or_less exceeds_1/2_of_glenoid_anteroposterior_length;
+{ 61 (Scapula)_lateral_projection_on_glenoid_border at_anterolateral_corner_of_glenoid,_close_to_supraglenoid_tubercle on_lateral_surface_posterior_to_anterolateral_corner,_clearly_separated_from_supraglenoid_tubercle;
+{ 62 (Scapula)_medial_border_of_infraglenoid_tubercle forms_a_distinct_ridge_that_defines_a_fossa_on_the_posterior_scapular_neck ridge_absent,_posteromedial_scapular_neck_smoothly_curved;
+{ 63 (Humerus)_greater_tuberosity_height lower_than_humeral_head even_with_humeral_head higher_than_humeral_head;
+{ 64 (Humerus)_anteromedial_projection_of_greater_tuberosity weak,_greater_tuberosity_closely_appressed_to_humeral_head strong,_medial_margin_of_tuberosity_projects_well_anterior_to_humeral_head;
+{ 65 (Humerus)_tubercle_for_pectoralis_profundus small_and_low,_lateral_wall_of_groove_for_biceps_tendon_poorly_defined enlarged,_lateral_wall_of_groove_for_biceps_tendon_sharply_defined;
+{ 66 (Humerus)_medial_projection_of_lesser_tuberosity strong,_lesser_tuberosity_projects_well_medial_to_humeral_head,_particularly_posteriorly weak,_lesser_tuberosity_appressed_to_humeral_head;
+{ 67 (Humerus)_teres_tubercle present_as_a_definable_crest_or_ridge_on_the_medial_side_of_the_proximal_humeral_shaft absent,_no_clear_scar_for_teres_major_and_latissimus_dorsi_present;
+{ 68 (Humerus)_distal_terminus_of_deltopectoral_crest distal_portion_of_crest_elevated_and_termination_relatively_abrupt,_a_clear_inflection_is_present_between_crest_and_shaft_in_lateral_view crest_tapers_smoothly_into_shaft,_no_clear_transition_is_present_in_lateral_view;
+{ 69 (Humerus)_primary_orientation_of_facet_on_lateral_side_of_posterodistal_humerus posterior,_flush_with_remainder_of_posterodistal_humerus lateral,_distinctly_angled_from_remainder_of_posterodistal_humerus;
+{ 70 (Humerus)_projection_of_medial_epicondyle strong,_medial_epicondyle_projects_well_medial_to_humeral_shaft,_entepicondylar_bar_forms_an_angle_of_45_degrees_or_more_with_the_long_axis_of_the_humerus weaker,_medial_epicondyle_more_appressed_to_medial_humeral_shaft,_angle_between_entepicondylar_bar_and_long_axis_less_than_45_degrees;
+{ 71 (Humerus)_height_of_medial_epicondyle low,_proximodistal_height_approximately_double_anteroposterior_depth tall,_anteroproximal_margin_more_proximally_extensive,_height_more_than_double_depth;
+{ 72 (Humerus)_olecranon_fossa_shape broad_and_shallow,_margins_poorly_defined narrow_and_deep,_margins_well_defined;
+{ 73 (Humerus)_pit_on_posteromedial_distal_humerus_for_ulnar_collateral_ligament deep_but_lateral_margin_flush_with_olecranon_fossa deep_and_separated_from_olecranon_fossa_laterally_by_a_ridge_of_bone shallow_and_indistinct;
+{ 74 (Humerus)_radial_fossa shallow,_margins_poorly_defined deep,_margins_well-defined,_particularly_lateral_margin;
+{ 75 (Humerus)_capitulum_width much_broader_than_deep moderately_broader_than_deep;
+{ 76 (Humerus)_capitular_tail prominent very_weSubgenus;
+{ 77 (Humerus)_projection_of_trochlea_on_distal_humerus Weak,_trochlea_does_not_project_strongly,_angle_between_distal_margins_of_trochlea_and_capitulum_large strong,_trochlea_projects_well_distal_to_capitulum,_angle_between_distal_margins_of_trochlea_and_capitulum_reduced;
+{ 78 (Radius)_ulnar_facet_curvature rounded flattened;
+{ 79 (Radius)_trochlear_facet_on_proximal_radius very_narrow_or_absent State_1;
+{ 80 (Radius)_medial_transition_between_radial_head_and_shaft smooth,_with_a_curved_transition abrupt,_with_a_sharp_transition;
+{ 81 (Radius)_brachioradialis_crest forms_a_prominent,_proximally_extensive_crest_on_anterior_margin_of_distal_radius weak,_restricted_to_near_distal_end_of_bone;
+{ 82 (Radius)_crest_on_lateral_surface_of_distal_radius weak,_most_of_lateral_surface_occupied_by_anterior_facet strong,_sharply_divides_lateral_surface_into_subequal_anterior_and_posterior_facets;
+{ 83 (Radius)_styloid_process does_not_project_significantly_beyond_remainder_of_distal_radius projects_strongly_beyond_remainder_of_distal_radius;
+{ 84 (Ulna)_length_of_olecranon_process short,_only_slightly_longer_than_semilunar_notch longer,_substantially_longer_than_semilunar_notch;
+{ 85 (Ulna)_medial_deflection_of_olecranon_process,_relative_to_a_line_separating_the_trochlear_facet_from_the_radial_and_posterior_humeral_facets substantial,_~30_degrees small,_~10_degrees;
+{ 86 (Ulna)_shelf_at_posteroproximal_corner_of_medial_olecranon weak,_poorly_differentiated_from_remainder_of_proximal_border well-developed_and_projecting_strongly_medially;
+{ 87 (Ulna)_shape_and_orientation_of_anconeal_process wide_and_directed_laterally narrow_and_directed_laterally narrow_and_deflected_proximolaterally;
+{ 88 (Ulna)_trochlear_facet_width wide narrow;
+{ 89 (Ulna)_orientation_of_radial_facet anterolateral more_lateral_than_anterolateral;
+{ 90 (Ulna)_shape_of_radial_facet semicircular,_posterolateral_and_anteromedial_portions_subequal_in_size,_distal_border_weakly_concave comma-shaped,_posterolateral_portion_much_larger_than_anteromedial,_distal_border_sharply_concave;
+{ 91 (Ulna)_position_of_strongest_projection_of_anterolateral_crest_on_ulnar_shaft less_than_1_semilunar_notch_length_from_distal_edge_of_notch more_than_1_semilunar_notch_length_from_distal_edge_of_notch;
+{ 92 (Ulna)_surface_for_attachment_of_m._pronator_quadratus anteriorly_oriented_with_a_sharp_distomedial_border anteromedially_oriented,_distomedial_border_indistinct;
+{ 93 (Ulna)_angulation_of_distal_ulnar_articular_surfaces approximately_60_degrees_to_long_axis_of_ulna nearly_perpendicular_to_long_axis_of_ulna,_approximately_80_degrees;
+{ 94 (Ulna)_distal_radial_facet extends_onto_lateral_surface_of_distal_ulna restricted_to_anterior_surface;
+{ 95 (Ulna)_orientation_of_facet_for_triquetrum distally_and_slightly_medially medially_and_slightly_distally;
+{ 96 (Pelvis)_shape_of_rectus_tubercle rounded ovoid,_elongated_anteroposteriorly;
+{ 97 (Pelvis)_orientation_of_ventrolateral_surface_of_iliac_blade ventrolateral more_ventral_than_lateral;
+{ 98 (Femur)_fovea_for_ligamentum_teres does_not_interrupt_margin_of_articular_surface_of_femoral_head interrupts_margin;
+{ 99 (Femur)_posterolateral_extension_of_femoral_head absent present;
+{ 100 (Femur)_height_of_greater_trochanter subequal_to_than_femoral_head distinctly_taller_than_femoral_head;
+{ 101 (Femur)_posterior_projection_of_lesser_trochanter projects_posteromedially_and_does_not_extend_far_posterior_to_femoral_shaft projects_more_posteriorly,_well_posterior_to_femoral_shaft;
+{ 102 (Femur)_patellar_groove shallow_and_wide,_does_not_extend_proximally_beyond_epiphysis deeper_and_more_narrow,_extends_onto_diaphysis;
+{ 103 (Tibia)_orientation_of_lateral_condyle proximal,_posterior_end_is_not_significantly_curved_posteriorly posteroproximal,_posterior_end_curves_posteriorly;
+{ 104 (Tibia)_tibial_tuberosity_orientation anteroproximal proximal,_with_only_a_small_anterior_component;
+{ 105 (Tibia)_angulation_of_distal_tibia aligned_with_shaft,_posterior_border_of_distal_tibial_shaft_flat curved_posteriorly_relative_to_shaft,_posterior_border_of_distal_tibial_shaft_distinctly_concave;
+{ 106 (Tibia)_crest_forming_posterior_border_of_groove_for_flexor_digitorum_medialis at_posteromedial_corner_of_distal_tibia,_forms_a_sharp_ridge_in_distal_view slightly_anteriorly_shifted,_ridge_poorly_defined_in_distal_view strongly_shifter_anteriorly,_posteromedial_corner_smoothly_rounded_in_distal_view;
+{ 107 (Tibia)_length_of_lateral_portion_of_astragalar_facet much_less_than_medial_portion slightly_less_than_medial_portion;
+{ 108 (Tibia)_check_facet,_anterior_view forms_a_prominent_semicircle_on_the_anterior_surface_of_the_distal_tibia reduced_to_a_narrow_strip_at_the_far_distal_margin_of_the_anterior_surface;
+{ 109 (Tibia)_medial_malleolar_projection substantial,_malleolus_projects_well_distal_to_astragalar_facet small,_only_projects_modestly_beyond_astragalar_facet;
+{ 110 (Tibia)_orientation_of_distal_malleolar_facet distal distolateral;
+{ 111 (Tibia)_facet_on_the_anterior_surface_of_the_medial_malleolus_for_articulation_with_the_cotylar_fossa prominent_and_anteriorly_oriented prominent_and_anterolaterally_oriented poorly_defined;
+{ 112 (Astragalus)_tibial_facet_shape tibial_facet_wider_than_long tibial_facet_length_and_width_subequal tibial_facet_longer_than_wide;
+{ 113 (Astragalus)_width_of_posteromedial_extension_of_tibial_facet narrow,_less_than_half_of_total_facet_width broad,_greater_than_half_of_total_facet_width;
+{ 114 (Astragalus)_posterior_extension_of_lateral_margin_of_tibial_facet absent,_sharp_corner_at_posteriomedial_corner_of_tibial_facet present,_extends_medial_to_astragalar_foramen;
+{ 115 (Astragalus)_proximomedial_plantar_tuberosity salient,_medial_margin_of_groove_for_flexor_fibularis_well_defined low,_medial_margin_of_groove_for_flexor_fibularis_poorly_defined;
+{ 116 (Astragalus)_ectal_facet_shape broad,_particularly_posteriorly,_sides_converge_anteriorly narrow,_not_substantially_broader_anteriorly_than_posteriorly,_sides_subparallel;
+{ 117 (Astragalus)_lateral_process_formed_by_projection_of_ectal_facet_lateral_to_fibular_facet absent present;
+{ 118 (Astragalus)_medial_extension_of_sustentacular_facet absent,_sustentacular_facet_isolated_from_medial_margin_of_astragalar_neck_by_a_gutter present_but_narrow present_but_broad;
+{ 119 (Astragalus)_lateral_extension_of_sustentacular_facet absent present_but_offset_from_both_the_sustentacular_facet_and_navicular_facets present_and_confluent_with_both_the_sustentacular_and_navicular_facets;
+{ 120 (Astragalus)_malleolar_facet_on_dorsomedial_surface_of_astragalar_neck absent_or_indistinct well-defined;
+{ 121 (Astragalus)_astragalar_head_orientation_in_distal_view transverse,_long_axis_parallels_a_line_between_medial_and_lateral_trochlear_rims oblique,_long_axis_inclined_relative_to_a_line_between_medial_and_lateral_trochlear_rims,_primary_curvature_remains_more_or_less_transverse oblique,_long_axis_inclined_relative_to_a_line_between_medial_and_lateral_trochlear_rims,_primary_curvature_dorsoventral;
+{ 122 (Calcaneus)_orientation_of_endplate_of_calcaneal_tuber flat_or_nearly_flat medial_margin_projects_distinctly_posterior_to_lateral_margin;
+{ 123 (Calcaneus)_calcaneal_tuber_proportions short_and_broad longer_and_transversely_compressed;
+{ 124 (Calcaneus)_orientation_of_ectal_facet long_axis_oriented_~30_degrees_from_long_axis_of_calcaneal_tuber long_axis_oriented_~45_degrees_from_long_axis_of_calcaneal_tuber;
+{ 125 (Calcaneus)_width_of_ectal_facet relatively_constant_from_posterior_to_anterior,_posterior_end_slightly_narrowed posterior_half_much_narrower_than_anterior_half;
+{ 126 (Calcaneus)_width_of_dorsal_fibular_facet broad narrow;
+{ 127 (Calcaneus)_connection_between_sustentacular_facet_and_distal_sustentacular_facet absent,_facets_isolated_from_one_another present,_an_articular_bridge_extends_from_the_lateral_margin_of_the_sustentacular_facet_to_the_medial_margin_of_the_distal_sustentacular_facet;
+{ 128 (Calcaneus)_position_of_peroneal_tubercle does_not_reach_anterior_margin_of_calcaneum extends_to_anterior_margin_of_calcaneum;
+{ 129 (Calcaneus)_projection_at_midline_of_distal_calcaneal_body strong,_cuboid_facet_has_a_sharp_dorsal_corner_in_anterior_view weak,_dorsal_margin_of_cuboid_facet_more_gently_rounded_in_distal_view;
+{ 130 (Calcaneus)_plantar_tubercle_development flattened_and_non-projecting,_anterior_end_confluent_with_ventral_margin_of_cuboid_facet bulbous_and_projecting,_anterior_end_confluent_with_ventral_margin_of_cuboid_facet bulbous_and_projecting,_anterior_end_separated_from_ventral_margin_of_cuboid_facet_by_a_pit;
+{ 131 (Calcaneus)_cuboid_facet_proportions cuboid_facet_deeper_than_wide dorsoventral_and_mediolateral_dimensions_subequal cuboid_facet_wider_than_deep;
+{ 132 (Cuboid)_proportions_of_cuboid_calcaneal_facet approximately_twice_as_wide_(mediolateral)_as_deep_(dorsoplantar) width_only_approximately_1.5_times_length;
+{ 133 (Cuboid)_development_of_cuboid_astragalar_facet prominent_and_oriented_proximomedially small_and_oriented_directly_medially;
+{ 134 (Cuboid)_anterior_surface_of_cuboid strongly_concave weakly_concave flat_or_slightly_convex;
+{ 135 (Cuboid)_orientation_of_long_plantar_tubercle distoplantad directly_plantad;
+{ 136 (Cuboid)_shape_of_ectocuneiform_facet depth_uniform_from_dorsal_to_plantar plantar_half_shallower_(proximodistal)_than_dorsal_half;
+{ 137 (Cuboid)_accessory_ectocuneiform_facet absent present;
+{ 138 (Cuboid)_proportions_of_metatarsal_facet width_and_depth_subequal much_wider_(mediolateral)_than_deep_(dorsoplantar);
+{ 139 Dummy_character_for_outgroup_topology1 deactivated_prior_to_calculation_of_tree_statistics weight=50;
+{ 140 Dummy_character_for_outgroup_topology2 deactivated_prior_to_calculation_of_tree_statistics weight=50;
+{ 141 Dummy_character_for_outgroup_topology3 deactivated_prior_to_calculation_of_tree_statistics weight=50;
+{ 142 Dummy_character_for_outgroup_topology deactivated_prior_to_calculation_of_tree_statistics weight=50;
+{ 143 Dummy_character_for_outgroup_topology4 deactivated_prior_to_calculation_of_tree_statistics weight=50;
+;
+
+
+ccode  - 0.143;
+
+
+;

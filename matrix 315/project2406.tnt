@@ -1,0 +1,89 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 08.07.45'
+65 6
+
+&[num]
+Cercocebus             00000202220111101101111001112200010101122212110120002112112121220
+Lophocebus             22222222212102200022210100020211202210022220102101211201000000000
+Macaca                 22212020100110012112002112202222220121112002121212201120111211210
+Mandrillus             01200102212100110110012001220200022102111122200121201012121211121
+Papio                  00100021100002202020011122221000000120111222002000000000101111001
+Theropithecus          22022220002221020202220210001122200000200000101002122210220222201
+
+;
+
+
+cnames
+{ 0 Glabella-opisthocranion State_0 State_1 State_2;
+{ 1 Bregma-basion State_0 State_1 State_2;
+{ 2 Minimum_frontal_breadth State_0 State_1 State_2;
+{ 3 Biporionic_breadth State_0 State_1 State_2;
+{ 4 Glabella-bregma State_0 State_1 State_2;
+{ 5 Postglabellar_sulcus-bregma State_0 State_1 State_2;
+{ 6 Parietal_sagittal_chord State_0 State_2;
+{ 7 Parietal_lambdoid_chord State_0 State_1 State_2;
+{ 8 Lambda-inion State_0 State_1 State_2;
+{ 9 Occipital_sagittal_length State_0 State_1 State_2;
+{ 10 Foramen_magnum_max_width State_0 State_1 State_2;
+{ 11 Occipital_condyle_max_length State_0 State_1 State_2;
+{ 12 Lambda_thickness_of_parietal State_0 State_1 State_2;
+{ 13 Breadth_between_carotid_apices State_0 State_1 State_2;
+{ 14 Breadth_between_petrous_apices State_0 State_1 State_2;
+{ 15 Length_of_tympanic_plate State_0 State_1 State_2;
+{ 16 Superior_facial_height State_0 State_1 State_2;
+{ 17 Alveolar_height State_0 State_1 State_2;
+{ 18 Superior_facial_breadth State_0 State_1 State_2;
+{ 19 Bizygomatic_breadth State_0 State_1 State_2;
+{ 20 Bimaxillary_breadth State_0 State_1 State_2;
+{ 21 Anterior_interorbital_breadth State_0 State_1 State_2;
+{ 22 Orbital_height State_0 State_1 State_2;
+{ 23 Min_malar_height State_0 State_1 State_2;
+{ 24 Max_nasal_aperture_width State_0 State_1 State_2;
+{ 25 Nasal_height State_0 State_1 State_2;
+{ 26 Sagittal_length_of_nasal_bones State_0 State_1 State_2;
+{ 27 Superior_breadth_of_nasal_bones State_0 State_1 State_2;
+{ 28 Inferior_breadth_of_nasal_bones State_0 State_1 State_2;
+{ 29 Zygomaxillare-porion State_0 State_1 State_2;
+{ 30 Upper_facial_prognathism State_0 State_1 State_2;
+{ 31 Lower_facial_prognathism State_0 State_1 State_2;
+{ 32 Maxillo-alveolar_length State_0 State_1 State_2;
+{ 33 Maxillo-alveolar_breadth State_0 State_1 State_2;
+{ 34 Incisive_canal-palatomaxillary_suture State_0 State_1 State_2;
+{ 35 Upper_incisor_alveolar_length State_0 State_1 State_2;
+{ 36 Palatal_height_at_M1 State_0 State_1 State_2;
+{ 37 Upper_premolar_alveolar_length State_0 State_1 State_2;
+{ 38 Upper_molar_length State_0 State_1 State_2;
+{ 39 Canine_interalveolar_distance State_0 State_1 State_2;
+{ 40 Last_premolar_interalveolar_distance State_0 State_1 State_2;
+{ 41 Second_molar_interalveolar_distance State_0 State_1 State_2;
+{ 42 I1?mesiodistal_crown_diameter State_0 State_1 State_2;
+{ 43 I1?labiolingual_crown_diameter State_0 State_1 State_2;
+{ 44 C1?mesiodistal_crown_diameter State_0 State_1 State_2;
+{ 45 C1?labiolingual_crown_diameter State_0 State_1 State_2;
+{ 46 M3interalveolar_distance State_0 State_1 State_2;
+{ 47 Palate_depth_at_incisive_fossa State_0 State_1 State_2;
+{ 48 P4/M1_index State_0 State_1 State_2;
+{ 49 Symphyseal_height State_0 State_1 State_2;
+{ 50 Maximum_symphyseal_depth State_0 State_1 State_2;
+{ 51 Corpus_height_at_M1 State_0 State_1 State_2;
+{ 52 Corpus_width_at_M1 State_0 State_1 State_2;
+{ 53 Corpus_height_at_M3 State_0 State_1 State_2;
+{ 54 Corpus_width_at_M3 State_0 State_1 State_2;
+{ 55 Lower_premolar_alveolar_length State_0 State_1 State_2;
+{ 56 Lower_molar_alveolar_length State_0 State_1 State_2;
+{ 57 P4?mesiodistal_crown_diameter State_0 State_1 State_2;
+{ 58 P4?labiolingual_crown_diameter State_0 State_1 State_2;
+{ 59 M1?mesiodistal_crown_diameter State_0 State_1 State_2;
+{ 60 M1?labiolingual_crown_diameter State_0 State_1 State_2;
+{ 61 M2?mesiodistal_crown_diameter State_0 State_1 State_2;
+{ 62 M2?labiolingual_crown_diameter State_0 State_1 State_2;
+{ 63 P4/M1?index State_0 State_1 State_2;
+{ 64 Body_Size State_0 State_1;
+;
+
+
+ccode  - 0.64;
+
+
+;
