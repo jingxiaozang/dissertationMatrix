@@ -1,0 +1,156 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 13.05.16'
+102 36
+
+&[num]
+Tinamus_solitarius                 0000000000000000000010100000001011100010000001110011000000101100010000000?030000-?01000001000101000010
+Leipoa_ocellata                    000101000011101010000000010110011110000000000100100201001?001110010000000?021?0000111000121001000??010
+Penelope_supercilliaris            0001010000111010100000000111100111100010000001001002010020001110010000001?02100000111000121000000?1010
+Coturnix_coturnix                  0001010000111010100000000111100111101000000001001002010002001111010000001?02101002110001121000000?1010
+Chauna_torquata                    0011010110111010100001010101101010100010001000011000002022100100000001000102101000001000120100000?0100
+Anas_sibilatrix                    001101001011101010100101010110001010100100100100000001201?100100100001000?0210000000000012000001000200
+Mergus_serrator                    001101001011101010100101010110101010100100100100000000101?100100100001000?0310000000000012000001000200
+Cariama_cristata                   0111110100111100000000110000001100100110000001000000011022100100000000001?011010001100000201000101001?
+Larus_smithsonianus                1101201100011101000100010000000110011001001100000100011020000001111111100?11101002010010120002010?0001
+Recurvirostra_avosetta             1101201100010001011000011001000100011001001100000100011022000001111111100?01011002010010120002010?0001
+Charadrius_vociferous              1101001100010001011000011001000110011001001100000100011022000001111111100?01011002010010120002010?0001
+Jacana_jacana                      1101001100000000000010010000100111010001001101000100011010100020110011100?01011000110011121102100?00?1
+Thinocorus_rumicivorus             1101001100000000000010110001100110011001001101000100011012100021100111100?01011002010010121002010?00??
+Sterocorarius_longicaudus          1101201100011101000000010000000110011001001100000100011022000101111111100?11101002010010120002010?00?1
+Burhinus_superciliaris             0000001100010100000000111000000000011000001100000100011022000000111011100?0201100001001112010201010001
+Sarothrura_pulchra                 000100010101?100000010111000010110100000101010000010001011100000101000000100000100110001111010000?101?
+Heliornis_fulica                   0001101101011100000010111000010110100010101010000000001022100000111000000102000102100001111110100??00?
+Himantornis_haematopus             0000101101011100000010111000010110100010101010001010011012100000111000000?02100100110011110010000??01?
+Gallinula_chloropus                000010110101110000001001100001011010010010101000001001101210000011100000010210010211000111001010101000
+Rallus_longirostris                0100101101011100000010011000010110100100101010000010011012100000111000000101100100110001110010001??00?
+Porphyrio_flavirostris             000010110101110000001001100001011010011010101000001001101210000011100000010210010011000111101010101000
+Messelornis_cristata               01?????????????0??00???1??0?????1010?0?010101000000001102200?0001?100?0?010101??02?1?001121010000?1???
+Messelornis_nearctica              0?????????????????????????????????1??????0?01??0?0000?102200???????00???0???01??01???0??12?010000?1???
+Pellornis_mikkelseni               11????????????????????11?00001???01?00001-101?0-???0????22000??010100??-0?0?01?????100?1121?1?????1???
+Songzia_acutunguis                 01?????????????0??0?????????????10?????0?0?00??0??0??1102200?????0?00???000???1?01??0?0?12?0?0001?0???
+Psophia_crepitans                  0000[01]011010111000000101110000001211001100010100110100021??200100110000001?021010001101101201000001?010
+Parvigrus_pohli                    11-------------0------?-----01-------??0?0--0--1--1--01-??20?---?1000?--000--01--?-0--1-1-0100000-1---
+Grus_grus                          11011011010011000010111110000110211000100110000110100021??20010001001101010210100011011012100001001000
+Balearica_pavonina                 11001011010011000010111110000110211000100110000110101021??20010001001101010210100011011012100001001000
+Aramus_guarauna                    11001011010111000010111110000111211000101010100110101011??200100010011010102101000100110121100100?1000
+Eurypyga_helias                    1101011100010100000111011000001121101000[01]01001000000111022110100110011000?01011012000000120100000?0000
+Otis_tarda                         0100011100111100000010010000001110100100001001100000001022000100010001000?0200100001100010110001010000
+Rhynochetos_jubatus                11010011000111000001101110000001111000000010010000100010??210100110001000?02101012000000120100000?001?
+Australlus_gagensis                ???????????????????????????????????????????010?0???????????0??00???0??????????????????????????????????
+Australlus_disneyi                 ????????????????0?00???????????????????????010?0?????????????0??????????????????????????121?1?????????
+Itardiornis_hessae                 ??????????????????????????????????????????0010?0???????????0?000?1?0?0?0???????????????112101?????????
+
+;
+
+
+cnames
+{ 0 1._Nostrils:_schizorhinal,_i.e.,_caudal_margin_slit-like_and_extending_caudally_to_naso-frontal_hinge: no yes;
+{ 1 2._Nostrils:_Nares_extend_posteriorly_beyond_anterior_border_of_antorbital_fenestra: no yes;
+{ 2 3._Palate,_processus_maxillopalatini_of_ossa_maxillaria_fused_along_their_midline: no yes;
+{ 3 4._Lacrimal,_well_developed_descending_process,_which_touches_or_nearly_touches_the_jugal_bar: yes no;
+{ 4 5._Lacrimal,_caudally_projecting_processus_supraorbitales: absent present laterally_projected;
+{ 5 6._Ectethmoid:_greatly_reduced_or_lost: no yes;
+{ 6 7._Palatine,_well_developed_crista_ventralis: absent present;
+{ 7 8._Palatine,_pars_lateralis: absent_or_very_small present_and_well_developed;
+{ 8 9._Palatine,_completely_fused_along_midline: no yes;
+{ 9 10._Pterygoid,_rostral_end_markedly_widened: no yes;
+{ 10 11._Vomers,_caudal_ends_not_fused,_more_or_less_deeply_cleft: yes no;
+{ 11 12._Vomers_mediolaterally_wide: yes no;
+{ 12 13._Vomers_forming_a_midline,_narrow,_and_dorsoventrally_high_lamella: no yes;
+{ 13 14._Basipterygoid_articulation_in_adulthood: present absent;
+{ 14 15._Basipterygoid_process,_facet_for_articulation_with_pterygoid_large_and_ovoid: no yes;
+{ 15 16._Frontal,_dorsal_surface_with_marked_depressions_for_supraorbital_salt_glands: absent present;
+{ 16 '17. Cranium, basiparasphenoid plate inflated, rounded, broad, and meeting the parasphenoid rostrum at a very acute angle; ostia canalis carotici et opthalmici externi situated in a well- marked depression:' no yes;
+{ 17 18._Laterosphenoid,_large_opening_dorsocaudally_of_foramen_n._maxillomandibularis: absent_or_rudimentary present;
+{ 18 19._Cranium,_fonticuli_occipitales_in_adult_birds: absent present;
+{ 19 20._Fossa_temporalis: short_and,_in_caudal_view,_separated_by_wide_space deep,_meeting_or_nearly_meeting_at_level_of_the_cerebellar_prominence;
+{ 20 21._Pila_otica_with_cluster_of_small_pneumatic_openings: no yes;
+{ 21 22._Processus_zygomaticus: present,_variably_developed absent_or_vestigial;
+{ 22 23._Quadrate,_processus_oticus,_capitulum,_pneumatic_foramen_on_caudal_face,_status: absent present;
+{ 23 24._Quadrate,_processus_oticus,_two_well-separated_heads_for_articulation_with_os_squamosum_and_os_prooticum: absent present;
+{ 24 25._Quadratum,_condylus_medialis,_marked,_rostrally_projecting,_concave_articular_surface: absent present;
+{ 25 '26. Quadrate, condylus lateralis, large and with greatest extension in mediolateral direction; articular surface of mandible, ?with single anteroposterior [¼ rostrocaudal ] ridge? and ?lacking posteromedial [¼ caudomedial] and lateral walls?:' no yes;
+{ 26 27._Quadrate,_processus_orbitalis,_narrowing_sharply_towards_its_rostral_end,_markedly_thin,_with_pointed_end: absent present;
+{ 27 28._Mandible,_long_and_strongly_mediolaterally_compressed_processus_retroarticularis: absent present;
+{ 28 29._Mandible,_processus_medialis,_long,_narrow,_and_dorsally_oriented: no yes;
+{ 29 30._Mandible,_caudal_end_of_with_narrow,_dorsally_projecting_hook-like_projection: absent present;
+{ 30 31._Axis,_corpus_with_pneumatic_foramina_on_lateral_sides: no yes;
+{ 31 32._Axis,_processus_costales: present absent;
+{ 32 '33. Number of presacral vertebrae (all vertebrae cranial to synsacrum; ordered):' 18-19 20-22 23_or_more;
+{ 33 34._Several_thoracic_vertebrae_fused_to_a_notarium: no yes;
+{ 34 35._Thoracic_vertebrae: at_least_part_of_series_with_subround,_central_articular_surfaces_(e.g.,_amphicoelous/opisthocoelous)_that_lack_the_dorsoventral_compression_and_saddle-shaped_articular_surface_seen_in_heterocoelous_vertebrae series_completely_heterocoelous;
+{ 35 36._Caudalmost_praesacral_vertebrae_with_deep_lateral_excavations: no yes;
+{ 36 37._Synsacrum,_foramina_intertransversaria: absent_or_few_foramina_present well_developed;
+{ 37 38._Preacetabular_and_acetabular_synsacrum,_ventral_face,_ventral_sulcus_of_synsacrum: present lost_or_barely_discernable;
+{ 38 39._Ribs,_proximo-ventral_face,_pneumatic_foramen_between_tuberculum_and_capitulum: absent present;
+{ 39 40._Furcula,_processus_acromialis_long_and_slender: no yes;
+{ 40 41._Scapula,_tubercle_on_costal_surface_at_cranial_end: absent present;
+{ 41 42._Scapula,_large_pneumatic_foramen_on_medial_surface: absent present;
+{ 42 43._Coracoid,_scapular_facet: shallow cuplike;
+{ 43 44._Coracoid,_facies_articularis_clavicularis_dorsoventrally_wide_and_roofing_the_sulcus_supracoracoideus,_insertion_of_ligamentum_acrocoracoprocoracoideum_well_developed_and_strongly_ventromedially_protruding no yes;
+{ 44 45._Coracoid,_processus_procoracoideus_extending_as_a_sharp_crest_along_midline_of_shaft_(crista_procoracoidei_of_Livezey,_1998): absent present;
+{ 45 46._Coracoid,_foramen_nervi_supracoracoidei: present absent;
+{ 46 47._Coracoid,_pneumatic_foramen_directly_below_facies_articularis_scapularis_which_does_not_penetrate_shaft: absent present;
+{ 47 48._Coracoid:_shaft_stout_with_midesection_measuring_more_than_1/3_width_of_extremitas_sternalis: no yes;
+{ 48 49._Coracoid,_impressio_musculi_sternocoracoidei_on_dorsal_surface_of_extremitas_sternalis_with_pneumatic_foramina: no yes;
+{ 49 50._Coracoid,_dorsal_view,_extremitas_sternalis_forming_three_pointed_projections: absent present;
+{ 50 51._Sternum_extremely_elongate_and_very_narrow: no yes;
+{ 51 52._Sternum,_spina_interna_rostri: absent present present_and_fused_to_spina_externa;
+{ 52 53._Sternum,_sulci_coracoidei_crossed: no yes;
+{ 53 54._Sternum,_well-developed,_blade-like_spina_externa_rostri: absent present;
+{ 54 55._Sternum,_number_of_processus_costales_(ordered): 3-4 5-6 7-8;
+{ 55 56._Sternum,_facies_visceralis_with_numerous_pneumatic_foramina_along_midline_and_lateral_margins: no yes;
+{ 56 57._Sternum:_Body_of_sternum,_caudal_margin,_incisura_and_fenestra_caudolateralis_(if_present),_cranial_extent: elongate,_length_of_incisura_and_fenestra_greater_than_2/3_craniocaudal_length_of_corpus_sterni,_approaching_terminis_caudalis_of_processus_costales_sterni intermediate-length_of_incisura_and_fenestra_between_1/3_and_2/3_of_craniocaudal_length_of_corpus_sterni abbreviate--length_of_incisura_and_fenestra_less_than_1/3_craniocaudal_length_of_corpus_sterni;
+{ 57 58._Body_of_sternum,_caudal_margin,_trabecula_caudolateralis_(if_present),_caudal_terminal_margin: (sub)acuminate,_variably_oriented cruciate,_with_terminal,_transverse_pila rounded_or_(sub)rectangular,_often_obliquely_aligned;
+{ 58 59._Sternum,_caudal_margin: with_four_notches/fenestrae with_two_notches/fenestrae without_notches/fenestrae;
+{ 59 60._Humerus,_crista_bicipitalis,_aspect_of_the_ventral_border_of_the_proximal_end_of_humerus,_caudal_view: rounded_or_continuously_curving squared_off;
+{ 60 61._Humerus,_long_and_narrow_accessory_scar_for_m._supracoracoideus: absent present;
+{ 61 62._Humerus,_foramina_pneumatica_at_bottom_of_fossa_pneumotricipitalis: absent present;
+{ 62 63._Humerus,_incisura_capitis: not_as_follows enclosed_by_distal_projection_of_caput_humeri closed_by_transverse_ridge;
+{ 63 64._Humerus,_marked_and_well-developed_fossa_pneumotricipitalis_dorsalis: no yes;
+{ 64 65._Humerus,_tuberculum_dorsale_greatly_elongated_proximo-distally: no yes,_tuberculum_dorsale_at_least_1.5_times_as_long_as_it_is_wide;
+{ 65 66._Humerus,_caudal_surface_of_proximal_shaft_with_centrally_positioned,_raised_muscle_attachment_scar_for_m._latissimus_dorsi,_pars_caudalis: absent present;
+{ 66 67._Humerus,_proximal_section_of_shaft_with_triangular_cross_section: no yes;
+{ 67 68._Humerus,_processus_supracondylaris_dorsalis_greatly_elongated_proximo-distally: absent present;
+{ 68 69._Ulna,_distinctly_exceeding_humerus_in_length: no yes;
+{ 69 70._Ulna,_proximal_end_dorsoventrally_compressed_and_cranioventrally_inflected: yes no;
+{ 70 71._Ulnare,_tuberculum_at_area_of_insertion_of_ligamentum: no yes;
+{ 71 72._Carpometacarpus:_marked_ridge_between_processus_pisiformis_and_trochlea_carpalis: absent present;
+{ 72 73._Carpometacarpus,_metacarpal_III_strongly_bowed,_delimiting_a_large_spatium_intermetacarpale: no yes;
+{ 73 74._Alula,_bearing_small_claw: absent present;
+{ 74 75._Manual_phalanx_II-1: not_perforated perforated;
+{ 75 76._Pelvis,_number_of_vertebrae_ankylosed_in_synsacrum_(ordered): 11-12 13-14 15-16 17-18;
+{ 76 77._Pelvis,_cristae_iliacae_dorsales_largely_or_completely_fused_dorsally_with_crista_spinosa_of_synsacrum,_thus_forming_a_closed_canalis_iliosynsacralis: no yes;
+{ 77 78._Pelvis,_iliac_blades_and_synsacrum: fused unfused;
+{ 78 79._Pelvis,_tuberculum_praeacetabulare: large absent_or_vestigal;
+{ 79 80._Pelvis,_ala_postacetabularis_ilii,_with_laterally_and_directly_downturned_flange_near_midpoint: no yes;
+{ 80 81._Pelvis,_with_deep_incisura_marginis_caudalis_in_which_the_spinae_dorsolateralis_ilii_reach_almost_as_far_caudally_as_the_processus_terminalis_ischii: absent present;
+{ 81 82._Pelvis,_ischium,_processus_terminalis_ischii,_straight,_thin,_elongate_and_caudally_tapered_to_a_subrectangular_terminus: no,_processes_truncate_or_essentially_absent yes no,_processes_elongate_but_not_as_described;
+{ 82 83._Pelvis,_deeply_excavated_recessus_caudalis_fossae: absent present;
+{ 83 84._Femur,_crista_trochanteris_markedly_projected_cranially: no yes;
+{ 84 85._Femur,_pneumatic_foramen_on_cranio-lateral_side_of_proximal_end: absent present;
+{ 85 86._Tibiotarsus,_prominent_tubercle_latero-distal_to_pons_supratendineus_(or_corresponding_area_in_taxa_without_supratendinal_bridge): absent present;
+{ 86 87._Tibiotarsus,_distal_rim_of_condylus_medialis_distinctly_notched: no yes;
+{ 87 88._Tarsometatarsus,_arcus_extensorius_(ossified_retinaculum_extensorium_tarsometatarsi): absent present;
+{ 88 89._Tarsometatarsus,_hypotarsus_with_well-developed_cristae/sulci: no yes;
+{ 89 90._Tarsometatarsus,_crista_medialis_hypotarsi: absent reduced_to_proximodistally_short_lamella strongly_developed;
+{ 90 91._Tarsometatarsus,_hypotarsus,_tendon_of_musculus_flexor_digitorum_longus_enclosed_in_bony_canal: no yes;
+{ 91 92._Tarsometatarsus,_trochlea_metatarsi_II_plantarly_deflected_and_distal_end_reaching_much_less_far_distally_than_distal_end_of_trochlea_metatarsi_IV: yes no;
+{ 92 93._Tarsometatarsus,_hypotarsus,_furrow/canal_for_tendon_of_musculus_flexor_perforatus_digiti_II_marked_and_laterally_bordered_by_a_proximodistally_long_and_plantarly_protruding_crista_lateralis: absent present;
+{ 93 94._Tarsometatarsus,_fourth_and_third_phalanx_of_fourth_toe,_relative_length_(ordered): fourth_phalanx_longer both_phalanges_of_equal_length fourth_phalanx_shorter;
+{ 94 95._Three_anterior_toes_notably_elongated: absent present;
+{ 95 96._Hallux: not_as_follows greatly_reduced_(proximal_phalanx_very_short,_measuring_less_than_half_of_the_length_of_the_proximal_phalanx_of_third_toe)_or_completely_absent;
+{ 96 97._Hallux,_bowed no yes;
+{ 97 98._Musculus_caudofemoralis,_pars_caudalis_(?A?_muscle_in_the_formula_of_George_and_Berger,_1966,_Tab._IX.1): present absent_or_poorly_developed;
+{ 98 99._Intratendinous_ossification_in_hindlimbs: absent present;
+{ 99 100._Upper_beak,_lamellae_for_filter_feeding_(ordered): absent vestigial well_developed;
+{ 100 101._Wing: diastataxic eutaxic;
+{ 101 102._Enzyme_malate_dehydrogenase_with_unusually_slow_motility_(55%_as_fast_as_that_of_galliform_birds): no yes;
+;
+
+
+ccode  - 0.31 33.53 55.74 76.92 94.98 100.101 + 32 54 75 93 99;
+
+
+;

@@ -1,0 +1,158 @@
+nstates num 24;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 13.11.49'
+77 63
+
+&[num]
+Pillsburyaxius_clevai                   12---000200001?000---0100000-0000001101-0023?2?0-?0012--01110?000100000000200
+Eiconaxius_agassizi                     12---000000001?000---0100000-0000001101-0020?2?0-?0002--01110?000100001000200
+Heardaxius_rogerbamberi                 00103005100100?0010011120000-2000010000F0020?2?11?00004101110?000001001005000
+Thomassinia_aimsae                      00103005100101?0010011120000-70011-0000F0020?2?11?0032--012--?000001001000000
+ANACALLIAX_argentinensis                00000015000100?0010011001000-70001-1000H0020?2?12??0?00101111?000202101020040
+ANACALLIAOPSIS_agassizi                 00000015000100?0010011001000-70001-1000H0020?2?12??0200101111?000202101020040
+BATHYCALLIAX_geomar                     00000015110110?0011011021001-2101010030B0023?2?11?002081012--?000??2001006000
+VULCANOCALLIAX_arutyunovi               00000015100110?0011011021001-21011-0030H0025?2?11?002?--012--?000102001006000
+CALLIANOPSIS_goniophthalma              00000014000110?01110110010010?1011-100020025?2?11??0200001110?000102001009000
+PLEUROCALLIAX_caecigena                 00000014000110?01110110?100?-?1011-100020025?2?11?00??--???---000102?01009000
+PHAETONCALLIAX_mauritana                00000014000110?0111011001001021011-100020025?2?11?00200001110?00010?001009000
+NEOCALLIANOPSIS_anovalis                00000014000110?0111011001001021011-100020025?2?11?00?00001110?000??2001009000
+PARACALLIAX_bollorei                    00100015000000?011101100100002000000000B0023?2?10?002?--???---010002001005000
+CTENOCHELES_balssi                      0012001300010000011111001000000001-1040G000?02?10?00101101110?000101001106000
+CTENOCHELOIDES_attenboroughi            0012001510010010010011001000210001-1040G000102?10?001?--???---000101001006000
+Boucheti                                0012001510010010010011001000210001-1040G000??2?10?00101101110?000101001006000
+Almeidai                                0012001510010010010011001000200001-1040G000102?10?001?--???---000101001006000
+KIICTENOCHELOIDES_nomurai               0012000510010010010011001000000001-1050G002102?10?00101101110?00???1001006000
+LAURENTGOURRETIA_rhopalommata           00000002100101?0010011001000100001-10??-???002?11?0010110112-0?????1001125000
+DAWSONIUS_latispina                     00000012100101?0110011001000000001-10602003512?1120010C10112-0000101001006000
+Aff._latispina                          00000012100101?0110011001000000001-10602003512?1120010C10112-0000101001006000
+PARAGOURRETIA_phuketensis               00000012100101?0010011001000000000010602003512111100?0??0112-0?????1001006000
+Lahouensis                              000000?5100101?001001100100000000001060200351211110010B00112-0000101001006000
+Laevidactyla                            00000012100101?00100110010000000000106020035121111001?--???---000101001126000
+Coolibah                                00000015100101?001001100100000000001060200351211110010B10112-0000101001126000
+TUERKAYGOURRETIA_galathea               00000012100101?00100110?1000000000010602003512111100?0B10112-0?????1001126000
+HETEROGOURRETIA_aungtonyae              00000002100101?001001100100000000001060200351211110012--0112-?0005?1001126000
+Biffari                                 00000015100101?01100110010000000000106020035121111001?--0112-0000101001126000
+ULLZ-10134                              00000012100101?0010011001000000000010?0?00???2?111001?--0112-0000101001126000
+PSEUDOGOURRETIA_portsudanensis          00000015100101?00100110?1000000000010?0?00???2?1110010B101?--?0???????1??????
+GOURRETIA_denticulata                   00000002100101?001001100100000000001050201251201100010B10112-1000101001006000
+IVORYGOURRETIA_barracuda                00000005100101?001001100100000000001050201251201100010B10112-1000101001006000
+PLANTESGOURRETIA_nosybeensis            00000002100101?0010011021000000000?1050201251201100010B10012--000101001006000
+RUIYULIUGOURRETIA_sinica                00000002100101?001001102100000000001050201251201100010B10012--000121001006000
+Zarenkovi                               00000002100101?00100110010000000000105020125120110???0B1???---??????001006000
+Laresi                                  00000002100101?001001102100000000001050201251201100010B10112-10001?1001006000
+Manihinae                               00000002100101?00100110010000000000105020125120110001?--???---00???1001006000
+ULLZ-9707                               00000002100101?00100110?1000-00000010??-?????2??-0????--???---000101001006000
+ANDAMANCALLIAX_andamanica               000000051001?0??0100110?1001-?111??1000F0020?2?12???205101310?000102001018000
+PSEUDOCALLIAX_tooradin                  00000005101110?0010011011001-2111001010F0020?0?11?0020A1012--?000122001018000
+EUCALLIAX_quadracuta                    00000105100110?0010011011010-21111-1010F1020?2?12?01205105401?100122041017041
+PARAGLYPTURUS_calderus                  00000005100110?0010011011001-2111001010F0020?2?12?01205001110?000102001018000
+Tonganus                                00000005100110?0010011011001-2111001010F0020?2?12?0?205001110?000102001018000
+CALLIAXINA_punica                       00000005110110?1010011011010-2111001030F0026?2?12?01205001310?000102001018000
+Sakaii                                  00000005110110?1010011011010-2111001030F0026?2?12?01205001310?000102001018000
+Novaebritanniae                         00000005110110?1010011011010-2111001030F0026?2?12?01205101310?000102001018000
+Kensleyi                                00000005110110?1010011011010-2111011030F0026?2?12?01205101310?000102001018000
+Bulimba                                 00000005110110?1010011011010-2111011030F0026?2?12?01205101310?000102001018000
+Xishaensis                              000000?5110110??010011011010-2111001030F0026?2?12?012?--???---000102001018000
+EUCALLIAXIOPSIS_cearaensis              000000051?0110??010011011010-21111-1010F0020?2?12?01205101311?000102?01017041
+Panglaoensis                            00000005110110?0010011011010-21111-1010F0020?2?12?01205101311?100122001017041
+Aff._panglaoensis                       00000005110110?0010011011010-21111-1010F0020?2?12?01205101311?100122001017041
+BAKERCALLIAX_aequimana                  00000105110110?0010011011010-21111-1030F0020?2?12?01204101311?000122001017041
+Inaequimana                             00000105110110?1010011011010-21111-1010F0020?2?12?01205101311?000102001017041
+PNG-1153C                               00000005110110?0010011011010-21111-1010F0020?2?12?01205101311?000102001017041
+CALLIAXIOPSIS_madagassa                 00000105110110?0010011011010-2111001010F0020?2?12?0020?101311?10??22001017041
+HEARDCALLIAX_jonesi                     00000005110110?1010011011010-21111-1010F0020?2?12?01205101311??00102001017041
+MANNINGCALLIAX_mcilhennyi               00000105110110?1010011011010-21111-1010F0020?2?12?01205101311?000102001017041
+CALLIAX_lobata                          00000005100110?0010011011000-21111-1010F0020?1?11?00209100311-000122001018000
+Doerjesti                               00000015100110?0010011011000-21111-1010F0020?1?11?00209100311-000122001018000
+Tulearensis                             00000005100110?0010011011000-21111-1010F0020?1?11?00209???31?-000122001018000
+FAMILY_callichiridae                    0011100?100130?00?00?1??10?015??0?11000[01567ACDE]002??2?1???02?210??10-000?????101[012347A]0??
+FAMILY_callianassidae                   0010300?1001?0?0010??10211?004?001-100?[34589IJKL]0021?2?1??002?11?0?---000523??1010??0
+
+;
+
+
+cnames
+{ 0 carapace_<shape_LOWER> cylindrical,_without_gastric_c more_or_less_laterally_flatten;
+{ 1 linea_thalassinica_<LOWER> extending_length_of_carapace very_short absent;
+{ 2 suture_between_ocular_lobe_and horizontal_in_lateral_view oblique_in_lateral_view;
+{ 3 anterior_branchiostegal_margin sinusoidal_or_semicircular interupted_by_an_oblique_scler with_deep_obtuse_notch_leading;
+{ 4 anterior_branchiostegal_lobe_< simple,_scarcely_calcified,_me sclerotised,_well_produced_ant sclerotised,_merging_smoothly;
+{ 5 anterior_dorsal_carapace_<LOWE smooth with_median_ridge_posterior_to;
+{ 6 cardiac_prominence_<LOWER> absent present;
+{ 7 rostrum_<LOWER_CALLICHIRIDAEl broad,_with_lateral_ridges_run spine-like sharply_triangular,_produced_t blade-like,_produced_anteriorl acute,_produced,_with_dorsal_r obsolete_or_obtusely_triangula acute,_anteriorly_directed,_as acute,_reaching_middle_of_corn;
+{ 8 carapace,_median_carina_<LOWER strong_on_rostrum,_weaker_more absent present_as_ridge_or_row_of_spi;
+{ 9 cardiac_sulci_<LOWER> absent present;
+{ 10 sternite_7_and_pereopod_5,_cox glabrous densely_setose;
+{ 11 carapace-pleon_<interaction_LO interacting_by_means_of_median not_interacting,_carapace_post;
+{ 12 pleomere_1_tergite_<transverse undivided_or_with_weak_transve fused,_divided_into_2_sections divided_into_2_sections_by_uns sections_variously_separated;
+{ 13 pleomere_1_anterior_section_<L without_anterior_section_taper with_anterior_section_domed,_t;
+{ 14 pleomeres_1_and_2_together_<le half_as_long_as_pleomeres_35 long_as_pleomeres_35;
+{ 15 pleomere_1_<sternite_LOWER> without_sternal_plates with_pair_of_sternal_plates_an;
+{ 16 pleomere_6_<incisions,_lateral without_lateral_projections with_lateral_projections;
+{ 17 eyestalk_<shape_LOWER_CALLICHI cylindrical,_with_round_termin flattened_and_contiguous;
+{ 18 eyestalk_<lateral_ridge_LOWER> without_lateral_longitudinal_r with_lateral_longitudinal_ridg;
+{ 19 cornea_<pigmentation_LOWER_CAL well-defined,_pigmented with_scattered_reduced_pigment;
+{ 20 eyestalk_distal_lobes_<LOWER_C absent rounded,_largely_contiguous extremely_elongate acute,_apices_separate obsolete,_truncate triangular,_apices_separate obliquely_truncated,_apices_di contiguous,_produced_and_taper;
+{ 21 antennular_peduncle_articles_2 with_2_single_similar_rows_of similar,_each_about_as_long_as with_lateral_band_(3-5_setae_w longer_than_wide,_either_artic with_single_lateral_row_of_6-1;
+{ 22 antennular_peduncle_<relative twice_as_long_as_antennal_pedu shorter_than_antennal_peduncle exceeding_antennal_peduncle_by longer_than_antennal_peduncle about_as_long_or_little_longer exceeded_by_all_or_most_of_ant;
+{ 23 antennal_scaphocerite_<LOWER_C elongate,_longer_than_wide,_wi small,_discoid vestigial;
+{ 24 maxilla,_scaphognathite_<LOWER with_long_seta_on_posterior_lo without_long_seta_on_posterior;
+{ 25 maxilliped_1_epipod_<LOWER> with_acute_distal_(anterior)_l truncate,_without_distal_(ante;
+{ 26 maxilliped_3_ischium_and_merus narrow,_more_than_twice_as_lon broad,_less_than_twice_as_long;
+{ 27 maxilliped_3_ischium_<LOWER> linear_or_wider_distally_than with_strong_proximal_lobe_on_l;
+{ 28 maxilliped_3_merus_<spines_LOW with_1_mesiodistal_spine with_2_or_more_mesiodistal_spi with_mesial_spine_at_midpoint;
+{ 29 maxilliped_3_crista_dentata_<L a_prominent_toothed_ridge_exte weakly_developed,_with_few_wid a_row_of_numerous_denticles of_few_separate_spines_proxima variable_(absent_to_prominent variable_(absent_to_row_of_spi of_few_proximal_spines absent;
+{ 30 maxilliped_3_palp_<LOWER> linear,_propodus_longer_than_w expanded,_propodus_shorter_tha;
+{ 31 maxilliped_3_propodus_<shape_L longer_than_wide,_lower_margin about_as_wide_as_long;
+{ 32 maxilliped_3_dactylus_<shape_L slender,_digitiform,_with_seta dilating,_truncate,_with_dense;
+{ 33 maxilliped_3_<exopod_LOWER_CAL with_exopod without_exopod;
+{ 34 maxilliped_3_exopod_<LOWER_CAL multiarticulate,_reaching_to_a vestigial;
+{ 35 epipods_<LOWER_CALLICHIRIDAE_C present_on_maxilliped_3_to_per absent_from_maxilliped_3_to_pe;
+{ 36 pereopods_1-4_<LOWER> flattened,_propodus_of_pereopo cylindrical,_propodus_of_pereo;
+{ 37 <chelipeds_LOWER> major_cheliped_broad,_minor_ch major_chela_of_male_with_palm both_chelipeds_with_palms_as_l major_cheliped_with_barrel-sha major_cheliped_broad,_with_sho major_cheliped_broad,_with_tap;
+{ 38 male_major_cheliped_merus_<hoo with_spine_or_tooth_or_various without_prominent_hook_or_spin;
+{ 39 male_major_cheliped_merus_<arm with_sinuous_lower_margin,_wid with_lower_margin_almost_strai with_straight_or_weakly_convex with_proximal_perpendicular_sp with_oblique_spine_about_third with_blade_dentate_over_lower with_convex_tuberculate_blade with_proximal_tubercle_bearing with_simple_proximal_hook_on_l with_prominent_truncate_hook_a lower_margin_convex_or_blade_l lower_margin_straight,_irregul with_denticulate_blade_on_lowe with_prominent_proximal_dentic with_row_of_sharp_oblique_spin lower_margin_curved,_with_few with_oblique_spine_near_midpoi with_1-2_small_proximal_teeth with_proximal_curved_spine_on with_1-3_oblique_similar_short with_2_or_3_proximal_similar_t with_serrate_blade_over_lower with_proximal_blunt_denticulat with_1_or_2_small_teeth_just_b;
+{ 40 major_cheliped_carpus_<LOWER> upper_margin_apex_rounded_or_s upper_margin_with_2_distal_sha;
+{ 41 major_cheliped_carpus_<basal> proximal_and_lower_margins_obl proximal_and_lower_margins_con;
+{ 42 major_cheliped_propodus_<Cteno swollen,_with_fine_pectinate_f rectangular,_fingers_stout,_fi rectangular,_fingers_fine,_fix;
+{ 43 minor_cheliped_merus_lower_mar smooth with_spine_at_or_near_midpoint with_blade-like_row_of_teeth with_row_of_spines with_proximal_spine with_erect_proximal_spine_(as with_2-4_proximal_short_trunca;
+{ 44 minor_cheliped_propodus cylindrical,_slightly_swollen tapering,_about_3_times_as_lon;
+{ 45 minor_cheliped_fingers_<gape_L with_wide_gape,_without_tooth with_wide_gape,_with_tooth_at closing_along_length;
+{ 46 minor_cheliped_fingers_<LOWER> evenly_tapering,_straight,_dac evenly_tapering,_curved_distal;
+{ 47 pereopods_<3-5_shape,_spinatio 3-5_with_linear_propodi,_propo 3_with_more_or_less_expanded_p;
+{ 48 pereopod_3_propodus_<shape_CAL elongate-oval,_tapering,_witho elongate-oval subpentagonal,_with_strong_bro oval,_lower_margin_slightly_co rectangular,_lower_margin_deep oval,_lower_margin_convex,_not bean-shaped,_lower_margin_conc linear,_without_lobe_on_lower linear,_elongate;
+{ 49 pereopod_3_propodus_<gourretii oval,_little_longer_than_wide, linear,_longer_than_wide,_with triangular,_with_straight_uppe;
+{ 50 pereopod_4_<LOWER_CALLICHIRIDA simple,_distally_rounded_on_lo subchelate,_fixed_finger_short minutely_chelate,_fixed_finger;
+{ 51 pereopod_4_propodus_<setae_on without_elongate_setae_on_uppe with_2_elongate_stiff_setae_di;
+{ 52 pereopod_5_<LOWER> simple semichelate_(fixed_finger_clos chelate,_finger_closing_comple subchelate,_fixed_finger_and_d;
+{ 53 male_pleopod_1_<articles_LOWER of_2_articles of_1_article absent slender_with_distomesial_obliq;
+{ 54 male_pleopod_1_<shape_LOWER> article_2_triangular,_with_lob article_2_simple,_tapering,_wi article_2_blade-like,_apically article_2_spoon-shaped article_2_longer_than_article article_1_with_distal_long_set linear,_bent,_with_lobed_apex flagellate article_2_curved,_simply_curvi stout,_article_1_setose,_artic article_2_with_sharp_distomesi article_2_with_lobed_distomesi;
+{ 55 male_pleopod_1_<appendix_inter with_appendix_interna_(at_leas without_appendix_interna separate_fused_elongate_rods;
+{ 56 male_pleopod_2_<LOWER_CALLIANA present absent;
+{ 57 male_pleopod_2_appendix_intern absent digitiform free,_articulating,_distal_on absent_or_reduced_to_obsolete apparent_only_as_field_of_hook minute;
+{ 58 male_pleopod_2_appendix_mascul a_distal_or_subdistal_lobe_som a_lobe_fused_with_appendix_int not_differentiated_from_endopo a_lobe_fused_to_appendix_inter 4_times_as_long_as_wide,_attac;
+{ 59 male_pleopod_2_appendix_mascul_-_2 4_times_as_long_as_wide,_attac longer_than_wide,_attached_mes 1-1.5_times_as_long_as_wide,_a;
+{ 60 male_pleopod_2_appendix_mascul_-_3 not_reaching_tip_of_endopod reaching_or_exceeding_tip_of_e;
+{ 61 male_pleopod_2_appendices_<LOW on_midmesial_margin,_not_overl on_distomesial_margin,_level_w;
+{ 62 female_pleopod_1_peduncle_<LOW curved,_ramus_attached_distall straight,_produced_beyond_dist;
+{ 63 female_pleopod_1_<LOWER> with_single_narrow_ramus with_broad_expanded_ramus;
+{ 64 female_pleopod_2_<CALLICHIRIDA biramous uniramous;
+{ 65 female_pleopod_2_<rami_CALLICH rami_both_broad,_endopod_trian rami_elongate-oval,_endopod_ha rami_narrow,_endopod_about_thi endopod_flattened,_more_or_les endopod_flattened,_with_distal rami_styliform;
+{ 66 female_pleopod_2_appendix_inte present_as_lobe_with_terminal visible_as_hooks_only absent;
+{ 67 pleopods_3-5_<LOWER_CALLICHIRI with_linear_peduncles_not_meet peduncles_squarish,_endopods_e peduncles_broader_than_long,_m peduncles_barely_contiguous,_i peduncles_contiguous,_inner_ma;
+{ 68 Pleopods_3-5_appendices_intern longer_than_broad,_clearly_eme barely_emerging_from_endopod_m;
+{ 69 uropodal_endopod_<shape_CALLIC ovate,_almost_symmetrical,_ant with_straight_or_slightly_conv with_convex_anterior_margin,_a strap-like,_posterior_margin_c triangular,_anterior_margin_st ovoid,_usually_longer_than_wid asymmetrical,_at_least_as_wide asymmetrical,_straight_or_conc;
+{ 70 uropodal_exopod_<LOWER> with_2_articles with_single_article;
+{ 71 uropodal_exopod_distal_notch_< absent present;
+{ 72 uropodal_exopod_<dorsal_plate with_elevated_dorsal_plate_wit without_any_indication_of_a_do with_distal_marginal_setal_row with_dorsal_plate,_indicated_b with_distal_setose_margin_divi;
+{ 73 telson_<sides/shape_CALLICHIRI tapering_from_greatest_width_n converging_to_about_half_basal strongly_diverging_to_beyond_m thickened,_with_constriction_o with_convex_lateral_margins_an mostly_parallel-sided,_with_ro parallel-sided_over_anterior_h convex-sided,_widest_near_midp widest_anteriorly,_more_or_les widest_basally_over_anterior_t parallel-sided_over_most_of_le converging_to_about_half_maxim;
+{ 74 telson_lateral_margin_<spines unarmed with_pair_(or_2_pairs)_of_post armed_with_teeth;
+{ 75 telson_posterior_margin_<CALLL straight_or_convex_between_tap straight_or_with_slight_medial trilobed,_excavate_each_side_o with_medial_notch_at_end_of_lo slightly_excavate broadly_semicircular concave_between_rounded_poster convex,_with_medial_lobe;
+{ 76 telson_<ridges_CALLICHIRIDAE_L smooth_dorsally with_transverse_crest with_transverse_row_of_robust;
+;
+
+
+ccode  - 0.76;
+
+
+;

@@ -1,0 +1,84 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 13.10.12'
+51 15
+
+&[num]
+Hamamelis_virginiana              00000?0000000000100000000??1?10001?0-000000000?0010
+Exbucklandia_populnea             01112?0?10000000100010?00?????1101?1-000000010?0210
+Microaltingia_apocarpela          ??????1?11?????00001110??0?0?02?1001100?0?0??????0?
+Protoaltingia_comoxense           ??????1?11?????????2?????101002111021??0?1211????02
+Altingia_chinensis                100010111110101101111001110101212202111020211101101
+Altingia_excelsa                  000010111110101101111001110101212112111010211101110
+Altingia_poilanei                 100010111110101101111001110101212232111000211101100
+Altingia_gracilipes               10001011111010110111100111010?212121111010211101110
+Altingia_siamensis                000010111110101101111001111100212121111010211101110
+Liquidambar_changii               ????????11?????????101000000012112020?112021110??01
+Liquidambar_acalycina             011120111211011101110100000000211202011120211101101
+Liquidambar_formosana             011120111211011101120110000011211202011121111111101
+Liquidambar_orientalis            011121111111011101120101100111211103011111111111101
+Liquidambar_styraciflua           011121111111011101120101100111211202011121111111101
+Liquidambar_fujianensis           1???011112?????????2000110?110?11102101?11011????0?
+
+;
+
+
+cnames
+{ 0 Leaf_texture chartaceous coriaceous;
+{ 1 Leaf_lamina_length/width_ratio >3:1 <2:1;
+{ 2 Leaf_shape entire lobed;
+{ 3 Leaf_venation pinnate palmate;
+{ 4 Stipules absent_<5mm present_>10mm State_2;
+{ 5 Stomatal_opening_shape elongate,_thin short,_broad;
+{ 6 Plant_sex_distribution bisexual_(bisexual_inflorescences) monoecious_(unisexual_inflorescences);
+{ 7 Nectary present absent;
+{ 8 Perianth_parts present absent;
+{ 9 Extrafloral_processes absent tubercles,_knob-like,_or_fused spinose_elongated_structures;
+{ 10 Anthers with_dorsal_pollen_sacs_reduced tetrasporangiate;
+{ 11 Anther_theca_length/filament_length <1 >1;
+{ 12 Thecae_with_broad_block-like_shoulders absent present;
+{ 13 Stomata_bifurcating_at_proximal_and_distal_ends present absent;
+{ 14 Pollen tricolpate polyporate;
+{ 15 Pollen_size <25um >35um;
+{ 16 Aperture_L/W_ratio >3:1 1 :;
+{ 17 Ectoaperture_termini rounded pointed;
+{ 18 Secondary_sculpture_of_tectum smooth papillate;
+{ 19 Carpel_shape_l.s. square wedge-shaped elliptical;
+{ 20 Styles persistent ephemeral;
+{ 21 Style_orientation angled straight;
+{ 22 Style_tips recurved coiled;
+{ 23 Style_thickness narrow thick;
+{ 24 Multicellular_stigmatic_hairs absent present;
+{ 25 Outer_fruit_wall little_differentiation well_differentiated;
+{ 26 Distribution_of_resin_canals_and_fiber_bundle_formation_in_outer_fruit_wall dispersed_throughout predominantly_in_outer_fruit_wall_with_arclike_fiber_bundles;
+{ 27 Inner_carpel_wall_(palisade)_wall_thickening absent present;
+{ 28 Inner_carpel_wall_surface_pattern elongate broad;
+{ 29 Inner_carpel_wall_layers two_to_multi-layered single-layered;
+{ 30 Ovules_per_carpel strictly_one 5-8 many_>10;
+{ 31 Fruits_with_an_explosive_(ballistic)_ejecting_mechanism present absent;
+{ 32 Dehiscence_pattern septicidal_and_loculicidal septicidal_and_ventricidal septicidal,_ventricidal,_and_loculicidal;
+{ 33 Infructescence_size <1.0cm 1-2cm >2.5cm;
+{ 34 Infructescence_shape globose compressed_globose obconical turbinate;
+{ 35 Number_of_fruits_per_infructescence mostly_one 3-9 20-37 more_than_45;
+{ 36 Extrafloral_processes_2 pubescent glabrous;
+{ 37 Anthers_develop_in_pistillate_infructescence absent present;
+{ 38 Peduncle_length up_to_1.5cm >2cm;
+{ 39 Fruits_exerted absent present;
+{ 40 Peduncle_L <15:1 16-25:1 >26:1;
+{ 41 : loosely tightly;
+{ 42 W_ratio absent lateral_flang distal_wing;
+{ 43 Fruits_attached_to_one_another seeds_mostly_fertile fertile_and_sterile_seeds;
+{ 44 Seed_with_wing thick,_>10_layers_of_sclereids thin,-<4_layers_of_sclereids;
+{ 45 Seed_viability broad,_polygonal elongate,_rectangular;
+{ 46 Seed_coat mesotestal exotegmic;
+{ 47 Seed_coat_micromorphology,_cell_shape absent present;
+{ 48 Seed_coat_anatomy (n)=12 (n)=16 (n)=32;
+{ 49 Iridoids absent present;
+{ 50 Chromosome_number absent small_and_inconspicuous large_and_conspicuous;
+;
+
+
+ccode  - 0.50;
+
+
+;

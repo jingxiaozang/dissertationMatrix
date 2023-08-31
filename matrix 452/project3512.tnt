@@ -1,0 +1,138 @@
+nstates num 24;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 13.11.07'
+45 75
+
+&[num]
+Pillsburyaxius_clevai                0-0000--021000?0001-0000000-200000000000200-0
+Eiconaxius_agassizi                  0-0000--021000?0001-0000000-200000000000200-0
+Heardaxius_rogerbamberi              00050001021000?0200F00000001000000000000000-0
+Thomassinia_aimsae                   00050001021000?0700F00000001200000000000000-0
+PRAEDATRYPAEA_praedatrix             00061?010322001120050000000300005021110100201
+MOZ-34                               0006110103220011200?00000003000050211101000-1
+Propinquus                           0006110103220011200500000003000050211101000-1
+Intermedia                           ?0061?0103220????005000000?3??-05021110100201
+PESTARELLA_tyrrhena                  000500011210001020090000000421-050000020001-0
+GILVOSSIUS_setimanus                 000500011210001020090000000421-050000020001-0
+Candidus                             000500011210001020090000000421-050000020001-0
+Convexus                             0005000112100010200900000004200050000020001-0
+Whitei                               000500011210001020090000000421-050000020001-0
+JOCULLIANASSA_joculatrix             000600110222010020030001000621-050011102000-0
+Ceramica                             001500011210001020090011000401-060100110000-0
+FILHOLLIANASSA_filholi               001500011210001020090011000401-060100110000-0
+NOTIAX_brachyophthalma               0005100102100010700900100004001060100000000-0
+Santarita                            000510010210001070090010000401-060?00000000-0
+TRYPAEA_australiensis                000500042000021070090011000401-05010001000200
+ARENALLIANASSA_arenosa               000500010210001020090011000401-050101010000-0
+PARATRYPAEA_bouvieri                 000600011210001020050011000421-050101000000-0
+Maldivensis                          000[56]00011210001020050011000421-050100000000-0
+TASTRYPAEA_poorei                    0005000102100010200N0011030401-060101110000-0
+CHERAMUS_profundus                   0006011103??0400000L00?00213000050011?02000-1
+CHERAMOIDES_marginata                0006011102220400001-0000040301-05032110200200
+Oblonga                              0006011102220400001-0000040301-05032110200200
+POTI_gaucho                          00060?11022?040000?-00?00?03000?50?11102000-?
+LIPKECALLIANASSA_abyssa              ?0060?1102???403?0?-??????070?-050?10?02003-?
+PUGNATRYPAEA_pugnatrix               00060?1102220500200800?100?301-?5031110200501
+GMX                                  00060?110322051020080001000300105031110200501
+Lobetobensis                         ?0060?110322050?200?000?0003??-05021110200501
+Sibogae                              0006101103210500000I0100000301-050310102000-0
+MOZ-31                               0006101103210500000I01000003??-050310102000-1
+MOZ-33                               0006101103210500000I01000003101050310102000-0
+CORIOLLIANASSA_coriolisae            0006101103210500000I01000003??-050310102000-1
+BIFFARIUS_biformis                   000500010320001070091001000401-050001100000-0
+Limosus                              0005000103200010700910010004001050001100000-0
+Delicatulus                          0005000103?00010700900??0004001050?01?00000-0
+FRAGILLIANASSA_fragilis              000500011213001021090001000401-05000010000200
+Debilis                              000500011213001021090001000401-?50000100000-0
+NECALLIANASSA_berylae                00060001?212001020090001000401-061000100100-0
+Acanthura                            000500011212001020090001000401-061000100100-0
+Truncata                             000500011212001020090001000401-061000100000-0
+CALLIANASSA_subterranea              0005000102100500200800000004001060001000000-0
+Diaphora                             0005000102100500200800000004201060001000000-0
+Australis                            0005000102100500200800000004001060001000000-0
+Marchali                             000500010210050020080000000421-050001000000-0
+NEOTRYPAEA_californiensis            000500071210031020090001000401-16010101000200
+NIHONOTRYPAEA_japonica               000500071210031020090001000401-06010101000200
+PSEUDOBIFFARIUS_caesari              000500051210031020090001000401-06010101000200
+Harmandi                             000500071210031020090001000401-06010101000200
+Petalura                             000500071210031020090001000401-06010101000200
+Makarovi                             000500051210031020090001000401-060?0101000200
+Gigas                                000500051210031020090001000401-16010101000210
+Tabogensis                           000500051210031020090001000401-160101010002?0
+Uncinata                             000500051210031020090001000401-16010101000210
+Thermophila                          000500071210031020090001000401-060?0101000200
+SPINICALLIANASSA_spinicauda          1006000102221010200400002304??-05031113201200
+Ohurana                              1006000102221010200400002314??-05031113201200
+Acutirostella                        10060?0102221010200400002??4??-05031113201200
+PNG-757                              1006000102221010200400002304??-05031113200200
+FP-10                                1006000102221010200400002304??-05021113200200
+Aff._acutirostella                   1006010102221010200400002304??-05021113201200
+AQABALLIANASSA_aqabaensis            1105010102201010200400022304101050201102000-0
+Brevirostris                         110501010220101020040002?30401-050?1110200200
+Lewtonae                             110501010220101020040002230410005030110200200
+PNG-1166                             1105010102201010200400022304??-05030110200200
+FP-11                                0005000102200010210J00020304000050300132000-0
+PNG-1172                             0005000102200010210J00020304??-050300132000-0
+CAVIALLIANASSA_cavifrons             00050001022000102?0J000?0304??-05??00132000-0
+RAYLLIANASSA_amboinensis             1005000601221010201-0022011410105030011200200
+SCALLASIS_amboinae                   0006010302220500000K0002000300005231011001200
+Spinophthalmus                       00060?0302220500000K000200030000503001100?0-0
+RUDISULLIANASSA_rudisulcus           1005000103200010211-00020113??-050?00?3200200
+PNG-369                              1005000103200010211-00020113??-05031013200200
+
+;
+
+
+cnames
+{ 0 <sexes:_CALLIANASSIDAE> gonochoristic hermaphrodite;
+{ 1 triangular_sclerite_<CALLIANAS absent_from_branchiostegite_at separate_from_branchiostegite;
+{ 2 anterior_carapace_<profile_CAL almost_flat_in_lateral_view strongly_depressed_over_anteri;
+{ 3 rostrum_<LOWER_CALLICHIRIDAEl broad,_with_lateral_ridges_run spine-like sharply_triangular,_produced_t blade-like,_produced_anteriorl acute,_produced,_with_dorsal_r obsolete_or_obtusely_triangula acute,_anteriorly_directed,_as acute,_reaching_middle_of_corn;
+{ 4 rostrum_<ventral_keel_CALLIANA flat_against_eyestalk with_ventral_broad_swelling;
+{ 5 pleomere_6_<ventrolateral_ridg without_sublateral_ventral_sha with_sublateral_ventral_sharp;
+{ 6 cornea_<pigmentation_LOWER_CAL well-defined,_pigmented with_scattered_reduced_pigment;
+{ 7 eyestalk_distal_lobes_<LOWER_C absent rounded,_largely_contiguous extremely_elongate acute,_apices_separate obsolete,_truncate triangular,_apices_separate obliquely_truncated,_apices_di contiguous,_produced_and_taper;
+{ 8 antennular_peduncle_length_<re about_twice_width_of_both_eyes less_than_3_times_width_of_bot about_2.5-3_times_width_of_bot more_than_3_times_width_of_bot about_4_times_width_of_both_ey;
+{ 9 antennular_peduncle_<relative twice_as_long_as_antennal_pedu shorter_than_antennal_peduncle exceeding_antennal_peduncle_by longer_than_antennal_peduncle about_as_long_or_little_longer exceeded_by_all_or_most_of_ant;
+{ 10 antennular_peduncle_articles_2 with_2_single_similar_rows_of similar,_each_about_as_long_as with_lateral_band_(3-5_setae_w longer_than_wide,_either_artic with_single_lateral_row_of_6-1;
+{ 11 antennal_scaphocerite_<CALLIAN simple,_about_as_long_as_wide, bifid simple,_longer_than_wide,_acut reduced_to_small_floating_disc;
+{ 12 mandibular_molar_<CALLIANASSID flat,_with_sharp_margin,_incis calcified,_swollen_projection;
+{ 13 maxilliped_3_merus_<shape_CALL distally_convex,_extending_onl tapering,_not_mesially_produce grossly_expanded_distomesially expanded_distomesially_as_roun almost_rectangular,_distally_t distally_oblique_with_obtuse_a;
+{ 14 maxilliped_3_merus_<proportion longer_than_wide_at_ischium-me wider_at_ischium-merus_suture;
+{ 15 maxilliped_3_merus_<spine_CALL without_distal_spine_on_mesial with_distal_spine_on_distal_fr with_2_or_more_distal_spines_o with_acute_distomesial_angle;
+{ 16 maxilliped_3_crista_dentata_<L a_prominent_toothed_ridge_exte weakly_developed,_with_few_wid a_row_of_numerous_denticles of_few_separate_spines_proxima variable_(absent_to_prominent variable_(absent_to_row_of_spi of_few_proximal_spines absent;
+{ 17 maxilliped_3_dactylus_<setatio tapering,_with_scattered_setae ovate,_with_dense_brush_of_lon curved,_3_times_as_long_as_wid curved,_about_twice_as_long_as;
+{ 18 male_major_cheliped_merus_<hoo with_spine_or_tooth_or_various without_prominent_hook_or_spin;
+{ 19 male_major_cheliped_merus_<arm with_sinuous_lower_margin,_wid with_lower_margin_almost_strai with_straight_or_weakly_convex with_proximal_perpendicular_sp with_oblique_spine_about_third with_blade_dentate_over_lower with_convex_tuberculate_blade with_proximal_tubercle_bearing with_simple_proximal_hook_on_l with_prominent_truncate_hook_a lower_margin_convex_or_blade_l lower_margin_straight,_irregul with_denticulate_blade_on_lowe with_prominent_proximal_dentic with_row_of_sharp_oblique_spin lower_margin_curved,_with_few with_oblique_spine_near_midpoi with_1-2_small_proximal_teeth with_proximal_curved_spine_on with_1-3_oblique_similar_short with_2_or_3_proximal_similar_t with_serrate_blade_over_lower with_proximal_blunt_denticulat with_1_or_2_small_teeth_just_b;
+{ 20 male_major_cheliped_upper_marg smooth,_with_few_well-spaced_s beaded,_with_dense_row_of_long;
+{ 21 male_major_cheliped_carpus_<CA proximal_and_lower_margins_eve articulating_my_means_of_a_sho;
+{ 22 male_major_cheliped_carpus_and flattened,_upper_and_especiall flattened,_upper_and_lower_mar ovoid_in_cross-section,_upper;
+{ 23 male_major_cheliped_propodus_d unornamented,_oblique with_deep_notch_at_base_of_fix with_small_lateral_tooth;
+{ 24 male_major_cheliped_<setation upper_distal_margin_of_propodu dactylus_with_dense_setae_alon;
+{ 25 <chelipeds_relative_size_<CALL minor_cheliped_slender,_consid minor_cheliped_about_two-third minor_and_major_chelipeds_simi minor_cheliped_two-thirds_widt minor_cheliped_slender,_narrow;
+{ 26 <minor_cheliped>_carpus_upper longer_than_propodus as_long_or_shorter_than_propod;
+{ 27 pereopod_3_propodus_<shape_CAL elongate-oval,_tapering,_witho elongate-oval subpentagonal,_with_strong_bro oval,_lower_margin_slightly_co rectangular,_lower_margin_deep oval,_lower_margin_convex,_not bean-shaped,_lower_margin_conc linear,_without_lobe_on_lower linear,_elongate;
+{ 28 male_pleopod_1_<articles_LOWER of_2_articles of_1_article absent slender_with_distomesial_obliq;
+{ 29 male_pleopod_2_<LOWER_CALLIANA present absent;
+{ 30 male_pleopod_2_<CALLIANASSIDAE biramous uniramous;
+{ 31 Pleopods_3-5_appendices_intern longer_than_broad,_clearly_eme barely_emerging_from_endopod_m;
+{ 32 uropodal_endopod_<shape_CALLIC ovate,_almost_symmetrical,_ant with_straight_or_slightly_conv with_convex_anterior_margin,_a strap-like,_posterior_margin_c triangular,_anterior_margin_st ovoid,_usually_longer_than_wid asymmetrical,_at_least_as_wide asymmetrical,_straight_or_conc;
+{ 33 uropodal_endopod_anterior_marg unarmed with_distal_spine with_spine_at_midpoint;
+{ 34 uropodal_endopod_<facial_setae without_facial_setae with_facial_distal_transverse with_spiniform_setae_near_ante with_facial_spiniform_setae_on;
+{ 35 uropodal_exopod_<length_CALLIA about_as_long_as_wide about_1.5-1.8_times_as_long_as twice_as_long_as_wide;
+{ 36 uropodal_exopod_distal_margin poorly_differentiated_from_ant clearly_differentiated_from_an;
+{ 37 uropodal_exopod_posterodistal densely_setose,_with_short_spi with_row_of_c._6-8_long_blade-;
+{ 38 telson_<shape_CALLIANASSIDAE> longer_than_wide,_tapering_eve lateral_margins_convex wider_than_long,_subsemicircul about_as_wide_as_long,_taperin;
+{ 39 telson_anterolateral_lobe_<CAL defined_posteriorly_by_short_t prominent,_defined_posteriorly obsolete,_undefined;
+{ 40 telson_lateral_margin_<spines unarmed with_pair_(or_2_pairs)_of_post armed_with_teeth;
+{ 41 telson_<facial_spiniform_setae transverse_ridge_with_only_fin transverse_ridge_with_fine_set;
+{ 42 telson_<posterior_margin_CALLI truncate_or_slightly_convex_be rounded_over_posterior_half_or posterior_margin_slightly_conc with_pair_of_broad_posterolate posterior_margin_sinuous tapering_over_distal_third_to;
+{ 43 telson_posterior_margin_notch without_field_of_submarginal_s with_field_of_submarginal_spin;
+{ 44 telson_<lateral_setae_CALLIANA with_2_pairs_of_posterolateral with_2_pairs_of_spiniform_seta;
+;
+
+
+ccode  - 0.44;
+
+
+;
