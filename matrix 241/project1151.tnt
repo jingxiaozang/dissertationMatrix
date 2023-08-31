@@ -1,0 +1,46 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 17.48.18'
+16 12
+
+&[num]
+Procervulus_praelucidus          0000000001000000
+Euprox_robustus                  0001000000100010
+Euprox_furcatus                  0001000000100110
+Ligeromeryx_praestans            1000000111011001
+Lagomeryx_parvulus               2110110201?0??10
+Lagomeryx_ruetimeyeri            2110110201001010
+Lagomeryx_triacuminatus          1120101101100010
+Lagomeryx_sp.                    11101011?1??1010
+Lagomeryx_coberti                1110101111101011
+Lagomeryx_tsaidamensis           12101??1?1?010??
+Lagomeryx_complicidens           1220201211100101
+Lagomeryx_manai                  1220201211111101
+
+;
+
+
+cnames
+{ 0 Antler_construction forked multibranched multipointed;
+{ 1 Palmate_portion absence small large;
+{ 2 Mediolateral_expansion_of_palm_portion absence_or_narrow further_wide wide;
+{ 3 Burr absence presence;
+{ 4 Number_of_tines 2-3 4-7 >7;
+{ 5 Tine_sizes unequal equal;
+{ 6 Bifurcated_tines absence presence;
+{ 7 Lateral_tines absence_or_poorly_developed 1-2 2-3;
+{ 8 Anterior_tine_orientation vertical_or_nearly_vertical nearly_horizontal_in_anterior_part;
+{ 9 Pedicle_length short long;
+{ 10 Pedicle_direction_above_the_orbits upright posterior;
+{ 11 Pedicle_projecting_from_the_cranial_appendages straight_or_inward_curved divergent;
+{ 12 Pedicle_shape straight curved;
+{ 13 Pedicle_cross_section round oval;
+{ 14 Distal_part_of_pedicle_below_antler mediolateral_compressed not_compressed;
+{ 15 Antler_base_slope horizontal_plane forward_bending;
+;
+
+
+ccode  - 0.15;
+
+
+;

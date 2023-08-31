@@ -1,0 +1,60 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 17.46.47'
+32 10
+
+&[num]
+Aaptoryctes_ivyi                 1111111211110011?111001111111100
+Asioryctes_nemegetensis          00000000000000000000000000000000
+Eoryctes_melanus                 111110112000??21????010121100101
+Ottoryctes_winkleri              11111000200011211101010121100000
+Palaeoryctes_cruoris             ????1100111110???101000121111111
+Palaeoryctes_jepseni             ?111100120001010????0?01?1110111
+Palaeoryctes_puercensis          ?1111002200000101110111001101101
+Palaeoryctes_punctatus           1111100??000??10????????211??111
+Aceroryctes_dulcis               ?????????001??????0101012110?001
+Lainoryctes_youzwyshyni          ?????????????????10?001121100111
+
+;
+
+
+cnames
+{ 0 Lower_incisor_number Four Three_or_Two;
+{ 1 i2_relative_size equisized_(original:_"of_similar_size") i2_substantially_larger_than_other_incisors;
+{ 2 lower_canine_root_number Double-rooted Single-rooted;
+{ 3 lower_premolar_number four three;
+{ 4 p2_root_number Double-rooted Single-rooted;
+{ 5 p4_central_cusp_inflation compressed_buccolingually moderately_to_extremely_inflated;
+{ 6 p3_anterior_basal_cusp Present Absent;
+{ 7 p4_anterior_basal_cusp present_as_a_cuspule expanded_buccolingually,_small_basin_developed_on_the_lingual_portion expanded_buccolingually,_basin_expressed_as_narrow_groove_on_the_lingual_portion;
+{ 8 p4_talonid_basin_shape State_0 State_1 State_2;
+{ 9 molar_trigonid_shape strongly_compressed_anteroposteriorly longer_with_paraconid_positioned_anteriorly_relative_to_metaconid;
+{ 10 molar_trigonid_height more_than_twice_the_height_of_the_talonid less_than_twice_the_height_of_the_talonid;
+{ 11 m1-m2_talonid_shape narrow_(the_distance_between_the_lingual_margin_and_the_point_at_which_the_cristid_obliqua_contacts_the_postvallid_is_less_than_half_the_width_of_the_trigonid) somewhat_inflated_(the_distance_between_the_lingual_margin_and_the_point_at_which_the_cristid_obliqua_contacts_the_postvallid_is_about_half_the_width_of_the_trigonid);
+{ 12 m3_size_relative_to_m1-m2 smaller_than_m1_and_m2 equal_to_or_larger_than_m1_and_m2;
+{ 13 m3_talonid_hypoconulid_size hypoconulid_very_high,_even_on_worn_specimens hypoconulid_is_reduced;
+{ 14 anterior_mental_foramen_position below_c1 below_the_junction_of_c1_and_p2 below_the_junction_of_p2_and_p3;
+{ 15 Position_of_posterior_edge_of_symphysis extends_to_p2 extends_to_p3;
+{ 16 upper_incisor_number four three;
+{ 17 upper_premolar_number four three;
+{ 18 upper_P2_root_number Double-rooted Single-rooted;
+{ 19 upper_P2_basal_cusp_condition little_or_no_anterior_basal_cusp distinct_anterior_basal_cusp_or_cusps;
+{ 20 upper_P3_root_number three two;
+{ 21 P3_metacone_presence absent_to_incipient distinctly_present;
+{ 22 upper_P3_anterior_cusp_presence present_("distinct"_in_Bloch_et_al._2004) absent;
+{ 23 P3_protocone_development Well-developed Poorly-developed_to_absent;
+{ 24 P4_metacone_development absent incipiently_developed distinctly_present;
+{ 25 P4_cusp_height_in_lateral_view lower_than_P3_and_M1 equal_to_or_greater_than_P3_and_M1;
+{ 26 P4_stylar_shelf_shape wide_laterally_and_very_narrow_medially_because_of_a_strong_ectoflexus little_or_no_stylar_shelf_with_weak_ectoflexus;
+{ 27 P4_width not_as_transversely_wide_as_M1 as_transversely_wide_or_wider_than_M1;
+{ 28 P4_protocone_shape not_connate,_having_pre-_and_postprotocristae_gradually_descending_buccally connate,_having_pre-_and_postprotocristae_steeply_descending_buccally;
+{ 29 M1_ectoflexus_depth deep_with_the_stylar_shelf_wide_at_the_corners_and_almost_disappearing_in_the_middle shallower;
+{ 30 M2_ectoflexus_depth deep_with_the_stylar_shelf_wide_at_the_corners_and_almost_disappearing_in_the_middle moderately_deep;
+{ 31 M1-2_metacone_size_relative_to_paracone subequal_to_paracone smaller_than_paracone;
+;
+
+
+ccode  - 0.31;
+
+
+;

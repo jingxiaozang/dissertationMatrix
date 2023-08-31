@@ -1,0 +1,174 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 17.45.31'
+127 29
+
+&[num]
+Millerettidae                      0??00000000000?0000000000000000000000000?000??000000?00001?000000?000000000000000000000?00000000000000000????00?000000?0000?00?
+Owenetta                           0?0000??100001000000000000100111?00000002000?000?000?00000?01?10000000000012?00??000000110?0??100??0??000????0?0100001000110000
+Bashkyroleter_bashkyricus          1????0??200000?110?1000?1010?1100??010100100?????000???000?????????????????????????????????????????????????????00001????1111000
+Bashkyroleter_mesensis             1???????2?0000?110?1000?101011000??010100100?????000?0?0000????????????????????????????????????????????????????00001?00?0011100
+Rhipaeosaurus                      ??????????0000???????00????????????????????????0???00?1?0??0???????0?0?010?00?00?0??0001000?0?1000010000?????????????????0???0?
+Nycteroleter                       1???????2?0000?11001000?101011100000101?0100?00??000000000?????????????????????????????????????????????????????0000100110101000
+Emeroleter                         1??1????2?0000?110?1000?101011000??010100100??0??00000000000?110???11?0??0?0?????100?0????????10??110000??????00?00100110001100
+Macroleter_poezicus                101110002?0000?110?100001010111001101010110000000000?0000000011????00000?1?000000?00?01???0???1???010?110????011010110010000001
+Bradysaurus_baini                  111211111100010211112111000010???110121001110121110101100111?0201011100?1100000000?01011110011112?01??1210000010111111100100001
+Bradysaurus_seeleyi                11?2111111000102?1112111000010110110111001110121?001011001110020101110001100000000101011110000112001111210000010111111100100001
+Nochelesaurus                      11??111111000102?1?121110000101????0122001110121?001011??11????????110011100000000????????????11200?????10000010111111100?00001
+Embrithosaurus                     111?111111000102?1?1211100001011011012100111012110010220011100201111100111000000001010101101111211011112110000?0111111100?00001
+Deltavjatia                        1??210111110011211111111000010120110122101110121100113301102?020?1111111110000?00010?11111????122001101211000010110111100100001
+Shansisaurus                       ????????????????????????????????????????????????1??11?410??????????1211111?00????0????????????1?1??????????????????????????????
+Shihtienfenia                      ?????????????????????????????????????????????????????????????03????1211111?100100??0?112110????????????????????????????????????
+Pareiasuchus_peringueyi            11?210??1110011211111111000010120111122101110121101113410102?021???121110111011000?1121211111122110???1221211110110111100100001
+Pareiasuchus_nasicornis            11?210??111001121111111100001012011112210111012111111341010???2????1???10?1??1?0001112121111112?1101??1221211110110111100100001
+Pareiasaurus                       11?210??1111?11211?111110101101?01111221011101211011134??10?002????111111100001000101112110111121101????212111?0110111100?00000
+Scutosaurus                        111210111111111211111111010110120111122101110121101113411102?0?1111111111100001000101112110111121101??1222211110111111100100001
+Sanchuansaurus                     ??????????????????????1?01???????????????????????011134?1????????????????????????????????????????????????????????????????????0?
+Parasaurus                         ????????????????????11???????01??1??12?001?????????113?01????02????11??????????????0?11?111?1?12??01??11??????10??01????0??0?0?
+Elginia                            11??10??1??????21?1?111101?1?0121111123101111????01113????0??0???1?1?11??1?0001?????111211????1?110???1222211110?10111100??0010
+Provelosaurus                      ????10??1??????????????1000010???111122101110????01113???????02??1?11?120??01??110?0?0011?????1?1?0?????21111??0?11111100?00001
+Anthodon                           1???????1110?112111101110000101??1111221011101111012144?0102?03??1?111120100101111?0100111011102011?????21112?10110111100?00001
+Pumiliopareia                      1???????1110?112?1?101110000?01??11112210111011??0121440??0??0??????????????????????????????????????????21112?10110011100?00001
+Nanoparia                          1???????1110?11211?101110000101201111???01110????011????010????????????????????????????????????????????????????0110111100100001
+Arganaceras                        ???2?0111??11112?1?1???10?0110121111123101111???101113??1??????????????????????????????????????????????????????0110111100?00010
+Obirkovia                          ??????????????????????????????????????31??????????????????????????????????????????????????????????????????????????01???????????
+Bunostegos                         111?11??111001021111211100001002?110122101110????001?2???10????????110???????????????11?11?????????????????????0110111100?00010
+
+;
+
+
+cnames
+{ 0 basicranial_articulation mobile_articulation_with_the_basipterygoid_process_ articulation_is_immobile_;
+{ 1 sphenethmoid absent present;
+{ 2 Medial_Wall_of_inner_ear absent present;
+{ 3 exoccipital_flange absent present _lateral_flange_of_the_exoccipital_well-developed_and_extends_well_along_the_paroccipital_process_of_the_opisthotic_;
+{ 4 paroccipital_suture not_sutured_to_the_squamosal_and_supratemporal_ paroccipital_process_of_the_opisthotic_is_antero-posteriorly_expanded_and_sutured_to_ventrally-directed_flange_from_the_squamosal_and_supratemporal_;
+{ 5 paroccipital_process_direction projects_laterally_from_the_neurocranium_ is_U-shaped_in_occipital_view_;
+{ 6 ventral_otic_fissure present absent;
+{ 7 braincase_floor_thicknes not_thickened_ thickened;
+{ 8 Cultriform_size relatively_long,_more_than_the_half_of_the_distance_between_the_anterior_extent_of_the_rostrum_of_the_basipterygoid_tubercles_State_0 short,_less_than_a_third_of_this_distance_ absent;
+{ 9 tip_of_cultriform pointed _blunt_;
+{ 10 body_of_basisphenoid strongly_constricted,_giving_it_an_hourglass_shape_in_ventral_view_ not_strongly_laterally_constricted_;
+{ 11 basisphenoid_ventral_surface _featureless,_lacking_tubercles_ tubercles_present_on_the_ventral_surface_of_the_neurocranium_just_behind_the_basipterygoid_processes_;
+{ 12 basioccipital_ventral_surface absence_of_a_central_boss_ _presence_of_a_boss_on_the_ventral_surface_of_the_basioccipital_;
+{ 13 basal_tubera absent_ present;
+{ 14 basal_tubera_position situated_posteriorly,_closer_to_the_occipital_condyle_than_the_basipterygoid_process_ basal_tubercles_situated_approximately_midway_between_the_occipital_condyle_and_the_basipterygoid_processes,_or_even_further_anteriorly_;
+{ 15 choana_shape situated_in_a_lateral_position,_bounded_laterally_by_the_maxilla,_diverge_posteriorly,_parallel_to_tooth_row_throughout_ parallel,_positioned_more_medially,_delimited_posterolaterally_by_the_palatine_ choanae_even_more_medially_positioned,_with_the_palatine_constituting_more_than_50%_of_the_lateral_border,_medial_border_formed_entirely_by_the_vomer_;
+{ 16 alar_flange absent present_;
+{ 17 foramen_palatinum_posterius small_or_absent_and_delineated_by_the_bones_of_the_skull_roof_(?)_ large,_medially_positioned_and_defined_by_the_palatine_and_the_ectopterygoid_without_participation_of_the_bones_of_the_skull_roof_;
+{ 18 prepalatal_foramen absent present;
+{ 19 interpterygoid_vacuity_size long,_at_least_15%_of_skull_length_ short,_less_than_15%_of_skull_length_;
+{ 20 interpterygoid_vacuity_shape V-shaped_ U-shaped_ transversely-oriented_;
+{ 21 transverse_flange_pterygoid large_and_directed_laterally_ reduced,_directed_more_anteriorly_than_laterally,_without_contact_with_the_cheek_;
+{ 22 transverse_flange_orientation extends_ventrally_below_the_level_of_the_alveolar_ridge_ oriented_primarily_horizontally,_so_the_level_of_the_palate_is_higher,_not_reaching_the_level_of_the_alveolar_ridge_;
+{ 23 supraoccipital large,_with_longitudinal_contact_with_the_postparietal_ high_and_narrow,_forming_along_all_of_its_length_a_solid_sagittal_suture_with_a_ventral_projection_of_the_postparietal_;
+{ 24 external_nares round_and_small_ very_anteroposteriorly_elongate_;
+{ 25 maxillary_boss feebly_developed_or_absent_ prominent_boss_or_horn_present_;
+{ 26 maxilla_dorsal_process reduced,_not_reaching_the_nasal_with_a_contribution_of_the_lacrimal_to_the_ventral_border_of_the_naris_ large_anterodorsal_extension_of_the_maxilla,_excluding_the_lacrimal_from_the_external_naris_;
+{ 27 snout_dimension broader_than_high_ as_high_as_wide_;
+{ 28 postfrontal_shape narrow,_more_than_2_times_as_long_as_wide,_contributes_to_the_orbital_margin_ widened_mediolaterally,_around_2_times_as_wide_as_long_or_less,_no_or_only_feeble_contribution_to_the_orbital_rim_;
+{ 29 orbit_shape circular,_no_posterior_emargination_ posterior_emargination_of_orbits_;
+{ 30 pineal_foramen_position situated_about_halfway_along_the_interparietal_suture_ placed_more_anteriorly,_close_to_the_frontal-parietal_suture_;
+{ 31 tabular_sn small,_largely_an_occipital_element_ absent_ integrated_into_skull_table_;
+{ 32 tabular_sn_contact do_not_contact_each_other_posteriorly_ very_well-developed,_make_contact_posteriorly,_excluding_the_postparietals_from_the_posterior_edge_of_the_skull_table_;
+{ 33 postparietal_form small,_largely_an_occipital_element_ absent;
+{ 34 postparietal_fusion paired fused_into_a_single_element_and_exposed_well_dorsally_;
+{ 35 skull-cheek_junction both_flat_surfaces,_form_a_distinct_angle_where_they_meet,_particularly_behind_the_orbits_ postorbital_portion_of_this_junction_is_rounded,_no_clear_edge_between_these_two_surface_behind_the_orbit_;
+{ 36 otic_notch absent,_or_very_small_ emargination_present_on_the_posterior_border_of_the_cheek,_formed_by_the_squamosal_and_the_quadratojugal_;
+{ 37 jugal_flange no_flange_present_on_the_jugal,_the_ventral_surface_of_the_cheek_is_continuous_with_that_of_the_maxilla_ jugal_flange_present,_extends_below_the_level_of_the_maxillary_teeth_ jugal_flange_well-developed,_forms_an_angle_of_greater_than_or_equal_to_140_degrees_with_the_ventral_surface_of_the_cheek_;
+{ 38 cheek_ornamentation no_ornamentation_on_the_ventral_surface_of_the_cheek_ cheek_ornamentation_present_in_the_form_of_low_rounded_bosses_ cheek_bosses_well-developed_with_well-defined_tubercles_ cheek_ornamentation_in_the_form_of_prominent_conical_horns_;
+{ 39 quadratojugal_ornamentation no_ornamentation,_continuous_with_the_jugal_ dermal_ornamentation_and_bosses_present_also_on_the_posteroventral_surface_of_the_quadratojugal_;
+{ 40 Ventral_Temporal_Emargination absent present_and_bounded_ventrally,_forming_a_lower_temporal_fenestra_ present_and_open_ventrally_;
+{ 41 Postorbital_Region_of_skull length_at_least_equals_anteroposterior_extension_of_orbit_ postorbital_region_shorter_than_anteroposterior_extension_of_orbit_;
+{ 42 frontal_orbital_contribution present frontals_excluded_from_the_orbit_by_contact_between_the_prefrontal_and_postfrontal_;
+{ 43 frontal_shape slim_and_long,_four_times_as_long_as_wide_ frontals_short,_with_a_length_not_more_than_two_time_the_width_;
+{ 44 boss_ornamentation dermal_bosses_of_skull_bones_have_no_central_pointed_horn_ dermal_bosses_of_cranial_bones_have_a_central_long,_pointed_horn_;
+{ 45 splenial_symphysis_contribution splenial_is_excluded_from_the_mandibular_symphysis_ splenial_forms_the_ventral_portion_of_the_mandibular_symphysis_;
+{ 46 angular_boss ventral_surface_of_the_angular_smooth,_no_boss_present_ low,_rounded_boss_present_ boss_present_and_well_developed,_forms_a_prominent,_pointed_tubercle_;
+{ 47 retroarticular_process_dorsal_projection without_a_projection,_tapers_gradually_to_end_ small_projection_("-'dorsal_lump"--_of_Lee_1997a)_present_at_the_very_posterior_end_of_the_retroarticular_process_;
+{ 48 lateral_shelf_articular_region absent,_the_lateral_surface_of_the_articular_region_is_smooth_ present,_there_is_a_lateral_extension_of_the_surangular_or_articular,_the_lateral_surface_of_the_effected_element_extends_dorsolaterally_;
+{ 49 maxillary_dentition_orientation maxillary_teeth_oriented_vertically,_teeth_point_directly_downwards_ alveolar_ridge_inflected_towards_the_palate,_teeth_oriented_ventromedially_;
+{ 50 number_maxillary_teeth more_than_or_equal_to_10_ less_than_or_equal_to_9_;
+{ 51 teeth_labiolingually_compressed teeth_not_labio-lingually_compressed_ teeth_labio-lingually_compressed,_leaf-shaped,_with_small_denticles_on_the_tooth_crown_ labio-lingual_compression_very_pronounced,_giving_the_marginal_teeth_a_fan_shape_;
+{ 52 cusp_arrangement three_central_cusps_close_together,_more_lateral_cusps_farther_apart_and_spaced_farther_apart_from_each_other_than_these_central_3_ cusps_regularly_spaced_along_the_tooth_crown_;
+{ 53 cusp_number_maxilla maxillary_teeth_conical,_single_cusp_ 2-7_cusps_on_each_maxillary_tooth_ 7-9_cusps_ 9-11_cusps_ more_than_11_cusps_;
+{ 54 cusp_number_dentary conical,_without_cusps_ 2-7_cusps_on_each_mandibular_tooth_ 7-9_cusps_ 9-11_cusps_ more_than_11_cusps_;
+{ 55 lingual_surface_teeth smooth has_a_distinct,_triangular_ridge,_narrowing_towards_the_crown_of_the_tooth_;
+{ 56 cingulum no_cingulum_on_the_lingual_surface_of_the_marginal_teeth_ cingulum_present,_with_small_cuspules_;
+{ 57 transverse_flange_pterygoid_dentition teeth_present_on_the_transverse_flange_of_the_pterygoid_ no_dentition_on_the_transverse_flange_of_the_pterygoid_;
+{ 58 palatal_teeth medial_rows_of_palatal_denticles_parallel_and_close_together_and_to_the_medial_axis_of_the_skull_ medial_rows_of_palatal_denticles_widely_separated,_converging_anteriorly_;
+{ 59 presacral_vert_count more_than_20_presacral_vertebrae_ 20_presacral_vertebrae_ 19_or_fewer_presacral_vertebrae_;
+{ 60 atlas-axis_fusion pleurocentrum_of_the_atlas_and_axial_intercentrum_fused_ altas_pleurocentrum_separate_from_the_axial_intercentrum_;
+{ 61 lumbar_vertebrae absent present;
+{ 62 sacral_vertebrae_count two three four five;
+{ 63 tail_length long,_with_more_than_25_caudal_vertebrae_ short,_less_than_25_caudal_vertebrae_;
+{ 64 lateral_projection generally_present_on_the_first_five_but_never_on_more_than_9_of_the_first_(most_anterior)_caudal_vertebrae_State_0 prominent_lateral_projections_on_at_least_the_first_9_caudal_vertebrae_;
+{ 65 shape_of_lateral_projections projections_form_an_'L',_as_their_distal_portions_are_recurved_posteriorly_parallel_to_the_axis_of_the_body_ projections_almost_straight_and_directed_laterally_;
+{ 66 haemal_arch_insertion between_two_caudal_vertebrae_ articulate_with_only_one_centrum_via_a_facet_of_articulation_found_on_posteroventral_projections_of_the_centra_;
+{ 67 acromion_of_scapula absent_ acromion_process_present_on_the_anterior_surface_of_the_scapula_;
+{ 68 scapular_blade_length short,_with_a_length_less_than_two_times_the_diameter_of_the_glenoid_fossa_ long,_with_a_length_at_least_two_times_longer_than_the_maximum_diameter_of_the_glenoid_fossa_ very_long,_with_a_length_at_least_three_times_the_diameter_of_the_glenoid_fossa_;
+{ 69 posterior_coracoid_dorsal_edge almost_horizontal,_meets_the_posterior_border_of_the_scapula_at_an_angle_of_less_than_135_degrees_ dorsal_edge_of_the_posterior_coracoid_is_oriented_posteroventrally,_forms_an_angle_of_more_than_135_degrees_with_the_posterior_border_of_the_scapula_;
+{ 70 cleithrum present _absent_;
+{ 71 torsion_of_humerus the_plane_of_proximal_expansion_makes_an_angle_of_60_degrees_or_more_with_the_plane_of_proximal_expansion_ the_two_planes_form_an_angle_of_less_than_or_about_equal_to_45_degrees_ the_two_planes_form_an_angle_less_than_or_equal_to_20_degrees_;
+{ 72 ectepicondyle narrow_and_rounded_ expanded,_forming_a_wide_rectangular_flange_that_projects_in_front_(preaxially)_of_the_radial_condyle_;
+{ 73 ectepicondylar_foramen exposed_in_dorsal_view_(when_distal_expansion_of_the_humerus_is_viewed_dorsally)_ situated_on_the_side_of_the_epicondyle_and_feebly_exposed_in_dorsal_view,_foramen_has_migrated_around_the_edge_of_the_humerus_;
+{ 74 entepicondyle forms_a_wide,_rectangular_flange_that_projects_posteriorly_behind_(postaxially)_the_radial_condyle_ rounded,_narrower,_with_a_very_reduced_distal_expansion_;
+{ 75 entepicondylar_foramen present_and_completely_enclosed_ present_in_the_form_of_an_'open_groove'_ absent,_no_foramen_or_groove_;
+{ 76 epicondylar_foramen_position exposed_in_dorsal_view_(when_distal_expansion_of_the_humerus_is_viewed_dorsally)_ situated_on_the_side_of_the_epicondyle_and_feebly_exposed_in_dorsal_view,_foramen_has_migrated_around_the_edge_of_the_humerus_;
+{ 77 epicondylar_projection entepicondyle_and_ectepicondyle_do_not_project_distally_beyond_the_epicondylar_region_ project_beyond_the_epicondylar_region,_distal_end_of_the_humerus_appears_'forked'_;
+{ 78 intercondylar_depression without_a_transverse_ridge_ transverse_ridge_present_on_the_intercondylar_depression,_it_is_found_on_the_distal_surface_of_the_intercondylar_depression_and_is_defined_dorsally_by_the_ulnar_articular_surface_;
+{ 79 ulnar_articulation_surface takes_the_form_of_a_groove_bordered_posteriorly_by_a_faint_ridge_ this_postaxial_ridge_is_elaborated_into_a_prominent_tubercle_;
+{ 80 radial_condyle_of_humerus _hemispherical,_located_entirely_on_the_ventral_surface_of_the_humerus_ condyle_positioned_more_terminally,_encroaches_onto_the_distal_end_of_the_humerus_;
+{ 81 olecranon_process well-developed,_articulation_surface_for_the_humerus_oriented_medially_ olecranon_process_very_reduced,_articular_surface_for_the_humerus_faces_terminally,_trochlea_on_the_humerus_lies_on_the_ventral_surface_;
+{ 82 manual_phalangeal_formula 23452,_not_reduced_ 23332_reduced_;
+{ 83 morphology_sacral_ribs only_slight_dorsoventral_compression_of_the_second_and_third_sacral_ribs_ significant_dorsoventral_compression_of_the_second_and_third_sacral_ribs,_which_take_on_a_thin_sheet-like_appearance_;
+{ 84 crista_sacralis weak_ridge_on_the_medial_surface_of_the_iliac_blade_for_articulation_with_the_first_sacral_rib_weakly_developed_ ridge_well_developed_;
+{ 85 iliac_shaft vertical_or_oriented_posterodorsally_ inclined_anterodorsally,_forming_an_angle_with_the_vertical_of_more_than_20_degrees_ inclined_even_further_anteriorly,_forming_an_angle_of_more_than_45_degrees_with_the_vertical_;
+{ 86 iliac_blade not_or_only_very_slightly_expanded_in_front_of_the_iliac_shaft_ expanded_well_anterior_of_the_iliac_shaft_;
+{ 87 eversion_of_ilium the_lateral_surface_of_the_anterior_expansion_of_the_iliac_blade_almost_completely_flat_ this_surface_concave_along_the_vertical_dimension,_anteroventral_margin_slightly_everted_ _surface_strongly_everted,_even_pointed_looking,_oriented_almost_horizontal_;
+{ 88 posterior_process_ilium long,_extending_the_blade_of_the_ilium_posteriorly_ strongly_reduced_;
+{ 89 acetabular_dorsal_buttres not_well_developed_ strongly_developed_;
+{ 90 acetabular_shape edge_of_the_acetabulum_anteriorly_rounded_or_slightly_oval_ presence_of_a_distinct_notch_in_the_anterior_rim_of_the_acetabulum_;
+{ 91 pelvic_symphysis long_and_thin_ shorter_and_thick_;
+{ 92 anterior_border_of_pubis smooth,_without_a_ventral_process_ ventrally_oriented_process_present_on_the_anterior_of_the_pubic_plate_('lateral_pubic_process'_of_Walker_1973,_Gaffney_1990)_;
+{ 93 median_pubic_process anterior_margin_of_the_pubis_smooth_edge_ medial_process_on_the_anterior_margin_of_the_pubis_;
+{ 94 curvature_of_femoral_head no_curvature_ proximal_head_of_the_femur_curved_slightly_anteriorly_(preaxially)_ strong_curvature_preaxially,_giving_the_bone_a_boomerang_shape_in_dorsal_or_ventral_view_;
+{ 95 trochanter_major no_major_trochanter_present_on_the_posterior_(postaxial)_side_of_the_femur_ major_trochanter_present_but_small,_forms_a_slight_thickening_of_the_postaxial_edge_of_the_femur_ major_trochanter_present_and_large,_a_distinct_thickening_on_the_postaxial_edge_of_the_femur_;
+{ 96 postaxial_flange_of_femur_size _reduced,_limited_to_the_proximal_region_of_the_femur_ present,_extends_the_entire_length_of_the_femur,_but_is_narrower_in_the_middle,_so_femur_looks_concave_in_dorsal_or_ventral_view_ well-developed,_runs_the_entire_length_of_the_femur,_keeping_the_same_length_for_its_entire_length,_so_femur_appears_extremely_wide_with_postaxial_border_appearing_a_straight_edge_;
+{ 97 minor_trochanter_shape long_and_straight_in_ventral_view_ long_and_curved_on_its_proximal_region_in_ventral_view,_preaxial_(anterior)_side_concave_and_postaxial_(posterior)_being_convex_;
+{ 98 cnemial_crest cnemial_crest_of_the_tibia_(longitudinal_ridge_on_the_dorsal_(lateral_or_external)_surface_of_the_tibia)_well_developed_and_prominent_ ridge_and_accompanying_groove_much_reduced_;
+{ 99 astragalocalcaneum separate_or_sutured_ fused,_with_the_presence_of_the_obturator_foramen_;
+{ 100 pedal_phalangeal_formula 23454_or_23453_ 23343;
+{ 101 fifth_pedal_digit large,_always_longer_than_the_first_pedal_digit_ reduced,_slender,_shorter_than_the_first_pedal_digit_;
+{ 102 metapodial_shape slender,_close_to_two_times_as_long_as_wide_ robust,_approximately_as_wide_as_long_;
+{ 103 phalangeal_shape slender,_50%_longer_than_wide_ short,_as_long_as_wide_ even_shorter_and_more_massive,_about_two_times_as_wide_as_long_;
+{ 104 osteoderms dorsal_surface_of_the_osteoderms_smooth,_convex,_without_a_central_boss_ possess_a_distinct_rounded_central_boss_ _central_boss_on_osteoderm_capped_by_a_small_conical_spine_;
+{ 105 osteoderm_boss_apperance dorsal_surface_of_the_osteoderms_smooth,_convex,_without_a_central_boss_ possess_a_distinct_rounded_central_boss_ central_boss_on_osteoderm_capped_by_a_small_conical_spine_;
+{ 106 osteoderm_ornamentation external_surface_of_the_osteoderms_smooth_and_without_ornamentation_ osteoderms_ornamented_with_fine,_straight,_regularly_spaced_ridges_radiating_out_from_a_central_boss_to_the_edge_ ridges_fewer,_larger,_lumpier,_and_less_regularly_spaced_;
+{ 107 osteoderm__dimension round_and_small,_with_a_dimension_no_larger_than_diameter_of_the_centra_of_the_dorsal_vertebrae_ osteoderms_large,_with_a_maximal_length_the_same_as_or_larger_than_the_dorsal_vertebral_centra_;
+{ 108 osteoderm_position osteoderms_do_not_touch,_separated_by_a_space_ _osteoderms_more_densely_packed,_often_touching_one_another,_but_touching_only_on_the_shoulder_and_pelvic_regions,_never_sutured_or_articulated_over_the_trunk_ osteoderms_overlapping,_articulated_or_sutured,_forming_a_continuous_layer_on_the_dorsal_surface_of_the_body_;
+{ 109 osteoderms_on_appendages no_osteoderms_over_the_appendages_ fore_and_hind_limbs_covered_with_numerous_conical_osteoderms_;
+{ 110 gastralia present absent;
+{ 111 lateral_temporal_fenestra absent_ present;
+{ 112 pteryoid_anterior_extent reaches_level_of_choana_ posterior_to_choana_;
+{ 113 circumorbital_tuberosities circumorbital_skull_elements_lacking_tubercles_or_bosses_ circumorbital_tubercles_present_;
+{ 114 Radiating_ridges dermal_sculpturing_in_the_form_of_relatively_straight_ridges_radiating_from_the_centre_of_dermal_skull_roof_bones_absent_ regular_ridges_present_;
+{ 115 Circular_Pits cranial_sculpture_in_the_form_of_circular_pits_absent_ present;
+{ 116 Jugal_anterior_process does_not_extend_to_anterior_orbital_rim_ extends_at_least_to_level_of_orbital_rim_;
+{ 117 Quadratojugal_anterior_extent does_not_reach_level_of_posterior_border_of_orbit_ reaches_posterior_border_of_orbit_;
+{ 118 Caniniform_region present absent;
+{ 119 Jaw_articulation_position anterior_to_occiput_ even_with_occiput_;
+{ 120 Posterior_margin_of_skull_roof with_single,_median_embayment_ roughly_straight_;
+{ 121 Quadrate_ramus_of_pterygoid merges_smoothly_into_transverse_flange_without_distinctive_excavation_ deep_excavation_on_posterolateral_surface_;
+{ 122 Suture_between_jugal_and_maxilla straight,_jugal_thins_out_smoothly_towards_anterior,_or_upright,_but_no_dramatic_vertical_'step'_ "-'stepped"--,_anteriormost_tip_of_jugal_very_narrow_but_expands_broadly_posteriorly_along_with_a_dramatic_thinning_of_the_posterior_process_of_the_maxilla_;
+{ 123 Temporal_(otic)_notch_morphology restricted_to_posterior_half_of_cheek_ closely_approaches_the_orbital_margin_;
+{ 124 Contribution_of_maxilla_to_external_naris maxilla_either_excluded_from_naris_or_forms_only_its_ventral/posterior_edge_ maxilla_extends_also_to_the_posterodorsal_margin_of_naris_;
+{ 125 Postfrontal_''horn'' absent present;
+{ 126 Central_boss_on_frontal absent present;
+;
+
+
+ccode  - 0.126;
+
+
+;

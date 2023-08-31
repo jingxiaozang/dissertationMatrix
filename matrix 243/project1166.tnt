@@ -1,0 +1,230 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 17.49.31'
+141 71
+
+&[num]
+Hypothetical_ancestor                  000000000000000000000000000000000000000?000000000000000?000000000000000000000000000000000000000000000000000000-------000000000000000000000000
+Proganochelys_quenstedti               000000000000--000000000000000000000000??0000000000000001000000000000?000000000-0000000000000000000000000?00000-------00000000000000--00000000
+Proterochersis_robusta                 ????????????????????????????????????????????????????????????????00???00??0?110?00000100000010000000000000???????????????????0?????1??00??????
+Palaeochersis_talampayensis            00000?01000????00000000??00001?0?10010??0100000000?1?001?100????00????0??0?0?0?00000?00?0000000???0????0?0???0-------0????1?000?0?0??01000000
+Australochelys_africanus               ???????10?0????00?0???0??00?0??0010010???10000000??1?0???100?0???????????????????????????????????????????????????????????????????????????????
+Kayentachelys_aprix                    00001011110???100000011000010100120110??010000000001000??101000000000100000210000000100000000000001000000?00?0-------00000101100101--011?????
+Meiolania_platyceps                    0000100110010010000101?000010101120130001111000?11010000110130000000?100000210?1101010010?00000000100????00001001111100?000?1100101--01?000?0
+Mongolochelys_efremovi                 0010100110010?1000010110000101011201100?111000001101?0???10100000000010000021011101010010000000000100000000001011100100000131100101--0??10011
+Kallokibotion_bajazidi                 0010??011?01?0100000010000010101120130001111??0??0010000?1010?0?0000010000?21000001?100011100000001000000?0??0-------0???0?01??0?0?--????????
+Platychelys_oberndorferi               ????????????????????????????????????????????????????????????????00100100000110001011100011110001001000002?0??1???????10101???????110001??????
+Caribemys_oxfordiensis                 ????????????????????????????????????????????????????????????????00100?0??0?2???01011?000111?00010010000?2?0??1????????0??????????1?10????????
+Notoemys_laticentralis                 ???????????????????????????????2120??0??11?0??????01?0???1010???00100100000210001011?00011?1000???1?00002?0??100?????201?????????1?11???10011
+Elseya_dentata                         01100111110110101-201110000101021202301-11101000100100001101200000100100201211-00011100012110001001000002100010001101201011121111111101110011
+Chelodina_siebenrocki                  01100111111110101-201110000101021202301-11101000001100001101201000100100200211-00011100012010001011000002100010001101201011121111111101110011
+Phrynops_geoffroanus                   01100111110110101-201110000101021202301-11101000001100001101201000100100100211100011100012110001001000002100010001101201011121111111101110011
+Erymnochelys_madagascariensis          1--101011111101000101110000211021212301-11101000100100001101000100100100101211100011100011110001001000002100011111111201011121101111101110011
+Pelomedusa_subrufa                     1--101011111101000301110000211021212301-11101000100100001101200100100100101211100011100011110001001000002100011111111201011121101111101110011
+Podocnemis_expansa                     1--101011111101000101110000211021212301-11101001100100001101000100100100101211100011100011110001001000002100011111111201011121111111101110011
+Dorsetochelys_delairi                  001010011101??1000000110000101?11201100?111100000001?0??01011????????????????????????????????????????????????????????????????????????????????
+Pleurosternon_bullockii                0110??11110110100000?1100001?101120110001111001000010000010111??00?0010000021010001??000?0?00001001000000?0??0-------0????????????1??0???????
+Glyptops_plicatulus                    01101?1111?110100????110?011?101120?100?111100100??1000001011?0000100100000211100011100010100000001000000?0000-------0010???1111101--011?????
+Dinochelys_whitei                      0?10??1111????10000???10?01??????20?1???????????????0????101??0?00??01000002101000111000?0?000000010000?010??0-------0?1??1?1???????????10011
+Neurankylus_eximius                    ???0??11?1?110?????001?????????1120?101-11110?0?00010000010111?0001001000002111000111000101?0000001000000????????????101?????????0?--????????
+Trinitichelys_hiatti                   00101021111110100000011000010101120?101-11110000000100??0101110000100?00?002111000111000101?00000010000?0?0000-------??10????????????????????
+Plesiobaena_antiqua                    00101021111110100000011000010101120?101-11110000000100??010111000010010000021110001110001010000002100001010001???11111010010?111101--01110011
+Boremys_pulchra                        001010211111101000000110000101011201101-11110001000100??01011100001001000022111000111000101?00000210000?010000-------10100122????0?--????????
+Baena_arenosa                          1??01021110110100000011000010101120?101-11110000000100000101110100100100002211100011100011100000021000010????????????1010???2????0?--011?????
+Chisternon_undatum                     001010211101101000000110000101011201101-11110001000100000101110100100100002211-00011100010100000021000010?000100111111010012?111101--?11?????
+Portlandemys_mcdowelli                 0011100111?101??????0110000101011201110111110000?001001001013000?????????????????????????????????????????????????????????????????????????????
+Plesiochelys_etalloni                  0011100111?101100000011000010101120111011111010010010011010130000010010000221010?011100012100000001000000????????????0010????111101--01110011
+Plesiochelys_planiceps                 ???1100111?101??????0??00??1?101120?1101111101001001001001013000?????????????????????????????????????????????????????????????????????????????
+Portlandemys_gracilis                  0010??11?1?1?1??0??????????????112011101?111??0??001001001013?00?????????????????????????????????????????????????????????????????????????????
+Tropidemys_langii                      ????????????????????????????????????????????????????????????????00100100002211?0?0??????121??00?????00000????????????101?????????????????????
+Solnhofia_parsonsi                     0011100111?1011000?00110000111011201110011110000100100000101300000??01?00002101110???0000200000?????00000110?0-------??1??10?11110?--?1110011
+''Thalassemys''_moseri                 00101011110101100000011000011101120111011111010000010000010130??00100?00?0?2?0??10??????12???00?????000?011??0-------1???????????????????????
+Santanachelys_gaffneyi                 001010011111001000000110?0011101120110??111101001001?0??01013?0?00?00100010210011011100002000?0??????????11??????????0?1?????11?10?--01111011
+Xinjiangchelys_latimarginalis          ???????????????????????????????1??????????1??????????1??????????00100100000211110011100002000000001000010?1000-------20100131111101--011?????
+Hangaiemys_hoburensis                  0011100111011?10000001100001010112??10??111100101001?1??01013???001001000002111100111001020000001-10000?0111?100111112?10????????????????????
+Judithemys_sukhanovi                   ???1??0111?11?1000?0011???0101?1120?10??111100001001010001013?0?001001000002111100111001020000001-10000?0111?100111112?10113?11?101--01110011
+Dracochelys_bicuspis                   ???11?011111101000?0?110000101?1121?10??111100001001????01013??????????????????1???????1?????0???????????????????????????????????????????????
+Sinemys_lens                           0010??1111111?100030?11??00??1?1121220??111000001001?10?0101300?0010010000121111??11100-0200000???1?000?0???0????????0????1?????????????10011
+Ordosemys_leios                        0010100111?1111000000110000101011211100?111100001001010?01013???00100100000211111????00?0200000???1?0001011?01?01??010?10113?111101--011?????
+Toxochelys_latiremis                   001110011111?0100000011000010101120110??111100001001001001013?010020010001021111101110010200100???1?0?01011?110011111?010011?11110?--01111011
+Caretta_caretta                        1--110011?01001000000110100101011201100?1111020-1001101001013001002000000102111110111001020010001-110000011111001111120111112111101--01112011
+Chelonia_mydas                         1--1?0011101001000000110101101011201100?1111020-1001101001013001002001000102111110111001020010001-11000001111100111112011111211110?--01112011
+Mesodermochelys_undulatus              ????????????????????????????????????????????????10????????????011020010001?2???11011100102001?0??????????11101???????20101112111101--011?????
+Dermochelys_coriacea                   1--111011000--0000000110000101011201101-1111020-1001101001013001202003-0-1-2---11-1110010200110---1------11111001111120-01112111101--01112011
+Protochelydra_zangerli                 1--11?0110111?1000000110000101?1120220??111100011001?0??010130???????????0?????1001110010200000?1-1000110???????????????????2110101--0???????
+Macroclemys_temminckii                 1--110011011101000000110001101011202200?111100?11001000001013001001101000001111110111001020000001-100011011111001111120110132110101--01110011
+Chelydra_serpentina                    1--1100110111010000001100011010112022000111100011001000001013001001101000002111110111001020000001-100011011111001111120110132110101--01110011
+Platysternon_megacephalum              1--110011011101001000110001101011201200?111100011001000001013001001001000002111100111000020100001-100000011111001110120110132110101--01110011
+Mongolemys_elegans                     1--?10011111101000000110000101011202100?1111000010?100??01013001001001000002111000111000121100001-1000000????100111012?1101?2110101--011100??
+Gopherus_polyphemus                    1--110011111101000300110000101011202200?111100011001000001013001001001000002111000111000121100001-100000111111001110120111112110101--01100011
+Chrysemys_picta                        1--110011111101000300110000101011202100?111000011001000001013001001001000002111000111000121100001-100000111111001110120111112110101--01110011
+Geoclemys_hamiltonii                   1--110011011101100300110000101011202100?111100011001000001013001011001000002111000111000121100001-100000111111001110120111112110101--01110011
+Emarginachelys_cretacea                1--11001111110100030011000010111120?100?111100011001000001013???0111010000?2111100111000020000001-100??0011??10011111??1?????110101--01110011
+Baptemys_wyomingensis                  1--110011111101000300110000101111202100?1111000?1001?0000-213001011001000002111000111000121000001-10010001111101111112?111132110101--11110011
+Dermatemys_mawii                       1--110011?11101000300110000101111202100?11110001100100000-213001001?01001002111000111000120100001-110100011111111111120111112110101--01110011
+Hoplochelys_crassa                     ?????????????????????????????????????????????????????????????0??021101000002111000111000020000001-1001100????????????201????2??010?--????????
+Staurotypus_triporcatus                1--1100110111?1101300110001101111202100?11110001100100??0111300102110210?002111001111000020000001-10012001111101111112111111211010?--11110011
+Sternotherus_odoratus                  1--110011011101001300110000101111202100?111100011001000001113001011102111002111001111?10020000001-111120011111011111121111112110101--11110011
+Kinosternon_flavescens                 1--1100110111?1001300110000101111202100?11110001100100??01113001011102111002111001111?10020000001-11112001111101111112111111211010?--11110011
+Zangerlia_neimongolensis               1--11?0110?1??1?003001100001?1?1120?20??111100001001?0??01013?0100??11??00?211?000111000020000100210000001111100000012??1????110101--011000?1
+Basilemys_variolosa                    1--1??01111???1000300110?00??1??120220??111?0??????1??????????0100101100?002111000111000020000100?100000011111000000????????211?101--011000??
+Adocus_beatus                          1--110011111101?00300110000101111202100?111100011001000001013001001011001002111000111000020000100010000001111100000002?11???2110101--01110011
+Peltochelys_durlstonensis              ????????????????????????????????????????????????????????????????0010020010?211000011100002000001001000000????????????????????????????????????
+Sandownia_harrisi                      1--11001110110100000011?10011101120?20??11110000000100100101300??????????????????????????????????????????????????????????????????????????????
+Apalone_spinifera                      1--111011111101100300111210111111201200?111100111001000001013001201003-01--2---11-11110-0200-1----1------110110000002201-1112110101--01110111
+Lissemys_punctata                      1--111011111101100300111210111111201200?111100111001000001013001201003-01--2---11-11110-0200-1----1------110110000002201-1112110101--01110111
+Anosteira_ornata                       1--1??01111???100030011?200111?1120220??1111001?1001?0??010130??10100200100211?10-111000020001----1------????????????????????11??0?--?1110211
+Carettochelys_insculpta                1--111011111101001300111200111111202200?11110011100100??010130011010020010-2---10-111000020001----1------11011000000120111112110101--01110211
+
+;
+
+
+cnames
+{ 0 Nasal_A present absent;
+{ 1 Nasal_B nasals_contact_one_another_medially_along_their_entire_length medial_contact_of_nasals_partially_or_fully_hindered_by_long_anterior_frontal_process;
+{ 2 Nasal_C dorsal_exposure_of_nasals_large dorsal_exposure_of_nasals_greatly_reduced_relative_to_that_of_frontals;
+{ 3 Prefrontal_A absent present,_nasal_contact_with_frontal_absent;
+{ 4 Prefrontal_B absent present;
+{ 5 Prefrontal_C present absent;
+{ 6 *Prefrontal_D large reduced absent_or_near_absent;
+{ 7 Prefrontal_E present absent;
+{ 8 Lacrimal_A present absent;
+{ 9 Frontal_A absent,_prefrontal_contact_postorbital present;
+{ 10 Parietal_A present,_upper_temporal_emergination_absent_or_only_poorly_developed absent,_upper_temporal_emargination_well_developed;
+{ 11 Parietal_B absent,_trigeminal_foramen_only_developed_as_a_notch present,_trigeminal_foramen_clearly_formed_by_the_descending_process_of_the_parietal;
+{ 12 Parietal_C short,_inferior_parietal_process_only_produces_a_narrow_strut_anterior_to_trigeminal_foramen,_palatine_contact_absent elongate,_inferior_parietal_process_produces_an_extended_process_anterior_to_trigeminal_foramen,_palatine_contact_commonly_present;
+{ 13 Parietal_D absent present;
+{ 14 Jugal_A present absent,_contact_between_postorbital_and_quadratojugal_commonly_present;
+{ 15 Jugal_B absent present,_upper_temporal_emargination_extensive;
+{ 16 Quadratojugal_A present absent,_due_to_the_presence_of_a_deep_lower_temporal_emargination;
+{ 17 Quadratojugal_B absent present;
+{ 18 Squamosal_A present absent,_temporal_roofing_well_developed absent,_due_to_lower_temporal_emargination absent,_due_to_upper_temporal_emargination;
+{ 19 Squamosal_B absent present;
+{ 20 Postorbital_A absent present,_foramen_palatinum_posterius_situated_posterior_to_the_orbital_wall;
+{ 21 Supratemporal_A present absent;
+{ 22 Premaxilla_A present absent;
+{ 23 Premaxilla_B absent present;
+{ 24 Premaxilla_C present absent,_premaxillae_well_ossified absent,_foramen_intermaxillaris_present;
+{ 25 Premaxilla_D absent present;
+{ 26 Premaxilla_E absent present;
+{ 27 *Vomer_A paired single single,_greatly_reduced_or_absent;
+{ 28 Vomer_B present absent,_medial_contact_of_palatine_present;
+{ 29 Vomer_C present absent;
+{ 30 Palatine_A absent present,_well_developed;
+{ 31 Quadrate_A absent fully_or_partially_present,_produced_by_the_posterior_process_of_the_pterygoid fully_or_partially_present,_produced_by_the_ventral_process_of_the_quadrate_or_the_prootic,_or_both;
+{ 32 Quadrate_B absent present,_formed_by_quadrate;
+{ 33 *Quadrate_C absent partially_developed fully_developed;
+{ 34 Quadrate_D absent large_and_deep;
+{ 35 *Quadrate_E absent present,_quadrate_does_not_fully_enclose_the_anterior_perimeter_of_the_antrum present,_quadrate_fully_encloses_the_anterior_perimeter_of_the_antrum;
+{ 36 Quadrate_F absent,_stapes_articulates_along_the_medial_side_of_the_quadrate present,_but_open_posteroventrally present_and_closed,_but_only_enclosing_the_stapes present_and_closed,_enclosing_stapes_and_the_Eustachian_tube;
+{ 37 Quadrate_G absent present;
+{ 38 Epipterygoid_A present absent;
+{ 39 Epipterygoid_B absent present;
+{ 40 Pterygoid_A present absent;
+{ 41 Pterygoid_B open fused;
+{ 42 Pterygoid_C present absent;
+{ 43 Pterygoid_D absent present;
+{ 44 Pterygoid_E absent present;
+{ 45 Pterygoid_F present present,_but_open_laterally absent;
+{ 46 Pterygoid_G pterygoids_in_medial_contact_with_one_another_for_at_least_part_of_their_length absent,_contact_of_the_basisphenoid_with_the_vomer_or_palatines,_or_both,_present;
+{ 47 Pterygoid_H present absent;
+{ 48 Supraoccipital_A poorly_developed protruding_significantly_posterior_to_the_foramen_magnum;
+{ 49 Supraoccipital_B absent present;
+{ 50 Exoccipital_A absent present;
+{ 51 Opisthotic_A loosely_articulated_to_squamosal_and_quadrate tightly_sutured_to_squamosal_and_quadrate;
+{ 52 Basisphenoid_A flat rod-like,_thick,_and_rounded;
+{ 53 Basisphenoid_B absent present;
+{ 54 Basisphenoid_C dorsum_sellae_overhangs_the_sella_turcica_posteriorly dorsum_sellae_does_not_overhang_the_sella_turcica,_development_of_an_anteriorly_sloping_surface_anterior_to_the_dorsum_sellae;
+{ 55 Basisphenoid_D absent present;
+{ 56 Hyomandibular_nerve_A hyomandibular_nerve_passes_through_cranio-quadrate_space_parallel_to_vena_capitis_lateralis hyomandibular_nerve_runs_independent_from_vena_capitis_lateralis;
+{ 57 Stapedial_artery_A posterior_to_fenestra_ovalis_between_paroccipital_process_and_quadrate anterior_to_fenestra_ovalis_between_quadrate_and_prootic;
+{ 58 *Stapedial_artery_B relatively_large_(the_size_of_a_large_blood_foramen) significantly_reduced_(the_size_of_a_nerve_foramen) absent;
+{ 59 Jugular_foramina_A absent present;
+{ 60 Canalis_caroticum_A formed_by_basisphenoid_only formed_by_both_basisphenoid_and_pterygoid_halfway_along_the_basisphenoid-pterygoid_suture formed_by_prootic_only formed_mostly_or_fully_by_pterygoid,_foramen_positioned_near_the_posterior_end_of_the_basisphenoid;
+{ 61 Fenestra_perilymphatica_A large reduced_in_size_to_that_of_a_small_foramen;
+{ 62 Dentary_A fused sutured_only;
+{ 63 Splenial_A present absent;
+{ 64 *Carapace_A present partially_present absent;
+{ 65 *Carapace_B absent present,_but_only_poorly_developed present_and_pronounced;
+{ 66 Nuchal_A cervical_articulates_with_nuchal_along_a_blunt_facet articulation_absent cervical_articulates_with_nuchal_along_a_raised_pedestral;
+{ 67 Nuchal_B absent present,_process_crosses_peripheral_1_to_contact_peripheral_2_and_sometimes_even_peripheral_3;
+{ 68 Neural_A absent present;
+{ 69 *Peripheral_A more_than_11_pairs_of_peripherals_present 11_pairs_of_peripherals_present 10_pairs_of_peripherals_present less_than_10_pairs_of_peripherals_present;
+{ 70 Peripheral_B absent present;
+{ 71 Costal_A absent present;
+{ 72 *Costal_B absent medial_contact_of_up_to_three_posterior_costals medial_contact_of_all_costals_present;
+{ 73 Costal_C absent,_costals_fully_or_almost_fully_ossified,_costal_fontanelles_small_or_absent present,_costals_ossified_only_two_thirds_the_length_of_the_costal_ribs,_costal_fontanelles_well_developed;
+{ 74 Cervical_A one_cervical_present cervicals_absent,_carapacial_scutes_otherwise_present more_than_one_cervical_present;
+{ 75 *Supramarginal_A complete_row_present,_fully_separating_marginals_from_pleurals partial_row_present,_incompletely_separating_marginals_from_pleurals absent;
+{ 76 Vertebral_A four_present five_or_more_present;
+{ 77 Vertebral_B vertebrals_2_to_4_significantly_broader_than_pleurals vertebrals_2_to_4_as_narrow_or_narrower_than_pleurals;
+{ 78 Vertebral_C sulcus_positioned_on_neural_6 sulcus_positioned_on_neural_5;
+{ 79 Plaston_A osseous ligamentous;
+{ 80 Plastron_B absent_in_adult_individuals present,_even_in_adult_individuals;
+{ 81 Plastron_C absent,_scute_sulci_and_bony_sutures_do_not_overlap present,_scute_sulci_coincide_with_hyoplastral-epiplastral_contact;
+{ 82 Entoplastron_A present,_medial_contact_of_epiplastra_absent absent,_medial_contact_of_epiplastra_present;
+{ 83 Entoplastron_B posterior_process_long posterior_process_reduced_in_length;
+{ 84 Entopastron_C present absent;
+{ 85 Entoplastron_D massive_and_cross-_to_diamond-shaped strap_like_and_V-shaped;
+{ 86 Entoplastron_E present absent;
+{ 87 Epiplastron_A epiplastra_squarish_in_shape,_minor_posterior_contact_with_hyoplastra epiplastra_elongate_in_shape,_long_posteromedial_contact_with_hyoplastra;
+{ 88 Hyoplastron_A peripherals_only peripherals_and_first_costal;
+{ 89 *Mesoplastron_A one_or_two_pairs_of_mesoplastra_present_that_fully_hinder_any_contact_between_hyoplastra_and_hypoplastra one_reduced_pair_of_mesoplastra_present_that_allows_partial_contact_between_hyoplastra_and_hypoplastra mesoplastra_absent;
+{ 90 Hypoplastron_A peripherals_only peripherals_and_costal_5,_or_costals_5_and_6;
+{ 91 Xiphiplastron_A absent present;
+{ 92 Xiphiplstron_B elongate_rectangles narrow_struts_that_frame_a_xiphiplastral_fontanelle;
+{ 93 Plastral_scutes_A present absent;
+{ 94 Plastral_scutes_B straight distincly_sinuous;
+{ 95 Gular_A one,_medially_situated_pair_of_scutes_present one,_medially_situated_single_scute_present;
+{ 96 Extragular_A present absent;
+{ 97 Extragular_B absent present,_contacting_one_another_anterior_to_gular(s) present,_contacting_posterior_to_gular(s);
+{ 98 Extragular_C present absent;
+{ 99 Intergular_A absent present;
+{ 100 Humeral_A one_pair_present two_pairs_present,_subdivided_by_a_plastral_hinge;
+{ 101 Pectoral_A present absent;
+{ 102 *Abdominal_A present,_in_medial_contact_with_one_another present,_medial_contact_absent absent;
+{ 103 Anal_A only_cover_parts_of_the_xiphiplastra anteromedially_overlap_onto_hypoplastra;
+{ 104 Inframarginal_A more_than_two_pairs_present,_plastral_scutes_do_not_contact_marginals two_pairs_present_(axillaries_and_inguinals) absent,_unrestricted_contact_between_plastral_scutes_and_marginals_present;
+{ 105 Cervical_rib_A large_cervical_ribs_present cervical_ribs_reduced_or_absent;
+{ 106 Cervical_vertebra_A middle_of_the_centrum anterior_end_of_the_centrum;
+{ 107 Cervical_vertebra_B absent present;
+{ 108 Cervical_vertebra_C absent present;
+{ 109 Cervical_articulation_A articulations_not_formed articulations_formed;
+{ 110 Cervical_articulation_B 2(3 2)3;
+{ 111 Cervical_articulation_C 3(4 3)4;
+{ 112 Cervical_articulation_D 4(5 4)5;
+{ 113 Cervical_articulation_E 5(6 5)6;
+{ 114 Cervical_articulation_F 6(7 6)7;
+{ 115 Cervical_articulation_G 7(8 7)8;
+{ 116 Cervical_articulation_H 8(dorsal 8)dorsal none,_vertebrae_only_meet_at_zygapophyses;
+{ 117 Dorsal_rib_A long,_extends_full_length_of_first_costal_and_may_even_contact_peripherals_distally intermediate,_in_contact_with_well-developed_anterior_bridge_buttresses intermediate_to_short,_extends_less_than_halfway_accross_first_costal;
+{ 118 Dorsal_rib_B present absent;
+{ 119 Dorsal_rib_C long,_spanning_full_length_of_costals_and_contacting_peripherals_distally short,_not_spanning_farther_than_distally_than_pelvis;
+{ 120 Dorsal_vertebra_A faces_at_most_slightly_anteroventrally faces_strongly_anteroventrally;
+{ 121 Chevron_A present_on_nearly_all_caudals absent,_or_only_poorly_developed,_along_posterior_caudals;
+{ 122 Caudal_A present absent;
+{ 123 Caudal_B all_centra_amphicoelous all_centra_more_or_less_pronounced_procoelous all_centra_more_or_less_pronounced_opisthocoelous anterior_few_centra_procoelous,_posterior_centra_predominantly_opisthocoelous;
+{ 124 *Cleithrum_A present_and_in_contact_with_the_carapace present,_osseous_contact_with_carapace_absent absent;
+{ 125 Scapula_A less_than_one_half_length_of_the_scapular_process more_than_one_half_length_of_the_scapular_process;
+{ 126 Scapula_B present,_contacts_the_glenoid_proximally absent;
+{ 127 Scapula_C absent present;
+{ 128 Coracoid_A present absent;
+{ 129 Pelvis_A absent present;
+{ 130 Ilium_A absent present;
+{ 131 Ilium_B extends_from_costals_onto_the_peripherals_and_pygal positioned_on_cotals_only;
+{ 132 Ilium_C narrow_and_pointed_posteriorly oval;
+{ 133 Ilium_D absent present;
+{ 134 Ischium_A contact_by_way_of_a_large_central_tubercle contact_by_way_of_two_separate_ischial_processes;
+{ 135 Hypoischium_A present absent;
+{ 136 Manus_A most_digits_with_three_elongate_phalanges most_digits_with_two_short_phalanges;
+{ 137 *Manus_B absent short_paddles_present elongate_paddles_present;
+{ 138 *Manus_C absent short_flippers_present elongate_flippers_present;
+{ 139 Pes_A present absent;
+{ 140 Pes_B metatarsal_5_functions_as_a_true_metatarsal metatarsal_5_functions_as_a_tarsal,_with_the_first_phalanx_of_digit_5_functioning_as_a_metatarsal;
+;
+
+
+ccode  - 0.4 6.140 + 5;
+
+
+;

@@ -1,0 +1,146 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 17.46.05'
+72 56
+
+&[num]
+Homolodromia                       0000010010100000000010000-0000000000000100000000000000000000000000000000
+Homola                             0000010010100000000010000-0000000000000100000000000000000000000001000000
+Cristafrons                        0100000?0100000022111001010000?????00110?1??????1??0?????????????????0??
+Cenocorystes                       010000011010000022111002011000101000?????000?101100000000000000002?00?01
+Notopocorystes                     010001011010111022111002011000101000011000000001100000000000000002100001
+Eucorystes                         01000001101001102211100201100010100001?00000?001100000000000000002100001
+Joeranina                          01000001101011102211100201100010100001???0000001100000000000000002100001
+Cretacoranina                      01000011101100002211100201100010100001100000?001100000000000000002100001
+Ferroranina                        01000001111100002211100201100010100001100000?001100000000000000002100001
+Necrocarcinus                      10000101100011112211100201111010?00000?1?0000110000000000000000002100001
+Corazzatocarcinus                  1000010?10001?112211100201111010???000?100????????????????????????????01
+Paranecrocarcinus                  1000010110001111221110020111101??????????0??????????????????????????????
+Planocarcinus                      100001011000111122111002011100???????????0?0?1100000000?????0????????0??
+Hadrocarcinus                      100001011000111122111002012110???00000???000?1100000000?????0?00?????001
+Camarocarcinus                     10000101100000102211100201211110000000?10000?1100000000000000000021000?1
+Cretacocarcinus                    1000010110000110221110020111111000000????0????100???????????????????????
+Cenomanocarcinus                   100001011000101122111002012111100000010100000101100000000000000002100001
+Campylostoma                       10000101100010112211100201211?1000000??1?0000101100000000000000002100001
+Orithopsis                         1000010100001111221110020121000??00?0????0000100000000000000000002100001
+Silvacarcinus                      1000010100001111221110020121000??00?0????00001000000000000000000021000?1
+Lyreidus                           0000001200010000?000200?0?0000110100011101101101100000100001011202011011
+Lysirude                           0000001200010000?000200?010000110100011101101101100000100001011202011011
+Ranidina                           0100001200011000000020010100001???000????1?0?1011000001000?????2????10?1
+Giulianolyreidus_johnsoni          01010012?01100001000?001010000110100???101?0?1011000001000?????20201101?
+Macroacaena_succedana              01000012000100001110200202000011010001110110?1011000001000????1202011011
+Macroacaena_alseana                01010012000100001110200202000011010001???1?0?1011000001000????1202011011
+Macroacaena_naselensis             01010012000110001110200202000011010001???1?0?1011000001000????1202011011
+Raninoides_willapensis             ???????????????????????????????????????10?1?1?????????????1111???[-2]??2100
+Macroacaena_fudoujii               010100120011100022122001020000110100011??1?0?1011000001000????1202011001
+Bicornisranina                     010000120011000022122001120000??????0??1?1??????????????????????????????
+Rogueus                            0100001210110000201010011200001?010?0????1?0?1011000001000????120201????
+Marylyreidus                       00000012101100002211100101000011010001?10110?1011100001000????1?020110?1
+Bournelyreidus                     00000012101100002211100201000011010001?10110?1011100001000????12020110?1
+Lophoranina                        01101012111100002211200201000010010101100111110110111112101111221-002100
+Vegaranina                         01101012111100002211200201000010010101?00111110110111112101111221-002100
+Raninella                          01000012111100002211200201000010010101?00111110110111012101111221-002100
+Ranina                             01100012011100002212200211000010010101100111110110111112101111221-002100
+Quasilaeviranina                   0100001201110000221110010100001????1011101?1?1011010101201??1?221-0021??
+Notopoides                         01000012110100002211100000000010010101110111110110101012011111221-002100
+Notosceles                         01000012?11100002212?00101000010010101110111110110101012011111221-002100
+Ranilia                            01000012001100002011110101000010011111100111110110111011101111221-002100
+Umalia                             01000012000100002211100101000010011111100111110110111011101111221-002100
+Cosmonotus                         00000012201110001100010101000010011111100111110110111011101111221-002100
+Notopus_dorsipes                   01000012011110002010100101000010011111100111110110111011101111221-002100
+Ponotus                            010000120011100020101001010000100111111??111?1011011101110?111221-002100
+Notopella                          010000120011000020101001010000??????1???????????????????????????????????
+Lianira                            01000012001100002011001101000010011111100111110110111011101111221-002100
+Raniliformis                       010000120011000021100111010000?????111???11?????????????????????????????
+Eumorphocorystes                   010000120011100021100111010000?????11???????????????????????????????????
+Pseudoraninella_muelleri           0100001201110000201101110100001????11110011?????10????1???????2?1-002100
+Notoporanina_beyrichi              0100001201110000201101110100001001111????111?1011011101110????22????????
+Italiarina_punctulata              01000012000100002010010101000010011111100111?1011011101110????221-002100
+Lovarina                           00001012001100002110010101000010011111100111110110111011101111221-002100
+Symethis                           00000012110100000100100101000010010101101111110010102012101111211-002100
+Cyrtorhina                         00100012000100002211100201000010010101101111110121202012101111211-002100
+Antonioranina                      00000012000100002211100201000010010101101111110121202012101111211-002100
+
+;
+
+
+cnames
+{ 0 Carapace_proportions elongate as_long_as_wide_or_wider;
+{ 1 Carapace_widest_position posterior-midlength anterior;
+{ 2 Carapace_with_spinose_ornamentations absent present;
+{ 3 Carapace_coarsely_punctate absent present;
+{ 4 Carapace_with_terrace_ornamentations absent present;
+{ 5 Anterior_carapace_region smooth with_distinct_tubercles;
+{ 6 Cervical_groove distinct indistinct;
+{ 7 Ventral_aspect_of_cervical_groove well_developed ending_at_pleural_stuture absent;
+{ 8 Rostrum simple bifid_or_trifid absent;
+{ 9 Postfrontal_region terrace_absent present;
+{ 10 Fronto-orbital_margin narrower_or_as_wide_as_half_the_carapace_width wider_than_half_the_carapace_width;
+{ 11 Branchiocardiac_groove distinct indistinct;
+{ 12 Longitudinal_median_carina,_ridge_or_tubercles absent present;
+{ 13 Branchial_groove absent present;
+{ 14 Epibranchial_ridge absent_or_weak present;
+{ 15 Branchial_ridges absent present,_tubercular_or_granular;
+{ 16 Innerorbital_fissure absent weak well_developed;
+{ 17 Outerorbital_fissure absent weak well_developed;
+{ 18 Innerorbital_lobe_or_spines obsolate well_developed;
+{ 19 Supraorbital_lobe_or_spine absent clearly_defined elongate_lobe;
+{ 20 Outerorbital_lobe_or_spine absent clearly_defined elongate_lobe;
+{ 21 Orientation_of_orbital_margin horizontal oblique_backwards;
+{ 22 Supra-_and_outerorbital_margin_forming_loop absent present;
+{ 23 Teeth_or_spines_on_anterolateral_margins absent present_with_single_spine present_with_2>_spines;
+{ 24 Anterolateral_spines simple with_subspines;
+{ 25 Last_anterolateral_teeth absent short,_shorter_or_equal_to_outerorbital_teeth longer_than_outerorbital_tooth;
+{ 26 Epibranchial_tooth_or_spine absent faint well_developed;
+{ 27 Junction_between_anterolateral_and_posterolateral_margins not_defined well_defined;
+{ 28 Spines_or_teeth_on_posterolateral_margins absent present;
+{ 29 Spine_or_tubercle_at_posterior_corner absent present;
+{ 30 Oxystomatan_condition absent present;
+{ 31 Maxilliped_3_merus_length shorter_than_or_as_long_as_ischium longer_than_ischium;
+{ 32 Maxilliped_3_merus longitudinal_furrow_absent present;
+{ 33 Coxa_of_maxilliped_3 large_or_flabelliform small,_flat;
+{ 34 Ischium_of_maxilliped_3_with_oblique_crest absent present;
+{ 35 Maxilliped_3_basis defined fused_ischium;
+{ 36 Notopine_chela absent present;
+{ 37 Pereiopods_2_to_4_form normal wide,_flattened;
+{ 38 Pereiopod_4_propodus longer_than_wide wider_than_long;
+{ 39 Pereiopod_5_coxa large small;
+{ 40 Pereiopods_2-4_dactyli normal strongly_modified;
+{ 41 Branchiostegite normal reduced;
+{ 42 Pleurites_5?7 completely_concealed exposed;
+{ 43 Sterno-abdominal_depression present absent;
+{ 44 Spermatheca_opening thoracic_sternal_suture_7/8 endosternite_7/8;
+{ 45 Episternites_4-7_sterno-coxal_depression present absent;
+{ 46 Episternites weakly_or_moderately_raised strongly_raised;
+{ 47 Sternite_3 clearly_divided_from_sternite_4 not_divided_from_sternite_4;
+{ 48 Sternites_3-4_anterior_margin simple,_triangular crown_shaped narrow;
+{ 49 Sternite_4_width wide narrow;
+{ 50 Sternite_4 medially_concave nearly_flattened rather_convex;
+{ 51 Sternite_5_posterior_line indistinct forming_V-shaped;
+{ 52 Sternite_5 medially_concave nearly_flat raised;
+{ 53 Sternite_5_with_foliaceous_extension absent present;
+{ 54 Sternites_5_and_6_with_lateral_extention absent present;
+{ 55 Sternite_6 medially_concave nearly_flat raised;
+{ 56 Sternite_6_width wide extremely_narrowed;
+{ 57 Junction_between_sternite_6_and_pleurite_6 narrow wide;
+{ 58 Sternite_7_width wide extremely_narrowed;
+{ 59 Sternite_7 medially_concave raised;
+{ 60 Suture_5/6 incomplete complete;
+{ 61 Suture_6/7 incomplete complete;
+{ 62 Median_line_on_sternites absent reaching_sternite_7 reaching_sternite_5;
+{ 63 Sternum/pterygostome_junction absent present,_narrow present,_wide;
+{ 64 Locking_system_of_abdomen present absent;
+{ 65 Position_of_locking_system,_if_present maxilliped_coxae sternite_4 sternite_5;
+{ 66 Sternite_with_double_peg_system absent present;
+{ 67 Sternite_with_lyreidid_projection absent present;
+{ 68 Abdomen long,_reaching_sternite_4 reaching_sternite_5 short;
+{ 69 Abdomen_fold folded not_fold;
+{ 70 Abdominal_somite_4_with_spine absent present;
+{ 71 Abdominal_somite_6 as_long_as_somite_5 longer_than_somite_5;
+;
+
+
+ccode  - 0.71;
+
+
+;

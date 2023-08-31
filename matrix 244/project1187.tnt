@@ -1,0 +1,131 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 17.50.19'
+81 32
+
+&[num]
+Protorosaurus_speneri                  0000000000????0000-000000000-000100000000001000?00000100000000000000?0000000000-0
+Malerisaurus_langstoni                 ????0??000011??0011?????0???0000100??0?000010??01100010?1000000000?0000??0???00-0
+Azendohsaurus_madagaskarensis          000000100001-010011000000000110010100000000000000110011010000000000000000000000-0
+Prolacerta_broomi                      0000001000000?0000-000000000-000100000000000000000000000?00000000000?0000000000-0
+Trilophosaurus_buettneri               000000000001000100-00000?000-1011111-00000?000001000000000000000000010000000000-0
+Unnamed_Loricatan                      00????000???????010??00??00000000?00?0???????????????????????????????????????????
+Doswellia_kaltenbachi                  0000001?00000100???????0??0??0??00???0?000111000010??????000100000?0??????????11?
+Angistorhinus_alticephalus             0000001000001000110011110101000?0010101100010?0?0100000?????0??????00??0?0???2110
+Euparkeria_capensis                    000000100000000001000000000000000000001100010000000000000000000000000000001000100
+Triopticus_primus                      1110011111111?0???????????1??????????????????????????????????????????????????????
+Revueltosaurus_callenderi              0000?0110010100001100000000011110010001100010000110001000000000000000000001002100
+Longosuchus_meadei                     0100?1100011110101?100000000?0000111-012001110000100011000001010100001000010?2120
+Poposaurus_gracilis                    0??????????????0010??00000?000000010?0???00011010110000001110111110010000011110-1
+Effigia_okeeffeae                      000?011000?111?1---000000000-----2-1-1201100?11101111001?110011211?110100010010-1
+Asilisaurus_kongwe                     000??0100?1????1010?00000000?0011110-0100000000011000000?0000010?11010011010?10-0
+Silesaurus_opolensis                   00000010001001010100000010001101111000100000100011101000?0010010101010111111110-0
+Lesothosaurus_diagnosticus             000?100000?0?1011110000000001111011000110??0????1100000000100110100100010111?00-1
+Sauropelta_edwardsorum                 0-10110000??110??11?????0???11110?10??0100111???1110011010??1??-0000?10???1111120
+Gastonia_burgei                        0-10110000?0?10?01110000?0?011110?11?0????1110???1?0011??01110???0000?1???????120
+Stegoceras_validum                     10111101111?1?0?1110000??01011110000000???00?????1?0000??01001???0????????????0-?
+Eoraptor_lunensis                      0000000000?0?1?001000000000001000000001?0000100011?00000000001101111?0011110100-1
+Plateosaurus_engelhardti               0000000000101100011010000000110000100010000010001110010010000110111100011110100-0
+Coelophysis_bauri                      0000000000111100010010100000000000000010100011111110000000110111111110111111100-1
+Limusaurus_inextricabilis              00?00??000?????1---0010000?0-----2-1-1201???1?1??1?11001?01101111111?0?11111100-1
+Allosaurus_fragilis                    000000100011111001010000000000000000001100101?011110000010110112011110111110100-1
+Baryonyx_walkeri                       ????00?0001-11?0110?1100110100000000?0101000????1110010?1??101?0???11??1?1????0-1
+Spinosaurus_aegyptiacus                00??00?0???????00100111010?100000010?0?????0?0??1110??1????101?101110011?????00-0
+Ornithomimus_edmontonicus              00000100001?1111---000000000-------1-110110010111110100011110112111110111110100-1
+Protosuchus_richardsoni                00011010001-110000-00?000000-001001000110000000001000000000001100-000000000010100
+Calsoyasuchus_valliceps                000???100????1?????0?10??100????0??0?0???????????????????????????????????????????
+Pelagosaurus_typus                     0001001000?-?10000-011110100-0000000101100?000000100100??000011-1-00?00???????100
+Gavialis_gangeticus                    00011010001-110000-011010100-0000010101100?000000?001000?00001100?000?00001010110
+
+;
+
+
+cnames
+{ 0 Parietal-squamosal_shelf: absent present;
+{ 1 Supratemporal_fenestra_orientation: dorsally_or_nearly_dorsally_directed laterally_directed;
+{ 2 Supratemporal_fenestra,_relative_size: greater_than_1/4_anteroposterior_length_of_orbit less_than_1/4_anteroposterior_length_of_orbit_or_absent;
+{ 3 Otooccipital,_paroccipital_process,_dorsal_margin: separated_from_ventral_margin_of_squamosal connected_to_ventral_margin_of_squamosal;
+{ 4 Supraorbital_bones_(=palpebrals): absent present;
+{ 5 Quadrate,_long_axis_of_body,_angle: posteroventrally_or_vertically anteroventrally;
+{ 6 Quadrate,_head: partially_exposed_in_lateral_view completely_covered_by_the_squamosal;
+{ 7 Skull_roof,_dorsal_to_orbit: thickness_similar_to_the_nasals skull_roof_clearly_thickened_relative_to_the_nasals;
+{ 8 Skull_roof,_dorsal_to_braincase: flat distinctly_vaulted;
+{ 9 Posterior_edge_of_skull_roof,_surface_texture: generally_smooth possessing_node-like_protuberances;
+{ 10 Exocciptial,_lateral_side,_metotic_strut: absent present;
+{ 11 Parabasisphenoid,_ventral_surface,_midline: flat distinct_depression;
+{ 12 Internal_carotid_arteries,_entrance_into_braincase: ventral lateral;
+{ 13 Postfrontal: present absent;
+{ 14 Otooccipitals,_paroccipital_processes,_orientation: lateral_or_posterolateral ventrally_deflected;
+{ 15 Dentary,_anterior_extremity: rounded tapers_to_sharp_point;
+{ 16 Dentition: generally_homodont markedly_heterodont;
+{ 17 Tooth,_serrations: absent present;
+{ 18 Tooth,_serrations,_shape: rectangular_or_rounded pointed;
+{ 19 Narial_size: clearly_smaller_diameter_than_orbit diameter_of_naris_equal_to_or_larger_than_orbital_diameter;
+{ 20 Rostrum_length,_measured_from_anterior_border_of_orbit_to_tip_of_premaxilla_over_total_length_of_skull: preorbital_length_less_than_60%_of_skull_length preorbital_length_more_than_60%_of_skull_length;
+{ 21 Snout,_neurovascular_foramina: absent present_and_densly_covering_anterior_portion_of_snout;
+{ 22 Premaxilla,_anterior_tip: transverse_and_horizontal downturned;
+{ 23 Cranial_size,_relative_to_presacral_vertebral_column: less_than_half_the_length more_than_half_or_greater_the_length;
+{ 24 Dentary,_anterior_tip: deflected_slightly_ventrally_or_pointed_anteriorly_or_nearly_flat curved_dorsally;
+{ 25 Narial_openings: directed_laterally directed_dorsally;
+{ 26 Frontal-parietal_fusion: absent present;
+{ 27 Position_of_external_nares: terminal non-terminal,_well_posterior_of_the_anterior_end_of_the_premaxilla;
+{ 28 Tooth,_serrations,_number: fine,_5_or_greater_per_mm coarse,_less_than_5_per_mm;
+{ 29 Tooth_crown,_mesiodistal_expansion_above_root: absent present;
+{ 30 Maxillary/dentary_teeth,_moderately_developed_lingual_expansion_of_crown_(=cingulum): absent present;
+{ 31 Maxillary_and_dentary_crowns,_shape: apicobasally_tall_and_blade-like apicobasally_short_and_subtriangular;
+{ 32 Tooth_implantation: free_at_base_of_tooth teeth_fused_to_bone_of_attachment_at_base;
+{ 33 Dentary_teeth: present_along_entire_length_of_dentary absent_in_anterior_portion completely_absent;
+{ 34 Teeth,_posterior_edge: concave_or_straight convex;
+{ 35 Premaxillary_dentition: present absent;
+{ 36 Premaxillary_teeth_and_dentary_teeth: premaxillary_teeth_are_labial_to_dentary_teeth premaxillary_teeth_interlock_with_dentary_teeth;
+{ 37 Maxillary_dentition: present absent;
+{ 38 Mandibular_fenestra: absent present_and_less_than_half_the_length_of_the_mandible present_and_equal_to_or_more_than_half_the_length_of_the_mandible;
+{ 39 Anterior_cervical_centra,_length_versus_height: length_greater_than_height length_and_height_subequal length_much_shorter_than_height;
+{ 40 Cervical_vertebrae,_rimmed_depression_on_posterior_part_of_centrum: absent present;
+{ 41 Posterior_cervical_vertebrae,_diapophysis,_posteriorly_directed_processes: absent present;
+{ 42 Posterior_dorsal_vertebrae,_transverse_processes: shorter_than_or_equal_to_the_length_of_the_centrum longer_than_the_length_of_the_centrum;
+{ 43 Presacral_vertebrae,_neural_spines,_dorsal_margin: unexpanded laterally_expanded_into_a_platform_(=spine_table);
+{ 44 Sacral_vertebrae,_total_number: 2 more_than_2;
+{ 45 Sacrum,_neural_spines: not_fused fused;
+{ 46 Sacral_vertebrae,_centra_articular_rims: present_in_the_sacrum nearly_obliterated,_fused_into_a_rod-like_structure;
+{ 47 Distal_caudal_vertebrae,_prezygapophyses: not_elongated elongated_more_than_"¼_the_length_of_adjacent_centrum;
+{ 48 Epipophyses: absent_in_postaxial_anterior_cervical_vertebrae present_in_postaxial_anterior_cervical_vertebrae;
+{ 49 Postaxial_intercentra: present absent;
+{ 50 Hyposphene-hypantrum_articulations_in_the_presacral_vertebrae: absent present;
+{ 51 Scapula,_blade,_distal_end: expanded_anteriorly_and/or_posteriorly_or_unexpanded_relative_to_the_midpoint_of_the_blade tapered;
+{ 52 Humerus,_proximal_portion: expanded_more_than_twice_the_width_of_the_midshft_of_the_humerus expanded_less_than_or_equal_to_twice_the_width_of_the_midshft_of_the_humerus;
+{ 53 Humerus,_distal_end_width: narrower_or_equal_to_30%_of_humerus_length greater_than_30%_of_humerus_length;
+{ 54 Ulna,_olecranon_process: absent_or_poorly_developed well-developed;
+{ 55 Manus,_size: about_1/5_or_more_the_length_of_the_pes_ highly_reduced,_less_than_1/5_the_length_of_the_pes;
+{ 56 Manual_unguals,_length: about_the_same_length_or_shorter_than_the_last_phalanx_of_same_digit distinctly_longer_than_last_phalanx_of_same_digit;
+{ 57 Ilium,_anterior_portion_of_blade,_cuppedicus_fossa: absent present;
+{ 58 Ilium,_anterior_process: short_and_does_not_extend_anterior_to_the_acetabulum long_and_extends_anterior_to_the_acetabulum;
+{ 59 Ilium,_posterior_portion_of_blade,_ventral_view,_brevis_fossa: absent present;
+{ 60 Ilium,_acetabulum: directed_laterally_or_deflected_up_to_60_degrees_ventral_of_mediolateral directed_more_than_60_degrees_of_mediolateral;
+{ 61 Ilium,_ventral_margin,_within_acetabulum: convex_or_straight concave;
+{ 62 Pubis,_length: shorter_than_the_anteroposterior_length_of_the_blade_of_the_ilium longer_than_the_anteroposterior_length_of_the_blade_of_the_ilium;
+{ 63 Pubis,_distal_end: tapers_or_no_expansion posteriorly_expanded_into_boot_and_length_of_the_expansion_less_than_30%_the_length_of_the_shaft posteriorly_expanded_into_boot_and_length_of_the_expansion_greater_than_30%_the_length_of_the_shaft;
+{ 64 Pubis,_length: equal_or_subequal_in_length_to_the_ischium longer_than_ischium;
+{ 65 Ischium,_distal_end: unexpanded_or_tapers expanded_ventral_relative_to_the_ischial_shaft_(=ischial_boot);
+{ 66 Femur_length_relative_to_tibia_length: femur_longer_than_tibia_length tibia_longer_than_or_equal_to_femur_length;
+{ 67 Offset_femoral_head_(posteriorly_hooked_anteromedial_portion_of_proximal_end_of_femur): absent present;
+{ 68 Femur,_bone_wall_thickness_at_or_near_midshaft: thickness/diameter_>0.3 thin_thickness/diameter_<_0.3;
+{ 69 Tibia,_proximal_portion_expansion,_longest_dimension: shorter_than_35%_the_length_of_the_tibia longer_than_35%_the_length_of_the_tibia;
+{ 70 Tibia,_lateral_side,_proximal_half,_proximodistally_oriented_crest_(=fibular_crest): absent present;
+{ 71 Astragalus,_anterior_portion_of_proximal_surface,_anterior_ascending_process: absent present;
+{ 72 Calcaneum_size: about_the_same_size_of_the_astragalus_or_slightly_smaller reduced_to_a_small_cube-like_structure,_much_smaller_than_that_of_the_astragalus;
+{ 73 Calcaneum,_calcaneal_tuber: present absent;
+{ 74 Pes,_longest_metatarsal: 4 3;
+{ 75 Pes,_metatarsal_1,_length: longer_than_or_equal_to_half_the_length_of_metatarsal_II shorter_than_half_the_length_of_metatarsal_II;
+{ 76 Pes,_digit_5,_number_of_phalanges: 1_or_more zero;
+{ 77 Pes,_ungual,_shape: weakly_mediolaterally_compressed_or_triangular_in_cross_section strongly_dorsoventrally_compressed strongly_mediolaterally_compressed_with_a_sharp_dorsal_ridge;
+{ 78 Osteoderms: absent present;
+{ 79 Osteoderms,_arrangement: one_column_of_paramedian_osteoderms_on_either_side_of_midline two_or_more_columns_(paramedian_and_lateral)_of_osteoderms_on_either_side_of_midline second_column_elongated_and_recurved_into_spikes;
+{ 80 Forelimb-hindlimb_length_ratio: more_than_0.55 less_than_0.55;
+;
+
+
+ccode  - 0.26 28.80 + 27;
+
+
+;
