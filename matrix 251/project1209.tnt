@@ -1,0 +1,189 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 17.59.28'
+125 46
+
+&[num]
+Tellervo_zoilus_QL2                     00010000000000000000000000000000000000000000000000000000000??0000000000000100000000000000100000000000002000000000000000001001
+Amauris_ellioti_86_5                    110?0000?0000??0010000?01001000000000000000000120001010110?1111100?0?00?010?0100101?02001200000200011001000000000000001001101
+Amauris_niavius_GH_154                  110?0000?0000??0010000?01001000000000000000000120001010110?1111100?0?00?010?0100101?02001200000200011001000000000000001001101
+Amauris_niavius_Lushai                  110?0000?0000??0010000?01001000000000000000000120001010110?1111100?0?00?010?0100101?02001200000200011001000000000000001001101
+Amauris_tartarea_GH_058                 110?0000?0000??0010000?01001000000000000000000120001010110?1111100?0?00?010?0100101?02001200000200011001000000000000001001101
+Anetia_briarea_CU1                      000000000010000002120002000000001000000?00000000000000010201000020111100000110010100010001000000000001100?0001010000110000010
+Anetia_briarea_152_6                    000000000010000002120002000000001000000?00000000000000010201000020111100000110010100010001000000000001100?0001010000110000010
+Anetia_jaegeri_152_4                    000000000010000002120002000000001000000?00000000000000010201000020111100000110010100010001000000000001100?0001010000110000010
+Anetia_pantheratus_152_11               000000000010000002120002000000001000000?00000000000000010201000020111100000110010100010001000000000001100?0001010000110000010
+Danaus_chrysippus_DL01_P178             1100?00?0101002201000001000201000100010000000012010000000101010121011102010110110012110002111110041011000100?1010120110000110
+Danaus_chrysippus_aegy                  1100?00?0101002201000001000201000100010000000012010000000101010121011102010110110012110002111110041011000100?1010120110000110
+Danaus_chrysippus_alci                  1100?00?0101002201000001000201000100010000000012010000000101010121011102010110110012110002111110041011000100?1010120110000110
+Danaus_chrysippus_chry                  1100?00?0101002201000001000201000100010000000012010000000101010121011102010110110012110002111110041011000100?1010120110000110
+Danaus_eresimus_tethys                  1100?00?0101002201000001000201000100010000000012010000000101010121011102010110110012110002111110041011000100?1010120110000110
+Danaus_erippus_DE_I                     1110100?010100220200000100020101010100000001001201000000020100012011110101011011011211100211100103101000010000000000001001101
+Danaus_genutia_DL02_P778                1100100?01010022010000010002010001101000000000120100000001010101201111020101101100121100021110001?201100010011011110110000110
+Danaus_gilippus_AZ_1_3                  1100?00?0101002201000001000201000100010000000012010000000101010121011102010110110012110002111110041011000100?1010120110000110
+Danaus_ismare_106_14                    1100100?01010022010000010002010001101000000000120100000001010101201111020101101100121100021110001?201100010011011110110000110
+Danaus_plexippus_C_3_8                  1110100?010100220200000100020101010100000001001201000000020100012011110101011011011211100211100103101000010000000000001001101
+Danaus_plexippus_PE_19_8                1110100?010100220200000100020101010100000001001201000000020100012011110101011011011211100211100103101000010000000000001001101
+Euploea_camaralzeman_70_8               000??11??1100000010001020000000?00000000000010001011101100011101000011001101111100?11100021010?0000?11010010000000000001?0102
+Euploea_core_QL7                        000??11??1100000010001020000000?00000000000010001011101100011101000011001101111100?11100021010?0000?11010010000000000001?0102
+Euploea_eunice_JV2                      000??11??1100000010001020000000?00000000000010001011101100011101000011001101111100?11100021010?0000?11010010000000000001?0102
+Euploea_mulciber_SU1                    000??11??1100000010001020000000?00000000000010001011101100011101000011001101111100?11100021010?0000?11010010000000000001?0102
+Euploea_mulciber_SU2                    000??11??1100000010001020000000?00000000000010001011101100011101000011001101111100?11100021010?0000?11010010000000000001?0102
+Idea_leuconoe_BOP_1                     000001001100000011000103000000000000000010000100101100010001111100000000000000000000000000000000000211031?0000000000000011002
+Idea_lecuconoe_84_14                    000001001100000011000103000000000000000010000100101100010001111100000000000000000000000000000000000211031?0000000000000011002
+Idea_lynceus_DL02_B254                  000001001100000011000103000000000000000010000100101100010001111100000000000000000000000000000000000211031?0000000000000011002
+Idea_stolli_SA_3_4                      000001001100000011000103000000000000000010000100101100010001111100000000000000000000000000000000000211031?0000000000000011002
+Ideopsis_gaura_NP95_Y318                1100000?101??0300100000010021000000000010000001100010001011100010000101101011011110211010010000000021100000001110001000000100
+Ideopsis_gaura_N435                     1100000?101??0300100000010021000000000010000001100010001011100010000101101011011110211010010000000021100000001110001000000100
+Parantica_cf_luzonensis_118_17          110?000???10?1100100000010020000000000011000001100010001011100011000110101001111011211010210100000000000000011010001000000100
+Ideopsis_vulgaris_NP95_Y252             1100000?101??0300100000010021000000000010000001100010001011100010000101101011011110211010010000000021100000001110001000000100
+Ituna_ilione_B_17_37                    000000000000000001110002011000021000?01??0001000000000000001000000000000000000000000000000000000000001100?0100000000000001110
+Lycorea_cleobaea_RB241                  000000000000000001110002011000021000?01??0001000000000000001000000000000000000000000000000000000000001100?0100000000000001110
+Lycorea_cleobaeanw122_19                000000000000000001110002011000021000?01??0001000000000000001000000000000000000000000000000000000000001100?0100000000000001110
+Miriamica_n_sp_KSP_4486                 11010000011001100100000000020000000000011000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+Parantica_agleoides_SA_1_1              110?000???10?1100100000010020000000000011000001100010001011100011000110101001111011211010210100000000000000011010001000000100
+Parantica_aspasia_112_8                 110?000???10?1100100000010020000000000011000001100010001011100011000110101001111011211010210100000000000000011010001000000100
+Parantica_melusine_PNG_2_3              110?000???10?1100100000010020000000000011000001100010001011100011000110101001111011211010210100000000000000011010001000000100
+Tirumala_hamata_IJ_1_1                  1100?00?01000121010000010002000000000000010000120000000101?100012?11110?01011111001?11000210?0?00?101101010011011110110000110
+Tirumala_hamata_IJ_1_5                  1100?00?01000121010000010002000000000000010000120000000101?100012?11110?01011111001?11000210?0?00?101101010011011110110000110
+Tirumala_hamata_NSW1                    1100?00?01000121010000010002000000000000010000120000000101?100012?11110?01011111001?11000210?0?00?101101010011011110110000110
+Tirumala_septentr_DL02_P740             1100?00?01000121010000010002000000000000010000120000000101?100012?11110?01011111001?11000210?0?00?101101010011011110110000110
+Tiradelphe                              11011001010000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000000000000000000000000
+Protoploea                              0000?10?011000000200110200000010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+;
+
+
+cnames
+{ 0 Size_of_pulvilli_and_paronychia_(features_of_the_meso-_and_metathoracic_tarsi) large small;
+{ 1 Shape_of_tarsal_claws curved straight;
+{ 2 Condition_of_fifth_tarsal_segment_of_meso-_and_metathoracic_legs short,_with_small_spines long,_armed_with_long_spines;
+{ 3 Length_of_antennae shorter_than_½_length_of_forewing_costa longer_than_½_length_of_forewing_costa;
+{ 4 Hindwing_precostal_vein forked_or_elbowed simple;
+{ 5 Site_of_origin_of_precostal_vein opposite_or_slightly_before_origin_of_Rs well_beyond_origin_of_Rs;
+{ 6 Precostal_cell present absent;
+{ 7 Origin_of_forewing_vein_R2 connate_with_R3+4+5_or_arising_from_discal_cell stalked_with_R3+4+5;
+{ 8 Relationship_of_forewing_veins_R1_and_Sc simple =_anastomosed_for_a_short_distance;
+{ 9 Condition_of_ventral_forewing_cell_membrane hairy bare;
+{ 10 Condition_of_submarginal_spot_in_forewing_cell_M3 double,_single_but_offset single,_centrally_located;
+{ 11 Number_of_pattern_elements_in_forewing_cell three_or_fewer four;
+{ 12 Condition_of_scales_in_pale_areas_of_dorsal_hindwing_cell broad,_appressed narrow,_upstanding;
+{ 13 Condition_of_section_of_hindwing_vein_1A+2A_in_males unmodified swollen;
+{ 14 Distribution_of_androconia_on_male_hindwing_veins_1A_and_2A absent in_anal-cubital_zone_only on_distal_half along_entire_length;
+{ 15 Condition_of_pouched_or_pocketed_cubital_organ_on_male_hindwing absent cell_Cu1b_underside_with_deep_pouch_containing_particleproducing_hairs formed_as_a_pocket_in_which_the_anterolateral_?roof?_or_flap_originates_as_a_dorsal_outgrowth;
+{ 16 Condition_of_hairpencils single paired;
+{ 17 Length_of_hairpencils absent long short;
+{ 18 Hairpencils_with_dorsal_diverticulum absent present;
+{ 19 Size_of_hairpencil_diverticula absent large small;
+{ 20 Origin_of_hairpencils from_short_pedicels from_long_pedicels;
+{ 21 Location_of_hairs_on_hairpencil_sheath confined_to_basal_third along_almost_entire_sheath;
+{ 22 Hairpencils_with_black_contact_hairs absent present;
+{ 23 Condition_of_male_9th_tergite large_and_sclerotized membranous reduced,_forming_a_caudula undetectable_or_absent;
+{ 24 Posterior_margin_of_male_8th_abdominal_tergite_armed_with_spines no yes;
+{ 25 Length_of_male_eighth_abdominal_sternite "normal" long;
+{ 26 Membranous_emargination_on_male_eighth_abdominal_tergite absent present;
+{ 27 Condition_of_socii ?indistinct?,_?barely_perceptible?_or_absent small large;
+{ 28 Internal_face_of_male_clasper_folded_and_produced_into_a_downwardlydirected,_pointed_process no yes;
+{ 29 Clasper_with_annularly-corrugated_proces absent present;
+{ 30 Emargination_of_clasper none deeply_emarginate_on_posterodorsal_edge;
+{ 31 Shape_of_saccus short long,_swollen_distally long,_tapering_distally;
+{ 32 Harpe_with_large_dorsal_hook absent present;
+{ 33 Male_eighth_sternite_modified_into_pseudovalves absent present;
+{ 34 Juxta_shape broad narrow;
+{ 35 Shape_of_aedeagus short_and_wide long_and_narrow;
+{ 36 Position_of_incision_on_aedeagus ventral dorsal_or_dorsolateral;
+{ 37 Well_developed_spines_on_aedeagus absent present;
+{ 38 Apical_spines_on_aedeagus absent present;
+{ 39 Corpus_bursae single double;
+{ 40 Junction_of_hindwing_cross-veins_m1-m2_and_m2- rectilinear angled;
+{ 41 Condition_of_anteroventral_lip_of_female_eighth_sternite_with_well-developed_lateral,_ventral-directed_projections absent present;
+{ 42 Shape_of_corpus_bursae bulbous narrow_and_tubular;
+{ 43 Shape_of_ductus_bursae short_and_wide long_and_narrow;
+{ 44 Capacity_to_feed_on_Moraceae_as_larvae no yes;
+{ 45 Arrangement_of_cells_on_egg_surface approximately_square_array skewed_hexagonal_array;
+{ 46 Raised_features_on_egg_cell_surface absent present;
+{ 47 Shape_of_lateral_marginal_elements_of_raised_pattern_on_egg_cell_surface absent round elongate;
+{ 48 Cell_surface_pitted no yes;
+{ 49 Fusion_of_longitudinal_ribs common rare;
+{ 50 Transition_of_cell_size_approaching_micropyle gradual abrupt;
+{ 51 Form_of_cells_of_the_annulus irregular_or_incomplete regular,_concentric_circles;
+{ 52 Position_of_largest_cells not_close_to_micropyle 4_cells_from_micropyle;
+{ 53 Size_and_number_of_radial_ridges_around_micropyle few,_small many,_large;
+{ 54 Pits_on_ribs absent present;
+{ 55 Aspect_of_cells_in_polar_view convex concave;
+{ 56 Number_of_type_2_sensilla_on_galea: 2 3_or_more;
+{ 57 Condition_of_cuticular_ornamentation_on_body_surface attenuated pointed blunt;
+{ 58 Pigmentation_pattern_on_body transversely_striped,_with_or_without_spots spotted_only uniformly_pale longitudinally_striped;
+{ 59 Tubercle_(filament)_on_larval_segment_2_(mesothorax) absent present;
+{ 60 Tubercle_on_larval_segment_3_(metathorax): absent present;
+{ 61 Tubercle_on_larval_segment_5: absent present;
+{ 62 Tubercle_on_larval_segment_10 absent present;
+{ 63 Tubercle_on_larval_segment_11 absent present;
+{ 64 Pigmentation_of_head_capsule uniformly_dark black_with_white_spots black_with_white_stripes;
+{ 65 Distribution_of_setae_on_filaments sparse dense;
+{ 66 Length_of_setae_on_filaments long short;
+{ 67 Arrangement_of_ribs_on_filament_cuticular_ornaments more-or-less_linear_and_parallel reticulate;
+{ 68 Condition_of_labral_secondary_setae absent short_and_fine long_and_stout;
+{ 69 Position_of_labral_seta_M2 closer_to_seta_M1 closer_to_seta_M3_(or_equidistant;
+{ 70 Position_of_labral_seta_L1_relative_to_widest_point_of_labrum: distal level;
+{ 71 Condition_of_lateral_spine_plate_on_labrum undifferentiated_or_at_most_with_a_few_scattered_spines weakly_developed,_forming_a_single_row_of_spines well_developed,_with_two_or_more_rows_of_spines;
+{ 72 Size_of_median_sclerotized_spot_on_labrum small large;
+{ 73 Condition_of_area_immediately_surrounding_labral_campaniform_sensillum undifferentiated distinctly_pale_and_less-well_sclerotized;
+{ 74 Shape_of_base_of_labrum irregular_and_often_ill-defined grossly_and_regularly_undulate;
+{ 75 Condition_of_basal_and_central_epipharyngeal_spines: single combed;
+{ 76 Length_of_basal_and_central_epipharyngeal_spines long short;
+{ 77 Epipharyngeal_spines_between_seta_1_and_2: absent present;
+{ 78 Position_of_epipharyngeal_seta_1_relative_to_seta_3 not_distal distal;
+{ 79 Mandibular_retinaclum absent present;
+{ 80 Condition_of_mandibular_knuckle indistinct pronounced;
+{ 81 Number_of_mandibular_pores few numerous;
+{ 82 Condition_of_polygonal_pattern_on_wrist_of_mandible absent_or_very_weak moderately_well-developed very_distinct;
+{ 83 Position_of_secondary_mandibular_setae_relative_to_campaniform_sensillu most_basal most_distal all_distal;
+{ 84 Shape_of_galea cylindrical tapered_distally;
+{ 85 Shape_of_1st_segment_of_galeal_type_2_sensilla: long_and_curved short_and_tapered small_and_barrel-shaped;
+{ 86 Number_of_campaniform_sensilla_on_ventral_surface_of_galea 1 2;
+{ 87 Position_of_campaniform_sensillum_on_ventral_surface_of_maxillary_palp_segment_2: at_about_¾_of_distance_from_base_to_tip on_distal_margin;
+{ 88 Position_of_seta_on_maxillary_palp_segment_1: distal medial;
+{ 89 Condition_of_stipital_subprimary_seta_St1: undifferentiated_from_secondaries present absent;
+{ 90 Size_of_cuticular_ornamentation_of_unsclerotized_part_of_stipes undifferentiated_from_general_body_surface much_smaller;
+{ 91 Sclerotization_of_submentum absent basally_sclerotized;
+{ 92 Cuticular_ornamentation_on_submentum absent distinct;
+{ 93 Distribution_of_submental_cuticular_ornamentation not_beyond_primary_setae almost_to_edge_of_stipes;
+{ 94 Shape_of_central_submental_cuticular_ornamentation blunt pointed;
+{ 95 Number_of_rows_of_major_hypopharyngeal_spines 1 2 many;
+{ 96 Surface_of_hypopharynx smooth covered_with_spines;
+{ 97 Degree_of_ventral_anterior_sclerotization_of_parallel_bars_beneath_cremaster none two_short_bars short_bars_and_spots bars_and_spots_fused, bar,_spot_and_exuvial_holdfast_tubercles_fused;
+{ 98 Condition_of_sclerotized_bars absent rounded truncate;
+{ 99 Degree_of_dorsal_and_lateral_sclerotization_of_abdominal_segments_8?11: reduced_or_absent partial nearly_complete;
+{ 100 Dorsal_excrescence_on_cremaster_crown present absent;
+{ 101 Depth_of_stalk_groove shallow deep;
+{ 102 Dorsal/ventral_grooves_on_stalk absent present;
+{ 103 Lateral_excrescences_at_base_of_stalk absent present State_2 State_3;
+{ 104 Grooved_concavity_on_ventral_surface_of_stalk absent present;
+{ 105 Color_of_anus dark pale;
+{ 106 Color_of_base_of_exuvial_holdfast_tubercles: uniformly_dark ale_at_base;
+{ 107 Dorsal_angle_between_stalk_and_abdomen ~_90_degrees ~_60_degrees;
+{ 108 Texture_of_abdominal_segments_4?7: smooth rugose;
+{ 109 Contour_of_individual_abdominal_segme convex flat;
+{ 110 Shape_of_curvature_of_dorsal_abdominal_segments_3?11 one_radius_of_curvature, 2_radii_of_curvature;
+{ 111 Transverse_ridge_on_abdominal_segment absent strongly_present;
+{ 112 Angle_between_abdominal_segments_1?3_and_3?8: obtuse ~_90_degrees;
+{ 113 Numerous_small_papulae_in_a_transverse_band_around_abdominal_segment_Numerous_small_papulae_in_a_transverse_band_around_abdominal_segment_3 absent present;
+{ 114 Transverse_black_stripe_on_abdominal_segment_3: absent interrupted complete;
+{ 115 Transverse_band_of_large_black_spots_on_abdominal_segment_3: absent present;
+{ 116 Transverse_yellow_(gold)_band_on_abdominal_segment_3: absent present;
+{ 117 Dorsal_gold_spots absent present;
+{ 118 Pair_of_large_dorsolateral_papulae_on_abdominal_segment_2 absent present;
+{ 119 Paired,_weak_brown_spots: absent present;
+{ 120 Pale_brown_patterning_on_exuviae absent present;
+{ 121 Large,_well-developed_dorsal_spots_on_abdomen: absent present;
+{ 122 Pupal_facies: elongate truncate;
+{ 123 Mesothorax_definition: strongly_hunched,_forming_saddle_at_base_of_abdomen, more_or_less_continuous_in_outline_with_abdomen;
+{ 124 Large_papulae_at_wing_bases: absent one_pair two_pairs;
+;
+
+
+ccode  - 0.124;
+
+
+;

@@ -1,0 +1,72 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 18.01.23'
+42 12
+
+&[num]
+Archegonaster            1100020100100100200000-000--000-20100?????
+Palaeura                 1100020100110110200000-001--000-20100?????
+Aulechinus               0000000100110110200000-001--110-20011?????
+Gillecystis              0000010100120011200001?001--101-20?01?????
+Rotasaccus               ?0000?00101?0011200001?001--101-20?01?????
+Palaeocucumaria          20100000010-0011201001?01000000020101?????
+Deima                    20111000000-001111211000100000001001100000
+Chirodota                20100000100-10110?312000100100000101100011
+Holothuria               20110000010-001111211010100000000101111100
+Molpadia                 20100010010-001111310010101000011101111101
+Cucumaria                20100000010-001111312001100000010101101000
+Ypsilothuria             20102010010-001111310001100000010101101000
+
+;
+
+
+cnames
+{ 0 Body_form axial_area_much_greater_than_extraxial_area axial_and_extraxial_surfaces_approximately_equal axial_area_much_smaller_than_extraxial_area;
+{ 1 Growth meridional radial;
+{ 2 Body_vermiform no yes;
+{ 3 Body_with_differentiated_ventral_sole no yes;
+{ 4 Position_of_mouth mouth_terminal mouth_subterminal_displaced_downwards_in_dorso-ventral_differentiation mouth_subterminal_displaced_to_upper_surface_body_often_U-shaped;
+{ 5 Position_of_anus_(where_present) terminal_in_extraxial_component anus_placed_laterally_in_axial_region_between_ambulacra anus_absent;
+{ 6 Posterior_region_greatly_narrowed_and_elongated_as_a_tail no yes;
+{ 7 Body_wall protected_by_large_multilayered_embedded_plates body_wall_membranous,_skeleton_reduced_to_microscopic_spicules_only;
+{ 8 Presence_of_wheel-shaped_ossicles no yes;
+{ 9 Presence_of_spired_plates_or_tables_(elements_with_distinct_outgrowth_perpendicular_to_plate_surface): no yes;
+{ 10 Presence_of_biserial_columns_of_ambulacral_ossicles_protecting_water_vascular_system no yes;
+{ 11 Radial_water_vessel_enclosed_by_ambulacral_ossicles no yes,_within_plates yes,_internal_to_plates;
+{ 12 Body_wall_thickness standard_mesoderm_with_ossicles thin_without_calcification thick_and_gelatinous;
+{ 13 Presence_of_articulated_spines no yes;
+{ 14 Position_of_radial_water_vessels external_to_mesoderm enclosed_or_beneath_mesoderm;
+{ 15 Enlarged_bottom_feeding_tentacles no yes;
+{ 16 Radial_water_vessels absent,_tentacles_arise_directly_from_aquapharyngeal_ring present,_but_very_short present_and_extensive;
+{ 17 Radial_vessels_and_tube-feet uniform_along_length differentiated_into_a_large-bore_proximal_part_with_tentacles,_and_narrow-bore_extraxial_part_(the_auxillary_vessel)_with_tube-feet;
+{ 18 Tentacle/tube_foot_number >50 40-50 20-30 10-15;
+{ 19 Tentacles_(Primary_tube-feet) simple,_unbranched branched,_peltate_or_digitate;
+{ 20 Tentacle_branching_style digitate shield-shaped_with_distal_papillae long_and_branching_(dendritic);
+{ 21 Large_heavily_plated_tentacles no yes;
+{ 22 Tentacle_ampullae absent_or_minimal long_and_hanging_into_the_body_coelom;
+{ 23 Pharyngeal_introvert absent present;
+{ 24 Calcareous_ring_of_elements_present_encircling_the_pharynx no yes;
+{ 25 Ambulacral_jaw_apparatus_present no yes;
+{ 26 Radial_calcareous_ring_elements_with_posterior_projection no yes;
+{ 27 Radial_calcareous_ring_elements_with_notch_or_perforation no yes;
+{ 28 Internal_lantern_with_hemipyramids,_rotula_and_epiphyses no yes;
+{ 29 Oligolamellar_teeth no yes;
+{ 30 Goniodont_teeth no yes;
+{ 31 Radial_elements_in_calcareous_ring_much_longer_than_wide no yes;
+{ 32 Calcified_madreporite absent present,_loosely_coalesced_spicules present_as_a_solid,_well-formed_button-like_plate;
+{ 33 Madreporite_opening external internal;
+{ 34 Stone_canal_calcified no_or_with_spicules_only yes,_encased_by_a_uniserial_or_biserial_column_of_plates;
+{ 35 Position_of_madreporic_plate adoral,_opening_close_to_the_mouth_in_axial_region directed_away_from_the_mouth_and_connected_by_long_stone_canal;
+{ 36 The_circumesophageal_water_ring_lies_deep_in_the_body,_separated_from_the_oral_area_by_a_well_developed_pharyngeal_coelom_or_jaw_apparatus no yes;
+{ 37 Rete_mirabile absent present;
+{ 38 Respiratory_trees_outpouching_from_cloaca absent present;
+{ 39 Longitudinal_muscles undivided divided;
+{ 40 Ciliated_funnels absent present;
+{ 41 Statocysts absent present;
+;
+
+
+ccode  - 0.17 19.31 33.41 + 18 32;
+
+
+;

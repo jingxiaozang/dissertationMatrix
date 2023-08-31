@@ -1,0 +1,84 @@
+nstates num 9;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 18.03.03'
+61 5
+
+&[num]
+Mimosa_serpensetosa             ?0?1001?101?1001122?11011111?1110311110?00?011100111???101100
+Mimosa_setosa_paludosa          0?0100111010???11?211111111110??00?110-0???0011001122001111?0
+Mimosa_setosa_urbana            1111000-1000??010?101?111?1100?0131111?00000111011120?11111-0
+Mimosa_lithoreas                1110110--201010000?-001000000001?00100-?0111000-0?000010000-2
+Mimosa_chiliomera               1011000-101?1111102-111111100?100111110000000101010????????-0
+
+;
+
+
+cnames
+{ 0 xylopodium absent present;
+{ 1 habit shrub subshrub treelet;
+{ 2 stem,_disposition erect prostrate deflexed;
+{ 3 trichomes absent present;
+{ 4 filiform_setae,_base,_shape tapering bulbous;
+{ 5 filiform_setae,_base,_calcar absent present;
+{ 6 prickles absent present;
+{ 7 branch,_prickles absent straight_(or_slightly_inclined) patent_(or_slightly_inclined) antrorse retrorse;
+{ 8 branch,_trichomes absent present;
+{ 9 branch,_filiform_setae_orientation patent incurved forwardly_appressed retrorse antrorse_(but_not_appressed);
+{ 10 branch,_glandular_setae absent present clavate capitate;
+{ 11 leaves,_stipules,_persitency caducous persistent;
+{ 12 leaves,_stipules,_abaxial_face,_trichomes absent present;
+{ 13 leaves,_stipules,_abaxial_face,_filiform_setae absent present;
+{ 14 leaves,_stipules,_abaxial_face,_glandular_setae absent present;
+{ 15 leaves,_stipules,_margin,_trichomes absent present;
+{ 16 leaves,_stipules,_margin,_glandular_setae absent present;
+{ 17 leaves,_rachis,_interpinnal_projection absent present spiculate laminar glandular;
+{ 18 leaves,_rachis,_lenght_relative_to_the_petiole 1:2_or_less ca._1:1 2:1_or_more;
+{ 19 leaves,_rachis,_prickles absent present;
+{ 20 leaves,_rachis,_trichomes absent present;
+{ 21 leaves,_rachis,_glandular_setae absent present;
+{ 22 leaves,_basal_rachilla,_lenght_relative_to_the_medial_rachilla 1:2_or_less ca._1:1 2:1_or_more;
+{ 23 leaves,_rachilla,_paraphyllidia absent present;
+{ 24 leaves,_rachilla,_trichomes absent present;
+{ 25 leaves,_rachilla,_glandular_setae absent present;
+{ 26 leaves,_leaflets,_margin,_trichomes absent present;
+{ 27 leaves,_leaflets,_margin,_filiform_setae absent present;
+{ 28 leaves,_leaflets,_margin,_glandular_setae absent present;
+{ 29 leaves,_leaflets,_abaxial_surface,_trichomes absent present;
+{ 30 inflorescence,_secondary_arrangement absent frondose_paniculate bracteose_paniculate;
+{ 31 inflorescence,_peduncle_lenght_in_relation_to_rachis_lenght_of_fully_expanded_leaf 1:5_or_less 1:2-1:3 ca._1:1;
+{ 32 inflorescence,_masculine_flowers_at_base present absent;
+{ 33 floral_bracts,_shape spatulate-acuminate eliptic-rhombic spatulate-elliptic narrowly_spatulate-acuminate lanceolate broadly_spatulate-acuminate linear spatulate-rhombic spatulate;
+{ 34 floral_bract,_trichomes absent present;
+{ 35 floral_bract,_filiform_setae absent present;
+{ 36 floral_bract,_glandular_setae absent present;
+{ 37 flower,_calyx,_lobes,_plane_projections absent present State_2 ovate;
+{ 38 flower,_calyx,_plane_projections,_location troughout_rim present_just_in_half_or_less_of_rim;
+{ 39 flower,_calyx,_pedicel,_filiform_setae absent present;
+{ 40 flower,_calyx,_rim,_trichomes absent present;
+{ 41 flower,_calyx,_rim,_filiform_setae absent present;
+{ 42 flower,_calyx,_rim,_glandular_setae absent present;
+{ 43 flower,_corolla,_shape infundibuliform campanulate narrowly_infundibuliform;
+{ 44 flower,_corolla,_lobes,_trichomes State_0 absent State_1 present;
+{ 45 flower,_corolla,_lobes,_filiform_setae State_0 absent State_1 present;
+{ 46 flower,_corolla,_lobes,_glandular_setae State_0 absent State_1 present;
+{ 47 flower,_corolla,_lobes,_indument_coverage do_not_conceals_surface conceals_suface;
+{ 48 flower,_ovary,_thrichomes absent present;
+{ 49 flower,_ovary,_filiform_setae absent present;
+{ 50 flower,_ovary,_glandular_setae absent present;
+{ 51 fruit,_valves,_segmentation integer partially_articulated completely_articulated;
+{ 52 fruit,_shape oblong rounded narrowly_oblong;
+{ 53 fruit,_base_shape cuneate rounded obtuse attenuate;
+{ 54 fruit,_apex_shape acute rounded obtuse apiculate;
+{ 55 fruit,_valves,_trichomes absent present;
+{ 56 fruit,_valves,_filiform_setae absent present;
+{ 57 fruit,_margin,_trichomes absent present;
+{ 58 fruit,_margin,_filiform_setae absent present;
+{ 59 fruit,_margins,_prickles State_0 State_1;
+{ 60 fruit,_indumentum,_setae_orientation patent incurved forwardly_appressed retrose antrorse_(not_appressed);
+;
+
+
+ccode  - 0.60;
+
+
+;

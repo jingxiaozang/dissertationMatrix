@@ -1,0 +1,116 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 17.54.11'
+72 26
+
+&[num]
+Cardiolophus_radinskyi                  00?10000?00000000001010001001-1-01000000000-10110-000100?000?0-0?0000000
+Hallensia_matthesi                      0002?200000000011001000110200-1-01010000100-001110100000111100-100011-02
+Pliolophus_vulpiceps                    2010?11011010001000011000020000000100000100-00100-000010?11100-100??????
+Xenicohippus_osborni                    0?00101010010011101011000100021-02101001100-0012100001200110010110110000
+Hyracotherium_leporinum                 2202??00?0000011101100011020000000011000001000110-001010??101101?0010101
+Propachynolophus_levei                  ?????????????1-1000000010010010101010001001100000-000011????????????????
+Propachynolophus_maldani                ??????????110001100010011010010001010001001010100-000110?010010100010100
+Propachynolophus_gaudryi                ??????00?011001110100000010001010101000200101011100002000000010100010101
+"Pachynolophus"_hookeri                 ???????????????10000001-0100011-00000002000-20000-000010??11110100010110
+Cymbalophus_cuniculus                   ?????????????00100????????00011-00000002000-00010-000?10?1?111010?010110
+"Hyracotherium"_aff._cuniculus          ??????????0?0??1?02000011100021-00000000000-00011000101001?11101?00?010?
+Pachynolophus_duvali                    ??????10?1110011100111011110011-01000002000-0012100012000111111?00010101
+Pachynolophus_livinierensis             ??022111--010001100011011100011-01000002000-1012101012200001110?00000101
+Pachynolophus_garimondi                 ?????????????001100111011110011-020011120011101211001201??11111?01010100
+Pachynolophus_lavocati                  ??02?1??0110001?1001110002011-1-020001120111101211001101??01?10???010100
+Pachynolophus_zambranensis              ??????100100001?1021110012011-1-0200110101111012??111??1??01210??2010101
+Pachynolophus_boixedatensis             ??????1??????????00011000110011-02000001000-00121100121000?1110100000110
+Pachynolophus_cesserasicus              1201?010000001-1001011001110011-02000002000-101110001110????????????????
+Pachynolophus_bretovensis               ?????????????0111001110?11?0021-020001010011101210000001????????????????
+Pachynolophus_eulaliensis               1101201000010001000101001110011-0100000100111011100010100111010100010100
+Anchilophus_dumasi                      12012?1001212--111-21---11011-1-1-000002111111--111111100112211102110101
+Paranchilophus_remyi                    ??00?0?1--000--111-110--12011-1-1-000112010-21--0-1111100102211002110201
+Eurohippus_parvulus                     22?0???00121001110010000002?001-1-000112011000110-001111011110-100110101
+Lophiotherium_cervulum                  22?0??1001211--111-21---102?000001010101011010111100111?011210-102110100
+Palaeotherium_magnum                    3202220001212--111-20---120201001-001122011000110-0112100100112102110200
+Plagiolophus_minor                      22032211--110--111-21---110100011-001122011020111000121001021121?2110211
+
+;
+
+
+cnames
+{ 0 Nasal_notch mesially_to_the_canine in_the_DPC,_close_the_canine in_the_DPC,_close_the_premolars distally_to_the_first_premolar;
+{ 1 Bones_surrounding_the_nasal_notch premaxilla_enlarged_upward_and_nasal premaxilla_reduced_upward_and_nasal premaxilla,_maxilla_and_nasal;
+{ 2 Lacrimal_tubercle present absent;
+{ 3 Orbital_border reaches_the_M1 reaches_the_limit_between_the_M1-2 reaches_the_M2 reaches_the_limit_between_the_M2-M3;
+{ 4 Position_of_basicranial_foramina foramen_ovale_and_middle_lacerate_foramen_distant foramen_ovale_and_middle_lacerate_foramen_separated_only_by_a_narrow_bridge_of_bone foramen_ovale_and_middle_lacerate_foramen_confluent;
+{ 5 Braincase_index_(measure_from_mesial_side_of_P2_to_the_orbital_border/measure_from_the_orbital_border_to_the_occipital) from_0.25_to_0.30 from_0.35_to_0.40 more_than_0.45;
+{ 6 Postcanine_diastem_length_(C-P2_at_the_bone_level) short_(less_than_30%_of_the_P2-M3_length) long;
+{ 7 P1 present absent;
+{ 8 P1_elongation shorter_than_P2 as_long_or_longer_than_P2;
+{ 9 Post-P1_diastem present absent;
+{ 10 P2_occlusal_outline triangular,_tapering_forward mesial_side_slightly_slanted almost_rectangular;
+{ 11 P2_labial_cusps one_cusp two_cusps;
+{ 12 P2_molarization absent incomplete complete;
+{ 13 P3_postprotocrista present absent;
+{ 14 P3_postprotocrista_morphology incomplete complete;
+{ 15 P3_paraconule absent present;
+{ 16 P3_metaconule absent present;
+{ 17 P3-4_molarization absent present;
+{ 18 P3-4_accessory_crest_from_the_protocone_(additionally_of_the_postprotocrista) absent present present_and_joining_the_cingulum;
+{ 19 P4_occlusal_outline triangular subquadrangular square_or_rectangular;
+{ 20 P4_lingual_cingulum strong_and_continuous vanished_on_the_protocone_or_absent;
+{ 21 P4_postero-lingual_cingulum as_thick_as_the_anterior_cingulum important_posterior_expansion;
+{ 22 P4_postprotocrista present absent;
+{ 23 P4_postprotocrista_morphology complete incomplete;
+{ 24 P4_protocone_position not_mesially_shifted mesially_shifted;
+{ 25 P4_paraconule strong average weak;
+{ 26 P4_metaconule weak average strong;
+{ 27 Upper_molar_hypsodonty_(IH_=_h/L) very_weak_(IH<0,45) moderate_(0,50_<_IH_<_0,60) high_(IH>65);
+{ 28 Upper_molar_protoloph_grooves present absent;
+{ 29 Upper_molar_protoloph_grooves_size strong average weak;
+{ 30 Upper_molar_metaloph_grooves present absent;
+{ 31 Upper_molar_metaloph_grooves_size average weak;
+{ 32 Upper_molar_ectoloph_grooves present absent;
+{ 33 Upper_molar_ectoloph_grooves_size strong average weak;
+{ 34 Accessory_cusp_between_the_protoloph_and_the_metaloph absent present;
+{ 35 Upper_molar_protoloph-ectoloph_junction unnotched notched;
+{ 36 Direction_of_the_upper_molar_preparaconule_crista-ectoloph_junction towards_the_preparacrista towards_the_parastyle;
+{ 37 Upper_molar_metaloph-ectoloph_junction towards_the_metacone_or_"stopped" towards_the_centrocrista;
+{ 38 Upper_molar_paracone_labial_ripple_on_the_ectoloph strong weak absent;
+{ 39 Upper_molar_metacone_labial_ripple_on_the_ectoloph strong moderate weak_or_absent;
+{ 40 Upper_molar_parastyle large small;
+{ 41 Upper_molar_parastyle_position main_mass_of_parastyle_anterior_to_paracone buccal_to_continuation_of_the_line_that_connects_the_paracone_and_metacone;
+{ 42 Upper_molar_mesostyle absent present;
+{ 43 Upper_molar_mesostyle_morphology strong_rib_from_the_neck_to_the_occlusal_level pseudomesostyle,_ie_rib_on_the_superior_edge_of_the_labial_side;
+{ 44 Upper_molar_labial_cingulum continuous usually_interrupted_on_the_paracone almost_absent;
+{ 45 Upper_molar_lingual_cingulum present absent;
+{ 46 Upper_molar_cingulum_morphology continuous interrupted;
+{ 47 Upper_molar_cingulum_thickness strong medium_to_weak restricted_to_the_medivallum;
+{ 48 Upper_molar_posterior_cingulum_expansion absent present;
+{ 49 Localisation_of_the_posterior_cingulum_expansion only_on_M3 on_all_upper_molars;
+{ 50 Upper_molar_labial_cusps_position hypocone_and_protocone_at_the_same_level hypocone_more_labial;
+{ 51 Upper_molar_lingual_cusps_size protocone_and_hypocone_similar_in_size protocone_larger_than_the_hypocone;
+{ 52 M1-2_metastyle_orientation in_line_with_the_ectoloph_(in_the_alignment_of_the_paracone_and_metacone) oblique_(towards_labial_side);
+{ 53 Relative_surface_of_M3_on_M2_(following_SM3/SM2_index) M3_smaller_than_M2_(<0.95) weak_difference_(>0.95_et_<1.05) M3_larger_than_M2_(>1.05);
+{ 54 M3_posterior_outline convexe straight concave;
+{ 55 M3_relative_distance_between_[paracone-metacone]_and_[protocone-hypocone] subequal_to_equal larger_between_protocone_and_hypocone;
+{ 56 p3_metaconid present absent;
+{ 57 p4_entoconid absent present;
+{ 58 Lower_molar_relative_width narrow wide_(L/l_M1-2/_<1,45_et_L/l_M3/_<2);
+{ 59 Lower_molar_labial_cingulum continu interrupted restricted_to_the_medivallum;
+{ 60 Lower_molars_cingula_height high_(0.28<CH<0.33) average_(0.19<CH<0.24) low_(CH<0.13);
+{ 61 Lower_molar_orientation_of_the_protolohpid_and_the_hypolophid transversal slightly_inclined;
+{ 62 Lower_molar_métaconid_position slightly_distal,_but_almost_aligned_on_the_protoconid facing_the_medivallum,_close_to_the_protoconid facing_the_medivallum,_at_midway_between_the_protoconid_and_hypoconid;
+{ 63 Lower_molar_twinned_metaconid absent present;
+{ 64 Lower_molar_metastylid absent present;
+{ 65 m1-2_hypoconulid developed weak absent;
+{ 66 m3_hypoconulid_basin large reduced;
+{ 67 m3_hypoconulid_basin_shape crenaluted uncrenulated;
+{ 68 m3_prehypocristulid present absent;
+{ 69 m3_prehypocristulid_orientation towards_the_hypoconid towards_the_midpoint_of_the_hypolophid towards_the_entoconid;
+{ 70 m3_accessory_crest absent present;
+{ 71 m3_hypoconulid labial medial lingual;
+;
+
+
+ccode  - 0.71;
+
+
+;

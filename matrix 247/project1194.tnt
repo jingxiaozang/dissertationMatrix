@@ -1,0 +1,242 @@
+nstates num 15;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 17.55.33'
+175 49
+
+&[num]
+Outgroup                         000000?0000000000?00000000000000000000000000000000000000000000000000000000000000?00000000000000000000000000000000000000000000000000000000??????????????????????????????????????
+Proganochelys                    0000001000000000000000000000000000000000000000000000000000000000000000000000000000000000?000000000000000000000000000000000000000000000000000000????00000010000000000000000?0000
+Australochelys                   ??0?00???00??0?????????000???0?0?0000??0?1???1????0000?000?01010111???00???????1000????0???????010??????00?11?1????????????????????????????????????????????????????????????????
+Palaeochersis                    ??0?00?0??00?0??0???0??????????0??0??????????1????00000??0?0111111100000???????1000????0???????010?0????1??11?10?????0?????0??00000?00000??0??????????0???????000?00???00???000
+Kayentachelys                    0110000110000000001000000000100100000000000111000030000000001111111000010000000111100001?01000011100010011011021000000010?1000000110000?00020001101000200102001010100000?000004
+Selmacryptodira                  ?110??01?0?00??00?10000000001??10?0??0?000011100?0???00000001111111000010410?0?11?1000?10010000111?001001101102100000?0100?000000110000100?2?00?????0?2?0?02001?101?0000?00?0??
+Chelidae                         0110000010?000001010000000010001000?024000001101003200020101111111100110030?010112100001?110000011000100120110210000?0010011?1222111111110?2??????2??0210?120?11111???01101?111
+Pelomedusidae                    111100?0100001101010000000010001000?00300?0121210032000201011111111001100301010112110001111000001100000?12011021100??001001101212111111111?2?1002???2?2100120?11111000011010?11
+Sokatra                          1111000??000?11?1010000000010????0010?30000????10032000201?11111111001100?0?0?011110?????1100100111000021??11??1???????????????????????????????????????????????????????????????
+Araripemys                       11110?0010100110101000000001010100000033000??1?1013000020101111111100110030011011?100001011000001100000013?11021100010011011112101111111114202022??0202111120301111000?21?12015
+Laganemys                        1111000010001210101000000001110100000033000??1?1013000020101111111100110030011011111?00?011000001100000?13?1102110001000001111210???1???11421?022111212111?2?2011110001?10120?5
+Atolchelys                       1111??0??01???1??00???0000??010??111??0????1110100?????????????????11110?41101?????020110????210?11??1?11401?02?????????????????????1????????????????????????2111??1???11????1?
+Euraxemys                        111100001000101010100000000100010001003000001101003000010101111111100110041?010111102101011001001110000011?11?2110001001001111212111111111120?00212?2?210012021111100?011011011
+Dirqadim                         1111000010001000101000000001010100010030000??1?1003000010101111111100110041?110111102101011001001110000011?11?2????????????????????????????????????????????????????????????????
+Podocnemididae                   1111000010001010?0100?00000100?10?0?00300001?1?10032000?011111111110111004100101121000111110020011100001120110211?000?11012111212111111111?2?1002?1???2100120211111?11?11010011
+Hamadachelys                     1111000010001010?010000000010001?000003000011101003200020111111111101110041?0101121000111?1002001110000112?11?2?10000001002????????????????????????????????????????????????????
+Brasilemys                       ??1??????0000???1010000000010????000003??00??1??0030000101111111111011?0041?01?111103011??100200??10000112?11?2?1000?0010?2???1?????1?1??12?11002222?121001????????????????????
+Cearachelys                      111100001000021010110000000110?101000100000?1101013?000001101111111?011004110111111110110?1102?0111011011101102?110101010001?12?2???111111?20?0121??2?2100120211111000011010014
+Galianemys_emringeri             1111?00010000210101200000011101101000100000??1?1013110100110111111110110041101111110101101110210111011011101102????????????????????????????????????????????????????????????????
+Galianemys_whitei                11110000100002101012000000111011?100010000001101013110100110111111100110041?01111110101101110200111011011101102????????????????????????????????????????????????????????????????
+Kurmademys                       11110000100001111010000000110011010001300001?1?101311012011111111111011002010111121010110?1002101111010112011?2??10101010001??2??11?111?11123110231121210012?2?????011111??0?11
+Kinkonychelys                    1111000??000?1??1010??0???11?????1000?30000??????131101201101111111101100201?1??121110110?1002?0111101011201102????????????????????????????????????????????????????????????????
+Sankuchemys                      11110???10??011??010??0?????001??1010??00?011101?????????1111111111001?0?41?0??11?1?10110?1??210??1????112?11?2????????????????????????????????????????????????????????????????
+Foxemys                          111110001001001010100001001110110200010001001101013100001110111111120110041?0111111110110?111210??11010112?11?2?110101101101112??11?111111222?10222121210012?211111111?11010111
+Polysternon                      111110?0100?001??010000?00??1011?100010000???1??0131000011111111111201?0041?0?11111110110?1??200??1101?112?11?2?????0???????????????1?1??1222?10222121210112?211111011111010113
+Araiochelys                      111101101001001??01000110011112201100?100000110?011110001110111111100110011?1?11121110110?1112001111010111?11?2?11110010110?????????1??????????043212121???2?2?1????10111??0?11
+Zolhafah                         11111?00100???????10??1???1??01102100??0000011010131100?1110111111100??0051?0101121?1?110?11?200??1101?11101102????????????????????????????????????????????????????????????????
+Rosasia                          11111000100100?01010001???11?021021001100000110101?11?001110111111110???041?01111?1??0?1??111200??110??11101102?????????????????????1????1122?10221?2?2101???2?11111000?10?0011
+Bothremys_cooki                  111111101011???120100?1???11?12202101??11100110101????????????????1001?0???101?????????1????????????????1?11102??11101???1?????????????????????????????????????????????????????
+Bothremys_maghrebiana            1111111010110011201000110?1111220?10?1111?001101011110001110111111100110011111111211101101111200111101?21111102?11110?10110????????????????????????????????????????????????????
+Bothremys_kellyi                 11111110101?001??0100?110011111202101?1100???1??011110001110111111100??0?51?0?1112111011??11?2001?11011211?11?2????????????????????????????????????????????????????????????????
+Bothremys_arabicus               ??1?1??0?01????12??0??1????1??1??210?????0?0110?01?11?00?1101111111001??011???1?12?110110?11?20???110??211?11?2????????????????????????????????????????????????????????????????
+Chedighaii_hutchisoni            11111110101100112010000100111?1??20011000001110101?110001110111111100110011?0111121110110?1112001111011211?11?2????????????????????????????????????????????????????????????????
+Chedighaii_barberi               11111??0101?????201?0?010?1???2??100???0000??1???1111?0011?0111?11100???011?0?1?121?10110?111200??1101121111102??11101101?01112????111111112321022112121011202111111100110?0011
+Taphrosphys_sulcatus             1?1100???00?20???01????0111?00?11???????0????1????311100?111111111100???15110?0112111001011112001111010112?1112????????????1112??111111111122210222?212100120211111110?211?1012
+Taphrosphys_congolensis          111100?0100?201??0101?00111200?11000001000???1?1?0?11?0011111111111001?0?51?0?01121110110?111200?11101011201102??000?0?????????????????????222??22???1?10????2??1?1?1012?1???12
+Taphrosphys_ippolitoi            111100?0100??01??01011001112?01110000010001??1?1?031110011111111111?0110151?0101121110110?1??2001111010112?1112????????????????????????????????????????????????????????????????
+Azabbaremys                      111100001000001010100100001211010000001000111111102110001110111111100??0011?0101121110110?111200111101021101102????????????????????????????????????????????????????????????????
+Acleistochelys                   11110?001000???0101001110012?01200110?10001111111031100011101111111201?0051?111?121110110?1112001111010211?11?2????????????????????????????????????????????????????????????????
+Labrostochelys                   11110110100?201?10101?0111??012200000012001011010011110011101111111001100?0?1101121110110?111200?111010211?11?2????????????????????????????????????????????????????????????????
+Phosphatochelys                  1111000011002011111001001112001210001023000??1?1103111001110111111100110111?0101121110110?1112001111010?12?11?2????????????????????????????????????????????????????????????????
+Ummulisani                       1111010?110020?0?11001001112001210001023000??????021110011111111111001?01????100121110110?11120011110?0112?1??2??????????????????????????????????????????????2111111100211?1?12
+Rhothonemys                      111100?0?00??01??1100???1?12?1?2?0001??300???1????311100????1111111????0????0?01121???????11???0?????1??1??11????0000010?10????????????????????????????????????????????????????
+Nigeremys                        1?1100???000001??010??0????1?01100000??000?0110?1?21100011121111111201?00???1??1121??0?1??1??200??110?0214?11?2???0????????????????????????????????????????????????????????????
+Arenila                          ??110????00?????10100?0???11?0???0000??000001101?0211?0??1121111111201???41?11??12111?110?111200??1?010214?11??????????????????????????????????????????????????????????????????
+Proterochersis                   ???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????11110?0?1??0????00?10000?0010000000011001010
+Platychelys                      ??????????????????1????????????????????????????????????????????????????????????????????????????????????????????????????????1001211?11111?00202010??1011000011111111000011011010
+Notoemys                         ?????????????????????????????????????????????????????????1??1?11111????????????11?1????1?11????01??????????1??2????????????1?012???1111?10020?010111?02000011111????00011??001?
+Dortoka                          ???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????1?1221???1111??12?1100?0221210012?311111000?112?0016
+
+;
+
+
+cnames
+{ 0 Nasal_nasal_bones State_0 present_(Emydura) State_1 absent_(Pelusios);
+{ 1 Lacrimal_lacrimal_bone State_0 present_(Proganochelys) State_1 absent_(Emydura);
+{ 2 Lacrimal_lacrimal_foramen State_0 present_(Proganochelys) State_1 absent_(Emydura);
+{ 3 Prefrontal_prefrontals_meet_on_midline_in_dorsal_view State_0 no_(Proganochelys) State_1 yes_(Pelusios);
+{ 4 Prefrontal_preorbital_skull_broad State_0 narrow_(Galianemys) State_1 very_broad_(Bothremys);
+{ 5 Prefrontal_anterior_margin State_0 straight,_broadly_convex_margin_(Pelomedusa) State_1 narrow_midline_process,_at_least_partially_dividing_nares_(Bothremys);
+{ 6 Prefrontal_prefrontal-palatine_contact State_0 widely_separated_(Galianemys) State_1 closely_spaced_or_in_contact_(Bothremys);
+{ 7 Prefrontal_prefrontal-vomer_contact State_0 absent_(Proganochelys) State_1 present_(Chelydra);
+{ 8 Prefrontal_fissura_ethmoidalis State_0 very_wide_(Proganochelys) State_1 narrower_(Pelusios);
+{ 9 Prefrontal_prefrontal-parietal_contact State_0 absent_(Galianemys) State_1 present_(Phosphatochelys);
+{ 10 Frontal_orbits_facing_upward State_0 facing_more_laterally_(Galianemys) State_1 facing_dorsally_(Bothremys);
+{ 11 Frontal_foramen_interorbitale State_0 high_(Galianemys) State_1 low_(Bothremys);
+{ 12 Parietal_quadratojugal-parietal_contact State_0 absent_(Proganochelys) State_1 present,_qj_large_and_anterior_to_qu_(Euraxemys) State_2 present,_qj_small__and_dorsal_to_qu_(Phosphatochelys);
+{ 13 Parietal_temporal_emargination State_0 absent,_slight,_moderate_(Proganochelys) State_1 extreme_(Kurmademys) State_2 intermediate_(Galianemys);
+{ 14 Parietal_parietal-squamosal_contact State_0 present_(Proganochelys) State_1 absent_(Pelusios);
+{ 15 Parietal_parietal_contacts_pterygoid_at_base_of_processus_trochlearis_pterygoidei State_0 absent_(Pelusios) State_1 ventral_parietal_process_on_lateral_side_of_sulcus_palatinopterygoideus_(Bothremys);
+{ 16 Parietal_sulcus_palatinopterygoideus State_0 absent_(Proganochelys) State_1 high_(Galianemys) State_2 low_due_to_thicker_par,_po_(Bothremys);
+{ 17 Parietal_enters_orbital_margin State_0 no_(Galianemys) State_1 yes_(Phosphatochelys);
+{ 18 Supratemporal_supratemporal_bone State_0 present_(Proganochelys) State_1 absent_(Pelusios);
+{ 19 Jugal_jugal_retracted_from_orbital_margin State_0 enters_orbit_(Pelusios) State_1 partially_retracted_(Cearachelys) State_2 widely_retracted_(Galianemys);
+{ 20 Jugal_jugal_narrow_dorsoventrally State_0 broader_(Bothremys) State_1 narrow_(Taphrosphys,_Labrostochelys);
+{ 21 Jugal_jugal-quadrate_contact State_0 absent_(Bothremys) State_1 present_(Azabbaremys);
+{ 22 Jugal_exposure_on_triturating_surface State_0 no_exposure_(Pelusios) State_1 large_exposure_in_ventral_view_(Bothremys);
+{ 23 Squamosal_posterior_projection State_0 lacks_projection_(Galianemys) State_1 projects_posteriorly,_forming_distinct_process_(Bothremys);
+{ 24 Squamosal_posteroventral_vertical_flange State_0 absent_(Galianemys) State_1 present_(Labrostochelys);
+{ 25 Squamosal_lateral_tubercle State_0 absent_(Galianemys) State_1 present_(Labrostochelys);
+{ 26 Postorbital_fossa_orbitalis_posterior_enlargement State_0 absent_(Galianemys) State_1 present_(Bothremys);
+{ 27 Postorbital_septum_orbitotemporale State_0 absent_(Proganochelys) State_1 postorbital_wall_present_(Galianemys) State_2 postorbital_wall_at_least_partially_open_(Phosphatochelys);
+{ 28 Postorbital_size State_0 short_(Euraxemys) State_1 long_(Galianemys);
+{ 29 Premaxilla_protrudes_anteriorly_beyond_labial_ridge State_0 no,_slightly_(Galianemys) State_1 yes,_in_ventral_view_projects_anteriorly_(Bothremys);
+{ 30 Premaxilla_midline_depression State_0 absent,_shallow,_indistinct_(Euraxemys) State_1 distinct_and_wide_(Bothremys_kellyi) State_2 distinct_and_narrow_(Rosasia);
+{ 31 Premaxilla_midline_dorsal_process State_0 present,_meeting_nasals_(Proganochelys) State_1 absent,_low_(Galianemys) State_2 present,_partially,_completely_separates_aper_nar_ext_(Araiochelys);
+{ 32 Premaxilla_dorsal_sulcus State_0 smooth_surface_(Bothremys) State_1 sulcus_on_dorsal_surface,_parallel_to_anterior_margin_(Phosphatochelys);
+{ 33 Maxilla_triturating_surfaces State_0 narrow,_parallel_sided_(Taphrosphys) State_1 triangular,_wide_posteriorly_(Galianemys) State_2 triangular,_very_wide_posteriorly_(Bothremys);
+{ 34 Maxilla_triturating_surface_pits State_0 absent_(Kurmademys) State_1 present_(Bothremys);
+{ 35 Maxilla_accessory_ridge_on_triturating_surface State_0 absent_(Galianemys) State_1 present_(Euraxemys);
+{ 36 Maxilla_labial_ridge_depth_below_orbit State_0 shallow,_ridge_height_=_or_<_orbital_diameter_(Galianemys) State_1 very_deep,_ridge_height_>_orbital_diameter_(Bothremys);
+{ 37 Maxilla_maxilla-quadratojugal_contact State_0 absent,_qj_present_(Euraxemys) State_1 present_(Galianemys) State_2 absent_due_to_qj_absence_(Emydura);
+{ 38 Maxilla_maxilla-quadrate_contact_and_cheek_emargination State_0 absent,_little_or_no_emargination_(Galianemys) State_1 present,_no_emargination_(Azabbaremys) State_2 absent,_barely_separated_by_narrow_fissure_(Phosphatochelys) State_3 absent,_deep_emargination,_qj_present_(Euraxemys) State_4 absent,_deep_emargination,_qj_absent_(Emydura);
+{ 39 Maxilla_orbitonarial_bar_width State_0 width_intermediate,_equal_to_or_slightly_less_than_orbital_diameter_(Galianemys) State_1 broad,_wider_than_orbit_but_less_than_2x__(Bothremys) State_2 extremely_broad,_more_than_2x_orbit_(Labrostochelys) State_3 extremely_narrow,_much_less_than_orbital_diameter_(Phosphatochelys);
+{ 40 Maxilla_dorsal_process_onto_skull_roof State_0 mx_not_constricting_pf_(Galianemys) State_1 extends_dorsomedially_constricting_pf_(Bothremys_cooki);
+{ 41 Maxilla_ventral_rim_of_orbit State_0 rim_with_distinct_margin_(Galianemys) State_1 rim_absent,_continuous_slope_(Bothremys);
+{ 42 Maxilla_exposure_in_orbital_floor State_0 mx_broadly_exposed_in_floor_of_orbit_(Galianemys) State_1 narrowly_or_not_exposed_(Azabbaremys);
+{ 43 Vomer_maxilla-vomer_contact State_0 present_(Proganochelys) State_1 absent_(Azabbaremys);
+{ 44 Vomer State_0 present,_paired_(Proganochelys) State_1 present,_single_(Galianemys) State_2 absent_(Pelusios);
+{ 45 Vomer_vomerine_teeth State_0 present_(Proganochelys) State_1 absent_(Pelusios);
+{ 46 Vomer_central_bar State_0 sutured_at_both_ends_(Galianemys) State_1 sutured_only_anteriorly_(Azabbaremys) State_2 absent;
+{ 47 Palatine_foramen_palatinum_posterius State_0 in_floor_of_orbit_(Chelydra) State_1 behind_orbit,_in_floor_of_sulc_palpter_(Pelusios);
+{ 48 Palatine_dorsally_arched_palate State_0 absent_(Galianemys) State_1 present_(Azabbaremys);
+{ 49 Palatine_palatine_contribution_to_triturating_surface State_0 little_or_none_(Euraxemys) State_1 moderate_to_extensive_(Bothremys);
+{ 50 Quadrate_antrum_postoticum State_0 absent,_open_incisura_columellae_auris_(Proganochelys) State_1 small_(Bothremys) State_2 absent,_closed_incisura_(Azabbaremys) State_3 moderate-large_(Galianemys);
+{ 51 Quadrate_incisura_columellae_auris State_0 no_posterior_bony_restrictions_(Euraxemys) State_1 eustachian_tube_separated_from_stapes_by_bone_or_narrow_fissure_(Foxemys) State_2 eustachian_tube_and_stapes_enclosed_by_bone_(Podocnemis);
+{ 52 Quadrate_stapes_contained_in_bony_canal State_0 stapes_not_contained_in_bony_canal_(Euraxemys) State_1 stapes_completely_enclosed_by_bony_canal_(Bothremys);
+{ 53 Quadrate_sulcus_eustachii State_0 without_ventral_process_(Bothremys) State_1 with_ventral_process_(Labrostochelys);
+{ 54 Quadrate_trough_on_incisura_columellae_auris_ridge State_0 absent_(Bothremys) State_1 present_(Galianemys);
+{ 55 Quadrate_fossa_precolumellaris State_0 very_small_to_absent_(Galianemys) State_1 present_but_shallow_(Euraxemys) State_2 deep_and_well_defined_(Pelusios);
+{ 56 Quadrate_shelf_below_cavum_tympani State_0 absent_(Galianemys) State_1 lower_portion_of_cavum_tympani_unusually_deep_(Bothremys);
+{ 57 Quadrate_medial_process_contacting_braincase_elements_and_underlying_cranioquadrate_space State_0 absent_(Chelydra) State_1 present_(Pelusios);
+{ 58 Quadrate_quadrate-basioccipital_contact State_0 absent_(Euraxemys) State_1 present_(Galianemys);
+{ 59 Quadrate_condylus_mandibularis_position State_0 posterior_to_or_on__bobs_suture_(Galianemys) State_1 anterior_to_bo-bs_suture_(Pelusios) State_2 posterior_to_condylus_occipitalis_(Nigeremys);
+{ 60 Quadrate_fully_formed_cavum_tympani State_0 absent_(Proganochelys) State_1 present_(Pelusios);
+{ 61 Quadrate_cavum_tympani_with_acute_posterior_edge State_0 no_(Proganochelys) State_1 acute_edge,_also_enclosed_stapes_(Pelusios);
+{ 62 Quadrate_middle_ear_with_complete_lateral_wall State_0 not_complete_(Proganochelys) State_1 complete_(Pelusios);
+{ 63 Quadrate_cavum_tympani_curved_dorsally State_0 no_(Proganochelys) State_1 yes_(Palaeochersis);
+{ 64 Quadrate_covers_opisthotic_laterally State_0 no_(Proganochelys) State_1 yes_(Australochelys);
+{ 65 Quadrate_pocket_for_stapes_articulation State_0 present_(Proganochelys) State_1 absent_(Australochelys);
+{ 66 Quadrate_cranioquadrate_space State_0 relatively_open_(Proganochelys) State_1 a_well_defined_canal_(Australochelys);
+{ 67 Pterygoid_fossa_pterygoidea State_0 absent_or_small_(Pelusios) State_1 moderate_(Galianemys_whitei) State_2 deep_and_narrow_(Foxemys);
+{ 68 Pterygoid_cavum_pterygoidei State_0 absent_(Pelusios) State_1 present_(Podocnemis);
+{ 69 Pterygoid_processus_trochlearis_pterygoidei State_0 absent_(Proganochelys) State_1 present_(Pelusios);
+{ 70 Pterygoid_posteroventral_flange_along_lateral_edge_and_medial_to_processus_trochlearis_pterygoidei State_0 absent_(Chelydra) State_1 present,_medial_and_ventral_to_proc_troch_pter_(Pelusios);
+{ 71 Pterygoid_processus_pterygoideus_externus State_0 without_vertical_plate_(Pelusios) State_1 with_vertical_plate_(Chelydra);
+{ 72 Pterygoid_trigeminal_ridge State_0 absent_(Galianemys) State_1 ridge_extending_posteroventrally_from_for_nerv_trigemini_to_cond_mandibularis_(Phosphatochelys);
+{ 73 Pterygoid_position_of_the_foramen_posterius_canalis_carotici_interni State_0 BS_(Proganochelys) State_1 PT+QU_(Araiochelys) State_2 BS_in_medial_wall_(Kurmademys) State_3 PRO_(pelomedusids) State_4 PT+BS_(+PRO)_(Euraxemys) State_5 PT+QU+BS_(Taphrosphys) State_6 QU_(Labrostochelys) State_7;
+{ 74 Pterygoid_posterior_margin_of_pterygoid_forms_part_of_foramen_posterius_canalis_carotici_interni State_0 pterygoid_does_not_enter_fpcci_(Pelusios) State_1 pterygoid_enters_anterior_fpcci_margin_(Galianemys);
+{ 75 Pterygoid_foramen_caroticum_laterale State_0 present_(Emydura) State_1 absent_(Pelusios);
+{ 76 Pterygoid_midline_contact State_0 longer_(Galianemys) State_1 very_short_(Dirqadim);
+{ 77 Epipterygoid_absent State_0 epipterygoid_present_(Chelydra) State_1 epipterygoid_absent_(Pelusios);
+{ 78 Supraoccipital_supraoccipital-quadrate_contact State_0 absent_(Pelusios) State_1 present_on_dorsal_surface_of_otic_chamber_(Bothremys);
+{ 79 Supraoccipital_crista_supraoccipitalis State_0 low_to_absent_(Proganochelys) State_1 distinct_sagittal_plate_(Pelusios);
+{ 80 Supraoccipital_wide_occipital_plate State_0 wide_occipital_plate_with_depressions_(Proganochelys) State_1 absent_(Pelusios);
+{ 81 Exoccipital_foramen_jugulare_posterius State_0 not_formed_in_bone_(Proganochelys) State_1 closed_partially_(Galianemys) State_2 closed_completely_(Azabbaremys);
+{ 82 Exoccipital_recessus_scalae_tympani State_0 not_formed_in_bone_(Proganochelys) State_1 formed_in_bone,_also_fenestra_perilymphatica_(Pelusios);
+{ 83 Exoccipital_condylus_occipitalis State_0 basiccipital_plus_both_exoccipitals_(Euraxemys) State_1 exoccipitals_only_(Pelusios);
+{ 84 Exoccipital_exoccipital-quadrate_contact State_0 absent_(Pelusios) State_1 extensive,_pro_absent_(Galianemys) State_2 narrow,_pro_contact_(Euraxemys) State_3 narrow,_pro_absent_(Brasilemys) State_4;
+{ 85 Exoccipital_ventral_process State_0 absent_(Pelusios) State_1 present_(Euraxemys);
+{ 86 Basioccipital_basioccipital_short State_0 long,_length_divided_by_width_=<_0.60_(Pelusios) State_1 short,_length_divided_by_width_=_>0.59_(Bothremys);
+{ 87 Basioccipital_basioccipital_thick State_0 bo_+_bs_thick_(Proganochelys) State_1 thinner_(Pelusios);
+{ 88 Basioccipital_basioccipital-opisthotic_contact State_0 absent_(Galianemys) State_1 present_(Pelomedusa);
+{ 89 Prootic_hyomandibular_branch_of_facial_nerve_lies_in_its_own_canal State_0 in_canalis_cavernosus_(Chelydra) State_1 in_its_own_canal_(Podocnemis);
+{ 90 Prootic_foramen_stapedio-temporale State_0 not_a_canal_(Proganochelys) State_1 formed_in_bone_as_a_canal_(Pelusios);
+{ 91 Prootic_foramen_stapedio-temporale_opens_anteriorly State_0 no_(Pelusios) State_1 yes_(Galianemys);
+{ 92 Prootic_foramen_stapedio-temporale_and_foramen_nervi_trigemini State_0 separated_by_most_of_prootic_(Pelusios) State_1 separated_by_narrow_bar_of_prootic_(Bothremys);
+{ 93 Prootic_ventral_exposure State_0 most_of_prootic_exposed_ventrally_(Emydura) State_1 about_half_covered_by_qu+bs_(Euraxemys) State_2 nearly_all_covered_by_qu,_bs,_pt_(Taphrosphys);
+{ 94 Prootic_quadrate-pterygoid-basisphenoid_exposure State_0 extensive_exposure_or_no_exposure_(Pelusios) State_1 small_exposure_within_qu-pt-bs_suture_(Kurmademys) State_2;
+{ 95 Prootic_processus_trochlearis_oticum State_0 absent_(Proganochelys) State_1 present_(Chelydra);
+{ 96 Prootic_plane_of_fenestra_ovalis State_0 inclined_(Proganochelys) State_1 vertical_(Chelydra);
+{ 97 Opisthotic_processus_interfenestralis_expanded_ventrally State_0 narrow_ventrally_(Proganochelys) State_1 expanded_ventrally_(Pelusios);
+{ 98 Opisthotic_processus_interfenestralis_covered_in_ventral_view State_0 visible_ventrally_(Emydura) State_1 covered_ventrally_(Bothremys);
+{ 99 Opisthotic_fenestra_postotica_closed_medially State_0 open_(Euraxemys) State_1 closed_by_op,_qu_contact_(Taphrosphys);
+{ 100 Opisthotic_fenestra_postotica_short_horizontal_slit State_0 more_open_(Euraxemys) State_1 small,_horizontal_slit_(Galianemys);
+{ 101 Opisthotic_processus_paroccipitalis State_0 projects_posteriorly_beyond_sq_(Euraxemys) State_1 smaller,_does_not_project_beyond_sq_(Galianemys);
+{ 102 Opisthotic_thin_horizontal_flange State_0 absent_(Galianemys) State_1 present_on_posterior_edge_(Chedighaii_hutchisoni);
+{ 103 Basisphenoid_basisphenoid-quadrate_contact State_0 absent_(Euraxemys) State_1 present_and_wide_as_in_Galianemys State_2 present_and_narrow_as_in_Azabbaremys;
+{ 104 Basisphenoid_interpterygoid_vacuity State_0 large_and_open_(Proganochelys) State_1 small,_absent_(Pelusios);
+{ 105 Basisphenoid_ventral_outline State_0 elongate,_lacking_sutured__pterygoids_(Proganochelys) State_1 triangular_(baenids) State_2 pentagonal_(Taphrosphys) State_3 very_elongate_(Araripemys) State_4 V-shaped_(Arenila);
+{ 106 Basisphenoid_processus_clinoideus State_0 present,_with_canal_(Pelusios) State_1 absent,_for._n._abducentis_is_a_groove_(Bothremys);
+{ 107 Basisphenoid_skull_akinetic State_0 no,_open_basipterygoid_articulation_(Proganochelys) State_1 yes,_basipterygoid_articulation_fused_(Australochelys);
+{ 108 Basisphenoid_cultriform_process State_0 rod-like,_thin_(Proganochelys) State_1 broad,_flat,_absent_(Australochelys);
+{ 109 Basisphenoid_sella_turcica_and_dorsum_sellae State_0 deep,_well-defined_(Bothremys) State_1 shallow,_low_margins_(Taphrosphys_sulcatus);
+{ 110 Basisphenoid_ventral_tubercle State_0 single_(Proganochelys) State_1 paired_(Australochelys) State_2 absent_(Pelusios;
+{ 111 Columella_auris_footplate State_0 without_footplate_(Proganochelys) State_1 with_wide_footplate_(Pelusios);
+{ 112 Splenial State_0 present_(Proganochelys) State_1 absent_(Pelusios);
+{ 113 Dentary_high_lingual_ridge State_0 no_(Pelusios) State_1 yes_(Bothremys);
+{ 114 Dentary_dentary_pits State_0 no_(Euraxemys) State_1 yes_(Bothremys);
+{ 115 Dentary_U-shaped_lingual_ridges_on_symphysis State_0 absent__(Euraxemys) State_1 form_Ushape,_also_wedge_(Bothremys);
+{ 116 Dentary_symphysis State_0 symphysis_fused_(Bothremys) State_1 symphysis_sutured_(Euraxemys);
+{ 117 Dentary_triturating_surfaces State_0 narrow_(Euraxemys) State_1 wide_posteriorly_(Cearachelys);
+{ 118 Dentary_widely_exposed_on_lateral_surface State_0 yes,_in_posterior_part_of_jaw_(Euraxemys) State_1 no,_covered_by_surangular_(Bothremys);
+{ 119 Surangular_foramen_nervi_auriculotemporalis State_0 absent_(Proganochelys) State_1 present_(Podocnemis);
+{ 120 Coronoid_wide_lateral_exposure State_0 no_(Euraxemys) State_1 yes_(Bothremys);
+{ 121 Prearticular_fossa_meckelii_open_anteriorly State_0 closed_by_long_angpra_contact_(Euraxemys) State_1 more_open,_short_pra-ang_contact_(Bothremys);
+{ 122 Articular_processus_retroarticularis State_0 long,_posterior_(Bothremys) State_1 short,_absent_(Pelusios) State_2 long,_posteroventral_(Podocnemis);
+{ 123 Vertebrae_cervical_ribs State_0 present_(Proganochelys) State_1 absent_(Pelusios);
+{ 124 Vertebrae_cervical_postzygapophyses_fused State_0 separate_(Proganochelys) State_1 some_or_all_fused_(Podocnemis);
+{ 125 Vertebrae_cervical_postzygapophyses_elevated State_0 separated_from_each_other_(Proganochelys) State_1 postzygapophyses_elevated_on_neural_spine_(Podocnemis);
+{ 126 Vertebrae_cervical_centra State_0 not_formed_(Proganochelys) State_1 formed,_wider_than_high_(Platychelys) State_2 formed,_usually_higher_than_wide_(Podocnemis);
+{ 127 Vertebrae_cervical_articulation_pattern State_0 amphicoelous,_platycoelous_(Proganochelys) State_1 (2)_)3)_)4)_)5)_)6)_)7)_)8)__(Pelusios) State_2 (2(_(3(_(4(_(5)_)6)_)7(_(8)__(Emydura);
+{ 128 Vertebrae_caudal_articulation_pattern State_0 platycoelous_(Proganochelys) State_1 formed_centra_but_variable_(Notoemys) State_2 only_procoelous_(Pelusios);
+{ 129 Shoulder_girdle_coracoid_foramen State_0 present_(Proganochelys) State_1 absent_(Podocnemis);
+{ 130 Shoulder_girdle_coracoid_shape State_0 flat_plate_(Proganochelys) State_1 columnar_(Podocnemis);
+{ 131 Pelvic_girdle_tenth_thoracic_centrum State_0 not_incorporated_into_sacrum_(Proganochelys) State_1 incorporated_into_sacrum_(Pelusios);
+{ 132 Pelvic_girdle_pelvis_sutured_to_shell State_0 no_(Proganochelys) State_1 yes_(Pelusios);
+{ 133 Pelvic_girdle_dorsal_part_of_ilium_columnar State_0 no,_inclined,_with_anterior,_posterior_processes_(Proganochelys) State_1 columnar,_expanded_mediolaterally_(Podocnemis);
+{ 134 Pelvic_girdle_pelvis_narrow State_0 pelvis_widely_placed_(Proganochelys) State_1 ilia_close_to_midline_(Podocnemis);
+{ 135 Pelvic_girdle_thyroid_fenestra State_0 separate_(Proganochelys) State_1 confluent_(Podocnemis);
+{ 136 Humerus_shoulder_on_lateral_side_of_head State_0 present_(Proganochelys) State_1 absent_(Podocnemis);
+{ 137 Carapace_cervical_scale State_0 present_(Emydura) State_1 absent_(Podocnemis);
+{ 138 Carapace_nuchal_bone_width State_0 width_2_times_wider_than_length,_or_more_(Platychelys) State_1 width_greater_than_length,_but_less_than_2_times_(Euraxemys) State_2 width_equals_length_(Foxemys) State_3 width_less_than_length_(Teneremys) State_4 Araripemys;
+{ 139 Carapace_pygal_notch State_0 present,_wide_(Proganochelys) State_1 present,_narrow,_spherical_(Proterochersis) State_2 absent,_margin_smooth_(Podocnemis);
+{ 140 Carapace_neural_series_completeness State_0 to_suprapygal_(Euraxemys) State_1 to_costals_8_(Podocnemis) State_2 to_costals_7_(Foxemys) State_3 to_costals_6_(Chedighaii) State_4 neurals_discontinuous_or_absent_(Emydura);
+{ 141 Carapace_iliac_scar_position State_0 absent_(Chelydra) State_1 costals_7_and_8_(Pelusios) State_2 costals_7_and_8_and_suprapygal_(Taphrosphys);
+{ 142 Carapace_first_costal_length State_0 costal_1_shorter_or_equal_to_2_times_length_of_costal_2_(Euraxemys) State_1 costal_1_two_times_longer_than_2nd_costal_(Foxemys);
+{ 143 Carapace_position_of_four-sided_neural State_0 neural_one_(Euraxemys) State_1 neural_two_(Cearachelys) State_2 neural_three_(Araripemys) State_3 foursided_neural_absent_(Platemys);
+{ 144 Carapace_neural_series_pattern State_0 irregular,_2_and_4_quadrangular,_alternating_in_width_(Platychelys) State_1 irregular,_width_even_(Kayentachelys) State_2 regular,_most_hexagonal,_coffinshaped_(Podocnemis) State_3 neurals_absent_(Platemys) State_4 discontinuous_(Araiochelys);
+{ 145 Carapace_neural_number State_0 more_than_8_(Kayentachelys) State_1 8_neurals_(Cearachelys) State_2 7_neurals_(Foxemys) State_3 6_or_less_(Kurmademys);
+{ 146 Carapace_length_of_contact_between_peripheral_1_and_costal_1_in_dorsal_view State_0 no_contact_due_to_large_nuchal(Dortoka) State_1 wide_contact,_anterior_margin_less_than_2x_contact_(Rosasia) State_2 narrow_contact,_anterior_margin_2x_contact_(Foxemys) no_contact_due_to_small_nuchal_(Araripemys);
+{ 147 Carapace_axillary_process_contacts_first_costal State_0 no_contact_(Proganochelys) State_1 contact_present_but_separated_from_costal_2_suture_(Chedighaii) State_2 contact_present_and_close_to_costal_2_(Dortoka);
+{ 148 Carapace_axillary_process_extent_on_ventral_surface_of_peripherals State_0 reaches_peripheral_2_(Platychelys) State_1 reaches_anterior_edge_of_peripheral_3_(Emydura) State_2 main_body_of_peripheral_3_(Chedighaii);
+{ 149 Carapace_inguinal_buttress State_0 short_or_absent_(Proganochelys) State_1 extends_medially_to__center_of_costal_5_(Chedighaii);
+{ 150 Carapace_supramarginal_scales State_0 12_(Proganochelys) State_1 3_(Proterochersis) State_2 none_(Podocnemis);
+{ 151 Carapace_vertebral_scale_width State_0 equal_to_or_wider_than_pleural_scales_(Proterochersis) State_1 narrower_than_pleural_scales_(Foxemys);
+{ 152 Carapace_vertebral_scale_1_reaches_anterior_margin_of_shell State_0 no,_first_marginal_scales_meet_on_midline_(Podocnemis) State_1 yes_(Araripemys);
+{ 153 Carapace_nuchal_embayment State_0 no_(Emydura) State_1 yes_(Chedighaii);
+{ 154 Carapace_first_thoracic_rib State_0 larger_and_separate_(Platychelys) State_1 smaller_and_closer_to_2nd_rib_(Podocnemis);
+{ 155 Carapace_costovertebral_tunnel State_0 wide_anteriorly_and_posteriorly_only__(Proganochelys) State_1 wide_entire_length_(Platychelys) State_2 narrow_entire_length_(Chedighaii);
+{ 156 Carapace_articulation_facet_on_thoracic_rib_1 State_0 anterior_edge_smooth_(Proganochelys) State_1 swollen_articulation_facet,_tubercle_(Platychelys);
+{ 157 Plastron_mesoplastra State_0 present,_meet_on_midline_(Proganochelys) State_1 present,_wider_than_long_(Platychelys) State_2 present,_rounder_(Chedighaii) State_3 absent_(Emydura);
+{ 158 Plastron_trapezoidal_entoplastron State_0 arrowshaped_with_posterolateral_processes_(Proganochelys) State_1 more_trapezoidal_(Podocnemis);
+{ 159 Plastron_epiplastra_meet_on_midline State_0 separated_by_entoplastron_(Proganochelys) State_1 meet_in_midline_(Foxemys);
+{ 160 Plastron_dorsal_epiplastral_process State_0 very_large_(Proganochelys) State_1 small_or_absent_(Podocnemis);
+{ 161 Plastron_intergular_scales State_0 one_pair_(Proterochersis) State_1 one_intergular_scale_(Foxemys);
+{ 162 Plastron_gular_projections State_0 present_(Proganochelys) State_1 absent_(Podocnemis);
+{ 163 Plastron_anterior_lobe_of_plastron_short_and_wide_at_base,_and_semicircular_in_outline State_0 width_over_length_<_=_2.0_(Podocnemis) State_1 width_over_length_>_2.1_(Chedighaii);
+{ 164 Plastron_pectoral_scales_on_entoplastron State_0 no_(Euraxemys) State_1 yes_(Foxemys);
+{ 165 Plastron_pectoral_scales_on_epiplastron State_0 no,_far_behind_epiplastron_(Cearachelys) State_1 on_epiplastron,_on_epi-hyoplastron_suture_(Foxemys);
+{ 166 Plastron_pectoral-abdominal_scale_sulcus_crosses_mesoplastron State_0 yes_(Cearachelys) State_1 anterior_to_mesoplastron_(Kurmademys);
+{ 167 Plastron_size_and_shape_of_ischial_suture State_0 absent_(Proganochelys) State_1 large_and_linear_(Podocnemis) State_2 small_and_equidimensional_(Taphrosphys);
+{ 168 Plastron_posterior_lobe_wider_than_pelvis State_0 no_(Proganochelys) State_1 yes_(Podocnemis);
+{ 169 Plastron_intergular_scale State_0 small_(Cearachelys) State_1 large,_separating_gulars_and_humerals_(Taphrosphys) State_2 large,_very_small_gulars,_humeral_and_partial_pectoral_separation_(Dortoka);
+{ 170 Plastron_axillary/inguinal_scales State_0 present_(_Kayentachelys) State_1 absent_(Emydura);
+{ 171 Plastron_abdominal_scale_narrow State_0 midline_length_abdominal_=_>_midline_length_anal_(Podocnemis) State_1 midline_length_abdominal_<_midline_length_anal_(Taphrosphys) State_2 abdominals_do_not_meet__(Araripemys);
+{ 172 Plastron_anterior_lobe_reaches_carapace_edge State_0 yes_(Cearachelys) State_1 no_(Foxemys);
+{ 173 Plastron_anal_notch State_0 absent_(Kayentachelys) State_1 present_(Taphrosphys);
+{ 174 Shell_surface_texture State_0 rough_surface_without_clear_pattern_(Proganochelys) State_1 weak_granulated_polygons_(chelids) State_2 strong_granulated_polygons_(Taphrosphys) State_3 fine,_striated_ridges_(Polysternon) State_4 smooth_(Cearachelys) State_5 pits_(Araripemys) State_6 microreticulation_(Dortoka_fide_deBroin);
+;
+
+
+ccode  - 0.174;
+
+
+;

@@ -1,0 +1,129 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 17.57.03'
+83 28
+
+&[num]
+Callicebus_moloch                      ???10100000100100000000011100000001000000000001?01100100-0--00000-0-10010-0-10-3???
+Saimiri_ustus                          ???10000000110010002100000010000011?00101000000?10000000-0--0?000-0-100?0-0--0-0???
+Callimico_goeldii                      ???01110000111110000200000010010010100100000011000010100-0--00010-0-00000-0-00-2020
+Leontopithecus_chrysomelas             ???11101101111110000200101010011111001101001110?11010100-0--00000-0-10000-0-?0-1222
+Leontopithecus_chrysopygus             ???11?01101111110000200101010011111101101001110?11010100-0--00000-0-00000-0-?0-1222
+Saguinus_fuscicollis_weddelli          ???11001011010110000200000010010110101110000110000010000-11000010-0-0011200-00-10??
+Saguinus_midas                         ???11001011110110000200000011010110101110000110000010100-0--00010-0-1011220-00-100?
+Callithrix_aurita                      ???01111001110111001321111111010111111100111110111211010-1000000100-10010-0-0111111
+Callithrix_flaviceps                   ???01?11001110111001321111?1??1?1111111?011111???1211010-1000000100-10211-0-0111111
+Callithrix_geoffroyi                   ???01111001110111012321111111110111111100111110111211000----00000-1020211-0-0111000
+Callithrix_jacchus                     ???01111001010111101321111112110111111110111110111211000-10000000-1010211-0-0121000
+Callithrix_kuhlii                      ???0111100111011101232111111?110111111110111110?11211000-10000000-1020211-0-0111000
+Callithrix_penicillata                 ???0111100101011120132111111211?111111110111110111211000-10000000-1?10211-0-0121000
+Cebuella_pygmaea                       ???11111001010111202411111111111111122121121110?01?10000-0-001100-0-0021220-0120001
+Mico_acariensis                        ???111110011111110123111111120111111211?112111000111?0011111?2100-0-?0??211110-????
+Mico_argentatus                        ???1111100111111101231111111201111112112112111???1110200-0--0?310-0-00000-?-10-0001
+Mico_chrysoleucos                      ???1111100111?111012311111112111111121111121110001111000----0430120-20-00-?-1100???
+Mico_emiliae                           ???1111100111111101231111111201111112111112111000111?00?10--131?0-0-20000-0-10-???1
+Mico_humeralifer                       ???111110011111110123111111120111111211111211100?111100101111110120-2012201001100?1
+Mico_humilis                           ???111110011111111?24111111121111111211?112111000111100101111110030-2012?10-??1?00?
+Mico_intermedius                       ???111?10011101110??311111?1??1?1111211?112111???1?11000-0--1430110-20332110?1?????
+Mico_leucippe                          ???1111100111?111012311111112011111121121121110?01110200-0--04310-0-00000-?-10-????
+Mico_marcai                            ???11111001111111012311111?1??11111121121121110001110100-11012110-0-0102210-10-????
+Mico_mauesi                            ???1111100111111101231111111201111112111112111000111?00101111110120-201220100110???
+Mico_melanurus                         ???11101001111111012311111112111111121121121110001110000-1111?100-0-20?00-1110-00?1
+Mico_nigriceps                         ???11111001111111012311111?1??1?11112112112111???1110100-11012?10-0-210?211010-0???
+Mico_rondoni                           ???11111001110111012311111112111111121111121110001110100-1101?110-0-21000-?-10-00?1
+Mico_saterei                           ???1111100111011101231111111201111112111112111100111100110--14210-0-2013211000-0???
+
+;
+
+
+cnames
+{ 0 HMEW/HHH;
+{ 1 Intermembral_index_[(HTL+RTL)/(FTL+TTL)];
+{ 2 Reduction_index_of_the_upper_M2;
+{ 3 Frontonasal_region,_shape_in_profile_view convex straight/concave_;
+{ 4 Diameter_of_the_eye_in_relation_to_the_diameter_of_the_orbit''s_external_border_ subequal greater;
+{ 5 Upper_dental_arcade,_shape_in_occlusal_view C1/M1_ratio_is_>_0.81 C1/M1_ratio_is_<_0.79;
+{ 6 Palate,_posterior_nasal_spine_ consistently_present_ reduced/absent_;
+{ 7 Palate,_extent_of_bony_palate ends_in_line_with_M2 ends_caudally_to_M2_;
+{ 8 Sphenoidal_vacuities not_visible_from_the_mesopterygoid_fossa visible_from_the_mesopterygoid_fossa_;
+{ 9 Pterygoid,_lateral_process_in_profile_view projected_ventro-posteriorly,_not_reaching_tip_of_M2_in_lateral_view ventrally_projected,_exceeding_tip_of_M2;
+{ 10 Pterygoid,_depth_of_interpterygoid_fossa _fossa_between_medial_and_lateral_pterygoid_plates_reaches_skull_base fossa_reduced_to_a_small_space_between_lateral_and_medial_processes_;
+{ 11 Pterygoid,_position_of_lateral_process_relative_to_the_foramen_ovale,_in_ventral_view_of_the_skull ends_far_from_the_foramen_ovale_ ends_close_to_the_foramen_ovale;
+{ 12 Tympannic_bulla,_carotid_foramen,_position close_to_jugular_foramen,_laterally_placed_in_the_tympannic_bulla more_ventrally_placed,_clearly_separated_from_jugular_foramen,_more_anteriorly_placed_than_in_(0);
+{ 13 Tympanic_bulla,_petrosal_spine vestigial/absent_ present_as_a_discrete_protuberance;
+{ 14 Postglenoid_foramen large small/absent;
+{ 15 Foramen_magnum,_orientation posteriorly_oriented_ ventrally_oriented_;
+{ 16 Dentary_(mandible),_symphyseal_orientation,_in_lateral_profile,_in_relation_to_planum_alveolare_ vertically_oriented horizontally_oriented_;
+{ 17 Dentary_(mandible),_mandibular_condyle,_height_relative_to_planum_alveolare clearly_above slightly_above_ same_level/lower_than_toothrow_;
+{ 18 Dentary_(mandible),_coronoid_process,_height_relative_to_condylar_process_ above_condyle same_level_as_condyle;
+{ 19 Dentary_(mandible),_coronoid_process,_shape convex_tip_and_mandibular_notch_deeper_than_in_(1)_and_(2) narrow_and_pointed_tip,_mandibular_notch_at_more_obtuse_angle wide_and_blunt_tip,_mandibular_notch_as_in_(1);
+{ 20 Dentary_(mandible),_angular_process,_shape projected_ventrally_and_posteriorly_to_the_horizontal_ramus undeveloped projected_posteriorly_to_vertical_ramus _projected_posteriorly_to_vertical_ramus_and_ventrally_to_the_horizontal projected_ventrally_to_horizontal_ramus_;
+{ 21 Dentary_(mandible),_anterior_lower_dentition_in_occlusal_view i1_set_lateral_to_i2_and_c_placed_lateral_to_i2_("-'U"--_shaped) i2_placed_lateroposteriorly_to_i1,_c1_placed_lateral_to_i2_("-'V"--_shaped)_ i2_set_posterior_to_i1_and_c1_set_posterior_to_i2,_with_the_tips_converging_lingually_("-'V"--_shaped)_;
+{ 22 _i1,2_mesiostyle_and_distostyle_ absent present;
+{ 23 i1,2,_height_of_crown_in_i1_relative_to_i2 relatively_lower subequal;
+{ 24 Lower_c,_relative_size_ crown_about_twice_the_size_of_i1,2 crown_subequal_to_that_of_i1,2;
+{ 25 Lower_c,_orientation,_with_mandible_in_frontal_aspect obliquely_oriented vertically_oriented;
+{ 26 p2,_protoconid_height,_relative_to_p3_protoconid_ _projects_well_above_p3_protoconid approximately_the_same_height_of_p3_protoconid_;
+{ 27 p2,_metaconid present_ vestigial/absent_;
+{ 28 p3,_metaconid present vestigial absent;
+{ 29 p4,_metaconid,_relative_size subequal_in_height_to_p4_protoconid shorter_than_p4_protoconid_;
+{ 30 p4,_entoconid present absent;
+{ 31 m1,_relative_position_and_size_of_trigonid_ large,_placed_perpendicular_to_talonid smaller,_obliquely_placed_in_relation_to_talonid;
+{ 32 Upper_third_molars,_M3/m3 present absent;
+{ 33 Last_lower_m,_size_relative_to_p4 subequal_or_larger_than_p4 smaller_than_p4,_approximately_two_thirds_its_size;
+{ 34 I1,_buccolingual_width relatively_thin relatively_thick;
+{ 35 I1,_lingual_tubercle present absent;
+{ 36 I2,_size_and_shape_relative_to_I1 I2_tips_converge_in_frontal_view,_crown_subequal_to_or_slightly_shorter_than_I1 I2_tips_divergent,_crown_subequal_to_or_slightly_shorter_than_I1 I2_tips_divergent,_crown_usually_higher_than_I1;
+{ 37 P2,_protocone present_as_discrete_cusp well_developed_cingular_lingual_crest,_indistinct_cusp absent;
+{ 38 P4,_hypocone present absent;
+{ 39 P4,_region_between_protocone_and_paracone,_in_occlusal_view convex_distal_and_mesially_ idented_distally idented_mesial_and_distally_;
+{ 40 P4,_lingual_cingulum,_development poorly_developed,_present_at_the_lingual/linguodistal_face_of_protocone involves_the_protocone_completely;
+{ 41 M1,_protocone,_position_relative_to_paracone_ placed_mesially,_at_the_same_level_of_paracone distally_placed,_at_the_same_level_of_centrocrista;
+{ 42 M1,_entocingulum_morphology_relative_to_protocone wraps_protocone_distally,_more_developed_in_the_distal_portion_of_the_protocone_than_in_the_mesial_one wraps_protocone_distally,_suddenly_interrupted_mesially_and_labially_ completely_wraps_the_protocone,_developed_equally_in_both_mesial_and_distal_faces_;
+{ 43 M1,_development_the_distal_portion_of_entocingulum developed reduced;
+{ 44 M1-2,_hypocone present absent;
+{ 45 M2,_development_of_hypocone hypocone_present_as_a_discrete_cusp hypocone_comparatively_less_developed_than_other_three_cusps,_or_absent;
+{ 46 Scapula,_incisura well_delimited_ delimited_in_its_superior_border_by_a_bony_structure;
+{ 47 Sternum,_cranial_portion_of_manubrium square_shape,_keel_not_evident trapezoidal,_keel_evident_;
+{ 48 Sternum,_caudal_portion_of_manubrium not_constricted_posteriorly with_posterior_constriction_;
+{ 49 Humerus,_entepicondylar_foramen present absent;
+{ 50 Humerus,_medial_epicondyle_morphology does_not_project_laterally projects_laterally,_not_perpedincular_to_humerus_central_axis projects_laterally,_perpendicular_to_humerus_central_axis;
+{ 51 Cheiridia,_morphology_of_ungues nail claw-like_tegula;
+{ 52 Head,_crown_and_forehead,_dark_median_sagittal_band_in_juvenile absent present;
+{ 53 Face,_pelage hairy_face,_except_at_perinasal_area_ face_covered_by_hairs,_more_sparse_surrounding_eyes_and_nostrils face_pratically_naked;
+{ 54 Face,_white_mask,_contrasting_with_adjacent_region absent present;
+{ 55 Circum_facial_region,_white_rim_around_face absent present;
+{ 56 Circum_facial_region,_morphology_of_the_white_rim_around_face incomplete,_more_evident_on_supercilliary_region_and_laterally_to_the_eyes complete,_wider_than_in_(0);
+{ 57 Face,_forehead,_coloration forehead_not_distinguished_from_surrounding_region forehead_distinctly_colored_on_its_median_region;
+{ 58 Face,_forehead,_morphology_of_patch diamond-shaped_patch_ triangular-shaped_patch V-shaped_patch_;
+{ 59 Face,_color_of_patch_at_forehead white black;
+{ 60 Face,_color_of_crown_relative_to_the_nape_and_immediately_posterior_mantle_regions same_color distinct_color,_contrasting_with_immediately_posterior_region;
+{ 61 Face,_pigmentation pigmented pigmented,_except_for_circum-orbital_and_nasal_region depigmented_around_nostrils_and_upper_lip,_vertical_pigmented_stripe_between_nostrils pigmented_around_mouth_and_on_cilliary_region depigmented_face;
+{ 62 Auricle,_pigmentation pigmented_ melanin_concentrated_in_the_distal_portion depositions_only_in_the_disto-superior_area depigmented_;
+{ 63 Auricle,_pilosity moderately_hairy/hirsuste_ sparsely_haired;
+{ 64 Intrinsic_ear_tufts,_presence absent present;
+{ 65 Intrinsic_ear_tufts,_morphology originate_at_the_inner_surface_of_auricle originate_at_the_external_face_of_auricle originate_from_both_auricular_surfaces restrict_to_lower_auricular_lobe;
+{ 66 Extrinsic_ear_tufts,_presence absent present;
+{ 67 Extrinsic_ear_tufts,_morphology pre-auricular_tufts_present circum-auricular_tufts_present;
+{ 68 Fore_limbs,_color_of_dorsal_portion homogeneously_colored lighter_distally,_darkening_proximally_ darker_distally,_lightening_proximally_;
+{ 69 Hind_limbs,_color_of_external_(lateral)_portion homogeneous_to_saddle_and_adjacent_fields ocher,_contrasting_with_adjacent_fields;
+{ 70 Mantle,_general_pattern same_color_as_saddle_or_weakly_defined well_defined,_reaching_or_passing_shoulders,_which_have_the_same_color_was_mantle well_defined,_not_reaching_shoulders bizonal_dorsum_;
+{ 71 Saddle,_hair_banding_pattern: uni-_or_bi-colored_hairs aguti_banding_pattern_(alternate_pheo-_and_eu-melanin_bands)_ tri-banded_hairs_without_the_aguti_pattern_ tetra-banded_hairs;
+{ 72 Saddle_and_rump,_general_pattern uniformly_colored_ transverse_striations mottled_;
+{ 73 Saddle_and_rump,_mottled_pattern,_morphology pattern_with_contrasting_black/white_spots_restrict_to_the_saddle,_reaching_a_small_portion_of_the_rump pattern_with_subtly_defined_pheomelanic_patches_present_in_the_saddle,_reaching_anterior_portion_of_rump mottled_pattern_reaching_rump_and_posterior_members;
+{ 74 Hip,_presence_of_distinctly_colored_patches absent present;
+{ 75 Hip_patches,_morphology not_reaching_thighs reaching_thighs_;
+{ 76 Tail,_constrast_with_dorsum does_not_contrast_with_dorsum,_being_of_the_same_color_of_it_ ail_clearly_darker_or_lighter_than_dorsum;
+{ 77 Tail,_annulation hairs_not_disposed_in_rings tail_hairs_disposed_in_rings;
+{ 78 Tail,_banding_pattern_of_hairs_forming_the_tail_rings monochromatic_hairs bi-banded_hairs_ tetra-banded_hairs;
+{ 79 Diploid_(2n)_chromosome_number 44 46 47 48;
+{ 80 Long_call_structure,_interval_between_notes constant progressively_shorter progressively_longer;
+{ 81 Long_call_structure,_note_duration same_duration_ progressively_shorter_ progressively_longer;
+{ 82 Long_call_structure,_frequency_modulation inexpressive descending_frequency ascending_frequency;
+;
+
+
+ccode  - 0.16 18 20 22.27 29.35 38.41 43.49 51.82 + 17 19 21 28 36.37 42 50;
+
+
+;

@@ -1,0 +1,46 @@
+nstates num 9;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 18.02.37'
+24 4
+
+&[num]
+Mimosa_perplicata               101?0030?110100002110101
+Mimosa_acroconica               1101?0302112000100-01010
+Mimosa_bispiculata              3111413120?200010???????
+Mimosa_setosa_paludosa          111100?0210001???2?01111
+
+;
+
+
+cnames
+{ 0 branch,_prickles absent straight_(or_slightly_inclined) patent_(or_slightly_inclined) antrorse retrorse;
+{ 1 branch,_trichomes absent present;
+{ 2 branch,_filiform_setae absent present;
+{ 3 branch,_glandular_setae absent present clavate capitate;
+{ 4 leaves,_stipules,_shape lanceo-acuminate linear ovate-lanceolate ovate broadly-ovate-acuminate;
+{ 5 leaves,_stipules,_base,_fusion absent present;
+{ 6 leaves,_rachis,_interpinnal_projection absent present spiculate laminar glandular;
+{ 7 leaves,_rachis,_interpinnal_projection,_apex_division integer bifid;
+{ 8 leaves,_rachis,_lenght_relative_to_the_petiole 1:2_or_less ca._1:1 2:1_or_more;
+{ 9 leaves,_rachis,_prickles absent present;
+{ 10 leaves,_leaflets,_secondadry_veins_promination_in_relation_to_primary_veins not_prominent equally_prominent;
+{ 11 floral_bracts,_shape spatulate-acuminate eliptic-rhombic spatulate-elliptic narrowly_spatulate-acuminate lanceolate broadly_spatulate-acuminate linear spatulate-rhombic spatulate;
+{ 12 floral_bract,_number_of_nervures one 3 5_or_more;
+{ 13 flower,_corolla,_lobes,_veins,_apex_promination not_prominent prominent;
+{ 14 flower,_corolla,_lobes,_trichomes State_0 absent State_1 present;
+{ 15 flower,_corolla,_lobes,_filiform_setae State_0 absent State_1 present;
+{ 16 flower,_corolla,_lobes,_glandular_setae State_0 absent present State_1;
+{ 17 fruit,_valves,_segmentation integer partially_articulated completely_articulated;
+{ 18 fruit,_articles,_time_of_separation_relative_to_dehiscence_of_valves_and_liberation_of_seeds together after;
+{ 19 fruit,_stipe,_relative_lenght_to_width less_then_4x 5x_or_more;
+{ 20 fruit,_valves,_trichomes absent present;
+{ 21 fruit,_valves,_filiform_setae absent present;
+{ 22 fruit,_margin,_trichomes absent present;
+{ 23 fruit,_margin,_filiform_setae absent present;
+;
+
+
+ccode  - 0.23;
+
+
+;
