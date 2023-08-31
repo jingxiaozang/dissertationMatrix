@@ -1,0 +1,59 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 09.37.28'
+11 30
+
+&[num]
+Anchylorhynchus_aegrotus                       11000101101
+Anchylorhynchus_albidus                        11010111101
+Anchylorhynchus_amazonicus                     1?01?1?1?01
+Anchylorhynchus_bicarinatus                    ??010101101
+Anchylorhynchus_bicolor                        ?20101?1101
+Anchylorhynchus_bucki                          1100?101101
+Anchylorhynchus_burmeisteri                    22010111101
+Anchylorhynchus_camposi                        ?201???1101
+Anchylorhynchus_centrosquamatus_[sp8]          11010111101
+Anchylorhynchus_chrysomeloides_[sp4]           12010111101
+Anchylorhynchus_goiano_[sp6]                   ?1010111101
+Anchylorhynchus_imitator_[sp5]                 1?01?1?1?01
+Anchylorhynchus_latipes_[sp3]                  ?1010111101
+Anchylorhynchus_luteobrunneus_[sp9]            11010111101
+Anchylorhynchus_minimus                        ??010111101
+Anchylorhynchus_multisquamis_[sp1]             12010101101
+Anchylorhynchus_parcus                         110?010?101
+Anchylorhynchus_pinocchio_[sp7]                110101?1101
+Anchylorhynchus_rectus_[sp2]                   ?201?1?1?01
+Anchylorhynchus_trapezicollis                  ?1010111101
+Anchylorhynchus_tremolerasi                    ???10111101
+Anchylorhynchus_tricarinatus                   1?010101101
+Anchylorhynchus_vanini                         ?10?0101101
+Anchylorhynchus_variabilis                     ?1010111101
+Anchylorhynchus_vittipennis                    11010111101
+Andranthobius_bondari                          ??1?1?00010
+Celetes_binotatus                              1?1?1001111
+Celetes_langei                                 1?1?1001111
+Elaeidobius_kamerunicus                        021?10?0111
+Elaeidobius_subvittatus                        0211100001?
+
+;
+
+
+cnames
+{ 0 body_size_(geometric_mean_of_pronotum_length,_pronotum_width,_elytra_length,_elytrum_width) body_size_measurement_is_about_1.04 body_size_measurement_is_about_1.862 body_size_measurement_is_about_2.753;
+{ 1 male,_eyes_above_in_relation_to_head_width eyes_above_measurement_is_about_0.182_times_head_width eyes_above_measurement_is_about_0.2543_times_head_width eyes_above_measurement_is_about_0.3246_times_head_width;
+{ 2 male,_rotrum_width_base_in_relation_to_rostrum_width_apex rotrum_width_base_measurement_is_about_0.7558_times_rostrum_width_apex rotrum_width_base_measurement_is_about_0.972_times_rostrum_width_apex;
+{ 3 female,_rostrum_length_in_relation_to_the_geometric_mean_of_pronotum_length,_pronotum_width,_elytra_length,_elytrum_width rostrum_length_measurement_is_about_0.6106_times_the_geometric_mean_of_pronotum_length,_pronotum_width,_elytra_length,_elytrum_width rostrum_length_measurement_is_about_0.9132_times_the_geometric_mean_of_pronotum_length,_pronotum_width,_elytra_length,_elytrum_width rostrum_length_measurement_is_about_1.504_times_the_geometric_mean_of_pronotum_length,_pronotum_width,_elytra_length,_elytrum_width;
+{ 4 male,_pronotum_length_in_relation_to_the_geometric_mean_of_pronotum_length,_pronotum_width,_elytra_length,_elytrum_width pronotum_length_measurement_is_about_0.6069_times_the_geometric_mean_of_pronotum_length,_pronotum_width,_elytra_length,_elytrum_width pronotum_length_measurement_is_about_0.7969_times_the_geometric_mean_of_pronotum_length,_pronotum_width,_elytra_length,_elytrum_width;
+{ 5 male,_scutellum_length_in_relation_to_the_geometric_mean_of_pronotum_length,_pronotum_width,_elytra_length,_elytrum_width scutellum_length_measurement_is_about_0.05338_times_the_geometric_mean_of_pronotum_length,_pronotum_width,_elytra_length,_elytrum_width scutellum_length_measurement_is_about_0.09851_times_the_geometric_mean_of_pronotum_length,_pronotum_width,_elytra_length,_elytrum_width;
+{ 6 male,_scutellum_width_in_relation_to_the_geometric_mean_of_pronotum_length,_pronotum_width,_elytra_length,_elytrum_width scutellum_width_measurement_is_about_0.07951_times_the_geometric_mean_of_pronotum_length,_pronotum_width,_elytra_length,_elytrum_width scutellum_width_measurement_is_about_0.1221_times_the_geometric_mean_of_pronotum_length,_pronotum_width,_elytra_length,_elytrum_width;
+{ 7 male,_eye_height_in_relation_to_head_width eye_height_measurement_is_about_0.4518_times_head_width eye_height_measurement_is_about_0.61_times_head_width;
+{ 8 male,_elytra_length_in_relation_to_the_geometric_mean_of_pronotum_length,_pronotum_width,_elytra_length,_elytrum_width elytra_length_measurement_is_about_1.856_times_the_geometric_mean_of_pronotum_length,_pronotum_width,_elytra_length,_elytrum_width elytra_length_measurement_is_about_2.218_times_the_geometric_mean_of_pronotum_length,_pronotum_width,_elytra_length,_elytrum_width;
+{ 9 male,_prosternum_length_in_relation_to_the_geometric_mean_of_pronotum_length,pronotum_width prosternum_length_measurement_is_about_0.2916_times_the_geometric_mean_of_pronotum_length,pronotum_width prosternum_length_measurement_is_about_0.5487_times_the_geometric_mean_of_pronotum_length,pronotum_width;
+{ 10 male,_coxae_width_in_relation_to_the_geometric_mean_of_pronotum_length,pronotum_width coxae_width_measurement_is_about_0.1864_times_the_geometric_mean_of_pronotum_length,pronotum_width coxae_width_measurement_is_about_0.2962_times_the_geometric_mean_of_pronotum_length,pronotum_width;
+;
+
+
+ccode  + 0.10;
+
+
+;

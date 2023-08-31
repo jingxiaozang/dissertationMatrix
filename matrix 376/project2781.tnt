@@ -1,0 +1,278 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 09.33.01'
+202 58
+
+&[num]
+Borealosuchus_sternbergii               000000000?110010?1001000000101000001?00???0???011010000000?00010000000100000??00020?000000013100010001000001?0?000001110100010100000111100?000100?000000100101000000?1?0010011000000001001100000011000000?
+Boverisuchus_vorax                      ????0?0???01001001?01?00000111??0100?10???1???1110?000?????0??1000001???0?????21010?0000?00030001100?000000??0?000000100100010100000111110???01000010000100101000???01??110011000000201100100000??1000?00?
+Leidyosuchus_canadensis                 ????0?0???????1????010000011?1??10?0?11??11???0110?00000?0?01?110000011101????00010?000000003000010000010001000100001110100010100010111100?010100100100010010100000001?0010011001000101001100000?010000001
+Diplocynodon_ratelii                    ??????0??????000???010?00?1111001400?10??21???01001101?????0111000001??101????00120?00001012300001000101000??0?000000111100010100010111100??10100100000010110100000001?10100110010001011001000000110000001
+Diplocynodon_hantoniensis               100???1?1?01000010001000011111??1400?101?21???011011010????011100000112101????00120?0?001?11300?0100?1010001?0?00000010110001010?010111100?110100?001010101101000??0?1??010011?010001011001?000001100?00?1
+Diplocynodon_darwini                    100001001?010000?00010000?1111??1400?101121???011010010??0?01?10000011110100??00020?0000101030000100?0??000??0?0000001111?001010?01?111100?110100?011010101101000???????0100110010001011001?000?011?0??0?1
+Diplocynodon_deponiae                   100?0?0???????0????01?0???1?????14?0?10??21????1?01??0?????01?10??0??1?10?????001???000??010300001?0????000?????0?0001?11000?010?01?111100?110100?0??011?0?101?00????????1???1??100010???0???00??????????1
+Diplocynodon_remensis                   ????0100?????????0001000001111??1400?10??21???01001000?????01020?00011?001????00020?000000?1300000000[10]01000????00000011?11?0?010000?111100?110?000001010100101000??0?10?01000000100010?100?00000?110?0000?
+Stangerochampsa_mccabei                 ????110???010010?0001000001111001000?01??11???111000100????0111110000?110?????00110?0003111020000100?001000????000000011110010121011111100?110200?0?1100102101000??1?1??010011001000101100100000?1100?0001
+Albertochampsa_langstoni                ??????????????????????????????????????????????????????????????????????????????001?0?0?0??110200001?0??01?00????00??00011110010?2?01?111100???0?0??0?110010210100????????010011001?0000?????????????????00?
+Brachychampsa_montana                   101011001?1100???0001??000111100?000?103111???11100101?????01110?00001110100??00110?0003111010000100?0010001?0?010000011110010121011111100?110200?01110010110103000101?00100110010001011001000000110010001
+Brachychampsa_sealeyi                   ?????????????????????????????????????10???1???11100??0???????11??00001?1?1????001?0?000311101000010???010?????????00?????????0?210?1101?00???????????100???????3?????????????1??10??10??????????????????01
+Alligator_sinensis                      101011101?110010100010110111110011000112111110110000120?001011200000111101??11001000010010102000010000010001100100000011110020110111111110011020010112001021010200011110010011001000101100100000?110000001
+Alligator_mississippiensis              101011001?010010000010110111110011000112101100110001120100101120001011110100110010000100101020000100000100011100000000111100201101111111100110200101121010210102000111100100110010001011001000000110000001
+Alligator_mefferdi                      ???????????????????????????1?????????11???????110000120100001120001011110100??00100?0100101020000100?0?10001?1?0000000?1110020111111111110?110200?011210102101020??1???00100110010001011001?00000110000001
+Alligator_thompsoni                     ???????????????????01????????1?????0?1????????110000?2?????011200010011101????00100?0100?0102000010??0010001?1?000000????1??2??1?111111110?1?0200101?21010210102?001?11?01001100100010???01?000?????00000?
+Alligator_olseni                        ??????0?1?????10???01?10011111???100?11???????11010010?????011200000011101????00100?01001010200??100???1000??0?0?0001011111020111111111110?110200?011200102101020??????00100?1?0100010?100100000011?000001
+Alligator_mcgrewi                       100010001?010010?00010000111?1101??0?11???1???11110010?100?011100000111101????00000?0100101020000100?0010001?001000000111100201111111111000110200?011200102101020?01???001001100100010110010?000011000000?
+Alligator_prenasalis                    10001?0?1?????10?0?01000011111??1000?112111???11110010?????01110000011110100??00000?0100101020000100?0010001100100000011110020111111111100?110200?011200102101000001?1?001001100100010110010000?01?0000001
+Ceratosuchus_burdoshi                   ???????????????????????????????????0?1????????11110??0?????01?10??00?1??01????00010?0?02101020000100???1000??0????00???01?????1??0??111100????????0????010?111???????????10??100100010???010?00??????100?1
+Allognathosuchus_polyodon               ??????????????????????????????????????????????11110010?????01?11??00?1?1?1????00010?000?1010200001?0?????00??0?00?00?0?11100??1??11?111100????????0??20010?101???????????1???1??1???10?????0?0???????10??1
+Allognathosuchus_wartheni               ????1?0????????????0?0000?1111??1000?11???1???11110010?100?01111000001?101????00010?000010102000010000010001?0?000000?0111001?11111111110??110200?0112001021010000?1?1?0010011001?0010???????0????????0??1
+Navajosuchus_mooki                      ??????0?1??????0???0?00???1111??1??0?111111???11110010?????01?11??00??110?????00010?00021010200001???0?1000??0???00?00?11100?0111011111100???020??0112?0102101000????1??010??1001000101100?000000?1001000?
+Wannaganosuchus_brachymanus             ????1?0???1?00?0???010000?1111001000?11???1???111100?0?????0??100?00?1??0?????00110?00001?10200??100???1000??0?100000???1??0??11111?111100????????0?12001??101000????????10011?01000101100100000??1?010001
+Procaimanoidea_kayi                     ????110?1??????0???010?00?1111??10?0?112121?????010?1??100?01?11000001110?????10?????0???010?00001???0?1000??0?00000000111001011?1111111000??0200?011200102101020???????01001100100010?1???00?00011?0?0?0?
+Procaimanoidea_utahensis                ??????????????????????????????????????????????110100?00??01011110??0011101????10110?0100?01020?00100??01000????0000000?111001011111?111100?1?0200?01120010?101000???????01001100100010???000000??11?000001
+Arambourgia_gaudryi                     ??????????????????????????????????????????????11110??0?????01?100?0??1?10?????0001??000??010200001?0?0?10001000?0000????11001?10111?111100?1102?010?12?0?0210100?????????00011?010001011??00??00?11000000?
+Necrosuchus_ionensis                    ??????0????????????0???01?111???1300?11???1???11000??2????????1???0?????0?????00????????????????????????????????????????????????????????????????????????????????0??????????0????1?0?1??????????0???00?0??1
+Tsoabichi_greenriverensis               ???????????????????01????????????????10??20???1100???2????????1??????11???01??00010?10????10??0001????????0????????????????????0001?1111?0?1?0????0??211???101?3????????????????100??0????10?00???????0001
+Purussaurus_mirandai                    ????????????????????1?11001?????11?0?1????????1100?0?2??1?11?1201100?11?01????0?112?00021?1000011100???1000????00000001111?1?110210?111110?11020010112000??10104??????????0011?2?00?10??00100000??100?1001
+Purussaurus_brasiliensis                ??????????????????????????????????????????????11001??2?????111???????110??????00112?00021110000111?0???1000????0?00000111?????10210?111110?11????101?2101??101?4?????????1?0?1??100010110010?000??10001001
+Purussaurus_neivensis                   101?100?1?000010?0??1????011???????0?11???1???1100??1?1010?111201100011001????00110?0000201000001110?0010001?0?000000011110111102101111110?110201?0112001?210104000101??010??102100010?100100000?010001001
+Mourasuchus_atopus                      10??100?1?00?010?00?1?10?011????1300?11???1???1142?112?????01110?100011000????00120?1000011060001100?0010011???00000001111011?10210?111112?110?0010??2111??121040????1???100110?100010110210?000????0?1001
+Mourasuchus_amazonensis                 ????????????????????????????????????????????????4???????????????????????????????120?10???1???0?01???0?????1????????????????????221??111?12?1102?0?0??2111??1?1?4?????????????1???????0???210?00????????00?
+Mourasuchus_arendsi                     ???????????????1?00??110011?????01????????????11?2???2????????????????1?0???????12??1?0?01??60?01?00????0?1?????0000????????1?1?21????1?12?1????1??????????1?104??????????????0??????0???210?00????????001
+Mourasuchus_nativus                     ??????????????????????????????????????????????11?2?112?????01110?10?011000????????0??????1??6?????????????0??0?1?0??00111?01??1?2???????1??1102?0100?21111212104?00101000?00?1001???1011?210?00???????1001
+Eocaiman_cavernensis                    ??????????????????????????????????????????????1?100??2?????01?1???????????????00????0??????0?????1?????100???0?1??0000???????0??????1?11?0?????0?????????????1?4??????????0??1?2?????0???0?00????????00?00
+Caiman_yacare                           101111001?100010000010101111110011000111221110110011121010111010110201100101110011000000201120000100000100011001000000111101111120111111100110201101120111210104000101100100110210001011001000000110000001
+Caiman_crocodilus                       101111001?100010000010101111110011000111221110110011121010111010110201100101110011000000201120000100000100011001000000111101111110111111100110201101120111210104000101100100110210001011001000000110000001
+Caiman_latirostris                      101110001?10001000001010?111110011000111221210110011121010111?10110201100???110011000000201020010100000100011001000000111101111110111111100110201101121111210104000101100100110210001011001000000110000001
+La_venta_Caiman                         ??????????????????????????????????????????????????????????????????????????????00110?0000101020010100?001000????10000001111111111?0????1??0?????0????????????????????????????????100010??00?00???????????0?
+Melanosuchus_fisheri                    ??????0????????0?????????????????????????????????01????????1?11011????10?1????001?0?00002?1020010110???1000??0?1?0????11????1?112???111110????????0????11??1010?????????010??1?2?000101?001???0????????00?
+Melanosuchus_niger                      101111001?1?00100000101011111100110001112212101100111210101111101102011001??110011000000201020010110000100011001000000111101111110111111100110201101121111210104000101100100110210001011001000000110000001
+Paleosuchus_trigonatus                  100111111?010010100010001111112113000111321120110011222111111110110201100101111011000010101020000100000100011000100011111101111000111111101110201101121?1?210103000101100100110210001011001000000110000001
+Paleosuchus_palpebrosus                 100111111?010010101010001111112113000111321120110011222111?11110110201100?01111011000010101020000100000100011000100011111101111000111111101110201101121?1?21010300010110010011021000101100100000?110000001
+Caiman_brevirostris                     ??????????????????????????????????????????????1110???2?????1??1???0201????????00110?000??1102001010???????????????0000????0????110????1110????????01?2011??101??????????0??????210??10???0?0?00????00?0001
+Centenariosuchus_gilmorei               ????????????????????????????????????????????????????????????????????????????????1?0??0002??02??0??0????????????0????????????????????????1????????1???2?1?1?????3???????????????2???????100??0000???0??000?
+Globidentosuchus_brachyrostris          ???????????????????01?????????????????????????11101????1???0?1201102111?11????0012??000??01?20000???1?10?0??????0???0?11?????1?1??1?1100??????0?0??2011??101?3?????????1???1?????0???0?1?0?00000???0?2000?
+Crocodylus_affinis                      001001001?10001000011100001111001100?10???1???111011010100000110000000201100??00110?0000100110000100?010000??0?000100110100000100000111100?0?010??0012001001010001??0???11000100000030?1001000000?100??00?
+Asiatosuchus_germanicus                 001?0?0?1?001010?0101?000?1111??1??0??????1???11101000?????00110000??0101?00??00010?0000?0001000010???10000??0?00010???010000010000?111100???0100?001110100101000???????1100?100000030?10010?00?001????001
+Gnatusuchus_pebasensis                  ??????????????????????????????????????????????2020?12000?01111101000011001????02110?01001010000001???0010?0????1?????11?1001101?1?1???1100???0?0?1?0120111?10104?????1??0100110210001011001000000110040101
+Kuttanacaiman_iquitosensis              ??????????????????????????????????????????????1110111200?0101110?102011001????10110?00001010200001?0?001000????1000010111101?1102001??1100???020?10?121111210104?????1??0100?1021000101100100000011002000?
+Caiman_wannlangstoni                    ??????????????????????????????????????????????11101112?????1??10??????????????00010?00???0102001010??0?10001?0?1?0???011111??11120??111110?110?0110112011??10104?????1??010??1021000101100100000??1002000?
+Protocaiman_peligrensis                 ???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????10????02?0101100111210110?????1???????1??10001?00??0??00???????????
+Eocaiman_palaeocenicus                  ??????????????????????????????????????????????11120??2?????0??10?????11??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????1???????0
+Eocaiman_itaboraiensis                  ??????????????????????????????????????????????1?1????2???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????0
+TxVP_45911-1                            ??????????????????????????????????????????????????????????????????????????????00?????????0?000?001?0??0101?????10011101?1101??120??011110????020010??200102101?0?????1??0100110210001??1001?0000??110??00?
+Bottosaurus_harlani                     ??????????????10???01?00001??1??1300?11???1???11001?01?????11110??00011001????100?0?0?00???????????1?0??0??????0?0???1??1?0?????0???1?0110???0?00?01?211?0?101?2?????????1????????0010???????00??????10???
+
+;
+
+
+cnames
+{ 0 Ventral_tubercle_of_proatlas_more_than_one_half_(0)_or_no_more_than_one_half_(1)_the_width_of_the_dorsal_crest State_0 State_1;
+{ 1 Fused_proatlas_boomerang-shaped_(0),_strap-shaped_(1),_or_massive_and_block-shaped_(2)_[Brochu,_1999,_character_2] State_0 State_1 State_2;
+{ 2 Proatlas_with_prominent_anterior_process_(0)_or_lacks_anterior_process_(1)_[Brochu,_1999,_character_10] State_0 State_1;
+{ 3 'Proatlas has tall dorsal keel (0) or lacks tall dorsal keel; dorsal side smooth (1) [Brochu, 1999, character 17]' State_0 State_1;
+{ 4 'Atlas intercentrum wedge-shaped in lateral view, with insignificant parapophyseal processes (0), or plate-shaped in lateral view, with prominent parapophyseal processes at maturity (1) [Brochu, 1999, character 5; modified from Clark, 1994, character 89]' State_0 State_1;
+{ 5 Dorsal_margin_of_atlantal_rib_generally_smooth_with_modest_dorsal_process_(0)_or_with_prominent_process_(1)_[Brochu,_1999,_character_14] State_0 State_1;
+{ 6 Atlantal_ribs_without_(0)_or_with_(1)_very_thin_medial_laminae_at_anterior_end_[Brochu,_1999,_character_16] State_0 State_1;
+{ 7 Atlantal_ribs_lack_(0)_or_possess_(1)_large_articular_facets_at_anterior_ends_for_each_other_[Brochu,_1999,_character_15] State_0 State_1;
+{ 8 Axial_rib_tuberculum_wide,_with_broad_dorsal_tip_(0)_or_narrow,_with_acute_dorsal_tip_(1)_[Brochu,_1999,_character_20] State_0 State_1;
+{ 9 Axial_rib_tuberculum_contacts_diapophysis_late_23]_in_ontogeny,_if_at_all_(0)_or_early_in_ontogeny_(1)_[Brochu,_1999,_character_21];
+{ 10 Anterior_half_of_axis_neural_spine_orientated_horizontally_(0)_or_slopes_anteriorly_(1)_[Brochu,_1999,_character_11] State_0 State_1;
+{ 11 Axis_neural_spine_crested_(0)_or_not_crested_(1)_[Brochu,_1999,_character_12] State_0 State_1;
+{ 12 Posterior_half_of_axis_neural_spine_wide_(0)_or_narrow_(1)_[Brochu,_1999,_character_3] State_0 State_1;
+{ 13 'Axis neural arch lacks (0) or possesses (1) a lateral process (diapophysis) [Brochu, 1999, character 4; adapted from Norell 1989, character 7]' State_0 State_1;
+{ 14 Axial_hypapophysis_located_toward_the_centre_of_centrum_(0)_or_toward_the_anterior_end_of_centrum_(1)_[Brochu,_1999,_character_6] State_0 State_1;
+{ 15 'Axial hypapophysis without (0) or with (1) deep fork [Brochu, 1999, character 19; character states reversed from original]' State_0 State_1;
+{ 16 Hypapophyseal_keels_present_on_11th_vertebra_behind_atlas_(0),_12th_vertebra_behind_atlas_(1),_or_tenth_vertebra_behind_atlas_(2)_[Brochu,_1999,_character_7] State_0 State_1 State_2;
+{ 17 'Third cervical vertebra (first postaxial) with prominent hypapophysis (0) or lacks prominent hypapophysis (1) [Brochu, 1999, character 8; adapted from Norell, 1989, character 12; Norell & Clark, 1990, character 11; Clark, 1994, character 91]' State_0 State_1;
+{ 18 Neural_spine_on_third_cervical_long,_dorsal_tip_at_least_half_the_length_of_the_centrum_without_the_cotyle_(0)_or_short,_dorsal_tip_acute_and_less_than_half_the_length_of_the_centrum_without_the_cotyle_(1)_[Brochu,_1999,_character_9] State_0 State_1;
+{ 19 Cervical_and_anterior_dorsal_centra_lack_(0)_or_bear_(1)_deep_pits_on_the_ventral_surface_of_the_centrum State_0 State_1;
+{ 20 'Presacral centra amphicoelous (0) or procoelous (1) [Brochu, 1999, character 18; adapted from several previous analyses, e.g. Benton & Clark, 1988; Norell & Clark, 1990, characters 8 and 10; Clark, 1994, characters 92 and 93]' State_1;
+{ 21 Anterior_sacral_rib_capitulum_projects_far_anteriorly_of_tuberculum_and_is_broadly_visible_in_dorsal_view_(0),_or_anterior_margins_of_tuberculum_and_capitulum_nearly_in_same_plane,_and_capitulum_largely_obscured_dorsally_(1)_[Brochu,_1999,_character_13] State_0 State_1;
+{ 22 'Scapular blade flares dorsally at maturity (0) or sides of scapular blade subparallel; minimal dorsal flare at maturity (1) [Brochu, 1999, character 22; adapted from Benton & Clark, 1988]' State_0 State_1;
+{ 23 Deltoid_crest_of_scapula_very_thin_at_maturity,_with_sharp_margin_(0)_or_very_wide_at_maturity,_with_broad_margin_(1)_[Brochu,_1999,_character_23] State_0 State_1;
+{ 24 Scapulocoracoid_synchondrosis_closes_very_late_in_ontogeny_(0)_or_relatively_early_in_ontogeny_(1)_[Brochu,_1999,_character_24] State_0 State_1;
+{ 25 Scapulocoracoid_facet_anterior_to_glenoid_fossa_uniformly_narrow_(0)_or_broad_immediately_anterior_to_glenoid_fossa,_and_tapering_anteriorly_(1)_[Brochu,_1999,_character_25] State_0 State_1;
+{ 26 Proximal_edge_of_deltopectoral_crest_emerges_smoothly_from_proximal_end_of_humerus_and_is_not_obviously_concave_(0)_or_emerges_abruptly_from_proximal_end_of_humerus_and_is_obviously_concave_(1)_[Brochu,_1999,_character_26] State_0 State_1;
+{ 27 'M. teres major and M. dorsalis scapulae insert separately on humerus; scars can be distinguished dorsal to deltopectoral crest (0) or insert with common tendon; single insertion scar (1) [Brochu, 1999, character 29]' State_0 State_1;
+{ 28 Olecranon_process_of_ulna_narrow_and_subangular_(0)_or_wide_and_rounded_(1)_[Brochu,_1999,_character_27] State_0 State_1;
+{ 29 'Distal extremity of ulna expanded transversely with respect to long axis of bone; maximum width equivalent to that of proximal extremity (0) or proximal extremity considerably wider than distal extremity (1) [ Salisbury etal., (2006), character 173]' State_1;
+{ 30 Interclavicle_flat_along_length,_without_dorsoventral_flexure_(0)_or_with_moderate_dorsoven-_tral_flexure_(1)_or_with_severe_dorsoventral_flexure_(2)_[Brochu,_1999,_character_30] State_0 State_1 State_2;
+{ 31 Anterior_end_of_interclavicle_flat_(0)_or_rod-like_(1)_[Brochu,_1999,_character_31] State_0 State_1;
+{ 32 'Iliac anterior process prominent (0) or virtually absent (1) [Brochu, 1999, character 34; adapted from Benton & Clark, 1988; Clark, 1994, character 84; although transformation here is different]' State_0 State_1;
+{ 33 'Dorsal margin of iliac blade rounded with smooth border (0) or rounded, with modest dorsal indentation (1) or rounded, with strong dorsal indentation (wasp-waisted; 2) or narrow, with dorsal indentation (3) or rounded with smooth border; posterior tip of blade very deep (4) [Brochu, 1999, character 28]' State_0 State_1 State_2 State_3 State_4;
+{ 34 Supraacetabular_crest_narrow_(0)_or_broad_(1)_[Brochu,_1999,_character_32] State_0 State_1;
+{ 35 Limb_bones_relatively_robust,_and_hindlimb_much_longer_than_forelimb_at_maturity_(0)_or_limb_bones_very_long_and_slender_(1)_[Brochu,_1999,_character_33] State_0 State_1;
+{ 36 M._caudofemoralis_with_single_head_(0)_or_with_double_head_(1)_[Brochu,_1999,_character_160] State_0;
+{ 37 'Dorsal osteoderms not keeled (0) or keeled (1) [Brochu, 1999, character 35; adapted from Bus- calioni, Sanz & Casanovas, 1992, character 22]' State_0 State_1;
+{ 38 'Dorsal midline osteoderms rectangular (0) or nearly square (1) [Brochu, 1999, character 36; adapted from Norell & Clark, 1990, character 16; Clark, 1994, character 95]' State_0 State_1;
+{ 39 'Four (0), six (1), eight (2), or ten (3) contiguous dorsal osteoderms per row at maturity [Brochu, 1999, character 37; adapted from Norell & Clark, 1990, character 12; Clark, 1994, character 97]' State_0 State_1 State_2 State_3;
+{ 40 'Nuchal shield grades continuously into dorsal shield (0) or differentiated from dorsal shield; four nuchal osteoderms (1) or differentiated from dorsal shield; six nuchal osteoderms with four central and two lateral (2) or differentiated from dorsal shield; eight nuchal osteoderms in two parallel rows (3) [Brochu, 1999, character 38]' State_0 State_1 State_2 State_3;
+{ 41 'Ventral armour absent (0) or single ventral osteoderms (1) or paired ventral ossifications that suture together (2) [Brochu, 1999, character 39; adapted from Buscalioni et al., 1992, character 21]' State_0 State_1 State_2;
+{ 42 'Anterior margin of dorsal midline osteoderms with anterior process (0) or smooth, without process (1) [Brochu, 1999, character 40; adapted from Norell & Clark, 1990, character 13; Clark, 1994, character 96]' State_0 State_1;
+{ 43 'Ventral scales have (0) or lack (1) follicle gland pores [Brochu, 1999, character 155; Poe, 1997]' State_0 State_1 State_2;
+{ 44 'Ventral collar scales not enlarged relative to other ventral scales (0) or in a single enlarged row (1) or in two parallel enlarged rows (2) [Brochu, 1999, character 156; Poe, 1997]' State_0 State_1 State_2;
+{ 45 'Median pelvic keel scales form two parallel rows along most of tail length (0) or form single row along tail (1) or merge with lateral keel scales (2) [Brochu, 1999, character 157; Poe, 1997]' State_0 State_1;
+{ 46 Alveoli_for_dentary_teeth_3_and_4_nearly_same_size_and_confluent_(0)_or_fourth_alveolus_larger_than_third,_and_alveoli_are_separated_(1)_[Brochu,_1999,_character_52] State_0 State_1 State_2;
+{ 47 Anterior_dentary_teeth_strongly_procumbent_(0)_or_project_anterodorsally_(1)_[Brochu,_1999,_character_53] State_0 State_1;
+{ 48 Dentary_symphysis_extends_to_fourth_or_fifth_alveolus_(0)_or_sixth_to_eighth_alveolus_(1)_or_behind_eighth_alveolus_(2)_[Brochu,_2004a,_166] State_0 State_1 State_2 State_3 State_4;
+{ 49 Dentary_gently_curved_(0),_deeply_curved_(1),_or_linear_(2)_between_fourth_and_tenth_alveoli_[Brochu,_1999,_character_68] State_0 State_1 State_2;
+{ 50 Largest_dentary_alveolus_immediately_caudal_to_fourth_is_13_or_14_(0),_11_or_12_(1),_no_differentiation_(2),_behind_14_(3),_10_(4)._[Brochu,_2004a,_character_167]_Modified_in_Salas-Gismondi_et_al._2015 State_0 State_1 State_2 State_3 State_4;
+{ 51 'Splenial with anterior perforation for mandibular ramus of cranial nerve V (0) or lacks anterior perforation for mandibular ramus of cranial nerve V (1) [Brochu, 1999, character 41; adapted in part from Norell, 1988, character 15 and 1989, character 8]' State_0 State_1;
+{ 52 'Mandibular ramus of cranial nerve V exits splenial anteriorly only (0) or splenial has singular perforation for mandibular ramus of cranial nerve V posteriorly (1) or splenial has double perforation for mandibular ramus of cranial nerve V posteriorly (2) [Brochu, 1999, character 42; adapted in part from Norell, 1988, character 15 and 1989, character 8]' State_0 State_1 State_2;
+{ 53 'Splenial participates in mandibular symph; splenial symph adjacent to no more than 5 dentary alveoli (0) or splenial excluded from mandibular symph; anterior tip of splenial passes ventral to Meckelian groove (1) or splenial excluded from mandibular symph; anterior tip of splenial passes dorsal to Meckelian groove (2) or deep splenial symphy- sis, longer than five dentary alveoli; splenial forms wide V within symphysis (3) or deep splenial symphysis, longer than five dentary' State_0 State_1 State_2 State_3 State_4;
+{ 54 'Coronoid bounds posterior half of foramen intermandibularis medius (0) or completely surrounds foramen intermandibularis medius at maturity (1) or obliterates foramen intermandibularis medius at maturity (2) [Brochu, 1999, character 46; adapted from Norell, 1988, character 12]' State_0 State_1 State_2;
+{ 55 Superior_edge_of_coronoid_slopes_strongly_anteriorly_(0)_or_almost_horizontal_(1)_[Brochu,_1999,_character_54] State_0 State_1;
+{ 56 Inferior_process_of_coronoid_laps_strongly_over_inner_surface_of_Meckelian_fossa_(0)_or_remains_largely_on_medial_surface_of_mandible_(1)_[Brochu,_1999,_character_55] State_0 State_1;
+{ 57 Coronoid_imperforate_(0)_or_with_perforation_posterior_to_foramen_intermandibularis_medius_(1)_[Brochu,_1999,_character_56] State_0 State_1;
+{ 58 Process_of_splenial_separates_angular_and_coronoid_(0)_or_no_splenial_process_between_angular_and_coronoid_(1)_[Brochu,_1999,_character_59] State_0 State_1;
+{ 59 'Angular?surangular suture contacts external mandibular fenestra at posterior angle at maturity (0) or passes broadly along ventral margin of external mandibular fenestra late in ontogeny (1) [Brochu, 1999, character 47; adapted from Norell, 1988, character 40]' State_0 State_1;
+{ 60 Anterior_processes_of_surangular_unequal_(0)_or_subequal_to_equal_(1)_[Brochu,_1999,_character_48] State_0 State_1;
+{ 61 Surangular_with_spur_bordering_the_dentary_tooth_row_lingually_for_at_least_one_alveolus_length_(0)_or_lacking_such_spur_(1)_[Brochu,_1999,_character_61] State_0 State_1;
+{ 62 'External mandibular fenestra absent (0) or present (1) or present and very large; most of foramen intermandibularis caudalis visible in lateral view (2) [Brochu, 1999, character 62; Clark, 1994, character 75; incorporates character 64 from earlier matrix, adapted from Norell, 1988, character 14]' State_0 State_1 State_2;
+{ 63 Surangular?dentary_suture_intersects_external_mandibular_fenestra_anterior_to_posterodorsal_corner_(0)_or_at_posterodorsal_corner_(1)_[Brochu,_1999,_character_65] State_0 State_1;
+{ 64 'Angular extends dorsally toward or beyond anterior end of foramen intermandibularis caudalis; anterior tip acute (0) or does not extend dorsally beyond anterior end of foramen intermandibularis caudalis; anterior tip very blunt (1) [Brochu, 1999, character 66]' State_0 State_1;
+{ 65 Surangular?angular_suture_lingually_meets_articular_at_ventral_tip_(0)_or_dorsal_to_tip_(1)_[Brochu,_1999,_character_67] State_0 State_1;
+{ 66 Surangular_continues_to_dorsal_tip_of_lateral_wall_of_glenoid_fossa_(0)_or_truncated_and_not_continuing_dorsally_(1)_[Brochu,_1999,_character_106] State_0 State_1;
+{ 67 Articular?surangular_suture_simple_(0)_or_articular_bears_anterior_lamina_dorsal_to_lingual_foramen_(1)_or_articular_bears_anterior_lamina_ventral_to_lingual_foramen_(2)_or_bears_laminae_above_and_below_foramen_(3)_[modified_from_Brochu,_1999,_character_44] State_0 State_1 State_2 State_3;
+{ 68 'Lingual foramen for articular artery and alveolar nerve perforates surangular entirely (0) or perforates surangular/angular suture (1) [Brochu, 1999, character 45; state 2 deleted 2007]' State_0 State_1;
+{ 69 'Foramen aereum at extreme lingual margin of retroarticular process (0) or set in from margin of retroarticular process (1) [Brochu, 1999, character 49; adapted from Norell, 1988, character 16]' State_0 State_1;
+{ 70 'Retroarticular process projects posteriorly (0) or projects posterodorsally (1) [Brochu, 1999, character 50; adapted from Benton & Clark, 1988; Clark, 1994, character 71; Norell & Clark, 1990, character 7]' State_0 State_1 State_2;
+{ 71 'Surangular extends to posterior end of retroarticular process (0) or pinched off anterior to tip of retroarticular process (1) [Brochu, 1999, character 51; adapted from Norell, 1988, character 42]' State_0 State_1;
+{ 72 Surangular?articular_suture_orientated_anteroposteriorly_(0)_or_bowed_strongly_laterally_(1)_within_glenoid_fossa_[Brochu,_1999,_character_162] State_0 State_1;
+{ 73 Sulcus_between_articular_and_surangular_(0)_or_articular_flush_against_surangular_(1)_[Brochu,_1999,_character_60] State_0 State_1;
+{ 74 Dorsal_projection_of_hyoid_cornu_flat_(0)_or_rod-like_(1)_[Brochu,_1999,_character_57] State_0 State_1;
+{ 75 Dorsal_projection_of_hyoid_cornu_narrow,_with_parallel_sides_(0)_or_flared_(1)_[Brochu,_1999,_character_58] State_0 State_1;
+{ 76 Lingual_osmoregulatory_pores_small_(0)_or_large_(1)_[Brochu,_1999,_character_158] State_0 State_1;
+{ 77 Tongue_with_(0)_or_without_(1)_keratinized_surface_[Brochu,_1999,_character_159] State_0 State_1;
+{ 78 Teeth_and_alveoli_of_maxilla_and/or_dentary_circular_in_cross-section_(0),_or_posterior_teeth_laterally_compressed_(1),_or_all_teeth_compressed_(2)_[Brochu,_2004a,_165] State_0 State_1 State_2;
+{ 79 Maxillary_and_dentary_teeth_with_smooth_carinae_(0)_or_serrated_(1) State_0 State_1 State_2;
+{ 80 Naris_projects_anterodorsally_(0)_or_dorsally_(1)_[Brochu,_1999,_character_79] State_0 State_1;
+{ 81 'External naris bisected by nasals (0) or nasals contact external naris, but do not bisect it (1) or nasals excluded, at least externally, from naris; nasals and premaxillae still in contact (2) or nasals and premaxillae not in contact (3) [Brochu, 1999, character 95; adapted from Norell, 1988, character 3; Clark, 1994, charac- ters 13 and 14]' State_0 State_1 State_2 State_3 State_4;
+{ 82 'Naris circular or keyhole-shaped (0) or wider than long (1) or anteroposteriorly long and prominently teardrop-shaped (2) [Brochu, 1999, character 161; modified]' State_0 State_1 State_2;
+{ 83 External_naris_of_reproductively_mature_males_(0)_remains_similar_to_that_of_females_or_(1)_develops_bony_excrescence_(ghara) State_0 State_1;
+{ 84 External_naris_(0)_opens_flush_with_dorsal_surface_of_premaxillae_or_(1)_circumscribed_by_thin_crest State_0 State_1;
+{ 85 Premaxillary_surface_lateral_to_naris_smooth_(0)_or_with_deep_notch_lateral_to_naris_(1)_[Brochu,_1999,_character_142] State_0 State_1;
+{ 86 'Premaxilla has five teeth (0) or four teeth (1) early in posthatching ontogeny [Brochu, 1999, character 97; Norell, 1988, character 17]' State_0 State_1;
+{ 87 Incisive_foramen_small,_less_than_half_the_greatest_width_of_premaxillae_(0)_or_large,_more_than_half_the_greatest_width_of_premaxillae_(1)_or_large,_and_intersects_premaxillary?maxillary_suture_(2)_[Brochu,_1999,_character_124] State_0 State_1 State_2 State_3;
+{ 88 Incisive_foramen_completely_situated_far_from_premaxillary_tooth_row,_at_the_level_of_the_second_or_third_alveolus_(0)_or_abuts_premaxillary_tooth_row_(1)_or_projects_between_first_premaxillary_teeth_(2)_[Brochu,_1999,_character_153] State_0 State_1 State_2;
+{ 89 Dorsal_premaxillary_processes_short,_not_extending_beyond_third_maxillary_alveolus_(0)_or_long,_extending_beyond_third_maxillary_alveolus_(1)_[Brochu,_1999,_character_145] State_0 State_1;
+{ 90 'Dentary tooth 4 occludes in notch between premaxilla and maxilla early in ontogeny (0) or occludes in a pit between premaxilla and maxilla; no notch early in ontogeny (1) (Norell, 1988, character 29) [Brochu, 1999, character 77]' State_0 State_1;
+{ 91 'All dentary teeth occlude lingual to maxillary teeth (0) or occlusion pit between seventh and eighth maxillary teeth; all other dentary teeth occlude lingually (1) or dentary teeth occlude in line with maxillary tooth row (2) [modified from Brochu, 1999, character 78; Norell, 1988, character 5; Willis, 1993, character 1]' State_0 State_1 State_2;
+{ 92 'Largest maxillary alveolus is no. 3 (0), no. 5 (1), no. 4 (2), nos 4 and 5 are same size (3), no. 6 (4), or maxillary teeth homodont (5), or maxillary alveoli gradually increase in diameter posteriorly toward penultimate alveolus (6) [modified from Brochu, 1999, character 89; Norell, 1988, character 1]' State_0 State_1 State_2 State_3 State_5 State_6;
+{ 93 'Maxillary tooth row curved medially or linear (0) or curves laterally broadly (1) posterior to first six maxillary alveoli [Brochu, 1999, character 135; adapted from Clark, 1994, character 79]' State_0 State_1;
+{ 94 Dorsal_surface_of_rostrum_curves_smoothly_(0)_or_bears_medial_dorsal_boss_(1)_[Brochu,_1999,_character_101] State_0 State_1;
+{ 95 'Canthi rostralii absent or very modest (0) or very prominent (1) at maturity [Brochu, 1999, character 143; Norell, 1988, character 34]' State_0 State_1;
+{ 96 Preorbital_ridges_absent_or_very_modest_(0)_or_very_prominent_(1)_at_maturity_[Brochu,_1999,_character_144] State_0 State_1;
+{ 97 'Antorbital fenestra present (0) or absent (1) [Norell & Clark, 1990, character 2; Salisbury et al., 2006, character 176]' State_0 State_1;
+{ 98 'Vomer entirely obscured by premaxilla and maxilla (0) or exposed on palate at premaxillary?maxillary suture (1) [Brochu, 1999, character 125; adapted from Norell, 1988, character 22]' State_0 State_1;
+{ 99 Vomer_entirely_obscured_by_maxillae_and_palatines_(0)_or_exposed_on_palate_between_palatines_(1)_[Brochu,_1999,_character_126] State_0 State_1;
+{ 100 Surface_of_maxilla_within_narial_canal_imperforate_(0)_or_with_a_linear_array_of_pits_(1)_[Brochu,_1999,_character_148] State_0 State_1;
+{ 101 Medial_jugal_foramen_small_(0)_or_very_large_(1)_[Brochu,_1999,_character_120] State_0 State_1;
+{ 102 Maxillary_foramen_for_palatine_ramus_of_cranial_nerve_V_small_or_not_present_(0)_or_very_large_(1)_[Brochu,_1999,_character_111] State_0 State_1;
+{ 103 'Ectopterygoid abuts maxillary tooth row (0) or maxilla broadly separates ectopterygoid from maxillary tooth row (1) [Brochu, 1999, charac- ter 91; Norell, 1988, character 19]' State_0 State_1;
+{ 104 Maxilla_terminates_in_palatal_view_anterior_to_lower_temporal_bar_(0)_or_comprises_part_of_the_lower_temporal_bar_(1) State_0 State_1;
+{ 105 Penultimate_maxillary_alveolus_less_than_(0)_or_more_than_(1)_twice_the_diameter_of_the_last_maxillary_alveolus State_0 State_1;
+{ 106 Prefrontal_dorsal_surface_smooth_adjacent_to_orbital_rim_(0)_or_bearing_discrete_knob-like_processes_(1) State_0 State_1;
+{ 107 'Dorsal half of prefrontal pillar narrow (0) or expanded anteroposteriorly (1) [Brochu, 1999, character 137; adapted from Norell, 1988, character 41]' State_0 State_1;
+{ 108 Medial_process_of_prefrontal_pillar_expanded_dorsoventrally_(0)_or_anteroposteriorly_(1)_[Brochu,_1999,_character_136] State_0 State_1;
+{ 109 Prefrontal_pillar_solid_(0)_or_with_large_pneu-_matic_recess_(1)_[Brochu,_1999,_character_99] State_0 State_1;
+{ 110 Medial_process_of_prefrontal_pillar_wide_(0)_or_constricted_(1)_at_base_[Brochu,_1999,_character_138] State_0 State_1;
+{ 111 'Maxilla has linear medial margin adjacent to suborbital fenestra (0) or bears broad shelf extending into fenestra, making lateral margin concave (1) [Brochu, 1999, character 105; rephrased]' State_0 State_1;
+{ 112 Anterior_face_of_palatine_process_rounded_or_pointed_anteriorly_(0)_or_notched_anteriorly_(1)_[Brochu,_1999,_character_108] State_0 State_1;
+{ 113 Anterior_ectopterygoid_process_tapers_to_a_point_(0)_or_forked_(1)_[Brochu,_1999,_character_109] State_0 State_1;
+{ 114 'Palatine process extends (0) or does not extend (1) significantly beyond anterior end of subor- bital fenestra [Brochu, 1999, character 110; adapted from Willis, 1993, character 2]' State_0 State_1;
+{ 115 Palatine_process_generally_broad_anteriorly_(0)_or_in_form_of_thin_wedge_(1)_[Brochu,_1999,_character_118] State_0 State_1;
+{ 116 Lateral_edges_of_palatines_smooth_anteriorly_(0)_or_with_lateral_process_projecting_from_palatines_into_suborbital_fenestrae_(1)_[Brochu,_1999,_character_94] State_0 State_1;
+{ 117 Palatine?pterygoid_suture_nearly_at_(0)_or_far_from_(1)_posterior_angle_of_suborbital_fenestra_[Brochu,_1999,_character_85] State_0 State_1;
+{ 118 'Pterygoid ramus of ectopterygoid straight, pos- terolateral margin of suborbital fenestra linear (0) or ramus bowed, posterolateral margin of fenestra concave (1) [Brochu, 1999, character 88; rephrased]' State_0 State_1;
+{ 119 'Lateral edges of palatines parallel posteriorly (0) or flare posteriorly, producing shelf (1) [Brochu, 1999, character 90; adapted from Norell, 1988, character 2]' State_0 State_1;
+{ 120 'Anterior border of the choana is comprised of the palatines (0) or choana entirely surrounded by pterygoids (1) [Brochu, 1999, character 71; Benton & Clark, 1988; Clark, 1994, character 43; Norell & Clark, 1990, character 1]' State_0 State_1;
+{ 121 Choana_projects_posteroventrally_(0)_or_anteroventrally_(1)_at_maturity_[Brochu,_1999,_character_72] State_0 State_1;
+{ 122 Pterygoid_surface_lateral_and_anterior_to_internal_choana_flush_with_choanal_margin_(0)_or_pushed_inward_anterolateral_to_choanal_aperture_(1)_or_pushed_inward_around_choana_to_form_neck_surrounding_aperture_(2)_or_everted_from_flat_surface_to_form_neck_surrounding_aperture_(3)_[Brochu,_1999,_character_73] State_0 State_1;
+{ 123 Posterior_rim_of_internal_choana_not_deeply_notched_(0)_or_deeply_notched_(1)_[Brochu,_1999,_character_107] State_0 State_1;
+{ 124 Internal_choana_not_septate_(0)_or_with_septum_that_remains_recessed_within_choana_(1)_or_with_septum_that_projects_out_of_choana_(2)_[Brochu,_1999,_character_152] State_0 State_1 State_2;
+{ 125 Ectopterygoid?pterygoid_flexure_disappears_during_ontogeny_(0)_or_remains_throughout_ontogeny_(1)_[Brochu,_1999,_character_116] State_0 State_1;
+{ 126 'Ectopterygoid extends (0) or does not extend (1) to posterior tip of lateral pterygoid flange at maturity [Brochu, 1999, character 149; adapted from Norell, 1988, character 32]' State_0 State_1;
+{ 127 'Lacrimal makes broad contact with nasal; no posterior process of maxilla (0) or maxilla with posterior process within lacrimal (1) or maxilla with posterior process between lacrimal and prefrontal (2) [Brochu, 1999, character 93]' State_0 State_1 State_2;
+{ 128 'Prefrontals separated by frontals and nasals (0) or prefrontals meet medially (1) [Brochu, 1999, character 100; Norell, 1988, character 27]' State_0 State_1 State_2;
+{ 129 'Lacrimal longer than prefrontal (0), or prefrontal longer than lacrimal (1), or lacrimal and prefrontal both elongate and nearly the same length (2) [Brochu, 1999, character 117; modified from Norell, 1988, character 7]' State_0 State_1;
+{ 130 Anterior_tip_of_frontal_(0)_forms_simple_acute_point_or_(1)_forms_broad,_complex_sutural_contact_with_the_nasals State_0 State_1;
+{ 131 Ectopterygoid_extends_along_medial_face_of_postorbital_bar_(0)_or_stops_abruptly_ventral_to_postorbital_bar_(1)_[Brochu,_1999,_character_133] State_0 State_1;
+{ 132 'Postorbital bar massive (0) or slender (1) [Brochu, 1999, character 70; Norell, 1989, character 3]' State_0 State_1;
+{ 133 Postorbital_bar_bears_process_that_is_prominent,_dorsoventrally_broad,_and_divisible_into_two_spines_(0)_or_bears_process_that_is_short_and_generally_not_prominent_(1)_(adapted_from_Norell,_1989,_character_2)_[Brochu,_1999,_character_134] State_0 State_1;
+{ 134 'Ventral margin of postorbital bar flush with lateral jugal surface (0) or inset from lateral jugal surface (1) [Brochu, 1999, character 146; adapted from Benton & Clark, 1988; Norell & Clark, 1990, character 3]' State_0 State_1;
+{ 135 'Postorbital bar continuous with anterolateral edge of skull table (0) or inset (1) [Norell & Clark, 1990, character 3; Salisbury et al., 2006, charac- ter 175]' State_0 State_1;
+{ 136 Margin_of_orbit_flush_with_skull_surface_(0)_or_dorsal_edges_of_orbits_upturned_(1)_or_orbital_margin_telescoped_(2)_[Brochu,_1999,_character_103] State_0 State_1 State_2;
+{ 137 Ventral_margin_of_orbit_circular_(0)_or_with_prominent_notch_(1)_[Brochu,_1999,_character_139] State_0 State_1 State_2;
+{ 138 'Palpebral forms from single ossification (0) or from multiple ossifications (1) [Brochu, 1999, character 96; adapted from Norell, 1988, character 8; Clark, 1994, character 65]' State_0 State_1;
+{ 139 'Quadratojugal spine prominent at maturity (0) or greatly reduced or absent at maturity (1) [Brochu, 1999, character 69; adapted from Norell, 1989, character 1]' State_0 State_1;
+{ 140 Quadratojugal_spine_low,_near_posterior_angle_of_infratemporal_fenestra_(0)_or_high,_between_pos-_terior_and_superior_angles_of_infratemporal_fenestra_(1)_[Brochu,_1999,_character_114] State_0 State_1;
+{ 141 'Quadratojugal forms posterior angle of infratemporal fenestra (0) or jugal forms posterior angle of infratemporal fenestra (1) or quadratojugal?jugal suture lies at posterior angle of infratemporal fenestra (2) [Brochu, 1999, character 75; adapted from Norell, 1989, character 10]' State_0 State_1 State_2;
+{ 142 Postorbital_neither_contacts_quadrate_nor_quadratojugal_medially_(0)_or_contacts_quadratojugal,_but_not_quadrate,_medially_(1)_or_contacts_quadrate_and_quadratojugal_at_dorsal_angle_of_infratemporal_fenestra_(2)_or_contacts_quadratojugal_with_significant_descending_process_(3)_[Brochu,_1999,_character_76] State_0 State_1 State_2;
+{ 143 Quadratojugal_bears_long_anterior_process_along_lower_temporal_bar_(0)_or_bears_modest_process,_or_none_at_all,_along_lower_temporal_bar_(1)_[Brochu,_1999,_character_83] State_0 State_1;
+{ 144 'Quadratojugal extends to superior angle of infratemporal fenestra (0) or does not extend to superior angle of infratemporal fenestra; quad- rate participates in fenestra (1) [Brochu, 1999, character 80; adapted from Buscalioni et al., 1992, character 6]' State_0 State_1;
+{ 145 Postorbital?squamosal_suture_orientated_ventrally_(0)_or_passes_medially_(1)_ventral_to_skull_table_[Brochu,_1999,_character_163] State_0 State_1;
+{ 146 Dorsal_and_ventral_rims_of_squamosal_groove_for_external_ear_valve_musculature_parallel_(0)_or_squamosal_groove_flares_anteriorly_(1)_[Brochu,_1999,_character_84] State_0 State_1;
+{ 147 Squamosal?quadrate_suture_extends_dorsally_along_posterior_margin_of_external_auditory_meatus_(0),_or_extends_only_to_posteroventral_corner_of_external_auditory_meatus_(1),_quadrate_and_squamosal_not_in_contact_on_the_external_surface_of_the_skull,_posteriorly_to_the_external_auditory_meatus_(2)_[Brochu,_1999,_character_132]_Modified_in_Salas-Gismondi_et_al._2015 State_0 State_1 State_2;
+{ 148 Posterior_margin_of_otic_aperture_smooth_(0),_bowed_(1),_not_defined_and_gradually_merging_into_the_exoccipital_(2)._[Brochu,_1999,_character_102]_Modified_in_Salas-Gismondi_et_al._2015 State_0 State_1 State_2;
+{ 149 'Frontoparietal suture deeply within supratemporal fenestra; frontal prevents broad contact between postorbital and parietal (0) or suture makes modest entry into supratemporal fenestra at maturity; postorbital and parietal in broad contact (1) or suture on skull table entirely (2) [Brochu, 1999, character 81]' State_0 State_1 State_2 State_10;
+{ 150 Frontoparietal_suture_concavoconvex_(0)_or_linear_(1)_between_supratemporal_fenestrae_[Brochu,_1999,_character_86] State_0 State_1;
+{ 151 'Supratemporal fenestra with fossa; dermal bones of skull roof do not overhang rim at maturity (0) or dermal bones of skull roof overhang rim of supratemporal fenestra near maturity (1) or supratemporal fenestra closes during ontogeny (2) [Brochu, 1999, character 87; adapted from Norell, 1988, character 9]' State_0 State_1;
+{ 152 'Shallow fossa at anteromedial corner of supratemporal fenestra (0) or no such fossa; anteromedial corner of supratemporal fenestra smooth (1) [Brochu, 1999, character 92]' State_0 State_1;
+{ 153 'Medial parietal wall of supratemporal fenestra imperforate (0) or bearing foramina (1) [Brochu, 1999, character 104; Norell, 1988, character 51]' State_0 State_1;
+{ 154 Parietal_and_squamosal_widely_separated_by_quadrate_on_posterior_wall_of_supratemporal_fenestra_(0)_or_parietal_and_squamosal_approach_each_other_on_posterior_wall_of_supratemporal_fenestra_without_actually_making_contact_(1)_or_parietal_and_squamosal_meet_along_posterior_wall_of_supratemporal_fenestra_(2)_[Brochu,_1999,_character_131] State_0 State_1 State_2;
+{ 155 Skull_table_surface_slopes_ventrally_from_sagittal_axis_(0)_or_planar_(1)_at_maturity_[Brochu,_1999,_character_123] State_0 State_1;
+{ 156 Posterolateral_margin_of_squamosal_horizontal_or_nearly_so_(0)_or_upturned_to_form_a_discrete_horn_(1) State_0 State_1 State_2;
+{ 157 'Mature skull table with broad curvature; short posterolateral squamosal rami along paroccipital process (0) or with nearly horizontal sides; significant posterolateral squamosal rami along paroccipital process (1) [Brochu, 1999, charac- ter 140]' State_0 State_1 State_2 State_3;
+{ 158 Squamosal_does_not_extend_(0)_or_extends_(1)_ventrolaterally_to_lateral_extent_of_paraoccipital_process_[Brochu,_1999,_character_150] State_0 State_1;
+{ 159 'Supraoccipital exposure on dorsal skull table small (0), absent (1), large (2), or large such that parietal is excluded from posterior edge of table (3) [Brochu, 1999, character 82; Norell, 1988, character 11]' State_0 State_1 State_2 State_3 State_4;
+{ 160 Anterior_foramen_for_palatine_ramus_of_cranial_nerve_VII_ventrolateral_(0)_or_ventral_(1)_to_basisphenoid_rostrum_[Brochu,_1999,_character_164] State_0 State_1;
+{ 161 'Sulcus on anterior braincase wall lateral to basisphenoid rostrum (0) or braincase wall lateral to basisphenoid rostrum smooth; no sulcus (1) [Brochu, 1999, character 122]' State_0 State_1;
+{ 162 'Basisphenoid not exposed extensively (0) or exposed extensively (1) on braincase wall anterior to trigeminal foramen [Brochu, 1999, character 129; adapted from Norell, 1989, character 5]' State_0 State_1;
+{ 163 'Extensive exposure of prootic on external braincase wall (0) or prootic largely obscured by quadrate and laterosphenoid externally (1) [Brochu, 1999, character 74; adapted from Norell, 1989, character 5]' State_0 State_1;
+{ 164 Laterosphenoid_bridge_comprised_entirely_of_laterosphenoid_(0)_or_with_ascending_process_or_palatine_(1)_[Brochu,_1999,_character_115] State_0 State_1;
+{ 165 Capitate_process_of_laterosphenoid_orientated_laterally_(0)_or_anteroposteriorly_(1)_toward_midline_[Brochu,_1999,_character_130] State_0 State_1;
+{ 166 Parietal_with_recess_communicating_with_pneumatic_system_(0)_or_solid,_without_recess_(1)_[Brochu,_1999,_character_154] State_0 State_1;
+{ 167 Significant_ventral_quadrate_process_on_lateral_braincase_wall_(0)_or_quadrate?pterygoid_suture_linear_from_basisphenoid_exposure_to_trigeminal_foramen_(1)_[Brochu,_1999,_character_127] State_0 State_1;
+{ 168 Lateral_carotid_foramen_opens_lateral_(0)_or_dorsal_(1)_to_basisphenoid_at_maturity_[Brochu,_1999,_character_128] State_0 State_1;
+{ 169 External_surface_of_basioccipital_ventral_to_occipital_condyle_orientated_posteroventrally_(0)_or_posteriorly_(1)_at_maturity_[modified_from_Hua_&_Jouve,_2004,_character_167_and_Salisbury_et_al.,_2006,_character_174] State_0 State_1;
+{ 170 Posterior_pterygoid_processes_tall_and_prominent_(0)_or_small_and_project_posteroventrally_(1)_or_small_and_project_posteriorly_(2)_[Brochu,_1999,_character_98] State_0 State_1 State_2;
+{ 171 Basisphenoid_thin_(0)_or_anteroposteriorly_wide_(1)_ventral_to_basioccipital_[Brochu,_1999,_character_113] State_0 State_1;
+{ 172 'Basisphenoid not broadly exposed ventral to basioccipital at maturity; pterygoid short ventral to median eustachian opening (0) or basisphenoid exposed as broad sheet ventral to basioccipital at maturity; pterygoid tall ventral to median eustachian opening (1) [Brochu, 1999, character 119]' State_0 State_1;
+{ 173 'Exoccipital with very prominent boss on paroccipital process; process lateral to cranioquadrate opening short (0) or exoccipital with small or no boss on paroccipital process; process lateral to cranioquadrate opening long (1) [Brochu, 1999, character 141]' State_0 State_1;
+{ 174 'Lateral eustachian canals open dorsal (0) or lateral (1) to medial eustachian canal [Brochu, 1999, character 147; adapted from Norell, 1988, character 46]' State_0 State_1;
+{ 175 'Exoccipitals terminate dorsal to basioccipital tubera (0) or send robust process ventrally and participate in basioccipital tubera (1) or send slender process ventrally to basioccipital tubera (2) [Brochu, 1999, character 151; adapted from Norell, 1988, character 20; Clark, 1994, characters 57 and 60]' State_0 State_1 State_2;
+{ 176 Quadrate_foramen_aereum_on_mediodorsal_angle_(0)_or_on_dorsal_surface_(1)_of_quadrate_[Brochu,_1999,_character_121] State_0 State_1;
+{ 177 Quadrate_foramen_aereum_is_small_(0),_comparatively_large_(1),_or_absent_(2)_at_maturity_[Brochu,_2004b,_character_165] State_0 State_1 State_2;
+{ 178 Quadrate_lacks_(0)_or_bears_(1)_prominent,_mediolaterally_thin_crest_on_dorsal_surface_of_ramus State_0 State_1;
+{ 179 Attachment_scar_for_posterior_mandibular_adductor_muscle_on_ventral_surface_of_quadrate_ramus_forms_modest_crests_(0)_or_prominent_knob_(1)_[÷si_et_al.,_2007,_character_165] State_0 State_1;
+{ 180 'Quadrate with small, ventrally reflected medial hemicondyle (0) or with small medial hemicondyle; dorsal notch for foramen aereum (1) or with prominent dorsal projection between hemicondyles (2) or with expanded medial hemicondyle (3) [Brochu, 1999, character 112]' State_0 State_1 State_2 State_3;
+{ 181 Edge_of_the_maxillary_tooth_alveoli_lower_or_at_the_same_level_than_the_space_between_toothrow_(0)_or_edge_of_maxillary_tooth_alveoli_higher_than_the_space State_0 State_1;
+{ 182 Ventral_border_of_exoccipital convex_and_ventrally_projected hiding_the_posterior_opening_of_the_cranioquadrate_passage_from_the_occipital_view_(_0_) or_straight sharpen_or_smoothly_convex_and_does_not_hide_the_posterior_opening_of_the_cranioquadrate_passage_from_the_occipital_view_(_1_);
+{ 183 Occipital_surface_sloped,_visible_in_dorsal_view_(0),_or_vertical_or_not_visible_in_dorsal_view_(1)_at_maturity. State_0 State_1;
+{ 184 Ventral_premaxilla-maxilla_suture_short_and_ends_posteriorly_before_the_3rd_maxillary_alveoli_(0)_or_elongated_and_extends_or_exceeds_the_3rd_maxillary_alveoli_(1). State_0 State_1;
+{ 185 Less_than_18_teeth_(0),_18_to_22_teeth_(1),_or_more_than_22_teeth_(2)_on_maxilla. State_0 State_1 State_2;
+{ 186 187._Lateral_edge_of_the_skull_table_at_the_level_of_the_postorbital-squamosal_suture_situated_laterally_or_at_the_same_level_as_(0),_or_medially_to_(1)_the_quadrate_condyle_in_dorsal_view_at_maturity. State_0 State_1;
+{ 187 Frontal_ends_at_the_same_level_or_posterior_(0)_or_extends_well_anterior_(1)_to_the_anterior_extension_of_the_prefrontal. State_0 State_1;
+{ 188 Maxilla_posterior_process_without_tooth,_short_or_absent_(0),_or_long,_longer_to_the___distance_between_the_three_last_teeth_(1)_in_ventral_view. State_0 State_1;
+{ 189 Interorbital_bridge_narrower_to_equivalent_(0),_or_broader_(1)_than_the_width_of___the_orbit._Modified_from_Jouve_et_al._[S40],_character_181. State_0 State_1;
+{ 190 Supratemporal_fenestra_longer_than_wide_or_rounded,_posterior_bar_of_supratemporal_fenestra_thick_(0),_or_wider_than_long,_posterior_bar_of_supratemporal_fenestra_thick_(1),_or_wider_than_long,_posterior_bar_thin_(2)_at_maturity._Modified_from_Jouve_et_al._[S28],_character_199. State_0 State_1 State_2;
+{ 191 Presence_(0),_or_absence_(1)_of_a_medial_crest_on_the_basioccipital. State_0 State_1;
+{ 192 Absence_(0),_or_presence_(1)_of_a_posterior_dentary_process_between_splenial_and___angular_on_the_ventral_side. State_0 State_1;
+{ 193 Dorsal_margin_of_the_articular_on_the_retroarticular_process_largely_visible_in_lateral___view_(0),_or_slightly_or_not_visible_in_lateral_view_(1). State_0 State_1;
+{ 194 'Posterior margin of the orbit anterior to the posterior margin of the suborbital   fenestra (0), or posterior or at the same level than the posterior margin of the suborbital fenestra (1) measured at the level of the postorbital-frontal suture in the orbital margin From Jouve et al. [S28], character 186; modified from Jouve [S40], character, 195.' State_0 State_1;
+{ 195 Basioccipìtal-exoccipital_process_ventral_to_occipital_condyle_(basioccipital_plate)_with_parallel_or_ventrally_convergent_sides_(0)_or_ventrally_divergent_sides_(1)_in_posterior_view._Rephrased_from_Jouve_[S28],_character_176. State_0 State_1;
+{ 196 Absence_(0)_or_presence_(1)_of_a_smooth_medial_depression_ventral_to_the_basioccipital_and_posterior_to_the_medial_Eustachian_foramen. State_0 State_1;
+{ 197 'Dentary teeth series behind to alveoli 12-13 are pointed to slightly blunt (0); globular, different in size among them (1); globular, at least four subequal in size (2), molariform multicusped (3) or absent (4). [New]' State_0 State_1 State_2 State_3 State_4;
+{ 198 First_four_alveoli_in_the_dentary_are_the_same_size_or_smaller_than_other_dentary_alveoli_(0)_or_are_the_largest_within_the_dentary_(1)._[New] State_0 State_1;
+{ 199 Orbits_longer_than_wide_(0)_or_wider_than_long_to_rounded_(1)_late_in_ontogeny.___[New] State_0 State_1;
+{ 200 The_series_composed_by_the_last_three_premaxillary_teeth_diverge_posteriorly_to_paraxial_(0)_or_tend_to_converge_posteriorly,_straight_among_them_(1)._[New] State_0 State_1;
+{ 201 'Dentary, level of the first and fourth alveoli: lower than the level of the eleventh and twelfth alveoli [0]; equal to higher than the level of the eleventh and twelfth alveoli [1].' State_0 State_1;
+;
+
+
+ccode  - 0.201;
+
+
+;

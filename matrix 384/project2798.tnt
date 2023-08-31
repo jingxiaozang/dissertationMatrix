@@ -1,0 +1,230 @@
+nstates num 9;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 09.39.58'
+184 28
+
+&[num]
+Eutheria                    0000000?0000000000000000000000000000000000000000000?10000?00?00000000000000?00000?0?1?0000?000000000??00000001000?0000000000000?00000000000100000000000000000000000000000?00000000000000
+Abdounodus                  ????????1?????0010000000100000100111??2121200?0?01002000010011?????????????1100201?0200001?0111000011001110310111?01100000????1?????????????2??000?00???????????????????????????????????
+Anthracobunidae             000000001100000101?0011122011112011?000200212??2001??000?1001000000?01000??12212113021000112111?0310??00110202111101311?0100?0??00?00????????1??00?0??0?0000?0????0010???????1??????????
+Arctocyonidae               0000000?1???0000?00000??10000011000000?0100122?0000020000??0?0000000010100011001010?210001001?020??0??00110102000?011??00000000?000000100111?0100010000000?10000?10000?001000?100000??0?
+Cambaytherium               0000000?1?00000010?0100111011112011?002220210102001??00012?0??00000001000001220211202100?11111120310??00110?021110013???01?0?02?????0?11?1??20???0?1??00?01??0??1??0?????????0??????????
+Desmostylia                 110000001??1000010?00011220111000111001200?1??02001??100011?20010000010?00012?1?110?21001112111?0?10??1?120??21111?1311?0100?0021?10?0100?123011?0211000000001??101?00200??010???200????
+Embrithopoda                ??0?0?0110110001011001103?11111111210002100?2??202??200002012101???0110100012?010120200?11??0001000210031024201?1?013111?100000101111011021?3?1110001110000101001011?02000?1?02011112210
+Eritherium                  11010?121021210010101010220111?101110122222???01010020?????11??????0110100012?0101??20001111111200011101120420111??11111010??00???1000?00??2311000?01?1?00?1????????0???????????????????
+Hyopsodus                   000?010?102110000000011010001???0001000?100?2?00000?200001101001100011010001100101??2100010011020210??0011020?00000110000000200000?0001001020010001000?01000110010001000100001101200??01
+Hyracoidea                  ?10?0?0110?1000100100010220111020111011120?1?102001000000201?1012?001?0001212?010120200001?2001000011?0?1?0420121?01121101000001010000100202??0?000??00100?0000?110100200100102012000110
+Macroscelidea               010?0?011?1?000?011001101010000100001011?00020?1010?2?00?2???0012000?00000011110113?20?0011111120310??00121?0102100121001100002?110000000?1220?10000000010101000?00?000??0?00011??001201
+Minchenella                 ????????1???0001111001112101110201110002102100220????1???????0???????????????????????????11200120310??0000020002?001311001??????????????????????????????????????????????????????????????
+Numidotherium               11020?22?33?00001?1011103201111011200012200022?202131101020112010101111?0111210101102001113111030000??1?120420131?113211011201?11111001?011242101100121100111110111200211110100002100100
+Ocepeia                     0000001?1?3?3?0010101000100?00120110111010002?100212300002001101?110011?1??12002010?20000100001000111002000211000?013000002030110010000000?2010000100?1?01000?010?00002111000001120?1210
+Orycteropus                 ??1?1?22???121101??1??????2????????????????021012000?0002210103????12?1??2?2?????3?????0?1?????????????????????????11???310111041010001001100002000000001000100?00002000000020201000??00
+Paschatherium               ???????110000000100000000000111000000?20000121010?0030???????0??????????????110011?02110000000120210??001?0101000?00200000??????????????????????????????????????????????????????????????
+Perissodactyla              000000001?2?000101000111210?11020111101200012?020010?0000210?00000?00100000122?01131210001221?120310??00110?0?1211011110000100?1?10000010002?00100011000000000001100?1100100?010100002??
+Phenacodontidae             0000000?1121000?0000011?10000002000??10?10012?01000020000210100000?00100000112011131210001?0101203110?01110102?1100111?000002022010000000??200??0011000000000000100100000000?11012000???
+Phenacolophus               00000001100100000000????3101000211100002100122?200???100?????0??????????020?0000?????????1111?12031110020102020110003?1?01??????????????????0???????????????????????????????????????????
+Phosphatherium              11020?22?021?1001010101032?111101120?122211022?2020??000010112?????01101000121010110200111311103000111011204201?1?113?1121022021011000100?12411001001?1?000101101?1100210010000001000???
+Potamogale                  100?0101103?000010?000101000000000000000?0001000020?3000001000012000101?00011001010?100000?00011000?00?00010?0000?01100000001023110000101313?210201000??11??1?001000010??1000010111002?0
+Protungulatum               0000000?10110000000000101001000100010010?0012020000??000020020??????010?0??11000010?1100010000120110??00000102000?01100000?????????????????????????00??????????????????001000??0????????
+Ptolemaia                   ???????0103?0000001000101020000000000020000011012001?000001000001000011?00?12???01101000010011030000??0011000?000?0220?02000?0??1?000???0??1001000000???00????????0000??????????????????
+Radinskya                   ??????????????????????????????????????????????????????????????????????0000012??011102100012211120310??00110?02121101111?0000?02?20000011011?10000001?00000?000??100001100?00?01??0000???
+Sirenia                     11000101?0?1?11???110?1022011100011100120?202122021??10002012?0120001101020?0?0?00???????111120?000???0?12042?111?113111010000?1?111211?021250102100101000010100101120200?00?02?10002200
+Teilhardimys                ????????101?000010101000121011100001101100012?010000300????0?0??????????0121210?112?2100011111121310??00111?0??21001210011??????????????????????????????????????????????????????????????
+Todralestes                 ???????011110000001000100000000000000010000011000?023000000000??????????00?0???0010?1000000000000110??00000101000?00000000???????????????????????0??????????????????????????????????????
+Pahelia_mysteriosa          ?????????????00010001000201011100111001100010002021120??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+
+;
+
+
+cnames
+{ 0 Lower_incisors_development_and_shape Lower_incisors_small,_peg_like spatulate_Lower_incisors higher_or_enlarged,;
+{ 1 Lower_incisors_lower_incisors subvertical_lower_incisors enlarged_and_procumbent,;
+{ 2 I/1 I/1present I/1_absent,;
+{ 3 I/1_enlargement I/1_and_I/2_of_similar_size I/1_slightly_larger_than_I/2 I/1_very_enlarged I/1_hypsodont,;
+{ 4 I/2 I/2_present absent,;
+{ 5 I/2_enlargement I/1_and_I/2_of_similar_size I/2_larger_than_I/1,;
+{ 6 I/3 I/3_present well_developed I/3_very_small_and_labial_to_C/1 I/3_lost,;
+{ 7 Lower_canine present_and_enlarged Lower_canine_very_large,_more_than_two_times_higher_than_molars present_and_small Large,_higher_than_molars_(no_more_than_two_times) absent medium,_as_high_than_molars small,_lower_and_smaller_than_molars very_small,_smaller_and_lower_than_P/2 absent,;
+{ 8 C/1_Number_of_roots C/1_biradicular C/1_uniradicular,;
+{ 9 Lower_anterior_diastema diastema_absent_or_very_short_present diastema_well_distinct_long_(in_relation_to_loss_of_2_teeth diastema_C/1_and_P/1_or_P/1_and_P/2) very_long_(and_in_relation_to_loss_of_at_least_two_teeth),;
+{ 10 P/1_development P/1_well_developed P/1_small_but_more_or_less_premolarized P/1_small_and_simple_(basically_conical) P/1_absent,;
+{ 11 P/1:_Number_of_roots P/1_biradicular P/1_uniradicular,;
+{ 12 P/2_development P/2_well_developed P/2_small,_but_premolariform P/2_small_and_simple_(basically_conical) P/2_absent,;
+{ 13 P/2:_Number_of_roots P/2_biradicular P/2_uniradicular,;
+{ 14 P/3 biradicular_and_large uniradicular_and_smaller_crown,;
+{ 15 P/3:_Metaconid P/3:_Metaconid_absent_or_weak P/3:_Metaconid_present,;
+{ 16 P/3:_Paraconid P/3:_Paraconid_present P/3:_Paraconid_absent_or_weak,;
+{ 17 P/3:_Talonid P/3:_Talonid_reduced_and_simple_(mostly_cutting_or_piercing) P/3:_Talonid_developed_and_molariform,;
+{ 18 P/3-4:_Paraconid_location P/3-4:_Paraconid_low P/3-4:_Paraconid_high,;
+{ 19 P/4 biradicular_and_large one_root_and_smaller_crown,;
+{ 20 P/4:_Paraconid_development Paraconid_present Paraconid_absent_or_weak,;
+{ 21 P/4:_Talonid P/4:_Talonid_reduced_(small)_and_simple_(mostly_cutting) P/4:_Talonid_enlarged_and_molariform,;
+{ 22 P/4:_Metaconid P/4:_Metaconid_weak_and_distal_with_respect_to_protoconid P/4:_Metaconid_present_and_lingual,;
+{ 23 Lower_premolars_(at_least_P/4):_Labial_cingulum_(ectocingulid) Lower_premolars_(at_least_P/4):_Labial_cingulum_absent Lower_premolars_(at_least_P/4):_Labial_cingulum_present,;
+{ 24 M/1-3:_Molar_pattern M/1-3:_Molar_pattern_tribosphenic_with_high_trigonid_+_sharp_cusps M/1-3:_Bunodont_pattern_with_low_trigonid M/1-3:_Bunodont-lophodont_pattern M/1-3:_True_lophodont_pattern M/1-3:_Bunolophodont_pattern,;
+{ 25 M/1-3:_Lophs M/1-3:_No_lophs M/1-3:_Lophs_oblique M/1-3:_Lophs_transverse,;
+{ 26 M/1-3 Crown_uniformly_brachyodont unilateral_lingual_and/or_labial_hypsodonty crown_uniformly_hypsodont,;
+{ 27 M/1-3:_Labial_cusps_(protoconid-hypoconid)_vs_lingual_cusps_(metaconid-entoconid) M/1-3:_Labial_cusps_larger_than_lingual_cusps M/1-3:_Lingual_cusps_larger_than_labial_cusps_(or_cusps_subequal),;
+{ 28 M/1-3:Trigonid_elongation_and_paracristid M/1-3:_Trigonid_elongated_with_well_differentiated_paracristid M/1-3:_Trigonid_short,_with_paracristid_weakened,;
+{ 29 M/1-3:_Paraconid M/1-3:_Paraconid_present M/1-3:_Paraconid_weak_or_absent,;
+{ 30 M/1-3:_Premetacristid M/1-3:_Premetacristid_weak_or_absent M/1-3:_Premetacristid_developed,;
+{ 31 M/1-3:_Posmetacristid M/1-3:_Posmetacristid_reduced_or_absent M/1-3:_Postmetacristid_well_developed M/1-3:_Postmetacristid_more_or_less_inflated_as_a_metastylid,;
+{ 32 M/1-3:_Protocristid M/1-3:_Protocristid_depressed_by_a_deep_median_notch M/1-3:_Protocristid_lophid-like,_with_no_strong_notch,;
+{ 33 M/1-3:_Hypolophid_presence M/1-3:_Hypolophid_absent M/1-3:_Hypolophid_present,;
+{ 34 M/1-3:_Hypolophid_shape M/1-3:_Hypolophid_absent_or_incomplete M/1-3:_Hypolophid_depressed_by_a_deep_median_notch M/1-3:_Hypolophid_lophid-like,;
+{ 35 M/1-3:_Entocristid M/1-3:_Entocristid_present M/1-3:_Entocristid_reduced_to_absent,;
+{ 36 M/1-3:_Entoconulid M/1-3:_Entoconulid_absent M/1-3:_Entoconulid_present,;
+{ 37 M/1-3:_Mesoconid M/1-3:_Mesoconid_absent M/1-3:_Mesoconid_present,;
+{ 38 M/1-3:_Cristid_obliqua M/1-3:_Cristid_obliqua_strongly_oblique,_joining_the_trigonid_in_its_lingual_part M/1-3:_Cristid_obliqua_joining_the_trigonid_at_its_mid-width M/1-3:_Cristid_obliqua_joining_the_trigonid_in_its_labial_part,;
+{ 39 M/1-3_Postcristid_development_and_link_to_hypoconulid M/1-3:_Postcristid_developed,_linking_hypoconulid_to_other_cusps M/1-3:_Hypoconulid_and_entoconid_separated_by_a_narrow_notch M/1-3:_Postcristid_absent,_hypoconulid_cingular_like,;
+{ 40 M/1-2:_Hypoconulid M/1-2:_Hypoconulid_median_transversely M/1-2:_Hypoconulid_lingual M/1-2:_Hypoconulid_labial,;
+{ 41 M/1-2:_Postentoconulid M/1-2:_Postentoconulid_absent M/1-2:_Postentoconulid_present,_but_weak M/1-2:_Postentoconulid_well_developed,;
+{ 42 M/3:_Postentoconulid M/3:_Postentoconulid_absent M/3:_Postentoconulid_present,_but_weak M/3:_Postentoconulid_well_developed,;
+{ 43 M/1-3:_Ectocingulid_and/or_ectostylid M/1-3:_Ectocingulid_and/or_ectostylid_weak_or_absent M/1-3:_Ectocingulid_present,;
+{ 44 M/1:_Trigonid/talonid_relative_width M/1:Trigonid_wider_than_the_talonid M/1:_Trigonid_subequal_to_the_talonid M/1:_Trigonid_narrower_than_the_talonid,;
+{ 45 M/2:_Trigonid/talonid_relative_width M/2:_Trigonid_wider_than_the_talonid M/2:_Trigonid_subequal_to_the_talonid M/2:_Trigonid_narrower_than_the_talonid,;
+{ 46 M/3_trigonid/talonid_relative_width M/3:_Trigonid_wider_than_the_talonid M/3:_Trigonid_subequal_to_the_talonid M/3:_Trigonid_narrower_than_the_talonid,;
+{ 47 M/3_relative_size M/3_of_similar_size_to_M/2,_or_slightly_larger M/3_smaller_than_M/2 M/3_significantly_larger_than_M/2,_which_is_larger_than_M/1,;
+{ 48 M/3 two_roots two_roots,_but_roots_fused_in_higher_part one_root,;
+{ 49 Dentary:_Extension_of_mandibular_symphysis Mand_symphysis_short,_extended_to_P/2_or_more_anterior Mandibular_symphysis_moderately_long:_extended_between_P/2_and_P/3 Mand_symphysis_long,_extended_to_P/3_or_posterior,;
+{ 50 Dentary:_Fusion_of_the_mandibular_symphysis Mandibular_symphysis_unfused_(synchondrosis) Mandibular_symphysis_fused,;
+{ 51 Dentary:_Anteriormost_mental_foramen Anteriormost_mental_foramen_below_P/1_or_more_anterior below_P/2 below_P/3 posterior_to_P/3,;
+{ 52 Dentary:Posteriormost_mental_foramen below_canine_and_anterior_premolars below_penultimate_premolar below_ultimate_premolar at_ultimate_premolar_and_first_molar_junction,_or_more_posterior,;
+{ 53 Dentary:_Horizontal_ramus_(body) Dentary:_Horizontal_ramus_(body)_low Dentary:_Horizontal_ramus_(body)_high,;
+{ 54 Dentary:_Position_of_the_coronoid_apophysis Coronoid_apophysis_rising_at_level_of_M/3,_or_more_distally Coronoid_apophysis_rising_anteriorly_to_M/3,;
+{ 55 Dentary:_Orientation_of_coronoid_apophysis Dentary:_Anterior_margin_vertical_or_posteriorly_canted Dentary:_Anterior_margin_anteriorly_canted,;
+{ 56 Dentary:_Development_of_the_coronoid_apophysis coronoid_apophysis_very_high_above_tooth_row_(as_high_or_higher_than_M/3-P/4_length) coronoid_apophysis_moderately_high_above_tooth_row coronoid_apophysis_strongly_reduced_to_absent,;
+{ 57 Dentary:_Mandibular_condyle_position At_level_or_low_above_the_dental_row Moderately_high_above_the_dental_row_(one_molar_length) Very_high_above_the_tooth_row_(>one_molar_length),;
+{ 58 Mandibular_condyle_shape ovoid_(or_plate-like) transversely_elongate_and_cylindrical antero-posteriorly_elongate,;
+{ 59 Dentary:_Coronoid_foramen Coronoid_foramen_absent Coronoid_foramen_present,;
+{ 60 Dentary:_Angular_process thin_stick-like_or_hook-like_distally_protruding_angular_process broad_and_rounded_distally_projecting_angular_process Mandibular_angle_broad-and_round_without_angular_process,;
+{ 61 Dentary:_Anterior_coronoid_(=_retromolar)_fossa absence_of_retromolar_fossa retromolar_fossa_present retromolar_fossa_enlarged,;
+{ 62 Number_of_upper_incisors three two one none,;
+{ 63 Relative_size_of_upper_incisors small large,;
+{ 64 Relative_size_of_I1/ not_enlarged_(=_I2/) I1/>I2/ I1/_greatly_enlarged_(I1/>>I2/._I1/_tusk_like),;
+{ 65 Relative_size_of_I2/ I2/_not_enlarged_(similar_to_I1/) I2/>>I1/,;
+{ 66 Relative_size_of_I3/ I3/_similar_in_size_to_I2/_and_I1/ I3/_very_small,_much_smaller_than_I2/_and_I1/ I3/_larger_than_I2/_and_I1/,;
+{ 67 Upper_diastema small,_between_incisors_and_canine small_or_absent small,_between_canine_and_premolars developed_but_short_elongated_(I2/-P2/), enlarged State_2 absent;
+{ 68 C1/ large_(>>_premolars) medium_to_small_(=_or_<_premolars_and_incisors) absent,;
+{ 69 C1/:_number_of_roots two_roots one_root,;
+{ 70 P1/ P1/:_present P1/:_absent,;
+{ 71 P1/:_Number_of_roots P1/:_Two_roots P1/:_One_root,;
+{ 72 P2/ P2/:_Present P2/:_Absent,;
+{ 73 P2/:_Number_of_roots P2/:_Two_roots P2/:_Three_roots P2/:_One_root,;
+{ 74 P2/:_Protocone P2/:_Protocone_absent,_crown_narrow_transversely P2/:_Protocone_present,_crown_slightly_developed_transversely P2/:_Protocone_large,_crown_as_long_as_wide,;
+{ 75 P3/:_Number_of_roots P3/:_Two_roots P3/:_Three_roots P3/:_one_root,;
+{ 76 P3/:_Protocone P3/:_Protocone_absent_or_reduced P3/:_Protocone_present P3/:_Protocone_well_developed,_crown_at_least_as_wide_as_long,;
+{ 77 P3/:_Metacone P3/:_Metacone_absent P3/:_Metacone_present_and_small P3/:_Metacone_medium_to_large,_but_still_closely_connate_to_paracone P3/:_Metacone_large_and_well_separated_from_paracone,;
+{ 78 P3/:_Conules absent present,;
+{ 79 P4/_(and_P3/):_parastyle large medium small_or_absent,;
+{ 80 P4/:_Conules absent present,;
+{ 81 P4/:_Number_of_roots P4/:_Two_roots P4/:_Three_roots P4/:_Four_roots P4/:_One_root,;
+{ 82 P4:_metacone absent present,_small Metacone_medium_(smaller_than_paracone) Metacone_large,_close_in_size_to_paracone,;
+{ 83 P4/:_metacone Metacone_conate_to_paracone Metacone_well_separated_from_paracone,;
+{ 84 P4/:_protocone P4/:_protocone_absent_or_weak P4/:_protocone_present,_medium P4/:_protocone_large_(occlusal_outline_at_least_as_wide_as_long),;
+{ 85 P4/:_lingual_cingulum absent present,;
+{ 86 P4/:_Hypocone P4/:_Hypocone_absent P4/:_Hypocone_present,_small P4/:_Hypocone_present,_large,;
+{ 87 P4/:_Lophs P4/:_No_loph P4/:_At_least_one_loph_present,;
+{ 88 P4/_(and_P3/):_postprotocrista P4/_(and_P3/):_Postprotocrista_distinct P4/_(and_P3/):_Postprotocrista_absent_or_weak,;
+{ 89 M1-3/_bunodonty Morphology_more_or_less_puncturing_with_high_and_pointed_cusps Morphology_bunodont_with_low_and_inflated_crown_and_cusps,;
+{ 90 M1-3/:_Lophodonty Strictly_bunodont_pattern_without_loph Bunodont_bilophodont_pattern,_with_weak_meta-_and_protololophs Bunodont_bilophodont_pattern_with_developed_meta_and_protoloph True_lophodont_pattern,_4_Bunolophodont_pattern,;
+{ 91 M1-3/:_Lophs No_loph Lophs_transverse Lophs_oblique,;
+{ 92 M-13/_parastyle_position labial_to_paracone shifted_mesially_to_paracone,;
+{ 93 M1-3/_parastyle_development large small absent,;
+{ 94 M1-3/:_Ectocingulum Ectocingulum_reduced,_or_thin_and_isolated Ectocingulum_inflated_and_continuous_with_mesial_and_distal_cingula,;
+{ 95 M1-2/:_Stylar_shelf_development Stylar_shelf_wide_(5(0)_-25_%_molar_width) Stylar_shelf_very_wide,_enlarged_(>5(0)_%_molar_width) Stylar_shelf_reduced_(<_25%_molar_width) Stylar_shelf_absent,;
+{ 96 M1-3/:_Pericone M1-3/:_Pericone_absent M1-3/:_Pericone_absent_present,;
+{ 97 M1-3/_true_hypocone_(cingulum_derived) absent_or_weak small,_crestiform well_inflated subegal_protocone,;
+{ 98 Postcingulum absent_or_very_small present_(joined_or_not_to_distocrista),;
+{ 99 M1-3/_mesostyle_development absent_or_weak present_and_inflated enlarged,;
+{ 100 Mesostyle_longitudinal_position more_or_less_in_between_paracone_and_metacone distinctly_closer_to_metacone_(alignement_with_metaloph),;
+{ 101 1_M1-3/_mesostyle_transverse_position distant_labially_from_paracone_and_metacone close_to_paracone_and_metacone,;
+{ 102 M1-3/_centrocrista present absent,;
+{ 103 M1-3/_Centrocrista_shape rectodont,_not_linked_to_mesostyle_moderatly dilambdodont_and_linked_to_a_close_mesostyle strongly_dilambdodont_(V_shaped_centrocr.)_&_linked_to_mesostyle hyperdilambdodont_(para-_&_metac_lingual)_&_linked_to_mesostyle,;
+{ 104 M1-3/:_Postmetacrista Postmetacrista_well_developed_and_predominantly_transverse Postmetacrista_weak_and_predominantly_longitudinal,;
+{ 105 M-13/_Preparacrista long_and_transverse short_and_longitudinal absent_or_weak,;
+{ 106 M3/:_Metacone_development Metacone_smaller_than_paracone_but_well_developed Metacone_weak_or_absent_on_M3/ Metacone_as_large_or_larger_than_paracone,;
+{ 107 M1-3/_metaconule_development Absent_to_weak_Small_but_well_distinct_(<paraconule) Large_(=_or_>paraconule) Distinctly_enlarged_and_bulbous_(>>paraconule,_but_<_protocone) As_large_as_protocone=_pseudohypocone, State_4;
+{ 108 M1-3/_metaconule_position Labial:_more_labial_or_equal_to_paraconule Shifted_linguallly_close_to_protocone_level Lingual,_behind_the_protocone_or_more_lingual:_pseudohypocone,;
+{ 109 M1-3/_paraconule_development absent_or_weak present_but_small_(crestiform) large_and_inflated,;
+{ 110 M1-3/_postprotocrista present absent_or_reduced_(partly_correlated_with_interloph_development),;
+{ 111 M1-3/:_"Prehypocrista"_and_metaloph "Prehypocrista"_and_metaloph_absent_or_reduced "Prehypocrista"_absent_or_weak,_metaloph_present "Prehypocrista"_forms_metaloph_and_joins_metacone_base "Prehypocrista"_forms_metaloph_and_joins_metacone_apex,;
+{ 112 M1-3/_Interloph absent present,;
+{ 113 M1-2/:_Distocrista Distocrista_present_between_postcingulum_and_hypocone Distocrista_absent,_postcingulum_independant_from_hypocone,;
+{ 114 M1-3/:_Postentoconule_(hypostyle) Postentoconule_(hypostyle)_absent Postentoconule_(hypostyle)_present,;
+{ 115 M1-2/:_M1/_and_M2/_relative_size M1/_and_M2/_of_similar_size M1/_significantly_smaller_than_M2/ M1/_significantly_larger_than_M2/,;
+{ 116 M2/_and_M3/_relative_size M2/_and_M3/_of_similar_size M3/_smaller_than_M2/ M3/_strongly_reduced M3/_significantly_larger_than_M2/_(molar_size_increase_posteriorly),;
+{ 117 M1-2/_lingual_root M1-2/:_one_simple_lingual_root M1-2/:_Lingual_root_enlarged_+_incipiently_divided_(sulcus) M1-2/:_At_least_2_lingual_roots_(hypocone_or_pseudohypocone_root),;
+{ 118 M3/:_Protocone_root M3/:_Protocone_root_small_and_simple M3/:_Protocone_root_enlarged_(or_fused_with_hypocone_root),;
+{ 119 M3/_postero-lingual_root_under_hypocone_or_pseudohypocone Postero-lingual_root_absent One_root_under_hypocone_or_pseudohypocone 2_roots_(mesial_and_distal)_roots_under_hypocone_or_pseudohypocone,;
+{ 120 K12(0)_M1-3/:_Brachyodonty/hypsodonty Crown_uniformly_brachyodont_Unilateral_labial_hypsodonty Unilateral_lingual_hypsodonty Crown_uniformly_hypsodont, State_3;
+{ 121 M1-3/:_Occlusal_outline M1-3/:_Occlusal_outline_extended_transversally M1-3/:_Occlusal_outline_narrower_(squared_or_slightly_elongated),;
+{ 122 Skull_pneumatization Reduced_pneumatization_of_skull_bones Significant_pneumatization_(developed_sinuses/diploe) Extensive_pneumatization,;
+{ 123 Rostrum_elongation Preorbital_length_vs_total_skull_length_between_30%_and_50% Preorbital_length_vs_total_skull_length_>_50% Preorbital_length_vs_total_skull_length_<_30%,;
+{ 124 Rostrum_relative_width_to_length:_ratio_of_width_of_the_snout_at_canine_level_to_preorbital_length Between_30%_(included)_and_50%_<_30% Between_50%_(included)_and_70% Between_70%_(included)_and_90% >_90%,;
+{ 125 Skull:_Extension_ot_the_tooth_row Upper_tooth_row_not_extended_more_distally_than_mid_skull_length upper_tooth_row_very_extended_distally,_up_to_the_two_thirds_of_the_skull,;
+{ 126 Skull:_Palatine_development Palatine_anteriorly_extended_to_M1/_level Palatine_short,_more_posterior_than_M1/ Palatines_more_anterior_than_M1/,;
+{ 127 Skull:_Major_palatine_foramen Within_palatine Between_palatine_and_maxilla Within_maxilla Multiple_small_foramina Absent,;
+{ 128 Skull:_Location_of_anterior_margin_of_the_choanae At_M3/_level Posterior_to_M3/ Anterior_to_M3/,;
+{ 129 Skull:_Postpalatine_torus present absent,;
+{ 130 Skull:_Nasal_cavity_development Nasal_cavity_narrow_and_not_high_anteriorly Nasal_cavity_wide_and_high,;
+{ 131 Skull:_Nasal_extension Nasal_long_and_located_anterior_to_the_orbit Nasal_short_and_posteriorly_shifted,;
+{ 132 Skull:_Nasal_fossa Nasal_fossa_anterior Nasal_fossa_moderately_retracted Nasal_fossa_strongly_retracted,;
+{ 133 Skull:_Premaxillary-frontal_contact Premaxillary-frontal_contact_absent_(separated_by_the_nasal) Premaxillary-frontal_contact_present,;
+{ 134 Skull:_frontal_and_maxillary_contact_anterior_to_orbit absent_or_weak_(seprated_by_lacrimal--nasal_contact) present,_well_developed_(=lacrimal-nasal_suture_absent),;
+{ 135 Naso-frontals_sutures Naso-frontals_sutures_convex_posteriorly_(nasals_intrude_in_frontals) Naso-frontals_sutures_straight_transversely,;
+{ 136 Skull:_Lacrimal Lacrimal_present lacrimal_absent,;
+{ 137 Skull:Lacrimal_facial_process Lacrimal_facial_process_large,_and_in_contact_to_nasal Lacrimal_facial_process_large_but_with_reduced_or_no_contact_to_nasal Lacrimal_facial_process_small,_reduced_along_orbital_rim Lacrimal_facial_process_absent,;
+{ 138 Skull:_Lacrimal_tubercle Lacrimal_tubercle_absent lacrimal_tubercle_present,;
+{ 139 Skull:_Lacrimal_foramen anterior_to_orbit_(facial) in_the_orbit_rim in_the_orbit_lacrimal_foramen absent,;
+{ 140 Skull:_Orbit_location Orbit_very_posterior,_above_M3/_or_more_posterior Orbit_posterior,_above_M2/ Orbit_above_M1/ Orbit_above_P4/_or_in_between_P/4_and_M1/_level Orbit_above_P3/_or_in_between_P4/_and_P3/_level,_4_Orbit_anterior_to_P3/, State_5;
+{ 141 Skull:_Orbit_lower_rim_construction Orbit_bordered_ventrally_mostly_or_entirely_by_the_jugal_that_joins_the_lacrimal_(reduced_zygomatic_process_of_the_maxillary) orbit_bordered_ventrally_partly_by_a_short_process_of_the_maxillary_extended_between_lacrimal_and_jugal maxillary_forms_the_antorbital_rim_(jugal_restricted_distally_to_orbit),;
+{ 142 Skull:_Infraorbital_foramen_size Infraorbital_foramen_small infraorbital_foramen_large,;
+{ 143 Skull:_Infraorbital_foramen_position_vs_upper_teeth Infraorbital_foramen_anterior_to_last_premolar Infraorbital_foramen_above_the_last_premolar Infraorbital_foramen_below_M1/_or_more_posterior,;
+{ 144 Skull:_infraorbital_foramen_position_vs_orbit Anterior_to_orbit_(>_one_tooth_length),_long_infraorbital_canal Close_to_the_orbit,_short_infraorbital_canal Below_to_the_orbit,_short_infraorbital_canal,;
+{ 145 Skull:_Submaxillary_fossa Submaxillary_fossa_absent submaxillary_fossa_present,;
+{ 146 Skull:_Frontal Frontal_similar_or_a_little_shorter_than_parietal frontal_very_shortened,_less_than_half_length_of_parietal Frontal_very_elongated,_longer_than_parietal,;
+{ 147 Skull:_Tuber_maxillae_development Tuber_maxillae_absent/small tuber_maxillae_large_(to_inflated),;
+{ 148 Skull:_Tuber_maxillae_location Tuber_maxillae_ventral_or_anterior_to_the_orbit Tuber_maxillae_noticeably_posterior_to_the_orbit,;
+{ 149 Skull:_Ascending_process_of_the_palatine_extention_in_orbitotemporal_fossa Ascending_process_of_the_palatine_present_in_orbito-temporal_fossa Ascending_process_of_the_palatine_reduced_in_orbito-temporal_fossa Ascending_process_of_the_palatine_absent_in_the_orbito-temporal_fossa,;
+{ 150 Skull:_Morphology_of_zygomatic_arch_at_zygomatic_process Zygoma_narrow_and_slender_without_distinct_ventral_max._process Zygoma_high_dorso-ventrally_+_ventral_max_process_(max._sut.),;
+{ 151 Skull:_Distal_extention_of_the_jugal Jugal_restricted_distally_to_the_anterior_part_of_the_glenoid_fossa,_1_Jugal_extended_distally_up_to_the_distal_part_of_the_glenoid_fossa, State_1;
+{ 152 Skull:_Postorbital_constriction Postorbital_constriction_strong Postorbital_constriction_weak,;
+{ 153 Skull:_Postorbital_process_of_the_frontal Postorbital_process_of_the_frontal_developed_and_inflated postorbital_process_of_the_frontal_reduced_or_absent,;
+{ 154 Skull:_Postorbital_process_of_the_jugal Postorbital_process_of_the_jugal_present_but_weak_postorbital_process_of_the_jugal_absent postorbital_process_of_the_jugal_very_developed, State_2;
+{ 155 Skull:_Zygomatic_arch Zygomatic_arch_poorly_divergent_laterally zygomatic_arch_widely_divergent_laterally,;
+{ 156 Skull:_Squamosal_cerebral_part_development Cerebral_part_not_extended_dorsally Cerebral_part_extended_and_inflated_(=scale),;
+{ 157 Skull:_Squamosal_zygomatic_process_development moderately_developed_laterally very_well_developed_laterally_and_very_robust,;
+{ 158 Skull:_Parietal-alisphenoid_contact Parietal-alisphenoid_contact frontal-squamosal_contact,;
+{ 159 Skull:_Parietal Not_extended_more_anteriorly_than_alisphenoid Extended_more_anteriorly_than_alisphenoid_with_an_orbitosphenoid_suture,;
+{ 160 Skull:_Alisphenoid_canal Absent Present,;
+{ 161 Skull:_Foramen_rotundum_and_sphenorbital_fissure confluent separated,;
+{ 162 Skull:_External_auditory_meatus_(eam)_elevation eam_poorly_elevated_above_the_tooth_row eam_high_above_the_tooth_row,;
+{ 163 Skull:_Post-tympanic_process_and_external_auditory_meatus_ventral_rim Post-tympanic_proc._reduced,_eam_opened_ventrally Post-tympanic_proc._developed,_eam_still_opened_ventrally Post-tympanic_proc._joining_postglenoid_proc.,_eam_closed_ventrally,;
+{ 164 Skull:_Sagittal_crest Sagittal_crest_present_all_along_top_of_skull_(joining_temporal_crests) Sagittal_crest_reduced_to_back_of_skull Sagittal_crest_weak_or_absent,;
+{ 165 Skull:_Nuchal_crests Nuchal_crests_present Nuchal_crests_reduced/absent,;
+{ 166 Skull:_Periotic_mastoidy/amastoidy Posterior_mastoidy:_large_posterior_(occipital)_mastoid_exposure Lateral_mastoidy:_narrow_lateral_mastoid_exposure Amastoidy:_no_mastoid_exposure,;
+{ 167 Skull:_Periotic_pars_mastoidea_relative_development Pars_mastoidea_small Pars_mastoidea_larger_than_pars_cochlearis,;
+{ 168 Skull:_Periotic_fenestra_vestibuli_size Fenestra_vestibuli_medium_to_large Fenestra_vestibuli_very_small_(<<_f._cochleae),;
+{ 169 Skull:_Periotic_fenestra_vestibuli_shape Fenestra_vestibuli_round_with_low_stapedial_ratio_(<_1.8) Fenestra_vestibuli_elliptical_with_high_stapedial_ratio_(>1.8),;
+{ 170 Skull:_Periotic_fenestra_cochleae_position Fenestra_cochleae_postero-medial_to_fenestra_vestibuli Fenestra_cochleae_posterior_to_fenestra_vestibuli,;
+{ 171 Skull:_Periotic_(pars_cochlearis):_Round_window_and_cochlear_canal Round_window_and_cochlear_canal_present Perilymphatic_for._present,_no_round_window_and_cochlear_canal =,;
+{ 172 Skull:_Periotic_subarcuate_fossa Subarcuata_fossa_present_and_deeply_excavated Subarcuata_fossa_present_but_poorly_excavated Subarcuata_fossa_absent,;
+{ 173 Skull:_Preglenoid_process absent present,;
+{ 174 Skull:_Postglenoid_foramen_location Postglenoid_foramen_medial Postglenoid_foramen_distal Postglenoid_foramen_absent,;
+{ 175 Skull:_Tegmen_tympani small_or_absent_inflated forming_large_and_robust_barrel-like_bony_structure,;
+{ 176 Skull:_Jugular_foramen Small_(subequal_to_fenestra_cochleae) Large_(>>_fenestra_cochleae),;
+{ 177 Skull:_Midline_keel_at_ventral_surface_of_basioccipital Absent_weak_but_present well_developed, State_2;
+{ 178 Skull:_Hypoglossal_foramen Present_and_isolated Coalescent_with_f._lacerum_posterius,;
+{ 179 Skull:_Ethmoidal_foramen Ethmoidal_f._far_from_optic_f median_in_orbito-temporal_fossa Ethmoidal_f._posteriorly_shifted,;
+{ 180 Skull:_Inner_ear_Cochlea,_Secondary_bony_spiral_lamina Secondary_bony_spiral_lamina_present_on_the_basal_turn Secondary_bony_spiral_lamina_present_on_basal_and_higher_turns Secondary_bony_spiral_lamina_absent,;
+{ 181 Skull:_Inner_ear_Cochlea,_number_of_turns_of_the_cochlea 1.5_Number_of_turns_of_the_cochlea_between_1.5_and_2_turns Number_of_turns_of_the_cochlea_=_2_or_more, State_2;
+{ 182 Skull:_:_Inner_ear,_secondary_crus_commune present absent,;
+{ 183 Skull:_Inner_ear_cochlea_shape planispiral_(cochlear_ratio_<_0.6) conic_(cochlear_ratio_>_0.6);
+;
+
+
+ccode  - 0.2 4.5 9 11 13.33 35.38 40 43 45.49 52.55 59.60 63 65.67 69.73 75 77.80 82.83 85 87.96 98 100.103 106 110.121 123.131 133.136 138.140 142 144.148 150.162 165.171 173.179 182.183 + 3 6.8 10 12 34 39 41.42 44 50.51 56.58 61.62 64 68 74 76 81 84 86 97 99 104.105 107.109 122 132 137 141 143 149 163.164 172 180.181;
+
+
+;

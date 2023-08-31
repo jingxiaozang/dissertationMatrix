@@ -1,0 +1,150 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 09.37.07'
+102 30
+
+&[num]
+Anchylorhynchus_aegrotus                       ?040010?1010102101020110112202211111100?300201101111?002020100?10?00102210012031121000101111010-000003
+Anchylorhynchus_albidus                        30420102001122010112000???????????0????????2??103000100102??10000000002200011021021000202110010-000001
+Anchylorhynchus_amazonicus                     ?0400100101?2200010200011?2221302111201211221210?000100002021101?0000?31100110210100??1021110110000001
+Anchylorhynchus_imitator_[sp5]                 ?0400100101?22000102000110222130211120121122120020101000020211001000003210011??10122211021110110000001
+Anchylorhynchus_bicarinatus                    ?0?00110111?22010102000101121220111111021122211110011002020210011000002200112221012221101111010-000101
+Anchylorhynchus_bicolor                        ?040010?101022010122100021020220200101124002210020001001020320001?01003210012131010021202010110-000002
+Anchylorhynchus_bucki                          ?04001001010?0010102011011220221211100022112110010011000020320201101002010011021000000102111010-000001
+Anchylorhynchus_burmeisteri                    ?0400100?01?21010122000121020221210101023012111130001000120320111?01013310012031122231212110110-000001
+Anchylorhynchus_multisquamis_[sp1]             ?04001001010220101020000??????????0????2???2??11300110000103200110010133000121311222211020111112000001
+Anchylorhynchus_camposi                        ?04001001010220101020001111211302110101211121210?00010000202110010000032000110210200211021110110000001
+Anchylorhynchus_rectus_[sp2]                   ?04001001010220001021101112221302111201211121210101010000213110010000032100110210211211021110110000001
+Anchylorhynchus_minimus                        ?040010010102201011211001112120?211111023002111020001001020210010??0013110011031021100201110110-000001
+Anchylorhynchus_trapezicollis                  ?0400100?01?220101020000111221302000201212121200300?1002021201010000?121100110210211102021100111000001
+Anchylorhynchus_latipes_[sp3]                  ?0400100?010220001020000111221302111201212121200300110020214010100000121000110210200211021100111000001
+Anchylorhynchus_goiano_[sp6]                   ?0400100?010220101021000112221302001201212122200100?10020212110000000122100120210211102021100111000001
+Anchylorhynchus_tremolerasi                    ?040010?101?22?1012210002102022121010102300220??200?1001020210?10?0?0?3111012031120021212010110-000002
+Anchylorhynchus_chrysomeloides_[sp4]           ?0400100101022?101221001210202201001210240121011200?100102032021010?013210012131120221202010110-000002
+Anchylorhynchus_tricarinatus                   ?02001201110220101040000010212212211111212221211300?1001020100011000002300112221111221202110110-000004
+Anchylorhynchus_variabilis                     ?0400100?01?10?10112111021120220201000122202010030011002020100010?11?11?00012?11121110223211110-000001
+Anchylorhynchus_vittipennis                    ?0400100101?102101121010210202212110101221020100300?0001020100210?0?103210011031021110212111110-000001
+Anchylorhynchus_pinocchio_[sp7]                314200001011220211020000111221212021001210121111101?100001200100000000?300012021101100202111110-000001
+Anchylorhynchus_centrosquamatus_[sp8]          ?0400100101?220001120000012221302111201211121210300010020203110000000132100121210200011011101110000001
+Anchylorhynchus_luteobrunneus_[sp9]            ?041011?101022?10102000011122120210110122102011112001000021101?11?0?01?200012121111100201110110-000001
+Anchylorhynchus_parcus                         1040?10??010222101221000??????????01?????00???111??01??10202?10010?001321?011131020?3?????????0-??????
+Anchylorhynchus_vanini                         ?04?0100001010210103?1001100?23121111102201111101111111202?????11000112000012021020140201111010-000001
+Elaeidobius_kamerunicus                        2030100000000?000001000001030110002100010020102030012000000210001200?10?00000?0000110000100?000-10001?
+Elaeidobius_subvittatus                        ?0301000000000000001000010030111003110010021001010004000000210001000000?00000?0000110000000?000-00001?
+Celetes_langei                                 ?03220002?002000000000001104111101110002311010000000300?011100?01000010?00000?01110040001110000-010000
+Celetes_binotatus                              ?0302000001010010010000011251111002100023100110000002001221100001000001?00001?11121110001010000-000000
+Andranthobius_bondari                          ?00-000002010?000000000000110000001000000100001010004000001100000000000?00000?0000004200310??00-001?0?
+
+;
+
+
+cnames
+{ 0 Rostrum,_integument,_color yellowish reddish reddish-brown black;
+{ 1 Rostrum_length,_sexual_dimorphism Males_and_females_about_the_same_size Male_rostrum_much_longer_than_female's;
+{ 2 Male,_rostrum,_longitudinal_carinae,_number none two three five seven;
+{ 3 Male,_rostrum,_longitudinal_carinae,_whether_distinct all_carinae_distinct_from_base_to_apex two_lateralmost_carinae_indistinct_near_base all_carinae_indistinct;
+{ 4 Rostrum,_longitudinal_carinae,_sexual_dimorphism no_dimorphism female_with_no_carinae_at_base female_with_no_carinae_throughout;
+{ 5 Rostrum,_scrobe,_angle parallel_to_rostrum directed_obliquely_downwards;
+{ 6 Male,_rostrum,_apex,_vestiture,_shape_of_scales microsetae thin_elongated_scales wide_scales;
+{ 7 Male,_rostrum,_dorsal_scales,_color yellowish orange reddish-brown black;
+{ 8 Male,_rostrum,_dorsal_scales_at_the_base,_shape narrow_to_setiform wide_scales microsetae;
+{ 9 Male,_rostrum,_dorsal_scales,_orientation directed_towards_central_carina directed_towards_base_of_rostrum not_oriented;
+{ 10 Male,_rostrum,_antennal_insertions,_position median distal;
+{ 11 Head,_integument,_color_difference_to_the_rostrum color_similar_to_rostrum distinctly_lighter_than_the_rostrum distinctly_darker_than_the_rostrum;
+{ 12 Head,_dorsal_region,_vestiture,_shape_of_scales microsetae with_microsetae_and_large_scales mostly_covered_by_large_scales;
+{ 13 Head,_dorsal_region,_vestiture,_orientation_of_scales directed_to_a_point_slightly_more_proximal_than_the_interocular_fovea directed_to_the_base_the_rostrum directed_to_the_interocular_fovea;
+{ 14 Head,_dorsal_region,_vestiture,_color uniformly_yellowish uniformly_dark varying_from_dark_to_yellowish_or_orange;
+{ 15 Male,_antennae,_scape,_length not_reaching_the_eye_margin reaching_the_eye_margin extending_beyond_the_eye_margin;
+{ 16 Male,_antennae,_scape,_curvature straight curved;
+{ 17 Antennae,_funicle,_number_of_antennomeres 7 6;
+{ 18 Left_mandible,_external_margin,_shape not_sinuate slightly_sinuate strongly_sinuate;
+{ 19 Left_mandible,_dorsal_region,_setae,_number_and_shape one_very_short_seta none one_long_seta one_long_and_one_short_seta three_setae;
+{ 20 Left_mandible,_external_tooth,_orientation_in_relation_to_external_margin evenly_curved_with_the_lateral_margin sharply_angled_in_relation_to_the_lateral_margin;
+{ 21 Left_mandible,_external_tooth,_shape pointed rounded_to_truncated;
+{ 22 Left_mandible,_internal_tooth,_degree_of_development well_developed indistinct_to_poorly_developed;
+{ 23 Left_mandible,_molar_region,_shape straight sinuate;
+{ 24 Left_maxilla,_stipes,_shape subquadrate moderately_elongated strongly_elongated;
+{ 25 Left_maxilla,_stipes,_ventral_seta absent present;
+{ 26 Left_maxilla,_galeo-lacinial_complex,_length_in_relation_to_maxillary_palp not_reaching_the_apex_of_palpomere_I reaching_the_apex_of_palpomere_I reaching_beyond_the_apex_of_palpomere_I;
+{ 27 Left_maxilla,_palpiger,_setae,_arrangement seven_long_and_several_short_setae only_one_seta one_long_seta_and_several_short_setae two_short_setae_of_approximatelly_equal_length three_short_setae_of_approximatelly_equal_length two_long_and_two_short_setae;
+{ 28 Left_maxilla,_palpiger,_ventral_region,_shape transversal subquadrate elongated;
+{ 29 Left_maxilla,_palpiger,_dorsal_region,_shape_of_proximal_margin evenly_curved with_an_obtuse_angle with_an_acute_angle;
+{ 30 Left_maxilla,_palpomere_I,_apical_setae,_number none one two three;
+{ 31 Left_maxilla,_palpomere_I,_apical_setae,_length elongated short;
+{ 32 Left_maxilla,_palpomere_I,_shape transversal wider_than_long longer_than_wide;
+{ 33 Left_maxilla,_palpomere_II,_length_in_relation_to_palpomere_I longer_than_palpomere_I about_as_long_as_palpomere_I shorter_than_palpomere_I;
+{ 34 Labium,_prementum,_aspect_ratio about_2_times_as_wide_as_long about_1.5_as_wide_as_long about_as_long_as_wide longer_than_wide;
+{ 35 Labium,_prementum,_lateral_margins,_shape diverging_in_the_median_region parallel_in_the_median_region;
+{ 36 Labium,_prementum,_apical-lateral_region,_shape retracted forming_a_right_angle lobed;
+{ 37 Labium,_prementum,_central_longitudinal_band_of_setae absent present;
+{ 38 Labium,_prementum,_lateral_oblique_band_of_setae absent present;
+{ 39 Labium,_prementum,_apical-lateral_setae,_number one 2-4 more_than_4;
+{ 40 Labium,_prementum,_ligula,_degree_of_development about_as_long_as_the_prementum about_0.5_times_the_length_of_prementum present_but_less_than_0.5_times_the_length_of_prementum present_and_barely_visible absent;
+{ 41 Labium,_prementum,_distance_between_palpi less_than_half_the_width_of_palpomere_I about_half_the_width_of_palpomere_I about_the_same_as_the_width_of_palpomere_I;
+{ 42 Labium,_palpomere_I,_shape wider_than_long about_as_wide_as_long longer_than_wide;
+{ 43 Labium,_palpomere_I,_proximal_ventral_setae,_number one three_long_setae one_long_seta_and_many_shorter_ones;
+{ 44 Labium,_palpomere_II,_length_in_relation_to_palpomere_III shorter_than_palpomere_III about_as_long_as_palpomere_I longer_than_palpomere_I;
+{ 45 Labium,_palpomere_III,_lateral_setae,_number absent one two;
+{ 46 Pronotum,_proximal_margin,_shape not_lobed_in_the_middle slightly_lobed_in_the_middle strongly_lobed_in_the_middle;
+{ 47 Male,_pronotum,_lateral_margins,_curvature evenly_curved with_an_inflexion_in_median_region;
+{ 48 Male,_pronotum,_lateral_margins,_direction_at_base diverging parallel subparallel converging;
+{ 49 Pronotum,_lateral_margins,_curvature,_sexual_dimorphism No_dimorphism Males_evenly_curved_and_females_with_an_inflection_in_the_median_region Males_with_an_inflection_in_the_median_region_and_females_evenly_curved;
+{ 50 Pronotum,_lateral_margins,_direction_at_base,_sexual_dimorphism No_dimorphism Females_with_margins_more_convergent_than_males;
+{ 51 Male,_pronotum,_apical_constriction with_a_slight_constriction without_constriction;
+{ 52 Male,_pronotum,_setae,_shape with_scales_on_the_sides_and_microsetae_on_the_disc scales long_setae short_setae_and_thin_scales short_setae;
+{ 53 Pronotum,_setae,_shape,_sexual_dimorphism Not_sexually_dimorphic Males_with_scales_and_females_with_microsetae_on_the_disk;
+{ 54 Pronotum,_setae,_color,_sexual_dimorphism not_sexually_dimorphic sexually_dimorphic,_with_males_always_yellow;
+{ 55 Pronotum,_setae_along_the_longitudinal_midline directed_towards_the_base directed_towards_the_apex directed_towards_the_center;
+{ 56 Male,_profemora,_lateral_view,_shape about_equally_curved_in_dorsal_and_ventral_margins distinctly_more_straight_on_dorsal_margin distinctly_more_straight_on_ventral_margin;
+{ 57 Male,_profemora,_ventral_tooth,_degree_of_development absent poorly_developed well_developed;
+{ 58 Male,_protarsi,_tarsomere_I,_length_in_relation_to_tarsomere_III approximately_as_long_as_tarsomere_III slightly_longer_than_tarsomere_III more_than_3_times_longer_than_tarsomere_III;
+{ 59 Male,_protarsi,_tarsomeres_I_and_II,_shape distinctly_longer_than_wide slightly_longer_than_wide as_long_as_wide slightly_wider_than_long distinctly_wider_than_long;
+{ 60 Female,_protarsi,_tarsomeres_I_and_II,_shape longer_than_wide as_long_as_wide slightly_wider_than_long;
+{ 61 Male,_protarsi,_ventral_setae,_length without_long_hairs with_long_hairs;
+{ 62 Scutellum,_vestiture,_color uniformly_yellow_to_orange bicolor uniformly_dark;
+{ 63 Elytra,_humeri,_dorsal_view,_shape with_a_marked_angle rounded;
+{ 64 Elytra,_lateral_margins,_shape wider_in_the_middle subparallel;
+{ 65 Elytra,_dorsal_region,_vestiture,_color uniformly_yellow_to_orange bicolor uniformly_dark;
+{ 66 Elytra,_dorsal_region,_vestiture,_whether_sexually_dimorphic not_sexually_dimorphic sexually_dimorphic,_with_males_always_yellow;
+{ 67 Elytra,_epipleura,_vestiture,_color similar_to_the_disc with_a_band_of_dark_scales;
+{ 68 Elytra,_epipleura,_degree_of_inflexion with_a_smooth_inflexion with_a_sharp_inflexion;
+{ 69 Ventral_region,_vestiture,_color_in_relation_to_dorsal_region similar distinctly_lighter-colored;
+{ 70 Hypomeron,_vestiture,_shape_of_scales microsetae setiform acuminate truncated;
+{ 71 Hypomeron,_region_further_from_coxal_cavities,_vestiture,_shape_and_size_in_of_scales_in_relation_to_those_in_pronotum distinctly_more_elongated slightly_more_elongated similar wider;
+{ 72 Male,_hypomeron,_region_next_to_coxal_cavities,_vestiture,_shape_and_size_of_scales similar wider;
+{ 73 Hypomeron,_region_next_to_coxal_cavities,_vestiture,_sexual_dimorphism not_sexually_dimorphic scales_more_elongated_in_females_than_in_males;
+{ 74 Prosternum,_postocular_lobes absent present;
+{ 75 Prosternum,_elongated_apical_setae absent present;
+{ 76 Prosternum,_vestiture,_density very_sparse non-overlapping_to_slightly_overlapping widely_overlapping;
+{ 77 Prosternum,_vestiture,_shape_and_size_of_scales_in_relation_to_those_in_pronotum more_elongated similar wider;
+{ 78 Prosternum,_scales,_apex,_shape microsetae setiform acuminate truncated;
+{ 79 Prosternum,_distance_between_coxal_cavities separate contiguous;
+{ 80 Metepisternum,_vestiture,_density non-overlapping overlapping;
+{ 81 Male,_metasternum,_concavity,_sharpness_of_edges indistinct with_smooth_edges with_sharp_edges;
+{ 82 Male,_metasternum,_concavity,_vestiture,_shape_of_setae microsetae long_setae scales;
+{ 83 Female,_metasternum,_vestiture,_shape_of_setae microsetae long_setae scales;
+{ 84 Male,_ventrites_III-V,_vestiture,_arrangement_and_shape_of_setae recumbent_hairs erect_hairs elongated_scales elongated_scales_and_recumbent_hairs microsetae;
+{ 85 Female,_ventrites_III-V,_vesitutre,_arrangement_and_shape_of_setae recumbent_setae elongated_scales microsetae;
+{ 86 Female,_ventrites_III-IV,_degree_of_retraction not_retracted slightly_retracted strongly_retracted;
+{ 87 Female,_ventrites_III-IV,_shape_of_posterior_margin non-sinuate slightly_sinuate strongly_sinuate;
+{ 88 Male_genitalia,_aedeagus,_aperture,_shape narrower_than_the_anterior_region as_wide_as_the_anterior_region slightly_wider_than_the_anterior_region strongly_wider_than_the_anterior_region;
+{ 89 Male_genitalia,_aedeagus,_shape_of_apex not_constricted constricted_and_acute,_round_or_truncated constricted_and_bilobed;
+{ 90 Male_genitalia,_aedeagus,_ventral_sclerotization,_length not_extending_beyond_the_insertion_of_apodemes extending_beyond_the_insertion_of_apodemes;
+{ 91 Male_genitalia,_aedeagus,_ventral_plate,_degree_of_sclerotization well_sclerotized poorly_sclerotized;
+{ 92 Male_genitalia,_endophallus,_lateral_pockets_with_microtrichiae absent present;
+{ 93 Male_genitalia,_endophallus,_proximal_complex_sclerite absent present;
+{ 94 Male_genitalia,_endophallus,_paired_distal_sclerites absent present;
+{ 95 Male_genitalia,_endophallus,_paired_distal_sclerites,_shape L-shaped rounded elongated;
+{ 96 Male_genitalia,_endophallus,_hook-shaped_sclerite absent present;
+{ 97 Male_genitalia,_endophallus,_round-shaped_distal_sclerite absent present;
+{ 98 Male_genitalia,_endophallus,_distal_sclerite_shaped_a_double_hook absent present;
+{ 99 Male_genitalia,_endophallus,_distal_slightly_sclerotized_area absent present;
+{ 100 Male_genitalia,_endophallus,_microtrichiae present absent;
+{ 101 Male_genitalia,_endophallus,_microtrichiae,_arrangement all_within_the_aedeagus not_organized_in_stripes organized_in_a_pair_of_longitudinal_bands_in_the_apical_region organized_in_a_pair_of_longitudinal_bands_in_the_median_region organized_in_one_transversal_band_in_the_apical_region;
+;
+
+
+ccode  - 0.1 3.23 25 27 29.31 35.39 43 45.57 61.101 + 2 24 26 28 32.34 40.42 44 58.60;
+
+
+;

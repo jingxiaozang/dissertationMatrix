@@ -1,0 +1,143 @@
+#NEXUS
+
+    [ File output by Morphobank v3.0 ?; 2023-07-29 05.18.59 ]
+
+    BEGIN TAXA;
+    DIMENSIONS NTAX=30;
+    TAXLABELS
+    		'Anchylorhynchus aegrotus'
+		'Anchylorhynchus albidus'
+		'Anchylorhynchus amazonicus'
+		'Anchylorhynchus bicarinatus'
+		'Anchylorhynchus bicolor'
+		'Anchylorhynchus bucki'
+		'Anchylorhynchus burmeisteri'
+		'Anchylorhynchus camposi'
+		'Anchylorhynchus centrosquamatus [sp8]'
+		'Anchylorhynchus chrysomeloides [sp4]'
+		'Anchylorhynchus goiano [sp6]'
+		'Anchylorhynchus imitator [sp5]'
+		'Anchylorhynchus latipes [sp3]'
+		'Anchylorhynchus luteobrunneus [sp9]'
+		'Anchylorhynchus minimus'
+		'Anchylorhynchus multisquamis [sp1]'
+		'Anchylorhynchus parcus'
+		'Anchylorhynchus pinocchio [sp7]'
+		'Anchylorhynchus rectus [sp2]'
+		'Anchylorhynchus trapezicollis'
+		'Anchylorhynchus tremolerasi'
+		'Anchylorhynchus tricarinatus'
+		'Anchylorhynchus vanini'
+		'Anchylorhynchus variabilis'
+		'Anchylorhynchus vittipennis'
+		'Andranthobius bondari'
+		'Celetes binotatus'
+		'Celetes langei'
+		'Elaeidobius kamerunicus'
+		'Elaeidobius subvittatus'
+    ;
+    ENDBLOCK;
+
+    BEGIN CHARACTERS;
+	DIMENSIONS NCHAR=11;
+	FORMAT DATATYPE=STANDARD GAP=- MISSING=? SYMBOLS="0123";
+	CHARLABELS
+		 [1] 'body size ?'
+		 [2] 'male, eyes above in relation to head width'
+		 [3] 'male, rotrum width base in relation to rostrum width apex'
+		 [4] 'female, rostrum length in relation to the geometric mean of pronotum length, pronotum width, elytra length, elytrum width'
+		 [5] 'male, pronotum length in relation to the geometric mean of pronotum length, pronotum width, elytra length, elytrum width'
+		 [6] 'male, scutellum length in relation to the geometric mean of pronotum length, pronotum width, elytra length, elytrum width'
+		 [7] 'male, scutellum width in relation to the geometric mean of pronotum length, pronotum width, elytra length, elytrum width'
+		 [8] 'male, eye height in relation to head width'
+		 [9] 'male, elytra length in relation to the geometric mean of pronotum length, pronotum width, elytra length, elytrum width'
+		 [10] 'male, prosternum length in relation to the geometric mean of pronotum length,pronotum width'
+		 [11] 'male, coxae width in relation to the geometric mean of pronotum length,pronotum width'
+	;
+	STATELABELS
+		1
+		'body size measurement is about 1.04'
+		'body size measurement is about 1.862'
+		'body size measurement is about 2.753'
+		,
+		2
+		'eyes above measurement is about 0.182 times head width'
+		'eyes above measurement is about 0.2543 times head width'
+		'eyes above measurement is about 0.3246 times head width'
+		,
+		3
+		'rotrum width base measurement is about 0.7558 times rostrum width apex'
+		'rotrum width base measurement is about 0.972 times rostrum width apex'
+		,
+		4
+		'rostrum length measurement is about 0.6106 times the geometric mean of pronotum length, pronotum width, elytra length, elytrum width'
+		'rostrum length measurement is about 0.9132 times the geometric mean of pronotum length, pronotum width, elytra length, elytrum width'
+		'rostrum length measurement is about 1.504 times the geometric mean of pronotum length, pronotum width, elytra length, elytrum width'
+		,
+		5
+		'pronotum length measurement is about 0.6069 times the geometric mean of pronotum length, pronotum width, elytra length, elytrum width'
+		'pronotum length measurement is about 0.7969 times the geometric mean of pronotum length, pronotum width, elytra length, elytrum width'
+		,
+		6
+		'scutellum length measurement is about 0.05338 times the geometric mean of pronotum length, pronotum width, elytra length, elytrum width'
+		'scutellum length measurement is about 0.09851 times the geometric mean of pronotum length, pronotum width, elytra length, elytrum width'
+		,
+		7
+		'scutellum width measurement is about 0.07951 times the geometric mean of pronotum length, pronotum width, elytra length, elytrum width'
+		'scutellum width measurement is about 0.1221 times the geometric mean of pronotum length, pronotum width, elytra length, elytrum width'
+		,
+		8
+		'eye height measurement is about 0.4518 times head width'
+		'eye height measurement is about 0.61 times head width'
+		,
+		9
+		'elytra length measurement is about 1.856 times the geometric mean of pronotum length, pronotum width, elytra length, elytrum width'
+		'elytra length measurement is about 2.218 times the geometric mean of pronotum length, pronotum width, elytra length, elytrum width'
+		,
+		10
+		'prosternum length measurement is about 0.2916 times the geometric mean of pronotum length,pronotum width'
+		'prosternum length measurement is about 0.5487 times the geometric mean of pronotum length,pronotum width'
+		,
+		11
+		'coxae width measurement is about 0.1864 times the geometric mean of pronotum length,pronotum width'
+		'coxae width measurement is about 0.2962 times the geometric mean of pronotum length,pronotum width'
+		
+	;
+	MATRIX
+	'Anchylorhynchus aegrotus'		                       11000101101
+	'Anchylorhynchus albidus'		                        11010111101
+	'Anchylorhynchus amazonicus'		                     1?01?1?1?01
+	'Anchylorhynchus bicarinatus'		                    ??010101101
+	'Anchylorhynchus bicolor'		                        ?20101?1101
+	'Anchylorhynchus bucki'		                          1100?101101
+	'Anchylorhynchus burmeisteri'		                    22010111101
+	'Anchylorhynchus camposi'		                        ?201???1101
+	'Anchylorhynchus centrosquamatus [sp8]'		          11010111101
+	'Anchylorhynchus chrysomeloides [sp4]'		           12010111101
+	'Anchylorhynchus goiano [sp6]'		                   ?1010111101
+	'Anchylorhynchus imitator [sp5]'		                 1?01?1?1?01
+	'Anchylorhynchus latipes [sp3]'		                  ?1010111101
+	'Anchylorhynchus luteobrunneus [sp9]'		            11010111101
+	'Anchylorhynchus minimus'		                        ??010111101
+	'Anchylorhynchus multisquamis [sp1]'		             12010101101
+	'Anchylorhynchus parcus'		                         110?010?101
+	'Anchylorhynchus pinocchio [sp7]'		                110101?1101
+	'Anchylorhynchus rectus [sp2]'		                   ?201?1?1?01
+	'Anchylorhynchus trapezicollis'		                  ?1010111101
+	'Anchylorhynchus tremolerasi'		                    ???10111101
+	'Anchylorhynchus tricarinatus'		                   1?010101101
+	'Anchylorhynchus vanini'		                         ?10?0101101
+	'Anchylorhynchus variabilis'		                     ?1010111101
+	'Anchylorhynchus vittipennis'		                    11010111101
+	'Andranthobius bondari'		                          ??1?1?00010
+	'Celetes binotatus'		                              1?1?1001111
+	'Celetes langei'		                                 1?1?1001111
+	'Elaeidobius kamerunicus'		                        021?10?0111
+	'Elaeidobius subvittatus'		                        0211100001?
+    ;
+    ENDBLOCK;
+
+          BEGIN ASSUMPTIONS;
+      TYPESET * UNTITLED = ord: 1 - 11;
+      ENDBLOCK;
+      

@@ -1,0 +1,681 @@
+#NEXUS
+
+    [ File output by Morphobank v3.0 ?; 2023-07-29 05.18.08 ]
+
+    BEGIN TAXA;
+    DIMENSIONS NTAX=30;
+    TAXLABELS
+    		'Anchylorhynchus aegrotus'
+		'Anchylorhynchus albidus'
+		'Anchylorhynchus amazonicus'
+		'Anchylorhynchus imitator [sp5]'
+		'Anchylorhynchus bicarinatus'
+		'Anchylorhynchus bicolor'
+		'Anchylorhynchus bucki'
+		'Anchylorhynchus burmeisteri'
+		'Anchylorhynchus multisquamis [sp1]'
+		'Anchylorhynchus camposi'
+		'Anchylorhynchus rectus [sp2]'
+		'Anchylorhynchus minimus'
+		'Anchylorhynchus trapezicollis'
+		'Anchylorhynchus latipes [sp3]'
+		'Anchylorhynchus goiano [sp6]'
+		'Anchylorhynchus tremolerasi'
+		'Anchylorhynchus chrysomeloides [sp4]'
+		'Anchylorhynchus tricarinatus'
+		'Anchylorhynchus variabilis'
+		'Anchylorhynchus vittipennis'
+		'Anchylorhynchus pinocchio [sp7]'
+		'Anchylorhynchus centrosquamatus [sp8]'
+		'Anchylorhynchus luteobrunneus [sp9]'
+		'Anchylorhynchus parcus'
+		'Anchylorhynchus vanini'
+		'Elaeidobius kamerunicus'
+		'Elaeidobius subvittatus'
+		'Celetes langei'
+		'Celetes binotatus'
+		'Andranthobius bondari'
+    ;
+    ENDBLOCK;
+
+    BEGIN CHARACTERS;
+	DIMENSIONS NCHAR=102;
+	FORMAT DATATYPE=STANDARD GAP=- MISSING=? SYMBOLS="0123456";
+	CHARLABELS
+		 [1] 'Rostrum, integument, color'
+		 [2] 'Rostrum length, sexual dimorphism'
+		 [3] 'Male, rostrum, longitudinal carinae, number'
+		 [4] 'Male, rostrum, longitudinal carinae, whether distinct'
+		 [5] 'Rostrum, longitudinal carinae, sexual dimorphism'
+		 [6] 'Rostrum, scrobe, angle'
+		 [7] 'Male, rostrum, apex, vestiture, shape of scales'
+		 [8] 'Male, rostrum, dorsal scales, color'
+		 [9] 'Male, rostrum, dorsal scales at the base, shape'
+		 [10] 'Male, rostrum, dorsal scales, orientation'
+		 [11] 'Male, rostrum, antennal insertions, position'
+		 [12] 'Head, integument, color difference to the rostrum'
+		 [13] 'Head, dorsal region, vestiture, shape of scales'
+		 [14] 'Head, dorsal region, vestiture, orientation of scales'
+		 [15] 'Head, dorsal region, vestiture, color'
+		 [16] 'Male, antennae, scape, length'
+		 [17] 'Male, antennae, scape, curvature'
+		 [18] 'Antennae, funicle, number of antennomeres'
+		 [19] 'Left mandible, external margin, shape'
+		 [20] 'Left mandible, dorsal region, setae, number and shape'
+		 [21] 'Left mandible, external tooth, orientation in relation to external margin'
+		 [22] 'Left mandible, external tooth, shape'
+		 [23] 'Left mandible, internal tooth, degree of development'
+		 [24] 'Left mandible, molar region, shape'
+		 [25] 'Left maxilla, stipes, shape'
+		 [26] 'Left maxilla, stipes, ventral seta'
+		 [27] 'Left maxilla, galeo-lacinial complex, length in relation to maxillary palp'
+		 [28] 'Left maxilla, palpiger, setae, arrangement'
+		 [29] 'Left maxilla, palpiger, ventral region, shape'
+		 [30] 'Left maxilla, palpiger, dorsal region, shape of proximal margin'
+		 [31] 'Left maxilla, palpomere I, apical setae, number'
+		 [32] 'Left maxilla, palpomere I, apical setae, length'
+		 [33] 'Left maxilla, palpomere I, shape'
+		 [34] 'Left maxilla, palpomere II, length in relation to palpomere I'
+		 [35] 'Labium, prementum, aspect ratio'
+		 [36] 'Labium, prementum, lateral margins, shape'
+		 [37] 'Labium, prementum, apical-lateral region, shape'
+		 [38] 'Labium, prementum, central longitudinal band of setae'
+		 [39] 'Labium, prementum, lateral oblique band of setae'
+		 [40] 'Labium, prementum, apical-lateral setae, number'
+		 [41] 'Labium, prementum, ligula, degree of development'
+		 [42] 'Labium, prementum, distance between palpi'
+		 [43] 'Labium, palpomere I, shape'
+		 [44] 'Labium, palpomere I, proximal ventral setae, number'
+		 [45] 'Labium, palpomere II, length in relation to palpomere III'
+		 [46] 'Labium, palpomere III, lateral setae, number'
+		 [47] 'Pronotum, proximal margin, shape'
+		 [48] 'Male, pronotum, lateral margins, curvature'
+		 [49] 'Male, pronotum, lateral margins, direction at base'
+		 [50] 'Pronotum, lateral margins, curvature, sexual dimorphism'
+		 [51] 'Pronotum, lateral margins, direction at base, sexual dimorphism'
+		 [52] 'Male, pronotum, apical constriction'
+		 [53] 'Male, pronotum, setae, shape'
+		 [54] 'Pronotum, setae, shape, sexual dimorphism'
+		 [55] 'Pronotum, setae, color, sexual dimorphism'
+		 [56] 'Pronotum, setae along the longitudinal midline'
+		 [57] 'Male, profemora, lateral view, shape'
+		 [58] 'Male, profemora, ventral tooth, degree of development'
+		 [59] 'Male, protarsi, tarsomere I, length in relation to tarsomere III'
+		 [60] 'Male, protarsi, tarsomeres I and II, shape'
+		 [61] 'Female, protarsi, tarsomeres I and II, shape'
+		 [62] 'Male, protarsi, ventral setae, length'
+		 [63] 'Scutellum, vestiture, color'
+		 [64] 'Elytra, humeri, dorsal view, shape'
+		 [65] 'Elytra, lateral margins, shape'
+		 [66] 'Elytra, dorsal region, vestiture, color'
+		 [67] 'Elytra, dorsal region, vestiture, whether sexually dimorphic'
+		 [68] 'Elytra, epipleura, vestiture, color'
+		 [69] 'Elytra, epipleura, degree of inflexion'
+		 [70] 'Ventral region, vestiture, color in relation to dorsal region'
+		 [71] 'Hypomeron, vestiture, shape of scales'
+		 [72] 'Hypomeron, region further from coxal cavities, vestiture, shape and size in of scales in relation to those in pronotum'
+		 [73] 'Male, hypomeron, region next to coxal cavities, vestiture, shape and size of scales'
+		 [74] 'Hypomeron, region next to coxal cavities, vestiture, sexual dimorphism'
+		 [75] 'Prosternum, postocular lobes'
+		 [76] 'Prosternum, elongated apical setae'
+		 [77] 'Prosternum, vestiture, density'
+		 [78] 'Prosternum, vestiture, shape and size of scales in relation to those in pronotum'
+		 [79] 'Prosternum, scales, apex, shape'
+		 [80] 'Prosternum, distance between coxal cavities'
+		 [81] 'Metepisternum, vestiture, density'
+		 [82] 'Male, metasternum, concavity, sharpness of edges'
+		 [83] 'Male, metasternum, concavity, vestiture, shape of setae'
+		 [84] 'Female, metasternum, vestiture, shape of setae'
+		 [85] 'Male, ventrites III-V, vestiture, arrangement and shape of setae'
+		 [86] 'Female, ventrites III-V, vesitutre, arrangement and shape of setae'
+		 [87] 'Female, ventrites III-IV, degree of retraction'
+		 [88] 'Female, ventrites III-IV, shape of posterior margin'
+		 [89] 'Male genitalia, aedeagus, aperture, shape'
+		 [90] 'Male genitalia, aedeagus, shape of apex'
+		 [91] 'Male genitalia, aedeagus, ventral sclerotization, length'
+		 [92] 'Male genitalia, aedeagus, ventral plate, degree of sclerotization'
+		 [93] 'Male genitalia, endophallus, lateral pockets with microtrichiae'
+		 [94] 'Male genitalia, endophallus, proximal complex sclerite'
+		 [95] 'Male genitalia, endophallus, paired distal sclerites'
+		 [96] 'Male genitalia, endophallus, paired distal sclerites, shape'
+		 [97] 'Male genitalia, endophallus, hook-shaped sclerite'
+		 [98] 'Male genitalia, endophallus, round-shaped distal sclerite'
+		 [99] 'Male genitalia, endophallus, distal sclerite shaped a double hook'
+		 [100] 'Male genitalia, endophallus, distal slightly sclerotized area'
+		 [101] 'Male genitalia, endophallus, microtrichiae'
+		 [102] 'Male genitalia, endophallus, microtrichiae, arrangement'
+	;
+	STATELABELS
+		1
+		'yellowish'
+		'reddish'
+		'reddish-brown'
+		'black'
+		,
+		2
+		'Males and females about the same size'
+		'Male rostrum much longer than female''s'
+		,
+		3
+		'none'
+		'two'
+		'three'
+		'five'
+		'seven'
+		,
+		4
+		'all carinae distinct from base to apex'
+		'two lateralmost carinae indistinct near base'
+		'all carinae indistinct'
+		,
+		5
+		'no dimorphism'
+		'female with no carinae at base'
+		'female with no carinae throughout'
+		,
+		6
+		'parallel to rostrum'
+		'directed obliquely downwards'
+		,
+		7
+		'microsetae'
+		'thin elongated scales'
+		'wide scales'
+		,
+		8
+		'yellowish'
+		'orange'
+		'reddish-brown'
+		'black'
+		,
+		9
+		'narrow to setiform'
+		'wide scales'
+		'microsetae'
+		,
+		10
+		'directed towards central carina'
+		'directed towards base of rostrum'
+		'not oriented'
+		,
+		11
+		'median'
+		'distal'
+		,
+		12
+		'color similar to rostrum'
+		'distinctly lighter than the rostrum'
+		'distinctly darker than the rostrum'
+		,
+		13
+		'microsetae'
+		'with microsetae and large scales'
+		'mostly covered by large scales'
+		,
+		14
+		'directed to a point slightly more proximal than the interocular fovea'
+		'directed to the base the rostrum'
+		'directed to the interocular fovea'
+		,
+		15
+		'uniformly yellowish'
+		'uniformly dark'
+		'varying from dark to yellowish or orange'
+		,
+		16
+		'not reaching the eye margin'
+		'reaching the eye margin'
+		'extending beyond the eye margin'
+		,
+		17
+		'straight'
+		'curved'
+		,
+		18
+		'7'
+		'6'
+		,
+		19
+		'not sinuate'
+		'slightly sinuate'
+		'strongly sinuate'
+		,
+		20
+		'one very short seta'
+		'none'
+		'one long seta'
+		'one long and one short seta'
+		'three setae'
+		,
+		21
+		'evenly curved with the lateral margin'
+		'sharply angled in relation to the lateral margin'
+		,
+		22
+		'pointed'
+		'rounded to truncated'
+		,
+		23
+		'well developed'
+		'indistinct to poorly developed'
+		,
+		24
+		'straight'
+		'sinuate'
+		,
+		25
+		'subquadrate'
+		'moderately elongated'
+		'strongly elongated'
+		,
+		26
+		'absent'
+		'present'
+		,
+		27
+		'not reaching the apex of palpomere I'
+		'reaching the apex of palpomere I'
+		'reaching beyond the apex of palpomere I'
+		,
+		28
+		'seven long and several short setae'
+		'only one seta'
+		'one long seta and several short setae'
+		'two short setae of approximatelly equal length'
+		'three short setae of approximatelly equal length'
+		'two long and two short setae'
+		,
+		29
+		'transversal'
+		'subquadrate'
+		'elongated'
+		,
+		30
+		'evenly curved'
+		'with an obtuse angle'
+		'with an acute angle'
+		,
+		31
+		'none'
+		'one'
+		'two'
+		'three'
+		,
+		32
+		'elongated'
+		'short'
+		,
+		33
+		'transversal'
+		'wider than long'
+		'longer than wide'
+		,
+		34
+		'longer than palpomere I'
+		'about as long as palpomere I'
+		'shorter than palpomere I'
+		,
+		35
+		'about 2 times as wide as long'
+		'about 1.5 as wide as long'
+		'about as long as wide'
+		'longer than wide'
+		,
+		36
+		'diverging in the median region'
+		'parallel in the median region'
+		,
+		37
+		'retracted'
+		'forming a right angle'
+		'lobed'
+		,
+		38
+		'absent'
+		'present'
+		,
+		39
+		'absent'
+		'present'
+		,
+		40
+		'one'
+		'2-4'
+		'more than 4'
+		,
+		41
+		'about as long as the prementum'
+		'about 0.5 times the length of prementum'
+		'present but less than 0.5 times the length of prementum'
+		'present and barely visible'
+		'absent'
+		,
+		42
+		'less than half the width of palpomere I'
+		'about half the width of palpomere I'
+		'about the same as the width of palpomere I'
+		,
+		43
+		'wider than long'
+		'about as wide as long'
+		'longer than wide'
+		,
+		44
+		'one'
+		'three long setae'
+		'one long seta and many shorter ones'
+		,
+		45
+		'shorter than palpomere III'
+		'about as long as palpomere I'
+		'longer than palpomere I'
+		,
+		46
+		'absent'
+		'one'
+		'two'
+		,
+		47
+		'not lobed in the middle'
+		'slightly lobed in the middle'
+		'strongly lobed in the middle'
+		,
+		48
+		'evenly curved'
+		'with an inflexion in median region'
+		,
+		49
+		'diverging'
+		'parallel'
+		'subparallel'
+		'converging'
+		,
+		50
+		'No dimorphism'
+		'Males evenly curved and females with an inflection in the median region'
+		'Males with an inflection in the median region and females evenly curved'
+		,
+		51
+		'No dimorphism'
+		'Females with margins more convergent than males'
+		,
+		52
+		'with a slight constriction'
+		'without constriction'
+		,
+		53
+		'with scales on the sides and microsetae on the disc'
+		'scales'
+		'long setae'
+		'short setae and thin scales'
+		'short setae'
+		,
+		54
+		'Not sexually dimorphic'
+		'Males with scales and females with microsetae on the disk'
+		,
+		55
+		'not sexually dimorphic'
+		'sexually dimorphic, with males always yellow'
+		,
+		56
+		'directed towards the base'
+		'directed towards the apex'
+		'directed towards the center'
+		,
+		57
+		'about equally curved in dorsal and ventral margins'
+		'distinctly more straight on dorsal margin'
+		'distinctly more straight on ventral margin'
+		,
+		58
+		'absent'
+		'poorly developed'
+		'well developed'
+		,
+		59
+		'approximately as long as tarsomere III'
+		'slightly longer than tarsomere III'
+		'more than 3 times longer than tarsomere III'
+		,
+		60
+		'distinctly longer than wide'
+		'slightly longer than wide'
+		'as long as wide'
+		'slightly wider than long'
+		'distinctly wider than long'
+		,
+		61
+		'longer than wide'
+		'as long as wide'
+		'slightly wider than long'
+		,
+		62
+		'without long hairs'
+		'with long hairs'
+		,
+		63
+		'uniformly yellow to orange'
+		'bicolor'
+		'uniformly dark'
+		,
+		64
+		'with a marked angle'
+		'rounded'
+		,
+		65
+		'wider in the middle'
+		'subparallel'
+		,
+		66
+		'uniformly yellow to orange'
+		'bicolor'
+		'uniformly dark'
+		,
+		67
+		'not sexually dimorphic'
+		'sexually dimorphic, with males always yellow'
+		,
+		68
+		'similar to the disc'
+		'with a band of dark scales'
+		,
+		69
+		'with a smooth inflexion'
+		'with a sharp inflexion'
+		,
+		70
+		'similar'
+		'distinctly lighter-colored'
+		,
+		71
+		'microsetae'
+		'setiform'
+		'acuminate'
+		'truncated'
+		,
+		72
+		'distinctly more elongated'
+		'slightly more elongated'
+		'similar'
+		'wider'
+		,
+		73
+		'similar'
+		'wider'
+		,
+		74
+		'not sexually dimorphic'
+		'scales more elongated in females than in males'
+		,
+		75
+		'absent'
+		'present'
+		,
+		76
+		'absent'
+		'present'
+		,
+		77
+		'very sparse'
+		'non-overlapping to slightly overlapping'
+		'widely overlapping'
+		,
+		78
+		'more elongated'
+		'similar'
+		'wider'
+		,
+		79
+		'microsetae'
+		'setiform'
+		'acuminate'
+		'truncated'
+		,
+		80
+		'separate'
+		'contiguous'
+		,
+		81
+		'non-overlapping'
+		'overlapping'
+		,
+		82
+		'indistinct'
+		'with smooth edges'
+		'with sharp edges'
+		,
+		83
+		'microsetae'
+		'long setae'
+		'scales'
+		,
+		84
+		'microsetae'
+		'long setae'
+		'scales'
+		,
+		85
+		'recumbent hairs'
+		'erect hairs'
+		'elongated scales'
+		'elongated scales and recumbent hairs'
+		'microsetae'
+		,
+		86
+		'recumbent setae'
+		'elongated scales'
+		'microsetae'
+		,
+		87
+		'not retracted'
+		'slightly retracted'
+		'strongly retracted'
+		,
+		88
+		'non-sinuate'
+		'slightly sinuate'
+		'strongly sinuate'
+		,
+		89
+		'narrower than the anterior region'
+		'as wide as the anterior region'
+		'slightly wider than the anterior region'
+		'strongly wider than the anterior region'
+		,
+		90
+		'not constricted'
+		'constricted and acute, round or truncated'
+		'constricted and bilobed'
+		,
+		91
+		'not extending beyond the insertion of apodemes'
+		'extending beyond the insertion of apodemes'
+		,
+		92
+		'well sclerotized'
+		'poorly sclerotized'
+		,
+		93
+		'absent'
+		'present'
+		,
+		94
+		'absent'
+		'present'
+		,
+		95
+		'absent'
+		'present'
+		,
+		96
+		'L-shaped'
+		'rounded'
+		'elongated'
+		,
+		97
+		'absent'
+		'present'
+		,
+		98
+		'absent'
+		'present'
+		,
+		99
+		'absent'
+		'present'
+		,
+		100
+		'absent'
+		'present'
+		,
+		101
+		'present'
+		'absent'
+		,
+		102
+		'all within the aedeagus'
+		'not organized in stripes'
+		'organized in a pair of longitudinal bands in the apical region'
+		'organized in a pair of longitudinal bands in the median region'
+		'organized in one transversal band in the apical region'
+		
+	;
+	MATRIX
+	'Anchylorhynchus aegrotus'		                       ?040010?1010102101020110112202211111100?300201101111?002020100?10?00102210012031121000101111010-000003
+	'Anchylorhynchus albidus'		                        30420102001122010112000???????????0????????2??103000100102??10000000002200011021021000202110010-000001
+	'Anchylorhynchus amazonicus'		                     ?0400100101?2200010200011?2221302111201211221210?000100002021101?0000?31100110210100??1021110110000001
+	'Anchylorhynchus imitator [sp5]'		                 ?0400100101?22000102000110222130211120121122120020101000020211001000003210011??10122211021110110000001
+	'Anchylorhynchus bicarinatus'		                    ?0?00110111?22010102000101121220111111021122211110011002020210011000002200112221012221101111010-000101
+	'Anchylorhynchus bicolor'		                        ?040010?101022010122100021020220200101124002210020001001020320001?01003210012131010021202010110-000002
+	'Anchylorhynchus bucki'		                          ?04001001010?0010102011011220221211100022112110010011000020320201101002010011021000000102111010-000001
+	'Anchylorhynchus burmeisteri'		                    ?0400100?01?21010122000121020221210101023012111130001000120320111?01013310012031122231212110110-000001
+	'Anchylorhynchus multisquamis [sp1]'		             ?04001001010220101020000??????????0????2???2??11300110000103200110010133000121311222211020111112000001
+	'Anchylorhynchus camposi'		                        ?04001001010220101020001111211302110101211121210?00010000202110010000032000110210200211021110110000001
+	'Anchylorhynchus rectus [sp2]'		                   ?04001001010220001021101112221302111201211121210101010000213110010000032100110210211211021110110000001
+	'Anchylorhynchus minimus'		                        ?040010010102201011211001112120?211111023002111020001001020210010??0013110011031021100201110110-000001
+	'Anchylorhynchus trapezicollis'		                  ?0400100?01?220101020000111221302000201212121200300?1002021201010000?121100110210211102021100111000001
+	'Anchylorhynchus latipes [sp3]'		                  ?0400100?010220001020000111221302111201212121200300110020214010100000121000110210200211021100111000001
+	'Anchylorhynchus goiano [sp6]'		                   ?0400100?010220101021000112221302001201212122200100?10020212110000000122100120210211102021100111000001
+	'Anchylorhynchus tremolerasi'		                    ?040010?101?22?1012210002102022121010102300220??200?1001020210?10?0?0?3111012031120021212010110-000002
+	'Anchylorhynchus chrysomeloides [sp4]'		           ?0400100101022?101221001210202201001210240121011200?100102032021010?013210012131120221202010110-000002
+	'Anchylorhynchus tricarinatus'		                   ?02001201110220101040000010212212211111212221211300?1001020100011000002300112221111221202110110-000004
+	'Anchylorhynchus variabilis'		                     ?0400100?01?10?10112111021120220201000122202010030011002020100010?11?11?00012?11121110223211110-000001
+	'Anchylorhynchus vittipennis'		                    ?0400100101?102101121010210202212110101221020100300?0001020100210?0?103210011031021110212111110-000001
+	'Anchylorhynchus pinocchio [sp7]'		                314200001011220211020000111221212021001210121111101?100001200100000000?300012021101100202111110-000001
+	'Anchylorhynchus centrosquamatus [sp8]'		          ?0400100101?220001120000012221302111201211121210300010020203110000000132100121210200011011101110000001
+	'Anchylorhynchus luteobrunneus [sp9]'		            ?041011?101022?10102000011122120210110122102011112001000021101?11?0?01?200012121111100201110110-000001
+	'Anchylorhynchus parcus'		                         1040?10??010222101221000??????????01?????00???111??01??10202?10010?001321?011131020?3?????????0-??????
+	'Anchylorhynchus vanini'		                         ?04?0100001010210103?1001100?23121111102201111101111111202?????11000112000012021020140201111010-000001
+	'Elaeidobius kamerunicus'		                        2030100000000?000001000001030110002100010020102030012000000210001200?10?00000?0000110000100?000-10001?
+	'Elaeidobius subvittatus'		                        ?0301000000000000001000010030111003110010021001010004000000210001000000?00000?0000110000000?000-00001?
+	'Celetes langei'		                                 ?03220002?002000000000001104111101110002311010000000300?011100?01000010?00000?01110040001110000-010000
+	'Celetes binotatus'		                              ?0302000001010010010000011251111002100023100110000002001221100001000001?00001?11121110001010000-000000
+	'Andranthobius bondari'		                          ?00-000002010?000000000000110000001000000100001010004000001100000000000?00000?0000004200310??00-001?0?
+    ;
+    ENDBLOCK;
+
+          BEGIN ASSUMPTIONS;
+      TYPESET * UNTITLED = unord: 1 - 2 4 - 24 26 28 30 - 32 36 - 40 44 46 - 58 62 - 102, ord: 3 25 27 29 33 - 35 41 - 43 45 59 - 61;
+      ENDBLOCK;
+      

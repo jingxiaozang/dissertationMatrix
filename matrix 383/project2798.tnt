@@ -1,0 +1,186 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 09.38.43'
+92 76
+
+&[num]
+Prokennalestes_spp.                   01?00?001000000010?000000000000000000100100102000101???????01?0000001001010??101000010?000??
+Aspanlestes_aptap                     00?00?001?0?000?100000000000101000001100100101000110???????0100000000001010010000001010010?0
+Protungulatum_donnae                  ??????????0000011000010101002011000011001001020?1001???????????0000010010?001101000111001?00
+Paratricuspiodon_krumbiegeli          ????????????00011010010100002010001011001001010?0110???????????000?1010100011101010101001200
+Tricuspiodon_spp.                     01000010000000?1?00001010100201000101?0?10?1011??110???????0000000010100000111010001??001200
+Maiorana_noctiluca                    ???????000000001100001010100201000001100100102001101???????000000000010100001101000112001110
+Mimatuta_spp.                         ???????00000000110000101010020110000110010010200??01???????????000000101?0001101000112001110
+Mithrandir_gillianus                  ??????????00010100?0010101101011001011001001010??101??????????000000010100013101000112001210
+Conacodon_spp.                        ???????????001000010010101101011001011001001010?2101???????000000000010200013101100112001211
+Ectoconus_ditrigonus                  000000100000011110000101011?2011001001001001010?11011??00000000000000?0110011101000112001210
+Hemithlaeus_kowalevskianus            ???????????0010000?0010101111011001011001001010?0101??????????00000001011002?101000112001210
+Periptychus_spp.                      00000?1000000?0100010101011?1011001011001001010??1??1??000?000000000010100011101000111001210
+Haploconus_angustus                   ???????00000000000?0010?0?20?010001011001001010?0101???????000000000010100123101000112001210
+Oxyprimus_galadrielae                 ???????????000011000010101002011000011001001020?1001???????????0000010010000100100011100110?
+Molinodus_suarezi                     ???????0??0000?11000010101002111000011000101020?1001???????????00000000100011101000111011000
+Tiuclaenus_spp.                       0??000100000000010?00111010010?10000?1020001020011?1???????????0000?0001000211010001110010?0
+Simoclaenus_sylvaticus                ???????00?0000?110000101010020110000110000010?001101???????????????0000100011101000111011000
+Simpsonotus_praecursor                00011011??000001100001010????110100011001?010110?101???00010000000010002000212110?0111001200
+Protolipternidae                      01000010000000021000010100002010000011001001020??101???????????10001000100021201000111001200
+Protoselene_spp.                      ???????0???0110010?001010?10??11000011001001020???01???????????000000101?0011?01000111001200
+Promioclaenus_spp.                    0??00?100?00000?100001110100202100001100110102001101??????????000000010100121001000111001100
+Choeroclaenus_turgidunculus           ???????????0010010?001010100201100001100100102001?00???????????00000010100011001000111001100
+Mioclaenus_turgidus                   ???????0???001?000??0111?10020?100011100000102010011???????0??0000000?0100021111000111101100
+Litaletes_spp.                        0??00?10000000?110000101010020?00000?10010010201?001??????????000000010100?21001000111001?00
+Hyopsodus_spp.                        00000010010000011000010101002111000011001001020?1?01201000000000000?010200021?11000111001200
+Diacodexis_spp.                       000000100?00100010?001110100202?0000?1001001010?00011?100000000000000101000110010001110?1?0?
+Bunophorus_spp.                       ???????????0??0010?001?101002021000?21001011010?0001???????????00000010100011?0?0?0111001?0?
+Desmatoclaenus_hermaeus               ?????????????00110??010101002011000011001001020??00????????????00000010100011101000111001?00
+Tetraclaenodon_puercensis             ????0?10000000?210000101010?201110001?001001020??100???????0000100000001?0121101000111001200
+Meniscotherium_spp.                   01000010010000021000010100011120100010011?1201???1001000000001020001010220031011000111201200
+Phenacodus_spp.                       0?000?10000000?2100001010000201110001?101001010??100100000000?0200000?0110?211?1000111?0120?
+Copecion_spp.                         00?00?10000000021000010100002010100011001011010??1?0???????00?020000000110121101000111?01200
+Ectocion_spp.                         0000001000100012100001010?012110100011001001010??100?????00000020000000210121111000111001200
+Cambaytherium_thewissi                01?00?100010000?100001010001201010001200100001100002???????000010000000100021111010111201200
+Protorohippus_spp.                    0100001000100012100001010?011110100011001011001??00210000000??020000000200021011000?01201201
+Homogalax_spp.                        00?0001001100012100001010?011110100011011011001??0021??0000001020001000200020011000?01201200
+Baioconodon_spp.                      ???????0000000011000010101002011000011001001020?1001???????0?0000000?101000?1001000111001100
+Loxolophus_hyattianus                 ???????0000000001000011101102011000021001001020?1?0110000000000000000?01?0011101000101001100
+Carcinodon_spp.                       ???????????0000010?0000101002011000011001001020?1011???????????000?00?01000?11010001010?1?0?
+Deltatherium_spp.                     00?00?1000110001100000000?0000100000110010010?0??001101000000010000001010?00?10?0?01?0001111
+Chriacus_pelvidens                    ???????00?1000?1100000100100201000002100101101000101???????????000000?0100011?01000100001211
+Chriacus_gallinae                     011000100010000010?0000101102010000012001011010?0101???????000000000010100?13001000101001311
+Thryptacodon_antiquus                 011000100010000010?0011101111011000021001011010?21011010100000000000010100121001000101001201
+Mimotricentes_subtrigonus             ???????00?00000010?0011101?0201?0000210010?1020?1001???????000100000010110021101000101001201
+Lambertocyon_eximius                  00?00?100000000110000111001010100000210010010?0?1001???????000?000000?0110020100000101001201
+Claenodon_spp.                        ???????00000000010?001010?002011000121001011010?2001???????000000000000100011001000101001?01
+Mentoclaenodon_mumak                  001000100010000000?00101000?201101111?011?11010?0001101????????000?0000100011001000101001???
+Anacodon_ursidens                     001????0?01?000020?10101000?202101112?0?1??101??0001???????000?00000000100??0?01000101001201
+Eoconodon_spp.                        ???????00010000010?000010100201000011100101102001010???????000000000010100001000000100001100
+Goniacodon_levisanus                  0??0???000?000?010??0001010020100001?1001011020?2110???????????000000?010?0?30010001000011?0
+Oxyclaenus_cuspidatus                 ???????0?0?000?010?0000?01011010000002001001020??010???????0?0?00??00?0100011001000101001100
+Walbeckodon_krumbiegeli               0??00?100?010001100010010011101000001100100101000110???????????10000000100001000000101001200
+Paschatherium_spp.                    00?00?100??000011000110100111010000011001001000?0110???????????10000000100011100000101001200
+Prolouisina_atavella                  ????????????1101100011110011101000100100001100000110???????????10000000100121101000101001200
+Teilhardimys_spp.                     ???????0???0100010?0110?0010101000?011000?11000?0010????????????00000?01000210?1000101201200
+Haplaletes_disceptatrix               ???????0010000011000111100111020000021001011000?0001???????????00000010100121001000111001200
+Litomylus_dissentaneus                ???????00?0110011000011100111011000011001011010?0001???????????00000010100011001000111001200
+Phenacodaptes_sabulosus               0??00?100000010000?0011100111011000012001001010?0000???????????00010000100121101000111001200
+Apheliscus_spp.                       000001100100000000?001?100111020000022001011010?0000???????000000010000100121101000101001200
+Haplomylus_spp.                       ???????????010021000011100111011000011001011010?01?0???????????10001010100021001000112?01200
+Chambius_kasserinensis                0??00?100?001001100011010011101000000101001100?10110???????????20000000100021?01000101001200
+Orthaspidotherium_edwardsi            0??00?10???01001100001110011101000001100101101000100???????000010000010120003011100101?00??0
+Pleuraspidotherium_aumonieri          00000010001?1002100?01010?111110?00011011?11010??1001??0000000020000010220013011100110?01001
+Ocepeia_daouiensis                    00?0???00012100010?011010100111010001110100101100001???????000200001000120001101100111?010?1
+Abdounodus_hamdii                     ????????????100010-0010101101010000112001201010?0101???????????000?10?012000311?100101?010?0
+Eritherium_azzouzorum                 11?100100?0010011000010100???01000001200120101100001???????0??00000000012000311?100101?010?0
+Phosphatherium_escuilliei             11101?100?0110011000010100???010000011011201011??002???????00?01000100012000321?100101?010?0
+Dimaitherium_patnaiki                 ???????????00012100001010011111010001100101101100002???????011020000010220003011100101?010?0
+Thyrohyrax_spp.                       01000110010010121000010100011110100011001011011100022010000011020001010220003011100101?010?0
+Pahelia_mysteriosa                    ??????????0?000010?01101??111010000001001?1100100001????????????????????????????????????????
+Machocyon_abbasi                      ???????00000000010?001010111101000001100100101000001???????000?000000?0110011101000101?010?0
+Quettacyon_parachai                   ???????000??00?010?00101??11101000001100100101000001????????????????????????????????????????
+Sororocyon_usmanii                    ????????????000010?00101??11101000001100100101100001???????000??????????????????????????????
+Lessnessina_spp.                      ???????00?0?100010?0010101002010000012?010010100?1?0???????0??000101000110121?01000001001100
+Sigynorum_magnadivisus                ???????00?0000?010?001010100201000001100100102001101????????????????????????????????????????
+Kharmerungulatum_vanvaleni            ????????????????????00???1???0?0000001000?0102010???????????????????????????????????????????
+
+;
+
+
+cnames
+{ 0 Size_of_i1 small enlarged;
+{ 1 i1_root_orientation Vertically_implanted Horizontally_implanted_(proclivous);
+{ 2 i1_crown_shape "Short,_relatively_conical_or_spatulate,_crown_width_and_height_subequal" Elongate,_narrow,_and_pointed;
+{ 3 i2_size small enlarged;
+{ 4 Presence_of_i3 Present Absent;
+{ 5 i1-3_cusp_number Dominated_by_one_prominent_cusp,_one_or_two_small_basal_accessory_cusps_may_be_present Crowns_digitate,_with_two_or_more_well_developed_cusps,_generally_subequal_in_height_and_linearly_arranged;
+{ 6 i4_presence present absent;
+{ 7 Presence_of_c1 present absent;
+{ 8 Number_of_roots_of_c1 one two;
+{ 9 Morphology_of_c1 caniniform incisiform_or_premolariform;
+{ 10 postcanine_diastema absent present;
+{ 11 lower_premolar_number Four_or_five Three Two One Zero;
+{ 12 lower_premolar_shape Mesiodistally_short_but_tall Elongate_and_low;
+{ 13 lower_premolar_inflation Uninflated Strongly_inflated;
+{ 14 p3_molarization Simple,_premolariform Partly_or_completely_molarized;
+{ 15 Molarization_of_p4 Premolariform Semimolariform Submolariform;
+{ 16 p4_size Larger_and_more_massive_than_m1 Subequal_to_m1_size Reduced,_smaller_than_m1;
+{ 17 p4_protoconid_orientation erect retroflexed;
+{ 18 p4_metaconid_shape conical,_similar_to_m1 transversely_compressed,_connected_to_protoconid_by_a_ridge;
+{ 19 p4_protostylid absent present;
+{ 20 m2_enamel_distention Weak_or_absent,_buccal_enamel_does_not_extend_further_basally_than_lingual_enamel Stronger,_buccal_enamel_extends_further_basally_than_lingual_enamel,_crown_skewed;
+{ 21 m1-2_trigonid_heights Tall,_trigonids_much_taller_than_talonid Lower,_trigonid_somewhat_elevated_above_talonid_or_even_with_talonid;
+{ 22 m2_trigonid_angulation Trigonid_erect,_distal_wall_of_trigonid_perpendicular_or_nearly_perpendicular_to_alveolar_margin_of_dentary Trigonid_canted_mesially,_distal_wall_of_trigonid_inclined_relative_to_a_plane_perpendicular_to_alveolar_margin_of_dentary;
+{ 23 m2_paracristid_salience Salient,_paracristid_erect_and_crestiform Flattened,_paracristid_forms_a_blunt_shelf;
+{ 24 m1_paracristid_carnassial_notch Absent Present;
+{ 25 m2_paraconid Mesiodistally_compressed_(crestiform) Basally_swollen_(conical);
+{ 26 m2_paraconid_position Lingual,_immediately_mesial_or_slightly_mesiobuccal_to_metaconid Median,_mesial_to_protocristid_(=trigonid)_notch Buccal,_immediately_mesial_to_protoconid;
+{ 27 m2_paraconid_height Paraconid_of_m2_tall,_height_approaches_that_of_remaining_trigonid_cusps Paraconid_of_m2_substantially_lower_than_remaining_trigonid_cusps;
+{ 28 m2_paraconid_metaconid_appression Paraconid_of_m2_well-separated_from_metaconid,_trigonid_open Paraconid_of_m2_appressed_to_metaconid,_but_well_separated_apically_by_a_distinct_notch Paraconid_of_m2_extensively_fused_to_metaconid_(connate),_cusps_joined_for_most_of_the_paraconid_s_apicobasal_height,_frequently_forming_a_trigonid_fovea_that_is_elevated_above_the_base_of_the_trigonid;
+{ 29 m2_protocristid_strength Protocristid_weak,_trigonid_notch_between_the_protoconid_and_metaconid_deep Protocristid_strong,_forming_a_well-developed,_elevated_transverse_shearing_crest;
+{ 30 m2_metaconid_height Significantly_lower_than_protoconid Subequal_to_protoconid_in_height Significantly_taller_than_protoconid;
+{ 31 m2_metaconid_inflation Uninflated,_metaconid_not_expanded_into_mesiolingual_talonid_basin Inflated,_base_of_metaconid_expanded_into_mesiolingual_talonid_basin;
+{ 32 m2_metastylid Absent Present;
+{ 33 m2_distal_protocristid Absent_or_forming_a_weak_connection_between_cristid_obliqua_and_apex_of_protoconid Strong,_forming_a_prominent_crest_on_the_distal_edge_of_the_protoconid;
+{ 34 m2_enamel_hypsodonty Weak_or_absent,_base_of_talonid_basin_near_base_of_crown Strong,_base_of_talonid_basin_markedly_elevated_above_base_of_crown;
+{ 35 m2_cusp_relief Strong,_talonid_basin_deep Weak,_talonid_basin_shallow;
+{ 36 m2_talonid_width Substantially_narrower_than_trigonid Width_subequal_to_trigonid_width Substantially_broader_than_trigonid;
+{ 37 m2_cristid_obliqua_contact Lingual,_cristid_obliqua_contacts_trigonid_below_metaconid Median,_cristid_obliqua_contacts_trigonid_below_trigonid_notch Buccal,_cristid_obliqua_contacts_trigonid_below_protoconid;
+{ 38 m2_mesoconid Absent_or_weak Well-developed;
+{ 39 m2_postcristid_orientation Oblique_to_the_mesiodistal_axis_of_tooth Transverse_or_nearly_transverse Absent;
+{ 40 appresion_of_m1_hypoconid_and_hypoconulid Appressed,_hypocristid_short Well-separated,_hypocristid_elongate;
+{ 41 m2_hypoconulid_shape Hypoconulid_relatively_conical,_separated_from_hypoconid_and_entoconid_by_notches_or_inflections Hypoconulid_crestiform,_forming_a_smooth,_low_border_to_the_distal_margin_of_the_talonid Hypoconulid_twinned;
+{ 42 m2_hypoconulid_size Well_developed,_but_typically_smaller_than_remaining_talonid_cusps,_may_be_subequal_to_entoconid Reduced,_much_smaller_than_remaining_cusps;
+{ 43 m2_hypoconulid_position Shifted_buccal_to_a_mesiodistal_line_through_the_trigonid_notch Near_or_slightly_lingual_to_midline,_on_or_close_to_a_mesiodistal_line_passing_through_the_trigonid_notch Shifted_well_lingual_to_a_line_through_the_trigonid_notch,_distal_or_slightly_distobuccal_to_the_entoconid;
+{ 44 m2_entoconid_position At_lingual_margin_of_crown Buccal_to_lingual_margin;
+{ 45 m2_entoconid_height Taller_than_hypoconid Subequal_to_height_of_hypoconid Lower_than_hypoconid_but_well_developed Lower_than_hypoconid,_reduced_to_absent,_talonid_semitrenchant_or_trenchant;
+{ 46 m2_postentocristid_orientation Directed_towards_hypoconulid Directed_towards_hypoconid,_does_not_contact_hypoconulid;
+{ 47 m2_entoconulid_presence absent present;
+{ 48 m2_entocristid-metaconid_contact Entocristid_contacts_base_of_metaconid,_aligning_with_postmetacristid_(if_present) Entocristid_wraps_around_base_of_metaconid Entocristid_splits_near_mesial_terminus,_one_portion_contacts_postmetacristid,_while_the_other_wraps_around_base_of_metaconid;
+{ 49 m2_size Significantly_larger_than_m1 Subequal_to_m1 Significantly_smaller_than_m1;
+{ 50 m3_size Unreduced,_m3_trigonid_size_subequal_to_or_larger_than_m2_trigonid_size Reduced,_m3_trigonid_significantly_smaller_than_m2_trigonid m3_Absent;
+{ 51 m3_hypoconulid_development Unenlarged_or_slightly_enlarged_relative_to_m1_and_m2_hypoconulids Enlarged Strongly_enlarged,_forming_a_third_lobe_due_to_cusp_duplication_or_development_of_a_transverse_crest;
+{ 52 I1_size Absent Small Enlarged;
+{ 53 I1_basolingual_cusp Weak_or_absent Well_developed;
+{ 54 I1_buccal_cusp_shape Flattened_and_chisel_shaped Pointed_or_apiculate Divided_into_two_or_three_well_developed_cusps;
+{ 55 I2_presence Present Absent;
+{ 56 I2_size_and_morphology Small Enlarged;
+{ 57 I3_presence Present Absent;
+{ 58 I3_size Subequal_to_or_smaller_than_I1-2 Enlarged;
+{ 59 C1_presence present absent;
+{ 60 C1_roots one two;
+{ 61 C1_morphology caniniform incisiform_or_premolariform;
+{ 62 Upper_premolar_number Four Three Two One Zero;
+{ 63 P4_molarization Premolariform Semimolariform Submolariform;
+{ 64 P4_metastyle Short Strongly_elongate;
+{ 65 P4_protocone_position Lingual_to_paracone Mesiolingual_to_paracone;
+{ 66 P4_buccal_view Level Inclined,_bridging_a_?split-level?_dentition,_with_bases_of_more_mesial_teeth_superior_to_bases_of_molars;
+{ 67 M2_buccal_cingulum Present,_continuous_or_nearly_continuous_around_bases_of_parastyle_and_metastyle Weak,_restricted_to_bases_of_para-_and_metastyles_or_absent;
+{ 68 M2_parastylar_region Preparacrista_short_and_directed_mesially_or_mesiobuccally,_parastyle_close_to_paracone,_precingulum_or_preparaconule_crista_contacts_buccal_margin_of_crown,_stylocone_absent Preparacrista_elongate_and_directed_more_buccally_than_mesially,_parastyle_well-separated_from_paracone,_precingulum_or_preparaconule_crista_contacts_buccal_margin_of_crown,_stylocone_present Preparacrista_elongate_and_directed_more_buccally_than_mesially,_parastyle_well-separated_from_paracone,_precingulum_or_preparaconule_crista_ends_at_base_of_paracone,_does_not_contact_buccal_margin_of_crown,_stylocone_absent;
+{ 69 M2_metacone_height Lower_than_paracone_height Subequal_to_height_of_paracone Substantially_taller_than_paracone;
+{ 70 M2_paracone_metacone_separation Well_separated_apically,_limited_basal_fusion Paracone_and_metacone_connate,_fused_to_a_level_well_above_bases;
+{ 71 M2_centrocrista Centrocrista_connecting_the_paracone_and_metacone_absent,_trigon_basin_in_communication_with_buccal_margin_of_crown Low_centrocrista_that_terminates_only_slightly_above_the_base_of_the_ectocingulum Elevated_centrocrista_with_its_lowest_point_still_well_above_the_base_of_the_ectocingulum Centrocrista_incomplete:_premetacrista_present_but_postparacrista_absent;
+{ 72 M2_mesostyle Mesostyle_absent,_centrocrista_straight_in_occlusal_view Mesostyle_present_and_isolated_from_centrocrista_or_weakly_connected_to_centrocrista,_centrocrista_nearly_straight_in_occlusal_view Mesostyle_present_and_connected_to_centrocrista,_centrocrista_with_inverted_V-shape_in_occlusal_view;
+{ 73 M1_metastyle Small,_distal_or_slightly_distobuccal_to_metacone Moderately_elongate_and_salient,_distobuccal_to_metacone Strongly_elongate_and_salient,_distobuccal_to_metacone;
+{ 74 M2_preparaconule_crista Present Absent;
+{ 75 M2_distal_cingulum_postmetaconule_crista_connection Postcingulum_terminates_beneath_postvallum,_does_not_contact_postmetaconule_crista.__Postmetaconule_crista_intact_at_least_to_base_of_metacone Postcingulum_joins_postmetaconule_crista_buccal_to_metaconule Postmetaconule_crista_weak_or_absent.__Buccal_portion_?captured?_by_postcingulum Postcingulum_expanded,_forms_a_broad_shelf_or_a_hypoloph;
+{ 76 M2_conules Very_small_or_absent Smaller_than_buccal_and_lingual_cusps,_but_well_developed Paraconule_well_developed,_metaconule_very_small_or_absent Paraconule_very_small_or_absent,_metaconule_well_developed;
+{ 77 M2_premetaconule_crista Present_and_directed_mesiobuccally,_towards_centrocrista_notch_between_paracone_and_metacone Weak_or_absent Present_and_directed_buccally_towards_metacone,_joining_with_postprotocrista_and_metaconule_to_form_a_linear_metaloph;
+{ 78 M2_postprotocrista Present Absent,_protocone_isolated_from_metaconule;
+{ 79 M2_paraconule_position paraconule_distinctly_lingual_to_metaconule paraconule_and_metaconule_even;
+{ 80 M2_metaconule_position Between_protocone_and_metacone,_roughly_even_with_paraconule Even_with_or_slightly_buccal_to_protocone,_displaced_lingually_relative_to_paraconule;
+{ 81 M2_metaconule_duplication single_metaconule double_metaconule;
+{ 82 M2_protocone_size Well-developed,_generally_larger_than_or_subequal_to_buccal_cusps Strongly_reduced,_essentially_forming_a_cingular_cusp;
+{ 83 M2_protocone_length Mesiodistally_compressed,_lingual_margin_of_crown_(exclusive_of_hypocone)_V-shaped Mesiodistally_broadened,_lingual_margin_of_crown_U-shaped;
+{ 84 M2_protocone_position Transversely_aligned_with_paracone Between_paracone_and_metacone;
+{ 85 M2_protocone_convergence_angle At_lingual_margin_of_crown,_lingual_face_of_protocone_vertical Somewhat_buccal_to_lingual_margin_of_crown,_lingual_face_of_protocone_sloping Well_buccal_to_lingual_margin_of_crown,_lingual_face_of_protocone_more_horizontal_than_vertical;
+{ 86 M2_hypocone_postvallum_connection Absent,_hypocone_isolated_from_protocone,_postprotocrista,_and_metaconule Present_between_apex_of_protocone_and_apex_of_hypocone_(Nannopithex-fold) Present_between_apex_of_hypocone_and_postprotocrista_or_metaconule_(prehypocrista);
+{ 87 M2_pseudohypocone Absent Present;
+{ 88 M2_distal_cingulum_presence Absent Present;
+{ 89 M2_hypocone_size Absent Weak,_hypocone_present_as_a_thickening_or_expansion_of_the_postcingulum Stronger,_forms_a_prominent,_distinct_cusp_on_the_cingulum Hypocone_present_as_a_broad,_low_hypoconal_shelf;
+{ 90 M2_hypocone_position Even_with_protocone Lingual_to_protocone;
+{ 91 M2_lingual_cingulum Do_not_meet_lingually Meet_lingually_to_form_a_lingual_cingulum;
+;
+
+
+ccode  - 0.10 12.35 37.44 46.48 53.55 57.61 63.70 72 74 76.91 + 11 36 45 49.52 56 62 71 73 75;
+
+
+;
