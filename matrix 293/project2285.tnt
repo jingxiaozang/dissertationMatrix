@@ -1,0 +1,110 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 07.21.56'
+73 19
+
+&[num]
+Homogalax_protapirinus                   0000000000000-0000000-01000000000000000000000000000000110000000?0000--000
+Heptodon_calciculus                      0000000000010-0000011001001000000000101110101?000000100?000110111000--000
+Helaletes_nanus                          1111000010?01001001110110?11000001001011110111100010101100021112201100001
+Thuliadanta_mayri                        ?110001110000-00011010111100001011001012120??011?02010121101??022?1??????
+Desmatotherium_intermedius               ?01??01011100-00113011011311110101?01112010??1100120102202020122????????1
+Desmatotherium_mongoliensis              0011011010101201?1201210131121??120011121211?1110120?012010201122?11?0??1
+Desmatotherium_fissum                    ?????10010?011110030?110030?111012101011111?01??11?0001?11020?21???121112
+Paracolodon_inceptus                     ??02110011202211104022110201011022101011121???????????????120????????????
+Colodon_kayi                             ??????01??????1100??221003012111111010111111012201211122120221???????????
+Colodon_woodi                            ???00?0110????11003?22000301211011101012111?????01?????21102110??????????
+Plesiocolopirus_hancocki                 ?1000?001130101100411?100411010012001002?10101110020101212021111??11????1
+Hesperaletes                             10100?10??00?001?1??10111010010101002?0201001010?1001?11?0011120201121112
+Colodon_occidentalis                     -211111?122022112131221213112110221110121102-1221131112312120111311111002
+Colodon?_cingulatus_(primative)          0101111110?012111101201110110100020110010101012?1121101210122?022?11??002
+Colodon_stovalli                         ?????0011?3?221?004?2200021101?010?120???0011111?120112312122?0?2?11????2
+Colodon_orientalis                       ??????????????????????121511211022111012111??????????????????????????????
+Dilophodon_minusculus                    ?????0100?0?100??1???01?10?0?0110100201????111000110101101021120???0--002
+Heteraletes_leotanus                     ???1010111000-01102011010210100101002012111????0?11010110102112??????????
+Protapirus                               011??0001100201120412?12021101011100100101011122102111121112?121211121112
+
+;
+
+
+cnames
+{ 0 Diastema_between_canine_and_incisors short long;
+{ 1 Upper_canine large small absent;
+{ 2 Upper_Postcanine_diastema short long;
+{ 3 P1_metacone absent rudimentary distinct;
+{ 4 P1_protocone absent_or_very_weak distinct;
+{ 5 P2-4_parastyle low high;
+{ 6 P2_paracone_and_metacone_buccal_surface convex_buccally moderately_convex_and_somewhat_merged_with_ectoloph;
+{ 7 P2-4_lingual_cingulum absent present;
+{ 8 P2_metacone smaller_than_paracone as_large_as_paracone;
+{ 9 P2_paracone_and_metacone close moderately_separated widely_separated;
+{ 10 P2_hypocone absent incipient_separated_from_protocone_by_shallow_lingual_groove distinctly_separated_from_the_protocone_by_a_deep_lingual_groove protocone_separated_by_a_distinct_mesiolingual_groove;
+{ 11 P2_protoloph separated_from_ectoloph_by_a_notch joining_the_ectoloph;
+{ 12 P2_metaloph absent weak as_prominent_as_protoloph;
+{ 13 P2_metaloph_orientation towards_protocone towards_protocone,_bypassing_hypocone toward_hypocone;
+{ 14 P3_-4 equidimensional_or_only_slightly_broader_than_long transversely_elongate;
+{ 15 P3_parastyle_separation_from_paracone wide narrow;
+{ 16 P3_paracone_and_metacone close moderately_separated widely_separated;
+{ 17 P3_paracone_and_metacone_buccal_surface convex_buccally moderately_convex_and_somewhat_merged_with_ectoloph;
+{ 18 P3_hypocone absent protocone_distally_extended_without_lingual_groove incipient_separated_from_protocone_by_shallow_lingual_groove distinctly_separated_from_the_protocone_by_a_deep_lingual_groove protocone_incipient_separated_by_an_shallow_mesiolingual_groove;
+{ 19 P3_protoloph separated_from_ectoloph_by_a_notch joining_the_ectoloph;
+{ 20 P3_metaloph absent weak as_prominent_as_protoloph;
+{ 21 P3_metaloph_orientation towards_protocone towards_protocone,_bypassing_hypocone toward_hypocone;
+{ 22 P4_metacone_position distal_to_paracone more_lingually_displaced;
+{ 23 P4_paracone_and_metacone close moderately_separated widely_separated;
+{ 24 P4_paracone_and_metacone_buccal_surface convex_buccally moderately_convex_and_somewhat_merged_with_ectoloph;
+{ 25 P4_hypocone absent protocone_distally_extended_without_lingual_groove incipient_separated_from_protocone_by_shallow_lingual_groove distinctly_separated_from_the_protocone_by_a_deep_groove protocone_incipient_separated_by_an_shallow_mesiolingual_groove completely_separated;
+{ 26 P4_protoloph separated_from_ectoloph_by_a_notch joining_the_ectoloph;
+{ 27 P4_metaloph weak as_prominent_as_protoloph;
+{ 28 P4_metaloph_orientation towards_protocone towards_protocone,_bypassing_hypocone toward_hypocone;
+{ 29 M1-3_parastyle separated_from_paracone closely_appressed_to_paracone;
+{ 30 M1_metacone_buccal_surface slightly_convex concave;
+{ 31 M1-2_protoloph_and_metaloph straight slightly_convex_mesially;
+{ 32 M1-2_metacone moderately_long short very_reduced;
+{ 33 M1-2_metacone_position_compared_with_paracone slightly_lingually_displaced moderately_lingually_displaced strongly_lingually_displaced;
+{ 34 M1-2_distobuccal_cingulum_on_the_buccal_side_of_metacone weak distinct;
+{ 35 M1-2_centrocrista directly_connecting_paracone_and_metacone curved_buccally_forming_reverse_U_shape;
+{ 36 M1-2_metaloph_and_ectoloph_connection mesiolingual_base_of_metacone near_the_apex_of_metacone mesial_to_the_apex_of_the_metacone;
+{ 37 M2_paracone vertically_displaced curved_distally_at_the_apex;
+{ 38 M2_metacone_buccal_surface slightly_convex concave;
+{ 39 M3_parastyle_position_compared_with_paracone strongly_mesiobuccally slightly_mesiobuccally nearly_mesially;
+{ 40 M3_metacone_buccal_surface convex concave;
+{ 41 M3_metacone_position_compared_with_paracone slightly_lingually_displaced moderately_lingually_displaced strongly_lingually_displaced;
+{ 42 Orientation_of_M3_postmetacrista distally distobuccally;
+{ 43 Lower_canine large small absent;
+{ 44 Lower_postcanine_diastema short long;
+{ 45 p1 present absent;
+{ 46 p2_metaconid absent rudimentary prominent_as_protoconid;
+{ 47 p2_entoconid absent weak prominent;
+{ 48 p2-4_distobuccal_cingulum present absent;
+{ 49 p3-4_cristid_obliqua_orientation mesolingually mesially_towards_protoconid;
+{ 50 p3_entoconid absent small_and_weak prominent as_large_and_hypocone;
+{ 51 p3_protoconid_and_metaconid close widely_separated;
+{ 52 p3_paraconid high_and_prominent low__and_indistinct;
+{ 53 p3_trigonid longer_than_wide_or_equal wider_than_long;
+{ 54 p3_talonid_width_compared_with_trigonid_width equal slightly_greater considerably_greater;
+{ 55 p4_entoconid absent small_and_weak prominent as_large_and_hypocone;
+{ 56 p4_trigonid longer_than_wide_or_equal wider_than_long;
+{ 57 p4_talonid_width_compared_with_trigonid_width equal slightly_greater considerably_greater;
+{ 58 m1-3_paracristid distinct reduced;
+{ 59 m1-3_cristid_obliqua distinct moderately_reduced highly_reduced;
+{ 60 m1-3_protolophid_and_hypolophid protolophid_transversely_extended,_hypolophid_slightly_oblique both_oblique_and_parallel_to_each_other both_transverse;
+{ 61 m1-3_endocristid_(cristid_extending_mesially_from_the_entoconid) present,_mesially_extended present,_mesobuccallly;
+{ 62 m3_hypoconulid large small highly_reduced;
+{ 63 Position_of_infraorbital_foramen posterior_border_of_P2 posterior_border_of_P3 posterior_end_of_P4;
+{ 64 The_posterior_end_of_incisor_notch_at_the_level_of incisors postcanine_diastema P3-4 M1-2;
+{ 65 Anterior_end_of_nasal_at_the_level_of premaxilla postcanine_diastema;
+{ 66 Premaxilla_and_nasal_contact present absent;
+{ 67 Lateral_trough_of_ascending_process_of_maxilla absent present;
+{ 68 The_extension_of_the_lateral_trough_of_ascending_process_of_maxilla restrict_to_the_lateral_side curving_around_the_nasao-frontal_suture extending_posteriorly_over_the_orbital;
+{ 69 The_relation_between_the_lacrimal_and_the_lateral_border_of_the_lateral_trough lacrimal_narrow_and_not_forming_the_lateral_border lacrimal_forming_part_of_lateral_border;
+{ 70 Dorsal_surface_of_frontal flat troughed;
+{ 71 Anterior_sagittal_ridge_on_the_frontal absent present;
+{ 72 Posterior_end_of_symphysis_of_mandible posterior_to_the_first_premolar anterior_to_the_first_premolar at_the_level_of_the_anterior_border_of_the_first_premolar;
+;
+
+
+ccode  - 0.72;
+
+
+;

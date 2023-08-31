@@ -1,0 +1,115 @@
+nstates num 11;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 07.41.44'
+85 12
+
+&[num]
+M_setosa_granitica                    00011?1?????10000011103211100111110000?001010121010000000101010010211100?011??11??401
+M_setosa_metadenotricha               ?00?101??1101?0111111022?110001011000100000?11?0--0??0000011101011??000??0111?111?001
+M_setosa_paludosa                     0?00101111101?0???111??2111?11101100?10?0?01?1??000???0??0???010112??02??0?11?111?00?
+M_setosa_nitens                       10011?100?14?00?0??1?032011201?0??00?110003?1121100?0?00?000?0011110?00020100?101??01
+M_setosa_rupigena                     ?00?1110-012010000010032-1?0011011111??001311?010?00000000111000112??00?20101-101-001
+M_melanocarpa                         ?0001010-110110100111032011001101111031?1000110?0?10100?0001?1?1112001233111101110002
+M_setosa_setosa                       0000101??1101001111110320110111011???100?131110101000?0?00??10111120000??0111?111?002
+M_setosa_pseudomelas                  ?000101??1101?01111110?2?110?11011110110003?1101010?01000011101000200?0000101?111??02
+M_setosa_urbana                       113?1010-110000??0110??101?011?0100001?001311101??00000000111011112??00?1011??11??001
+M_setosa_urbica                       000?1010-110?001101100320??011?0100001???1311?01010?000000?110101021?0021011??11??00?
+M_serpensetosa                        ?0??1011?1101??10?111022?11?01101??10111003?11010??01?00?01110101110?0???0101?111??0?
+M_occidentalis_novogaliciana          ?0??0-11110-1?0001101?321??0?1?10100?1???01???30-?0??1???00?1????????????0???????????
+
+;
+
+
+cnames
+{ 0 xylopodium absent present;
+{ 1 habit shrub subshrub treelet;
+{ 2 stem,_disposition erect prostrate deflexed humifuse;
+{ 3 Branching_system regular pivotant dicotomic wandlike;
+{ 4 filiform_setae absent present;
+{ 5 filiform_setae,_base,_shape tapering bulbous;
+{ 6 glandular_setae absent present;
+{ 7 prickles absent present;
+{ 8 branch,_prickles absent patent_(or_slightly_inclined) antrorse retrorse;
+{ 9 branch,_trichomes absent present;
+{ 10 branch,_filiform_setae absent present;
+{ 11 branch,_filiform_setae_orientation patent incurved forwardly_appressed retrorse antrorse_(but_not_appressed) inclined;
+{ 12 branch,_glandular_setae absent present clavate capitate;
+{ 13 leaves,_stipules,_shape lanceo-acuminate linear ovate-lanceolate ovate broadly-ovate-acuminate narrowly_triangular triangular broadly_triangular linear_triangular lanceolate ovate_acuminate;
+{ 14 leaves,_stipules,_persitency caducous persistent;
+{ 15 leaves,_stipules,_abaxial_face,_trichomes absent present;
+{ 16 leaves,_stipules,_abaxial_face,_filiform_setae absent present;
+{ 17 leaves,_stipules,_abaxial_face,_glandular_setae absent present;
+{ 18 leaves,_stipules,_margin,_trichomes absent present;
+{ 19 leaves,_stipules,_margin,_filiform_setae absent present;
+{ 20 leaves,_stipules,_margin,_glandular_setae absent present;
+{ 21 leaves,_petiole,_lenght_relative_to_the_pulvinus 4:1_or_more 1:1-2:1;
+{ 22 leaves,_rachis,_interpinnal_projection absent present spiculate laminar glandular;
+{ 23 leaves,_rachis,_lenght_relative_to_the_petiole 1:2_or_less ca._1:1 2:1_or_more;
+{ 24 leaves,_rachis,_prickles absent present;
+{ 25 leaves,_rachis,_trichomes absent present;
+{ 26 leaves,_rachis,_glandular_setae absent present;
+{ 27 leaves,_medial_rachilla,_lenght_relative_to_the_rachis 1:2_or_less ca._1:1 2:1_or_more;
+{ 28 leaves,_basal_rachilla,_lenght_relative_to_the_medial_rachilla 1:2_or_less ca._1:1 2:1_or_more;
+{ 29 leaves,_rachilla,_paraphyllidia absent present;
+{ 30 leaves,_rachilla,_glandular_setae absent present;
+{ 31 leaves,_leaflets,_secondadry_veins_promination_in_relation_to_primary_veins not_or_less_prominent equally_prominent;
+{ 32 leaves,_leaflets,_margin,_filiform_setae absent present;
+{ 33 leaves,_leaflets,_margin,_glandular_setae absent present;
+{ 34 leaves,_leaflets,_adaxial_surface,_trichomes absent present;
+{ 35 leaves,_leaflets,_abaxial_surface,_trichomes absent present;
+{ 36 inflorescence,_exhibition excerpt_from_foliage nested_in_the_foliage;
+{ 37 inflorescence,_associated_leaf,_development do_not_develop partially_at_anthesis,_fully_when_in_fruit fully_or_almost_so_at_anthesis partially_at_anthesis,_with_a_diminute_leaf_when_in_fruit;
+{ 38 inflorescence,_secondary_arrangement absent frondose_paniculate bracteose_paniculate;
+{ 39 inflorescence,_peduncle_lenght_in_relation_to_leaf_stalk_lenght_of_fully_expanded_leaf 1:5_or_less 1:2-1:3 ca._1:1 ca._2:1;
+{ 40 inflorescence,_glomerule_proportion_of_lenght_to_width ca._1:1 ca._2:1 ca._3:2;
+{ 41 inflorescence,_masculine_flowers_at_base present absent;
+{ 42 floral_bracts,_shape spatulate-acuminate eliptic-rhombic spatulate-elliptic narrowly_spatulate-acuminate lanceolate broadly_spatulate-acuminate linear spatulate-rhombic spatulate oblong-acuminate;
+{ 43 floral_bract,_abaxial_surface,_veins_promination not_prominent prominent;
+{ 44 floral_bract,_trichomes absent present;
+{ 45 floral_bract,_glandular_setae absent present;
+{ 46 flower,_calyx,_lobes absent fringed very_shallowly_triangular ovate triangular present;
+{ 47 flower,_calyx,_lobes,_plane_projections absent present State_2 ovate;
+{ 48 flower,_calyx,_plane_projections,_location troughout_rim present_just_in_half_or_less_of_rim;
+{ 49 fusion absent present;
+{ 50 flower,_calyx,_pedicel,_filiform_setae absent present;
+{ 51 flower,_calyx,_rim,_trichomes absent present;
+{ 52 flower,_calyx,_rim,_filiform_setae absent present;
+{ 53 flower,_calyx,_rim,_glandular_setae absent present;
+{ 54 flower,_calyx,_tube_apex,_trichomes absent present;
+{ 55 flower,_calyx,_tube_apex,_filiform_setae absent present;
+{ 56 flower,_calyx,_tube_apex,_glandular_setae absent present;
+{ 57 flower,_corolla,_shape infundibuliform campanulate narrowly_infundibuliform;
+{ 58 flower,_corolla,_lobes,_trichomes absent present;
+{ 59 flower,_corolla,_lobes,_filiform_setae absent present;
+{ 60 flower,_corolla,_lobes,_glandular_setae absent present;
+{ 61 flower,_corolla,_lobes,_indument_coverage do_not_conceals_surface conceals_suface;
+{ 62 flower,_corolla,_lobes,_veins,_apex_promination not_prominent prominent;
+{ 63 flower,_ovary,_thrichomes absent present;
+{ 64 flower,_ovary,_filiform_setae absent present;
+{ 65 flower,_ovary,_glandular_setae absent present;
+{ 66 fruit,_valves,_segmentation integer partially_articulated completely_articulated;
+{ 67 fruit,_articles,_time_of_separation_relative_to_dehiscence_of_valves_and_liberation_of_seeds together after;
+{ 68 fruit,_valves,_veins_promination not_prominent prominent;
+{ 69 fruit,_stipe,_relative_lenght_to_width less_then_4x 5x_or_more;
+{ 70 fruit,_shape oblong rounded narrowly_oblong elliptic;
+{ 71 fruit,_base_shape cuneate rounded obtuse attenuate;
+{ 72 fruit,_apex_shape acute rounded obtuse apiculate;
+{ 73 fruit,_margin,_ondulation no present;
+{ 74 fruit,_valves,_trichomes absent present;
+{ 75 fruit,_valves,_filiform_setae absent present;
+{ 76 fruit,_valves,_glandular_setae absent present;
+{ 77 fruit,_valves,_prickles State_0 State_1;
+{ 78 fruit,_margin,_trichomes absent present;
+{ 79 fruit,_margin,_filiform_setae absent present;
+{ 80 fruit,_margin,_glandular_setae absent present;
+{ 81 fruit,_margins,_prickles State_0 State_1;
+{ 82 fruit,_indumentum,_setae_orientation patent incurved forwardly_appressed retrose antrorse_(not_appressed);
+{ 83 fruit,_indumentum,_concenctric_pattern_of_organization absent present;
+{ 84 seed,_position_related_do_margins paralel perpendicular inclined;
+;
+
+
+ccode  - 0.84;
+
+
+;

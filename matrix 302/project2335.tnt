@@ -1,0 +1,123 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 07.42.18'
+60 45
+
+&[num]
+Eomaia_scansoria                        100100000100001000??-0?0?010100?0?0001000?0?00?0?0?00000-010
+Cimolestes_spp.                         0?000?00000000000000-01?00002000000000?1000000000001000?0010
+Tinerhodon_disputatus                   1101??000000001111000?0000002000100000????????????????????10
+Prolimnocyon_spp.                       00001200000000101001-00011101000010010000010000010000001010?
+Limnocyon_spp.                          00101000100000100001-010111020010200100001100010200000111-01
+Prototomus_spp.                         00012200000000100011-0011000?0111110000000000001001000010000
+Prototomus_europe                       0001?2??000000101001-0011000101010100???00000001001000010000
+Pyrocyon_dioctetus                      00101000000010100011-00111100-1111100?0000000020101000111000
+Tritemnodon_agilis                      00110200000001000011-00112100-111210100000000020101000111100
+Sinopa_spp.                             00101200000000000011-00110100-111211000010000010121000111000
+Arfia_europe                            ?????????0000010011100011000200111100???01100001211100011000
+Arfia_spp.                              000022000000001001110001100020011111000101100001211100011000
+Boualitomus_marocanensis                11011-00000000101101?0111000101011000?????????????????????10
+Parvagula_palulae                       000020??0???002001010000110020011100???????????????????????0
+Eoproviverra_eisenmanni                 ????????????????????????100020001100??????10?01010101000-00?
+Minimovellerodon_russelli               00101???010?0010?1?00000100020?0110?0?????????????????????10
+Morlodon_vellerei                       0010?1100101002001010011101020011200????01000011101011010010
+Boritia_duffaudi                        0010111001010020010100011100200111000?????????????????????10
+Matthodon_menui                         1110?210010100200101001012202001120010000110002120?01100-?10
+Matthodon_tritens                       1110121001010020010100101220200112001?????????????????????10
+Oxyaenoides_lindgreni                   0011101001000020010100011221101012001?????????1120????????10
+Oxyaenoides_bicuspidens                 0011101001000020010100011221101012001??0??????2120101100-?10
+Oxyaenoides_schlosseri                  001100100????000010100011221101012002?????????????????????10
+Alienetherium_buxwilleri                ?0101?100101012001?1101?11102?0111??1?????????????????????00
+Eurotherium_theriodis                   001110100101002001011011122021011100011101100011111010?0-?00
+Eurotherium_matthesi                    0011101001010120010110101110210111001?1101100011211010?0-100
+Prodissopsalis_eocaenicus               00111010010101200101101011102101120011110110002121101?00-000
+Paenoxyaenoides_liguritor               00101010010100200101101112212101120021110110002121101100-100
+Leonhardtina_gracilis                   00002010110112200101100010002001111001000111000102101000-000
+Leonhardtina_godinoti                   000020??1101?2????01??0?1000200111100?????????????????????00
+Allopterodon_bulbosus                   00002010110112200121111010002001111001000111111112101000-000
+Allopterodon_minor                      00012010110112200121110010002001111001000111111122101000-000
+Allopterodon_torvidus                   000120??1????2?????1110010002001111001000111111122101000-000
+Proviverra_typica                       00002010110112200111100010002001111101?001110101021010011000
+Lesmesodon_spp.                         000?20??????????????????100020011?10??????????01021????????0
+Protoproviverra_palaeonictides          ?01???????????20010110111??02001?200??????????????????????00
+Cynohyaenodon_trux                      00001010110100200111100111102001120000?10111001111101010-000
+Cynohyaenodon_ruetimeyeri               0010101011010020011110111110200112000??10112002111101010-000
+Cynohyaenodon_cayluxi                   00101010110101200111101011202001120010110112002121101010-000
+Cynohyaenodon_lautricensis              ?????????????????????????????????????0111010022121101010-000
+Paracynohyaenodon_magnus                00101010110100200111101111202001120010110112002121101010-000
+Paracynohyaenodon_schlosseri            0010?010110100200111101111202001120010110112002121101010-000
+Quercytherium_simplicidens              00101001111001100111101111202001120011111010022121101010-000
+Quercytherium_tenebrosum                00101001101001000011-01111202001120011111010022121101010-000
+Preregidens_langebadrae                 001110100????0200?01?0011110201011001??????????????????????0
+
+;
+
+
+cnames
+{ 0 Anteriormost_mental_foramen below_p1 below_p2;
+{ 1 Posteriormost_mental_foramen below_p3 below_p4;
+{ 2 Depth_of_dentary_body slender_and_long deep_and_short;
+{ 3 Diastema_separating_first_and_second_lower_premolars absent_(gap_less_than_one_tooth_root_for_whichever_is_smaller_of_adj present,_subequal_to_one_tooth-root_diameter_or_more;
+{ 4 Tilting_of_coronoid_process_(measured_as_angle_between_anterior_border_of_coronoid_process_and_horizontal_alveolar_line_of_all less_reclined_(135°-145°) less_than_vertical_(110°-125°) near_vertical_(95°-105°);
+{ 5 First_lower_premolar_(p1)_roots two_roots two_roots_partially_fused one_root;
+{ 6 Second_lower_premolar_(P2)_paraconid paraconid_absent_or_weakly_developed paraconid_developed;
+{ 7 Second_lower_premolar_(p2)_talonid talonid_present talonid_absent;
+{ 8 Relative_size_p2/p3 p2_shorter_than_p3 p2_as_long_or_longer_than_p3;
+{ 9 Penultimate_lower_premolar_(p3)_paraconid absent_or_indistinctive present_and_distinctive;
+{ 10 Penultimate_lower_premolar_(p3)_talonid talonid_short talonid_absent;
+{ 11 Penultimate_lower_premolar_(p3)_talonid_cusps one two;
+{ 12 Penultimate_lower_premolar_(p3)_height higher_or_as_high_as_p2_and_p4 lower_than_p2_and_p4;
+{ 13 Length_of_ultimate_lower_premolar_(p4)_to_penultimate_(p3) longer equal_to less;
+{ 14 Ultimate_lower_premolar_(p4)_paraconid absent_or_indistinctive distinctive_but_low distinctive_and_high;
+{ 15 Ultimate_lower_premolar_(p4)_metaconid absent swelling;
+{ 16 Ultimate_lower_premolar_(p4)_talonid_cusps_protostylid absence_of_protostylid presence_of_protostylid;
+{ 17 Ultimate_lower_premolar_(p4)_talonid_cusps_entoconid absence_of_entoconid presence_of_entoconid;
+{ 18 Ultimate_lower_premolar_(p4)_anterolingual_cingulid absence_of_cingulid presence_of_precingulid_and_postcingulid pre-_and_postcingulids_almost_fused;
+{ 19 Ultimate_lower_premolar_(p4)_compression inflated_transversely,_but_only_on_the_talonid_part compressed_transversely;
+{ 20 Ultimate_lower_premolar_(p4)_entoconid entoconid_bulbous_and_small large,_crestiform,_which_lingually_encloses_a_postfossid;
+{ 21 Ultimate_lower_premolar_(p4)_length shorter_than_m1_and_longer_than_p3 p4_shorter_than_p3_and_m1;
+{ 22 Ultimate_lower_premolar_(p4)_shape narrow_and_sharp_(Length/Width_>2) blunt_(=_Length/Width_<2);
+{ 23 First_lower_molar_(m1) longer_than_p4 shorter_than_p4;
+{ 24 Mesiolingual_vertical_crest_of_paraconid rounded keeled;
+{ 25 Trigonid_configuration anteroposteriorly_compressed,_paracristid-protocristid_angle_50° paracristid-protocristid_angle_between_52_and_75° paracristid-protocristid_angle_more_than_75°;
+{ 26 Paraconid_height_relative_to_metaconid shorter subequal taller;
+{ 27 Lower_molars_metaconid metaconid_present metaconid_absent;
+{ 28 Entoconid absent smaller_than_hypoconid_and/or_hypoconulid subequal_to_or_larger_than_hypoconid_and/or_hypoconulid;
+{ 29 m1_and_m2_entoconid_and_hypoconulid entoconid_and_hypoconulid_individualized_and_separated entoconid_and_hypoconulid_closely_located;
+{ 30 m1_and_m2_postfossid postfossid_deep postfossid_shallow;
+{ 31 Talonid_width_relative_to_trigonid talonid_narrower_than_trigonid talond_subequal_to_or_wider_than_talonid;
+{ 32 Relative_size_of_m1_and_m2 m1_subequal_or_longer_than_the_m2 m1_clearly_shorter_than_the_m2;
+{ 33 Cristid_obliqua complete,_attaching_lingual_to_notch_in_protocristid complete,_attaching_labial_to_notch_in_protocristid complete,_attaching_below_middle_posterior_of_protoconid;
+{ 34 Lower_molars_ectocingulid Absence_of_ectocingulid ectocingulid_developed;
+{ 35 Labial_postcingulid absent present;
+{ 36 Last_lower_molar long_talonid_with_a_robust_hypoconid short_talonid very_shortened_talonid;
+{ 37 Penultimate_upper_premolar_(P3) longer_than_P2 shorter_than_P2;
+{ 38 Penultimate_upper_premolar_(P3)_protocone absent small_lingual_bulge;
+{ 39 Penultimate_upper_premolar_(P3)_roots two three;
+{ 40 Ultimate_upper_premolar_(P4)_parastyle parastyle_present,_but_small parastyle_very_reduced_to_absent;
+{ 41 Ultimate_upper_premolar_(P4)_protocone_alignment protocone_aligned_transversely_with_the_paracone protocone_shifted_mesially_vs._paracone;
+{ 42 Ultimate_upper_premolar_(P4)_protocone_size_and_shape low_and_poorly_individualized bulbous,_robust_and_well_individualized;
+{ 43 Ultimate_upper_premolar_(P4)_conules weak_or_absent present prominent;
+{ 44 Ultimate_upper_premolar_(P4)_premolar round triangular;
+{ 45 Ultimate_upper_premolar_(P4)_postmetacrista high_postmetacrista low_postmetacrista absence_of_postmetacrista;
+{ 46 M1_and_M2_postmetacrista_blade_length short_(the_carnassial_blade_shorter_than_the_parametacrista) medium elongated;
+{ 47 Metacone_size_relative_to_paracone noticeably_smaller subequal_or_larger;
+{ 48 M1_and_M2_parastyle long_(more_than_0.67_of_paracone_diameter) short absent_or_vestigial;
+{ 49 Metacone_and_paracone_bases adjoined almost_completely_separated completely_separated;
+{ 50 M1_and_M2_upper_relative_size M1_subequal_or_larger_than_the_M2 M1_smaller_than_the_M2;
+{ 51 M1_and_M2_upper_premetaconule_crista premetaconule_crista_present premetaconule_crista_absent;
+{ 52 M1_and_M2_upper_metacingulum metacingulum_long metacingulum_short;
+{ 53 Metaconule prominent weak_or_absent;
+{ 54 M1_and_M2_protocone distally_located_or_aligned_with_parastyle mesially_located;
+{ 55 M1_and_M2 precingulum_and_postcingulum_weak_or_absent_on_M1_and_M2 Precingulum_and_postcingulum_present_on_M1_and_M2;
+{ 56 Pre-_and_postcingulum separated continuous_lingually;
+{ 57 M3 metacone_present_and_lower_than_the_paracone metacone_absent;
+{ 58 Prefossa/postfossid_shearing absent present;
+{ 59 M3/m3 Present Absent_(feature_of_Limnocyoninae);
+;
+
+
+ccode  - 0.3 6.12 15.17 19.24 27 29.32 37.42 44 47 50.59 + 4.5 13.14 18 25.26 28 33.36 43 45.46 48.49;
+
+
+;

@@ -1,0 +1,104 @@
+nstates num 11;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 07.44.25'
+46 40
+
+&[num]
+Acorus                            1000001001000300000111000001000010200000000000
+Alisma                            1000000000003?00000101000001-0?013300000025031
+Alloschemone                      0-000010000000100000000000000001131?00-11020-0
+Ambrosina                         0-100010000031000000000000000411012010000021??
+Amorphophallus                    0-1000?00010700000000000000003111300?001?031-1
+Anadendrum                        0-000000000030000000000000000000130000000030-3
+Aquaephyllum_auriculatum          ?????????000300101001000??????????????????????
+Arisaema                          0-1000100010700000000000000003111120?1???12111
+Arisarum                          0-100000000011000000000000000311032010?03031-?
+Arophyton                         0-100000000011000000000000000111132011-12231-1
+Butomus                           102000100000030000010-000001--0005001000010030
+Callopsis                         0-100010000011000000000000000111130010012231-1
+Carlephyton                       0-1000000000110000000000000001101320?1-00231-1
+Cobbania_corrugata                11100?0?0001200010110001000???????????????????
+Cobbania_hickeyi                  11100?0?0001200010100001000???????????????????
+Colocasia                         ?010000000001?000000000000000411012001012?21??
+Cyrtosperma                       10100010100011000000000000000000?1000000000010
+Gorgonidium                       0-1000100000100000000000000001111320???12031-0
+Gymnostachys                      0-00001001000301000111000000000011200000000010
+Hydrocharis                       111000000000210000110100001---1002100100023011
+Lemna                             11-21101-1003-000001110201101-1111?11000111001
+Limnobiophyllum_scutatum          1110010?01002?001001000100??1-1?????100??110?1
+Limnobium                         111000000000200000110-000001--10?2101100023011
+Limnocharis                       1110000000002100000101000001--0003301000026014
+Ottelia                           11100010?100?0010001?1000101--?002001000023014
+Peltandra                         10100010000011000000000000000411132001112?31-1
+Philodendron                      0-10001000?0???00000000000000211?0?0?0012021?3
+Pistia                            1110001000003000100100010010141101211100202112
+Pothos                            0-00001000003?00000000000000000013000?-00000-0
+Protarum                          0-1000100010700000000000000004111320?1-12031-2
+Sagittaria                        1010000000001100000101000001--1012301000025034
+Schismatoglottis                  ?3?000100000??0000000-0100000411?2001?-12031-3
+Spathicarpa                       0-1000100000?1100?000000000001111320?1-12031-3
+Spirodela                         11-11101-1002-000001110201101-1111?11000111001
+Stratiotes                        1010001011000301000111000001--1002001010020034
+Thalassia                         2210000101000301000101000111--1005001000023-31
+Wolffia                           11-21102-1003-000001111211?11-1111211010111001
+Wolffiella                        11-21102-1003-000001111211?11-1111211010111001
+Zomicarpa                         0-10000000001110000?000000000311030010-12230-1
+Zomicarpella                      0-10000000001100000?000000000311?30010012230-1
+
+;
+
+
+cnames
+{ 0 Habitat_of_growth not_aquatic freshwater_or_brackish marine;
+{ 1 Aquatic_habit helophytes helophytes_or_amphibious floating_aquatics submerged_aquatics rheophytes amphibious;
+{ 2 Phyllotaxy distichous helical subdistichous;
+{ 3 Stem with_nodes_and_internodes as_centrum apparently_absent;
+{ 4 Budding_from_pouch absent present;
+{ 5 Vegetative_reproduction_by_fragmentation absent present;
+{ 6 Vegetative_reproduction_by_stolons present absent;
+{ 7 Stem_stele actactostele protostele_or_strand absent;
+{ 8 prickles_on_stem_or_petiole absent present;
+{ 9 Petiole present absent;
+{ 10 Leaf simple compound;
+{ 11 Trumpet-shaped_leaf_with_inflated_aerenchymatous_petiole absent present;
+{ 12 Leaf_(blade)_shape equitant lnear_to_strap-shaped sagittate_or_cordate_(may_be_deeply_lobed) circular_to_reniform ovate_to_linear ovate_to_ovate-linear globose/orbicular globose ovate_to_ovate-cuneate pedatisect/radiatisect linear_to_strap-shaped;
+{ 13 Blade_base_shape acute,_cuneate,_obtuse,_or_rounded cordate-sagittate peltate equitant;
+{ 14 Leaf_division not_lobed lobed;
+{ 15 Leaf_margin entire not_entire_(serrate,_dentate,_crenate);
+{ 16 Leaf_blade_with_apical_notch absent present;
+{ 17 Auricle absent present;
+{ 18 Leaves_with_distinct_abaxial_pad_or_zone_of_aerenchyma absent present;
+{ 19 Major_venation_in_leaf/frond pinnate not_pinnate;
+{ 20 Marginal_vein present absent;
+{ 21 Anastomosing_veins/reticulate present absent;
+{ 22 Differentiataed_conducting_cells_in_leaf/frond_venation present absent;
+{ 23 Pubescence largely_absent as_trichomes as_papillae;
+{ 24 Roots present absent;
+{ 25 Lateral_roots present absent;
+{ 26 Vessels_in_root present absent;
+{ 27 Spathe present absent;
+{ 28 Spadix/inflorescence_with numerous_flowers fewer_than_five_flowers;
+{ 29 Spadix_zonation no_zonation male-female female-sterile-male female-male-sterile female-sterile-male-sterile;
+{ 30 Flowers bisexual unisexual;
+{ 31 Perianth/perigonium present absent;
+{ 32 Number_of_ovules_per_locule six_or_more five_or_less;
+{ 33 Placentation axile_or_strongly_intrusive_placentae apical parietal,_septa_very_reduced basal,_basal-parietal_or_basal-axile basal_and_apical laminar;
+{ 34 Ovule_type anatropous_and_hemianatropous amphitropous orthotropous_and_hemiorthotropous campylotropous;
+{ 35 Operculate_seed absent present;
+{ 36 Number_of_stamens four_to_six fewer_than_four_or_more_than_six;
+{ 37 Stamen_connation free connate_(and_connate_at_base);
+{ 38 Sporangia_per_anther four two three;
+{ 39 Position_of_anther_dehiscence lateral apical;
+{ 40 Anther_dehiscence by_longitudinal_slits by_oblique_pore-like_slits by_apical_pores_or_apical_slits by_single_continuous_slit;
+{ 41 Pollen_shape ellipsoid boat-shaped globose_(spheroidal);
+{ 42 Pollen_aperture_type monosulcate monoporate zonate inaperturate ulcerate polyaperturate foraminate;
+{ 43 Sporopollenin present absent;
+{ 44 Pollen_wall_ultrastructure granular alveolar atectate tectate/columellate;
+{ 45 Exine_sculpturing foveolate-reticulate spinose striate psilate echinate;
+;
+
+
+ccode  - 0.45;
+
+
+;
