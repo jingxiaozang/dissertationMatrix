@@ -1,0 +1,90 @@
+#NEXUS
+
+    [ File output by Morphobank v3.0 ?; 2023-07-29 02.25.46 ]
+
+    BEGIN TAXA;
+    DIMENSIONS NTAX=15;
+    TAXLABELS
+    		'Aristaeopsis edwardsiana'
+		'Aristeus virilis'
+		'Austropenaeus nitidus'
+		'Benthesicymus investigatoris'
+		'Benthonectes filipes'
+		'Farfantepenaeus aztecus'
+		'Haliporoides sibogae'
+		'Melicertus latisulcatus'
+		'Metapenaeus ensis'
+		'Penaeopsis eduardoi'
+		'Penaeus monodon'
+		'Plesiopenaeus armatus'
+		'Sicyonia brevirostris'
+		'Sicyonia lancifer'
+		'Solenocera melantho'
+    ;
+    ENDBLOCK;
+
+    BEGIN CHARACTERS;
+	DIMENSIONS NCHAR=7;
+	FORMAT DATATYPE=STANDARD GAP=- MISSING=? SYMBOLS="012";
+	CHARLABELS
+		 [1] 'Carapace: Antennal spine'
+		 [2] 'Carapace: Antennal carina'
+		 [3] 'Dorso-posterior spine on abdominal somite 3'
+		 [4] 'Dorso-posterior spine on abdominal somite 4'
+		 [5] ' Dorso-posterior spine on abdominal somite 5'
+		 [6] ' Dorso-posterior spine on abdominal somite 6'
+		 [7] 'Abdomen somite 6 relative size compared to other somites'
+	;
+	STATELABELS
+		1
+		'absent'
+		'present'
+		,
+		2
+		'absent'
+		'present'
+		,
+		3
+		'absent'
+		'present'
+		,
+		4
+		'absent'
+		'present'
+		,
+		5
+		'absent'
+		'present'
+		,
+		6
+		'absent'
+		'present'
+		,
+		7
+		'somite 6 longest somite'
+		'somite 6 not the longest'
+		
+	;
+	MATRIX
+	'Aristaeopsis edwardsiana'		              1111110
+	'Aristeus virilis'		                      1001110
+	'Austropenaeus nitidus'		                 1011110
+	'Benthesicymus investigatoris'		          0-00110
+	'Benthonectes filipes'		                  0-00110
+	'Farfantepenaeus aztecus'		               1100010
+	'Haliporoides sibogae'		                  1101111
+	'Melicertus latisulcatus'		               1100010
+	'Metapenaeus ensis'		                     1000010
+	'Penaeopsis eduardoi'		                   1001110
+	'Penaeus monodon'		                       1100010
+	'Plesiopenaeus armatus'		                 1011110
+	'Sicyonia brevirostris'		                 1100111
+	'Sicyonia lancifer'		                     0-00011
+	'Solenocera melantho'		                   1000011
+    ;
+    ENDBLOCK;
+
+          BEGIN ASSUMPTIONS;
+      TYPESET * UNTITLED = unord: 1 - 7;
+      ENDBLOCK;
+      

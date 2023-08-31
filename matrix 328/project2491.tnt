@@ -1,0 +1,45 @@
+nstates num 2;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 08.38.16'
+7 20
+
+&[num]
+Ictalurus_furcatus              001110-
+Ictalurus_balsanus              0011011
+Ictalurus_punctatus             001110-
+Ictalurus_meridionalis          ?01110-
+Ameiurus_catus                  0010011
+Ameiurus_serracanthus           0010011
+Ameiurus_brunneus               0010011
+Ameiurus_platycephalus          0010011
+Ameiurus_natalis                0011011
+Ameiurus_melas                  0010011
+Ameiurus_nebulosus              0001011
+Noturus_flavus                  0010011
+Noturus_stigmosus               000100-
+Prietella_phreatophila          10--00-
+Pylodictis_olivaris             0011?10
+Satan_eurystomus                10?????
+Cranoglanis_bouderius           0??????
+Ictalurus_countermani           ?1???11
+Ictalurus_hazenensis            ?0??011
+Hypsidoris_farsonensis          ?0??00-
+
+;
+
+
+cnames
+{ 0 Presence_of_eyes Present Absent;
+{ 1 Anterior_cranial_fontanelle Open Almost_completely_closed;
+{ 2 Length_of_the_muscle_crests_on_frontal Crests_meet_skull_roof_margin_near_level_of_epiphyseal_bar Crests_meet_skull_roof_margin_anterior_to_level_of_epiphyseal_bar;
+{ 3 Frontal_crest_reaching_lateral_ethmoid Anterior_end_of_the_ridge_reaching_the_lateral_ethmoid_bone Anterior_end_of_the_ridge_not_reaching_the_lateral_ethmoid_bone;
+{ 4 Form_of_the_supraoccipital_process Simple Bifid;
+{ 5 Presence_of_sphenotic_process Absent Present;
+{ 6 Development_of_sphenotic_process Very_large_angular_sphenotic_process Moderately_large,_slightly_rounded_or_pointed_process;
+;
+
+
+ccode  - 0.6;
+
+
+;

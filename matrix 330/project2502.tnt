@@ -1,0 +1,40 @@
+nstates num 2;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 08.40.40'
+7 15
+
+&[num]
+Aristaeopsis_edwardsiana              1111110
+Aristeus_virilis                      1001110
+Austropenaeus_nitidus                 1011110
+Benthesicymus_investigatoris          0-00110
+Benthonectes_filipes                  0-00110
+Farfantepenaeus_aztecus               1100010
+Haliporoides_sibogae                  1101111
+Melicertus_latisulcatus               1100010
+Metapenaeus_ensis                     1000010
+Penaeopsis_eduardoi                   1001110
+Penaeus_monodon                       1100010
+Plesiopenaeus_armatus                 1011110
+Sicyonia_brevirostris                 1100111
+Sicyonia_lancifer                     0-00011
+Solenocera_melantho                   1000011
+
+;
+
+
+cnames
+{ 0 Carapace:_Antennal_spine absent present;
+{ 1 Carapace:_Antennal_carina absent present;
+{ 2 Dorso-posterior_spine_on_abdominal_somite_3 absent present;
+{ 3 Dorso-posterior_spine_on_abdominal_somite_4 absent present;
+{ 4 _Dorso-posterior_spine_on_abdominal_somite_5 absent present;
+{ 5 _Dorso-posterior_spine_on_abdominal_somite_6 absent present;
+{ 6 Abdomen_somite_6_relative_size_compared_to_other_somites somite_6_longest_somite somite_6_not_the_longest;
+;
+
+
+ccode  - 0.6;
+
+
+;

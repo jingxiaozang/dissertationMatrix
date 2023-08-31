@@ -1,0 +1,50 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 08.24.20'
+24 8
+
+&[num]
+Macaca                         112100111010001100112110
+Cercocebus                     2121101111102?210?????10
+Lophocebus                     010202000010100202011010
+Mandrillus                     122110122021212000110021
+Papio                          000202000221000101010221
+Theropithecus                  0?0202000?210?010?002?21
+Papionini_UCMP_56693           212020122221????????????
+Papionini_UCMP_125898          ????????????220202000221
+
+;
+
+
+cnames
+{ 0 Deltoid_Plane_Width_(M) Normal Intermediate Broad;
+{ 1 Brachialis_Flange_Width_(M) Normal Intermediate Broad;
+{ 2 Supinator_Crest_Length_(M) Not_Extended_Proximally Polymorphic Extended_Proximally;
+{ 3 DIstal_Articulation_Breadth_(M) Narrow Intermediate Broad;
+{ 4 Medial_Trochlear_Lip_(M) Normal Polymorphic Prominent;
+{ 5 Olecranon_Fossa_Width_(M) Narrow Intermediate Broad;
+{ 6 Lateral_Margin_of_Olecrnaon_Fossa_(M) Normal Prominent;
+{ 7 Olecranon_Fossa_Depth_(M) Shallow Intermediate Deep;
+{ 8 Olecranon_Fossa_Shape_(M) Rounded Polymorphic Triangular;
+{ 9 Distal_AP_Depth_(M) Shallow Intermediate Deep;
+{ 10 Medial_Epicondyle_Orientation_(M) less_than_45_degrees 45_-_60_degrees greater_than_60_degrees;
+{ 11 Geometric_Mean_(F) Small Large;
+{ 12 Deltoid_Plane_Width_(F) Normal Intermediate Broad;
+{ 13 Brachialis_Flange_Width_(F) Normal Intermediate Broad;
+{ 14 Supinator_Crest_Length_(F) Not_Extended_Proximally Polymorphic Extended_Proximally;
+{ 15 DIstal_Articulation_Breadth_(F) Narrow Intermediate Broad;
+{ 16 Medial_Trochlear_Lip_(F) Normal Polymorphic Prominent;
+{ 17 Olecranon_Fossa_Width_(F) Narrow Intermediate Broad;
+{ 18 Lateral_Margin_of_Olecrnaon_Fossa_(F) Normal Prominent;
+{ 19 Olecranon_Fossa_Depth_(F) Shallow Intermediate Deep;
+{ 20 Olecranon_Fossa_Shape_(F) Rounded Polymorphic Triangular;
+{ 21 Distal_AP_Depth_(F) Shallow Intermediate Deep;
+{ 22 Medial_Epicondyle_Orientation_(F) less_than_45_degrees 45_-_60_degrees greater_than_60_degrees;
+{ 23 Geometric_Mean Small Large;
+;
+
+
+ccode  + 0.23;
+
+
+;

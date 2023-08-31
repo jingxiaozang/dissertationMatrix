@@ -1,0 +1,96 @@
+#NEXUS
+
+    [ File output by Morphobank v3.0 ?; 2023-07-29 01.58.24 ]
+
+    BEGIN TAXA;
+    DIMENSIONS NTAX=20;
+    TAXLABELS
+    		'Ictalurus furcatus'
+		'Ictalurus balsanus'
+		'Ictalurus punctatus'
+		'Ictalurus meridionalis'
+		'Ameiurus catus'
+		'Ameiurus serracanthus'
+		'Ameiurus brunneus'
+		'Ameiurus platycephalus'
+		'Ameiurus natalis'
+		'Ameiurus melas'
+		'Ameiurus nebulosus'
+		'Noturus flavus'
+		'Noturus stigmosus'
+		'Prietella phreatophila'
+		'Pylodictis olivaris'
+		'Satan eurystomus'
+		'Cranoglanis bouderius'
+		'Ictalurus countermani'
+		'Ictalurus hazenensis'
+		'Hypsidoris farsonensis'
+    ;
+    ENDBLOCK;
+
+    BEGIN CHARACTERS;
+	DIMENSIONS NCHAR=7;
+	FORMAT DATATYPE=STANDARD GAP=- MISSING=? SYMBOLS="012";
+	CHARLABELS
+		 [1] 'Presence of eyes'
+		 [2] 'Anterior cranial fontanelle'
+		 [3] 'Length of the muscle crests on frontal'
+		 [4] 'Frontal crest reaching lateral ethmoid'
+		 [5] 'Form of the supraoccipital process'
+		 [6] 'Presence of sphenotic process'
+		 [7] 'Development of sphenotic process'
+	;
+	STATELABELS
+		1
+		'Present'
+		'Absent'
+		,
+		2
+		'Open'
+		'Almost completely closed'
+		,
+		3
+		'Crests meet skull roof margin near level of epiphyseal bar'
+		'Crests meet skull roof margin anterior to level of epiphyseal bar'
+		,
+		4
+		'Anterior end of the ridge reaching the lateral ethmoid bone'
+		'Anterior end of the ridge not reaching the lateral ethmoid bone'
+		,
+		5
+		'Simple'
+		'Bifid'
+		,
+		6
+		'Absent'
+		'Present'
+		,
+		7
+		'Very large angular sphenotic process'
+		'Moderately large, slightly rounded or pointed process'
+		
+	;
+	MATRIX
+	'Ictalurus furcatus'		              001110-
+	'Ictalurus balsanus'		              0011011
+	'Ictalurus punctatus'		             001110-
+	'Ictalurus meridionalis'		          ?01110-
+	'Ameiurus catus'		                  0010011
+	'Ameiurus serracanthus'		           0010011
+	'Ameiurus brunneus'		               0010011
+	'Ameiurus platycephalus'		          0010011
+	'Ameiurus natalis'		                0011011
+	'Ameiurus melas'		                  0010011
+	'Ameiurus nebulosus'		              0001011
+	'Noturus flavus'		                  0010011
+	'Noturus stigmosus'		               000100-
+	'Prietella phreatophila'		          10--00-
+	'Pylodictis olivaris'		             0011?10
+	'Satan eurystomus'		                10?????
+	'Cranoglanis bouderius'		           0??????
+	'Ictalurus countermani'		           ?1???11
+	'Ictalurus hazenensis'		            ?0??011
+	'Hypsidoris farsonensis'		          ?0??00-
+    ;
+    ENDBLOCK;
+
