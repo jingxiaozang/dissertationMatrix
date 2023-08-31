@@ -1,0 +1,114 @@
+nstates num 8;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 12.45.10'
+18 78
+
+&[num]
+Acanthocrinus                        00010110120100?1-0
+Aishacrinus                          00?30012140????1-?
+Ambicocrinus                         0001001013010001-2
+Ambonacrinus                         10010010120110000-
+Anthemocrinus                        1011001012010111-2
+Anthracocrinus                       1012000--20101001-
+Apoarchaeocrinus                     001300???20100001-
+Apurocrinus                          10011013371110000-
+Archaeocrinus                        1001001024011001-2
+Balacrinus                           0011000--10100001-
+Becsciecrinus                        10010010020100000-
+Bogotacrinus                         10011011371110000-
+Bromidocrinus                        00011?????????11-2
+Bucucrinus                           000400????0100001-
+Cadiscocrinus                        100110????0???11-2
+Callistocrinus                       00050010040101000-
+Cefnocrinus                          10110010130101001-
+Cotylacrinna                         1113100--2010101-2
+Cribanocrinus                        0001101313010001-2
+Cybelecrinus                         1013000--20100001-
+Cyphocrinus                          11111?0???????????
+Dalicrinus                           0013100--2011101-2
+Deocrinus                            001100?????1??????
+Diabolocrinus                        1101100--1010011-2
+Diamenocrinus                        1003101236010001-0
+Dimerocrinites_decadactylus          1001000--1010011-2
+Duncanicrinus                        1001000--10100001-
+Emperocrinus                         111110????????????
+Eodimerocrinites                     1003000--2010001?2
+Eucrinus                             1003100--2010001-2
+Eudimerocrinus                       1001001024011001-2
+Euptychocrinus                       1011000--10100001-
+Fombuenacrinus                       0003?00--2010101-2
+Gazacrinus                           000100????0???11-2
+Gilbertsocrinus_tuberosus            1001111013010001-2
+Gnarycrinus                          1001100--1010001-2
+Goyacrinus                           1013100--2010101-1
+Griphocrinus                         10010010240???11-2
+Gustabilicrinus                      0013000--20101001-
+Hercocrinus                          001100?????1??11-1
+Hollowaycrinus                       100110??33010001-0
+Lampterocrinus                       1000001--01110001-
+Lemennocrinus                        000110????????1???
+Lutocrinus                           0003100--2010001-2
+Lyriocrinus                          0001000--1010011-2
+Macarocrinus                         10011010120100000-
+Neoarchaeocrinus                     0001001024010001-2
+Nexocrinus                           1003000--20100001-
+Nyctocrinus                          1001101013011011-2
+Ophiocrinus                          1003000--2010001-0
+Opsiocrinus                          1001000--1010001-0
+Orthocrinus                          000110????????????
+Ortsaecrinus                         0001100--1010?001-
+Paradiabolocrinus                    110110????????????
+Pararchaeocrinus                     00010010240100?01-
+Perunocrinus                         1001000--1010011-2
+Preschericrinus                      000110????????????
+Probalocrinus                        101300?????1??11-2
+Proexenocrinus                       0001000--10100001-
+Pterinocrinus                        10011010131110000-
+Ptychocrinus                         10010010120100001-
+Rhachicrinus                         100300????????????
+Rhaphanocrinus                       0002000--20100001-
+Rheocrinus                           0013000--2010011-2
+Rhipidocrinus                        0011100--11100000-
+Rhodocrinites_kirbyi                 0001001313010001-2
+Shidianocrinus                       110110????????????
+Silfonocrinus                        1011000--21100001-
+Simplococrinus                       0013000--2010101-2
+Spyridiocrinus                       0004000--400--11-2
+Stereoaster                          00131010??01??01-2
+Thylacocrinus                        1003100--3010001-2
+Tormosocrinus                        1111100--1010111-2
+Trichinocrinus                       0011100--10100001-
+Ursucrinus                           0013000--20100001-
+Rosfacrinus                          0003000--20100000-
+Sakucrinus                           1011100--1010001-2
+Priscillacrinus                      1013100--2010011-0
+
+;
+
+
+cnames
+{ 0 Calyx_lobation_at_the_position_where_arms_become_free absent present;
+{ 1 Short_ray_lobes_built_with_fixed_brachials absent present;
+{ 2 Fixed_pinnules absent present;
+{ 3 Arm_openings_into_the_calyx five ten fifteen twenty forty thirty;
+{ 4 Free_arm_openings_grouped absent,_arms_not_grouped present,_arms_grouped;
+{ 5 Arm_habit erect pendant;
+{ 6 Free_arm_branching absent present;
+{ 7 Free_arm_branching_type isotomous/poorly_isotomous asymmetrical_heterotomous endotomous exotomous holotomous;
+{ 8 Maximum_number_of_free_arm_bifurcations one two three four_or_more;
+{ 9 Maximum_number_of_total_brachial_bifurcations_(fixed_and_free_combined) none one two three four five six ";
+{ 10 Ramules absent present;
+{ 11 Pinnulation apinnulate pinnulate;
+{ 12 Pinnulation_type regular_(one_pinnule_per_brachial) hyperpinnulate_(two_pinnules_per_brachial);
+{ 13 Proximal_pinnules_enlarged absent present;
+{ 14 Proximal_free_arm_brachials uniserial biserial;
+{ 15 Mature_arm_brachials uniserial biserial;
+{ 16 Mature_brachial_type,_if_uniserial rectilinear_uniserial weakly_to_moderately_cuneate_uniserial strongly_cuneate_uniserial;
+{ 17 Mature_brachial_type,_if_biserial wedge_biserial round_biserial flat_chisel_biserial;
+;
+
+
+ccode  - 0.17;
+
+
+;

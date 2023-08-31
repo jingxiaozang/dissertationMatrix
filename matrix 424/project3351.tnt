@@ -1,0 +1,195 @@
+nstates num 7;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 12.41.04'
+143 34
+
+&[num]
+Alopoglossus_angulatus                       0?112101?1011110010000?0?0?01?01001??10?1?00?2?111210??1?0?10010??011?1?100001101011101100111101001010010011?0110110110011111110100000111000010
+Alopoglossus_atriventris                     0?11?101110111100100001010?01101001?01?11?00???11121011110?1001011011111100111001111100100111101001010010011?0110110010011111110100001111010011
+Alopoglossus_buckleyi                        0?112101?1011110010000?0?0?01?01001??1?112001??111210??1?0?1001?11011?1?100111001101101100111101001010010011?0110110110111111110???????10000010
+Alopoglossus_copii                           0?11210111011110010000?00?0?1?01001??1011300?211112112?1?0?100101?01111110000110100????????????????????????????????????????????????????????????
+Alopoglossus_embera                          0?11?101110111?10100001010101101001001?11101?21111210?3110?00?1?0?011?111??????????1101101111100011010010011?0110110010011111110???????12001010
+Alopoglossus_festae                          0?111101?1?1111101000010?0?01?010?1??1?11101?21111210??100?000101?011???100110010?01100101111101011010010011?0110110010011111110???????12001010
+Alopoglossus_lehmanni_FMNH165199             0?11211110?111100100100?0?0?11010010010112000010104102?110?0??1?1?111011100??1011?01101100111111001010010011?0110010010111101110???????????????
+Alopogossus_viridiceps                       ?????10111001111010000100?0?11010010111112011?111121001100?0??1???011?111??????????????????????????????????????????????????????????????????????
+Ameiva_ameiva                                2110011111000111111?000?101011000312001111001?010030000000?0??1?1?1000011000110010102000111000?012001010011010000000002000?010?1???????????????
+Arthrosaura_kocki                            111021011101111101010010?10?1100500?01?111011?101041000000?1001011001010111111100?0120011101001001101001001011210010001001101110???????11000010
+Bachia_flavencens                            ????0110?101002?20??000?0?0?000010???011100001000000000000?0???0?1000000000000001101000111040210100001310010012110100110011100101002010002????1
+Cnemidophorus_lemniscatus_MPEG17843          20102101110001101100000?0?0?10005312000111001?010030000000?1?01?111000011001010011002010011101?0120000010111?0200000001000011010???????12010011
+Colobosaura_modesta                          2110110110?111000100110?0?0?110001101101110103101041001100?1001011001011111011010?0100110101201010101021001000210100001000011010100100102000010
+Iphisa_elegans                               ?????10110?111010100110?0?0?100120????00001103001150033100?1?01?00000011111001000?0110010001201011101001001000210100101000001000100100102000110
+Kentropyx_calcarata                          20101111110011001101101010101100510?000111001?010031013110?00?1?1?1110111001010010002010111100?002101001011000200000001000001010???????????????
+Lacerta_viridis                              1000?1?111100111010100?1?1?11010?20?111110101??100310??100?1?01?00000?111??????????00010110000?0111010011110?0100011001000101000???????????????
+Loxopholis_guianense                         101121?11?0111102102001010?011015010011112001?11112101?110?1001011011011100111000?0110011101210000101001001001210010011001021110001000102000001
+Potamites_ecpleopus                          1010?1111?1101102102000?0?0?1?005?0?010112003?103062102000?10010000111101011111011012001010111011210100101001120000111100012011100111010201001?
+Ptychoglossus_bicolor                        0?112110?10111100100?00?0?0?10010010011110000?00?00000?00111?01?00100000?00001101001101100?11011111010010001?01100100101????101010011?10211000?
+Ptychoglossus_bilinesatus                    0?112101110111100100000?0?0?10000010010112001?00104100?00111?01?1110001010010110101????????????????????????????????????????????????????????????
+Ptychoglossus_breviforntalis                 0?112101110111100100?00?0??010000010?1?11?000000104?000001?1001???100000?00001001001101101111011011010010011?0110010010011101010???????02010000
+Ptychoglossus_danieli                        0?112101??0101?00100000?0?0?100?00100111100000001041000000??0??0??1000001??????????1101101111010011010010011?0110010010111111110???????02000011
+Ptychoglossus_eurylepis                      0??12110?10111100100010?0?0?10010010011110010000101000?0011?0??0??1000000??????????????????????????????????????????????????????????????????????
+Ptychoglossus_festae                         0?112101??011110?100100?0?0?1?000010?1?1100000001041000001?1001?0?1000?010000100100????????????????????????????????????????????????????????????
+Ptychoglossus_gorgonae                       0?111101110111100100000?0?0?100?001?0?1110000000?0?100?001?1?01?00?000101??????????????????????????????????????????????????????????????????????
+Ptychoglossus_grandisquamtus                 0??12111010111100100010?0?0?10010010110110010000101000?00100??1?0?1000000??????????????????????????????????????????????????????????????????????
+Ptychoglossus_kugleri                        ?????101010101000100000?0?0?100?00101111100000001041000000?101110010000010000100100????????????????????????????????????????????????????????????
+Ptychoglossus_myersi                         0?112101010111100100000?0?0?100?0?1001011201?0001041001000??0010001?001010011101100????????????????????????????????????????????????????????????
+Ptychoglossus_plicatus                       0?112101?1011110?10000?0?0?01?01001?01011?0??0?010410?1000?1?01???1??010100011011001101100111111011010010011?0110010010011111110???????02001010
+Ptychoglossus_romalaeos                      ?????101110111000100100?0?0?100000100111120000001041000001110?10001000001??????????????????????????????????????????????????????????????????????
+Ptychoglossus_stenlepis                      0?11?1?1010111100100000?0?0?100?001101?11000000000?100?001100?11??1000001000011110111011000110110110100?0001?01100100101???01010100110102110000
+Ptychoglossus_vallenesis                     0?112101010111100100000?0?0?100?0010?11110000000?0?10000011?001?11?00??01000000010011001001110010110100?0001?01100100101???01010???????02110011
+Salvator_merianae                            21110101110001111100000?0?0?1010420?001111001?010030000000?1?11?111000011000010010100100010010?012010010011000000010001000021001???????????????
+Tretioscincus_agilis                         ?????10100?1012?1102000?0?0?1000010??101001003011150032100?100??000000000101110011011001001120100200100100100021010000100000101010010010200001?
+
+;
+
+
+cnames
+{ 0 Morphology_of_the_dorsal_surface_of_the_tongue entirely_covered_by_oblique_plicae covered_by_oblique_plicae_proximally_and_by_papillae_like_scales_distally entirely_covered_by_papillae_like_scales;
+{ 1 Tongue_papillae_ralationship juxtaposed imbricated;
+{ 2 Sublingual_plicae absent present;
+{ 3 Longitudinal_sulcus_on_the_middle_part_of_the_tongue absent present;
+{ 4 Pigmentation_of_the_tongue entirely_light entirely_dark ligth_proximally_and_dark_distally;
+{ 5 Eyelid absent present;
+{ 6 Proportion_of_the_frontonasal wider_than_larger larger_than_wider_or_approximately_equal_sides;
+{ 7 Prefrontal_scales absent present;
+{ 8 Contact_between_prefrontals absent present;
+{ 9 Nasal_divided absent present;
+{ 10 Nasal_scales_division two_scales three_scales;
+{ 11 Nasal_scales_relationship in_contact separated_from_each_other_by_the_rostral_and_frontonasal_scales;
+{ 12 Nostril_position lateral lateroposterior_;
+{ 13 Frontoparietal_scales absent present;
+{ 14 Supraoculars_count three four tow;
+{ 15 Size_of_second_supraocular similar_in_size_to_third_supraocular twice_the_size_of_third_supraocular;
+{ 16 Posterior_border_of_the_parietal_and_interparietal_scales form_a_nearly_straight_suture_across_the_back_of_the_head form_an_irregular_suture_across_de_back_of_the_head form_a_rounded_suture_across_de_back_of_the_head;
+{ 17 Interparietal absent present;
+{ 18 Interparietal_divided absent present;
+{ 19 Size_of_interpariertal similar_in_size_to_the_parietal smaller_than_parietals larger_than_parietals;
+{ 20 Exceptionally_broad_scales_forming_occipital_scale_rows absent present;
+{ 21 Two_enlarged_longitudinal_rows_of_scales_on_the_nape absent present;
+{ 22 Ornamentation_on_the_parietal_scales absent present;
+{ 23 Type_of_ornamentation_on_the_parietal ridged_surface irregular_surface;
+{ 24 Ornamentation_on_the_frontoparietal_scales absent present;
+{ 25 Type_of_ornamentationon_the_frontoparietal ridged_surface irregular_surface;
+{ 26 Ornamentatio_on_the_frontal_scales. absent present;
+{ 27 Type_of_ornamentationon_the_frontal. ridged_surface irregular_surface;
+{ 28 Tympanic_recess. absent present;
+{ 29 Ornamentation_of_temporal_scales smooth keeled;
+{ 30 Loreals unique divided more_than_one;
+{ 31 Frenocular_in_contact_with_the_nasal_anteriorly absent present;
+{ 32 Pairs_of_enlarged_chin_shields three two one six five four;
+{ 33 Number_of_infralabials_in_contact_with_chin_shields 4 5 6 3;
+{ 34 Third_chinshields_separated_from_infralabials absent present;
+{ 35 Third_chinshields_separated_from_infralabials_by by_one_sublabial by_two_sublabials by_granular;
+{ 36 Third_pair_of_chin_shields_in_contact_medially absent present;
+{ 37 Second_pair_of_chin_shields_in_contact_medially absent present;
+{ 38 Gular_crease absent present;
+{ 39 Gutural_fold absent present;
+{ 40 Pregulars_differentiated_from_the_gulars absent present;
+{ 41 Pregular_scales_shape plate-like granular granular_medially_and_like_plates_laterally with_a_pair_of_enlarged_scales_medially;
+{ 42 Pregulars_scales_relationship yustaposed imbricated;
+{ 43 Widened_paramedian_plates absent present;
+{ 44 Lateral_neck_scales plate-like granular granular_anteriorly_and_plate-like_posteriorly longitudinal_rows_of_granular_scales_between_rows_of_enlarged_scales;
+{ 45 When_plates-like_,_lateral_neck_scales round quadrangular lanceolate cicloid;
+{ 46 Ornamentation_of_the_lateral_neck_scales smooth keeled only_keeled_at_the_posterior_part_of_the_neck;
+{ 47 Dorsal_scales_rows more_evidently_disposed_in_transversal_rows disposed_in_transversal_and_oblique_rows;
+{ 48 Relationship_between_dorsal_scales_with_its_anteroposterior_relatives juxtaposed imbricated longitudinal_rows_of_juxtaposed_scales_between_rows_of_imbricated_scales State_3;
+{ 49 Relationship_between_dorsal_scales_with_its_lateral_relatives juxtaposed imbricated;
+{ 50 Dorsal_scales_shape Rectangular squared mucronate granular pentagonal cicloid rows_of_mucronate_and_rows_of_granular;
+{ 51 Ornamentation_of_dorsal_scales smooth keeled rows_of_smooth_an_rows_of_keeled;
+{ 52 Well_defined_para_vertebral_rows_scales absent present;
+{ 53 Posterior_border_of_the_ventral_scales truncated mucronate angulated rounded;
+{ 54 Posterior_border_of_infracaudals truncated angulated rounded mucronate;
+{ 55 Relationship_of_ventral_scales_with_its_lateral_relatives juxtaposed imbricate;
+{ 56 Ornamentation_of_ventral_scales smooth keeled;
+{ 57 Lateral_fold absent present;
+{ 58 Transversal_rows_of_scales_on_lateral_fold absent present;
+{ 59 Precloacal_pores_in_males absent present;
+{ 60 Precloacal_pores_in_females absent present;
+{ 61 When_precloacal_pores_series_present at_the_same_level_where_they_come_together staggered_behind_the_femoral_pore_series;
+{ 62 Femoral_pores_in_males absent present;
+{ 63 Femoral_pores_in_females absent present;
+{ 64 Scales_bearing_femoral_pores entire divided;
+{ 65 Scales_bearing_pre-cloacal_pores entire divided;
+{ 66 Thenar_scales_size small enlarged;
+{ 67 Ornamentation_of_dorsal_scales_of_the_arm smooth keeled;
+{ 68 Ornamentation_of_anterior_scales_of_the_thigh Smooth keeled;
+{ 69 Ornamentation_of_the_posterior_part_of_the_thigh_scales smooth keeled;
+{ 70 Ornamentation_of_the_anterior_part_of_the_bobbin smooth keeled;
+{ 71 Ornamentation_of_tail_ventral_scales smooth keeled;
+{ 72 Ornamentation_of_tail_dorsall_scales smooth keeled;
+{ 73 Hemipenis_with_mineralized_spines absent present;
+{ 74 Hemipenis_with_comb-like_spicules absent present;
+{ 75 Hemipenis_shape cylindrical the_proximal_part_narrow_that_turns_wider_gradually_in_distal_direction;
+{ 76 Hemipenis_distally_forked absent present;
+{ 77 Hemipenial_capitulo absent present;
+{ 78 Hemipenis_with_impar_projections_on_the_distal_tip_of_the_capitule absent present;
+{ 79 Ornamentation_of_the_distal_region_of_the_hemipenis symmetrical asymmetrical;
+{ 80 Flounces_of_the_hemipenis absent present;
+{ 81 Direction_of_the_hemipenial_flounces_of_the_asulcated_face perpendicular_in_relation_with_the_longitulinal_axis_of_the_hemipenis oblique_in_relation_with_the_longitudinal_axis_of_the_hemipenis;
+{ 82 Spermatic_sulcus_obliterated_distally absent present;
+{ 83 Relation_among_neurocranium_and_dermatocranium dermatocranium_and_neurocranium_located_at_different_levels_with_a_larger_postemporal_fenestrae dermatocranium_and_neurocranium_located_at_the_same_level_obliterating_the_fenestrae_postemporal_;
+{ 84 Maximum_number_of_dental_cuspids_in_maxillary_teeth 1 2 3;
+{ 85 Like_molar_teeth absent present;
+{ 86 Pterygoid_teeth absent present;
+{ 87 Lateral_borders_of_the_dorsal_process_of_the_premaxilla parallel convergent_distally;
+{ 88 Basal_part_of_the_dorsal_process_of_the_premaxilla with_basal_constriction that_constriction_is_strong_and_abrupt without_basal_constriction;
+{ 89 Contact_between_the_nasals absent present;
+{ 90 The_contact_between_the_dorsal_surface_of_the_posterior_process_of_the_maxilla_and_the_suborbital_process_of_the_jugal_visible_laterally absent covered_by_the_posterior_part_of_the_facial_process_of_the_maxilla present;
+{ 91 The_relation_between_the_palatal_shelf_and_the_vomer palaeochoanate_condition incomplete_neochoanate_condition neochoanate_condition duplcipalatine_(_Rieppel_et_al._2008_) State_4;
+{ 92 In_the_maxilla_,_Width_of_the_palatal_shelf_i relatively_de_same_through_all_palatal_shelf abrut_reducction_of_the_palatal_shelf_at_its_mid_point palatal_shelf_disappears_after_the_mid_point_of_the_dental_row;
+{ 93 Interorbital_constriction_of_the_frontal half_wide_than_the_posterior_part_of_the_frontal a_third_part_than_posterior_part_of_the_frontal Only_slightly_smaler_that_the_posterior_part_of_the_frontal;
+{ 94 Frontoparietal_tabs with_the_same_or_less_length_of_the_parietal_processes_of_the_frontal taller_than_the_parietal_processes_of_the_frontal without_frontoparietal_tabs;
+{ 95 Cristae_cranii forming_lateral_descending_ridges forming_a_tubular_structure;
+{ 96 Parietal_proportions_,_this_considering_the_length_since_the_posterior_part_of_the_posteromedial_slit_to_the_contact_border_with_the_frontal_,_and_the_width_between_the_dorsal_edges_of_the_supratemporal_fenestras wider_than_longer longer_than_width;
+{ 97 Lateral_borders_of_the_body_of_parietal straight slightly_curved_medially strongly_curved_medially;
+{ 98 Lateral_shelf_of_the_parietal absent present;
+{ 99 Sagital_crest_on_the_parietal absent present;
+{ 100 Parietal_flat absent dorsally_convex present;
+{ 101 The_descending_ventral_process_of_the_parietal small occuping_only_the_superior_part_of_the_infratemporal_fenestra hyperthrophied_(_Roscito_&_Rodrigues_2010_);
+{ 102 The_posterolateral_processes_of_the_parietal_proportions the_length_is_similar_to_the_lateral_edge_of_the_parietal_body longer_than_the_lateral_edges_of_the_parietal_body reduced State_3;
+{ 103 Posterolateral_process_of_the_parietal_shape laterally_flat vertically_flat;
+{ 104 Foramen_pineal absent present;
+{ 105 The_prefrontal_articulated_with_the_palatine absent present;
+{ 106 Lacrimal_bone_in_the_adult_forms absent present;
+{ 107 Postorbitofrontal absent present;
+{ 108 Posfrontal_shape triradiated tretaradiated;
+{ 109 Jugal_proportions dorsal_process_and_suborbital_process_of_the_jugal_with_similar_length subornital_prcess_of_the_jugal_conspicuily_reduced;
+{ 110 Contact_between_the_jugal_and_the_postorbital_or_postorbitofrontal the_tip_of_the_dorsal_process_of_the_jugal_artulates_with_the_ventral_tip_of_the_ventral_process_of_the_postorbital_(_postorbitofrantal the_medial_sufface_of_the_dorsal_process_of_the_jugal_contacts_with_the_lateral_surface_of_the_ventral_process_of_the_postorbital_(_postorbitofrontal) _the_anterior_border_of_the_dorsal_process_of_the_jugal_contacts_with_the_posterior_border_of_the_v;
+{ 111 Proporcition_of_dorsal_and_ventral_rami_pterygoid_facet_of_the_ectopterigoid dorsal_and_another_ventral_rami_with_similar_lenght without_ventral_rami;
+{ 112 Quadrate_reduced absent present;
+{ 113 Dorsoanterior_part_of_the_tympanic_crest_of_the_quadrate convex doing_a_continuous_curved_outline_with_rest_of_the_tympanic_crest from_flatter_to_slightly_concave_generating_a_discontinuity_with_the_curve_middle_part_of_the_tympanic_crest;
+{ 114 Posterolateral_process_of_the_vomer absent present;
+{ 115 Contact_between_the_palatine_and_the_cristae_cranii_of_the_frontal absent present;
+{ 116 Palatines_contact_each_another absent present;
+{ 117 Lateral_border_of_the_palatine_with_a_shelf_that_projects_medially absent present;
+{ 118 Shape_of_the_palatine_process_of_the_pterygoid borders_are_curved_divergently_with_the_distal_tip_truncated_and_broad convergent_or_parallel_borders_with_a_distal_narrow_tip bifurcated;
+{ 119 Little_conic_tubercle_that_surge_of_the_anterior_border_of_the_palatine_process_of_the_pterygoid absent present;
+{ 120 Pterygoid_flange_bifurcated absent present;
+{ 121 Basipterygoid_process_size small conspiously_projected;
+{ 122 Basipterygoid_process_direction directed_lateroventrally directed_anteriorlly;
+{ 123 Meckels_groove open_only_anteriorly open_from_the_middle_to_the_anterior_part_of_the_dentary encased_in_a_tubular_section_of_the_dentary;
+{ 124 Posterodorsal_process_of_the_dentary absent present;
+{ 125 Length_of_the_anterior_part_of_the_splenial strongly_projected_anteriorly non_or_only_slightly_projected_anteriorlly;
+{ 126 Posterior_process_of_the_splenial truncated projected_posteriorly;
+{ 127 Angular_process_of_the_mandible_orientation ventromedially_projected ventrally_projected;
+{ 128 Hyoid_cornu_shape slender_with_parallel_borders wide_with_rounded_shape;
+{ 129 Lateral_border_of_the_hyoid_cornu medialy_curved laterally_curved;
+{ 130 Medial_process_of_the_hyoid_cornu absent present;
+{ 131 Second_ceratobranchial_size goes_posteriorly_beyond_the_first_ceratobranchial do_not_goes_beyond_the_first_ceratobranchial absent;
+{ 132 First_epibranchial_with_proximal_expansion absent present;
+{ 133 Processus_lingualis_with_posterior_expansion absent present;
+{ 134 Free_epibranchial absent present;
+{ 135 Scapular_fenestra absent present;
+{ 136 Interclavicle_shape rod_shaped_without_lateral_processes rhomboidal_shaped_with_little_lateral_processes_that_go_up_the_first_coracoid_fenestrae cross_shaped_with_large_lateral_processes_that_can_be_go_beyond_the_second_coracoid_fenestra;
+{ 137 Phalanges_of_the_first_finger_of_the_hand 2 1 0_(_Roscito_et_al._2014_);
+{ 138 Size_of_fourth_finger_in_relation_to_the_third_finger fourth_finger_longer_than_third_finger fourth_finger_shorter_or_similar_than_third_finger;
+{ 139 Ventral_metacarpophalangeal_sesamoids absent present;
+{ 140 Ventral_distal_phalangeal_sesamoid absent present;
+{ 141 Dorsal_distal_phalangeal_sesamoid absent present;
+{ 142 Position_of_the_first_caudal_vertebrae_with_autotomy_axis fifth_vertebrae fourth_vertebrae sixth_vertebrae;
+;
+
+
+ccode  - 0.142;
+
+
+;

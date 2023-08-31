@@ -1,0 +1,139 @@
+nstates num 8;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 12.38.34'
+77 44
+
+&[num]
+Paiwarria_telemus              11110100010-0-0-000010100---00-0-01000-0001030010-0100--000--00000001100000-1
+Annamaria_draudti              33450100110-0-0-0010101010031000-01000-000103000121100--000--200000100--100-0
+Evenus_regalis                 33450100000-0-0-00000-0-10031000-01000-000103000021100--000--20000001100100-0
+Brangas_caranus                547700200011101011100-0-1111103?101000-010101--0210000--01100410000011111????
+Brangas_getus                  547700200011101011100-0-1111103?101000-010101--0210000--0110041000001111000-0
+Pseudolycaena_marsyas          64661110000-0-0-00101312121010210010010000102--021000?13?01101013201111?100-0
+Pseudolycaena_damo             64661110000-0-0-00101312121010210010010000102--021000?13?0110101320101--100-0
+Atlides_halesus                547700201110111100100-0-0---00-0-01010-1100----0--0000--0011041022011110100-1
+Atlides_polybe                 445401001110111100100-0-0---00-0-01010-2100----0--0000--0011041022011110100-0
+Atlides_cosa                   54770100111011110000111113321051101000-2?00----0--0000--0011041022011110100-0
+Arcas_imperialis               00000100110-0-0-00100-0-0---00-0-01000-0011130003-000100101211000102110011110
+Arcas_ducalis                  00000120110-0-0-00100-0-0---00-0-00000-0011130003-000100101211000102110011110
+Arcas_cypria                   00000120110-0-0-00100-0-0---00-0-01001100010300032000100101211000102110011110
+Arcas_delphia                  00000100010-0-0-00110-0-0---01-0-01000-000103000120000--001211000102110011110
+Arcas_tuneta                   00000100010-0-0-00110-0-0---01-0-010011000103000120000--001211000102110011110
+Arcas_gozmanyi                 00000100010-0-0-00000-100---00-0-01001100010300012000100001211000102110011110
+Arcas_splendor                 00000100010-0-0-001110100---00-0-01001100010300012000100101211000102110011110
+Arcas_jivaro                   00000100010-0-0-00110-0-0---00-0-01001100010300012000100101211000102110011110
+Arcas_alleluia                 00000100000-0-0-00000-100---00-0-01001100010300012000100101211000102110011110
+Theritas_mavors                22330100110-0-0-00000-111003100?000100-000103000100001001011010002011100100-0
+Theritas_triquetra             22330100110-0-0-00000-1110031001000100-000103000100001001011030002011100100-0
+Theritas_paupera               223301000?0-0-0-0000101110031011000100-00010300?000001001011010011011100100-0
+Theritas_harrietta             24330100110-0-0-000010111003101100?000-0001030010000010010110100110?1??01???0
+Theritas_drucei                22330100110-0-0-0010101110031001000100-000103001000001001011010011011100100-0
+Lucilda_margaritacea           25220100110-0-0-00100-0-0---1000-00000-0000----0--0010--00110400111100--000-0
+Lucilda_danaus                 25220100110-0-0-00100-0-0---1000-00000-0000----0--0010--00110400111100--000-0
+Lucilda_dabrerus               22770100110-0-0-000?12??1004?0?0-0?000-00010300042000????01104001??????????-?
+Lucilda_boliboyerus            22770100110-0-0-000?12??1004?0?0-01?00-000103000420000--00110300111100--0????
+Lucilda_crines                 22220120010-0-0-001015110---1000-01000-000103000220000--00110400020000--10110
+Denivia_hemon                  22220101000-0-0-0010101110261000-00100-00010001020000102101104000001111010101
+Denivia_phegeus                22330101000-0-0-0010101110261000-00000-00010001020000100101104000001111010101
+Denivia_augustula              22220101000-0-0-0010111110251000-10000-00010001020000100101104001001111010101
+Denivia_arene                  22220101000-0-0-0010111110251000-10000-00010001020000100101103001001111010101
+Denivia_monica                 22220121000-0-0-0010111110251000-10000-00010001020000102101103001001111010101
+Denivia_acontius               22220101000-0-0-0000111110261040-00000-00010001020000100101104000001111010101
+Denivia_chaluma                22220101000-0-0-0000111110261040-10000-00010001020000101101104001001111010101
+Denivia_deniva                 22770101000-0-0-0000111110021000-10000-0001031-02-000100101104001201111010101
+Denivia_curitibaensis          22770121000-0-0-00000-0-10021000-10000-0001031-02-0000--00110300120111101????
+Denivia_augustinula            22770120000-0-0-00000-0-10251041211000-00010001020000101101103001201111010101
+Denivia_theocritus             22770120000-0-0-0010141310251041211000-00010001020000100101103000201111010101
+Denivia_viresco                22220120000-0-0-0010111110261000-01000-00010001020000100001104000101111000101
+Denivia_espiritosanto          22220100000-0-0-00?0111110261000-11000-00010001020000101101101001101111000101
+Denivia_silma                  25220120000-0-0-0010111110261000-01000-00010001020000101101101000001111010101
+Denivia_lisus                  22220120000-0-0-0010111110261000-01000-00010001020000?00?0110100010?111010110
+
+;
+
+
+cnames
+{ 0 Male,_frons,_color Emerald_green Lemon_green Muted_green Yellowish_green Turquoise Orange Brown;
+{ 1 Male,_paraocular_area,_color Emerald_green Lemon_green Muted_green Yellowish_green White Blue;
+{ 2 Male,_forewing,_ventral_surface,_ground_color Emerald_green Lemon_green Moss_green Muted_green Yellowish_green Olive_green Lilac Brown;
+{ 3 Male,_hindwing,_ventral_surface,_ground_color Emerald_green Lemon_green Moss_green Muted_green Olive_green Yellowish_green Lilac Brown;
+{ 4 Male,_forewing,_outer_margin Straight Concave;
+{ 5 Male,_forewing,_costal_margin Straight Convex;
+{ 6 Male,_forewing,_apex_of_cell_R2-M1 Straight Acute Obtuse;
+{ 7 Forewing,_dorsal_surface,_scent_patch_distal_of_the_discal_cell_between_veins_M1_and_M3,_intermixed_with_regular_iridescent_wing_scales Absent Present;
+{ 8 Forewing,_dorsal_surface,_scent_patch_distal_of_the_discal_cell_between_veins_M1_and_M3,_NOT_intermixed_with_regular_wing_scales Absent Present;
+{ 9 Forewing,_dorsal_surface,_scent_pad Absent Present;
+{ 10 Male,_forewing,_ventral_surface,_red_scaling_between_the_costal_margin_and_the_Sc_vein Absent Present;
+{ 11 Male,_forewing,_ventral_surface,_shape_of_red_patch_between_the_costal_margin_and_vein_Sc Short_(as_a_spot_in_the_base_of_the_wing) Long_(one_third_of_the_costal_margin_length);
+{ 12 Male_and_female,_hindwing,_ventral_surface,_red_scaling_between_the_costal_margin_and_the_Sc+R1_vein Absent Present;
+{ 13 Male_and_female,_hindwing,_ventral_surface,_shape_of_red_scaling_between_the_costal_margin_and_vein_Sc+R1 Long_(one_third_of_the_costal_margin_length) Short_(as_a_spot_in_the_base_of_the_wing);
+{ 14 Male_and_female,_hindwing,_ventral_surface,_cell_3A-2A,_red_scaling Absent Present;
+{ 15 Male_and_female,_hindwing,_ventral_surface,_cell_3A-2A,_shape_of_red_scaling Long_(one_third_of_the_cell_length) Short_(as_a_spot_in_the_base_of_the_wing);
+{ 16 Male_and_female,_forewing_ventral_surface_at_the_base,_red_scaling_between_vein_Sc_and_the_discal_cell_(character_proposed_by_Bálint_&_Faynel,_2008) Absent Present;
+{ 17 Male_and_female,_hindwing_ventral_surface_at_the_base,_red_scaling_between_vein_Sc+R1_and_the_discal_cell_(character_proposed_by_Bálint_&_Faynel,_2008) Absent Present;
+{ 18 Male,_forewing,_ventral_surface,_base_between_discal_cell_and_Cu2,_bluish_iridescent_scales Absent Present;
+{ 19 Female,_forewing,_ventral_surface,_base_between_discal_cell_and_Cu2,_bluish_iridescent_scales Absent Present;
+{ 20 Male,_forewing,_ventral_surface,_submarginal_band Absent Present;
+{ 21 Male,_forewing,_ventral_surface,_submarginal_band,_color Black Brown Blue Black_macules_with_white_outline Greenish White;
+{ 22 Female,_forewing,_ventral_surface,_submarginal_band Absent Present;
+{ 23 Female,_forewing,_ventral_surface,_submarginal_band,_color Black Brown Black_macules_with_white_outline Greenish;
+{ 24 Male,_forewing,_ventral_surface,_postmedian_band Absent Present;
+{ 25 Male,_forewing,_ventral_surface,_postmedian_band,_pattern Linear With_the_central_portion_(M1-Cu1)_distally_displaced Scattered_macules With_the_terminal_portion_(M3-Cu2)_distally_displaced;
+{ 26 Male,_forewing,_ventral_surface,_postmedian_band,_elements Uninterrupted_thin_line Rounded_macules Dashed_thin_line Broken_broad_blur;
+{ 27 Male,_forewing,_ventral_surface,_postmedian_band,_color Black_macules_with_white_outline White_macules_with_brown_outline Brown Black Blue Green Black_with_greenish_scales;
+{ 28 Female,_forewing,_ventral_surface,_postmedian_band Absent Present;
+{ 29 Female,_forewing,_ventral_surface,_submarginal_region,_whitish_scales_(modified_character_of_Robbins_et_al.,_2012) Absent Present;
+{ 30 Female,_forewing,_ventral_surface,_postmedian_band,_shape Linear Forming_a_V_next_to_vein_Cu2 Scattered_macules Fragments_between_the_costal_margin_and_vein_Cu2_distally_displaced Fragments_between_veins_M3-_Cu1_and_Cu1-_Cu2_distally_displaced Fragments_from_the_costal_margin_to_vein_M1_basally_displaced;
+{ 31 Male,_forewing,_ventral_surface,_discal_cell_band Absent Present;
+{ 32 Male,_forewing,_ventral_surface,_discal_cell_band,_color Black Brown Green;
+{ 33 Female,_forewing,_ventral_surface,_apex,_scattered_white_scales Absent Present;
+{ 34 Male,_forewing,_origin_of_vein_R2 Discal_cell_apex Discal_cell_lateral;
+{ 35 Female,_forewing_and_hindwing,_dorsal_surface,_ground_color Blue Brown;
+{ 36 Male,_hindwing,_Cu2_vein,_tail"s_tip,_white_scales Absent Present;
+{ 37 Male,_hindwing,_ventral_and_dorsal_surface,_cell_Cu1-Cu2_submarginal_macule Absent Present;
+{ 38 Male,_hindwing,_ventral_and_dorsal_surface,_shape_of_submarginal_macule_in_cell_Cu1-Cu2 Rounded Triangular;
+{ 39 Male,_hindwing,_ventral_surface,_veins_covered_by_black_scales_(modified_character_from_Bálint_et_al.,_2003) None Veins_Cu1,_Cu2,_and_2A All_veins;
+{ 40 Male,_hindwing,_ventral_surface,_inner_margin,_bluish_or_whitish_line Absent Present;
+{ 41 Female,_hindwing,_ventral_surface,_central_region,_pink_scaling_(character_proposed_by_Nicolay,_1971) Absent Present;
+{ 42 Male,_hindwing,_postmedian_band Absent Present;
+{ 43 Male,_hindwing,_postmedian_band,_length Complete_(from_anal_region_reaching_costal_margin) Incomplete_(not_reaching_costal_margin);
+{ 44 Male,_hindwing,_ventral_surface,_postmedian_band,_pattern Dashed_linear Aggregated_macules_(Brangas_pattern) Scattered_macules_(Pseudolycaena_pattern) Continuous_linear;
+{ 45 Male,_hindwing,_ventral_surface,_postmedian_band,_structure Conspicuous Inconspicuous;
+{ 46 Male_and_female,_hindwing,_ventral_surface,_postmedian_displaced_toward_the_base Absent Present;
+{ 47 Male,_hindwing,_ventral_surface,_postmedian_band_joining_the_submarginal_band_at_Cu2_vein_(character_proposed_by_Bálint_et_al.,_2007) Absent Present;
+{ 48 Male,_hindwing,_ventral_surface,_shape_of_postmedian_band_between_inner_margin_and_vein_Cu1 Forming_a_W Forming_a_V Curve Straight Reaching_vein_3A;
+{ 49 Male,_hindwing,_ventral_surface,_postmedian_band_in_cell_Sc+R1-Rs Basally_displaced Basally_displaced_to_wing_base Linear_with_the_rest_of_the_postmedian_band;
+{ 50 Male,_hindwing,_ventral_surface,_submarginal_region,_red_band Absent Present;
+{ 51 Female,_hindwing,_ventral_surface,_submarginal_region,_red_band Absent Present;
+{ 52 Male,_hindwing,_dorsal_surface,_central_region_of_the_inner_margin,_fold_on_the_membrane Absent Present;
+{ 53 Male,_hindwing,_cell_Cu2-2A,_membrane_invagination Absent Present;
+{ 54 Male,_hindwing,_cell_Cu2-2A,_basal_extent_of_the_membrane_invagination,_location Next_to_wing_base At_Cu1_origin Anterior_to_Cu1_origin;
+{ 55 Male,_hindwing,_cell_Cu2-2A,_distal_extent_of_the_membrane_invagination,_location Anterior_to_Cu1_origin At_Cu1_origin Distal_of_the_origin_of_M3 At_postmedian_band_region At_submarginal_band_region;
+{ 56 Hindwing,_androconia_on_the_ventral_surface_of_cell_Cu2-2A Absent Present;
+{ 57 Male,_hindwing,_ventral_surface,_cell_2A-3A_with_a_small_pencil_of_hairs_(character_from_Godman_&_Salvin_1887-1901) Absent Present;
+{ 58 Hindwing,_outer_margin_split_at_intersection_with_vein_2A_(character_from_Godman_&_Salvin_1887-1901) Absent Present;
+{ 59 Hindwing,_anal_region,_size_of_split_at_vein_2A Not_reaching_submarginal_region Reaching_submarginal_region Reaching_postmedian_region;
+{ 60 Male,_hindwing,_shape_of_anal_lobe_structure Rounded Triangular;
+{ 61 Male,_hindwing,_number_of_tails Three_tails_(M2-M3)_(M3-Cu1)_(Cu1-Cu2) Two_tails_(M3-Cu1)_(Cu1-Cu2) Two_tails_(M3-Cu1)_(Cu1-Cu2)_and_one_stub_(M2-M3) one_tail_(Cu1-Cu2) one_tail_(Cu1-Cu2)_and_one_stub_(M3-Cu1);
+{ 62 Male,_thorax,_rounded_white_/bluish_scaling Absent Present;
+{ 63 Male,_thorax_covered_by_white_bristles Absent Present;
+{ 64 Male,_abdomen,_ventral_surface,_ground_color Yellowish Brown Orange White;
+{ 65 Valvae,_posterior_margin,_lateral_view Finger-like Rounded Triangular;
+{ 66 Valvae,_ventral_surface,_slender_projection_arising_from_the_central_region_and_finishing_beyond_the_posterior_end Absent Present;
+{ 67 Saccus,_length_(cm) Short_(0.05_0.07) Medium_(0.11-0.20) Long_(0.30_-_0.40);
+{ 68 Brush-organ Absent Present;
+{ 69 Vinculum,_dorsal_projection Absent Present;
+{ 70 Vinculum,_dorsal_projection,_location Next_to_the_base_of_brush-organs At_the_central_region_of_brush_organs;
+{ 71 Vinculum,_dorsal_projection,_location_and_shape Lies_under_brush_organs Lies_under_and_on_the_inner_edge_of_brush_organs;
+{ 72 Fused_vinculum/tegumen,_ventral_projection Absent Present;
+{ 73 Ductus_bursae,_shape Straight In_S_shape;
+{ 74 Ductus_bursae,_posterior_region,_membranous_area Absent Present;
+{ 75 Ductus_bursae,_constriction Present Absent;
+{ 76 Ductus_bursae,_base_lateral_region,_sclerotized_process Absent Present;
+;
+
+
+ccode  - 0.76;
+
+
+;

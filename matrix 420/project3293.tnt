@@ -1,0 +1,161 @@
+nstates num 8;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 12.37.18'
+111 32
+
+&[num]
+Outgroup                          00000000000000000000000000000000000000000000000?000000000?0000?000000000000000000000000000100000000000?0?102001
+Akromystax                        00010210101010000???2402?43?514?0251??01022122022102002404132252300010302122402142055300011?5112110200?1?0000?0
+Coelodus_saturnus                 120?001?0???1???0???2????3??21230?4133?01111220?22120?250114?05330?0??320000??????0??????01?????1?0200?100000??
+Iemanja                           1?0?0100000010??0????311???5322?0?20??100214310213020?13??1330?33010?0?0??????22220????0??1??1221?0200?10000000
+Neoproscinetes                    000110100000100?0121231123232142131131200112221213020023?11230333010?03213122122120523?0001121221?0200?10000000
+Ocloedus                          020210000010100101212401232?212304113211120122021102012001122253300010312222303222053300001?21?2110200010000000
+Oropycnodus                       0201000000101001112?24?2?32?21?10411311102222301220200350414305430?021410000412222052321001??1?211020001?000000
+Polazzodus                        11010010000010001???2402?346412104113?111211230132020?240113?03430?010310000302212053310001?0???1?02?0?100000?0
+Potiguara                         020210000?1010??0???????????21230?113?11?1?1?202120?0?25???42???????2???0000??21220??????01??1????0?????00000?0
+Proscinetes                       020110?00000100101212301132321421311321001112202120200241103203330?020220000212000052300?00111221?0200010000000
+Pycnodus                          100000100010100011302401232311220411331002222321220200440003405430?021410000413212053410001?112211020001?000000
+Rhinopycnodus                     10011000000010010??12301??43?????4????1??12???0102020014??033353300010212111??11120?5300001?21?2110200?1?0000??
+Stemmatodus                       100010000000100?012124012324112204113311020123020202000010122234302010303222402122053500001?1122110200010000000
+Stenamara                         301110000000100?012???01??????????11421?02012203030202001?0022?330?01030212220???2043400001?21????02000100000??
+Tepexichthys                      020110000010100101222301?3131113031132200101221212020020010330333010102000002021220324000011?1??110200010000000
+Turbomesodon_relegans             020010000000100101212301?32321?304113111120122030202001?121222533020102?3212202222033400101131????0200?100000??
+Abdobalistum                      000?001??00?10??013????1?2???1????113??11012231?22020?250004442421?0222011103000001??????01?41?21?02?001???0??0
+Nursallia_veronae                 02000011?00010??0??????1?22?114204?1?2?00223??222302002501?4436120?02331000?41????04??10?01?41??110200?1???0??0
+Paranursallia_gutturosum          020000111000?00000302301?2211121041132100?2323222302002501?4??6320102021????30??1205???0?01?41?2110??0???0000?0
+Palaeobalistum                    1100001??0?0?0010?10???1????11?20?1132?000??????120?002???1??3?00100?021111020311?0??????01?4?????0210?1????0??
+Coccodus                          21000010000001000????????32?41420411423113112?01120411?105?522?543??3463543362433327460002???1??1?02?00200000??
+Ichthyoceros                      000101101200020?01?01??123??4143043133011??????????33121?035012002322050110?5011?206340000???1?2??020001?0000??
+Arduafrons                        0011011?000?0000011011?1?12121?3021??30000000??????1001300220340000010103111103112011100?????1?11?021111?0?00?0
+Brembodus                         002100110000000?01101101121?21220211121002211002030201401?20122000001030311120????051100?????1?111000111?000000
+Gibbodon                          0011001000000001000021?1021?214301?????10??????????20121002502?000001030211120311?031100?????1?001000111?0?00?0
+Eomesodon_liassicus               00310?11000000010?00?1?122???????41???110200??0?000?0??????1???03000?0?03111?000??0??????????1????0200?1?0000??
+Apomesodon_gibbosus               00201100000000000????1?1222?11?30?1132?100001?03010200200421124030?010103111102112021100?????1?21?010011?0000??
+Gyrodus                           0101001100000000001011012121112302112212110141011202022001243010000010203111102111011100?????1111212010100001?0
+Polygyrodus                       ????????????????????????????1?220?2?12?20?????????????????????????????????????????????????????????1?????1100100
+Damergouia                        ????????????????????????????112?0?5?31?30?????????????????????????????????????????????????????????1?????1101200
+Eoserrasalmimus                   ????????????????????????????51320??????30?????????????????????????????????????????????????????????1??????101211
+Serrasalmimus                     ????????????????????????????61520?6153?30?????????????????????????????????????????????????????????1?????2112212
+
+;
+
+
+cnames
+{ 0 Body_shape discoid,_70-100% intermediate fusiform,_less_than_40% deep,_more_than_100%;
+{ 1 Relative_position_of_dorsal_apex before_point_of_insertion_of_dorsal_fin dorsal_prominence_absent in_point_of_insertion_of_dorsal_fin;
+{ 2 Morphology_of_dorsal_prominence dorsal_prominence_absent curved,_dorsally_oriented obtuse_angle curved,_anteriorly_oriented;
+{ 3 Relative_position_of_ventral_apex apex_absent before_point_of_insertion_of_anal_fin in_point_of_insertion_of_anal_fin;
+{ 4 Mouth_gape horizontal_or_subhorizontal inclined subvertical,_opening_downward;
+{ 5 Prognathism absent present_by_elongation_of_mesethmoid,_vomer_and_prearticular present_by_expansion_of_premaxilla_and_dentary;
+{ 6 Caudal_pedicle not_differentiated differentiated;
+{ 7 Morphology_of_frontal_bones curved_and_short concave_and_expanded;
+{ 8 Prefrontal_bones absent present;
+{ 9 Frontal_spines absent present,_simple present,_compound;
+{ 10 Dermocranial_fenestra absent present;
+{ 11 Parietal single divided absent;
+{ 12 Parietal_process absent present;
+{ 13 Supraoccipital_spine absent present,_simple present,_compound;
+{ 14 Extrascapulars_hypertrophied no yes;
+{ 15 Extrascapular(s)_fused_to_parietal no yes;
+{ 16 Endocranium_largely_exposed_posteriorly no yes;
+{ 17 Anterior_portion_of_infraorbital_sensory_canal closely_surrounding_orbit descending_towards_ethmoid_region;
+{ 18 Infraorbitals row_of_plates_around_the_ventral_and_posterior_border_of_the_orbit mosaic_of_small_plates_partially_covering_the_cheek educed_to_tubular_ossifications_around_the_infraorbital_sensory_canal anterior_infraorbital_enlarged;
+{ 19 Infraorbital_ornamentation present_in_all_infraorbitals present_only_in_posteriormost_one absent_in_all_infraorbitals;
+{ 20 Suborbitals one_or_several_rows mosaic_of_small_plates absent_as_independent_ossifications;
+{ 21 Preopercular_and_hyomandibular preopercular_single,_smaller_than_opercular,_hyomandibular_deep,_unornamented preopercular_single,_hypertrophied,_hyomandibular_deep,_unornamented one_large_preopercular_plus_a_small_ornamented_plate_over_the_head_of_the_hyomandibular one_large_preopercular_in_close_contact_with_a_small_ornamented_portion_of_the_hyomandibular,_at_the_same_superficial_level preopercular_of_similar_size_to_expanded_superficialornamented_portion_of_hyomandibular;
+{ 22 Condyle_in_articular_head_of_hyomandibular absent present;
+{ 23 Opercular_bone well_developed reduced extremely_reduced;
+{ 24 Branchiostegal_rays more_than_two two,_relatively_large,_in_contact two,_thin,_separated;
+{ 25 Morphology_of_premaxillary_and_dentary_teeth small,_triangular_to_conic robust,_columnar_to_hookshaped robust,_barely_incisiform very_flattened,_fully_incisiform molariform;
+{ 26 Number_of_premaxillary_teeth more_than_three three two at_least_8,_arranged_in_at_least_two_rows one;
+{ 27 Maxilla teeth-bearing,_ornamented,_elongated edentulous,_ornamented,_ovoid edentulous,_ornamented,_elongated edentulous,_unornamented,_reniform edentulous,_unornamented,_straight_oral_border edentulous,_unornamented,_elongated_oval axe_blade_morphology;
+{ 28 Morphology_of_vomerine_teeth villiform_to_conic circular_to_subcircular_contour oval_contour reniform_contour triangular_contour oval,_very_elongated labiolingually_compressed_(mono-_or_bicuspid);
+{ 29 Arrangement_of_vomerine_teeth_in_regular_rows absent present absent_anteriorly,_present_posteriorly only_main_rows_arranged_regularly;
+{ 30 Number_of_vomerine_tooth_rows not_arranged_in_rows 6 5 4 3 2;
+{ 31 Number_of_teeth_in_principal_vomerine_tooth_row teeth_not_arranged_in_rows seven_or_less eight_or_nine 10_or_more;
+{ 32 Alternation_of_teeth_on_main_vomerine_tooth_row absent present;
+{ 33 Number_of_dentary_teeth more_than_five 5 4 3 2;
+{ 34 Morphology_of_prearticular_teeth villiform_to_conic oval_contour circular_(to_sub-circular)_contour sigmoid_to_drop-shaped_contour extremely_elongated_in_contour,_long_axis_perpendicular_to_row_axis oval,_elongated,_long_axis_of_teeth_coincident_with_row_axis labiolingually_compressed_(mono-_or_bicuspid);
+{ 35 Arrangement_of_prearticular_teeth_in_regular_rows present absent only_main_rows_arranged_regularly;
+{ 36 Number_of_prearticular_tooth_rows not_arranged_in_rows 5-6 4 3 2 1;
+{ 37 Number_of_teeth_on_main_prearticular_tooth_row teeth_not_arranged_in_rows 7_or_fewer eight_or_nine 10_or_more;
+{ 38 Coronoid_process low,_curved high,_straight_dorsal_border high,_club_shaped low,_straight_dorsal_border;
+{ 39 Crenulations/cuspidation_in_vomerine_and_prearticular_teeth absent crenulation_occasionally_present,_weak crenulation_present_in_most_teeth,_strong One_or_two_cuspids;
+{ 40 Groove_on_vomerine_and_prearticular_teeth absent present;
+{ 41 Number_of_vertebrae 35_or_more 30-34 25-29 24_or_less;
+{ 42 Neural_and_haemal_corresponding_arcocentra not_surrounding_notochord surrounding_notochord_partially surrounding_notochord_completely;
+{ 43 Neural_and_haemal_adjacent_arcocentra separated_from_each_other simple_contact complex_contact hyper-complex_contact expanded_and_imbricate;
+{ 44 Sagittal_flanges_on_neural_and_haemal_spines absent anterior,_small_and_short anterior,_large_and_long anterior_and_posterior anterior_and_posterior_with_strengthened_margins;
+{ 45 Number_of_autogenous_anterior_neural_spines most_of_them,_including_caudal_ones 10_or_more seven_to_10 six_or_less;
+{ 46 Relative_length_of_last_neural_spine_not_supportingprecurrent_caudal_fin_rays reduced less_than_half_as_long_as_preceding_spines vestigial;
+{ 47 Number_of_epichordal_elements_of_caudal_endoskeleton nine_or_more six_to_eight four_or_five three_or_fewer;
+{ 48 Relative_development_of_hypochordal_elementsof_caudal_endoskeleton only_slightly_enlarged enlarged,_platelike one_hypertrophied_element two_hypertrophied_elements;
+{ 49 Number_of_hypochordal_elements_of_caudalendoskeleton 14_or_more 12-13 9-11 six_to_eight;
+{ 50 Diastema absent present;
+{ 51 Cleithrum two_limbs_in_angle,_anteroventral_limb_subhorizontal curved,_anteroventral_limb_subhorizontal,_slightly_expanded curved,_anteroventral_limb_subvertical,_expanded cleithrum_with_three_limbs cleithrum_with_four_limbs;
+{ 52 Spines_on_cleithrum none 1,_hypertrophied about_10 about_50;
+{ 53 Position_of_pelvic_fins_(ratio_prepelvic_distance/standard_length) 45-55% more_than_55% less_than_45%;
+{ 54 Position_of_dorsal_fin_(predorsal_length/standard_length) 82%_and_more 68-81% 59-67% 50-58% less_than_49%;
+{ 55 Number_of_dorsal_axonosts 30-39 fewer_than_20 20-29 40-47 48-59 60_or_more;
+{ 56 Dorsal_axonost_not_supporting_lepidotrichium_(free_axonost) absent present;
+{ 57 Morphology_of_dorsal_fin strip-like falcate_to_acuminate sigmoid_outline rounded_in_center rounded_anteriorly square;
+{ 58 Position_of_anal_fin_(preanal_length/standard_length) 50%-59% 60%-69% 70%-79% 80%-89%;
+{ 59 Number_of_anal_axonosts 20-27 10-19 28-34 35-46 47_or_more 9_or_fewer;
+{ 60 Urodermals not_differentiated a_series_of_three_or_more two one absent;
+{ 61 Number_of_caudal_principal_fin_rays 20-25 nine_or_less 10-19 26-35 36_or_more;
+{ 62 Morphology_of_caudal_fin outgroup stalked distal_border_convex distal_border_concave distal_border_straight double_emarginated vertical;
+{ 63 Ossification_of_scales complete_in_all_scales complete_in_abdominal_scales,_incomplete_in_caudal_scales complete_in_ventral_scales_and_in_some_dorsal_scales complete_in_ventral_scales,_incomplete_in_dorsal_scales incomplete_in_all_scales scales_absent;
+{ 64 Distribution_of_scales whole_body whole_body_except_caudal_pedicle abdominal_region_plus_part_of_the_caudal_region only_abdominal_region body_naked;
+{ 65 Arrangement_of_scales rows_in_same_direction rows_in_different_directions not_forming_rows scales_absent;
+{ 66 Ornamentation_of_scales tubercles ridges reticulation small_spines smooth;
+{ 67 Large_spines_on_scales none one several;
+{ 68 First_dorsal_ridge_scale not_differentiated about_same_size_than_subsequent_ridge_scales larger_than_subsequent_ridge_scales absent;
+{ 69 Scutellum-like_contour_scales absent present,_dorsal_only present,_ventral_only present,_dorsal_and_ventral contour_scales_absent;
+{ 70 Number_of_differentiated_dorsal_ridge_scales dorsal_contour_scales_not_differentiated 18_or_more 15_to_17 10_to_14 seven_to_nine one_or_two dorsal_contour_scales_absent;
+{ 71 Arrangement_of_dorsal_ridge_scales dorsal_contour_scales_in_close_contact_with_each_other point_contact separated_from_each_other dorsal_contour_scales_absent;
+{ 72 Number_of_spines_on_dorsal_ridge_scales no_spines_on_dorsal_contour_scales one_or_two three_or_four five_or_more midline_serrated dorsal_contour_scales_absent;
+{ 73 Distribution_of_spines_on_dorsal_ridge_scales no_spines_on_dorsal_contour_scales all_along_the_midline,_or_centered_if_only_one_spine_present posterior_region_(at_most_two_thirds)_of_the_midline anterior_region_(at_most_two_thirds)_of_the_midline dorsal_contour_scales_absent;
+{ 74 Contact_of_spines_on_each_dorsal_ridge_scale no_spines_on_dorsal_contour_scales separated_from_each_other in_contact_with_each_other dorsal_contour_scales_absent;
+{ 75 Relative_size_of_anterior_and_posterior_spines_oneach_dorsal_ridge_scale no_spines_on_dorsal_contour_scales similar_size spines_of_increasing_size_in_cephalocaudal_sense dorsal_contour_scales_absent;
+{ 76 Number_of_ventral_keel_scales not_differentiated 22_or_more 18_to_21 15_to_17 10_to_14 two_or_three ventral_keel_scales_absent;
+{ 77 Arrangement_of_ventral_keel_scales close_contact_with_each_other point_contact ventral_keel_scales_absent;
+{ 78 Maximal_number_of_spines_on_ventral_keel_scales_of_adult_specimens no_spines_on_ventral_keel_scales one_to_three four_to_six seven_or_more ventral_keel_scales_absent;
+{ 79 Distribution_of_spines_on_ventral_keel_scales no_spines_on_ventral_keel_scales all_along_the_midline,_or_centered_if_only_one_spine_present posterior_region_(at_most_two_thirds)_of_the_midline ventral_keel_scales_absent;
+{ 80 Contact_of_spines_on_each_ventral_keel_scale_of_adult_specimens no_spines_on_ventral_keel_scales separated_from_each_other in_contact_with_each_other ventral_keel_scales_absent imbricate;
+{ 81 Relative_size_of_anterior_and_posterior_spines_on_each_ventral_keel_scale_of_adult_specimens no_spines_on_ventral_keel_scales all_spines_of_similar_size spines_of_increasing_size_in_cephalocaudal_sense ventral_keel_scales_absent;
+{ 82 Several_scales_attached_to_the_contour_scales no yes contour_scales_absent;
+{ 83 Number_of_post-cloacal_ventral_keel_scales cloacal_and_contour_scales_not_differentiated 10_or_more seven_or_eight five_or_six three_or_four two one none;
+{ 84 Number_of_anterior_cloacal_modified_scales cloacal_scales_not_modified mosaic_of_little_scales two one cloacal_scales_absent 3;
+{ 85 Number_of_posterior_cloacal_modified_scales cloacal_scales_not_modified mosaic_of_little_scales three two one no_scales,_posterior_part_of_anal_notch_supported_by_a_rib cloacal_scales_absent;
+{ 86 Bifid_scale_in_cloaca absent present present_plus_several_comma-shaped_scales;
+{ 87 Post-cloacal_notch absent present;
+{ 88 Supracloacal_scale absent present,_contacting_only_cloacal_scales present,_contacting_also_non-differentiated_scalesadjacent_to_cloacal_scales;
+{ 89 First_ventral_keel_scale smaller_than_subsequent_scales larger_than_subsequent_scales ventral_keel_scales_absent;
+{ 90 Fringing_fulcra_between_the_basal_fulcra_as_well_as_between_the_basal_fulcra_and_the_first_segmented_ray_of_the_dorsal_and_anal_fin present absent;
+{ 91 Ethmoid_commissure_(a_sensory_canal_between_the_infraorbital_canal_and_the_premaxilla) absent present;
+{ 92 Complete_scale_rows_posterior_to_the_cloaca one two three_to_four five_to_six more_than_six zero;
+{ 93 Dermal_supraoccipital absent single divided_into_two_or_more_unpaired_plates;
+{ 94 Opercular_process_of_hyomandibular present,_well_developed present,_reduced absent;
+{ 95 Ossifications_in_gular_region large_gular_plate small,_numerous_tesserae no_ossifications;
+{ 96 Premaxillary_process profound anteriorly_placed,_long,_superficial;
+{ 97 Dentary well_developed,_relatively_broad small,_posteriorly_elongated_and_simple small,_posteriorly_bifid;
+{ 98 Central_papilla_in_vomerine_and_prearticular_teeth absent present;
+{ 99 Fringing_fulcra present,_numerous present,_scarce absent;
+{ 100 Scale_rows simple double;
+{ 101 Scale_rows_between_the_bases_of_the_lepidotrichiaof_the_dorsal_and_anal_fins absent present;
+{ 102 Nuchal_plates absent present;
+{ 103 Contour_scales not_differentiated differentiated absent;
+{ 104 Prearticular_symphysis >_2/3_length_of_the_prearticular between_1/3_and_2/3_the_length_of_the_prearticular <_1/3_length_of_the_prearticular;
+{ 105 Prearticular_and_vomerine_teeth_elevated absent present;
+{ 106 Linguobasal_cingulum_in_main_prearticular_and_vomerine_teeth absent present;
+{ 107 Dentition_type crushing crushing/cutting cutting;
+{ 108 Mammiform_teeth_with_cingulum_all_around_the_crown absent present_in_most_of_the_dentition present_anteriorly,_absent_posteriorly;
+{ 109 Ventral_surface_of_the_vomer_(buccal_roof) plane_or_convexe concave_in_cross_section;
+{ 110 Ventral_surface_of_the_vomer completely_toothed partially_toothed completely_edentulous;
+;
+
+
+ccode  - 0.30 32.36 38.110 + 31 37;
+
+
+;

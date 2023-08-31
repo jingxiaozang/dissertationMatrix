@@ -1,0 +1,67 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 12.38.00'
+36 13
+
+&[num]
+Alcidedorbignya_inopinata           022200022011111100110100200000010100
+Tiuclaenus_minutus                  003?2000?0110000101?0100200110110000
+Asmithwoodwardia_scotti             011100000011000000000200111010010010
+Didolodus_multicuspis               00110000001100000000120?002010010010
+Notoetayoa_gargantuai               ???3100?20?0?0?110??????00?0110?0120
+Etayoa_bacatensis                   0213100220?010211011210?200011000120
+Carodnia_feruglioi                  ?200111120?1202110??1?1?22?1011?0121
+Cardonia_cf_feruglioi               ?2?0111120?12021101?0?1?222101110121
+Carodnia_vieirai                    120011112011202110112011122100110121
+Carodnia_inexpectans                120010012010202100112011122111021121
+Rodcania_kakan                      1?0410012111212111??????12?1101?1031
+Trigonostylops_wortmani             02443110001111220211110?233200010232
+Tetragonostylops_apthomasi          024431100011112202111101233200010232
+
+;
+
+
+cnames
+{ 0 Coronoid_canal absent present;
+{ 1 Coronoid_crest_(crest_of_the_masseteric_fossa_along_the_anterior_border_of_the_coronoid absent_or_weakly_developed transversely_thick hypertrophied_and_laterally_flaring_with_a_very_deep_masseteric_fossa_posterior_to_it;
+{ 2 Cristid_obliqua_on_m1-2 absent differentiated_from_the_hypoconid_and_long as_part_of_a_lophid_with_the_hypoconid_and_hypoconulid low,_short_and_rounded straight_from_the_hypoconid_to_the_protoconid;
+{ 3 Cristid_obliqua_on_m3 absent differentiated_from_the_hypoconid_and_long as_part_of_a_lophid_with_the_hypoconid_and_hypoconulid not_lophoid_very_short_and_reduced straight_from_the_hypoconid_to_the_protoconid;
+{ 4 Distal_wall_of_the_trigonid_on_m1-m3 V_shaped_protocristid,_well_differentiated_from_protoconid_and_metaconid protolophid_well_developed,_high_and_with_wear_facet_projected_distally protocristid_not_well_marked,_rounded_base_of_protoconid_and_metaconid_in_contact protolophid_shorter_than_2,_but_high,_sharp,_obliquely_transverse;
+{ 5 Ectocingulid_on_m3 faint_or_absent thick_and_continuous;
+{ 6 Ectocingulid_on_the_talonid_of_m3 absent present;
+{ 7 Entoconid_on_m1-2 bunoid_and_well_differentiated undifferentiated_from_the_hypolophid associated_to_the_hypoconulid_as_a_lophid_that_joins_the_postcristid_and_entocristid;
+{ 8 Entoconid_on_m3 bunoid_and_well_differentiated undifferentiated_from_the_hypolophid associated_to_the_hypoconulid_as_a_lophid_that_joins_the_postcristid_and_entocristid;
+{ 9 Entoconulid absent present;
+{ 10 Entocristid_on_m1-2 present absent;
+{ 11 entocristid_on_m3 present absent desarrollo_entoconulid;
+{ 12 Hypoconid_on_m1-2 individualized_and_bunioid as_part_of_a_lophid_with_the_cristid_obliqua_and_hypoconulid as_part_of_the_hypolophid;
+{ 13 Hypoconid_on_m3 individualized_and_bunioid as_part_of_a_lophid_with_the_cristid_obliqua_and_hypoconulid as_part_of_the_hypolophid;
+{ 14 Hypoconulid_on_m1-2 well_diferentiated_from_other_talonid_cusp_and_projecting_a_postcristid not_differentiated_from_a_lophid_that_also_joins_the_entoconid as_part_of_the_hypolophid;
+{ 15 Hypoconulid_on_m3 well_diferentiated_from_other_talonid_cusp_and_projecting_a_postcristid not_differentiated_from_a_lophid_that_also_joins_the_entoconid as_part_of_the_hypolophid;
+{ 16 Hypoconulid_on_m3_-_2 higher_than_other_talonid_cusp low_or_as_high_than_other__talonid_cusp;
+{ 17 Labial_side_of_m3 with_ectoflexid no_ectoflexid_and_talonid_close_labially talonid_close_labially_but_with_smooth_ectoflexid;
+{ 18 Lower_molars equal_size_for_m1-m3 m1_much_smaller_than_m2-3;
+{ 19 Mandibular_body,_facial_vein_notch_(incisura_vasorum_facialis)_: absent present;
+{ 20 Mandibular_body: low_(the_high_of_the_mandibular_body_is_equal_or_less_than_one_times_the_length_of_m3) high_(the_high_of_the_mandibular_body_is_less_than_two_times_the_length_of_m3) very_high_(the_high_of_the_mandibular_body_is_two_or_more_times_the_length_of_m3);
+{ 21 Mandibular_branch pointing_antero-dorsally vertically pointing_posterodorsally;
+{ 22 Mandibular_branch,_anterior_edge posterior_to_m3 partly_hiding_m3_in_lateral_view;
+{ 23 Mandibular_foramen: located_below_the_upper_edge_of_the_dentary located_above_the_edge_of_the_dentary;
+{ 24 metacristid_on_m3 strong smooth absent;
+{ 25 Paraconid_m3 well_differentiated_and_separated_from_metaconid twined_mith_metaconid_or_very_reduced absent reduce_but_not_twined;
+{ 26 Paraconid_on_m1-2 well_differentiated_and_separated_from_metaconid twined_mith_metaconid_or_very_reduced absent reduce_but_not_twined;
+{ 27 Paracristid_on_m3 strongly_developed weak strong_but_short;
+{ 28 Posterior_root_on_m3 vertical pointing_disto/ventrally;
+{ 29 Precingular_stylid_on_m2_and_m3 absent present;
+{ 30 Precingulid_on_m2-m3 strongly_developed weak;
+{ 31 Ratio_between_occlusal_areas_of_m3/m2 >_1.5 between_1.0_and_1.5 <_1.0;
+{ 32 Relative_position_of_entoconid/hypoconulid more_distal almost_at_the_same_level;
+{ 33 Talonid/protolophid_(or_protocristid)_widths_on_m3 equal narrower wider;
+{ 34 Talonid_on_m3 low_and_short_with_respect_to_the_trigonid_in_lateral_view mesio-distally_long_and_almost_as_high_as_the_trigonid low_and_with_the_labial_side_in_a_more_mesial_position_(i.e.hypoconid_not_distal_to_the_protoconiud_but_distolingual) low_but_larger_than_in_2;
+{ 35 Trigonid_on_m1-3 paracristid_distally_concave_in_occlusal_view_and_closing_the_trigonid paracristid_long,_descending_from_the_protoconid_and_ending_in_a_low_and_mesial_point_of_the_trigonid open_lingually_with_short_paracristid;
+;
+
+
+ccode  - 0.35;
+
+
+;

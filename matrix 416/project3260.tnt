@@ -1,0 +1,110 @@
+nstates num 8;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 12.32.39'
+74 18
+
+&[num]
+Ptilodus                  0002010212100101000101002000011020455102120100010-?140100000000000?0000120
+Stygimys                  21020?1321?0?0??20000010210001300033?01?11????01????001?0?????????????1?1?
+Taeniolabis               211--10330?2210101--1--1--11-----14571312211000?0-??2110102?0001?????10100
+Eucosmodon                21020?132120?0???1--0010?1?0?????0????0???????????????????????????????1221
+Lambdopsalis              211--00110?0210?11--1--1--11-----1???1310?1110000-0240101?2000010100110110
+Sloanbaatar               10010?100100?111200?00?020000101-?000011011011111??0111???1?1010001??00221
+Buginbaatar               01001?032011???????????????002100?34612210??????????????????????????????1?
+Nessovbaatar              ?0010?100210??????????????????????????????????????????????????????????1211
+Bulganbaatar              ????????????1???2001000020000101-011311100??1111????1?1?0?????????????????
+Kamptobaatar              10010??001???10120010000200002?1-01101210101101010??1111001010100010101201
+Nemegtbaatar              20010?11111021??20010000?00002??00???1211001111110022111001010100000101210
+Chulsanbaatar             20010?1001?0?11?2011000020000??1-0011021?0101110100?0111001010101000101111
+Kryptobaatar              20010210011021112001000020001-0010??00110?121110110?1111001021101100101100
+Djadochtatherium          200?0?1001??211020?10?00?0??????????????????111????121110?1?2?10?????00?10
+Catopsbaatar              200012101??0211120?11--0?0?01-0000??4132??121?10101??1?1?1??2110?1?1100020
+Tombaatar                 ????????????21??20011--02000010??001202001??1110111111?10?1????0??????????
+Mangasbaatar              2000121000002??120011--0200000000011303001121110111?210100112?101101100010
+Guibaatar                 ?00102100100?1??21--0200300001000011202?????111?111131010011???01111??001?
+
+;
+
+
+cnames
+{ 0 Lower_incisor,_enamel_covering: thickness_uniform thicker_on_labial_surface_than_on_lingual_surface completely_restricted_to_labial_surface;
+{ 1 Lower_p3,_presence: present absent;
+{ 2 Lower_p4,_serrated_tooth: present absent;
+{ 3 Lower_p4,_serration_count: five_or_fewer six_to_ten more_than_ten;
+{ 4 Lower_p4,_serrated_tooth_in_lateral_view: arcuate trapedzoidal;
+{ 5 Lower_p4,_number_of_roots: one two three;
+{ 6 Lower_p4,_posterobuccal_basal_cusp_or_ridge,_presence: absent present;
+{ 7 Lower_m1,_labial_row,_cusp_formula: four five six seven;
+{ 8 Lower_m1,_lingual_row,_cusp_formula: three four five six;
+{ 9 Ratio_of_lower_p4-m1_length: less_than_0.6 0.6_to_1.7 greater_than_1.7;
+{ 10 Lower_m2,_labial_row,_cusp_formula: two three four five six;
+{ 11 Lower_m2,_lingual_row,_cusp_formula: two_or_less three four_or_more;
+{ 12 Upper_I2,_enamel_covering: thickness_uniform thicker_on_labial_surface_than_on_lingual_surface completely_restricted_to_labial_surface;
+{ 13 Upper_I2,_cusp_number: two one;
+{ 14 Upper_I2,_position: separated_from_midline_by_equal_to_or_greater_than_the_tooth's_width separated_from_midline_by_less_than_the_tooth's_width;
+{ 15 Upper_I2,_orientation: more_vertical more_medially_directed;
+{ 16 Upper_I3,_mediolateral_position: located_on_margin_of_palate slightly_shifted_from_labial_margin in_middle_of_palatal_part_of_premaxilla;
+{ 17 Upper_P1,_presence: present absent;
+{ 18 Upper_P1,_cusp_number: three four;
+{ 19 Upper_P1,_number_of_roots: one two;
+{ 20 Upper_P2,_presence: present absent;
+{ 21 Upper_P2,_cusp_number: three four five_or_more;
+{ 22 Upper_P2,_number_of_roots: two one;
+{ 23 Upper_P3,_presence: present absent;
+{ 24 Upper_P3,_cusp_number: two three four five six;
+{ 25 Upper_P3,_root_number: two one;
+{ 26 Length_of_upper_premolar_tooth_row_to_molar_tooth_row,_ratio: 1.5_to_0.5 less_than_0.5;
+{ 27 Upper_P4,_occlusal_morphology: multiple_rows_of_cusps one_row_of_cusps;
+{ 28 Upper_P4,_labial_row_of_cusps,_presence present absent;
+{ 29 Upper_P4,_labial_row,_cusp_number one two three;
+{ 30 Upper_P4,_middle_row,_cusp_formula: four_or_five six seven_or_eight nine_or_more;
+{ 31 Upper_P4,_lingual_row_of_cusps,_presence present absent;
+{ 32 Upper_P4,_lingual_row,_cusp_formula: one two three_or_more;
+{ 33 Upper_P4,_root_number: two one three;
+{ 34 Upper_M1,_labial_row,_cusp_formula: four five six seven eight_or_more;
+{ 35 Upper_M1,_middle_row,_cusp_formula: four five six seven eight nine_or_more;
+{ 36 Upper_M1,_lingual_row,_cusp_formula: ridge one two three four five six seven_or_more;
+{ 37 Upper_M1,_inner_ridge_length_to_total_length_of_upper_M1: less_than_0.5 greater_than_0.5;
+{ 38 Width_of_upper_P4-M1,_ratio: greater_than_or_equal_to_0.9 greater_than_or_equal_to_0.6_but_less_than_0.9 greater_than_0.45_but_less_than_0.60 less_than_or_equal_to_0.45;
+{ 39 Upper_M2,_labial_row,_cusp_formula: ridge one two_or_more;
+{ 40 Upper_M2,_middle_row,_cusp_formula: two_ three four_or_more;
+{ 41 Upper_M2,_lingual_row,_cusp_formula: two three four_or_more;
+{ 42 Skull_width_to_skull_length_ratio: equal_to_or_less_than_0.79 greater_than_0.8;
+{ 43 Width_of_snout:skull_length_ratio below_0.3 0.3-0.39 0.4_and_above;
+{ 44 Ridge_between_palate_and_lateral_wall_of_premaxilla,_presence: absent present;
+{ 45 Thickenings_in_palatal_process_of_premaxilla,_presence: absent present;
+{ 46 Incisive_foramen,_size subequal_to_or_greater_than_the_length_of_I2_and_I3 subequal_to_or_less_than_the_length_of_I2;
+{ 47 Palatal_vacuities,_presence: absent present;
+{ 48 Postpalatine_torus,_presence: absent present;
+{ 49 Postpalatine_torus,_development: developed_laterally_and_with_a_ventral_projection_from_the_palate_forming_a_distinctive_bulge strongly_developed_forming_a_raised,_ornate,_and_sharply_angled_plate;
+{ 50 Minor_palatine_foramen,_alisphenoid_contribution present absent;
+{ 51 Nasal_foramina,_number_per_side: one two more_than_two;
+{ 52 Infraorbital_foramen,_position_in_lateral_view: dorsal_to_P1 dorsal_to_P1-P2_embrasure dorsal_to_P2 dorsal_to_P2-P3_embrasure dorsal_to_P3_or_more_posterior;
+{ 53 Infraorbital_foramen,_visibility_in_ventral_view: absent present;
+{ 54 Secondary_infraorbital_foramen,_presence present absent;
+{ 55 Facial_surface_of_lacrimal,_size_and_shape: absent large,_roughly_rectangular;
+{ 56 Base_of_zygomatic_arch_as_marked_by_posterior_edge: directly_dorsal_to_P4 dorsal_or_posterior_to_P4-M1_embrasure;
+{ 57 Zygomatic_process_of_squamosal,_anterior_extent posterior_to_orbit nearly_contacting_lacrimal_and_contributing_to_orbital_rim;
+{ 58 Frontal-nasal_suture,_shape: frontal_pointed_anteriorly_and_not_deeply_inserted_between_the_nasals frontal_pointed_anteriorly_and_deeply_inserted_between_the_nasals frontal_with_subtransversal_anterior_margins;
+{ 59 Midline_crest_on_vomer_posterior_to_choanae,_presence present absent;
+{ 60 Postorbital_process,_size: swelling less_than_half_orbit_width_but_more_than_swelling equal_to_or_more_than_half_orbit_width;
+{ 61 Supraorbital_notch,_presence: absent present;
+{ 62 Frontal-parietal_suture,_shape: V-shaped U-shaped;
+{ 63 Contact_between_nasal_and_parietal,_presence: absent present;
+{ 64 Foramen_masticatorium,_position on_lateral_braincase_wall on_basicranial_surface;
+{ 65 Anterior_part_of_promontorium,_shape: oval irregular_with_incurvatures_on_both_sides;
+{ 66 Hiatus_Fallopii,_visible_in_ventral_view absent present;
+{ 67 Tensor_tympani_fossa_on_lateral_side_of_promontorium,_depth deep shallow;
+{ 68 Jugular_fossa,_size_and_depth: small_and_shallow large_and_deep;
+{ 69 Posttemporal_foramen,_size: large small;
+{ 70 Coronoid_process,_angle_relative_to_tooth_row: steep,_equal_to_45_degrees_or_greater_than_45_degrees low,_less_than_45_degrees;
+{ 71 Coronoid_process,_shape: angle_between_anterior_and_posterior_edges_less_than_or_equal_to_50_degrees angle_between_anterior_and_posterior_edges_greater_than_50_and_less_than_70_degrees angle_between_anterior_and_posterior_edges_greater_than_70_degrees;
+{ 72 Angle_between_the_ventral_margin_of_dentary_and_occlusal_plane: equal_to_or_less_than_10_degrees greater_than_10_and_less_than_20_degrees greater_than_or_equal_to_20_degrees;
+{ 73 Mandibular_condyle,_height_to_coronoid_process mandibular_condyle_lower mandibular_condyle_level_with_or__higher;
+;
+
+
+ccode  - 0.37 39.41 43.73 + 38 42;
+
+
+;
