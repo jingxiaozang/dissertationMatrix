@@ -1,0 +1,153 @@
+nstates num 8;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 08.59.27'
+77 58
+
+&[num]
+Cornus_oblonga                         01--121001101011-1011110-10101011101111-1-1-0-1-01111-01111111111111100000110
+Cornus_controversa                     01--111010101110011-0010-10101011101111-1-1-0-1-010110--111111111111100000110
+Cornus_sanguenea                       01--111010101110011-1010-10101011101111-1-1-0-1-01011001111111111111100001110
+Cornus_mas                             01--111000101111-11-1010-10010011101111-001--11-01011---110111111111100000110
+Cornus_officinalis                     01--101000101111-11-1010-1--10011101111-001--11-01011---110111111111100000110
+Cornus_volkensii                       01--111000101111-11-1010-10001011110111-001-001-01011---11???111111110000?110
+Cornus_canadensis                      01--101051101011-11-1010-1--11011101111-1-1---1-01011---111111111111100000110
+Cornus_eydeana                         01--111000101?11-1011010-100?0101110111-001-?01-0101?-???1?????1111?10000?110
+Cornus_piggae                          ?1--121001101?11-11-1010-10110011101111-001--11-01011---11??????????100000110
+Cornus_multilocularis                  ?1--141000101011-11-1010-10101011110111-001-0-1-01011---1??????????110000011?
+Cornus_florida                         01--111001101011-11-1010-11111011101111-1-1---1-01011---110011111111100000110
+Cornus_kousa                           01--00-051101011-11-1010-11111011101111-1-1---1-01011---111011111111100000110
+Alangium_chinense                      01--111000101101-1001010-11101011101101-1-1-2-1-00111-??110111101111100000110
+Alangium_eydei                         ?1--111000101001-1001010-11101011101101-1-1-2-1-0?111-??1???????????10000?11?
+Alangium_vermontanum                   01--?11000101101-11-1010-11111011101101-1-1---1-0011?-??1?0?????????10000?11?
+Alangium_javanicum                     01--10-000101011-1001100-1--11011101111-1-1---1-01?11-0111?00110111110000?110
+Alangium_villosum                      01--11100110100--1--1110-111110111011?1-1-1---1-01111---11???11011?110000?110
+Diplopanax_stachyanthus                01--10-071101010011-101101--1010001000111-01-01-1--01?--11???????11?1000??110
+Diplopanax_eydei                       01--10-071101?11-11-111101--1011101001111-01-01-1--01---11011111111?10001?11?
+Mastixia_philippenensis                01--10-071101?10111-111101--1111011101111-1--01-01?110--110010110110100000110
+Retinomastixia_schultei                01--10-071101010111-101101--0011011101111-00?01-01?1??--1??????????01000??1??
+Mastixioidiocarpum_oregonense          ?1--10-0711010101101110101--0011011001101-1-?01-01?1?0111??????????010000?11?
+Langtonia_bisulcata                    01--111071101110101-101101000011011101101-01001-1--01?--1??11011?1?010000?11?
+Beckettia_samuelis                     ?1--?11071101?10111-11112101???????????-1-1--??-??-???-????????????0?000?????
+Davidia_involucrata                    01--141001001011-1011110-0000010011001111-1-00--1--00-00111011110110100000110
+Davidia_antiqua                        01--141001101011-11-1110-0010111011101111-1-0---1--00---11???????1?010000011?
+Drumheller_fruit_1                     ?1--141001001011-1011110-10001011100111-1-1-0---1--01---1??????????0?0?00?11?
+Camptotheca_acuminata                  01--101121000011-11-1100-0--1111011101111-1-----01?11---11001111001?100001110
+Nyssa_sylvatica                        01--101001100010011-1110-1--0011011101101-1-001-011110--111001111110100000110
+Nyssa_ogeche                           01--101021000011-1011100-0--0011011101101-1-001-1--01--0110??1111110100000110
+Nyssa_aquatica                         01--101031100011-1011100-0--0011011101101-1-001-01?11-01111111111110100000110
+Nyssa_talamancana                      01--111001100010011-101111000011011101101-1-001-01?110--11??????111010000?110
+Nyssa_javanica                         01--101001100011-0000012-1--0011011101101-1-001-01?11-01110011111110100000110
+Nyssa_grayensis                        ?1--?11021000010011-1010-1010011011101101-1-001-01??00--1???????????1000??1??
+Nyssa_spatulata                        ?1--121001100111-10011111101??11011101101-1---1-01?1?-??1???????????1000??1??
+Curtisia_dentata                       01--131011101111-11-1010-10101011101111-1-1-1-001--10---110001111110100000110
+Curtisia_quadrilocularis               01--131011101111-11-1010-10101011101111-1-1-1-001--1?---1??????????0?0000?1??
+Grubbia_rosmarinifolia                 01--0100611???11-11-1110-101??011101111-1-1---001--1?---?1101111111010100?11?
+Hydrostachys_spp.                      -0001101--------------------------------------0?--------------------101100101
+Hydrangea_heteromalla                  002-1201--------------------------------------00---------0??1111011-01110?000
+Deutzia_corymbosa                      00211201--------------------------------------00---------1111111010-01110?00?
+Jamesia_americana                      00001201--------------------------------------0?---------0111111010-01110?00?
+Philadelphus_purpurascens              00101301--------------------------------------0?---------0111111011-01110?00?
+Mentzelia_dispersa                     003110-1-------------------------------------------------0111111010-11210?100
+Loasa_sclareifolia                     003110-1-------------------------------------------------0111111010-11210?100
+Hironoia_fusiformis                    01--121041001011-1011110-10000011101110-1-1-20011--11-0110??????111010000?110
+Amersinia_obtrullata                   01--121021000011-11-1110-10100011101111-1-1-200101?11---101??111101010000?110
+Suciacarpa_starrii                     01--131001100011-11-1111210010011110111-011--01-1--00---0?0????????010000?110
+Suciacarpa_xiangae                     01--131001100?11-11-11111100100111100111011--01-1--00---??0?????????10000?110
+Eydeia_hokkaidoensis                   01--131001101111-1011110-10101011100110-1-1-0-1-1--01-01110101111110100000110
+Eydeia_vancouverensis                  ?1--131001001011-1011110-10101001100111-1-1-2-1-1--01-??1??????????010000?110
+Edencarpa_grandis                      ?1--12100??01?11-11-1110-10101011100111-1-1-0-1-1--01---1???????????10000?11?
+Obamacarpa_edenensis                   01--121001000011-11-1110-10110011101111-1-1--01-1--01---1?010111111010000?110
+Drumheller_fruit_2                     ?1--?21021100111-11-111111000001110001111-1-021-1--01---0???????????10000?11?
+Sheltercarpa_vancouverensis            ?1--?310???01?11-11-1110-10101011100111-1-1-0-1-?????--??????????????????????
+Hydrocera_triflora                     100-1401--------------------------------------00-------------------?00111?111
+Marcgravia_nepenthoides                10?11401--------------------------------------01-------------------?11111?101
+Fouquieria_columnaris                  100?1201--------------------------------------00-------------------?11111?000
+
+;
+
+
+cnames
+{ 0 Ovary_position inferior/semi-inferior superior;
+{ 1 Fruit_type capsule drupaceous_fruit;
+{ 2 Capsule_dehiscence septicidal loculicidal apical_interstylar_region apical_valves;
+{ 3 Capsule_dehiscence_procession basipetally_from_apex_to_base_of_fruit acropetally_from_base_to_apex_of_fruits;
+{ 4 Fruit_fusion in_fused_heads not_in_fused_heads;
+{ 5 Number_of_locules one two three four five_or_more;
+{ 6 Symplicate_zone present absent;
+{ 7 General_endocarp_morphology thick_and_woody thin_and_not_woody;
+{ 8 Endocarp_shape ovoid spheroid ob-ovoid spindle-shaped fusiform conical funnel-shaped elliptical;
+{ 9 Apical_depression_on_endocarp present absent;
+{ 10 Acuminate_apex present absent;
+{ 11 Germination_valves present absent;
+{ 12 Germinatin_valve_length short elongate absent;
+{ 13 Germination_valve_apex pointed rounded;
+{ 14 Pits_on_endocarp_surface present absent;
+{ 15 Grooves_on_endocarp_valve/dorsal_area_exterior_surface present absent;
+{ 16 Valve/dorsal_area_exterior_groove_morphology shallow deep;
+{ 17 Grooves_on_endocarp_valve/dorsal_interior_surface present absent;
+{ 18 Ridges_on_endocarp_valve/dorsal_area_exterior_surface present absent;
+{ 19 Germination_valve/dorsal_exterior_ridge_morphology broad/shallow sharp/conspicuous;
+{ 20 Ridges(s)_on_endocarp_ventral_area_interior_surface present absent;
+{ 21 Endocarp_septal/ventral_grooves present absent;
+{ 22 Endocarp_septal/ventral_ridges present absent;
+{ 23 Locule_shape_in_cross_section elliptical/sub-triangular crescent-shaped ~W-shaped, ~W-shaped D-shaped ,_D-shaped;
+{ 24 Crescent-shaped_locule_morphology_in_cross_section U-shaped C-shaped V-shaped;
+{ 25 Germination_vavle/dorsal_area_depression present absent;
+{ 26 Fertile_locule_size_symmetry equal-sized sizes_differ;
+{ 27 Abortive_locules_seen_in_mature_fruits present absent;
+{ 28 Conspicuous_locule_lining present absent;
+{ 29 Conspicuous_inner_endocarp present absent;
+{ 30 Isodiametric_sclereids_in_germination_valve present absent;
+{ 31 Elongated_sclereids_in_germination_valve present absent;
+{ 32 Fibers_in_germination_valve present absent;
+{ 33 Parenchyma_in_germination_valve present absent;
+{ 34 Isodiametric_sclereids_in_septa_and_central_axis present absent;
+{ 35 Elongated_sclereids_in_septa_and_central_axis present absent;
+{ 36 Fibers_in_septa_and_central_axis present absent;
+{ 37 Parenchyma_in_septa present absent;
+{ 38 Sclerenchyma_cells_with_large_lumen_diameter_in_central_axis present absent;
+{ 39 Endocarp_fibers_in_chaotic/interwoven_multiseriate_groups present absent;
+{ 40 Secretory_cavities present absent;
+{ 41 Secretory_cavities_forming_uniseriate_cycle_around_each_locule present absent;
+{ 42 Resin_canals present absent;
+{ 43 Resin_canals_forming_uniseriate_cycle_around_locules present absent;
+{ 44 Locule_lining_histology fibers sclereids thin-_walled_cells thin-walled_cells;
+{ 45 Inner_endocarp_histology fibers elongated_sclereids isodiametric_sclereids;
+{ 46 Vascular_bundles_in_central_axis/ventral_area present absent;
+{ 47 Position_of_vascular_bundles_in_central_axis center in_margin_of_axis_opposite_the_locules in_margin_of_axis_opposite_of_the_locules;
+{ 48 Vascular_bundles_towards_outer_periphery_of_septa_(or_ventral_endocarp_tissue) present absent;
+{ 49 Transseptal_bundles_ending_blindly_in_septum present absent;
+{ 50 Transseptal_bundles_entering_endocarp through_grooves through_pits;
+{ 51 Vascular_bundles_in_longitudinal_rows_in_septa_(or_ventral_area_of_endocarp)_for_most_of_the_endocarp_length present absent;
+{ 52 Fibers_surrounding_vascular_bundles present absent;
+{ 53 Vascular_bundles_within_exterior_grooves_on_germination_valve/dorsal_exterior_sufaceae present absent;
+{ 54 Vascular_bundles_running_parallel_along_exterior_ridges_on_germination_valve/dorsal_area_surface present absent;
+{ 55 Vascular_bundles_between_ridges_on_germination_valve/dorsal_area_surface present absent;
+{ 56 Vascular_bundles_within_germination_valve/dorsal_area_tissue present absent;
+{ 57 Persistent_calyx/tepal_lobes present absent;
+{ 58 Transition_sclereids present absent;
+{ 59 Sclereids_in_mesocarp present absent;
+{ 60 Radially_elongated_cells_in_mesocarp present absent;
+{ 61 Resin_canals_in_mesocarp present absent;
+{ 62 Secretory_cavities_in_mesocarp present absent;
+{ 63 Laticifers_in_mesocarp present absent;
+{ 64 Mesocarp_texture_at_maturity leathery/dry fleshy;
+{ 65 Wings_formed_by_pericarp present absent;
+{ 66 Dense_layer_of_large_trichomes_on_exocarp_at_matruity present absent;
+{ 67 Position_of_raphe ventral lateral/dorsal;
+{ 68 Intrusive_placentae intrusive non-intrusive;
+{ 69 Number_of_placentae_per_locule one ,_two_or_more;
+{ 70 Placentation apical/sub-apical axile parietal;
+{ 71 Number_of_ovules/seeds_per_locule one two_or_more;
+{ 72 Number_of_cell_layers_in_integument/seed_coate one_to_two three_or_more;
+{ 73 Cotyledon_shape wide narrow;
+{ 74 Chalazal_wing present absent;
+{ 75 Seed_coat_morphology sculptured smooth;
+{ 76 Endosperm_copious present absent;
+;
+
+
+ccode  - 0.76;
+
+
+;

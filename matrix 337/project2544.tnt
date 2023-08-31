@@ -1,0 +1,38 @@
+nstates num 2;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 09.01.31'
+12 8
+
+&[num]
+Indophis                100111001000
+Tuscahomaophis          101000010001
+Nigerophis              011111011011
+Woutersophis            011110011011
+Nessovophis             011111011011
+Vialovophis             111111110001
+Palaeophis              111010110101
+Pterosphenus            111010110101
+
+;
+
+
+cnames
+{ 0 Relatively_short_vertebra_centrum absent present;
+{ 1 Zygapophyseal_plane_located_at_a_low_level absent present;
+{ 2 Thick_zygosphene_considerably_wider_than_the_neural_canal absent present;
+{ 3 Elongated_prezygapophysial_articular_facets absent present;
+{ 4 Synapophyses_located_low absent present;
+{ 5 Neural_spine_restricted_to_the_posterior_half_of_the_neural_arch_on_the_anterior_trunk_vertebrae absent present;
+{ 6 Pterapophys_forming_a_distinct_projection absent present;
+{ 7 Median_notch_present_in_the_posterior_border_of_the_neural_arch absent present;
+{ 8 Long_haemal_keel_occupying_almost_all_the_ventral_centrum absent present;
+{ 9 Anterior_dorsals_with_the_mound_beneath_the_cotyle_hypertrophied_into_a_second_hypapophysis absent present;
+{ 10 Subcentral_foramina_usually_present absent present;
+{ 11 Condylar_axis_horizontal_or_only_slightly_oblique absent present;
+;
+
+
+ccode  - 0.11;
+
+
+;

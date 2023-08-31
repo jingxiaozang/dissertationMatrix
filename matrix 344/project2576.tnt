@@ -1,0 +1,226 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 09.05.22'
+125 83
+
+&[num]
+Stenotritus_sp1                      0000000000000000000000000?00?0000001000?00000000??00000000000000000000?0000000000000?0?0000?0?0000000000000000000000?0?0?0000
+Paroxystoglossa_crossotos            0000000000010010001001000?01?0000101000?120000000000101000000100001100?1010100001000?100000100110111011000000011000?011001000
+Paroxystoglossa_seabrai              0000000000010010001001000?01?0000101000?120000000000111000000100001100?1010100001000?100000100110111011000000011000?010001000
+Paroxystoglossa_andromache           0000000000010010001001000?01?0000101000?120000000000101100000100001100?1010100001000?100000100110111011000000011000?011001000
+Paroxystoglossa_spiloptera           0000000000010010001001000?01?0000101000?120000000000101100000100001100?1000100001000?100000100110111011000000021000?011001000
+Parosystoglossa_mimetica             0000000000010010001001000?01?0000101000?12000000000010100000010001110011010100000000?100000100110111011000000011000?011001000
+Paroxystoglossa_jocasta              0010000000010000001001000?00?0000101000?100000000000101000000000001100?10100100000001110000001110111011000000011000?011001000
+Paroxystoglossa_brachycera           0010000000010000001001000?00?0000101000?100000000000101000000000001100?00100000000000110000001110111011000000011000?011001000
+Paroxystoglossa_barbata              0010000000010000001001000?00?0000101000?100000000000101000000000001100?00100100000001110000001110111011000000011000?011201000
+Paroxystoglossa_mourella             0010000000010000001001000?00?0000101000?100000000000101000000000001100?10100000000000110000000110111011000000011000?011001000
+Paroxystoglossa_transversa           0000000000010000001001000?00?0000101000?120000000400101000001000001100?10101000000000110000000110111011000000011200?011001000
+Paroxystoglossa_laevigata            0000000000010000001001000?00?0000101000?120000000400101000001000001100?10101000000000110000000110111011000000011200?011001000
+Megaloptilla_byronella               0000000000010000001001000?00?0000001000?100000000300101000000000001100?00?00?0000000?000000?0??1012101100000010?000?211001000
+Megaloptilla_calliopis               0000000000010000001001000?00?0000001000?1000000003001010000000000011?????0?00???0?????0????0??0??????????????????????????????
+Belopria_nitidior                    00000000100000?0000000000?00?0000?01000?00000000??000?0?0000??000?0000?00?0??0000000?0?0000?0??000000000000000000000?0?0?0000
+Colletes_bicolor                     00000000100000?0000000000?00?0000?01000?00000000??000?0?0000??000?0000?00?0??0000000?0?0000?0??000000000000000000000?0?0?0000
+Penapis_penai                        0100000000?0?0?0000011000?10?0000?010100?000000000001?1?0000??000?0000?00????0000000?0?0000?0??000???000010000010000?0?0?0000
+Dufourea_sp1                         0100000000?0?0?0000011000?10?0000?010100?000000000001?1?0000??000?0000?00????0000000?0?0000?0??000???000010000010000?0?0?0000
+Conanthalictus_conanthi              0100000000?0?0?0000011000?10?0000?010100?000000000001?1?0000??000?0000?00????0000000?0?0000?0??000???000010000010000?0?0?0000
+Dieunomia_nevadensis                 0000000000?1?0?0000011000?00?1000?010100?000000000001?1?0000??000?0000?00?0??0000000?0?0000?0??000???000010000010000?0?0?0000
+Lipotriches_australica               0000000000?1?0?0000011000?00?1000?010100?000000000001?1?0000??000?0000?00????0000000?0?0000?0??000???000010000010000?0?0?0000
+Nomioides_facilis                    0000000000?1?0?0000001000?00?0000?010100?000000000001?1?0000??000?0000?00?0??0000000?0?0000?0??000???100010000010000?0?0?0000
+Thrinchostoma_torridum               0000000000?1?0?0000001000?00?0000?110100?000000000001?1?0000??000?1000?00????0000000?0?0000?0??000???100010000010000?1?0?1000
+Sphecodes_confertus                  0000000000?1?0?0000001000?00?0000?110100?000000000001?1?0000??000?1000?00????0000000?0?0000?0??000???100010000010000?1?0?1000
+Mexalictus_arizonensis               0000000000?1?0?0000001000?00?0000?110100?000000000001?1?0000??000?1000?00?0??0000000?0?0000?0??000???100010000010000?1?0?1000
+Lasioglossum_zephyrum                0000000000?100?000000100??00?0000?110100?000000000001?1?0010??000?1000?00????0000000?0?0?00?0???00???100010000010000?1?0?1000
+Agapostemon_tyleri                   0000100000?100?0000001000?10?0000?110100?000000000001?1?0000??000?1000?00?0??0000000?0?1000?0??000???100010000000000?1?0?1000
+Caenohalictus_mourei                 0000100000?100?0000001000?10?0000?110100?000000000001?1?0000??000?1000?00?0??0000000?0?1000?0??000???100010000000000?1?0?1000
+Ruizantheda_proxima                  0000000000?100?0000001000?10?0000?110100?000000000001?1?0000??000?1000?00?0??0000000?0?0000?0??000???100010000000000?1?0?1000
+Andinaugochlora_micheneri            0000000000?100?0001111000?01?0000?010100?000000000001?1?0000??000?1110?00?0??0000000?0?0?00?0??001110110000001010000211001000
+Ariphanarthra_palpalis               0000010001?100?0011001110?00?0000?01000?0000000000011?1?0001??000?1100?10?0??0000000?0?0000?0??101100111000000000000111001000
+Augochlora_iphigenia                 00200010000100?0001001000?01?0000?01000?0000000001001?1?0000??000?1100?00?0??0000000?0?0000?0??001111112000100021010311001000
+Augochlora_caerulior                 00200010000100?0101001000?01?0000?01000?0000000000001?1?0000??100?1100?00?0??0000000?0?0000?0??00?111112000100021010311001000
+Augochlorella_ephyra                 00100000000100?0001001000?01?0000?01000?0000000000001?1?0000??000?1100?00?0??0000000?0?0000?0??001110112000100021010311001010
+Augochlorella_aurata                 00100000000100?0001001000?01?0000?01000?0000000000001?1?0000??000?1100?00?0??0000000?0?0000?0??001110112000100021011311001010
+Augochlorodes_turrifaciens           00000000000100?0011001000?00?0000?010100?000000000001?1?0001??000?1100?00?0??0000000?0?0100?0??001100111000000000000312011000
+Augochlorodes_politus                00000000000100?0011001000?00?0000?010100?000000000001?1?0001??000?1100?00?0??0000000?0?0100?0??001100111000000000000312011000
+Augochloropsis_cupreola              00000000000110?0001001000?01?0000?010100?010000001001?1?0000??000?1100?00?1??0000000?0?0200?0??201110110000000010000311001100
+Augochloropsis_cognata               00000000000110?0001001000?01?0000?010100?010000001001?1?0000??000?1100?00?1??0000000?0?0200?0??201110110000000010000311001100
+Caenaugochlora_sp1                   00001000000100?0001001000?01?0000?010100?000000000001?1?0000??000?1100?00?0??0000010?1?0210?0??201110110000000000000010001000
+Caenaugochlora_inermis               00001000000100?0001001000?01?0000?010100?000000000001?1?0000??000?1100?00?0??0000010?1?0210?0??201110110000000000000010001000
+Caenaugochlora_perpectinata          00001000000100?0001001000?01?0000?010100?100000000001?1?0000??000?1100?00?0??0000010?1?0000?0??201100110000000000000010001000
+Ceratalictus_clonius                 00000000000100?0001001000?01?0000?01000?0000000000001?1?0000??000?1100?00?0??0100000?0?0000?0??001011110000100001010311001000
+Ceratalictus_psoraspis               00000000000100?0001001000?01?0000?01000?0000000000001?1?0000??000?1100?00?0??0100000?0?0000?0??001011110000100001010311001000
+Chlerogas_cyaneus                    10300000000100?1001001000?00?0000?010100?000000000001?1?0000??000?1100?00?0??1000000?0?0000?0??101110110000001010000211001000
+Chlerogella_arhyncha                 00100000000100?0001001000?00?0000?010100?0001000??000?1?1000??000?1100?20?0??0000000?0?0000?1??001110110000000010000010001001
+Chlerogelloides_simplex              00300000000100?0001001000?00?0000?01000?00001010??100?1?1000??000?1100?10?0??0000000?0?0000?0??001010110000000000000310001000
+Corynura_patagonica                  00000000000100?0000011000?00?0000?01001?0000000000001?0?0000??000?1100?20?0??0000000?0?0000?0??001110110000000010110010001000
+Corynura_chloris                     00000000000100?0000011000?00?0000?01001?0000000000001?0?0000??000?1100?20?0??0000000?0?0000?0??001110110000000010110010001000
+Halictillus_loureiroi                00000000000100?0000011000?00?0000?010110?000000000001?0?0000??000?1100?20?0??0000000?0?0000?0??000110110000000010110010001000
+Ischnomelissa_zonata                 00100000000100?1001001000?00?0000?010101?0001000??000?1?1000??000?1100?20?0??0000000?0?0000?1??001110110000000000000010001001
+Ischnomelissa_lescheni               00100000000100?1001001000?00?0000?010101?0001000??000?1?1000??000?1100?20?0??0000000?0?0000?1??001110110000000000000010001001
+Megalopta_guimaresi                  00200000000101?0001001003?00?0100?010100?001010020001?1?0100??000?1100?00?0??0000110?1?0000?0??201210110000000000000312001000
+Megalopta_atra                       00200000000101?0001001001?00?0100?010100?000010020001?1?0100??000?1100?00?0??0000010?1?0000?0??201210110000000000000312001000
+Megalopta_byroni                     00200000000101?0001001002?00?0100?000100?001010020001?1?0100??000?1100?00?0??0000110?1?0000?0??201210110000000000000312001000
+Megalopta_furunculosa                00200000000101?0001001002?00?0100?000100?001010020001?1?0100??000?1100?00?0??0000110?1?0000?0??201210110000000000000312001000
+Xenochlora_nigrofemorata             00200000?0?101?0001001000?00?0100?011100?000010020001?1?0000??000?1100?10?1??0000112?1?0200?0??2012????0000000010000312001000
+Xenochlora_ianthina                  00200000?0?101?0001001000?00?0100?011100?000010020001?1?0000??000?110???0?????0?0?????????0?0????????1?????0?00??0???1???1??0
+Megaloptidia_nocturna                00000100010100?0011001011?00?0000?01000?0000000000011?1?0001??000?1100?10?0??0000000?0?1000?0??001110111000000000000312001000
+Megaloptidia_saulensis               00000100010100?0011001011?00?0000?01000?0000000000011?1?0001??000?1100?10?0??0000000?0?1000?0??001110111000000000000312001000
+Megommation_insigne                  00010001010100?0011001001?00?0000?01000?00000000??010?1?0001??000?1100?10?0??0000001?0?1000?0??011200111000000001000311111000
+Megaloptina_minuta                   00010000010100?0011001000?00?0000?00000?0000000000011?1?0001??000?1100?00?0??0010001?0?1000?0??011110111000000001000311111000
+Megaloptina_festivaga                00010000010100?0011001000?00?0000?010100?000000000011?1?0001??000?1100?00?0??0010001?0?1000?0??011100111000000001000311111000
+Stilbochlora_eickworti               00000000010100?0011001000?00?0000?010100?000000000011?1?0001??000?1100?00?0??0000000?0?1000?0??001100111000000000000011011000
+Micrommation_larocai                 00000000010100?0011001010?00?0000?01000?0000000000001?1?0001??000?1100?10?0??0000000?0?0000?0??00111011??00000000000111001000
+Neocorynura_oiospermi                00000000000100?0001101000?01?0000?010100?200000000001?1?0000??000?1100?00?0??0000000?0?0000?0??001110110000001000000211001000
+Neocorynura_aenigma                  00000000000100?0001101000?01?0000?010100?200000000001?1?0000??000?1100?00?0??0000000?0?0000?0??001110110000001000000211001000
+Neocorynurella_seeleyi               00000000000100?0001111000?00?0000?010100?000000000001?1?0000??000?1110?00?0??0000000?0?0000?0??001110110000000000000211001000
+Pereirapis_semiaurata                00000000000100?0001001000?01?0000?01000?0000000000001?1?0000??000?1100?00?0??0000000?0?0000?0??001011110000100001010311001000
+Pseudaugochlora_simulata             00000000000100?0011001000?00?0010?010100?000000000001?1?0000??000?1101?00?0??0000000?0?0010?0??001310111000000010000311001000
+Pseudaugochlora_pandora              00000000000100?0011001000?00?0010?010100?000000000001?1?0000??000?1100?00?0??0000000?0?0010?0??001310111000000010000311001000
+Rhectomia_catarina                   00000000001100?0001011000?00?0000?010100?000000000001?1?0000??000?1100?00?0??0000000?0?0000?0??001100110100000010010311001000
+Corynurella_cognata                  00000000000100?0001011000?00?0000?010100?000000010001?1?0000??000?1100?01?0??0000000?0?0000?0??001100110100000010000311001000
+Paracorynurella_betoi                00000000000100?0001011000?00?0000?010100?000000000001?1?0000??000?1100?01?0??0000000?0?0000?0??001100110100000010010311001000
+Rhinocorynura_briseis                00000000001100?0001011000?00?0000?010100?100000001001?1?0000??000?1100?00?0??0000000?0?0000?0??001110110100000010010311001000
+Rhinocorynura_inflaticeps            00000000001100?0001011000?00?0000?010100?100000001001?1?0000??000?1100?00?0??0000000?0?0000?0??001110110100000010010311001000
+Temnosoma_sp1                        00000000000110?0001001000?01?0000?00000?0000000000001?1?0000??001?1000?00?0??0000000?0?0000?0??001?10110001010000000010011000
+Temnosoma_sp2                        00000000000110?0001001000?01?0000?00000?0000000000001?1?0000??001?1000?00?0??0000000?0?0000?0??001?10110001010000000010011000
+Thectochlora_alaris                  0000000000?100?000100100000010000?010100?300000102001?1?0000??010?1100100?0??0000000?1?0201?0??201110110000000000000311001000
+Thectochlora_basiatra                0000000000?100?000100100000010000?010100?300000102001?1?0000??010?1110100?0??0000000?2?0201?0??201110110000000000000311001000
+Thectochlora_brachycera              0000000000?100?000100100010000000?010100?300000102001?1?0000??010?1100000?0??0000000?1?0200?0??201110110000000000000311001000
+Thectochlora_hamata                  0000000000?100?000100100000010001?010100?300000102001?1?0000??010?1110100?0??0000000?2?0201?0??201110110000000000000311001000
+Thectochlora_mixta                   0000000000?100?000100100000000000?010100?300000102001?1?0000??010?1110100?0??0000000?1?0201?0??201110110000000000000311001000
+
+;
+
+
+cnames
+{ 0 Number_of_flagellomeres_(_Nr._female_/_Nr._male) 10_/_11 9_/_10;
+{ 1 Position_of_antennal_sockets on_middle_or_on_upper_half_of_face on_lower_half_of_face;
+{ 2 Angle_formed_between_dorsal_and_lateral_clypeogenal_sulci_and_opening_toward_compound_eye obtuse_or_linear approximately_orthogonal acute,_forming_lobe_projecting_into_clypeal_base projected_as_remaining_face;
+{ 3 Apical_margin_of_clypeus straight concave;
+{ 4 Compound_eye_setae inconspicuous,_at_most_as_long_as_an_ommatidium_diameter conspicuous,_much_longer_than_several_ommatidium_diameters;
+{ 5 Frons not_depressed_above_antennal_alveoles strongly_depressed_above_antennal_alveoles;
+{ 6 Anterior_angle_of_hypostomal_ridge rounded angled,_coming_to_a_distinct_point;
+{ 7 Hypostomal_ridge rounded_to_carinate lamellate;
+{ 8 Glossa_apex pointed bifid;
+{ 9 Prementum unmodified,_less_than_7x_longer_than_wide greatly_narrowed_and_elongate,_7x_or_more_longer_than_wide;
+{ 10 Basal_elevation_,_notch not_entirely_divided entirely_divided,_including_its_basal_limit;
+{ 11 Distal_process_of_labrum broadly_rounded,_or_truncate,_not_keeled ending_in_a_process_with_a_strong,_laterally_compressed_keel;
+{ 12 Shape_of_distal_process_of_labrum triangular quadrate;
+{ 13 Keel_of_labral_distal_process thin_ridge expanded_at_base;
+{ 14 Shape_of_basal_elevation transversal elliptical;
+{ 15 Length_of_malar_space short,_less_than_basal_width_of_mandible elongate,_as_long_as,_or_longer_than,_basal_width_of_mandible;
+{ 16 Mandible_teeth not_widely_separated widely_separated_(_one_or_more_than_one_time_the_tooth_width);
+{ 17 Apex_of_galea lobed distinctly_acute;
+{ 18 Base_of_galea extending_posterad_to_middle_of_stipes extending_posterad_or_near_to_base_of_stipes;
+{ 19 Galeal_surface pores_sparsely_distributed pores_uniformly_distributed;
+{ 20 Inner_surface_of_galea without_comb with_comb;
+{ 21 Position_of_the_lacinia at_base_of_galea stretched_up_anterior_surface_of_labiomaxillary_tube;
+{ 22 Maxillary_palpus unmodified,_extending_posterad_to_premental_base_at_most greatly_elongate,_extending_posterad_to_metasoma;
+{ 23 Sixth_maxillary_palpomere with_same_length_of_fifth_palpomere longer_than_fifth_palpomere;
+{ 24 Distance_between_the_lateral_ocellus_and_the_upper_margin_of_compound_eye three_times_greater_than_F1_length two_times_greater_than_F1_length equal_to_F1_length less_than_F1_length;
+{ 25 Female_paraocular_area long_erect_setae_with_very_short_branches,_almost_simple long_setae_conspicuously_branched;
+{ 26 Integument_of_upper_paraocular_areas not_differentiated_from_median_parts_of_frons differentiated_by_other_kind_of_sculpture_or_coloration_(_paraocular_fovea);
+{ 27 Preoccipital_area rounded,_not_carinate carinate_or_lamellate;
+{ 28 Female_supraclypeal_area conspicuously_convex,_its_lateral_portions_with_a_more_pronounced_curvature_than_adjacent_parocular_surface only_weakly_convex,_its_lateral_portions_with_same_curvature_as_adjacent_parocular_surface;
+{ 29 Internal_portion_of_head without_second_tentorial_arm_bridge with_second_tentorial_arm_bridge;
+{ 30 Vertex_near_occelli without_furrow with_interocellar_furrow;
+{ 31 Vertex without_ridge with_dorsally_extended_transverse_ridge_behind_ocelli;
+{ 32 Fore_leg_trochanter without_a_dorsal_hook with_a_dorsal_hook;
+{ 33 Marginal_cell_apex acute_and_not_appendiculate truncate_and_appendiculate;
+{ 34 Basitarsus_and_second_tarsomere_of_hind_leg not_fused fused_in_some_degree;
+{ 35 Hind_leg without_scopa with_scopa;
+{ 36 Hind_tibia_and_basitarsus without_dense_stiff_black_setae with_dense_stiff_black_setae;
+{ 37 Inner_metatibial_spur serrate pectinate;
+{ 38 Metatibia without_spine with_spine;
+{ 39 Pectinate_inner_metatibial_spur few_teeth many_teeth;
+{ 40 Serrate_inner_metatibial_spur with_basal_portion_enlarged without_basal_enlargement;
+{ 41 Mesoscutal_anterior_border broadly_rounded depressed_dorsally acuminate,_but_not_depressed projected_over_dorsal_surface_of_pronotum;
+{ 42 Tegula oval inner_margin_notched;
+{ 43 Lateral_surface_of_metapostnotum ornamented polished,_without_ornamentaion;
+{ 44 Metapostnotum_length shorteR_than_scutellum_and_metanotum_combined as_long_or_longer_than_scutellum_and_metanotum_combined;
+{ 45 Metapostnotum_declivity strongly_angled_from_propodeal_posterior_surface declivitous;
+{ 46 Mesofemur_and_mesotibia not_expanded expanded;
+{ 47 Mesotrochanter unmodified with_medio-dorsal_hook;
+{ 48 Pronotal_carina_,_laterally not_expanded_to_ventral_pronotum descending_ventral_pronotum,_reaching_propleura descending_ventral_pronotum,_not_reaching_propleura;
+{ 49 Pronotal_carina not_lamellate forming_a_weak_lamella forming_a_distinctly_elevated_lamella forming_a_lamella_contiguous_throughout_pronotal_dorsal_surface incomplete_lamela_from_lobe_to_lateral_angle;
+{ 50 Pronotal_dorsal_surface_between_lateral_angles short,_mostly_covered_by_mesoscutum convex,_inflated,_and_greatly_expanded_anteriorly,_not_obscured_by_mesoscutum;
+{ 51 Pronotal_dorsal_surface without_row_of_erect_setae with_a_conspicuous_row_of_erect_setae;
+{ 52 Pronotum_dorsal_surface not_carinate with_carinate_ridge;
+{ 53 Pronotum_lateral_angle not_projected strongly_projected;
+{ 54 Propodeal_pit set_into_triangular_recess not_set_into_a_triangular_recess;
+{ 55 Pubescence_of_dorsal_angle_of_propodeum without_appressed_setae with_a_tuft_of_appressed_setae;
+{ 56 Prosternum not_expanded expanded_in_a_diamond_shape_format;
+{ 57 Distal_hamuli irregularly_spaced uniformly_spaced_and_numerous;
+{ 58 Distal_venation_of_front_wing strong weakened;
+{ 59 Intersection_between_1a._M-cu_and_basal_cell between_2a._rs-m_and_Rs after_2a._Rs-m;
+{ 60 Metasomal_marginal_areas not_broadened,_depressed_and_glabrous broadened,_depressed_and_glabrous;
+{ 61 Metasomal_marginal_areas(2) without_couloured_bands with_coloured_bands;
+{ 62 S1_ventral_surface not_modified with_tubercle;
+{ 63 Anterior_surface_of_T1 not_depressed depressed,_forming_an_acarinarium;
+{ 64 Apical_margin_of_T1-2 not_produced depressed_and_rimmed;
+{ 65 First_tergum_disc punctured almost_impunctate;
+{ 66 T5_pre-pygidial_fimbriae not_cleft medially_cleft;
+{ 67 T5 without_pre-pygidial_fimbriae with_pre-pygidial_fimbriae;
+{ 68 Antenna without_defined_sensory_plate_areas with_sensory_plate_areas;
+{ 69 Apex_of_F11 unmodified hooked;
+{ 70 Male_antenna flagellomeres_decreasing_in_length_from_base_to_apex F2-F11_subequal_in_length;
+{ 71 Relative_lengths_of_F1_versus_length_of_F2 F1_equal_to_F2 F1_shorter_than_F2 F1_longer_than_F2;
+{ 72 Frons(2) without_long_and_erect_branched_setae with_long_and_erect_branched_setae;
+{ 73 Gena with_short,_setae_(_less_than_one_half_an_eye_lenght) with_long_setae_(_more_than_one_half_na_eye_lenght);
+{ 74 Labrum without_a_basal_elevation with_basal_elevation;
+{ 75 Preoccipital_area(2) rounded,_not_carinate carinate;
+{ 76 Hind_femur not_swollen swollen;
+{ 77 Inner_hind_tibial_spur serrate pectinate;
+{ 78 Metatibia(2) without_row_of_erect_setae with_a_row_of_erect_setae_with_approximately_same_tibial_diameter;
+{ 79 Propodeal_spiracle without_dense_and_plumose_setae surrounded_with_dense,_plumose_setae;
+{ 80 Male_metasomal_marginal_areas without_couloured_bands with_coloured_bands;
+{ 81 Median_surface_of_S3 without_longitudinal_sulcus with_longitudinal_sulcus;
+{ 82 Apical_margin_of_S3 not_notched medially_notched;
+{ 83 Medio_apical_surface_of_S3 without_medio-apical_process with_weakly_projected_medio-apical_process with_strongly_projected_medio-apical_process;
+{ 84 Apical_margin_of_S4_oblique_elevation not_widely_separated widely_produced_and_separated;
+{ 85 Apical_margin_of_S4 straight medially_concave produced_(_new_state_for_Thectochlora);
+{ 86 Apical_margin_of_S4(2) without_elevation with_oblique_elevations;
+{ 87 Gradulus_of_S4 continuous medially_interrupted;
+{ 88 Lateral_margin_of_S4 straight with_small_lateral_processes with_projected_lateral_processes_(_more_than_0.5_the_sternum_lenght);
+{ 89 Medial_surface_of_S4 without_setal_patch with_triangular_setal_patch;
+{ 90 Medial_surface_of_S4(2) without_setal_tuft with_circular_setal_tuft;
+{ 91 Medio_apical_surface_of_S4 unmodified with_basal_patches_of_setae_and_apical_tuft_near_a_median_projection;
+{ 92 Apical_margin_of_S5 without_setal_tuft with_tufts_of_long_setae;
+{ 93 Median_surface_of_S5_,_depression without_lateral_tubercles with_lateral_tubercles;
+{ 94 Median_surface_of_S5 not_depressed with_a_median_depressed_area;
+{ 95 Medio-apical_margin_of_S5 not_modified weakly_emarginate cleft;
+{ 96 Gradulus_of_S6 continuous medially_interrupted;
+{ 97 Medio-apical_margin_of_S6 clearly_straight cleft;
+{ 98 Apical_margin_of_S7 continuous,_straight with_median_process with_lateral_processes State_3;
+{ 99 Apical_margin_of_S8 continuous,_straight with_median_process;
+{ 100 Point_of_fusion_between_S7_and_S8 at_apodeme_apex before_apodeme_apex;
+{ 101 S8 sclerotinized,_with_unique_apical_projections_and_usually_with_moderate_basal_arms membranous,_without_an_apical_projection;
+{ 102 S8(2) without_spicule with_spicule;
+{ 103 Apical_margin_of_proctiger without_anal_filaments with_short_anal_filaments with_long_anal_filaments;
+{ 104 Apical_margin_of_proctiger(2) without_microtrichiae with_microtrichiae;
+{ 105 T7_,_carina without_apical_carina apical_carina_produced_as_a_false_apex,_similar_to_a_pygidial_plate;
+{ 106 T7_,_notch without_apical_notch with_apical_notch;
+{ 107 Dorsal_surface_of_gonapophysis_,_ridge without_ridge ridged;
+{ 108 Dorsal_surface_of_gonapophysis_,_process absent with_long,_anteriorly_directed_process;
+{ 109 Gonapophysis medially_broad entirely_narrowed;
+{ 110 Outer_surface_of_gonapophysis unmodified indentate with_two_indentations;
+{ 111 Ventral_surface_of_gonapophysis unmodified with_broad_prong with_keel;
+{ 112 Gonobasal_dorsal_lobes narrow,_situated_between_apodemes_of_penis_valves_in_dorsal_view broad,_situated_at_or_lateral_to_apodemes_of_penis_valves_in_dorsal broadly_excavated;
+{ 113 Gonocoxite unmodified distinctly_broader_than_gonobase;
+{ 114 Basal_process_of_gonostylus without_basal_process with_basal_process;
+{ 115 Dorsal_process_of_gonostylus_,_projections a_single_projection divided_projection;
+{ 116 Dorsal_process_of_gonostylus_,_presence without_dorsal_process with_inflated_dorsal_process with_transversal_dorsal_process with_apical_dorsal_process;
+{ 117 Gonostylus externally_contiguous_with_gonocoxite,_not_clearly_constricted_at_base clearly_constricted_at_base;
+{ 118 Parapenial_lobe absent present enlarged;
+{ 119 Ventral_process_of_gonostylus_,_shape globose calix-like truncate;
+{ 120 Ventral_process_of_gonostylus_,_size not_enlarged enlarged;
+{ 121 Ventral_surface_of_gonostylus without_a_projection with_projection;
+{ 122 Inner_apical_corner_of_volsella variously_produced modified_into_a_thin_hook;
+{ 123 Outer_basal_corner_of_volsella rounded acuminate_or_indented;
+{ 124 Volsellar_axis parallel oblique;
+;
+
+
+ccode  - 0.124;
+
+
+;

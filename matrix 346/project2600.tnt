@@ -1,0 +1,118 @@
+nstates num 8;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 09.07.00'
+58 42
+
+&[num]
+Spiraeanthemum_samoense               22-0200011003-0100-10000300-0010-000111-0110000-0000000100
+Spiraeanthemum_ellipticum             22-0100011003-0100-10000300-0010-000111-0110000-0000000100
+Brunellia_oliveri                     100110000000111-0-101100300-00102100101-0111100-1001010000
+Brunellia_colombiana                  100110000000111-0-101100300-00102100101-0111100-1001010000
+Davidsonia_jerseyana                  002110000000321?0--01000100-0010210011000010060-1001110100
+Davidsonia_johnsonii                  002110000000321-0--01000100-001021001100001??60-1001110100
+Bauera_sessiliflora                   12-1?00000000-1-0-10-31211110000-0000-00001000021011001000
+Bauera_rubioides                      12-1100000000-1-0-10-31211110001-0000-00001000021011001000
+Eucryphia_cordifolia                  120110000000300211-0-30241110010-0001100000017010000110100
+Eucryphia_moorei                      1?0110000000300211-0130241110010-0001100000017010000110100
+Hooglandia_ignambiensis               10011000000??01000101000010-0010-0?011000100110-100???????
+Anodopetalum_biglandulosum            12-110000000310210-0110010120010111110010100030-1001110110
+Platylophus_trifoliatus               11-110000000300210-0110010120010011110000110030-1001110100
+Ceratopetalum_gummiferum              11-110000000300201-0110010120010111110012100031-1001110101
+Ceratopetalum_apetalum                12-110000000300201-01100100-0010011110002110031-1001110101
+Schizomeria_serrata                   12-110000000300201-0110010120010011111000110010-1001112110
+Schizomeria_ovata                     12-110000000000201-0110010120010011111000100010-1001112110
+Gillbeea_adenopetala                  100100100000201---10100010130010-02110000000150-1010010100
+Geissois_superba                      11-100010000311---000400100-0010-0101000000007010001022010
+Karrabina_benthamiana                 11-100000000312----00400100-0010-0101000001007010001022010
+Pseudoweinmannia_lachnocarpa          11-100000000311---000400100-0010-01010000010070-?001022110
+Pullea_glabra                         12-0000000000-0000-10000110-?010211011002010050-?000000100
+Weinmannia_raiateensis                10111000?000200102-104001110001021001000001007021100000100
+Weinmannia_bangii                     101110000000200102-104001110001021001000001007021100000100
+Weinmannia_fraxinea                   101110000000200102-104001110001021001100001007021100000100
+Weinmannia_minutiflora                101110000000200102-004001110001021001100001007021100000100
+Weinmannia_madagascariensis           101110000000200102-004001110001021001000001007021100000100
+Cunonia_atrorubens                    101110000000200102-?04001110001021001000001004020000000100
+Cunonia_capensis                      101100000000200102-004001110001021001000000004020000000100
+Pancheria_engleriana                  220110000000200102-0020011100010210011100110070-0000000110
+Vesselowskya_rubifolia                11-100010000100102-104001010001021001100001107020000000100
+Callicoma_serratifolia                12-100000011000000-10200100-001021100-0000100?001010000100
+Codia_discolor                        12-020000011000?00-002001010001021000-001110070???01000100
+Acrophyllum_australe                  22-1000000000-0?00-0000010100010-0101000001007001010000100
+Caldcluvia_paniculata                 12-110010000301---1001001010001021001100001007010000000100
+Ackama_rosifolia                      100101011000310?02-10000100-10102100110000100?011100010100
+Spiraeopsis_celebica                  100111110000310?020100001010101021001100001017010011012000
+Opocunonia_nymanii                    100110011000300?0?0001001010101021001000001007000010001100
+Lamanonia_ternata                     11-100010000311---100402100-0010-0101000001007010001022100
+Aistopetalum_viticoides               10011111111130?????01000300-0010-00010000210110---01012100
+Lacinipetalum_spectabilum             ??????????????????????212012001001001?000?10??????????????
+Cunoniantha_bicarpellata              ?????????????????????10?10100010-0001?000?10??????????????
+
+;
+
+
+cnames
+{ 0 Arrangement_of_leaves_on_the_stem. alternate decussate whorled;
+{ 1 Organization_of_mature_leaves imparipinnate palmately_compound unifoliolate;
+{ 2 Rachis unwinged winged dentate;
+{ 3 Mature_leaf_margin untoothed toothed;
+{ 4 Secondary_vein_framework craspedodromous semicraspedodromous brochidodromous;
+{ 5 Orbicular_trichomes_on_leaves absent present;
+{ 6 Stellate_trichomes absent present;
+{ 7 Tuft_domatia_on_leaves absent present;
+{ 8 Pocket_domatia_on_leaves absent present;
+{ 9 Two-celled_epidermal_glands_on_leaf absent present;
+{ 10 Small_paired_hairs absent present;
+{ 11 Stoma_with_cutin_frill absent present;
+{ 12 Arrangement_of_subsidiary_cells anomocytic encyclocytic anisocytic brachyparacytic;
+{ 13 Leaf_stipels absent adaxial abaxial;
+{ 14 Type_of_stipules 2_interpetiolar_primordia lateral_primordia_(4_in_decussate_shoots) 2_axillary_primordia absent;
+{ 15 Colleters_on_interpetiolar_stipules absent hairs ribs;
+{ 16 Interpetiolar_stipule_apex rounded/acute bifid;
+{ 17 Interpetiolar_stipules_relationship_to_leaves not_enclosing_leaves partly_enclosing_leaves fully_enclosing_leaves;
+{ 18 Lateral_stipule_fusion_in_decussate_plants fuzed_at_maturity remaining_free;
+{ 19 Supernumerary_axillary_buds absent present;
+{ 20 Floral_maturation synchronous/acropetal centrifugal/basipetal;
+{ 21 Shape_of_the_flower-bearing_axis paniculiform thyrsoid_to_cymiform capitate solitary_flowers racemose;
+{ 22 Parts_per_perianth_whorl 4-5 7-8 8-10;
+{ 23 Number_of_stamens 8-10 16-20 many 4-5;
+{ 24 Number_of_carpels 1 2 4 4-5 many;
+{ 25 Calyx_aestivation valvate imbricate;
+{ 26 Corolla absent present;
+{ 27 Petal_morphology ovate_to_obovate,_single_veined large_multiveined,_obovate flabellate_incised cuneiform/retuse lanciolate;
+{ 28 Protandry absent present;
+{ 29 Fillament_attachement dorsifixed basifixed;
+{ 30 Anther_attachment rigid versatile;
+{ 31 Anther_dehiscence ventral_slit poricidal;
+{ 32 Connective_length short long minute;
+{ 33 Thecal_connective_protruberence absent present;
+{ 34 Pollen_colpi tricolporate dicolporate syncolpate;
+{ 35 Tectum_structure_from_pole_to_equator homogeneous heterogeneous;
+{ 36 Floral_nectary absent present;
+{ 37 Floral_nectary_form annular segmented;
+{ 38 Carpel_connation syncarpous apocarpous_all_or_most_of_length;
+{ 39 Style_connation free partially_fuzed fully_fuzed;
+{ 40 Ovary_insertion hypogyny epigyny perigyny;
+{ 41 Ovules_per_carpel more_than_two two one;
+{ 42 Ovary_texture glabrous hirsute;
+{ 43 Stigma_type terminal decurrent;
+{ 44 Stylar_canal present absent;
+{ 45 Fruit folicular single-seeded_drupe capsular_(basipetal_dehiscence)_ dry_indehiscent dry_bladder fin-winged schizocarpic_didrupe_ capsular_(circumbasal,_acropetal);
+{ 46 Calyx_in_fruit not_accrescent forming_stiff_wings_around_fruit;
+{ 47 Capsule_column adnate_pair free_pair single;
+{ 48 Seed_wings present absent;
+{ 49 Seed_pubescence absent present;
+{ 50 Seed_papillae absent present;
+{ 51 Vessel_perforation_plates mostly_scalariform mostly_simple;
+{ 52 Ray_cell_structure_in_wood markedly_heterogeneous fairly_homogeneous;
+{ 53 Vessel_organization_in_wood solitary solitary-multiples radial-multiples;
+{ 54 Intervessel_pitting_type scalariform_to_opposite opposite transitional_opposite-alternate;
+{ 55 Diffuse_axial_parenchyma_in_the_wood absent present;
+{ 56 Axial_parenchyma_in_discontinuous_bands_of_1-5_cells absent present;
+{ 57 Regular_axial_parenchyma_bands_1-5_cells_wide absent present;
+;
+
+
+ccode  - 0.57;
+
+
+;

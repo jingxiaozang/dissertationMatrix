@@ -1,0 +1,107 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 09.02.36'
+75 14
+
+&[num]
+Azygonyx                           0000000000000000[01]0[01][01]00000[01]0000001?????????0?000000?000?0000000?000000000000
+Esthonyx                           [01]00000000[01]00000000[01]0[01]0000000001001?0??????00000????0???????????????????????
+Megalesthonyx_hopsoni              ?20001???1?0100001001011?0?00110???????????????????????????????????????????
+Adapidium_huanghoense              ????011001?01???????111?11000??0???????????????????????????????????????????
+Kuanchuanius_shantunensis          ?????????????0110110101?10201120???????????????????????????????????????????
+ANSP                               ?????????????01011111??1????1121???????????????????????????????????????????
+SDSNH                              1011111101010?1????1101?10[01]11??10110011002?00011000011020110101011110010011
+ANSP-SDSNH                         10111111010100101111101110[01]111210110011002?00011000011020110101011110010011
+Trogosus_hyracoides                121111110111001001101011?0102121111101100000[01]001120011021110201?111????????
+Trogosus_grangeri                  1???111?0111001001121011?02021212001100110101101002120101101210110111101101
+Trogosus_hillsii                   10?111???101001001?1???1????1121200??001111?01010011111001011?0?10111001???
+Trogosus_latidens                  ?1111121?1?10010?112[12]011[12]020??2????????????????????????????????????????????
+Trogosus_gazini                    ?111112101110?1001??10122020???????????????????????????????????????????????
+Tillodon_fodiens                   12111121110101102112101222?0212112020000200110010100210101112020101?0101???
+
+;
+
+
+cnames
+{ 0 den01_P2_root(s) Two_roots Single_root;
+{ 1 den02_P3_parastyle Low_crest-like_cusp_on_the_anterior_slope_of_paracone Diminutive_(much_reduced)_or_lost Large_and_cusp-like_parastyle,_separating_from_paracone_by_a_notch;
+{ 2 den03_P3_paracone Intermediately_or_slightly_anteriorly_positioned_paracone,_without_a_labial_enamel_extension_to_root Anteriorly_positioned_paracone,_with_a_labial_enamel_extension_to_root;
+{ 3 den04_P3_metastyle Low_and_obtuse_cusp,_showing_a_symmetric_aspect_with_parastyle Posteriorly_expanded,_developed_crest-like_cusp,_forming_a_broad_ectoflexus;
+{ 4 den05_Precingulum_(anterolingual_cingulum)_on_P4?M3 Present,_as_a_defined_shelf-_or_crest-like_structure Reduced_or_lost;
+{ 5 den06_Stylar_shelf_and_ectocingulum_(labial_cingulum_between_parastyle_and_metastyle)_on_P4?M3 Present,_as_shelf-like_structure_(stylar_shelf) No_shelf-like_structure,_but_sometimes_with_weak_and_discontinuous_cingulum;
+{ 6 den07_Lingual_crests_(preprotocrista_and_postprotocrista)_from_P4_protocone,_and_position_of_P4_paracone Symmetric_(V-shaped_crests),_and_mid-positioned_paracone Slightly_asymmetric_with_relatively_expanded_postprotocrista,_and_anteriorly_positioned_paracone Distinctly_asymmetric_with_well-expanded_postprotocrista_and_reduced_preprotocrista,_anteriorly_positioned_paracone,_and_anteriorly_swelling_lingual_wall_of_P4;
+{ 7 den08_Hypoconal_crest_(posterolingual_cingulum,_postcingulum)_on_P4 Present,_a_shelf-_or_crest-like_structure Reduced_as_a_small_enamel_pit_or_lost;
+{ 8 den09_M1_size_relative_to_P4:_ratio_of_M1/P4_in_crown_area_(length_x_width). Moderately_larger_than_P4:_approximate_range_=_1.10?1.45 Much_larger_than_P4:_approximate_range_=_1.60?1.90;
+{ 9 den10_Hypoconal_crest_(posterolingual_cingulum,_postcingulum)_on_M1?2 Cingulum_or_crest-like_structure,_less_developed_than_pre-_and_postprotocristae Expanded_hypoconal_crest,_a_shelf-like_structure_with_a_square_posterolingual_edge,_as_developed_as_pre-_and_postprotocristae;
+{ 10 den11_M3_size_relative_to_M2:_ratio_of_M3/M2_in_crown_area_(length_x_width) Smaller_than_M2:_approximate_range_=_0.74?0.97_(average_0.83) Larger_than_M2:_approximate_range_=_1.18?1.32;
+{ 11 den12_?Enamel_loop?_(Gazin,_1953:66)_in_trigon_basin_of_M1?3 Absent Present;
+{ 12 den13_Mesostyle_on_M1?3 Absent Present;
+{ 13 den14_i1 Present Absent;
+{ 14 den15_i2_(I2)_morphology Rooted,_with_oval_cross_section Rootless,_with_posteriorly_elongated_dentine_and_labial_enamel_layer_extending_to_the_basal_end;
+{ 15 den16_A_longitudinal_groove_on_i2_labial_enamel_surface Absent,_flattened_or_smooth_surface Present;
+{ 16 den17_i3 Present,_smaller_than_i1_and_than_c1 Much_vestigial_or_possibly_lost,_because_of_no_space_between_i2_and_c1 Lost,_despite_enough_space_(long_diastema)_between_i2_and_c1;
+{ 17 den18_c1 As_large_as,_or_slightly_smaller_than_i2 Reduced,_apparently_smaller_than_i2,_almost_the_same_size_as_i3_or_p2;
+{ 18 den19_p2_root(s) Two_roots Single_root;
+{ 19 den20_i2?p3_distance_(diastemata_anterior_to_p3)_or_I2?P2_distance:_ratio_of_length_from_i2_posterior_edge_to_p3_anterior_edge_with_the_diastemata_/_length_of_lower_cheek_teeth_(p3?m3),_or_ratio_of_length_from_I2_posterior_edge_to_P2_anterior_edge_with_the_diastemata_/_length_of_lower_cheek_teeth_(P3?M3) Moderately_long:_approximate_range_=_0.30?0.35_(0.59?0.61_in_upper_dentition) Shorter:_approximate_range_=_0.22?0.27_(0.50?0.54_in_upper_dentition) Longer:_approximate_range_=_0.37?0.41_(0.65?0.71_in_upper_dentition);
+{ 20 den21_Unilateral_hypsodonty_of_lower_cheek_teeth:_ratio_of_labial_enamel_expansion_of_the_tooth_/_the_tooth_length_(m1_or_m2,_preferable) Less_hypsodont:_less_than_0.4_(approximate_range_=_0.28?0.38) Moderately_hypsodont:_approximate_range_=_0.41?0.48 Greatly_hypsodont:_over_0.57_(approximate_range_=_0.58?0.72);
+{ 21 den22_Metaconids_of_lower_molars Relatively_conical_and_slender,_with_no_strong_posterior_projection_over_protocristid Elongated_anteroposteriorly,_with_flat_lingual_wall_and_defined_posterior_projection;
+{ 22 den23_Anterolingual_connection_of_cristid_obliqua_in_lower_molars Almost_at_the_middle_of_protocristid At_lingual_position_of_protocristid,_close_to_metaconid_(posterolabial_side_of_metaconid);
+{ 23 den24_Size_of_m2_relative_to_m1:_ratio_of_m2/m1_in_crown_area_(length_x_width) Slightly_larger_than_m1:_approximate_range_=_1.06?1.22 Moderately_larger_than_m1:_approximate_range_=_1.22?1.52 Much_larger_than_m1:_approximate_range_=_1.60?1.65;
+{ 24 den25_m2_hypoconulid_and_entoconid No_basin_structure,_with_a_conical_or_weak_crest-like_hypoconulid_and_a_conical_entoconid No_basin_structure,_with_a_lingually_positioned_crest-like_hypoconulid_and_a_conical_entoconid Basin-shaped_(lingually_positioned_hypoconulid-entoconid_basin),_with_connection_between_a_crest-like_hypoconulid_and_a_conical_entoconid_by_a_low_enamel_ridge;
+{ 25 den26_m3_metastylid Single,_weak_or_prominent Double_(twinned)_and_weak Much_reduced_(possibly_absent);
+{ 26 den27_m3_third_lobe_(m3_hypoconulid_basin) No_basin_structure_and_no_posthypocristid:_a_conical_hypoconulid_and_a_small_crest-like_entoconid Basin-shaped,_with_a_weak_posthypocristid Basin-shaped,_with_a_distinct_posthypocristid;
+{ 27 den28_Groove_on_lingual_surface_of_m3_talonid_(lingual_extension_of_occlusal_notch_between_entoconid_and_third_lobe_(=_hypoconulid)) Absent Present;
+{ 28 mnd-1_Mandibular_depth:_ratio_of_the_maximum_depth_of_mandible_/_m2_size_in_the_natural_logarithmic_crown_area_(Ln_length_x_width) Shallow:_less_than_7_(approximate_range_=_4.19?6.85) Moderate:_approximate_range_=_8.08?8.97 Deep:_over_10_(approximate_range_=_10.12?11.27);
+{ 29 mnd-2_Lateral_shape_of_mandible Depth_decreasing_anteriorly_from_m3 Depth_decreasing_anteriorly_from_p3;
+{ 30 mnd-3_Mandibular_symphysis Unfused Fused,_with_posterior_expansion_under_p3_or_more_anterior Well-fused,_further_posteriorly_extending_at_least_under_p4_talonid;
+{ 31 mnd-4_Thickness_(robustness)_of_mandibular_ramus_and_depth_of_masseteric_fossa Thin_to_moderate_thickness_with_a_shallow_masseteric_fossa Very_thick_(massive)_with_a_deep_masseteric_fossa;
+{ 32 sk01_Rostral_depth_relative_to_palatal_length_(ratio_of_rostral_depth_/_palatal_length,_Table_1) Shallow:_approximate_range_=_0.27?0.29 Moderate:_approximate_range_=_0.33?0.35 Deep:_approximate_range_=_0.38?0.41;
+{ 33 sk02_Pattern_of_premaxilla-maxilla_suture_on_lateral_surface_of_rostrum Gently_extending_posteriorly_with_a_faint_inflection_above_the_level_of_the_infraorbital_foramen Weak_sigmoid_contact_with_a_right-angled_flexure_slightly_above_the_level_of_infraorbital_foramen Sigmoid_contact_with_an_intricate_sub-vertical_flexure_above_the_level_of_the_infraorbital_foramen,_between_C1_and_P2;
+{ 34 sk03_Narrowness_of_posterodorsal_process_of_premaxilla_(measured_as_the_angle_between_the_premaxilla-nasal_and_premaxilla-maxilla_sutures) Broad:_approximate_range_=_57?64º Narrow:_approximate_range_=_33?48º;
+{ 35 sk04_Posterior_extension_of_palatine_process_of_premaxilla,_or_the_anterior_edge_of_palatine_junction_with_maxilla Midpoint_of_I3_alveolus_or_more_anterior Posterior_margin_of_I3_alveolus Between_I3_and_C1;
+{ 36 sk05_Anterior_parts_of_premaxillae_along_the_external_nares Weak,_not_projected Stout_ridge-like_projection;
+{ 37 sk06_Alignment_of_lateral_margins_of_paired_nasals_between_premaxillae Nearly_parallel_lateral_margins_of_nasals_(not_anteriorly_convergent) Slightly_narrower_anteriorly,_or_slightly_anteriorly_convergent;
+{ 38 sk07_Posterior_margin_of_paired_nasals_intrusion_into_frontals_at_the_midline_(computed_as_ratio_of_the_anteroposterior_length_of_nasal_from_maxilla-frontal_suture_to_the_posterior-most_end_of_nasal_/_total_nasal_length) Shallow:_approximate_range_=_0.20?0.24 Deep:_approximate_range_=_0.30?0.32;
+{ 39 sk08_Shape_of_posterior_border_of_paired_nasals_(frontonasal_sutures) V-shaped Rectangular;
+{ 40 sk09_Lateral_intrusion_of_nasals_between_maxilla_and_frontal_(into_maxilla-frontal_suture) Absent Weak Deep;
+{ 41 sk10_Length_of_maxilla-nasal_contact_(ratio_of_the_anteroposteior_length_of_maxilla-nasal_contact_/_total_nasal_length) Moderate:_approximate_range_=_0.10?0.14 Long:_>_0._20 No_maxilla-nasal_suture_(point-like_contact_with_maxilla);
+{ 42 sk11_Shape_of_infraorbital_foramen_(ratio_of_W/H) Nearly_circular:_approximate_range_=_1.0?1.3 Dorsoventrally_elongated,_or_ovoid:_>_1.8;
+{ 43 sk12_Position_of_paired_palatine_foramina_on_palatal_processes_with_anteriorly-directed_sulci_(Gazin,_1953) Anteromedial_or_medial_to_P3 Medial_to_P2;
+{ 44 sk13_Lateral_constriction_of_rostrum,_showing_lateral_concavity_of_the_alveolar_process_of_the_maxilla_between_C1_and_P2 Weak Distinct;
+{ 45 sk14_Position_of_anterior_margin_of_choanae_(or_posterior_margin_of_horizontal_process_of_palatine) At_level_close_to_posterior_margin_of_M3_crown Almost_at_level_of_M3_paracone;
+{ 46 sk16_Posterior_palatine_sulcus,_continuing_to_the_saddle-shaped_flexion_between_the_horizontal_and_perpendicular_processes Broad Narrow;
+{ 47 ex3_Palatal_length,_ratio_of_palatal_length_/_condylobasal_length_(related_to_basicranial_length) Palate_<_basicranium_(slightly_longer_basicanium):_<_0.48 Palate_>_basicranium_(slightly_longer_palate):_approximate_range_=_0.52?0.57;
+{ 48 sk17_Facial_process_and_anterior_orbital_rim Narrow_facial_process,_anterior_to_a_saddle-shape_curvature_partially_forming_the_orbital_rim Concave_facial_process_with_anterior_border_partially_delimitating_the_orbital_rim_(not_anteriorly_extending_beyond_the_orbital_rim);
+{ 49 sk18_Position_of_lacrimal_foramen Almost_on_anterior_orbital_rim Anterior_to_orbital_rim,_on_the_facial_process_of_lacrimal Posterior_to_orbital_rim;
+{ 50 sk19_Lacrimal_tubercle Absent Present,_faint Present,_strong;
+{ 51 sk20_Masseteric_margin_of_jugal_and_zygomatic_process_of_maxilla Narrow_jugal_with_acute_masseteric_margin_(ventral_ridge)_above_M3_and_shallow_depression_between_zygomatic_and_alveolar_processes_of_maxilla_above_M2?3 Robust_jugal_with_rounded_masseteric_margin,_with_no_depression_between_zygomatic_and_alveolar_processes_of_maxilla;
+{ 52 sk21_Lateral_expansion_of_zygomatic_arch,_ratio_of_distance_between_zygion_and_sagittal_crest_/_anteroposterior_length_of_orbitotemporal_fossa Weakly_expanded:_<_0.75 Moderately_expanded:_approximate_range_=_1.00?1.06 Well_expanded:_>_1.26;
+{ 53 sk22_Position_of_the_zygion,_for_anteroposterior_length_of_orbitotemporal_fossa Anteriorly_positioned_(about_mid-position_along_length_of_fossa),_on_the_contact_of_jugal_with_the_zygomatic_process_of_squamosal:_approximate_range_=_0.51?0.58 Posteriorly_positioned_(posterior_one_third_to_one_fifth),_on_the_zygomatic_process_of_squamosal:_approximate_range_=_0.70?0.85;
+{ 54 sk23_Dorsal_aspect_of_frontal_(ratio_of_maximum_L/W_on_vertex) Moderate:_approximate_range_=_0.9?1.0 Short:_approximate_range_=_0.7?0.8;
+{ 55 sk24_Supraorbital_rim,_distance_between_lacrimal_foramen_and_postorbital_process Moderate Short Long;
+{ 56 sk25_Postorbital_process Blunt Distinct;
+{ 57 ex6_Postorbital_constriction Present Absent;
+{ 58 sk27_Dorsolateral_surface_of_parietal,_comprising_side_walls_of_braincase Dorsolaterally_bulged_with_prominent_swelling Posteriorly_narrow_without_bulging;
+{ 59 ex7_Coronal_narrowness_of_parietals_between_squamosals_in_dorsal_view,_ratio_of_narrowest_width_of_paired_parietal_/_greatest_width_of_occiput Narrow:_approximate_range_=_0.19?0.24 Wide:_approximate_range_=_0.32?0.36;
+{ 60 'sk28 Sagittal crest, ratio of sagittal crest length / skull length; depth of sagittal crest' Long:_approximate_ratio_=_0.45,_shallow Short:_approximate_range_=_0.34?0.37,_shallow Short:_approximate_range_=_0.34?0.37,_deep_(well-developed);
+{ 61 sk29_Ventral_outline_of_the_pterygoid_plate_in_lateral_view,_from_the_perpendicular_process_of_palatine_to_pterygoid Straight_(gradually_descends_posteriorly),_with_shallow_pterygoid Concave,_with_downwardly_developed_pterygoid;
+{ 62 sk30_Size_and_position_of_posterior_opening_of_alisphenoid_canal Smaller_than_the_foramen_ovale_and_positioned_close_to_the_latter_with_a_weak_depression_between_the_two As_large_as_the_foramen_ovale_and_connected_to_the_latter_by_a_distinct,_short_channel Approximately_as_large_as_the_foramen_ovale_and_connected_to_the_latter_by_a_long_channel;
+{ 63 sk31_Midline_crest_(ventral_keel) Absent,_or_very_weakly_develope Present,_strongly_developed;
+{ 64 ex2_Suprameatal_crest_of_squamosal Undeveloped,_or_forming_no_continuous_crest_uniting_the_nuchal_crest_and_dorsal_crest_of_the_zygomatic_process Developed,_or_forming_continuous_crest_between_the_nuchal_crest_and_dorsal_crest_of_the_zygomatic_process_(formation_of_a_concave_triangular_shelf_of_the_squamosal_in_dorsal_view);
+{ 65 sk32_Postglenoid_process Tab-like,_or_transversely_narrow_projection_with_a_short_lateral_process_(expanded_less_than_half_of_glenoid_fossa) Transversely_wide_with_a_long_lateral_process_extending_close_to_the_lateral_end_of_the_glenoid_fossa;
+{ 66 ex4_Glenoid_fossa Expanded_anteromedially Narrow_anteroposteriorly;
+{ 67 ex1_Nuchal_crest_near_midline Anteriorly_turned_(upturned) Posterodorsally_projected;
+{ 68 sk33_Occipitomastoid_process Knob-like_(bulbous) Anteroposteriorly_compressed;
+{ 69 sk34_Occipital_shield Concave_shield,_with_apparent_dorsal_condyloid_fossa,_exoccipital_crests,_and_swelling_at_the_center Relatively_flattened_shield,_with_faint_dorsal_condyloid_fossa_and_weak_exoccipital_crests;
+{ 70 sk35_Narrowness_of_width_between_occipital_condyles,_ratio_of_anteroposterior_length_of_condyle_/_width_between_the_condyles_(related_to_the_anteroposterior_oblateness_of_condyles,_or_to_the_width_of_odontoid_notch) Broad_width_(approximate_range_=_0.23?0.34)_and_laterally_expanded_(i.e.,_anteroposteriorly_compressed)_occipital_condyles Narrow_width_(>_0.47)_and_posterolaterally_faced_occipital_condyles;
+{ 71 sk36_Shape_of_basioccipital_in_ventral_view Quadrate_with_parasaggitally_oriented_margins_(medial_edge_of_the_channel-like_depression,_continuing_to_jugular_foramen_from_ventral_condyloid_fossa) Ventrolaterally-facing_lateral_wall_on_each_side_(i.e.,_V-shaped_bottom_in_coronal_plane)_and_no_channel-like_depression_continuing_to_jugular_foramen;
+{ 72 at1_Transverse_process Short,_with_small_transverse_foramen Posterodorsally_expanded,_with_large_and_oval_transverse_foramen;
+{ 73 at2_Position_of_neural_spine Anterior_margin_of_neural_arch Middle_of_neural_arch;
+{ 74 at3_Groove_(sulcus)_on_caudal_surface_between_neural_arch_and_articular_facet_for_axis Deep,_continuous_to_the_transverse_foramen No_distinct_groove;
+;
+
+
+ccode  - 0.74;
+
+
+;

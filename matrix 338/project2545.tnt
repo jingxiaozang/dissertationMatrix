@@ -1,0 +1,81 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 09.02.04'
+50 13
+
+&[num]
+Gypsonictops_hypoconus            ???????????????0??00011101100101011000001011??????
+Prodiacodon_puercensis            ???????????????0??101110001111?1011101101010111111
+Prodiacodon_tauricinerei          1?1????????????00010111000101101011101001110??????
+Blacktops                         110??0?01?0???????001001010001????????????????????
+Leptictis_dakotensis              11000000000000001010100101000100101000101100000000
+Megaleptictis_altidens            110010?0??00???001001001010001001?1?00?00?0???????
+Palaeictops_altimontis            00011111111111100????00111000111010110000000??????
+Palaeictops_bicuspis              0?111??????????00?100001110001?0000021010011??????
+Palaeictops_borealis              ?????????????????????00111010?????????????0???????
+Palaeictops_bridgeri              ???????????????0??????????????????0110010000??????
+Palaeictops_matthewi              ???????????????0??0100011100000111002001001?111110
+Palaeictops_multicuspis           ???????????????1??????????????21120021010010??????
+Palaeictops_robustus              01???????111111001???001110???????????????????????
+
+;
+
+
+cnames
+{ 0 Sagittal_crest_presence Single_sagittal_crest Paired_sagittal_crests;
+{ 1 Lacrimal_tubercle_on_anterior_edge_of_orbit,_presence Weakly_developed Well_developed;
+{ 2 Nasal_posteriorly_expansion Absent Present;
+{ 3 Suprameatal_fossa Deep Shallow;
+{ 4 Suprameatal_foramen Large Small;
+{ 5 Basioccipital_that_overlaps_ventrally_the_promontorium_of_the_petrosal Less_expanded More_transversely_flaired_;
+{ 6 Grooves_on_the_promontorium Deeper Shallow;
+{ 7 Posterior_lacerate_foramen_ Much_larger_than_stapedius_fossa Only_slightly_larger_than_the_stapedius_fossa_;
+{ 8 Bridge_of_the_mastoid_tubercle_of_the_petrosal_ Wide Narrow;
+{ 9 Groove_on_the_paraoccipital_process_for_digastric_muscle Deep Shallow;
+{ 10 Paraoccipital_process_size Large Small;
+{ 11 Postglenoid_process_ Large Small;
+{ 12 Postglenoid_foramen_position Posteriomedial_to_postglenoid_process Posterior_to_postglenoid_process;
+{ 13 Median_petrosal_crest_of_the_promontorium Well_developed Weakly_developed;
+{ 14 Fossula_cochlea_dorsal_rim_ Less_expanded More_expanded;
+{ 15 Mandibular_ramus Slender Deep;
+{ 16 Posterior_concavity_of_coronoid_process_ Absent Present;
+{ 17 Extremity_of_coronoid_process Hooklike Rounded;
+{ 18 P4_anterior_extension Less_anteriorly_projecting_ Anteriorly_extended;
+{ 19 Trenchant_P4 Less More;
+{ 20 P4_paracone_development Well_developed_and_swollen less_developed;
+{ 21 P5_and_upper_molars_occlusal_anteroposterior_length More_elongated Less_elongated;
+{ 22 P5_and_upper_molars:_Paracones,_protocones,_and_metacones Lower Higher;
+{ 23 P5_and_upper_molars:_Hypocone_development Moderately_developed Well_developed;
+{ 24 Upper_molar_protocones_lingually_swollen Less More;
+{ 25 Upper_molar_trigonids Higher Lower;
+{ 26 Upper_molars_parastylar_spurs_development Less_developed More_developed;
+{ 27 Precingulum_in_lingual_region_of_upper_molars Less_extensive Extensive;
+{ 28 Upper_molars_"doubled"_paraconule_presence Absent Present;
+{ 29 M2_ectoflexi Shallow Deep;
+{ 30 p2_number_of_cusps Two_cusps Three_cusps Four_cusps;
+{ 31 p4_anterior_cusp_presence Absent Present;
+{ 32 Trenchant_p4 Less_developed Well_developed;
+{ 33 p4_number_of_cusps Three_cusps Four_cusps Five_cusps;
+{ 34 p5_length Elongate Short;
+{ 35 Prefossid_between_paraconid_and_metaconid_on_p5 Small Large;
+{ 36 p5_paraconid Weakly_developed Moderately_developed Strongly_developed;
+{ 37 p5_paraconid_anterior_accessory_cuspule_at_labial_base Absent Conspicuous;
+{ 38 p5_trigonid Open Closed;
+{ 39 p5_metaconid_and_protoconid Metaconid_aligned_less_obliquely_relatively_to_protoconid Metaconid_positioned_more_posteriorly_relative_to_the_protoconid;
+{ 40 p5_talonid Short Large;
+{ 41 p5_talonid Open_lingually Closed_lingually;
+{ 42 m1-m3_trigonids Lower Higher;
+{ 43 m3_hypoconulid_location Less_lingually More_lingually;
+{ 44 Angle_between_the_sacral_vertebrae_and_the_long_axis_of_the_ilium Less_acute More_acute;
+{ 45 Anterior_inferior_gluteal_eminence Small Large;
+{ 46 Rim_of_the_acetabulum Weakly_developed Well_developed;
+{ 47 Projection_of_the_ischium_above_the_level_of_the_acetabulum Less_dorsal More_dorsal;
+{ 48 Anterior_ilium not_flaired_in_lateral_direction distal_flairing_in_lateral_direction;
+{ 49 Tibia_and_fibula_fusion Distal_one-third_fused not_fused;
+;
+
+
+ccode  - 0.49;
+
+
+;

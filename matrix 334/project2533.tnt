@@ -1,0 +1,89 @@
+nstates num 8;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 08.58.45'
+63 8
+
+&[num]
+Davidsonia_pruriens                 ?001000000000311---01000000---000000-011011100-0110701001?00100
+Anodopetalum_biglandulosum          112111000000031021001110001410000001110111000100110201001100100
+Platylophus_trifoliatus             1111110000000300210011?0001211000001010111010000110201001100100
+Ceratopetalum_gummiferum            111111000000030020101110101222000001110111010102110311001100120
+Ceratopetalum_apetalum              112111000000030020101110100---000001010111000002110311001100120
+Schizomeria_ovata                   012?100000000300201011101012110000010101111100001?0101-01001120
+Schizomeria_serrata                 0121110000000300201011101012?1000001010111100000110101-01001120
+Lacinipetalum_spectabilum           ??????????????????????10301222000001001001?100000??????????????
+
+;
+
+
+cnames
+{ 0 Vessel-ray_pitting circular_to_irregular half-bordered/scalariform;
+{ 1 leaf_arrangement spiral decussate whorled;
+{ 2 leaf_form imparipinnate palmately_compound unifoliolate;
+{ 3 adult_leaf_margin entire toothed;
+{ 4 secondary_vein_framework craspedodromous semicraspedodromous brochidodromous;
+{ 5 tertiary_vein_framework percurrent irregular_reticulate;
+{ 6 orbicular_trichomes_on_leaves absent present;
+{ 7 stellate_trichomes absent present;
+{ 8 tuft_domatia_on_leaves absent present;
+{ 9 pocket_domatia_on_leaves absent present;
+{ 10 epidermal_glands absent present;
+{ 11 small_paired_hairs absent present;
+{ 12 Stoma_with_cutin_frill absent present;
+{ 13 subsidiary_cell_arrangement anomocytic encyclocytic anisocytic brachyparacytic;
+{ 14 leaf_stipels absent present;
+{ 15 stipules 2_interpetolar_primordia lateral_primordia_(4_in_decussate_shoots) 2_axillary_primordia;
+{ 16 colleters_on_interpetiolar_stipules absent hairs ribs;
+{ 17 interpetiolar_stipule_apex rounded/acute bifid;
+{ 18 interpetiolar_stipules_enclosing_leaves not_enclosing_leaves partly_enclosing_leaves fully_enclosing_leaves;
+{ 19 supernumerary_axillary_buds absent present;
+{ 20 floral_maturation synchronous/acropetal centrifugal/basipetal;
+{ 21 shape_of_the_flower-bearing_axis paniculiform thyrsoid_to_cymiform capitate solitary_flowers racemose;
+{ 22 pedicel sessile_(or_nearly_so) pedicelate;
+{ 23 calyx_aestivation valvate imbricate;
+{ 24 merosity 4 5(4-6) 6-8 8-10;
+{ 25 adaxial_sepal_hairs absent present;
+{ 26 petals absent present;
+{ 27 petal_shape ovate_to_obovate,_single_veined large_muliveined,_obovate flabellate retuse lanciolate;
+{ 28 petal_incision_type entire trifurcate twice_cut_(5-9_lobes) bifurcate_glandular;
+{ 29 petal_incision_depth shallow intermediate deep;
+{ 30 protandry absent present;
+{ 31 stamen_whorls (ob)diplostemony isostemony triplostemony polystemony;
+{ 32 androecial_series two one >two;
+{ 33 filament_attachment dorsifixed basifixed;
+{ 34 anther_dehiscence ventral_slit poricidal;
+{ 35 thecal_connective_protruberence absent present;
+{ 36 connective_length short long minute;
+{ 37 pollen_colpi tricolpate dicolpate syncolpate;
+{ 38 pollen_pores two three;
+{ 39 tectum punctate/finely_reticulate coarsely_reticulate;
+{ 40 tectum_heterogeneity homogeneous heterogeneous;
+{ 41 floral_nectary absent present;
+{ 42 nectary_form annular segmented;
+{ 43 ovary_texture glabrous hirsute;
+{ 44 carpel_connation syncarpous apocarpous_(mostly) apocarpous_all_or_most_of_length;
+{ 45 style_connation free_fuzed free partly_fuzed partially_fuzed fully_fuzed;
+{ 46 Stigma_type terminal decurrent;
+{ 47 appendage/ovary_insertion hypogyny epigyny perigyny;
+{ 48 carpel_number four two_(rarely_3);
+{ 49 ovules_per_carpel more_than_two two one;
+{ 50 stylar_canal present absent;
+{ 51 fruit folicular single-seeded_drupe capsular_(basipetal_dehiscence) dry_indehiscent dry_bladder fin-winged capsular_(circumbasal,_acropetal) schizocarpic_didrupe;
+{ 52 accrescent_calyx absent not_accrescent present forming_stiff_wings_around_fruit;
+{ 53 Seed_wings present absent;
+{ 54 seed_hairs absent present;
+{ 55 seed_papillae absent present;
+{ 56 vessel_plate_perforations mostly_scalariform mostly_simple;
+{ 57 ray_structure uniseriates_upright uniseriates_procumbent;
+{ 58 vessel_distribution short_radial_multiples_and_small_clusters long_radial_multiples.;
+{ 59 intervessel_pitting scalariform_to_opposite alternate_to_opposite;
+{ 60 diffuse_axial_parenchyma absent present;
+{ 61 banded_axial_parenchyma absent uniseriate_bands wide_bands_(2-5_cells_wide);
+{ 62 paratracheal_axial_parenchyma absent/scanty present;
+;
+
+
+ccode  - 0.62;
+
+
+;
