@@ -1,0 +1,101 @@
+nstates num 9;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 18.09.28'
+60 23
+
+&[num]
+Hutchinsoniella_macracantha          11------27001005000000000?101010100000--040-0000010-0-0-00--
+Paranebalia_longipes                 10210201260-1---0000010000--101-2000000-020-001----?1-0?00--
+Rehbachiella_kinnekullensis          000?0201??00100300000?000?0010000000000?????00000?000000?0-?
+Strudops_goldenbergi                 0010?110????????????10101??1????110100?????????????????????1
+Lepidocaris_rhyniensis               ?1------??10120?1121?0000110?1?0000000??????110012?1110-?00?
+Artemia_sp.                          01------001-2---111100000010010000000200100011011001111-100-
+Eubranchipus_grubei                  01-?----001-2---111?0000001021000000020?1??011011001111-100-
+Castracollis_wilsonae                0??????????10?0?101?12100?20?111100?00????????????????????0?
+Almatium_gusevi                      001011002??2??--20111010102111?01211001????1????????????0111
+Jeanrogerium_sornayi                 ?0101200??????????????101??1???01?1????????????????????????0
+Jeholops_hongi                       001??100??????????????10???1?1?01???00????????????????????11
+Chenops_yixianensis                  001??1102?????--201?13101?21?1?0100110?????1?????????????110
+Lepidurus_batesoni                   00101110?1?2??--20111310102111101001101?0???????????????0110
+Triops_cancriformis                  001111102102?---20111311102111101001001101111101112111110120
+Triops_australiensis                 0011111021?2----2011131110211110100100110??1????????????0120
+Triops_longicaudatus                 001111102102----20111311102111101001001?01?11?????1????10120
+Lepidurus_apus                       0011111021?2----2011131110211110100110110??1????1???????0120
+Lepidurus_arcticus                   001111102102?---2?111311102111101001101?01111101112?11110120
+Prolepidurus_daja                    ?0111110????????2???1310??2??1??100?10?????????????????????0
+"Triops"_minor                       0011?110????????2???1310???1?1?0100?001??????????????????111
+Lepidurus_occitaniacus               001?1110????????2??????0???1???0100?101??????????????????110
+Lynceites_ornatus                    ?0111110???????????????????????????????????????????????????1
+Lynceites_cansoensis                 ?011?110??????????????????????????????1????????????????????0
+
+;
+
+
+cnames
+{ 0 Food_groove Present Absent;
+{ 1 Carapace Present Absent;
+{ 2 Shape_of_carapace carapace_as_simple_extension_of_naupliar_shield carapace_as_a_flattened_dorsal_shield_(carapace_fused_with_head) carapace_covers_limbs_and_head carapace_covers_limbs_but_the_head_is_free carapace_as_a_dorsal_brood_pouch;
+{ 3 Carapace_carina_(hinge) absent present;
+{ 4 Carapace,_presence_of_mandibular_bulge absent present;
+{ 5 Carapace,_posterior_notch absent acute_with_straight,_or_concave_edge_(rounded_inward,_i.e._Triops) acute_with_convex_edges_(rounded_outward,_Conchostraca);
+{ 6 Carapace,_posterior_corners rounded acute;
+{ 7 Carapace,_anterior_notch absent present;
+{ 8 Position_of_female_genital_opening into_the_ventral_brood_pouch dorsally_within_the_carapace at_the_base_of_thoracic_limbs to_the_base_of_flap-like_lamellar_extensions_of_the_body_wall;
+{ 9 Position_of_male_genital_opening the_sperm_ducts_open_apically_at_the_gonopods_of_the_12th/13th__segment base_of_the_11th_pair_of_limbs_through_a_simple_pore paired_genital_openings_behind_the_sixth_pairs_of_limbs between_limb_IV_and_the_anus_in_a_pair_of_penes fused_genital_ducts_leading_to_the_telson paired_opening_at_the_third_abdominal_segment at_the_base_of_the_8th_thoracopods at_the_base_of_the_6th_thoracopods the_sperm_ducts_open_apically_at_the_gonopods_of_the_20th_segment;
+{ 10 First_antennae_sensilla sensilla_not_restricted_to_tip sensilla_restricted_to_the_tip;
+{ 11 Second_antennae_in_adults_(males):_rami rami_of_different_length,_endopod_shortest rami_of_similar_length_(""symmetrical"") uniramous_and_unsegmented,_or_absent_in_adults;
+{ 12 Function_of_second_antennae_in_adults sensory swimming/locomotion clasping;
+{ 13 Second_antennae_in_adults:_number_of_segments_in_exopod more_than_seven_segments seven_segments five_segments four_segments three_segments two_segments;
+{ 14 Second_antennae,_relative_size_of_exopodal_segments roughly_equal_in_size first_segment_shortest second_segment_shorter_than_first first_segment_longest;
+{ 15 Second_antennae_in_adults:_number_of_segments_in_endopod more_than_seven_segments seven_segments five_segments four_segments three_segments two_segments;
+{ 16 Mandible_gnathal_edge with_incisor_and_molar_process ellipsoid_with_pores,_not_divided_into_distinct_molar_and_incisor with_separate_teeth;
+{ 17 Mandible:_row_of_teeth_along_edge_of_molar_surface_(left_md) absent present;
+{ 18 Maxilla_1,_degree_of_reduction with_proximal_endite_and_more_distal_parts only_proximal_endite_retained_or_reduced_further reduced_in_female,_enlarged_into_clasping_appendage_in_male;
+{ 19 Maxilla_2,_degree_of_reduction with_coxa_and_more_distal_segments only_coxal_segment_retained_or_reduced_further;
+{ 20 Trunk_limbs:_subdivision_into_series not_divided_in_two_series divided_in_two_series_(11_in_anterior_series);
+{ 21 Trunk_limbs:_number 11 14 18-32 at_least_35;
+{ 22 Anterior_trunk_limbs:_orientation not_particularly_laterally_directed laterally_directed;
+{ 23 Trunk_limbs,_serial_similarity_(excluding_claspers) with_serial_similarity without_serial_similarity;
+{ 24 Trunk_limbs:_subdivision_in_sclerotised_portions,_distal_portion_large_with_endites_and_endopod_distally not_present present;
+{ 25 Trunk_limbs:_epipods Present Absent;
+{ 26 Trunk_limbs:_number_of_endites seven_to_nine six_(at_least_during_development) five;
+{ 27 Trunk_limbs:_shape_and_position_of_endites lobate,_not_elongate,_placed_along_median_edge endites_4"“5_elongate,_placed_distally;
+{ 28 Thoracic_pre-epipodites one absent two,_or_one_deeply_cleft_pre-epipodite one_only_on_middle_to_posterior_thoracic_limbs_(three,_four,_five);
+{ 29 Trunk_limbs:_segmentation_of_endopod more_than_one_segment unsegmented;
+{ 30 Trunk_limbs:_dorsal_lobe_of_exopods: absent small long;
+{ 31 Trunk_limbs:_endite_palps without_palps with_palps;
+{ 32 Abdomen:_somites None_or_few_narrow_somites many,_narrow_somites several_with_distinctive_abdomenal_limbs;
+{ 33 Telson:_shape cylindrical laterally_compressed dorsoventrally_compressed;
+{ 34 Paired_nodes_dorsally_on_the_abdomen Absent Present;
+{ 35 Telson:_telsonal_setae absent present;
+{ 36 Rounded_anal_plate absent Present;
+{ 37 Furca_shape straight curved,_claw-like flattened,_triangular_with_marginal_setae;
+{ 38 Compound_eyes:_position externally internalized;
+{ 39 Nauplius_eye:_number_of_ocelli three four;
+{ 40 Gut_system:_anterior_diverticles anterior_diverticles_extended anterior_diverticles_small anterior_diverticles_absent;
+{ 41 Heart_structure:_number_of_pairs_of_ostia 18 11 7 4 3 1;
+{ 42 Oogenesis:_groups_of_four_cells,_including_oocyte_and_three_nurse_cells absent present;
+{ 43 Protection_of_eggs/embryos ventral_brood_pouch encapsulated_between_a_sub-apical_lobe_and_the_exopod_of_the_11th_pairs_of_limbs_or_just_in_""modified_exopods""_(Kazacharthra) carried_between_carapace_and_trunk;
+{ 44 First_antennae_in_larvae_or_embryos:_setation setae/sensilla_not_confined_to_tip setae/_sensillae_confined_to_tip;
+{ 45 Second_antennae_in_larvae:_length_of_protopod less_than_half_total_length_of_limb more_than_half_total_length_of_limb;
+{ 46 Second_antennae_in_larvae_or_embryonised_larvae:_masticatory_process present absent;
+{ 47 Second_antennae_in_larva:_endopod_setation not_distal_setation_only distal_setation_only;
+{ 48 Second_antennae_in_larvae_or_embryonised_larvae:_morphology_of_masticatory_process cluster_of_about_5_spines divided_in_two_branches_after_a_few_molts;
+{ 49 Second_antennae_in_larvae_or_embryonised_larvae:_number_of_segments_of_endopod not_clearly_divided_into_segments two_clear_segments three_clear_segments;
+{ 50 Second_antennae_in_larvae_or_embryonised_larvae:_number_of_setae_on_exopod many seven five;
+{ 51 Mandibles_in_larvae:_segmentation_of_endopod three_segments two_segments;
+{ 52 Mandibles_in_larvae:_exopod present absent;
+{ 53 Mandibular_palp:_setation_of_endopod_segment_1 more_than_two_setae two_setae one_seta;
+{ 54 Trunk_limbs_development tip_of_early_limb_bud_points_ventrally tip_of_early_limb_bud_points_laterally;
+{ 55 Carapace_development develops_as_a_simple_posterior_extension_of_the_naupliar_shield early_development_of_carapace_behind_the_head,_often_as_paired_anlagen;
+{ 56 Penes absent present;
+{ 57 Abdominal_limbs,_mismatch_between_doral_and_ventral_segmentation absent present;
+{ 58 Anteriormost_thoracic_limb,_relative_size_of_unsegmented_endopod_to_distal_endites endopod_larger_than_distal_endites endopod_roughly_equal_in_size_to_distal_endites endopod_reduced,_endites_elongate_and_antennaform;
+{ 59 Max_width_/_medial_length_ratio_of_fused_headshield-carapace narrow_relative_to_medial_length_(ratio_below_1.2) very_wide_relative_to_medial_length_(ratio_above_1.2);
+;
+
+
+ccode  - 0.59;
+
+
+;

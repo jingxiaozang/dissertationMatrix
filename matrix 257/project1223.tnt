@@ -1,0 +1,126 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 18.04.34'
+78 30
+
+&[num]
+Thrinaxodon                        10200000000020010000000000000?0000?000100010???00?-??-?????????????10100000000
+Cynognathus                        00000000000000001000000000010?0000?000000000???00?-??-?????????????00000000000
+Diademodon                         00000000000010001010000000000000?10000000001000000-101?00000000???010000010000
+Beishanodon                        0210?00101002000??1?????000?1010???0?0??0????0000???01?000????????0??????????1
+Cricodon                           1??0??0???0???0????0000000?010101110000100020000011101?00010100???0100??????0?
+Langbergia                         1110100001001000?0100000000000101110001000020000010101?00010100???0??????????0
+Sinognathus                        121??1?10100200???100000000010101110101000?20000010011??001010????0???????????
+Trirachodon                        1110100?010010001010000000001010?11000000002000001?01??00010100???0100000000?0
+JSM100                             1????00??1?0?0?????00000??0000?0?1???0?000121000011011?00020100???0???????????
+Andescynodon                       11001101?100000???10000000001021010000100003101000-000?11021011101110??111111?
+Arctotraversodon                   0??????????????????10?11???0?????10?0021???3?010110?120?0?211212001???????????
+Boreogomphodon_jeffersoni          112??101?2002001??1001110000102111000010001220?1111?12010121?111?0101?112???11
+Dadadon                            1111110111003001??100?001100112101000020111311111112120001210201101???????????
+Exaeretodon_argentinus             0001111111111111?11011002110112201010111011310121?-10-111121021111101?1?111110
+Exaeretodon_riograndensis          0001111111111111??101100211?1122?1010111011310121?-10-111121021111101?????11?0
+Gomphodontosuchus                  ????1?0??0?1??0????01?001100112001000?10111310111?-??-01112102111?1???????????
+Luangwa_drysdalli                  101???00??00110??0101100000111210100000000030100111?1200012101010011010001110?
+Luangwa_sudamericana               1?????00?1?001?????1110000011121010000000003010011110200012101010?1??????????0
+Massetognathus_ochagaviae          1211110112002001?01??0001100112?010000?0001310111112120?012102?1101??1???????0
+Massetognathus_pascuali            11111101110020010010000011001?2?0100002011131011111212000121020010100?11111110
+Menadon                            10111?01?011210???10110011101010010001111103101110-11-111121021--1101?1?0111??
+Pascualgnathus                     110011?1?100000??010000000001021010100100013000000-000?110210?????110100?0011?
+Protuberum                         101?111011111111??1?????211?1122?101?1111?131?1110-1121111????????110?????????
+Santacruzodon                      1?????0??0?03??????011000000112101000020??1310111112120001210201011??????????0
+Scalenodon_angustifrons            110???00???0200???10??0000001020010000000003011011101?0100210100001??????00?0?
+Mandagomphodon_attridgei           ???0110??1????0?????????000?1121?101?0100?1310001111121011????????1??????????0
+Mandagomphodon_hirschoni           1??0110?11?0?001?1?00?000000112101011011101310001111121001210100001???????????
+Scalenodontoides                   012???11?111?11???11?10021101?2201010111?1?310121?-10-?111210211111???????????
+Traversodon                        1???1?00?1?1110????11100000011210100001000131100111?0200012102?0?01?0111????1?
+Nanogomphodon                      ?????????????????????????????????10???????????????????????211101101???????????
+
+;
+
+
+cnames
+{ 0 Adult_maximum_skull_size: large_(greater_than_25_cm) medium_to_small;
+{ 1 Snout_(preorbit)_in_adults_in_relation_to_temporal_region longer subequal shorter;
+{ 2 Two_side_of_temporal_fenestra divergent_posteriorly neraly_parallel bulge_in_the_middle;
+{ 3 Premaxilla_forms_posterior_border_incisive_foramen absent present;
+{ 4 Vomer_exposure_in_incisive_foramen_(at_anterior_ends_of_maxillae_on_palate) present absent;
+{ 5 Vomer__vertical_septum_extending_posteriorly_beyond_level_of_secondary_palate present absent;
+{ 6 Internarial_bar present absent;
+{ 7 Parietal_foramen_in_adults present absent;
+{ 8 Ectopterygoid present absent;
+{ 9 Posterior_extension_of_secondary_palate_relative_to_anterior_border_of_orbit shorter subequal longer;
+{ 10 Posterior_extension_of_the_jugal_dorsally_above_the_squamosal_in_the_zygomatic_arch absent_or_with_small_extension well_developed;
+{ 11 Position_of_anterior_root_of_the_zygomatic_arch_relative_to_the_ventral_margin_of_the_maxilla nearly_at_same_level_or_slightly_higher remarkably_higher;
+{ 12 Zygomatic_process_of_the_jugal little_projected conspicuously_projected absent a_ball-like_process;
+{ 13 Diameter_of_suborbital_bar_below_center_of_orbit_(anterior_to_suborbital_process,_where_present) greater_than_1/2_diameter_of_bar_below_posterior_part_of_orbit_(posterior_to_suborbital_process) less_than_1/2_diameter_of_bar_below_posterior_part_of_orbit;
+{ 14 Maxilla_in_the_margin_of_the_subtemporal_fenestra excluded included;
+{ 15 Epipterygoid-quadrate_contact present absent;
+{ 16 Frontal-epipterygoid_contact present absent;
+{ 17 Palatine does_not_meet_frontal meets_frontal_but_neither_element_contributes_significantly_to_medial_orbit_wall;
+{ 18 Notch_separating_lambdoidal_crest_from_zygomatic_arch shallow deep_v-shaped;
+{ 19 Lower_jaw_symphysis_as_a_chin-like_process_in_adults absent_or_little_developed well-developed;
+{ 20 Dentary_with_sigmoid_ventral_curvature absent present;
+{ 21 Dentary_angular_process not_or_very_weakly_projected_posteriorly projected_posteriorly_as_distinct_process;
+{ 22 Elongated_mental_foramen_below_postcanine_tooth_row_and_above_coronoid_ridge absent present;
+{ 23 Coronoid_ridge_anterior_to_masseteric_fossa absent_to_low very_strong,_outturned;
+{ 24 Position_of_the_upper_canine_in_relation_to_paracanine_fossa postero-lateral lateral antero-lateral;
+{ 25 Diastema_between_upper_incisors_and_canine present absent;
+{ 26 Diastema_between_canine_and_maxillary_postcanines_in_adult short long;
+{ 27 Diastema_between_canine_and_dentary_postcanines long absent_or_very_short;
+{ 28 Maxillary_labial_platform_lateral_to_the_postcanine_series absent present;
+{ 29 Posteromedial_inclination_of_the_last_few_upper_gomphodont_postcanines absent_or_small oblique;
+{ 30 Axis_of_posterior_part_of_maxillary_tooth_row directed_lateral_to_the_temporal_fossa directed_towards_center_of_fossa directed_toward_medial_rim_of_fossa;
+{ 31 Maxillary_tooth_row_extent_relative_to_anterior_margin_of_the_subtemporal_fossa_in_adult anterior at_the_same_level posterior;
+{ 32 Coronoid_process_of_the_mandible cover_the_last_postcanine does_not_cover;
+{ 33 Postcanine_occlusion absent present;
+{ 34 Shearing_planes_between_the_outer_surface_of_the_main_cusp_of_the_lower_and_the_inner_surfaces_of_the_main_cusps_of_the_uppers_postcanines present absent;
+{ 35 Upper_incisor_number four three;
+{ 36 Lower_incisor_number three two;
+{ 37 Incisor_procumbency absent present;
+{ 38 Incisor_cutting_margins serrated smoothly_ridged denticulated;
+{ 39 Incisor_size small enlarged;
+{ 40 Upper_canine_size large reduced_in_size;
+{ 41 Lower_canine_size large reduced_in_size;
+{ 42 Canine_serrations present absent;
+{ 43 Postcanine_tooth_row_in_adults sectorial conical,_gomphodont_and_sectorial gomphodont_and_sectorial gomphodont;
+{ 44 Overall_morphology_of_the_upper_gomphodont_postcanines_in_occlusive_view ovoid-ellipsoid nearly_rectangular nearly_triangular;
+{ 45 Labial_cingulum_on_anterior_portion_of_the_upper_postcanines_(external_to_the_sectorial_ridge) absent present;
+{ 46 Posterior_cingulum_on_upper_postcanines present absent;
+{ 47 Shouldering_in_the_posterior_margin_of_upper_postcanines absent slightly_developed well_developed;
+{ 48 Anterior_profile_of_principal_labial_cusp convex concave;
+{ 49 Number_of_cusps_in_the_transverse_crest_of_the_upper_postcanines two three_or_more;
+{ 50 Central_cusp_of_upper_transverse_row midway_between_labial_and_lingual_cusps closer_to_lingual_cusp;
+{ 51 Anterolabial_accessory_cusp_on_upper_postcanines absent one two_or_more;
+{ 52 Posterolabial_accessory_cusp_on_upper_postcanines present absent;
+{ 53 Position_of_upper_transverse_cusp_row_on_crown anterior_half_of_the_crown central posterior_half_of_the_crown;
+{ 54 Distinct_anterolingual_accessory_cusp_on_upper_postcanines absent present;
+{ 55 Anterior_cingulum_in_the_upper_postcanines: present absent;
+{ 56 Anterior_transverse_crest_on_upper_postcanines absent_or_low high;
+{ 57 Lingual_ridge_on_upper_postcanines absent present;
+{ 58 Overall_morphology_of_the_lower_gomphodont_postcanines_in_occlusal_view circular ovoid-ellipsoid quadrangular;
+{ 59 Transverse_crest_in_lower_postcanines central anterior;
+{ 60 Number_of_cusps_in_the_transverse_crest_of_the_lower_postcanines two three_or_more;
+{ 61 Anterior_cingulum_in_the_lower_postcanines:_cuspules cuspules_disposed_on_the_entire_margin one_or_more_cuspules_located_anterolabially absent;
+{ 62 Posterior_cingulum_on_the_lower_gomphodont_postcanines present absent;
+{ 63 Size_of_the_anterior_cusps_in_the_lower_postcanines labial_lower_than_lingual labial_higher_than_lingual State_2;
+{ 64 Widest_lower_cusp_in_transverse_row_of_lower_postcanines lingual labial middle;
+{ 65 Anterolingual_cusp_of_lower_postcanines nearly_vertical strongly_inclined_posteriorly;
+{ 66 Deep_occlusal_basins_in_the_postcanines absent present;
+{ 67 Anapophysis absent present;
+{ 68 Expanded_costal_plates_on_ribs present absent;
+{ 69 Lumbar_costal_plates_with_ridge_overlapping_preceding_rib present absent;
+{ 70 Procoracoid_in_glenoid present barely_present_or_absent;
+{ 71 Dorsal_margin_of_the_coracoid_in_medial_view_in_related_to_that_of_the_procoracoid shorter equal_or_longer;
+{ 72 Cranial_margin_of_the_procoracoid: convex nearly_straight obviusly_concave;
+{ 73 Angle_between_ventral_margin_on_anterior_and_posterior_process_of_iliac_blade small_(e.g.,_less_than_140_degree) large;
+{ 74 Length_of_anterior_process_of_ilium_anterior_to_acetabulum_(relative_to_diameter_of_acetabulum) less_than_1.5 greater_than_1.5;
+{ 75 Dorsal_profile_of_ilium convex flat_or_concave;
+{ 76 The_trochanter_major_position_related_to_the_femoral_head distal close,_major_part_in_same_height;
+{ 77 Major_palatine_foramen at_axillary/palatine_suture penetrating_palatine;
+;
+
+
+ccode  - 0 2.8 10.23 25.29 32.46 48.50 52 54.71 73.77 + 1 9 24 30.31 47 51 53 72;
+
+
+;

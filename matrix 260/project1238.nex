@@ -1,0 +1,519 @@
+#NEXUS
+
+    [ File output by Morphobank v3.0 ?; 2023-07-28 21.09.11 ]
+
+    BEGIN TAXA;
+    DIMENSIONS NTAX=45;
+    TAXLABELS
+    		'Hyrachyus'
+		'Egysodontinae'
+		'Hyracodontinae'
+		'Teletaceras'
+		'Penetrigonas'
+		'Amphicaenopus'
+		'Trigonias osborni'
+		'Subhyracodon'
+		'Diceratherium'
+		'Menoceras arikarense'
+		'Floridaceras'
+		'Peraceras'
+		'Aphelops mutilis'
+		'Teleoceras hicksi'
+		'Ronzotherium'
+		'Mesaceratherium'
+		'Protaceratherium'
+		'Pleuroceros'
+		'Diceratherium niobrarense'
+		'Brachypotherium'
+		'Prosantorhinus'
+		'Alicornops'
+		'Hoploaceratherium'
+		'Aceratjeroi'
+		'Lartetotherium'
+		'L.schleiermacheri'
+		'Stephanorhinus'
+		'Coleodonta'
+		'Hispanotherium'
+		'Begertherium'
+		'Beliajevina'
+		'Iranotherium'
+		'Elasmotherium'
+		'Ninxiatherium'
+		'Acerorhinus'
+		'Chilotherium'
+		'Chilotheridium'
+		'Aprotodon'
+		'Gaindatherium'
+		'Punjabitherium'
+		'Rhinoceros'
+		'Dicerorhinus sumatrensis'
+		'Diceros bicornis'
+		'Ceratotherium simum'
+		'Paradiceros'
+    ;
+    ENDBLOCK;
+
+    BEGIN CHARACTERS;
+	DIMENSIONS NCHAR=72;
+	FORMAT DATATYPE=STANDARD GAP=- MISSING=? SYMBOLS="01234";
+	CHARLABELS
+		 [1] 'Char 1'
+		 [2] 'Char 2'
+		 [3] 'Char 3'
+		 [4] 'Char 4'
+		 [5] 'Char 5'
+		 [6] 'Char 6'
+		 [7] 'Char 7'
+		 [8] 'Char 8'
+		 [9] 'Char 9'
+		 [10] 'Char 10'
+		 [11] 'Char11'
+		 [12] 'Char 12'
+		 [13] 'Char 13'
+		 [14] 'Char14'
+		 [15] 'Char 15'
+		 [16] 'Char 16'
+		 [17] 'Char17'
+		 [18] 'Char 18'
+		 [19] 'Char 19'
+		 [20] 'Char 20'
+		 [21] 'Char 21'
+		 [22] 'Char 22'
+		 [23] 'Char 23'
+		 [24] 'Char 24'
+		 [25] 'Char 25'
+		 [26] 'Char 26'
+		 [27] 'Char 27'
+		 [28] 'Char 28'
+		 [29] 'Char 29'
+		 [30] 'Char 30'
+		 [31] 'Char 31'
+		 [32] 'Char 32'
+		 [33] 'Char 33'
+		 [34] 'Char 34'
+		 [35] 'Char 35'
+		 [36] 'Char 36'
+		 [37] 'Char 37'
+		 [38] 'Char 38'
+		 [39] 'Char 39'
+		 [40] 'Char 40'
+		 [41] 'Char 41'
+		 [42] 'Char 42'
+		 [43] 'Char 43'
+		 [44] 'Char 44'
+		 [45] 'Char 45'
+		 [46] 'Char 46'
+		 [47] 'Char 47'
+		 [48] 'Char 48'
+		 [49] 'Char 49'
+		 [50] 'Char 50'
+		 [51] 'Char 51'
+		 [52] 'Char 52'
+		 [53] 'Char 53'
+		 [54] 'Char 54'
+		 [55] 'Char 55'
+		 [56] 'Char 56'
+		 [57] 'Char 57'
+		 [58] 'Char 58'
+		 [59] 'Char 59'
+		 [60] 'Char 60'
+		 [61] 'Char 61'
+		 [62] 'Char 62'
+		 [63] 'Char 63'
+		 [64] 'Char 64'
+		 [65] 'Char 65'
+		 [66] 'Char 66'
+		 [67] 'Char 67'
+		 [68] 'Char 68'
+		 [69] 'Char 69'
+		 [70] 'Char 70'
+		 [71] 'Char 71'
+		 [72] 'Char 72'
+	;
+	STATELABELS
+		1
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		2
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		3
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		4
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		5
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		6
+		'State 0'
+		'State 1'
+		,
+		7
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		8
+		'State 0'
+		'State 1'
+		,
+		9
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		10
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		11
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		12
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		13
+		'State 0'
+		'State 1'
+		,
+		14
+		'State 0'
+		'State 1'
+		,
+		15
+		'State 0'
+		'State 1'
+		,
+		16
+		'State 0'
+		'State 1'
+		,
+		17
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		18
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		19
+		'State 0'
+		'State 1'
+		,
+		20
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		21
+		'State 0'
+		'State 1'
+		,
+		22
+		'State 0'
+		'State 1'
+		,
+		23
+		'State 0'
+		'State 1'
+		,
+		24
+		'State 0'
+		'State 1'
+		,
+		25
+		'State 0'
+		'State 1'
+		,
+		26
+		'State 0'
+		'State 1'
+		'State 2'
+		'State 3'
+		,
+		27
+		'State 0'
+		'State 1'
+		'State 2'
+		'State 3'
+		,
+		28
+		'State 0'
+		'State 1'
+		,
+		29
+		'State 0'
+		'State 1'
+		,
+		30
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		31
+		'State 0'
+		'State 1'
+		,
+		32
+		'State 0'
+		'State 1'
+		,
+		33
+		'State 0'
+		'State 1'
+		,
+		34
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		35
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		36
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		37
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		38
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		39
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		40
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		41
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		42
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		43
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		44
+		'State 0'
+		'State 1'
+		,
+		45
+		'State 0'
+		'State 1'
+		,
+		46
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		47
+		'State 0'
+		'State 1'
+		'State 2'
+		'State 3'
+		,
+		48
+		'State 0'
+		'State 1'
+		,
+		49
+		'State 0'
+		'State 1'
+		,
+		50
+		'State 0'
+		'State 1'
+		'State 2'
+		'State 3'
+		,
+		51
+		'State 0'
+		'State 1'
+		,
+		52
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		53
+		'State 0'
+		'State 1'
+		,
+		54
+		'State 0'
+		'State 1'
+		,
+		55
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		56
+		'State 0'
+		'State 1'
+		,
+		57
+		'State 0'
+		'State 1'
+		,
+		58
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		59
+		'State 0'
+		'State 1'
+		,
+		60
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		61
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		62
+		'State 0'
+		'State 1'
+		,
+		63
+		'State 0'
+		'State 1'
+		,
+		64
+		'State 0'
+		'State 1'
+		,
+		65
+		'State 0'
+		'State 1'
+		'State 2'
+		,
+		66
+		'State 0'
+		'State 1'
+		,
+		67
+		'State 0'
+		'State 1'
+		,
+		68
+		'State 0'
+		'State 1'
+		,
+		69
+		'State 0'
+		'State 1'
+		,
+		70
+		'State 0'
+		'State 1'
+		,
+		71
+		'State 0'
+		'State 1'
+		,
+		72
+		'State 0'
+		'State 1'
+		
+	;
+	MATRIX
+	'Hyrachyus'		                          000000000000000000000000000000000000000112100000020100000101000000000000
+	'Egysodontinae'		                      0000????00??????00001?0?000000100??00?0011210001??1010000?000110110011?0
+	'Hyracodontinae'		                     0000000000000000100000000001000011?121000000000110?010000101011010000?00
+	'Teletaceras'		                        000000000000001000000000011?00000?0000001000010????0??0?0???0????1?????0
+	'Penetrigonas'		                       0000000?00?00010010001100?1100?00??00?00211000????????0?010100101????1??
+	'Amphicaenopus'		                      00001000111110011100111?0120001002001000222?001??20???????????????00?0?0
+	'Trigonias osborni'		                  000010000010001100000110011000100?00100022?001000201?010010?001011000100
+	'Subhyracodon'		                       0000?000??000000000011100111001112?01000?0000?01021?1000010?001011000100
+	'Diceratherium'		                      02000000?0100011000011100111001112200?000000010102101000010?100001000010
+	'Menoceras arikarense'		               010010002220001100101111111000111220120011000101130010000101100011000110
+	'Floridaceras'		                       0000?01?0??0?01110001111112000101220010021200010000110101010010001100101
+	'Peraceras'		                          0000110000?01101?11011111321011012211?0010?11120010?1010111?1??01???110?
+	'Aphelops mutilis'		                   00001100?12101?1101111111321011011110?00010110100100001102101000?1011101
+	'Teleoceras hicksi'		                  10002000??2111?1111111110221121111112?002221023101021021121?200011110101
+	'Ronzotherium'		                       000010001?110011?0?0111011100010111000001??00000??1210000?011?11??00?1?1
+	'Mesaceratherium'		                    ???????????????1010?1111011100100110200011010000?2000000?????11?????????
+	'Protaceratherium'		                   00000100?00000110101111101100011121112001???00000310100011011??011000?10
+	'Pleuroceros'		                        0200200011010011000?11110110001?1110?10??011000100?0?010000?11010??????0
+	'Diceratherium niobrarense'		          100020002?0211111010111102200010122221000???11300?0210211?10210?11101001
+	'Brachypotherium'		                    100010002102110111101111022001101222210002?111310?0200211?1????111101001
+	'Prosantorhinus'		                     1000100001??0?11011011110121001112222200011?00300?0210211?10100011101001
+	'Alicornops'		                         0000110001010011111111110121001012202100110101200?0010211?10011011000101
+	'Hoploaceratherium'		                  10001100010000111101111113200010122021001111001001101010120010?10100?000
+	'Aceratjeroi'		                        000011002200000111011111?2200010111021002221001001?010101?0010?10100??00
+	'Lartetotherium'		                     20101000010100110011111?011000110221110222210011120211101001101000??1?00
+	'L.schleiermacheri'		                  2010100012200011010?11100111001102201?022221001112020110100110101?001101
+	'Stephanorhinus'		                     201121?1221100110001111113310?11022112022??10?11120?01101001100?2?001?0?
+	'Coleodonta'		                         201211?12211001102?211111331020012211202222112111202011010011??100001001
+	'Hispanotherium'		                     00?0???????????1000?111?011101110111221?22?10201120000101?01101101??0?10
+	'Begertherium'		                       ?000?00???????110001111?0?11011001112212222102011200001011011111011001?0
+	'Beliajevina'		                        2000?00???????110001111?0311011?0111221222210201?0000010120210?111000110
+	'Iranotherium'		                       2020101120100011000011110???011?01122212222?021???????101???????????????
+	'Elasmotherium'		                      000211112002001102?211111331?21101122222222?02110?????101?????????????01
+	'Ninxiatherium'		                      20011121200100?1????1111?3???11?1?112212222??2??????????????????????????
+	'Acerorhinus'		                        ?0001100100?00111111111103210110111021002001001??1??10?11110?00001000?00
+	'Chilotherium'		                       0000010021021101211111111321021111?1210222210?310??01011121?10????111?01
+	'Chilotheridium'		                     20001????010001100??11111321021?122021010??100100??0101?1??0111?1???0?01
+	'Aprotodon'		                          0000?00022110?112???1111?12?01111?1021002??0012??20200200101100010??0?01
+	'Gaindatherium'		                      200010002200001111001110112000110220000222200011????????????????????????
+	'Punjabitherium'		                     201020002221001100??111001110211?22112022????21?????????????????????????
+	'Rhinoceros'		                         200020002221011110?0111101110?111221110?22210211100101101011000101111001
+	'Dicerorhinus sumatrensis'		           201000002001001100011111?1110011022001022221011110?101001?0?0000101111?1
+	'Diceros bicornis'		                   201020002012001102121111133100111220010022210111111101101010000010111?01
+	'Ceratotherium simum'		                201010002011001102?21111133102111220010222211211111101101011000001111001
+	'Paradiceros'		                        2010100020010011021?111113310011122111012??10??11?????0?1?????????10???0
+    ;
+    ENDBLOCK;
+
+          BEGIN ASSUMPTIONS;
+      TYPESET * UNTITLED = unord: 1 - 72;
+      ENDBLOCK;
+      BEGIN MESQUITE;
+ MESQUITESCRIPTVERSION 2; TITLE AUTO; tell ProjectCoordinator; timeSaved 1410492343388; getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa; tell It; setID 0 2381519420436508806; endTell; getEmployee #mesquite.charMatrices.ManageCharacters.ManageCharacters; tell It; setID 0 3881049307746226507; mqVersion 275; checksumv 0 3 2330107356 null getNumChars 72 numChars 72 getNumTaxa 46 numTaxa 46 short true bits 15 states 15 sumSquaresStatesOnly 12533.0 sumSquares 12533.0 longCompressibleToShort false usingShortMatrix true NumFiles 1 NumMatrices 1; mqVersion; endTell; getWindow; tell It; suppress; setResourcesState false false 100; setPopoutState 400; setExplanationSize 0; setAnnotationSize 0; setFontIncAnnot 0; setFontIncExp 0; setSize 1366 650; setLocation -8 -8; setFont SanSerif; setFontSize 10; getToolPalette; tell It; endTell; desuppress; endTell; getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa; tell It; showTaxa #2381519420436508806 #mesquite.lists.TaxonList.TaxonList; tell It; setTaxa #2381519420436508806; getWindow; tell It; newAssistant #mesquite.lists.DefaultTaxaOrder.DefaultTaxaOrder; newAssistant #mesquite.lists.TaxonListCurrPartition.TaxonListCurrPartition; setExplanationSize 30; setAnnotationSize 20; setFontIncAnnot 0; setFontIncExp 0; setSize 1266 583; setLocation -8 -8; setFont SanSerif; setFontSize 10; getToolPalette; tell It; endTell; endTell; showWindow; getEmployee #mesquite.lists.ColorTaxon.ColorTaxon; tell It; setColor Red; removeColor off; endTell; getEmployee #mesquite.lists.TaxonListAnnotPanel.TaxonListAnnotPanel; tell It; togglePanel off; endTell; endTell; endTell; getEmployee #mesquite.charMatrices.BasicDataWindowCoord.BasicDataWindowCoord; tell It; showDataWindow #3881049307746226507 #mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindowMaker; tell It; getWindow; tell It; setExplanationSize 30; setAnnotationSize 20; setFontIncAnnot 0; setFontIncExp 0; setSize 1266 583; setLocation -8 -8; setFont SanSerif; setFontSize 10; getToolPalette; tell It; setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam; endTell; setActive; setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.ibeam; colorCells #mesquite.charMatrices.NoColor.NoColor; colorRowNames #mesquite.charMatrices.TaxonGroupColor.TaxonGroupColor; colorColumnNames #mesquite.charMatrices.CharGroupColor.CharGroupColor; colorText #mesquite.charMatrices.NoColor.NoColor; setBackground White; toggleShowNames on; toggleShowTaxonNames on; toggleTight off; toggleThinRows off; toggleShowChanges on; toggleSeparateLines off; toggleShowStates on; toggleAutoWCharNames on; toggleAutoTaxonNames off; toggleShowDefaultCharNames off; toggleConstrainCW on; toggleBirdsEye off; toggleShowPaleGrid off; toggleShowPaleCellColors off; togglePaleInapplicable on; toggleShowBoldCellText off; toggleAllowAutosize on; toggleColorsPanel off; toggleDiagonal on; setDiagonalHeight 80; toggleLinkedScrolling on; toggleScrollLinkedTables off; endTell; showWindow; getWindow; tell It; forceAutosize; endTell; getEmployee #mesquite.charMatrices.ColorByState.ColorByState; tell It; setStateLimit 9; toggleUniformMaximum on; endTell; getEmployee #mesquite.charMatrices.ColorCells.ColorCells; tell It; setColor Red; removeColor off; endTell; getEmployee #mesquite.categ.StateNamesStrip.StateNamesStrip; tell It; showStrip off; endTell; getEmployee #mesquite.charMatrices.AnnotPanel.AnnotPanel; tell It; togglePanel off; endTell; getEmployee #mesquite.charMatrices.CharReferenceStrip.CharReferenceStrip; tell It; showStrip off; endTell; getEmployee #mesquite.charMatrices.QuickKeySelector.QuickKeySelector; tell It; autotabOff; endTell; getEmployee #mesquite.charMatrices.SelSummaryStrip.SelSummaryStrip; tell It; showStrip off; endTell; getEmployee #mesquite.categ.SmallStateNamesEditor.SmallStateNamesEditor; tell It; panelOpen true; endTell; endTell; endTell; endTell; 
+ENDBLOCK;
+BEGIN MESQUITECHARMODELS;
+ ProbModelSet * UNTITLED = 'Mk1 ?': 1 - 72; 
+ENDBLOCK;

@@ -1,0 +1,221 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 18.05.26'
+43 160
+
+&[num]
+Artibeus_jamaicensis_209619           000110000100-000000100000111000000000102000
+Artibeus_jamaicensis_209627           000110000100-000000100000111000000000102000
+Artibeus_jamaicensis_209628           000110000100-000000100000111000000000102000
+Artibeus_jamaicensis_248133           000110000100-000000100000111000000000102000
+Artibeus_jamaicensis_248132           000110000100-000000100000111000000000102000
+Artibeus_jamaicensis_210923           000010000100-000000100000111000000000102000
+Artibeus_jamaicensis_210892           000110000100-000000100000111000000000102000
+Artibeus_jamaicensis_248130           000010000100-000000100000111000000000102000
+Artibeus_jamaicensis_210888           000110000100-000000100000111000000000102000
+Artibeus_jamaicensis_210871           000010000100-000000100000111000000000112000
+Artibeus_jamaicensis_210847           000010000100-000000100000111000000000102000
+Artibeus_jamaicensis_209711           000010000100-000000100000111000000000102000
+Artibeus_jamaicensis_209710           000010000100-000001100000111000000000102000
+Artibeus_jamaicensis_209708           00??10000100-000000100000111000000000102000
+Artibeus_jamaicensis_209706           000110000100-000000100000111000000000102000
+Artibeus_jamaicensis_209702           000010000100-000001100000111000000000102000
+Artibeus_jamaicensis_209647           000110000100-000000100000111000000000102000
+Artibeus_jamaicensis_209643           000110000100-000000100000111000000000102000
+Artibeus_jamaicensis_209642           000110000100-000000100000111000000000102000
+Artibeus_jamaicensis_210891           000010000100-000000100000111000000000102000
+Desmodus_rotundus_172294              01--11--01-1-010101200010001001000000101000
+Desmodus_rotundus_172304              01--11--01-1-010101220010001001000000101000
+Desmodus_rotundus_172303              01--11--01-1-000101210010001001000000101000
+Desmodus_rotundus_172306              01--11--01-1-010101200010001001000000101000
+Desmodus_rotundus_177836              01--11--01-1-010101200010001001000000101000
+Desmodus_rotundus_177835              01--11--01-1-010101210010001001000000101000
+Desmodus_rotundus_172392              01--11--01-1-010101200010001001000000101000
+Desmodus_rotundus_172389              01--11--01-1-010101100010001001000000101000
+Desmodus_rotundus_172388              01--11--01-1-000101200010001001000000101000
+Desmodus_rotundus_172387              01--11--01-1-010101200010001001000000101000
+Desmodus_rotundus_172379              01--11--01-1-010101200010001001000000101000
+Desmodus_rotundus_172377              01--11--01-1-010101100010001001000000101000
+Desmodus_rotundus_172349              01--11--01-1-010101200010001001000000101000
+Desmodus_rotundus_172342              01--11--01-1-010101200010001001000000101000
+Desmodus_rotundus_172339              01--11--01-1-010102200010001001000000101000
+Desmodus_rotundus_172327              01--11--01-1-010101200010001001000000101000
+Desmodus_rotundus_172323              01--11--01-1-010101100010001001000000101000
+Desmodus_rotundus_172320              01--11--01-1-010101200010001001000000101000
+Desmodus_rotundus_172312              01--11--01-1-010102200010001001000000101000
+Desmodus_rotundus_172311              01--11--01-1-010101200010001001000000101000
+Glossophaga_soricina_247926           001110010000000000??30000001000000100112000
+Glossophaga_soricina_247927           001110010000000000??10000001000000100102000
+Glossophaga_soricina_247948           001110010000000000??20000001000000100102000
+Glossophaga_soricina_248750           001110000000000000??10000001000000100112000
+Glossophaga_soricina_264594           0011100100000000000030000001000000100112000
+Glossophaga_soricina_264592           001110000000000000??20000001000000100112000
+Glossophaga_soricina_264591           001110010000000000??20000001000000100112000
+Glossophaga_soricina_264590           001110010000000000??10000001000000100102000
+Glossophaga_soricina_264586           0011100100000000000030000001000000100112000
+Glossophaga_soricina_248758           001110010000000000??10000001000000100102000
+Glossophaga_soricina_248757           001110010000000000??30000001000000100112000
+Glossophaga_soricina_248755           001110000000000000??10000001000000100112000
+Glossophaga_soricina_248753           0011100100000000000120000001000000100112000
+Glossophaga_soricina_248751           001110010000000000??20000001000000100112000
+Glossophaga_soricina_248749           001110010000000000??30000001000000100112000
+Glossophaga_soricina_248747           0011100000000000000010000001000000100112000
+Glossophaga_soricina_247959           0011100100000000000120000001000000100112000
+Glossophaga_soricina_247958           001110010000000000??20000001000000100112000
+Glossophaga_soricina_247953           001110000000000000??20000001000000100112000
+Glossophaga_soricina_247951           001110010000000000??10000001000000100102000
+Noctilio_albiventris_209242           000111--0000001010032000011100110-000111000
+Noctilio_albiventris_209243           000111--0000001010032000011100110-000111000
+Noctilio_albiventris_209244           000111--0000101010032000011100110-000111000
+Noctilio_albiventris_210665           000111--0000001010031000010100110-000111000
+Noctilio_albiventris_210664           000111--0000001010031000010100110-000111000
+Noctilio_albiventris_210663           000111--0000001010031000010100110-000111000
+Noctilio_albiventris_210593           000111--0000001010032000010100110-000111000
+Noctilio_albiventris_210592           000111--0000?01010031001010100110-000111000
+Noctilio_albiventris_210591           000111--0000001010031000010100110-000111000
+Noctilio_albiventris_210589           000111--0000001010031000010100110-000111000
+Noctilio_albiventris_210587           000111--0000001010031000010100110-000111000
+Noctilio_albiventris_210586           000111--0000000010031000010100110-000111000
+Noctilio_albiventris_210583           000111--0000001010032000010100110-000111000
+Noctilio_albiventris_210579           000111--0000000010??2000010100110?000111000
+Noctilio_albiventris_210578           000111--0000000010031000010100110-000111000
+Noctilio_albiventris_210577           000111--0000001010031000010100110?000111000
+Noctilio_albiventris_210575           000111--0000001010032000010100110-000111000
+Noctilio_albiventris_210574           000111--0000001010031000010100110-000111000
+Noctilio_albiventris_209252           000111--0000001010031000010100110-000111000
+Noctilio_albiventris_209247           000111--0000001010031000011100110-000101000
+Molossus_molossus_263275              01--11--0000100010232000011000000-110111000
+Molossus_molossus_263276              01--11--0000100010232000011000000-010111000
+Molossus_molossus_263277              01--11--0000100010232000011000000-010111000
+Molossus_molossus_264100              01--11--0000200010231000011000000-010111000
+Molossus_molossus_267250              01--11--0000200010232000011000000-010111000
+Molossus_molossus_264703              01--11--00002000101320?0011000000-010111000
+Molossus_molossus_264702              01--11--0000200010??1001011000000-010111000
+Molossus_molossus_264701              01--11--0000200010221001011000000-010111000
+Molossus_molossus_264700              01--11--0000200010231000011000000-010111000
+Molossus_molossus_264699              01--11--0000200010231000011000000-010111000
+Molossus_molossus_264698              01--11--0000200010221000011000000-010111000
+Molossus_molossus_264697              01--11--0000200010121000011000000-010111000
+Molossus_molossus_264102              01--11--00002000102210??011000000-010111000
+Molossus_molossus_264099              01--11--0000200010221000011000000-010111000
+Molossus_molossus_264098              01--11--0000200010222000011000000-010111000
+Molossus_molossus_263284              01--11--0000200010221000011000000-010111000
+Molossus_molossus_263281              01--11--0000200010221000011000000-010111000
+Molossus_molossus_263280              01--11--0000200010221000011000000-010111000
+Molossus_molossus_263279              01--11--0000200010231000011000000-010111000
+Molossus_molossus_263278              01--11--0000200010231001011000000-010111000
+Mormoops_megalophylla_25093           00011001000011020002200?1001000000010110000
+Mormoops_megalophylla_25124           00011001000011020002100010010000000101?000?
+Mormoops_megalophylla_27300           000110010000110200022000100100000001010000?
+Mormoops_megalophylla_204473          0001100100001102000200001001000000010110000
+Mormoops_megalophylla_205347          0001100100001102000200001001000000?10110000
+Mormoops_megalophylla_205346          0001100100001102000200001001000000010110000
+Mormoops_megalophylla_205345          00011001000011020002000010010000???1010000?
+Mormoops_megalophylla_205344          0001100100001102000200001001000000010110000
+Mormoops_megalophylla_205343          0001100100001102000200001001000000010110000
+Mormoops_megalophylla_205342          000110010000110200020000100100000001011000?
+Mormoops_megalophylla_205341          000110010000110200??0000100100000001010000?
+Mormoops_megalophylla_204472          000110010000110200020000100100000001011000?
+Mormoops_megalophylla_190139          000110010000110200020000100100000001011000?
+Mormoops_megalophylla_190138          0001100100001102000200001001000000010110000
+Mormoops_megalophylla_177424          0001100100001102000200001001000000010110000
+Mormoops_megalophylla_177423          000110010000110200020000100100000?01010000?
+Mormoops_megalophylla_145008          000110010?00?10200020000100100000?010110000
+Mormoops_megalophylla_145007          000110010000110200020000100100000001011000?
+Mormoops_megalophylla_144994          0001100100001102000200001001000000010100000
+Mormoops_megalophylla_27305           0001100100001102000200001001000000010110000
+Saccopteryx_bilineata_209222          10-101--0000000100120100011111-01--10011011
+Saccopteryx_bilineata_209219          ????01--0000000100??010?010111-01--10011011
+Saccopteryx_bilineata_209220          ????01--000000010012010?010111-01--10011011
+Saccopteryx_bilineata_210488          10-101--0000000100110100010111-01--10011011
+Saccopteryx_bilineata_267378          10-101--0000000100120100010111-01--10011011
+Saccopteryx_bilineata_267057          10-101--0000000100110100010111-01--10011011
+Saccopteryx_bilineata_265966          10-101--0000000100110100010111-01--10011011
+Saccopteryx_bilineata_262419          10-101--0000000100110100010111-01--10011011
+Saccopteryx_bilineata_210496          10-101--0000000100110100010111-01--10011011
+Saccopteryx_bilineata_210494          10-101--0000000100110100010111-01--10011011
+Saccopteryx_bilineata_210487          10-101--0000000100110100010111-01--10011011
+Saccopteryx_bilineata_210485          10-101--0000000100110100010111-01--10011011
+Saccopteryx_bilineata_210484          10-101--0000000100110100010111-01--10011011
+Saccopteryx_bilineata_210472          10-101--0000000100110100010111-01--10011011
+Saccopteryx_bilineata_210469          10-101--0000000100110100010111-01--10001011
+Saccopteryx_bilineata_210468          10-101--0000000100110100010111-01--10011011
+Saccopteryx_bilineata_210467          10-101--0000000100110100010111-01--10011011
+Saccopteryx_bilineata_210466          10-101--0000000100110100010111-01--10011011
+Saccopteryx_bilineata_210465          10-101--0000000100120100010111-01--10011011
+Saccopteryx_bilineata_210464          ????01--0000000100110100010????????10011011
+Trachops_cirrhosus_13278              0000100000002000001320000111000000100101001
+Trachops_cirrhosus_13280              0000100000002000001220000111000000000101001
+Trachops_cirrhosus_15286              0000100000002000001220000111000000100101001
+Trachops_cirrhosus_272820             0000100000002000001210000111000000100101011
+Trachops_cirrhosus_267936             0000100000002000001210000111000000100111011
+Trachops_cirrhosus_267933             0000100000002000001210000111000000100101011
+Trachops_cirrhosus_267930             0000100000002000001210000111000000100101011
+Trachops_cirrhosus_267929             0000100000002000001210000111000000100101011
+Trachops_cirrhosus_267928             0000100000002000001210000111000000100101011
+Trachops_cirrhosus_267926             0000100000002000001210000111000000100101011
+Trachops_cirrhosus_267442             0000100000002000001200000111000000000101011
+Trachops_cirrhosus_266084             0000100000002000001210000111000000100111011
+Trachops_cirrhosus_266081             0000100000002000001210000111000000100111011
+Trachops_cirrhosus_266079             0000100000002000001210000111000000100111011
+Trachops_cirrhosus_261378             0000100000002000001310000111000000100101011
+Trachops_cirrhosus_210681             0000100000002000001210000111000000100111011
+Trachops_cirrhosus_210680             0000100000002000000210000111000000100111011
+Trachops_cirrhosus_210679             0000100000002000001210000111000000100111011
+Trachops_cirrhosus_209351             0000100000002000001210000111000000100111011
+Trachops_cirrhosus_15287              0000100000002000001310000111000000100101001
+
+;
+
+
+cnames
+{ 0 Upper_I1_presence I1_present I1_absent;
+{ 1 Upper_I2_presence I2_present I2_absent;
+{ 2 Relative_proportions_of_I1_and_I2 I1_distinctly_larger_than_I2 I1_and_I2_subequal;
+{ 3 Diastema_between_I2_and_C Diastema_absent Diastema_present;
+{ 4 Upper_P1_presence P1_present P1_absent;
+{ 5 Upper_P4_presence P4_present P4_absent;
+{ 6 Relative_crown_height_of_P4_and_P5 P4_and_P5_subequal_in_height Height_of_P4_less_than_one_half_the_height_of_P5;
+{ 7 Diastema_between_P4_and_P5 Diastema_absent Diastema_present;
+{ 8 Diastema_between_P5_and_M1 Diastema_absent Diastema_present;
+{ 9 Upper_M1_and_M2_ectoloph M1_and_M2_with_W-shaped_ectoloph W-shaped_ectoloph_absent;
+{ 10 Diastema_between_M1_and_M2 Diastema_absent Diastema_present;
+{ 11 M3_presence M3_present M3_absent;
+{ 12 M3_ectoloph Ectoloph_fully_W-shaped Ectoloph_V-shaped_with_additional_crest_running_from_buccal_edge_of_tooth_to_lingual Ectoloph_V-shaped;
+{ 13 Nasal_bones,_profile_in_lateral_view Nasal_flat_or_convex_upward Concave_upward;
+{ 14 Nasal_foramina Nasal_foramina_small_or_absent Pair_of_large_nasal_foramina_present_in_posterior_nasal_region_below_forehead;
+{ 15 Rostrum,_degree_of_upturning Rostrum_not_upturned,_less_than_10_degrees Rostrum_slightly_upturned,_13_to_26_degrees Rostrum_strongly_upturned,_28_to_34_degrees;
+{ 16 Rostrum_breadth Maximum_rostral_breadth_less_than_or_equal_to_length_of_maxillary_toothrow Greater_than_length_of_maxillary_toothrow;
+{ 17 Rostrum_length Rostrum_length_less_than_one-half_total_length_of_skull Equal_to_or_greater_than_one-half_total_length_of_skull;
+{ 18 Infraorbital_foramen,_size Small,_height_less_than_or_equal_to_10_percent_of_the_height_of_the_rostrum Enlarged,_height_between_eleven_and_seventeen_percent_of_the_height_of_the_rostrum Greatly_enlarged,_greater_than_or_equal_to_eighteen_percent_of_the_height_of_the_rostrum;
+{ 19 Infraorbital_foramen,_location Above_posterior_P4 Above_anterior_half_of_P5 Above_posterior_half_of_P5 Above_anterior_half_of_M1;
+{ 20 Anterior_rim_of_orbit,_position Above_posterior_half_of_P5 Above_anterior_half_of_M1 Above_posterior_half_of_M1 Above_anterior_half_of_M2;
+{ 21 Postorbital_process Absent Well-developed_postorbital_process_present;
+{ 22 Zygomatic_arch Complete Incomplete;
+{ 23 Zygomatic_breadth Zygomatic_breadth_greater_than_mastoid_breadth Less_than_mastoid_breadth;
+{ 24 Parietal_inflation Parietals_not_inflated Parietals_inflated_in_area_encasing_cerebellum;
+{ 25 Sagittal_crest,_presence Sagittal_crest_absent Sagittal_crest_present;
+{ 26 Nuchal_crest,_presence Nuchal_crest_absent Nuchal_crest_present;
+{ 27 Premaxilla_orthoclivous_or_proclivous Orthoclivous,_does_not_extend_anteriorly_beyond_the_level_of_the_canine_root Proclivous,_extending_anteriorly_beyond_the_level_of_the_canine_root;
+{ 28 Premaxilla_nasal_process,_development_and_type_of_articulation_with_maxilla Nasal_process_well_developed_and_fused_to_rostral_process_of_maxilla Nasal_process_reduced_caudally,_attached_to_maxilla_via_ligaments_to_produce_a_"freely_moveable"_premaxilla;
+{ 29 Premaxilla_nasal_process,_dorsal_pad-like_flange_presence Absent Dorsal_pad-like_flange_present,_formed_by_widening_of_the_dorsal_end_of_the_nasal_process_both_medially_and_caudally.;
+{ 30 Premaxilla_nasal_process,_maxilloincisive_suture_termination Ventrolateral_end_of_suture_lies_in_same_plane_as_upper_alveolar_line,_no_notch_in_front_of_upper_canine Suture_ends_well_above_alveolar_line,_resulting_in_a_notch_between_the_premaxilla_and_maxilla_in_front_of_the_upper_canine;
+{ 31 Premaxilla_nasal_process,_lateral_expansion Absent Lateral_expansion_present;
+{ 32 Premaxilla_nasal_process,_twisting_of_medial_edge. Medial_edge_nearly_straight,_not_twisted Medial_edge_twisted_so_that_the_nasal_process_appears_flattened_dorsoventrally_at_its_proximal_end_and_flattened_lateromedially_at_its_distal_end;
+{ 33 Premaxilla_interincisive_crest_presence Absent Interincisive_crest_present;
+{ 34 Medial_accessory_palatine_foramen_presence Absent Medial_accessory_palatine_foramen_present;
+{ 35 Hard_palate,_posterior_extent Hard_palate_extends_posteriorly_into_interorbital_region Hard_palate_terminates_at_the_level_of_the_zygomatic_roots;
+{ 36 Pterygoid_lamina,_inflation Pterygoid_lamina_thin_and_sheetlike Pterygoid_lamina_grealy_inflated_posterior_to_the_anterior_margin_of_the_mandibular_fossa;
+{ 37 Pars_cochlearis_of_petrosal,_articulation_with_basisphenoid Pars_cochlearis_sutured_to_basisphenoid Pars_cochlearis_loosely_attached_to_basisphenoid_via_ligaments_and_thin_splints_of_bone;
+{ 38 Cochlea_phanerocholear_or_cryptocochlear Cryptocochlear Phanerocochlear;
+{ 39 Ectotympanic,_bulla_extent_over_cochlea Ectotympanic_bulla_extends_across_two_thirds_or_more_of_cochlea Bulla_extends_across_one_half_of_cochlea Bulla_extends_across_no_more_than_one_third_of_cochlea;
+{ 40 Ectoympanic,_lateral_process Lateral_process_not_well_developed Forms_tubular_external_auditory_meatus;
+{ 41 Basisphenoid,_presence_of_grooves_or_pits Basisphenoid_either_mostly_flat_or_with_wide,_shallow_longitudinal_furrows With_deep_pits;
+{ 42 Basioccipital,_anterior_constriction Basioccipital_not_constricted,_width_of_anterior_portion_40%_or_more_of_the_width_of_the_foramen_magnum Basioccipital_constricted,_width_of_the_anterior_portion_is_35%_or_less_the_width_of_the_foramen_magnum;
+;
+
+
+ccode  - 0.42;
+
+
+;

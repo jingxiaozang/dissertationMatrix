@@ -1,0 +1,135 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 18.06.30'
+72 45
+
+&[num]
+Hyrachyus                          000000000000000000000000000000000000000112100000020100000101000000000000
+Egysodontinae                      0000????00??????00001?0?000000100??00?0011210001??1010000?000110110011?0
+Hyracodontinae                     0000000000000000100000000001000011?121000000000110?010000101011010000?00
+Teletaceras                        000000000000001000000000011?00000?0000001000010????0??0?0???0????1?????0
+Penetrigonas                       0000000?00?00010010001100?1100?00??00?00211000????????0?010100101????1??
+Amphicaenopus                      00001000111110011100111?0120001002001000222?001??20???????????????00?0?0
+Trigonias_osborni                  000010000010001100000110011000100?00100022?001000201?010010?001011000100
+Subhyracodon                       0000?000??000000000011100111001112?01000?0000?01021?1000010?001011000100
+Diceratherium                      02000000?0100011000011100111001112200?000000010102101000010?100001000010
+Menoceras_arikarense               010010002220001100101111111000111220120011000101130010000101100011000110
+Floridaceras                       0000?01?0??0?01110001111112000101220010021200010000110101010010001100101
+Peraceras                          0000110000?01101?11011111321011012211?0010?11120010?1010111?1??01???110?
+Aphelops_mutilis                   00001100?12101?1101111111321011011110?00010110100100001102101000?1011101
+Teleoceras_hicksi                  10002000??2111?1111111110221121111112?002221023101021021121?200011110101
+Ronzotherium                       000010001?110011?0?0111011100010111000001??00000??1210000?011?11??00?1?1
+Mesaceratherium                    ???????????????1010?1111011100100110200011010000?2000000?????11?????????
+Protaceratherium                   00000100?00000110101111101100011121112001???00000310100011011??011000?10
+Pleuroceros                        0200200011010011000?11110110001?1110?10??011000100?0?010000?11010??????0
+Diceratherium_niobrarense          100020002?0211111010111102200010122221000???11300?0210211?10210?11101001
+Brachypotherium                    100010002102110111101111022001101222210002?111310?0200211?1????111101001
+Prosantorhinus                     1000100001??0?11011011110121001112222200011?00300?0210211?10100011101001
+Alicornops                         0000110001010011111111110121001012202100110101200?0010211?10011011000101
+Hoploaceratherium                  10001100010000111101111113200010122021001111001001101010120010?10100?000
+Aceratjeroi                        000011002200000111011111?2200010111021002221001001?010101?0010?10100??00
+Lartetotherium                     20101000010100110011111?011000110221110222210011120211101001101000??1?00
+L.schleiermacheri                  2010100012200011010?11100111001102201?022221001112020110100110101?001101
+Stephanorhinus                     201121?1221100110001111113310?11022112022??10?11120?01101001100?2?001?0?
+Coleodonta                         201211?12211001102?211111331020012211202222112111202011010011??100001001
+Hispanotherium                     00?0???????????1000?111?011101110111221?22?10201120000101?01101101??0?10
+Begertherium                       ?000?00???????110001111?0?11011001112212222102011200001011011111011001?0
+Beliajevina                        2000?00???????110001111?0311011?0111221222210201?0000010120210?111000110
+Iranotherium                       2020101120100011000011110???011?01122212222?021???????101???????????????
+Elasmotherium                      000211112002001102?211111331?21101122222222?02110?????101?????????????01
+Ninxiatherium                      20011121200100?1????1111?3???11?1?112212222??2??????????????????????????
+Acerorhinus                        ?0001100100?00111111111103210110111021002001001??1??10?11110?00001000?00
+Chilotherium                       0000010021021101211111111321021111?1210222210?310??01011121?10????111?01
+Chilotheridium                     20001????010001100??11111321021?122021010??100100??0101?1??0111?1???0?01
+Aprotodon                          0000?00022110?112???1111?12?01111?1021002??0012??20200200101100010??0?01
+Gaindatherium                      200010002200001111001110112000110220000222200011????????????????????????
+Punjabitherium                     201020002221001100??111001110211?22112022????21?????????????????????????
+Rhinoceros                         200020002221011110?0111101110?111221110?22210211100101101011000101111001
+Dicerorhinus_sumatrensis           201000002001001100011111?1110011022001022221011110?101001?0?0000101111?1
+Diceros_bicornis                   201020002012001102121111133100111220010022210111111101101010000010111?01
+Ceratotherium_simum                201010002011001102?21111133102111220010222211211111101101011000001111001
+Paradiceros                        2010100020010011021?111113310011122111012??10??11?????0?1?????????10???0
+
+;
+
+
+cnames
+{ 0 Char_1 State_0 State_1 State_2;
+{ 1 Char_2 State_0 State_1 State_2;
+{ 2 Char_3 State_0 State_1 State_2;
+{ 3 Char_4 State_0 State_1 State_2;
+{ 4 Char_5 State_0 State_1 State_2;
+{ 5 Char_6 State_0 State_1;
+{ 6 Char_7 State_0 State_1 State_2;
+{ 7 Char_8 State_0 State_1;
+{ 8 Char_9 State_0 State_1 State_2;
+{ 9 Char_10 State_0 State_1 State_2;
+{ 10 Char11 State_0 State_1 State_2;
+{ 11 Char_12 State_0 State_1 State_2;
+{ 12 Char_13 State_0 State_1;
+{ 13 Char14 State_0 State_1;
+{ 14 Char_15 State_0 State_1;
+{ 15 Char_16 State_0 State_1;
+{ 16 Char17 State_0 State_1 State_2;
+{ 17 Char_18 State_0 State_1 State_2;
+{ 18 Char_19 State_0 State_1;
+{ 19 Char_20 State_0 State_1 State_2;
+{ 20 Char_21 State_0 State_1;
+{ 21 Char_22 State_0 State_1;
+{ 22 Char_23 State_0 State_1;
+{ 23 Char_24 State_0 State_1;
+{ 24 Char_25 State_0 State_1;
+{ 25 Char_26 State_0 State_1 State_2 State_3;
+{ 26 Char_27 State_0 State_1 State_2 State_3;
+{ 27 Char_28 State_0 State_1;
+{ 28 Char_29 State_0 State_1;
+{ 29 Char_30 State_0 State_1 State_2;
+{ 30 Char_31 State_0 State_1;
+{ 31 Char_32 State_0 State_1;
+{ 32 Char_33 State_0 State_1;
+{ 33 Char_34 State_0 State_1 State_2;
+{ 34 Char_35 State_0 State_1 State_2;
+{ 35 Char_36 State_0 State_1 State_2;
+{ 36 Char_37 State_0 State_1 State_2;
+{ 37 Char_38 State_0 State_1 State_2;
+{ 38 Char_39 State_0 State_1 State_2;
+{ 39 Char_40 State_0 State_1 State_2;
+{ 40 Char_41 State_0 State_1 State_2;
+{ 41 Char_42 State_0 State_1 State_2;
+{ 42 Char_43 State_0 State_1 State_2;
+{ 43 Char_44 State_0 State_1;
+{ 44 Char_45 State_0 State_1;
+{ 45 Char_46 State_0 State_1 State_2;
+{ 46 Char_47 State_0 State_1 State_2 State_3;
+{ 47 Char_48 State_0 State_1;
+{ 48 Char_49 State_0 State_1;
+{ 49 Char_50 State_0 State_1 State_2 State_3;
+{ 50 Char_51 State_0 State_1;
+{ 51 Char_52 State_0 State_1 State_2;
+{ 52 Char_53 State_0 State_1;
+{ 53 Char_54 State_0 State_1;
+{ 54 Char_55 State_0 State_1 State_2;
+{ 55 Char_56 State_0 State_1;
+{ 56 Char_57 State_0 State_1;
+{ 57 Char_58 State_0 State_1 State_2;
+{ 58 Char_59 State_0 State_1;
+{ 59 Char_60 State_0 State_1 State_2;
+{ 60 Char_61 State_0 State_1 State_2;
+{ 61 Char_62 State_0 State_1;
+{ 62 Char_63 State_0 State_1;
+{ 63 Char_64 State_0 State_1;
+{ 64 Char_65 State_0 State_1 State_2;
+{ 65 Char_66 State_0 State_1;
+{ 66 Char_67 State_0 State_1;
+{ 67 Char_68 State_0 State_1;
+{ 68 Char_69 State_0 State_1;
+{ 69 Char_70 State_0 State_1;
+{ 70 Char_71 State_0 State_1;
+{ 71 Char_72 State_0 State_1;
+;
+
+
+ccode  - 0.71;
+
+
+;

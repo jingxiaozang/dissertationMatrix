@@ -1,0 +1,65 @@
+nstates num 25;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 18.08.29'
+22 25
+
+&[num]
+Oistoceras_figulinum               0041?0?0001001?00010?0
+Amaltheus_bifurcus                 002204?0000001?00010?0
+Amaltheus_stokesi                  300011?0010001001010?0
+Amaltheus_talrosei                 900020?00?0001101010?0
+Amaltheus_subbifurvus              ?50830?00?0001101010?0
+Amaltheus_repressus                8?00?2?00?0001001010?1
+Amaltheus_conspectus               0000?0?0010101101010?1
+Amaltheus_viligaensis              4070?0?0010101101010?0
+Amaltheus_wertheri                 1304?3?0010001001010?0
+Amauroceras_ferruginum             2110???001000??01010?0
+Amaltheus_subnodosus               083066?001001001101000
+Amaltheus_striatus                 0607?5?011001001101000
+Amaltheus_gloriosus                7900401011001001101000
+Amaltheus_gloriosus_W              5000702011001001101010
+Amaltheus_gibbosus                 6000573011001001101010
+Amaltheus_salebrosus               0000?83011001001101010
+Pleuroceras_becheteri              0?06893011101001101110
+Pleuroceras_transiens              ?055???011101001101100
+Pleuroceras_solare                 0280???0111010?1110100
+Pleuroceras_quadratum              0?93???0111010?1110100
+Pleuroceras_apyrenum               0000???1111010?1110100
+Pleuroceras_spinatum               0700???20?1010?1110100
+Pleuroceras_hawskerense            0000???1??1010?1110100
+Pleuroceras_paucicostatum          ?469???20?1010?1110100
+Pleuroceras_yeovilense             0000???20?1010?1110100
+
+;
+
+
+cnames
+{ 0 Uw State_0 State_1 State_2 State_3 State_4 State_5 State_6 State_7 State_8 State_9 State_10 State_11 State_12 State_13 State_14 State_15 State_16 State_17 State_18 State_19 State_20 State_21;
+{ 1 WbWh State_0 State_1 State_2 State_3 State_4 State_5 State_6 State_7 State_8 State_9 State_10 State_11 State_12 State_13 State_14 State_15 State_16 State_17 State_18 State_19 State_20 State_21;
+{ 2 Size_ad_max State_0 State_1 State_2 State_3 State_4 State_5 State_6 State_7 State_8 State_9 State_10 State_11 State_12 State_13 State_14 State_15 State_16 State_17 State_18 State_19 State_20 State_21 State_22 State_23 State_24;
+{ 3 Ribs State_0 State_1 State_2 State_3 State_4 State_5 State_6 State_7 State_8 State_9 State_10 State_11 State_12 State_13 State_14 State_15 State_16 State_17 State_18 State_19 State_20 State_21 State_22 State_23 State_24;
+{ 4 Chev.D State_0 State_1 State_2 State_3 State_4 State_5 State_6 State_7 State_8;
+{ 5 angle_Rib_Chev State_0 State_1 State_2 State_3 State_4 State_5 State_6 State_7 State_8 State_9 State_10 State_11 State_12 State_13 State_14 State_15;
+{ 6 Tub_Type State_0 no_relief_change progressive_periodic_relief_changes discontinuous_periodic_relief_changes;
+{ 7 sulci absent shallow_sulci deep_sulci;
+{ 8 Pres_engel absent present;
+{ 9 Orn_spiral absent present;
+{ 10 VLE.A absent present;
+{ 11 rounded_venral_area absent present;
+{ 12 Perlatum absent present;
+{ 13 Con_Chev_Rib absent present;
+{ 14 thick_chevrons absent present;
+{ 15 Keel_individualisation absent present;
+{ 16 Keel_chevrons absent present;
+{ 17 Keel_cordated absent present;
+{ 18 AccessSaddle absent present;
+{ 19 OrnemSut complex simplified;
+{ 20 Pre_Tub_Complex absent present;
+{ 21 constrictions absent present;
+;
+
+
+ccode  - 0.5 8.21 + 6.7;
+
+
+;

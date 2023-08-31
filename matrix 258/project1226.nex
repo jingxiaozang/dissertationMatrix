@@ -1,0 +1,568 @@
+#NEXUS
+
+    [ File output by Morphobank v3.0 ?; 2023-07-28 20.57.40 ]
+
+    BEGIN TAXA;
+    DIMENSIONS NTAX=160;
+    TAXLABELS
+    		'Artibeus jamaicensis 209619'
+		'Artibeus jamaicensis 209627'
+		'Artibeus jamaicensis 209628'
+		'Artibeus jamaicensis 248133'
+		'Artibeus jamaicensis 248132'
+		'Artibeus jamaicensis 210923'
+		'Artibeus jamaicensis 210892'
+		'Artibeus jamaicensis 248130'
+		'Artibeus jamaicensis 210888'
+		'Artibeus jamaicensis 210871'
+		'Artibeus jamaicensis 210847'
+		'Artibeus jamaicensis 209711'
+		'Artibeus jamaicensis 209710'
+		'Artibeus jamaicensis 209708'
+		'Artibeus jamaicensis 209706'
+		'Artibeus jamaicensis 209702'
+		'Artibeus jamaicensis 209647'
+		'Artibeus jamaicensis 209643'
+		'Artibeus jamaicensis 209642'
+		'Artibeus jamaicensis 210891'
+		'Desmodus rotundus 172294'
+		'Desmodus rotundus 172304'
+		'Desmodus rotundus 172303'
+		'Desmodus rotundus 172306'
+		'Desmodus rotundus 177836'
+		'Desmodus rotundus 177835'
+		'Desmodus rotundus 172392'
+		'Desmodus rotundus 172389'
+		'Desmodus rotundus 172388'
+		'Desmodus rotundus 172387'
+		'Desmodus rotundus 172379'
+		'Desmodus rotundus 172377'
+		'Desmodus rotundus 172349'
+		'Desmodus rotundus 172342'
+		'Desmodus rotundus 172339'
+		'Desmodus rotundus 172327'
+		'Desmodus rotundus 172323'
+		'Desmodus rotundus 172320'
+		'Desmodus rotundus 172312'
+		'Desmodus rotundus 172311'
+		'Glossophaga soricina 247926'
+		'Glossophaga soricina 247927'
+		'Glossophaga soricina 247948'
+		'Glossophaga soricina 248750'
+		'Glossophaga soricina 264594'
+		'Glossophaga soricina 264592'
+		'Glossophaga soricina 264591'
+		'Glossophaga soricina 264590'
+		'Glossophaga soricina 264586'
+		'Glossophaga soricina 248758'
+		'Glossophaga soricina 248757'
+		'Glossophaga soricina 248755'
+		'Glossophaga soricina 248753'
+		'Glossophaga soricina 248751'
+		'Glossophaga soricina 248749'
+		'Glossophaga soricina 248747'
+		'Glossophaga soricina 247959'
+		'Glossophaga soricina 247958'
+		'Glossophaga soricina 247953'
+		'Glossophaga soricina 247951'
+		'Noctilio albiventris 209242'
+		'Noctilio albiventris 209243'
+		'Noctilio albiventris 209244'
+		'Noctilio albiventris 210665'
+		'Noctilio albiventris 210664'
+		'Noctilio albiventris 210663'
+		'Noctilio albiventris 210593'
+		'Noctilio albiventris 210592'
+		'Noctilio albiventris 210591'
+		'Noctilio albiventris 210589'
+		'Noctilio albiventris 210587'
+		'Noctilio albiventris 210586'
+		'Noctilio albiventris 210583'
+		'Noctilio albiventris 210579'
+		'Noctilio albiventris 210578'
+		'Noctilio albiventris 210577'
+		'Noctilio albiventris 210575'
+		'Noctilio albiventris 210574'
+		'Noctilio albiventris 209252'
+		'Noctilio albiventris 209247'
+		'Molossus molossus 263275'
+		'Molossus molossus 263276'
+		'Molossus molossus 263277'
+		'Molossus molossus 264100'
+		'Molossus molossus 267250'
+		'Molossus molossus 264703'
+		'Molossus molossus 264702'
+		'Molossus molossus 264701'
+		'Molossus molossus 264700'
+		'Molossus molossus 264699'
+		'Molossus molossus 264698'
+		'Molossus molossus 264697'
+		'Molossus molossus 264102'
+		'Molossus molossus 264099'
+		'Molossus molossus 264098'
+		'Molossus molossus 263284'
+		'Molossus molossus 263281'
+		'Molossus molossus 263280'
+		'Molossus molossus 263279'
+		'Molossus molossus 263278'
+		'Mormoops megalophylla 25093'
+		'Mormoops megalophylla 25124'
+		'Mormoops megalophylla 27300'
+		'Mormoops megalophylla 204473'
+		'Mormoops megalophylla 205347'
+		'Mormoops megalophylla 205346'
+		'Mormoops megalophylla 205345'
+		'Mormoops megalophylla 205344'
+		'Mormoops megalophylla 205343'
+		'Mormoops megalophylla 205342'
+		'Mormoops megalophylla 205341'
+		'Mormoops megalophylla 204472'
+		'Mormoops megalophylla 190139'
+		'Mormoops megalophylla 190138'
+		'Mormoops megalophylla 177424'
+		'Mormoops megalophylla 177423'
+		'Mormoops megalophylla 145008'
+		'Mormoops megalophylla 145007'
+		'Mormoops megalophylla 144994'
+		'Mormoops megalophylla 27305'
+		'Saccopteryx bilineata 209222'
+		'Saccopteryx bilineata 209219'
+		'Saccopteryx bilineata 209220'
+		'Saccopteryx bilineata 210488'
+		'Saccopteryx bilineata 267378'
+		'Saccopteryx bilineata 267057'
+		'Saccopteryx bilineata 265966'
+		'Saccopteryx bilineata 262419'
+		'Saccopteryx bilineata 210496'
+		'Saccopteryx bilineata 210494'
+		'Saccopteryx bilineata 210487'
+		'Saccopteryx bilineata 210485'
+		'Saccopteryx bilineata 210484'
+		'Saccopteryx bilineata 210472'
+		'Saccopteryx bilineata 210469'
+		'Saccopteryx bilineata 210468'
+		'Saccopteryx bilineata 210467'
+		'Saccopteryx bilineata 210466'
+		'Saccopteryx bilineata 210465'
+		'Saccopteryx bilineata 210464'
+		'Trachops cirrhosus 13278'
+		'Trachops cirrhosus 13280'
+		'Trachops cirrhosus 15286'
+		'Trachops cirrhosus 272820'
+		'Trachops cirrhosus 267936'
+		'Trachops cirrhosus 267933'
+		'Trachops cirrhosus 267930'
+		'Trachops cirrhosus 267929'
+		'Trachops cirrhosus 267928'
+		'Trachops cirrhosus 267926'
+		'Trachops cirrhosus 267442'
+		'Trachops cirrhosus 266084'
+		'Trachops cirrhosus 266081'
+		'Trachops cirrhosus 266079'
+		'Trachops cirrhosus 261378'
+		'Trachops cirrhosus 210681'
+		'Trachops cirrhosus 210680'
+		'Trachops cirrhosus 210679'
+		'Trachops cirrhosus 209351'
+		'Trachops cirrhosus 15287'
+    ;
+    ENDBLOCK;
+
+    BEGIN CHARACTERS;
+	DIMENSIONS NCHAR=43;
+	FORMAT DATATYPE=STANDARD GAP=- MISSING=? SYMBOLS="01234";
+	CHARLABELS
+		 [1] 'Upper I1 presence'
+		 [2] 'Upper I2 presence'
+		 [3] 'Relative proportions of I1 and I2'
+		 [4] 'Diastema between I2 and C'
+		 [5] 'Upper P1 presence'
+		 [6] 'Upper P4 presence'
+		 [7] 'Relative crown height of P4 and P5'
+		 [8] 'Diastema between P4 and P5'
+		 [9] 'Diastema between P5 and M1'
+		 [10] 'Upper M1 and M2 ectoloph'
+		 [11] 'Diastema between M1 and M2'
+		 [12] 'M3 presence'
+		 [13] 'M3 ectoloph'
+		 [14] 'Nasal bones, profile in lateral view'
+		 [15] 'Nasal foramina'
+		 [16] 'Rostrum, degree of upturning'
+		 [17] 'Rostrum breadth'
+		 [18] 'Rostrum length'
+		 [19] 'Infraorbital foramen, size'
+		 [20] 'Infraorbital foramen, location'
+		 [21] 'Anterior rim of orbit, position'
+		 [22] 'Postorbital process'
+		 [23] 'Zygomatic arch'
+		 [24] 'Zygomatic breadth'
+		 [25] 'Parietal inflation'
+		 [26] 'Sagittal crest, presence'
+		 [27] 'Nuchal crest, presence'
+		 [28] 'Premaxilla orthoclivous or proclivous'
+		 [29] 'Premaxilla nasal process, development and type of articulation with maxilla'
+		 [30] 'Premaxilla nasal process, dorsal pad-like flange presence'
+		 [31] 'Premaxilla nasal process, maxilloincisive suture termination'
+		 [32] 'Premaxilla nasal process, lateral expansion'
+		 [33] 'Premaxilla nasal process, twisting of medial edge.'
+		 [34] 'Premaxilla interincisive crest presence'
+		 [35] 'Medial accessory palatine foramen presence'
+		 [36] 'Hard palate, posterior extent'
+		 [37] 'Pterygoid lamina, inflation'
+		 [38] 'Pars cochlearis of petrosal, articulation with basisphenoid'
+		 [39] 'Cochlea phanerocholear or cryptocochlear'
+		 [40] 'Ectotympanic, bulla extent over cochlea'
+		 [41] 'Ectoympanic, lateral process'
+		 [42] 'Basisphenoid, presence of grooves or pits'
+		 [43] 'Basioccipital, anterior constriction'
+	;
+	STATELABELS
+		1
+		'I1 present'
+		'I1 absent'
+		,
+		2
+		'I2 present'
+		'I2 absent'
+		,
+		3
+		'I1 distinctly larger than I2'
+		'I1 and I2 subequal'
+		,
+		4
+		'Diastema absent'
+		'Diastema present'
+		,
+		5
+		'P1 present'
+		'P1 absent'
+		,
+		6
+		'P4 present'
+		'P4 absent'
+		,
+		7
+		'P4 and P5 subequal in height'
+		'Height of P4 less than one half the height of P5'
+		,
+		8
+		'Diastema absent'
+		'Diastema present'
+		,
+		9
+		'Diastema absent'
+		'Diastema present'
+		,
+		10
+		'M1 and M2 with W-shaped ectoloph'
+		'W-shaped ectoloph absent'
+		,
+		11
+		'Diastema absent'
+		'Diastema present'
+		,
+		12
+		'M3 present'
+		'M3 absent'
+		,
+		13
+		'Ectoloph fully W-shaped'
+		'Ectoloph V-shaped with additional crest running from buccal edge of tooth to lingual'
+		'Ectoloph V-shaped'
+		,
+		14
+		'Nasal flat or convex upward'
+		'Concave upward'
+		,
+		15
+		'Nasal foramina small or absent'
+		'Pair of large nasal foramina present in posterior nasal region below forehead'
+		,
+		16
+		'Rostrum not upturned, less than 10 degrees'
+		'Rostrum slightly upturned, 13 to 26 degrees'
+		'Rostrum strongly upturned, 28 to 34 degrees'
+		,
+		17
+		'Maximum rostral breadth less than or equal to length of maxillary toothrow'
+		'Greater than length of maxillary toothrow'
+		,
+		18
+		'Rostrum length less than one-half total length of skull'
+		'Equal to or greater than one-half total length of skull'
+		,
+		19
+		'Small, height less than or equal to 10 percent of the height of the rostrum'
+		'Enlarged, height between eleven and seventeen percent of the height of the rostrum'
+		'Greatly enlarged, greater than or equal to eighteen percent of the height of the rostrum'
+		,
+		20
+		'Above posterior P4'
+		'Above anterior half of P5'
+		'Above posterior half of P5'
+		'Above anterior half of M1'
+		,
+		21
+		'Above posterior half of P5'
+		'Above anterior half of M1'
+		'Above posterior half of M1'
+		'Above anterior half of M2'
+		,
+		22
+		'Absent'
+		'Well-developed postorbital process present'
+		,
+		23
+		'Complete'
+		'Incomplete'
+		,
+		24
+		'Zygomatic breadth greater than mastoid breadth'
+		'Less than mastoid breadth'
+		,
+		25
+		'Parietals not inflated'
+		'Parietals inflated in area encasing cerebellum'
+		,
+		26
+		'Sagittal crest absent'
+		'Sagittal crest present'
+		,
+		27
+		'Nuchal crest absent'
+		'Nuchal crest present'
+		,
+		28
+		'Orthoclivous, does not extend anteriorly beyond the level of the canine root'
+		'Proclivous, extending anteriorly beyond the level of the canine root'
+		,
+		29
+		'Nasal process well developed and fused to rostral process of maxilla'
+		'Nasal process reduced caudally, attached to maxilla via ligaments to produce a "freely moveable" premaxilla'
+		,
+		30
+		'Absent'
+		'Dorsal pad-like flange present, formed by widening of the dorsal end of the nasal process both medially and caudally.'
+		,
+		31
+		'Ventrolateral end of suture lies in same plane as upper alveolar line; no notch in front of upper canine'
+		'Suture ends well above alveolar line, resulting in a notch between the premaxilla and maxilla in front of the upper canine'
+		,
+		32
+		'Absent'
+		'Lateral expansion present'
+		,
+		33
+		'Medial edge nearly straight, not twisted'
+		'Medial edge twisted so that the nasal process appears flattened dorsoventrally at its proximal end and flattened lateromedially at its distal end'
+		,
+		34
+		'Absent'
+		'Interincisive crest present'
+		,
+		35
+		'Absent'
+		'Medial accessory palatine foramen present'
+		,
+		36
+		'Hard palate extends posteriorly into interorbital region'
+		'Hard palate terminates at the level of the zygomatic roots'
+		,
+		37
+		'Pterygoid lamina thin and sheetlike'
+		'Pterygoid lamina grealy inflated posterior to the anterior margin of the mandibular fossa'
+		,
+		38
+		'Pars cochlearis sutured to basisphenoid'
+		'Pars cochlearis loosely attached to basisphenoid via ligaments and thin splints of bone'
+		,
+		39
+		'Cryptocochlear'
+		'Phanerocochlear'
+		,
+		40
+		'Ectotympanic bulla extends across two thirds or more of cochlea'
+		'Bulla extends across one half of cochlea'
+		'Bulla extends across no more than one third of cochlea'
+		,
+		41
+		'Lateral process not well developed'
+		'Forms tubular external auditory meatus'
+		,
+		42
+		'Basisphenoid either mostly flat or with wide, shallow longitudinal furrows'
+		'With deep pits'
+		,
+		43
+		'Basioccipital not constricted, width of anterior portion 40% or more of the width of the foramen magnum'
+		'Basioccipital constricted, width of the anterior portion is 35% or less the width of the foramen magnum'
+		
+	;
+	MATRIX
+	'Artibeus jamaicensis 209619'		           000110000100-000000100000111000000000102000
+	'Artibeus jamaicensis 209627'		           000110000100-000000100000111000000000102000
+	'Artibeus jamaicensis 209628'		           000110000100-000000100000111000000000102000
+	'Artibeus jamaicensis 248133'		           000110000100-000000100000111000000000102000
+	'Artibeus jamaicensis 248132'		           000110000100-000000100000111000000000102000
+	'Artibeus jamaicensis 210923'		           000010000100-000000100000111000000000102000
+	'Artibeus jamaicensis 210892'		           000110000100-000000100000111000000000102000
+	'Artibeus jamaicensis 248130'		           000010000100-000000100000111000000000102000
+	'Artibeus jamaicensis 210888'		           000110000100-000000100000111000000000102000
+	'Artibeus jamaicensis 210871'		           000010000100-000000100000111000000000112000
+	'Artibeus jamaicensis 210847'		           000010000100-000000100000111000000000102000
+	'Artibeus jamaicensis 209711'		           000010000100-000000100000111000000000102000
+	'Artibeus jamaicensis 209710'		           000010000100-000001100000111000000000102000
+	'Artibeus jamaicensis 209708'		           00??10000100-000000100000111000000000102000
+	'Artibeus jamaicensis 209706'		           000110000100-000000100000111000000000102000
+	'Artibeus jamaicensis 209702'		           000010000100-000001100000111000000000102000
+	'Artibeus jamaicensis 209647'		           000110000100-000000100000111000000000102000
+	'Artibeus jamaicensis 209643'		           000110000100-000000100000111000000000102000
+	'Artibeus jamaicensis 209642'		           000110000100-000000100000111000000000102000
+	'Artibeus jamaicensis 210891'		           000010000100-000000100000111000000000102000
+	'Desmodus rotundus 172294'		              01--11--01-1-010101200010001001000000101000
+	'Desmodus rotundus 172304'		              01--11--01-1-010101220010001001000000101000
+	'Desmodus rotundus 172303'		              01--11--01-1-000101210010001001000000101000
+	'Desmodus rotundus 172306'		              01--11--01-1-010101200010001001000000101000
+	'Desmodus rotundus 177836'		              01--11--01-1-010101200010001001000000101000
+	'Desmodus rotundus 177835'		              01--11--01-1-010101210010001001000000101000
+	'Desmodus rotundus 172392'		              01--11--01-1-010101200010001001000000101000
+	'Desmodus rotundus 172389'		              01--11--01-1-010101100010001001000000101000
+	'Desmodus rotundus 172388'		              01--11--01-1-000101200010001001000000101000
+	'Desmodus rotundus 172387'		              01--11--01-1-010101200010001001000000101000
+	'Desmodus rotundus 172379'		              01--11--01-1-010101200010001001000000101000
+	'Desmodus rotundus 172377'		              01--11--01-1-010101100010001001000000101000
+	'Desmodus rotundus 172349'		              01--11--01-1-010101200010001001000000101000
+	'Desmodus rotundus 172342'		              01--11--01-1-010101200010001001000000101000
+	'Desmodus rotundus 172339'		              01--11--01-1-010102200010001001000000101000
+	'Desmodus rotundus 172327'		              01--11--01-1-010101200010001001000000101000
+	'Desmodus rotundus 172323'		              01--11--01-1-010101100010001001000000101000
+	'Desmodus rotundus 172320'		              01--11--01-1-010101200010001001000000101000
+	'Desmodus rotundus 172312'		              01--11--01-1-010102200010001001000000101000
+	'Desmodus rotundus 172311'		              01--11--01-1-010101200010001001000000101000
+	'Glossophaga soricina 247926'		           001110010000000000??30000001000000100112000
+	'Glossophaga soricina 247927'		           001110010000000000??10000001000000100102000
+	'Glossophaga soricina 247948'		           001110010000000000??20000001000000100102000
+	'Glossophaga soricina 248750'		           001110000000000000??10000001000000100112000
+	'Glossophaga soricina 264594'		           0011100100000000000030000001000000100112000
+	'Glossophaga soricina 264592'		           001110000000000000??20000001000000100112000
+	'Glossophaga soricina 264591'		           001110010000000000??20000001000000100112000
+	'Glossophaga soricina 264590'		           001110010000000000??10000001000000100102000
+	'Glossophaga soricina 264586'		           0011100100000000000030000001000000100112000
+	'Glossophaga soricina 248758'		           001110010000000000??10000001000000100102000
+	'Glossophaga soricina 248757'		           001110010000000000??30000001000000100112000
+	'Glossophaga soricina 248755'		           001110000000000000??10000001000000100112000
+	'Glossophaga soricina 248753'		           0011100100000000000120000001000000100112000
+	'Glossophaga soricina 248751'		           001110010000000000??20000001000000100112000
+	'Glossophaga soricina 248749'		           001110010000000000??30000001000000100112000
+	'Glossophaga soricina 248747'		           0011100000000000000010000001000000100112000
+	'Glossophaga soricina 247959'		           0011100100000000000120000001000000100112000
+	'Glossophaga soricina 247958'		           001110010000000000??20000001000000100112000
+	'Glossophaga soricina 247953'		           001110000000000000??20000001000000100112000
+	'Glossophaga soricina 247951'		           001110010000000000??10000001000000100102000
+	'Noctilio albiventris 209242'		           000111--0000001010032000011100110-000111000
+	'Noctilio albiventris 209243'		           000111--0000001010032000011100110-000111000
+	'Noctilio albiventris 209244'		           000111--0000101010032000011100110-000111000
+	'Noctilio albiventris 210665'		           000111--0000001010031000010100110-000111000
+	'Noctilio albiventris 210664'		           000111--0000001010031000010100110-000111000
+	'Noctilio albiventris 210663'		           000111--0000001010031000010100110-000111000
+	'Noctilio albiventris 210593'		           000111--0000001010032000010100110-000111000
+	'Noctilio albiventris 210592'		           000111--0000?01010031001010100110-000111000
+	'Noctilio albiventris 210591'		           000111--0000001010031000010100110-000111000
+	'Noctilio albiventris 210589'		           000111--0000001010031000010100110-000111000
+	'Noctilio albiventris 210587'		           000111--0000001010031000010100110-000111000
+	'Noctilio albiventris 210586'		           000111--0000000010031000010100110-000111000
+	'Noctilio albiventris 210583'		           000111--0000001010032000010100110-000111000
+	'Noctilio albiventris 210579'		           000111--0000000010??2000010100110?000111000
+	'Noctilio albiventris 210578'		           000111--0000000010031000010100110-000111000
+	'Noctilio albiventris 210577'		           000111--0000001010031000010100110?000111000
+	'Noctilio albiventris 210575'		           000111--0000001010032000010100110-000111000
+	'Noctilio albiventris 210574'		           000111--0000001010031000010100110-000111000
+	'Noctilio albiventris 209252'		           000111--0000001010031000010100110-000111000
+	'Noctilio albiventris 209247'		           000111--0000001010031000011100110-000101000
+	'Molossus molossus 263275'		              01--11--0000100010232000011000000-110111000
+	'Molossus molossus 263276'		              01--11--0000100010232000011000000-010111000
+	'Molossus molossus 263277'		              01--11--0000100010232000011000000-010111000
+	'Molossus molossus 264100'		              01--11--0000200010231000011000000-010111000
+	'Molossus molossus 267250'		              01--11--0000200010232000011000000-010111000
+	'Molossus molossus 264703'		              01--11--00002000101320?0011000000-010111000
+	'Molossus molossus 264702'		              01--11--0000200010??1001011000000-010111000
+	'Molossus molossus 264701'		              01--11--0000200010221001011000000-010111000
+	'Molossus molossus 264700'		              01--11--0000200010231000011000000-010111000
+	'Molossus molossus 264699'		              01--11--0000200010231000011000000-010111000
+	'Molossus molossus 264698'		              01--11--0000200010221000011000000-010111000
+	'Molossus molossus 264697'		              01--11--0000200010121000011000000-010111000
+	'Molossus molossus 264102'		              01--11--00002000102210??011000000-010111000
+	'Molossus molossus 264099'		              01--11--0000200010221000011000000-010111000
+	'Molossus molossus 264098'		              01--11--0000200010222000011000000-010111000
+	'Molossus molossus 263284'		              01--11--0000200010221000011000000-010111000
+	'Molossus molossus 263281'		              01--11--0000200010221000011000000-010111000
+	'Molossus molossus 263280'		              01--11--0000200010221000011000000-010111000
+	'Molossus molossus 263279'		              01--11--0000200010231000011000000-010111000
+	'Molossus molossus 263278'		              01--11--0000200010231001011000000-010111000
+	'Mormoops megalophylla 25093'		           00011001000011020002200?1001000000010110000
+	'Mormoops megalophylla 25124'		           00011001000011020002100010010000000101?000?
+	'Mormoops megalophylla 27300'		           000110010000110200022000100100000001010000?
+	'Mormoops megalophylla 204473'		          0001100100001102000200001001000000010110000
+	'Mormoops megalophylla 205347'		          0001100100001102000200001001000000?10110000
+	'Mormoops megalophylla 205346'		          0001100100001102000200001001000000010110000
+	'Mormoops megalophylla 205345'		          00011001000011020002000010010000???1010000?
+	'Mormoops megalophylla 205344'		          0001100100001102000200001001000000010110000
+	'Mormoops megalophylla 205343'		          0001100100001102000200001001000000010110000
+	'Mormoops megalophylla 205342'		          000110010000110200020000100100000001011000?
+	'Mormoops megalophylla 205341'		          000110010000110200??0000100100000001010000?
+	'Mormoops megalophylla 204472'		          000110010000110200020000100100000001011000?
+	'Mormoops megalophylla 190139'		          000110010000110200020000100100000001011000?
+	'Mormoops megalophylla 190138'		          0001100100001102000200001001000000010110000
+	'Mormoops megalophylla 177424'		          0001100100001102000200001001000000010110000
+	'Mormoops megalophylla 177423'		          000110010000110200020000100100000?01010000?
+	'Mormoops megalophylla 145008'		          000110010?00?10200020000100100000?010110000
+	'Mormoops megalophylla 145007'		          000110010000110200020000100100000001011000?
+	'Mormoops megalophylla 144994'		          0001100100001102000200001001000000010100000
+	'Mormoops megalophylla 27305'		           0001100100001102000200001001000000010110000
+	'Saccopteryx bilineata 209222'		          10-101--0000000100120100011111-01--10011011
+	'Saccopteryx bilineata 209219'		          ????01--0000000100??010?010111-01--10011011
+	'Saccopteryx bilineata 209220'		          ????01--000000010012010?010111-01--10011011
+	'Saccopteryx bilineata 210488'		          10-101--0000000100110100010111-01--10011011
+	'Saccopteryx bilineata 267378'		          10-101--0000000100120100010111-01--10011011
+	'Saccopteryx bilineata 267057'		          10-101--0000000100110100010111-01--10011011
+	'Saccopteryx bilineata 265966'		          10-101--0000000100110100010111-01--10011011
+	'Saccopteryx bilineata 262419'		          10-101--0000000100110100010111-01--10011011
+	'Saccopteryx bilineata 210496'		          10-101--0000000100110100010111-01--10011011
+	'Saccopteryx bilineata 210494'		          10-101--0000000100110100010111-01--10011011
+	'Saccopteryx bilineata 210487'		          10-101--0000000100110100010111-01--10011011
+	'Saccopteryx bilineata 210485'		          10-101--0000000100110100010111-01--10011011
+	'Saccopteryx bilineata 210484'		          10-101--0000000100110100010111-01--10011011
+	'Saccopteryx bilineata 210472'		          10-101--0000000100110100010111-01--10011011
+	'Saccopteryx bilineata 210469'		          10-101--0000000100110100010111-01--10001011
+	'Saccopteryx bilineata 210468'		          10-101--0000000100110100010111-01--10011011
+	'Saccopteryx bilineata 210467'		          10-101--0000000100110100010111-01--10011011
+	'Saccopteryx bilineata 210466'		          10-101--0000000100110100010111-01--10011011
+	'Saccopteryx bilineata 210465'		          10-101--0000000100120100010111-01--10011011
+	'Saccopteryx bilineata 210464'		          ????01--0000000100110100010????????10011011
+	'Trachops cirrhosus 13278'		              0000100000002000001320000111000000100101001
+	'Trachops cirrhosus 13280'		              0000100000002000001220000111000000000101001
+	'Trachops cirrhosus 15286'		              0000100000002000001220000111000000100101001
+	'Trachops cirrhosus 272820'		             0000100000002000001210000111000000100101011
+	'Trachops cirrhosus 267936'		             0000100000002000001210000111000000100111011
+	'Trachops cirrhosus 267933'		             0000100000002000001210000111000000100101011
+	'Trachops cirrhosus 267930'		             0000100000002000001210000111000000100101011
+	'Trachops cirrhosus 267929'		             0000100000002000001210000111000000100101011
+	'Trachops cirrhosus 267928'		             0000100000002000001210000111000000100101011
+	'Trachops cirrhosus 267926'		             0000100000002000001210000111000000100101011
+	'Trachops cirrhosus 267442'		             0000100000002000001200000111000000000101011
+	'Trachops cirrhosus 266084'		             0000100000002000001210000111000000100111011
+	'Trachops cirrhosus 266081'		             0000100000002000001210000111000000100111011
+	'Trachops cirrhosus 266079'		             0000100000002000001210000111000000100111011
+	'Trachops cirrhosus 261378'		             0000100000002000001310000111000000100101011
+	'Trachops cirrhosus 210681'		             0000100000002000001210000111000000100111011
+	'Trachops cirrhosus 210680'		             0000100000002000000210000111000000100111011
+	'Trachops cirrhosus 210679'		             0000100000002000001210000111000000100111011
+	'Trachops cirrhosus 209351'		             0000100000002000001210000111000000100111011
+	'Trachops cirrhosus 15287'		              0000100000002000001310000111000000100101001
+    ;
+    ENDBLOCK;
+
+          BEGIN ASSUMPTIONS;
+      TYPESET * UNTITLED = unord: 1 - 43;
+      ENDBLOCK;
+      

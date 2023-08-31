@@ -1,0 +1,56 @@
+nstates num 2;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 18.05.57'
+20 18
+
+&[num]
+Paleolimulus_signatus                 ?000010000000?100000
+Carcinoscorpius_rotundicauda          01100000101000011001
+Crenatolimulus_paluxyensis            ??10001010100?0?00??
+Limulitella_bronni                    ??00000000????10000?
+Limulitella_vicensis                  ??10000110100?????0?
+Limulus_coffini                       ????????10111?0000??
+Limulus_decheni                       0?11100011000?0110??
+Limulus_polyphemus                    00100010101110000000
+Limulus_sp.                           ??10001010110?0000??
+Mesolimulus_crespelli                 ??1??00000100?00001?
+Mesolimulus_syriacus                  1?11100011000?01110?
+Mesolimulus_walchi                    ?010000000100?000010
+Tachypleus_gadeai                     ??11100010100?01100?
+Tachypleus_gigas                      01111000111001011001
+Tachypleus_tridentatus                11111000110001011101
+Tarracolimulus_rieki                  ??1??10000100?00000?
+Victalimulus_mcqueeni                 ?010000110100?00000?
+Yunnanolimulus_luopingensis           ??1??00000000?10000?
+
+;
+
+
+cnames
+{ 0 Carapace_anterior_margin_scalloped_in_males_raised_median_portion_flanked_by_deep_notches absent present;
+{ 1 Elongated_spine_projecting_posteriorly_from_anterior_triangular_region_of_prosomal_doublure absent present;
+{ 2 Ophthalmic_ridge_subdued_anterior_to_lateral_eyes absent present;
+{ 3 Lateral_eyes_positioned_at_apex_of_otherwise_straight_ophthalmic_ridge_angle_with_ridge_subsequently_curving_inwards absent present;
+{ 4 Spines_developed_at_posterior_termination_of_ophthalmic_ridges absent present;
+{ 5 Interophthalmic_ridges absent present;
+{ 6 Form_of_anteriorly_expanded_cardiac_lobe triangular_converging_anteriorly rectangular_margins_equilateral;
+{ 7 Cardiac_lobe_flanked_by_deep_furrows absent present;
+{ 8 Apodemes_dorsally_on_trunk_segments absent present_as_apodemal_pits;
+{ 9 Large_axial_spine_on_anterior_thoracetron_margin absent present;
+{ 10 Form_of_pleura_of_seventh_postantennular_segment projecting_beyond_trunk_margin reduced_terminating_before_trunk_margin;
+{ 11 Pleura_of_seventh_postantennular_segment_folded_back_on_themselves_pleural_spine_overlapping_trunk absent present;
+{ 12 Pleura_of_seventh_postantennular_segment_expanded_anteriorly,_resulting_in_wedge-shaped_morphology absent present;
+{ 13 Sexually_dimorphic_reduction_in_size_of_three_posterior_moveable_spine_pairs_in_female absent present;
+{ 14 Abdominal_segment_demarcated_dorsally_on_thoracetron_by_deep_groove absent present;
+{ 15 Form_of_posteriormost_tergopleurae_on_thoracetron Long_distal_angle_of_spine_less_than_60_degrees Broad_distal_angle_of_spine_equal_to_or_greater_than_90_degrees;
+{ 16 Form_of_thoracetron_telson_articulation narrow_telson_articulation_in_deep_recess broad_telson_articulation_in_broad_recess;
+{ 17 Ancillary_posterior_spines_on_pretelson_located_dorsolaterally_to_telson_insertion absent present;
+{ 18 Trunk_doublure_dorsally_delineated_by_furrow absent present;
+{ 19 Telson_with_ventral_groove absent present;
+;
+
+
+ccode  - 0.19;
+
+
+;
