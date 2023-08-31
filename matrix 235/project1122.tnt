@@ -1,0 +1,113 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 17.44.22'
+63 32
+
+&[num]
+Saramacia_lucasae                     00000-010---0001-0??0-0-??0?-000011011011010-0200200----------0
+Protimesius_longipalpis               00000-?110000001-0??0-0-??0?-??00??011011??0-0?????????????????
+Tapacochana_insignita                 01000-01??????????????????0?-010010011011010-02????0----------0
+Gryne_coccineloides                   02000-?010000001-00-0-0-??0?-000010010011010-12????0----------0
+Vonones_sayi                          02000-0110000001-00-0-0-0-0?-??00?0010021010-1200200----------0
+Pachyloides_thorellii                 02000-0110000001-00-0-0-0-02-001011011121110-0200200----------0
+Discocyrtus_prospicuus                02000-0110000001-00-0-0-??0?-001011010121110-02????0----------?
+Acanthopachylus_aculeatus             02000-0110000201-00-100-0-0?-001011011121110-0200200----------0
+Discocyrtus_oliverioi                 02000-0110000201-00-100-??0?-001020011021110-0200200----------1
+Pachyloidellus_goliath                02000-01100002?0-0??100-??0?-0010?10111211?0-0200200----------1
+Cobania_picea                         01?00-011000??????????????0?-111011011121110-0200200----------0
+Chavesincola_inexpectabilis           01000-0110003112-0110-210-02-?11011011121110-0211100----------1
+Magnispina_neptunus                   01000-0110003112-0110-210-02-111011011121110-0211000----------0
+Camarana_flavipalpi                   10000-300---0001-0??0-0-??0?-110010011021110-00----0----------2
+Cryptogeobius_crassipes               00000-010---0?????????????0?-1110110111211?0-00----0----------2
+Pachylospeleus_strinatii              03100-110---00?1-0??0-0-??0?0111010011121110-0200200----------0
+Promitobates_ornatus                  10?100100---4002000-0-0-110100100100-100-----------------------
+Longiperna_concolor                   10?100100---4002000-0-0-110100100100-100-----------------------
+Bourguyia_trochanteralis              00320010120112000010100-100?0111011011121110-0200200----------0
+Acutisoma_longipes                    1?121110111142000010101-1012111100-00112111110200200----------0
+Serracutisoma_proximum                10121110111142000010101-1012111100-00112111110200200----------0
+Mischonyx_cuspidatus                  0?0?000110000001-0??0-0-0-020001011001020-010020021111000000001
+Pseudotrogulus_funebris               000?00210---00?1-0??0-0-??0?-000110100020-01000----201000000000
+Multumbo_terrenus                     000?00210---??????????????0?-000010000020-0100200010----------0
+Neosadocus_maximus                    000100010---1100010-110-10020111020001120-010010010211010110000
+Iporangaia_pustulosa                  203200110---110012130-200-002110021001120-010010010201000110000
+Progonyleptoidellus_striatus          203200110---110012130-200-0?2111020001120-01000----0----------2
+Ampheres_leucopheus                   203200100---110012120-200-0?2111020001120-01000----2??????????0
+Gonyleptes_saprophilus                00?100010---2101-0100-210-020011020001120-01000----211102100000
+Acanthogonyleptes_pulcher             00?200010---??????????????0?0111020001021101100----210002000000
+Sodreana_leprevosti                   00?200010---??????????????0?0111020001020-01000----210120101110
+Sodreana_barbiellinii                 00?200010---??????????????0?0111020001020-01000----210121101110
+
+;
+
+
+cnames
+{ 0 Diel_activity Mainly_nocturnal Diurnal_and_nocturnal_only_during_the_reproductive_season Diurnal_and_nocturnal_throughout_most_part_of_the_year;
+{ 1 Mesohabitat Forested_areas_with_high_canopy_and_low_solar_incidence Transitional_areas,_including_forest_edges_and_secondary_forests Open_areas_with_low_vegetation_and_high_solar_incidence Caves;
+{ 2 Hiding/resting_place Among_the_leaf_litter,_under_rotten_logs_or_rocks On_or_among_boulders_at_rivers_margins Inside_natural_cavities_in_trunks_(alive_or_dead) On_the_vegetation;
+{ 3 Foraging_substrate Mainly_on_the_ground,_among_the_leaf_litter_or_on_rocks Mainly_on_low_vegetation_(up_to_1_m) Mainly_on_high_vegetation_(between_1_to_3_m);
+{ 4 Posture_of_the_pedipalps_when_individuals_are_foraging Always_retracted Often_extended_frontward;
+{ 5 Sit-and-wait_foraging_posture_in_which_the_body_hangs_between_two_leaves_or_sticks_while_legs_I_and_II_freely_flutter_about Absent Present;
+{ 6 Posture_of_femora_IV_when_females_are_prostrated Tips_of_femora_IV_convergent,_often_touching_each_other Femora_IV_crossing_each_other_at_approximately_midlength Femora_IV_more_or_less_parallel_to_each_other State_3;
+{ 7 Angle_of_femora_IV_in_relation_to_the_substrate_when_females_are_prostrated Less_than_45º Greater_than_45º;
+{ 8 Gregariousness Absent Present;
+{ 9 Aggregation_site under_rotten_logs_or_rocks on_rock_walls_(caves)_or_on_boulders_close_to_streams inside_tank_bromeliads;
+{ 10 Number_of_individuals_in_the_aggregations Few:_rarely_higher_than_20_individuals Many:_generally_higher_than_30,_reaching_more_than_200;
+{ 11 Temporal_distribution_of_the_aggregations Occur_throughout_the_year Occur_only_in_the_non-reproductive_season;
+{ 12 Oviposition_substrate On_or_under_rotten_logs_or_stones On_the_vegetation:_the_undersurface_of_leaves_or_inside_bromeliads Inside_natural_cavities_in_trunks_(alive_or_dead) Inside_natural_cavities_on_the_ground_or_roadside_banks Tree_trunks,_boulders,_undersurface_of_leaves,_or_among_moss;
+{ 13 Oviposition_pattern: From_1_to_3_eggs_individually_at_time_throughout_the_season Several_clutches_of_10-50_eggs_each_throughout_the_season One_or_two_clutches_of_50-200_eggs_each_throughout_the_season;
+{ 14 Egg_deposition_on_the_substrate_using_the_chelicerae Absent Present;
+{ 15 Egg_covering Absent Present:_females_deposit_low_quantity_of_debris Present:_females_deposit_great_quantity_of_debris;
+{ 16 Disposition_of_eggs_on_the_undersurface_of_leaves Eggs_laid_without_a_clear_pattern Eggs_laid_from_the_tip_to_the_petiole_of_the_leaf;
+{ 17 Transparent_and_hygroscopic_mucus_coat_covering_the_eggs Absent Present_as_a_thin_layer Present_as_a_thick_layer;
+{ 18 Mate_guarding_after_copulation Absent Present;
+{ 19 Mate_guarding_behavior Male_remains_behind_the_female_and_slowly_touches_her_hind_leg Male_remains_behind_the_female_and_rapidly_touches_her_body Male_stands_behind_the_female_and_grasps_her_body Male_remains_on_the_clutch_in_front_of_the_female;
+{ 20 Maternal_care Absent Present;
+{ 21 Time_the_female_stays_with_the_clutch The_female_stays_all_the_time_on_the_clutch The_female_leaves_the_clutch_regularly;
+{ 22 Paternal_care Absent Present,_but_facultative Present_and_obligatory;
+{ 23 Time_the_male_stays_with_the_clutch_in_species_with_obligatory_paternal_care the_male_leaves_his_clutch_frequently the_male_stays_on_his_clutch_all_the_period;
+{ 24 Defense_of_harems_by_males Absent Present;
+{ 25 Types_of_harems harems_containing_caring_females harems_containing_females_that_do_not_care_for_the_eggs;
+{ 26 Male_fights_using_legs_II_to_hit_the_legs_II_of_the_opponent Absent Present;
+{ 27 Male_fights_using_legs_IV Absent Males_use_their_legs_IV_to_hit_the_legs_IV_of_the_opponent Males_use_their_legs_IV_to_pinch_the_legs_IV_of_the_opp.;
+{ 28 Falling_from_elevated_substrates Absent Present,_immediate_voluntary_falling Present,_rapid_movement,_followed_by_falling;
+{ 29 Males_attack_with_chelicerae_and_pedipalps_when_handled Absent_or_in_low_frequency_(<20%_of_the_sampled_individuals) Present_or_in_high_frequency_(>30%_of_the_sampled_individuals);
+{ 30 Females_attack_with_chelicerae_and_pedipalps_when_handled Absent_or_in_low_frequency_(<20%_of_the_sampled_individuals) Present_or_in_high_frequency_(>30%_of_the_sampled_individuals);
+{ 31 Nipping Absent Present;
+{ 32 Stridulation Absent Present;
+{ 33 Thanatosis Absent Present_under_stimuli_(a)_and_(b) Present_only_under_stimulus_(a);
+{ 34 Thanatosis_with_legs_retracted Absent Present;
+{ 35 Deposition_of_debris_on_the_body Absent:_the_individuals_are_never_covered_with_debris Present:_debris_cover_all_dorsal_scute;
+{ 36 Emission_of_enteric_fluid_prior_to_scent_gland_secretions Facultative Obligatory;
+{ 37 Displacement_of_enteric_fluid_along_tegumentary_channels Absent Present;
+{ 38 Emission_of_scent_gland_secretions_when_seized_on_femur_IV Absent Present;
+{ 39 Emission_of_scent_gland_secretions_when_gently_pressed_dorso-ventrally Never Low_frequency:_less_than_20% High_frequency:_more_than_30%;
+{ 40 Emission_of_scent_gland_secretions_in_droplets Absent Present;
+{ 41 Displacement_of_droplets_of_scent_gland_secretions Along_tegumentary_channels_between_the_base_of_legs_I_and_II Along_tegumentary_channels_on_the_dorsal_scute;
+{ 42 Accumulation_of_droplets_of_scent_gland_secretions_on_the_ventral_part_of_the_body Absent Present;
+{ 43 Release_of_scent_gland_secretions_in_a_jet Absent Present;
+{ 44 Release_of_a_jet_of_scent_gland_secretions_directed_to_the_aggressor Absent Present;
+{ 45 Leg_dabbing Absent Present;
+{ 46 Relative_frequency_of_1,4-benzoquinones Absent Present_in_low_concentration_(<10%) Present_in_high_concentration_(>80%);
+{ 47 Molecules_of_2-ethyl-1,4-benzoquinone Absent Present;
+{ 48 Molecules_of_2-methyl-1,4-benzoquinone Absent Present;
+{ 49 Relative_frequency_of_molecules_of_2,3-ethyl-1,4-benzoquinone Absent Present_in_low_concentration_(<10%) Present_in_high_concentration_(>30%);
+{ 50 Molecules_of_5-ethyl-2-methyl-1,4-benzoquinone Absent Present;
+{ 51 Relative_frequency_of_vinyl-ketones Absent Present_in_low_concentration_(<10%) Present_in_high_concentration_(>80%);
+{ 52 Vinyl-ketone_molecular_chain_with_six_carbons Absent Present;
+{ 53 Vinyl-ketone_molecular_chain_with_seven_carbons Absent Present;
+{ 54 Molecules_of_1-hexen-3-one Absent Present;
+{ 55 Molecules_of_5-methyl-1-hexen-3-one Absent Present_in_low_concentration_(<10%) Present_in_high_concentration_(>30%);
+{ 56 Molecules_of_4-methyl-1-hexen-3-one Absent Present_in_low_concentration_(<10%) Present_in_high_concentration_(>30%);
+{ 57 Dimerization_of_vinyl-ketone_molecules Absent Present;
+{ 58 Molecules_of_1-(6-butyl-3,4-dihydro-2H-pyran-2-yl)pentanone Absent Present;
+{ 59 Dimer_1_of_the_molecules_5-methyl-1-hexen-3-one_and_1-hexen-3-one Absent Present;
+{ 60 Dimer_2_of_the_molecules_5-methyl-1-hexen-3-one_and_1-hexen-3-one Absent Present;
+{ 61 Dimer_of_the_molecule_5-methyl-1-hexen-3-one Absent Present;
+{ 62 Relative_frequency_of_alkyl-phenols Absent Present_in_low_concentration_(<10%) Present_in_high_concentration_(>80%);
+;
+
+
+ccode  - 0.62;
+
+
+;
