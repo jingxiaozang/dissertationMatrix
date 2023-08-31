@@ -1,0 +1,55 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 18.33.22'
+13 24
+
+&[num]
+Artibeus_jamaicensis               000110000100-
+Aselliscus_tricuspidatus           01--01--00000
+Cynopterus_sphinx                  0011000111-1-
+Desmodus_rotundus                  01--11--01-1-
+Furipterus_horrens                 0011100000001
+Glossophaga_soricina               0011100100000
+Hipposideros_diadema               01--01--00002
+Kerivoula_hardwickii               0000000000001
+Lavia_frons                        11--11--00002
+Miniopterus_schrebersii            0011100000001
+Myotis_lucifugus                   0011001000000
+Natalus_stramineus                 0011000000000
+Noctilio_albiventris               000111--00000
+Nycteris_thebaica                  001111--00002
+Nyctimene_albiventer               01--000111-1-
+Molossus_molossus                  01--11--00002
+Mormoops_megalophylla              0001100100001
+Pteropus_vampyrus                  0011?0011111-
+Rhinolophus_affinis                01--01--00000
+Rhinolophus_ferrumequinum          01--01--00000
+Saccopteryx_bilineata              10-101--00000
+Taphozous_melanopogon              01--01--00012
+Trachops_cirrhosus                 0000100000002
+Thyroptera_tricolor                0001000000001
+
+;
+
+
+cnames
+{ 0 Upper_I1_presence I1_present I1_absent;
+{ 1 Upper_I2_presence I2_present I2_absent;
+{ 2 Relative_proportions_of_I1_and_I2 I1_distinctly_larger_than_I2 I1_and_I2_subequal;
+{ 3 Diastema_between_I2_and_C Diastema_absent Diastema_present;
+{ 4 Upper_P1_presence P1_present P1_absent;
+{ 5 Upper_P4_presence P4_present P4_absent;
+{ 6 Relative_crown_height_of_P4_and_P5 P4_and_P5_subequal_in_height Height_of_P4_less_than_one_half_the_height_of_P5;
+{ 7 Diastema_between_P4_and_P5 Diastema_absent Diastema_present;
+{ 8 Diastema_between_P5_and_M1 Diastema_absent Diastema_present;
+{ 9 Upper_M1_and_M2_ectoloph M1_and_M2_with_W-shaped_ectoloph W-shaped_ectoloph_absent;
+{ 10 Diastema_between_M1_and_M2 Diastema_absent Diastema_present;
+{ 11 M3_presence M3_present M3_absent;
+{ 12 M3_ectoloph Ectoloph_fully_W-shaped Ectoloph_V-shaped_with_additional_crest_running_from_buccal_edge_of_tooth_to_lingual Ectoloph_V-shaped;
+;
+
+
+ccode  - 0.12;
+
+
+;

@@ -1,0 +1,257 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 18.32.30'
+178 61
+
+&[num]
+Amia_calva                              01000-00002?-0021000000010100?032-00020000030011000000101000013100001000000100010000000000???0000000100-000000000010000110012100100200000010014------00100-0011112?0-0100121022--0
+Amia_pattersoni                         01010-0000??-0???000?000101000032-000?000?03001?0000001010000131000010000001?0???0000????0???0000000?00-000000?0001000011001210010??00000010014------00100-001111220-0100121022--?
+Lepisosteus_osseus                      00000-00000-000?2000201010110010000002?040001101000100011200---103001000000000010?000100010--20000?0100-000000000000100100001000?00200000000104------00100-001000022-2100121020--0
+Obaichthys_decoratus                    00000-000????0??100?201000110010000????04000?1010?01000012?0---??30010000000?0?????0?????10--20?000?100-00000000000010??0000??????0?00000?001?4------0?--0-0?1?000??-?1??121?20--?
+Aspidorhynchus_acutirostris             ?0011000001?00??100??1001010?00110000010000011110001002012?021111011-?0??001000?0??0?????00--00?00???0??000?00?1001010??0000?100100?000011000430?000012100-01000?0?0?0000010020--?
+Belonostomus_tenuirostris               -0011000001?00???000?1??1010?001100?--00000011?100?1002112?001111011-?0??001000?0??0?????00--00?00???0??0?020??0001010??00002100?000000011000430?000012100-1100000?2?0000010020--?
+Hypsocormus_macrodon                    01010-1-00??00??100??001??1000012-00?100000011110??00000?3-001?1?001-???000000?1-0?002???00--00?00?110??000?0?11000001???0???00?10010002-000?04------131-----000000000-1?0?0022--?
+Mesturus_verrucosus                     -0--0-1?0?0-00???00121000101??032-0?--0??0?00?110?01002100?120?2-?01-1??000?10?01?0?0????00--0?000??000-0?0?0?0000?11?01?00?01???0??0000??00-?4------0???0-?11?1020001???0?0??0--0
+Pachycormus_macropterus                 01010-1-0?2?0?01100??001101000012-000100000011110??00000?3-001?11001-00000000001-0-002???00--00?000110??0000011100000001?00??00110010002-000?04------131-----000000000-100?0022--?
+Vinctifer_comptoni                      01011000001?030??00??1000010?0011001--00000001?10001002112?02112-0100?00?00100010110?????00--00?00???0??0002001000?010??000021?01002000000?00430-10?0?2101-010011?0000000010020--?
+Apsopelix_anglicus                      002110020?211112?001?10?02?0?113?11??01?001110?????1010000?000100200?111110010100?101????01110?0000?01111?0?1?10??10210010010100000111010100??1000100000?200?1111?1011111010001?0?
+Allothrissops_mesogaster                0021100?0?2011??0101?1?01000?013101?1011001010001?1101000010101001000110110010100010?????011100000?1110-000011100010111011011100110122010?00010001100000000110111210110110100?1010
+Anaethalion_angustus                    0021100?0???????000001001010000310?0000?0?1310001?100000000010100101-111110010?1?010?????0111000000?11110?0?01100?10001010011100?0?11?0100010?20?1000??001?11011011011100010011101
+Anaethalion_knorri                      002110000????????000?100?01000031000000?0?101000??1?000000?010100101-111110010?10010?????0111000000111??010?0??0001000101001110000011101?10?012?110000?001011011011011100010011101
+Ascalabos_voithii                       ?02110000????????00??1?0?0?0?003??0???00001010001?11000000?010100101-111111010?0?010?????011100000111110000001100010011010010100010111010000010000000000?1011001121011011010001000
+Bavarichthys_incognitus                 ?0??10020????????00????00??001?311?1--1?00??10?????1002000002010000011111100??????00?????0111000001111111?000??0??10011110011100?101110101000120110000202201101101101100001000????
+Cavenderichthys_talbragarensis          002110000????????00??1?0???0000310000001001010001?10000000?010100?000111110010?00000?????0100?00000111100?000110??10001110010100?1010001000001?0100000000101100101101101101000100?
+Brycon_meeki                            -1211111002211120001111000?0000310?01000101411111?110000?0?10012-2001111100110101?00101110?1110112011111100001100?10??011001110?100111011?0001312?0100200011101112101110?1?0021000
+Chanos_chanos                           00211311002211120001111000?0000310001010101010??1211100010011212-300?111101-10101110121110111011011?1111100201101110000?1001?1001000?2110?00033?2?0100200011101?12101100?0?0021100
+Chongichthys_dentatus                   0???10??0???11?2??????0000?0?1????????1001101?0????100?0???0001?00?1-110110?101??000?????0111000000?11100?0?0??0?0100101100111????????????0????????????0???????1??????????10??100?
+Crossognathus_sabaudians                002110020????????001??000??001131111--1?0???1???????01000000001?010??111100010100010?????01110?000?11111100?0??0?0102??110010100000111010100??1000100000220010111?101111101000100?
+Denticeps_clupeoides                    00001011110-1112100011010010?00310001000011311011211000000?0?122-20011111100101?1??0121110211101000?0?11101001100011101010010100100111010100023?220000201001111?1220111001?0021?00
+Diplomystus_dentatus                    0021100?01??1112000??1?00000?003100010000?1?1000???1000000?010100100111111?010101?00?2???0111100000?111110?00?10001100001001010110011101010001202200001010011011121011100?10021000
+Domeykos_profetaensis                   ?02?10120???1????00??1?000?0????????????0?1110?????101200??010100101-11011??101?0?20?????0111000001?0110010101?011100???1001110011011101000000200000000021011?011?00010110100?111?
+Dorsetichthys_bechei                    00010-00001?00000000010010000002000000000?1011?1??-00020000010100001-102?00000010020?????00--00000???10-0?000??0000000??0000?1000001000?000000?03?00000100001000000000011010020--?
+Engraulis_ringens                       ?02?1011110-111200001100001000032-0010003110101112110010???0001000001111110000101??012111021110100??1111101001101?1100101001?10??00112111?000231220100?01001111112101110?1?0021000
+Elops_saurus                            0021100000201112000001001010?013101000100112100111100000101000100001-112110100210110120?00111000000?11111001011011100101100121000001221100010130110000100001101?121011101010011101
+Erichalcis_arcta                        0021100?01???????001?1?00?00?003100012?0001010001??100000000101001001111110010101010?????011100100???????0000??00010????1011?110100022?11100013?120010200100101112101111?1?001?00?
+Esox_lucius                             00??1?1?00??11120010110000?0?003100010000?131?0?12110010000101110000111111011120??011210001110000001111110000110001010?01001?1001010220111000231220010200001111?121011100110021000
+Eurycormus_speciosus                    ?1?10-?0?????????00??1?000?0000?00000100??1?10?????0?02010?01010010??????00100010?20?????00--?00001?110-0000?110000000??01001100?01000001100?000??0001010001100000000001?0?012210?
+Gordichthys_conquensis                  ?00?101?0????????001?1101??0?00310000?0?1110101????1110000111112-3001111101?101??1?0?????011101001?1111000000?10??100001100101001001?1010000023?12000020000111111210110??1?0021?00
+Goulmimichthys_arambourgi               102?11120?2111?20000?1?001?0?0131111--1000121000??1101?000?00011000??1111100??1?0??0?????011100000???1??0?0?0??0?0102?0010011100??0?1111??00????01?00?20020110?1??????????100?1?0?
+Hiodon_alosoides                        1131120300??111100002101201011032-01--000113100111110000100001?2-101-110110110200?10121100111001001011-?00001110111011011001110011021?01000003301100001000011111122121100010021020
+Heterotis_niloticus                     0100100100??111210002110000001032-01--00011011010111000011000112-200?110110010101100121?10101101000?111102000110??1010101001?100100212010000044------0200001111112222110?1?0021020
+Humbertia_operta                        0001100?0?2211120000?1010000?00310001200001010001?110000001010?001001111110010101110?????0111000000?11111?0001100?100011101101000010221111000121110010200011101?121011100110011000
+Leptolepis_coryphaenoides               002110000020000?000001001000000200000001001?10??1?10?00000001010010?-1111010?0010020?????010000000??110-01000110011000?0100101000101110100000?000000000021001001001011011010001000
+Leptolepis_koonwarri                    00211000?????????00??1?0???000031000??0100101000???0000000?110100101-111111010??0000?????01?000000?1110-?00?0110??1000??1001110011010001??000110?1000000?0001001??10110??0100?1?0?
+Leptolepides_haerteisi                  00????010????????00???0110?00003010012002010?0?????0000000?010100200??1111?01000?100?????0121000000111110?000??00010201110111110?101110100000121110010?0?1001011121011110110011?0?
+Leptolepides_sprattiformis              002110010???1?12?001?10010?0000311001200201010001?1000000000101002000111110?101000001????012100000011110000001100010201110111110?101110100000121110010?001001011121011010110011100
+Luisichthysvinalaensis                  102?10020?211112?00??1?0?0?0?0?????00?0?0?1?1??????0012000001010010??11??1?01?10??20?????011100000??11100?010??0??10????1001?1000001220100000120010000001?01100?1100010?10100?111?
+Luisiella_feruglioi                     00211000?????????00??1?0???0000310000001001010001?10000000?010100101-111110010000010?????01?10000011110-000001100?10001?10010100010100010?0001?0100000000?00100101101101101000100?
+Lycoptera_middendorfi                   002110000????????000?100201010032-001000001?1001???0002010000011010??11??10010000000?????011100000??110-00000??0??10100?1001110010021?0?000001101000001?000111111?2121100010021020
+Megalops_atlanticus                     0021100000201112000001001010?01310000010001110?11110000000?010100001-11211000011-?1012000011100000???1??10010110111001??100111001?0112110001013011000010?001101?1?101110?0?0011101
+Notelops_brama                          102111020?2111?20000??0001?001131111--10001211001?10002000?00021000011101100?0110100?????01110000010110-00000??0?01021101001110001012101110002??210000?0220010111210110?00000?100?
+Oncorhynchus_mykiss                     002110?1002211120000110100?000031000100001101?0?121110001000201100001111110?10100100121110111000001?1110000101100110000?100121111010?211110001311200102000011111121011100110021000
+Opsariichthys_bidens                    1?0?100?0022111200011111001000031000100011141???1211000000111002-2001111110-1010?100101110121101120?11??10000110011000??1001?100100112110000033122010020?011101112101110?0?0021100
+Orthogonikleithrus_hoelli               ?0??1?0?0????????001??01001000031?0???00201010001?11000000?0101001001111100?1010?100?????0111000001111??0?000?10??10201110110111?101120111000131110010200100101112101110111001????
+Pachythrissops_propterus                ?0??10?00????????000???010?000?3100???0?00101??01??0?0?0?0?01?100101-?11110110?0???0?????0111000000?11110?0?11?000101111110111001102120100000?10100000000?01100100101101101001110?
+Pholidophorus_gervasutti                0?010-0????????????????????0000???000??0?000???10??0?0200?0010?00?01-?0??0100?010??0?????00--????????????0?0?0??110?00??0????1???????????????????????????????000000000?0?1?0020--?
+Pholidophorus_latiusculus               ???1??0????????????????????000?2000???0?0??????????0?0200???10?0000??????0??001??020?????00--??????????????0???0??0?0???0??0?????????????????????????????????0000000?0?0?1?0?20--?
+Protoclupea_chilensis                   00?11?020??????????????000?000?3?0?00000001010?????101200??010??0101-110111?100?0020?????011100000?1?1??01010??0111000?010011100010122010?000110010000000?011011120001??0010??111?
+Rhacolepis_buccalis                     102111120?2111?20001?10001?000131111--10001110?01?11012000000021000011111100?0100110?2???01110000010010-01000??0?0102?1?10011100000111110100?2??210000?02?0010111210111?10000?1?1?
+Santanaclupea_silvasantosi              00??101?11??22??000??1?000?0???3???????031111??012110??010?0??1?000??11?110??01?10?0?????0?110?0000?11??0?00???0??11001010010100100111?11100????22000020100110111210111?0?000?1?0?
+Siemensichthys_macrocephalus            00111?0???100001?00001?000?00?0310????0?0?1?1??11??0?0200?1010210001-?02?00000???020?????00--????????1???0?0?1?00?000???0??0?1??????00???????????????????????0000????????0?0??0--?
+Siemensichthys_siemensi                 00?1?????????????000???????00??3???00?0?0?101??????0?020?0101011000???02000?00????20?????0?????????????????0???0??000???0????????????????????????????????????0?00000????00?0??0--?
+Tharrhias_araripis                      002113110????????00??110??00000310101000111310??1?1?10001011?212-3001110100-10?011?0?????011101101101?0-0?000110??1020??10011100100???01??00023012000020?00110?1??1?11???0000?100?
+Tharsis_dubius                          0021100000201012000001000000??03100000?1001010001?10000000?0101001000111111000110020?????01110000001?110000001100010001?1001110001012211000001010000000001001001011011011010001000
+Thrissops_formosus                      ?02?12010??????2?10???00?000?0131010100?001010001?1100000000?01001001110110010100010?????01110000001110-0?0011?00010111111011100?101220100000100001?000000?11011121011011010011?00
+Thymallus_thymallus                     00211001002211120000110?0010?0031000000001101?0?121110001000101?01001111110?10100100121110111000001?1110000001100110000?100121010010221111000131120?102000?1111?12101110?1?0021000
+Umbra_krameri                           00--101?00221112001011?00010?0?310001-00001010111211000000010012-200111110001110?10112111011110000011?11?100011000101001100101001000120111?00231220?102000?1101?12222110?111021000
+Varasichthys_ariasi                     002110020???1112?00???0002?0?0?210?000000?1?10??1??001200000101101001111101010000020?????011100000?10110011100?011100111100111?0100212010??00300000?00?000?110011100010?1010001110
+
+;
+
+
+cnames
+{ 0 Suture_between_left_and_right_frontal_bones smooth_(harmonic_suture) serrated;
+{ 1 Anterior_margin_of_frontal narrower_than_posterior_margin of_similar_width_or_slightly_wider_than_posterior_margin;
+{ 2 Shape_of_nasal_bones flat,_approximately_rectangular flat,_triangular tubular_but_straight tubular_and_strongly_curved;
+{ 3 Relationship_between_left_and_right_nasal_bones in_contact_along_the_midline_ separated;
+{ 4 Supraoccipital_bone absent present;
+{ 5 Supraoccipital_crest absent_or_poorly_developed well-developed,_spine-like_supraoccipital_crest well-developed,_high_and_triangular_supraoccipital_crest hypertrophied,_forming_a_pectinate_blade;
+{ 6 Condition_of_skull_roof medioparietal lateroparietal;
+{ 7 Relative_size_of_the_extraescapular_bone/s quadrangular_or_semicircular_not_expanded_caudally tubular_shape approximately_triangular,_expanded_caudally expanded_rostrally;
+{ 8 Recessus_lateralis absent present;
+{ 9 Ossified_bulla_in_the_prootic_bone absent present;
+{ 10 Posttemporal_fossa absent present_and_separated_from_the_fossa_Bridgei present_and_confluent_with_the_fossa_Bridgei;
+{ 11 Bones_participating_in_the_posttemporal_fossa epiotic,_pterotic_and_exoccipital epiotic,_pterotic,_exoccipital_and_intercalar epiotic,_pterotic_and_parietal;
+{ 12 Position_of_the_foramen_for_the_glossopharyngeal_nerve in_prootic_bone in_exoccipital_bone in_basioccipital_bone;
+{ 13 Position_of_the_foramen_for_the_vagus_nerve between_the_intercalar_and_exoccipital_bones in_exoccipital_bone in_the_basioccipital between_the_intercalar_and_basioccipital_bones;
+{ 14 Foramina_in_basioccipital_for_occipital_or_spinal_arteries present absent;
+{ 15 Trajectory_of_the_dorsal_aorta_in_relation_to_the_basioccipital passing_through_an_ossified_canal_formed_by_the_basioccipital passing_through_a_median_groove_in_the_basioccipital canal_or_groove_in_the_surface_of_the_basioccipital_bone_absent;
+{ 16 Posterior_myodome extending_in_basioccipital not_extending_into_basioccipital_because_it_is_confined_to_the_prootics absent;
+{ 17 Ethmopalatine_ossifications absent present;
+{ 18 Proethmoid_ossifications absent present;
+{ 19 Independent_dermopalatine(s)_bone(s) present absent;
+{ 20 Autopalatine_bone ossifies_late_in_ontogeny ossifies_early_in_ontogeny autopalatine_bone_absent;
+{ 21 Vomer paired unpaired;
+{ 22 Basisphenoid present absent;
+{ 23 Orbitosphenoid_bone reduced_or_absent present_and_large;
+{ 24 Teeth_on_parasphenoid absent present_and_small present_and_large;
+{ 25 Posterior_extent_of_parasphenoid reaching_the_anterior_margin_of_the_basioccipital almost_reaching_the_posterior_margin_of_the_basioccipital extending_posterior_to_basioccipital;
+{ 26 Basipterygoid_process_of_parasphenoid present absent;
+{ 27 Separation_between_olfactory_organ_and_eye narrow broad;
+{ 28 Shape_of_the_most_anterior_infraorbital_bone laminar_or_plate-like tubular;
+{ 29 Fourth_and_fifth_infraorbital_bones separate fused;
+{ 30 Circumorbital_ring incompletely_closed completely_closed_ring,_no_space_left_between_bones;
+{ 31 Number_of_suborbital_bone(s) Numerous two_or_three one none;
+{ 32 Number_of_supraorbital_bone(s) two_or_more one none;
+{ 33 Shape_of_the_supraorbital_bone_(or_anterior_supraorbital_bone) not_expanded expanded_anteroventrally;
+{ 34 Dermosphenotic small large,_well-developed_bone;
+{ 35 Independent_antorbital_bone present absent;
+{ 36 Antorbital_bone carrying_a_portion_of_the_infraorbital_canal without_sensory_canal;
+{ 37 Shape_of_antorbital_bone approximately_triangular rectangular tubular_and_comma-shaped;
+{ 38 Posterior_infraorbital_bones small_and_not_overlapping_or_slightly_overlapping_the_anterior_margin_of_preopercle expanded_posterior_infraorbitals_overlapping_the_anterior_margin_of_preopercle;
+{ 39 Hyomandibular_bone_with_a_preopercular_process_at_its_posterior_margin absent present;
+{ 40 Elongation_of_suspensorium absent present,_due_to_a_lengthening_of_the_symplectic present,_due_to_the_occurrence_of_a_cartilage_between_symplectic_and_hyomandibula present,_due_to_the_ventroposterior_inclination_of_the_hyomandibula present,_due_to_the_occurrence_of_the_quadratojugal_separating_quadrate_and_sympletic;
+{ 41 Hyomandibular_articulation_with_the_neurocranium by_means_of_one_articular_surface by_means_of_two_distinct_articular_surfaces;
+{ 42 Elongate_posteroventral_process_of_quadrate absent present;
+{ 43 Shape_of_the_dorsal_margin_of_the_quadrate convex straight concave sinuous_or_sigmoid notched;
+{ 44 Symplectic articulates_with_lower_jaw does_not_articulate_with_lower_jaw;
+{ 45 Covering_by_orbital_ossifications_of_palatoquadrate_area_behind_and_below_the_orbit parcially totally;
+{ 46 Shape_of_branchiostegal_rays variable,_including_acinaciform_and_spathiform_branchiostegals uniform,_only_spathiform_branchiostegal_rays;
+{ 47 Beryciform_foramen_in_anterior_ceratohyal present absent;
+{ 48 Number_of_hypohyal_ossifications one_pair two_pairs;
+{ 49 Trajectory_of_the_hyoidean_artery_in_relation_to_the_hypohyals not_piercing_hipohyal it_pierces_both_dorsal_and_ventral_hypohyals it_pierces_only_the_ventral_hypohyal;
+{ 50 Urohyal_formed_as_an_unpaired_tendon-bone absent present;
+{ 51 Gular_plate present absent;
+{ 52 Suprapreopercle absent present;
+{ 53 Ventroposterior_(excluding_dorsal_limb)_region_of_preopercle narrow_or_slightly_expanded broadly_expanded;
+{ 54 Shape_of_preopercle "L"_shaped,_with_tapering_ends crescent-shaped,_long_and_narrow triangular;
+{ 55 Interopercle present absent;
+{ 56 anteroventral_corner_of_the_opercle anteroventral_corner_of_70° anteroventral_corner_of_more_than_70°;
+{ 57 Relative_position_of_premaxillary_bones forming_part_of_the_tip_of_the_snout,_in_contact_with_each_other_at_the_midline forming_part_of_the_tip_of_the_snout_but_slightly_separated_by_ethmoidal_ossifications constituting_the_main_element_of_an_elongated_snout,_in_contact_with_each_other_at_the_midline laterally_placed_and_not_forming_part_of_the_tip_of_the_snout,_separated_by_ethmoidal_ossifications;
+{ 58 Premaxillary_ascending_process absent present;
+{ 59 Maxillary_teeth present absent;
+{ 60 Ventral_margin_of_maxilla straight_or_almost_straight slightly_convex slightly_concave;
+{ 61 Shape_of_the_maxilla_(excluding_articular_process) uniformly_deep approximately_triangular bulbous;
+{ 62 Shape_of_the_posterior_border_of_the_maxilla concave convex_or_straight acute notched;
+{ 63 Number_of_supramaxillary_bones two one none;
+{ 64 Relative_position_of_supramaxilla(ae) placed_dorsal_to_the_dorsal_margin_of_maxilla placed_posterodorsal_to_the_maxilla;
+{ 65 Quadrate-mandibular_articulation posterior_to_orbit placed_below_the_posterior_half_of_orbit placed_below_anterior_half_of_orbit anterior_to_orbit;
+{ 66 Predentary_bone absent present;
+{ 67 Independent_retroarticular_bone present absent;
+{ 68 Retroarticular_and_quadrato-mandibular_joint retroarticular_included_in_the_joint_facet_for_quadrate retroarticular_excluded_from_the_joint_facet_for_quadrate;
+{ 69 Coronoid_bone(s)_in_lower_jaw present absent;
+{ 70 Surangular_bone_in_lower_jaw present absent;
+{ 71 Independent_articular_bone present absent,_fused_with_angular absent,_fused_with_angular_and_retroarticular;
+{ 72 Prearticular_bone_in_lower_jaw present absent;
+{ 73 Postarticular_process_of_lower_jaw poorly_developed well_developed,_extending_posterior_to_the_articular_facet_for_quadrate;
+{ 74 Characteristic_notch_(so-called_leptolepid_notch)_in_the_anterodorsal_ascending_margin_of_the_dentary absent present;
+{ 75 Marginal_dentition_on_the_jaws uniform variable;
+{ 76 Condition_of_cephalic_sensory_canals with_branched_tubules with_simple_tubules;
+{ 77 Cephalic_sensory_canal_components continuous interrupted_between_them;
+{ 78 Middle_pit_line leaving_a_groove_or_pore-line_on_the_parietal_and_pterotic_(or_dermopterotic) leaving_a_groove_or_pore-line_on_the_parietal_only leaving_no_trace_on_the_bones;
+{ 79 Relative_association_of_the_ethmoidal_commisure_and_ossifications_of_the_ethmoidal_region not_associated,_there_is_no_trace_of_an_ethmoidal_commissure the_ethmoidal_commissure_is_completely_bone-enclosed_in_a_canal;
+{ 80 Relative_position_of_supratemporal_commisure it_pierces_extrascapular_bones it_pierces_parietal_bones_only,_or_parietals_and_supraoccipital;
+{ 81 Parietal_portion_of_supraorbital_sensory_canal present absent;
+{ 82 Composition_of_preopercular_sensory_canal four_or_less,_short_simple_tubules seven_or_eight_(up_to_10),_short_simple_or_branched_tubules 12_or_more_long,_simple_or_branched_tubules;
+{ 83 Mandibular_canal enclosed_in_bone_along_the_whole_lower_jaw partially_running_in_a_tube_bone_and_a_groove;
+{ 84 Endoskeletal_basihyal absent present;
+{ 85 Covering_of_basibranchials_1_?_3_by_tooth_plates not_covered,_basibranchials_tooth_plates_absent basibranchials_overlain_by_paired_distributed_tooth_plates basibranchials_overlain_by_median_tooth_plates;
+{ 86 Tooth_plate(s)_associated_(attached,_ankylosed_or_fused)_to_pharyngobranchial_1 present absent;
+{ 87 Tooth_plate(s)_associated_(attached_or_fused)_to_pharyngobranchial_2 present absent;
+{ 88 Tooth_plate(s)_associated_(attached_or_fused)_to_pharyngobranchial_3 present absent;
+{ 89 Types_of_vertebral_centra amphicoelous opistocoelus;
+{ 90 Composition_of_caudal_vertebral_centra mineralized_chordacentrum_and_arcocentra chordacentrum_and_basal_part_of_arcocentra_surrounded_by_autocentrum basal_part_of_arcocentra_surrounded_by_autocentrum;
+{ 91 Relative_condition_of_midcaudal_vertebrae_autocentrum thin_and_smooth thick_and_sculptured thick_and_smooth;
+{ 92 Relationship_between_autocentrum_of_midcaudal_vertebrae_and_notochord autocentrum_not_constricting_or_slightly_constricting_the_notochord autocentrum_strongly_constricting_the_notochord;
+{ 93 Relationship_between_abdominal_neural_arches_and_vertebral_centra unfused fused,_except_for_the_first_five_or_six all_abdominal_neural_arches_fused;
+{ 94 Relative_condition_of_the_neural_arches_of_the_anterior_abdominal_vertebral_centra_(3_to_5) separated_from_each_other in_contact,_abutting_each_other;
+{ 95 Number_of_neural_spines_in_each_abdominal_vertebra two one;
+{ 96 Scaphium absent present;
+{ 97 Shape_of_proximal_portion_of_first_pleural_rib_(on_third_vertebral_centrum) narrow slightly_expanded greatly_expanded,_forming_the_tripus;
+{ 98 Relative_shape_of_abdominal_neural_arches_(lateral_view) tapering_distally distally_expanded,_hourglass-shaped;
+{ 99 Number_of_transitional_vertebrae_(between_abdominal_and_caudal_regions) four_or_more three_or_less;
+{ 100 Supraneural_bones absent present;
+{ 101 Epineural_bones absent present;
+{ 102 Epipleural_bones absent present;
+{ 103 Position_of_epipleural_bones_relative_to_the_column located_in_anterior_caudal_region located_in_abdominal_and_anterior_caudal_region;
+{ 104 Series_of_dorsal_intermuscular_bones_in_caudal_region absent present;
+{ 105 Relationship_between_lateral_line_system_and_supracleithrum emerging_at_its_upper_half emerging_at_its_posteroventral_margin lateral_line_not_piercing_the_supracleithrum;
+{ 106 Postsupracleitrum absent present;
+{ 107 Postcleitra one_to_three four_or_more none;
+{ 108 Relative_position_of_coracoid_bones separated_from_each_other_at_the_midline contacting_each_other_forming_a_midventral_coracoid_symphisys;
+{ 109 Relationship_between_pectoral_propterygium_and_first_pectoral_ray unfused,_propterygium_free fused;
+{ 110 Number_of_proximal_pectoral_radials five_or_more four_or_less;
+{ 111 Bifurcation_pattern_of_pectoral_fin_rays symmetric asymmetric,_resulting_in_two_unequal_secondary_rays;
+{ 112 Pectoral_axillary_process absent present;
+{ 113 Pelvic_axillary_process absent present;
+{ 114 Fringing_fulcra_on_pectoral_fins present absent;
+{ 115 Abdominal_scutes absent present;
+{ 116 Position_of_dorsal_fin_origin_relative_to_the_origin_of_the_pelvic_fin posterior,_located_above_boundary_between_abdominal_and_caudal_regions posterior,_located_above_caudal_region anterior;
+{ 117 Shape_of_dorsal_fin_margin straight_or_slightly_convex concave;
+{ 118 Condition_of_first_dorsal_proximal_pterygiophore single_structure bipartite_or_tripartite;
+{ 119 Relationship_between_first_dorsal_proximal_pterygiophore_and_dorsal_fin_rays it_articulates_with_dorsal_procurrent_rays_and_first_dorsal_ray it_articulates_with_procurrent_rays_only;
+{ 120 Fringing_fulcra_on_leading_margin_of_dorsal_fin present absent;
+{ 121 Shape_of_anal_fin_margin straight_or_slightly_convex falcate,_concave;
+{ 122 Relative_position_of_first_anal_proximal_pterygiophore placed_anterior_to_fourth_haemal_spine_in_the_transitional_portion_of_the_column placed_posterior_to_fourth_haemal_spine_in_the_caudal_portion_of_the_column;
+{ 123 Fringing_fulcra_on_leading_margin_of_anal_fin present absent;
+{ 124 Number_of_vertebrae_(including_preural_centrum_1) less_than_45 45_to_65 more_than_65;
+{ 125 Number_of_neural_spines_in_each_caudal_vertebra two one;
+{ 126 Shape_of_neural_spines_from_preural_caudal_vertebrae_3-5 narrow,_without_outgrowths distally_expanded_by_anterior_and_posterior_membranous_outgrowths;
+{ 127 Angle_formed_between_neural_spine_and_dorsal_margin_of_third_preural_vertebral_centrum_(Pu3) less_than_45° more_than_45°;
+{ 128 Relative_length_of_neural_spine_on_second_preural_centrum_(Pu2) shorter_than_neural_spine_on_third_preural_centrum as_long_as_neural_spine_on_third_preural_centrum New_state;
+{ 129 Anterior_processes_on_caudal_preural_neural_and_haemal_arches absent present;
+{ 130 Neural_arch_on_preural_centrum_1_(Pu1) present_and_well_developed_present_and_well_developed absent_or_greatly_reduced;
+{ 131 Neural_spine_on_preural_centrum_1_(Pu1) absent present_and_short present_and_long,_close_to,_or_reaching_the_dorsal_margin_of_the_body;
+{ 132 Condition_of_preural_haemal_arches_(excluding_centrum_Pu1)_in_relation_to_their_respective_centra unfused laterally_fused medially_fused,_laterally_unfused;
+{ 133 Relationship_between_parhypural_and_centrum_Pu1 unfused laterally_fused medially_fused,_laterally_unfused;
+{ 134 Hypurapophysis absent present;
+{ 135 Number_of_ural_centra three_or_more two none;
+{ 136 Neural_arch_on_first_ural_centrum present absent;
+{ 137 Neural_spine_on_first_ural_centrum present absent;
+{ 138 Uroneural_cartilage absent present;
+{ 139 Compound_cartilaginous_neural_arch_over_preural_centrum_1_and_first_ural_centrum absent present;
+{ 140 Origin_of_ural_centra from_an_expansion_of_ventral_arcualia_(occasionally_dorsal_arcualia_too) from_an_expansion_of_dorsal_arcualia_only;
+{ 141 Number_of_epurals four_or_more three two one none;
+{ 142 Number_of_uroneurals seven_or_more six five_or_four three_or_less none;
+{ 143 Arrangement_of_uroneural_bones forming_a_uniform_horizontally_inclined_series forming_two_series_in_different_angles;
+{ 144 Anterior_extent_of_first_uroneural preural_centra_4_or_3 preural_centrum_2 preural_centrum_1 centra_U1_or_U2;
+{ 145 Number_or_uroneurals_extending_forward_beyond_?second?_ural_centrum_(U2) three_or_four two one;
+{ 146 Relative_position_of_anterior_uroneurals_in_relation_to_ural_and_preural_centra placed_dorsolaterally_to_the_centra,_not_covering_their_lateral_surface placed_laterally,_covering_the_lateral_surface_of_centra;
+{ 147 Pleurostyle absent present;
+{ 148 Stegural absent present;
+{ 149 Uroneural-like_bones_(modified_preural_neural_arches) absent present;
+{ 150 Number_of_hypurals eight_or_more seven six_or_less all_hypurals_fused_in_an_hypural_plate;
+{ 151 Relationship_between_H1_and_H2,_and_ural_centra first_and_second_hypurals_supported_by_a_single_centrum first_and_second_hypurals_supported_by_two_different_centra;
+{ 152 Relationship_between_the_first_and_second_hypurals_(H1_and_H2,_respectively)_and_their_corresponding_centrum(a) laterally_unfused_to_the_centra only_H2_fused both_hypurals_laterally_fused_to_the_centrum(a);
+{ 153 Relationship_between_H1_and_H2 independent_from_each_other fused_at_their_bases_only fused_to_each_other_along_their_length;
+{ 154 Relationship_between_centra_Pu1_and_U1 independent_from_each_other fused,_forming_a_compound_centra;
+{ 155 A_space_or_diastema_between_H2_and_H3 absent present;
+{ 156 Number_of_caudal_fin_rays_articulating_with_each_hypural one two_or_more;
+{ 157 Dorsal_scute(s)_preceding_caudal_fin present absent;
+{ 158 Epaxial_basal_fulcra present absent;
+{ 159 Hipaxial_basal_fulcra present absent;
+{ 160 Epaxial_procurrent_rays absent present;
+{ 161 Number_of_fringing_fulcra_on_the_first_caudal_fin_ray numerous one_to_five none;
+{ 162 Number_of_principal_caudal_fin_rays 20_or_more 19 18_or_less;
+{ 163 Branched_rays_on_the_caudal_fin 17_or_more 16 15_or_fewer;
+{ 164 Number_of_principal_rays_in_lower_lobe_of_caudal_fin ten_or_more nine eight_or_less;
+{ 165 Number_of_caudal_fin_rays_forming_the_dorsal_and_ventral_leading_margin_of_the_fin two_or_more_(branched_and_unbranched) one_unbranched_caudal_fin_ray one_branched_caudal_fin_ray;
+{ 166 Arrangement_of_dorsal_principal_rays_of_caudal_fin_and_dorsal_hypurals dorsal_principal_rays_located_oblique_to_main_axis_of_hypurals dorsal_principal_rays_parallel_to_main_axis_of_hypurals_so_that_no_fin-ray_overlies_more_than_one_hypural;
+{ 167 Dorsal_processes_of_the_bases_of_innermost_principal_caudal_fin_rays_of_upper_lobe absent present;
+{ 168 Relative_shape_of_the_bases_of_innermost_principal_caudal_fin_rays narrow,_with_rounded_anterior_margin expanded,_with_crenulated_anterior_margin;
+{ 169 Type_of_segmentation_of_marginal_principal_caudal_rays ?Z?_or_step-like straight;
+{ 170 Relationship_between_last_principal_caudal_ray_and_preural_haemal_spines last_principal_caudal_ray_in_contact_with_parhypural last_principal_caudal_ray_in_contact_with_haemal_spine_of_preural_centrum_2_(Pu2) last_principal_caudal_ray_in_contact_with_haemal_spines_of_more_anterior_preural_centra;
+{ 171 Caudal_fin_margin deeply_forked higher_than_long_and_unforked convexly_rounded;
+{ 172 Urodermals_in_the_caudal_fin absent present;
+{ 173 Number_of_?urodermals?(i.e.,_tendon-bones),_associated_with_dorsalmost_principal_caudal_rays two one none;
+{ 174 Type_of_scales ganoid_of_lepisosteoid_type elasmoid_of_cycloid_type elasmoid_of_amioid_type;
+{ 175 Shape_of_posterior_margin_of_cycloid_scales smooth crenulate;
+{ 176 Type_of_ornamentation_of_cycloid_scales circuli_or_circuli_and_radii circuli_and_transverse_lines circuli_and_squamulae;
+{ 177 Leptocephalous_larva absent present;
+;
+
+
+ccode  - 0.177;
+
+
+;

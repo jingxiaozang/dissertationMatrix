@@ -1,0 +1,139 @@
+#NEXUS
+
+    [ File output by Morphobank v3.0 ?; 2023-07-28 23.16.14 ]
+
+    BEGIN TAXA;
+    DIMENSIONS NTAX=24;
+    TAXLABELS
+    		'Artibeus jamaicensis'
+		'Aselliscus tricuspidatus'
+		'Cynopterus sphinx'
+		'Desmodus rotundus'
+		'Furipterus horrens'
+		'Glossophaga soricina'
+		'Hipposideros diadema'
+		'Kerivoula hardwickii'
+		'Lavia frons'
+		'Miniopterus schrebersii'
+		'Myotis lucifugus'
+		'Natalus stramineus'
+		'Noctilio albiventris'
+		'Nycteris thebaica'
+		'Nyctimene albiventer'
+		'Molossus molossus'
+		'Mormoops megalophylla'
+		'Pteropus vampyrus'
+		'Rhinolophus affinis'
+		'Rhinolophus ferrumequinum'
+		'Saccopteryx bilineata'
+		'Taphozous melanopogon'
+		'Trachops cirrhosus'
+		'Thyroptera tricolor'
+    ;
+    ENDBLOCK;
+
+    BEGIN CHARACTERS;
+	DIMENSIONS NCHAR=13;
+	FORMAT DATATYPE=STANDARD GAP=- MISSING=? SYMBOLS="0123";
+	CHARLABELS
+		 [1] 'Upper I1 presence'
+		 [2] 'Upper I2 presence'
+		 [3] 'Relative proportions of I1 and I2'
+		 [4] 'Diastema between I2 and C'
+		 [5] 'Upper P1 presence'
+		 [6] 'Upper P4 presence'
+		 [7] 'Relative crown height of P4 and P5'
+		 [8] 'Diastema between P4 and P5'
+		 [9] 'Diastema between P5 and M1'
+		 [10] 'Upper M1 and M2 ectoloph'
+		 [11] 'Diastema between M1 and M2'
+		 [12] 'M3 presence'
+		 [13] 'M3 ectoloph'
+	;
+	STATELABELS
+		1
+		'I1 present'
+		'I1 absent'
+		,
+		2
+		'I2 present'
+		'I2 absent'
+		,
+		3
+		'I1 distinctly larger than I2'
+		'I1 and I2 subequal'
+		,
+		4
+		'Diastema absent'
+		'Diastema present'
+		,
+		5
+		'P1 present'
+		'P1 absent'
+		,
+		6
+		'P4 present'
+		'P4 absent'
+		,
+		7
+		'P4 and P5 subequal in height'
+		'Height of P4 less than one half the height of P5'
+		,
+		8
+		'Diastema absent'
+		'Diastema present'
+		,
+		9
+		'Diastema absent'
+		'Diastema present'
+		,
+		10
+		'M1 and M2 with W-shaped ectoloph'
+		'W-shaped ectoloph absent'
+		,
+		11
+		'Diastema absent'
+		'Diastema present'
+		,
+		12
+		'M3 present'
+		'M3 absent'
+		,
+		13
+		'Ectoloph fully W-shaped'
+		'Ectoloph V-shaped with additional crest running from buccal edge of tooth to lingual'
+		'Ectoloph V-shaped'
+		
+	;
+	MATRIX
+	'Artibeus jamaicensis'		               000110000100-
+	'Aselliscus tricuspidatus'		           01--01--00000
+	'Cynopterus sphinx'		                  0011000111-1-
+	'Desmodus rotundus'		                  01--11--01-1-
+	'Furipterus horrens'		                 0011100000001
+	'Glossophaga soricina'		               0011100100000
+	'Hipposideros diadema'		               01--01--00002
+	'Kerivoula hardwickii'		               0000000000001
+	'Lavia frons'		                        11--11--00002
+	'Miniopterus schrebersii'		            0011100000001
+	'Myotis lucifugus'		                   0011001000000
+	'Natalus stramineus'		                 0011000000000
+	'Noctilio albiventris'		               000111--00000
+	'Nycteris thebaica'		                  001111--00002
+	'Nyctimene albiventer'		               01--000111-1-
+	'Molossus molossus'		                  01--11--00002
+	'Mormoops megalophylla'		              0001100100001
+	'Pteropus vampyrus'		                  0011?0011111-
+	'Rhinolophus affinis'		                01--01--00000
+	'Rhinolophus ferrumequinum'		          01--01--00000
+	'Saccopteryx bilineata'		              10-101--00000
+	'Taphozous melanopogon'		              01--01--00012
+	'Trachops cirrhosus'		                 0000100000002
+	'Thyroptera tricolor'		                0001000000001
+    ;
+    ENDBLOCK;
+
+          BEGIN ASSUMPTIONS;
+      TYPESET * UNTITLED = unord: 1 - 13;
+      ENDBLOCK;
+      

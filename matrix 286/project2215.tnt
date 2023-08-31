@@ -1,0 +1,97 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-03 18.34.38'
+64 15
+
+&[num]
+Eoastrapostylops            ?????0?00000000000010000000-00000000-00-000-000?0?????00????0000
+Trigonostylops              00000100000000000001010000?-00100000-00-10?-01000000000100000001
+Tetragonostylops            000?0000000000000001010000?010000000-1101?1-01?10???????????0000
+Albertogaudrya              ???0??00000010?0?01?0101001010101000-110001-?1??????????????1000
+Scaglia                     ???????????????????????????????00001??11011-??1?011????0????100?
+Astraponotus                0001?2000001101010??01110?101??01001-111011-01??????????????110?
+Maddenia                    ?????1010100011010110012111000100011-1110110?1??????????????1110
+Parastrapotherium           0001121101001111-00110101110100120110011011010?1112???1?11012110
+Astrapotherium              00011211011-1011-00110101010110220110010011110211121111211012110
+Granastrapotherium          111-1001111-1111-1-010001201100021110010010110?1?1?2?212??122110
+Astrapothericulus           0001111?011-1111-000101010101101101100100111101?1???????????2110
+Xenastrapotherium           00111211011-1111-00110001201100021211011011110??????????????2110
+Uruguaytherium              ?????????????????????????20010?02???????????????????????????2???
+Comahuatherium              ??????111?????1111-110100?1?????101110110110????????????????21??
+Hilarcotherium              000111???11-??11-1-?10101201110021211111011110?????2?2??????111?
+
+;
+
+
+cnames
+{ 0 i1 present absent;
+{ 1 i2 present absent;
+{ 2 i3 present absent;
+{ 3 Lower_incisors,_crown_shape simple_(incisiform) bilobed;
+{ 4 Upper_incisors present absent;
+{ 5 Lower_canines,_implantation horizontal diagonal vertical;
+{ 6 Upper_canines,_anterior_groove absent present;
+{ 7 Upper_canines_root rooted rootless;
+{ 8 Upper_canines strongly_curved nearly_straight;
+{ 9 p2_(lower) present absent;
+{ 10 p3_(lower) present absent;
+{ 11 p3,_paralophid reduced_or_absent well_developed;
+{ 12 p4,_paralophid reduced well_developed;
+{ 13 p4,_hypoflexid present absent;
+{ 14 P1 present absent;
+{ 15 P2_(upper) present absent;
+{ 16 P2,_central_valley absent present;
+{ 17 P3 present absent;
+{ 18 P3_hypocone absent present;
+{ 19 P4,_parastilar_fold absent present;
+{ 20 P4_and_P4_size_compared_to_molars no_reduced reduced;
+{ 21 P4,_labial_fold_of_the_metacone absent present;
+{ 22 P4,_anterolingual_pocket absent present;
+{ 23 P4,_posterolingual_cingulum low_posteroligual_cingulum broaden,_elevated_posterolingual_cingulum inflated_posterolingual_cingulum_forming_a_well_define_hypocone;
+{ 24 P4,_lingual_valley absent present;
+{ 25 m1-m3,_hypoflexid deep superficial absent;
+{ 26 Molars_labial_cingulum absent present;
+{ 27 m1-m3,_paraflexid transverse,_very_penetrating oblique,_superficial;
+{ 28 Lower_molar_paralophid reduced well_developed;
+{ 29 Lower_molars,_lingual_cingulid absent present;
+{ 30 Lower_molars,_entoconid included_into_the_posterolophid bunoid,_isolated forming_a_distinct_lophid;
+{ 31 m1-m3,_pillar absent present,_as_a_column present,_lophoid,_enclosing_with_the_metalophid_a_minute_fossetid;
+{ 32 Length_of_m2 less_than_20_mm between_20_and_40_mm more_than_40_mm;
+{ 33 Upper_molar_parastyle well_develop reduced;
+{ 34 M1,_anterolingual_pocket absent superficial very_penetrating,_protocone_anteriorly_constricted;
+{ 35 M1-M2,_central_valley isolated communicated_with_the_hypoflexus;
+{ 36 M3,_central_valley open_lingually enclosed_by_a_posterolingual_cingulum;
+{ 37 M3,_hypocone absent present;
+{ 38 M1-M2,_hypocone absent present;
+{ 39 M1-M3,_hypocone rounded lophoid,_lingually_sharp;
+{ 40 M1-M3,_labial_fold_of_metacone absent present;
+{ 41 M1-M2,_metaloph absent_or_incomplete_(hypocone_isolated) complete;
+{ 42 Upper_molars,_lingual_cingulum absent present;
+{ 43 Upper_molars,_median_fossette present,_even_in_worn_stages ephemeral;
+{ 44 Angular_process_extending_posterior_to_the_condyle present absent;
+{ 45 Ventral_inflection_of_the_mandible absent present;
+{ 46 Frontals uninflated,_narrow broad,_slightly_domed very_broad,_domed_and_inflated;
+{ 47 Bulla attached unattached;
+{ 48 Nasals elongated retracted;
+{ 49 Choanae divided_by_a_median_septum_of_the_palatine undivided;
+{ 50 Pterygoid_or_palatine_processes anterior_to_choanae slightly_lateral_to_choanae lateral_to_choanae,_thickened_ventrally;
+{ 51 Palatal_portion_of_the_palatines broad,_without_lateral_palatine_notch broad,_with_lateral_palatine_notch narrow,_elongate,_broad,_without_lateral_palatine_notch;
+{ 52 Lacrimal_and_lacrial_foramen on_the_orbital_rim within_orbit,_orbital_rim_projecting;
+{ 53 Zygomatic_arches not_flaring,_dorsoventrally_shallow,_maxillary_root_above_M1-M2 not_flaring,_dorsally_curved,_dorsoventrally_thick,_maxillary_root_above_M1-M2 flare_widely,_horizontal,_dorsoventrally_shallow,_maxillary_root_above_M2;
+{ 54 Sagittal_and_temporal_crests sagittal_crest_long,_temporal_crests_weak sagittal_crest_short,_temporal_crests_strongly_developed;
+{ 55 Infraorbital_foramen single_foramen,_positioned_anterior_to_the_orbit multiple_foramina,_positioned_anterior_to_the_orbit single_foramen,_positioned_near_the_orbit;
+{ 56 Supraoccipital not_constricted constricted;
+{ 57 Occipital-squamosal_contact occipital_exposure_of_mastoid extensive,_no_occipital_exposure_of_mastoid;
+{ 58 Glenoid_fossa at_the_level_of_or_anterior_to_the_basioccipital-basiosphenoid_suture posterior_to_the_basioccipital-basisphenoid_suture;
+{ 59 Post-tympanic_process_of_the_squamosal very_weak_far_removed_from_paraoccipital_process weak_closely_appressed_to_paraoccipital_process strong,_closely_appressed_to_paraoccipital_process;
+{ 60 Cheek-teeth,_crown_height bunolophodont,_very_low_crowned lophodont,_high_crowned_(crown_height_less_than_anteroposterior_diameter) lophodont,_slightly_hypsodont_(crown_height_greater_than_anteroposterior_diameter);
+{ 61 M1-M2,_crista absent present;
+{ 62 M1-M2_crochet absent present;
+{ 63 p4_entoconid included_into_the_posterolophid bunoid,_isolated forming_a_distinct_lophid;
+;
+
+
+ccode  + 0.29 32.62 - 30.31 63;
+
+
+;

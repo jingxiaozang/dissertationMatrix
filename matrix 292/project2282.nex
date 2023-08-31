@@ -1,0 +1,1946 @@
+#NEXUS
+
+    [ File output by Morphobank v3.0 ?; 2023-07-28 23.39.58 ]
+
+    BEGIN TAXA;
+    DIMENSIONS NTAX=63;
+    TAXLABELS
+    		'Acanthochirana smithwoodwardi'
+		'Aeger tipularius'
+		'Acetes americanus carolinae'
+		'Antrimpos speciosus'
+		'Aristaeomorpha foliacea'
+		'Aristaeopsis edwardsiana'
+		'Aristeus virilis'
+		'Artemesia longinaris'
+		'Atypopenaeus formosus'
+		'Atypopenaeus stenodactylus'
+		'Bentheogennema intermedia'
+		'Benthesicymus investigatoris'
+		'Benthonectes filipes'
+		'Cryptopenaeus clevai'
+		'Deosergestes corniculum'
+		'Drobna deformis'
+		'Euphausia superba'
+		'Farfantepenaeus aztecus'
+		'Fenneropenaeus merguiensis'
+		'Funchalia villosa'
+		'Gennadas valens'
+		'Gordonella paravillosa'
+		'Hadropenaeus lucasii'
+		'Haliporoides sibogae'
+		'Haliporus taprobanensis'
+		'Hemipenaeus carpenteri'
+		'Hepomadus tener'
+		'Heteropenaeus longimanus'
+		'Hymenopenaeus debilis'
+		'Hymenopenaeus equalis'
+		'Ifasya madagascariensis'
+		'Litopenaeus setiferus'
+		'Macropetasma africana'
+		'Marsupenaeus japonicus'
+		'Megokris pescadoreensis'
+		'Melicertus latisulcatus'
+		'Mesopenaeus brucei'
+		'Metalpheus rostratipes'
+		'Metapenaeopsis palmensis'
+		'Metapenaeus ensis'
+		'Palaeobenthesicymus libanensis'
+		'Paleomattea deliciosa'
+		'Parahepomadus vaubani'
+		'Parapenaeopsis cornuta'
+		'Parapenaeus sextuberculatus'
+		'Pelagopenaeus balboae'
+		'Penaeopsis eduardoi'
+		'Penaeus monodon'
+		'Pleoticus robustus'
+		'Plesionika grandis'
+		'Plesiopenaeus armatus'
+		'Pseudaristeus kathleenae'
+		'Rimapenaeus pacificus'
+		'Sergia robusta'
+		'Sicyonella sp'
+		'Sicyonia brevirostris'
+		'Sicyonia laevigata'
+		'Sicyonia lancifer'
+		'Solenocera melantho'
+		'Systellaspis pellucida'
+		'Trachypenaeopsis mobilispinis'
+		'Trachysalambria curvirostris'
+		'Xiphopenaeus kroyeri'
+    ;
+    ENDBLOCK;
+
+    BEGIN CHARACTERS;
+	DIMENSIONS NCHAR=339;
+	FORMAT DATATYPE=STANDARD GAP=- MISSING=? SYMBOLS="0123456789";
+	CHARLABELS
+		 [1] 'Rostrum, relative length'
+		 [2] 'Rostrum, apical teeth'
+		 [3] 'Rostrum, dorsal rostral teeth'
+		 [4] 'Rostrum, number of dorsal rostral teeth'
+		 [5] 'Rostrum, ventral rostral teeth'
+		 [6] 'Rostrum, number of ventral rostral teeth'
+		 [7] 'Carapace: Post-rostral teeth'
+		 [8] 'Carapace: Number of post-rostral teeth'
+		 [9] 'Carapace: last ? tooth distinctively separated from other post-rostral teeth'
+		 [10] 'Carapace: rostral crest'
+		 [11] 'Carapace: curvature of dorsal margin'
+		 [12] 'Carapace: curvature of posterior ? margin'
+		 [13] 'Carapace: distal margin curvature span'
+		 [14] 'Carapace: Adrostral carina'
+		 [15] 'Carapace: Adrostral Carina, length'
+		 [16] 'Carapace: Adrostral sulcus'
+		 [17] 'Carapace: Adrostral sulcus length'
+		 [18] 'Carapace: Post-rostral carina'
+		 [19] 'Carapace: Post-rostral carina length'
+		 [20] 'Carapace: Median sulcus'
+		 [21] 'Carapace: Median sulcus, length'
+		 [22] 'Carapace: Gastro-frontal carina'
+		 [23] 'Carapace: Gastro-frontal carina posterior edge'
+		 [24] 'Carapace: Hepatic spine'
+		 [25] 'Carapace: Hepatic carina'
+		 [26] 'Carapace: Hepatic sulcus'
+		 [27] 'Carapace: Sub-hepatic sulcus'
+		 [28] 'Carapace: Post-hepatic carina'
+		 [29] 'Carapace: hepato-lateral carina'
+		 [30] 'Carapace: Anteroventral carina'
+		 [31] 'Carapace: anteroventral carina posterior curvature'
+		 [32] 'Carapace: Anteroventral sulcus'
+		 [33] 'Carapace: Branchiostegal spine'
+		 [34] 'Carapace: Branchiostegal carina'
+		 [35] 'Carapace: Branchiostegal and hepatic carinae, fusion'
+		 [36] 'Carapace: Cervical carina'
+		 [37] 'Carapace: Supra-hepatic spine'
+		 [38] 'Carapace: Cervical sulcus'
+		 [39] 'Carapace: Cervical sulcus length'
+		 [40] 'Carapace: cervical sulcus depth and definition'
+		 [41] 'Carapace: Postcervical spine'
+		 [42] 'Carapace: Postcervical sulcus'
+		 [43] 'Carapace: Longitudinal suture'
+		 [44] 'Carapace: Longitudinal suture length'
+		 [45] 'Carapace: Transverse suture '
+		 [46] 'Carapace: Gastro-orbital carina'
+		 [47] 'Carapace: Gastro-orbital sulcus'
+		 [48] 'Carapace: Anterolateral carina'
+		 [49] 'Carapace: Orbito-antennal sulcus'
+		 [50] 'Carapace: Orbito-antennal sulcus type and definition'
+		 [51] 'Carapace: Orbital spine'
+		 [52] 'Carapace: Post-orbital spine'
+		 [53] 'Carapace: shape of orbital margin'
+		 [54] 'Carapace: shape of anteroventral margin of carapace'
+		 [55] 'Carapace: Post-ocular sulcus'
+		 [56] 'Carapace: Branchiocardiac carina'
+		 [57] 'Carapace: Branchiocardiac sulcus'
+		 [58] 'Carapace: Antennal spine'
+		 [59] 'Carapace: Antennal carina'
+		 [60] 'Carapace: Post-antennal spine'
+		 [61] 'Carapace: Post-antennal carina'
+		 [62] 'Carapace: Pterygostomian spine'
+		 [63] 'Carapace: Pterygostomian carina'
+		 [64] 'Carapace:Lateral longitudinal carina'
+		 [65] 'Carapace: posterior submarginal carina'
+		 [66] 'Carapace: overall shape'
+		 [67] 'Carapace: degree of lateral compression'
+		 [68] 'Thoracic appendages: oversized leg'
+		 [69] 'Mandible, palp'
+		 [70] 'Mandible, shape of distal article in palp'
+		 [71] 'Mandible, relative size of articles'
+		 [72] 'Maxilla 1, palp'
+		 [73] 'Maxilla 1, palp articulation'
+		 [74] 'Maxilla 1, palp armed with spinules'
+		 [75] 'Maxilla 1, endites'
+		 [76] 'Maxilla 2, palp'
+		 [77] 'Maxilla 2, spinules on palp'
+		 [78] 'Maxilla 2, shape of basal endite'
+		 [79] 'Maxilla 2, shape of distal endite'
+		 [80] 'Maxilliped 1, endite'
+		 [81] 'Maxilliped 1, exopod'
+		 [82] 'Maxilliped 1, endopod and exopod relative size'
+		 [83] 'Maxilliped 1, epipod'
+		 [84] 'Maxilliped 1, arthrobranchia'
+		 [85] 'Maxilliped 1, arthrobranchia size'
+		 [86] 'Maxilliped 2, exopod'
+		 [87] 'Maxilliped 2, size of exopod relative to endopod'
+		 [88] 'Maxilliped 2, epipod'
+		 [89] 'Maxilliped 2, shape of epipod'
+		 [90] 'Maxilliped 2, posterior arthrobranch'
+		 [91] 'Maxilliped 2, posterior arthrobranch size'
+		 [92] 'Maxilliped 2, anterior arthrobranch'
+		 [93] 'Maxilliped 2, anterior arthrobranch size'
+		 [94] 'Maxilliped 2, podobranch'
+		 [95] 'Maxilliped 3, basial spine'
+		 [96] 'Maxilliped 3: multiple spines along the endopod'
+		 [97] 'Maxilliped 3, articles of endopod fusion'
+		 [98] 'Maxilliped 3, dactyl'
+		 [99] 'Maxilliped 3, exopod'
+		 [100] 'Maxilliped 3, exopod size'
+		 [101] 'Maxilliped 3, epipod'
+		 [102] 'Maxilliped 3, shape of epipod'
+		 [103] 'Maxilliped 3, pleurobranch'
+		 [104] 'Maxilliped 3, size of pleurobranchia'
+		 [105] 'Maxilliped 3, anteroventral arthrobranch'
+		 [106] 'Maxilliped 3, anteroventral arthrobranch size'
+		 [107] 'Maxilliped 3, posterodorsal arthrobranch'
+		 [108] 'Maxilliped 3, posterodorsal arthrobranch size'
+		 [109] 'Maxilliped 3, podobranch'
+		 [110] 'Maxilliped 3, depression on proximal end of the dactyl'
+		 [111] 'Pereopod 1, basial spine'
+		 [112] 'Pereopod 1, spine on ischium'
+		 [113] 'Pereopod 1, number of spines on ischium'
+		 [114] 'Pereopod 1, position of spine on ischium'
+		 [115] 'Pereopod 1, type of spine on ischium'
+		 [116] 'Pereopod 1, movable spine on merus'
+		 [117] 'Pereopod 1, number of movable spines on merus'
+		 [118] 'Pereopod 1, position of movable spines on merus'
+		 [119] 'Pereopod 1, fixed spines on merus'
+		 [120] 'Pereopod 1, number of fixed spines on merus'
+		 [121] 'Pereopod 1, position of fixed spines on merus'
+		 [122] 'Pereopod 1: carpus subdivision'
+		 [123] 'Pereopod 1, chelate'
+		 [124] 'Pereopod 1, relative length of palm to dactyl on chela'
+		 [125] 'Pereopod 1, dactyl'
+		 [126] 'Pereopod 1, exopod'
+		 [127] 'Pereopod 1, exopod size'
+		 [128] 'Pereopod 1, epipod'
+		 [129] 'Pereopod 1, shape of epipod'
+		 [130] 'Pereopod 1, epipod size'
+		 [131] 'Pereopod 1, pleurobranch'
+		 [132] 'Pereopod 1, size of pleurobranchia'
+		 [133] 'Pereopod 1, anteroventral arthrobranch'
+		 [134] 'Pereopod 1, anteroventral arthrobranch size'
+		 [135] 'Pereopod 1, posterodorsal arthrobranch'
+		 [136] 'Pereopod 1, posterodorsal arthrobranch size'
+		 [137] 'Pereopod 1, podobranch'
+		 [138] 'Pereopod 1 carpal-propodal ? brushes in males'
+		 [139] 'Pereopod 1, carpal-propodal ? brushes in females'
+		 [140] 'Pereopod 2, basial spine'
+		 [141] 'Pereopod 2, spines on ischium'
+		 [142] 'Pereopod 2, number of spines on ischium'
+		 [143] 'Pereopod 2, spines on merus'
+		 [144] 'Pereopod 2, number of spines on merus'
+		 [145] 'Pereopod 2, type of spines on merus'
+		 [146] 'Pereopod 2, carpus subdivision'
+		 [147] 'Pereopod 2, dactyl'
+		 [148] 'Pereopod 2, chelate'
+		 [149] 'Pereopod 2, relative length of palm to dactyl on chela'
+		 [150] 'Pereopod 2, exopod'
+		 [151] 'Pereopod 2, exopod size'
+		 [152] 'Pereopod 2, epipod'
+		 [153] 'Pereopod 2, shape of epipod'
+		 [154] 'Pereopod 2, epipod size'
+		 [155] 'Pereopod 2, pleurobranch'
+		 [156] 'Pereopod 2, size of pleurobranchia'
+		 [157] 'Pereopod 2, anteroventral arthrobranch'
+		 [158] 'Pereopod 2, anteroventral arthrobranch size'
+		 [159] 'Pereopod 2, posterodorsal arthrobranch'
+		 [160] 'Pereopod 2, posterodorsal arthrobranch size'
+		 [161] 'Pereopod 2, podobranch'
+		 [162] 'Pereopod 3, basial spine'
+		 [163] 'Pereopod 3, spines on ischium'
+		 [164] 'Pereopod 3, number of spines on ischium'
+		 [165] 'Pereopod 3, spines on merus'
+		 [166] 'Pereopod 3, number of spines on merus'
+		 [167] 'Pereopod 3, type of spines on merus'
+		 [168] 'Pereopod 3: carpus articulation'
+		 [169] 'Pereopod 3, chelate'
+		 [170] 'Pereopod 3, relative length of palm to dactyl on chela'
+		 [171] 'Pereopod 3, exopod'
+		 [172] 'Pereopod 3, exopod size'
+		 [173] 'Pereopod 3, epipod'
+		 [174] 'Pereopod 3, shape of epipod'
+		 [175] 'Pereopod 3, epipod size'
+		 [176] 'Pereopod 3, pleurobranch'
+		 [177] 'Pereopod 3, size of pleurobranchia'
+		 [178] 'Pereopod 3, anteroventral arthrobranch'
+		 [179] 'Pereopod 3, anteroventral arthrobranch size'
+		 [180] 'Pereopod 3, posterodorsal arthrobranch'
+		 [181] 'Pereopod 3, posterodorsal arthrobranch size'
+		 [182] 'Pereopod 3, podobranch'
+		 [183] 'Pereopod 3, podobranch size'
+		 [184] 'Pereopod 4'
+		 [185] 'Pereopod 4, dactyl'
+		 [186] 'Pereopod 4, dactyl articulation'
+		 [187] 'Pereopod 4, relative thickness'
+		 [188] 'Pereopod 4, exopod'
+		 [189] 'Pereopod 4, exopod size'
+		 [190] 'Pereopod 4, epipod'
+		 [191] 'Pereopod 4, shape of epipod'
+		 [192] 'Pereopod 4, epipod size'
+		 [193] 'Pereopod 4, pleurobranch'
+		 [194] 'Pereopod 4, size of pleurobranchia'
+		 [195] 'Pereopod 4, anteroventral arthrobranch'
+		 [196] 'Pereopod 4, anteroventral arthrobranch size'
+		 [197] 'Pereopod 4, posterodorsal arthrobranch'
+		 [198] 'Pereopod 4, posterodorsal arthrobranch size'
+		 [199] 'Pereopod 5'
+		 [200] 'Pereopod 5, dactyl'
+		 [201] 'Pereopod 5, dactyl articulation'
+		 [202] 'Pereopod 5, relative thickness'
+		 [203] 'Pereopod 5, exopod'
+		 [204] 'Pereopod 5, size of exopod'
+		 [205] 'Pereopod 5, epipod'
+		 [206] 'Pereopod 5, shape of epipod'
+		 [207] 'Pereopod 5, epipod size'
+		 [208] 'Pereopod 5, pleurobranch'
+		 [209] 'Pereopods: relative lengths of P1 and P2'
+		 [210] 'Pereopods: relative lengths of P1 and P3'
+		 [211] 'Pereopods: relative lengths of P1 and P4'
+		 [212] 'Pereopods: relative lengths of P1 and P5'
+		 [213] 'Pereopods: relative lengths of P2 and P3'
+		 [214] 'Pereopods: relative lengths of P2 and P4'
+		 [215] 'Pereopods: relative lengths of P2 and P5'
+		 [216] 'Pereopods: relative lengths of P3 and P4'
+		 [217] 'Pereopods: relative lengths of P3 and P5'
+		 [218] 'Pereopods: relative lengths of P4 and P5'
+		 [219] 'Antennule, antennular prosartema'
+		 [220] 'Antennule, antennular flagella'
+		 [221] 'Antennule, ventral ? antennular flagellum shape'
+		 [222] 'Antennule, ventral ? antennular flagellum length'
+		 [223] 'Antennule, dorsal ? antennular flagellum shape'
+		 [224] 'Antennule, dorsal ? antennular flagellum length'
+		 [225] 'Antennule, stylocerite'
+		 [226] 'Antennule, stylocerite length'
+		 [227] 'Antennule, disto-lateral spine on outer margin of first article'
+		 [228] 'Antennule, male antennula clasper organ'
+		 [229] 'Antennule, ventromesial ? spine'
+		 [230] 'Antennules: length of antennular peduncle relative to carapace'
+		 [231] 'Antennules: relative length of second article of peduncle'
+		 [232] 'Antennules: relative length of the third article of peduncle'
+		 [233] 'Antenna, scaphocerite'
+		 [234] 'Abdomen, dorso-abdominal carina on somite 1'
+		 [235] 'Abdomen, dorso-abdominal carina on somite 2'
+		 [236] 'Abdomen, dorso-abdominal carina on somite 3'
+		 [237] 'Abdomen, dorso-abdominal carina on somite 4'
+		 [238] 'Abdomen, dorso-abdominal carina on somite 5'
+		 [239] 'Abdomen, dorso-abdominal carina on somite 6'
+		 [240] 'Dorso-posterior spines on abdominal somite 1'
+		 [241] 'Dorso-posterior spines on abdominal somite 2'
+		 [242] 'Dorso-posterior spine on abdominal somite 3'
+		 [243] 'Dorso-median spine on abdominal somite 3'
+		 [244] 'Dorso-posterior spine on abdominal somite 4'
+		 [245] ' Dorso-posterior spine on abdominal somite 5'
+		 [246] ' Dorso-posterior spine on abdominal somite 6'
+		 [247] 'Abdomen somite 6 relative size compared to other somites'
+		 [248] 'Abdomen: spines on posterior and inferior margins of abdominal pleura, on somite 1'
+		 [249] 'Abdomen: spines on posterior and inferior margins of abdominal pleura, on somite 2'
+		 [250] 'Abdomen: spines on posterior and inferior margins of abdominal pleura, on somite 3'
+		 [251] 'Abdomen: spines on posterior and inferior margins of abdominal pleura, on somite 4'
+		 [252] 'Abdomen: spines on posterior and inferior margins of abdominal pleura, on somite 5'
+		 [253] 'Abdomen, spines on postero-ventral margin of cuticle, on somite 6'
+		 [254] 'Abdomen, ventral projections on male abdominal somite 6'
+		 [255] 'Abdomen: degree of lateral compression'
+		 [256] 'Abdomen: thickness relative to carapace'
+		 [257] 'Abdomen, abominal somite 1 with antero-dorsal projection'
+		 [258] 'Abdomen, abdominal somite 2 with antero-dorsal projection'
+		 [259] 'Abdomen: posterior hood on somite 3'
+		 [260] 'Abdomen, cicatrix on somite 5'
+		 [261] 'Abdomen, cicatrix on somite 6'
+		 [262] 'Abdomen, type of cicatrix on somite 6'
+		 [263] 'Abdomen, pleura with lateral carina in somite 1'
+		 [264] 'Abdomen, pleura with lateral carina in somite 2'
+		 [265] 'Abdomen, pleura with lateral carina in somite 3'
+		 [266] 'Abdomen, pleura with lateral carina in somite 4'
+		 [267] 'Abdomen, pleura with lateral carina in somite 5'
+		 [268] 'Abdomen: transverse sulci on pleura'
+		 [269] 'Abdomen: anterior pleonal hinges'
+		 [270] 'Abdomen: posterior pleonal hinges'
+		 [271] 'Abdomen: posterior notch on pleura, somite 1'
+		 [272] 'Abdomen: shape of posterior notch on pleura, somite 1'
+		 [273] 'Abdomen: posterior notch on pleura, somite 2'
+		 [274] 'Abdomen: shape of posterior notch on pleura, somite 2'
+		 [275] 'Abdomen: posterior notch on pleura, somite 4'
+		 [276] 'Abdomen: shape of posterior notch on pleura, somite 4'
+		 [277] 'Abdomen: posterior notch on pleura, somite 5'
+		 [278] 'Abdomen: shape of posterior notch on pleura, somite 5'
+		 [279] 'Abdomen: dorsally narrow cuticle on somite 1'
+		 [280] 'Abdomen, second abdominal pleura overlapping first pleura'
+		 [281] 'Pleopods, number of rami in pleopods 3 to 5'
+		 [282] 'Pleopods, shape of rami in pleopods 3-5'
+		 [283] 'Pleopods, relative length of exopods'
+		 [284] 'Pleopods, exopod articulation'
+		 [285] 'Eyes: Compound eye lobe structure'
+		 [286] 'Eyestalk, ocular stylet'
+		 [287] 'Eyestalk, ocular tubercle'
+		 [288] 'Eyestalk, ocular scale'
+		 [289] 'Eye, total length'
+		 [290] 'Eye, relative length of the eyestalk'
+		 [291] 'Eye, relative width of the cornea'
+		 [292] 'Genitalia, petasma type'
+		 [293] 'Genitalia, symmetry of petasma'
+		 [294] 'Genitalia, male appendix interna'
+		 [295] 'Genitalia, male appendix interna shape'
+		 [296] 'Genitalia, appendix masculina relative length'
+		 [297] 'Genitalia, appendix masculina shape'
+		 [298] 'Genitalia, disto-lateral projection on male pleopod 2'
+		 [299] 'Genitalia, female, thelycum type'
+		 [300] 'Uropod relative size'
+		 [301] 'Uropod, exopod with fixed outer lateral spine '
+		 [302] 'Uropod, exopod with movable outer lateral spine'
+		 [303] 'Uropod: longitudinal sulcus on endopod'
+		 [304] 'Uropod: number of longitudinal sulci on endopod'
+		 [305] 'Uropod: longitudinal carinae on endopod'
+		 [306] 'Uropod: diaeresis in exopod'
+		 [307] 'Uropod: span of diaeresis in exopod'
+		 [308] 'Telson, shape of posterior margin'
+		 [309] 'Telson, fixed spines'
+		 [310] 'Telson, total number of fixed spines'
+		 [311] 'Telson, lateral movable spines'
+		 [312] 'Telson, number of lateral movable spines'
+		 [313] 'Telson, dorsolateral movable spines'
+		 [314] 'Telson, number of dorsolateral movable spines'
+		 [315] 'Telson, terminal spines'
+		 [316] 'Maximum known body lenght'
+		 [317] 'Color, body color ?'
+		 [318] 'Color, banded pattern of carapace'
+		 [319] 'Color, banded pattern of abdomen'
+		 [320] 'Behavior: Maximal Bathymetry'
+		 [321] 'Behavior: predominant adult habitat'
+		 [322] 'Behavior: Minimum Water Temperature Documented'
+		 [323] 'Behavior: Minimum Dissolved Oxygen in Habitat'
+		 [324] 'Sperm: acrosome presence'
+		 [325] 'Sperm: acrosome projections'
+		 [326] 'Sperm: acrosomal spike contents'
+		 [327] 'Sperm: complexity of subacrosomal region'
+		 [328] 'Sperm: acrosome symmetry'
+		 [329] 'Sperm: acrosomal cap with central protuberance at its base'
+		 [330] 'Sperm: centrioles presence'
+		 [331] 'Sperm: nuclear region location'
+		 [332] 'Sperm: nuclear membrane presence'
+		 [333] 'Sperm: intranuclear lipid inclusions'
+		 [334] 'Sperm: separation of plasma and acrosome membrane at the base of the spike and anterior region of the cap'
+		 [335] 'Sperm: cytoplasm distribution'
+		 [336] 'Sperm: intraacrosomal peripheral vesicles'
+		 [337] 'Sperm: chromatin morphology'
+		 [338] 'Sperm: perforatorium'
+		 [339] 'Sperm: relative length of the spike'
+	;
+	STATELABELS
+		1
+		'not reaching cornea anteriorly'
+		'reaching cornea, not surpassing antennular peduncle anteriorly'
+		'surpassing cornea, not surpassing antennular peduncle anteriorly'
+		'surpassing antennular peduncle anteriorly'
+		,
+		2
+		'absent'
+		'present'
+		,
+		3
+		'absent'
+		'present'
+		,
+		4
+		'1 to 5'
+		'6 to 9'
+		'10 or more'
+		,
+		5
+		'absent'
+		'present'
+		,
+		6
+		'1 to 4'
+		'5 to 7'
+		'8 or more'
+		,
+		7
+		'absent'
+		'present'
+		,
+		8
+		'1 tooth'
+		'2 teeth'
+		'3 teeth'
+		'4 or more teeth'
+		,
+		9
+		'epigastric tooth NOT distinctively separated from other post-rostral teeth'
+		'epigastric tooth distinctively separated from other post-rostral teeth'
+		,
+		10
+		'absent'
+		'present'
+		,
+		11
+		'dorsal margin straight'
+		'dorsal maring convex'
+		,
+		12
+		'posterior margin straight'
+		'posterior margin convex'
+		,
+		13
+		'margin is a continuous curve'
+		'margin is split into a curved portion and a straight portion'
+		,
+		14
+		'absent'
+		'present'
+		,
+		15
+		'reaching only into the anterior half of the carapace'
+		'reaching into the posterior half of the carapace'
+		,
+		16
+		'absent'
+		'present'
+		,
+		17
+		'limited to the anterior half of the carapace'
+		'extending into the posterior half of the carapace'
+		,
+		18
+		'absent'
+		'present'
+		,
+		19
+		'limited to anterior half of carapace'
+		'reaching the posterior half of carapace'
+		,
+		20
+		'absent'
+		'present'
+		,
+		21
+		'long, covering most of the length of the post-rostral carina'
+		'short, covering only a small portion of the post-rostral carina'
+		,
+		22
+		'absent'
+		'present'
+		,
+		23
+		'straight, not turning'
+		'curving anteriorly and dorsally on itself'
+		,
+		24
+		'absent'
+		'present'
+		,
+		25
+		'absent'
+		'present'
+		,
+		26
+		'absent'
+		'present'
+		,
+		27
+		'absent'
+		'present'
+		,
+		28
+		'absent'
+		'present'
+		,
+		29
+		'absent'
+		'present'
+		,
+		30
+		'absent'
+		'present'
+		,
+		31
+		'not turning posteriorly'
+		'curving posteriorly at its ventral end'
+		,
+		32
+		'absent'
+		'present'
+		,
+		33
+		'absent'
+		'present'
+		,
+		34
+		'absent'
+		'present'
+		,
+		35
+		'not fused'
+		'fused'
+		,
+		36
+		'absent'
+		'present'
+		,
+		37
+		'absent'
+		'present'
+		,
+		38
+		'absent'
+		'present'
+		,
+		39
+		'short, not reaching the dorsal midline of the carapace'
+		'long, reaching ? the dorsal midline of the carapace'
+		,
+		40
+		'cervical sulcus deep and well defined'
+		'cervical sulcus shallow and weak'
+		,
+		41
+		'absent'
+		'present'
+		,
+		42
+		'absent'
+		'present'
+		,
+		43
+		'absent'
+		'present'
+		,
+		44
+		'short, limited to the anterior half of the carapace'
+		'long, reaching into the posterior half of the carapace'
+		,
+		45
+		'absent'
+		'present'
+		,
+		46
+		'absent'
+		'present'
+		,
+		47
+		'absent'
+		'present'
+		,
+		48
+		'absent'
+		'present'
+		,
+		49
+		'absent'
+		'present'
+		,
+		50
+		'shallow, not well defined, not flanked by carinae'
+		'deep, well defined, and limited by strong carinae'
+		,
+		51
+		'absent'
+		'present'
+		,
+		52
+		'absent'
+		'present'
+		,
+		53
+		'completely rounded, a single concavity'
+		'with a straight or irregular portion'
+		,
+		54
+		'anteroventral margin concave ?'
+		'anteroventral margin convex'
+		'anteroventral margin sigmoideal ?'
+		'anteroventral margin straight or almost straight'
+		'anteroventral margin complex'
+		,
+		55
+		'absent'
+		'present'
+		,
+		56
+		'absent'
+		'present'
+		,
+		57
+		'absent'
+		'present'
+		,
+		58
+		'absent'
+		'present'
+		,
+		59
+		'absent'
+		'present'
+		,
+		60
+		'absent'
+		'present'
+		,
+		61
+		'absent'
+		'present'
+		,
+		62
+		'absent'
+		'present'
+		,
+		63
+		'absent'
+		'present'
+		,
+		64
+		'absent'
+		'present'
+		,
+		65
+		'absent'
+		'present'
+		,
+		66
+		'roughly square, length is similar to height'
+		'moderately long, length is larger than height but by less than a factor of 2'
+		'very elongated, length is larger than height by more than a factor of 2'
+		,
+		67
+		'strong lateral compression, height to width ratio larger than 1.5'
+		'moderate lateral compression, height to width ratio smaller than 1.5'
+		,
+		68
+		'none of the thoracic appendages is oversized'
+		'maxilliped 3 is oversized'
+		'pereopod 1 is oversized'
+		'pereopod 2 is oversized'
+		'pereopod 3 is oversized'
+		'pereopod 4 is oversized'
+		'pereopod 5 is oversized'
+		,
+		69
+		'absent'
+		'present'
+		,
+		70
+		'roughly triangular'
+		'bifurcate'
+		'roughly trapezoidal'
+		'cilindrical ?'
+		'oval ?'
+		,
+		71
+		'proximal article larger than distal article'
+		'distal article larger than proximal article'
+		,
+		72
+		'absent'
+		'present'
+		,
+		73
+		'single article'
+		'segmented, with more than one article'
+		,
+		74
+		'lacking a row of spinules'
+		'armed with row of spinules or small spines'
+		,
+		75
+		'absent'
+		'present'
+		,
+		76
+		'absent'
+		'present'
+		,
+		77
+		'lacking spinules'
+		'armed with one or more rows of spinules'
+		,
+		78
+		'unilobed'
+		'bilobed'
+		,
+		79
+		'unilobed'
+		'bilobed'
+		,
+		80
+		'absent'
+		'present'
+		,
+		81
+		'absent'
+		'present'
+		,
+		82
+		'endopod surpasses ? the exopod'
+		'endopod does not surpass ? the exopod'
+		'endopod and exopod are indistinguishable in size ?'
+		,
+		83
+		'absent'
+		'present'
+		,
+		84
+		'absent'
+		'present'
+		,
+		85
+		'developed, with a clear resemblance of a gill, abundant branchial filaments and a plumose appearance ?'
+		'very small/reduced, with very short and scarce branchial filaments and with an appearance different from the typical gill'
+		,
+		86
+		'absent'
+		'present'
+		,
+		87
+		'small, shorter than the bent endopod, reaching at most the distal end of the longest article of the endopod'
+		'large, much longer than the bent endopod'
+		'about the same size of the bent endopod ?'
+		'very small, not reaching the long article of the endopod ?'
+		,
+		88
+		'absent'
+		'present'
+		,
+		89
+		'uniramous ?'
+		'bifurcate/almost bifurcate'
+		,
+		90
+		'absent'
+		'present'
+		,
+		91
+		'well developed, similar in size to ventral arthrobranch'
+		'small, less than 0.5 times the size of ventral arthrobranch'
+		,
+		92
+		'absent'
+		'present'
+		,
+		93
+		'well developed, similar in size to other branchia in the same pereopod'
+		'small, conspicuously shorter, narrower, less plumose than other branchia in the same pereopod'
+		,
+		94
+		'absent'
+		'present'
+		,
+		95
+		'absent'
+		'present'
+		,
+		96
+		'absent'
+		'present, thin long spines'
+		'present, thick short spines'
+		,
+		97
+		'separated'
+		'fused'
+		,
+		98
+		'with 1 article, entire'
+		'with more than 1 article, divided'
+		,
+		99
+		'absent'
+		'present'
+		,
+		100
+		'large, reaching or surpassing the distal half of the endopodal ischium'
+		'short, reaching at most into the proximal half of the endopodal ischium'
+		'very small, not reaching into the ischium of the endopod'
+		,
+		101
+		'absent'
+		'present'
+		,
+		102
+		'a single long foliaceous structure'
+		'bifurcate'
+		'a major foliaceous arm with a broad side shoulder'
+		,
+		103
+		'absent'
+		'present'
+		,
+		104
+		'well developed, similar in size to other branchiae in the same segment'
+		'small, much shorter, narrower, and conspicuously less plumose that other branchiae in the same segment'
+		,
+		105
+		'absent'
+		'present'
+		,
+		106
+		'well developed, similar in size to other branchiae'
+		'very small/reduced, a stub of flap of tissue'
+		,
+		107
+		'absent'
+		'present'
+		,
+		108
+		'well developed, similar in size to other branchiae'
+		'very small/reduced, a stub or flap of tissue'
+		,
+		109
+		'absent'
+		'present'
+		,
+		110
+		'absent'
+		'present'
+		,
+		111
+		'absent'
+		'present'
+		,
+		112
+		'absent'
+		'present'
+		,
+		113
+		'1 spine'
+		'3 spines'
+		'5 spines'
+		,
+		114
+		'mesial'
+		'distal'
+		,
+		115
+		'fixed spine'
+		'movable spine'
+		,
+		116
+		'absent'
+		'present'
+		,
+		117
+		'1 movable spine'
+		'3 movable spines'
+		'5 movable spines'
+		,
+		118
+		'distal'
+		'medial'
+		'proximal'
+		,
+		119
+		'absent'
+		'present'
+		,
+		120
+		'1 fixed spine'
+		'3 fixed spines'
+		'5 fixed spines'
+		'2 fixed spines'
+		,
+		121
+		'distal'
+		'medial'
+		'proximal'
+		,
+		122
+		'entire'
+		'multiarticulated'
+		,
+		123
+		'absent'
+		'present'
+		,
+		124
+		'palm relatively long, 3 or more times longer than dactyl'
+		'palm relatively short, less than 3 times as long as dactyl'
+		,
+		125
+		'absent'
+		'present'
+		,
+		126
+		'absent'
+		'present'
+		,
+		127
+		'well developed, reaching at least into the ischium of the endopod'
+		'very small, not reaching into the ischium of the endopod'
+		,
+		128
+		'absent'
+		'present'
+		,
+		129
+		'a single foliaceous structure'
+		'bifurcate'
+		'a long foliaceous structure accompanied proximally by a broad shoulder'
+		,
+		130
+		'well developed, similar in size to the branchiae in the same pereopod'
+		'small, less than 0.1 times the size of the branchiae in the same pereopod'
+		,
+		131
+		'absent'
+		'present'
+		,
+		132
+		'well developed, similar in size to other branchiae in the same segment'
+		'small, shorter, narrower, and conspicuously less plumose that other branchiae in the same segment'
+		'very small, reduced to only a short stub with very few branches'
+		,
+		133
+		'absent'
+		'present'
+		,
+		134
+		'well developed, similar in size to other branchia'
+		'very small/reduced, a stub of flap of tissue'
+		,
+		135
+		'absent'
+		'present'
+		,
+		136
+		'well developed, similar in size to other branchia'
+		'very small/reduced, a stub or flap of tissue'
+		,
+		137
+		'absent'
+		'present'
+		,
+		138
+		'absent'
+		'present'
+		'arranged as a "sub-chela"'
+		,
+		139
+		'absent'
+		'present'
+		'arranged as a "sub-chela"'
+		,
+		140
+		'absent'
+		'present'
+		,
+		141
+		'absent'
+		'present'
+		,
+		142
+		'1 spine'
+		'5 spines'
+		,
+		143
+		'absent'
+		'present'
+		,
+		144
+		'1 spine'
+		'3 spines'
+		'5 spines'
+		,
+		145
+		'movable spines'
+		'fixed spines'
+		,
+		146
+		'divided'
+		'entire'
+		,
+		147
+		'absent'
+		'present'
+		,
+		148
+		'absent'
+		'present'
+		,
+		149
+		'palm relatively long, 3 or more times longer than dactyl'
+		'palm relatively short, less than 3 times as long as dactyl'
+		,
+		150
+		'absent'
+		'present'
+		,
+		151
+		'well developed, reaching at least the ischium of the endopod'
+		'very small, not reaching the ischium of the endopod'
+		,
+		152
+		'absent'
+		'present'
+		,
+		153
+		'a single foliaceous structure'
+		'bifurcate'
+		'a long foliaceous structure accompanied proximally by a broad shoulder'
+		,
+		154
+		'well developed, similar in size to the branchiae in the same pereopod'
+		'small, less than 0.1 times the size of the branchiae in the same pereopod'
+		,
+		155
+		'absent'
+		'present'
+		,
+		156
+		'well developed, similar in size to other branchiae in the same segment'
+		'small, shorter ?, narrower, and conspicuously less plumose that other branchiae in the same segment'
+		'very small, reduced to only a short stub with very few branches'
+		,
+		157
+		'absent'
+		'present'
+		,
+		158
+		'well developed, similar in size to other branchia'
+		'very small/reduced, a stub or flap of tissue'
+		,
+		159
+		'absent'
+		'present'
+		,
+		160
+		'well developed, similar in size to other branchia'
+		'very small/reduced, a stub or flap of tissue'
+		,
+		161
+		'absent'
+		'present'
+		,
+		162
+		'present'
+		'absent'
+		,
+		163
+		'absent'
+		'present'
+		,
+		164
+		'1 spine'
+		'3 spines'
+		'5 spines'
+		,
+		165
+		'absent'
+		'present'
+		,
+		166
+		'1 spine'
+		'3 spines'
+		'5 spines'
+		'more than 10'
+		,
+		167
+		'movable spines'
+		'fixed spines'
+		,
+		168
+		'entire'
+		'multiarticulated'
+		,
+		169
+		'absent'
+		'present'
+		,
+		170
+		'palm relatively long, 3 or more times longer than dactyl'
+		'palm relatively short, less than 3 times as long as dactyl'
+		,
+		171
+		'absent'
+		'present'
+		,
+		172
+		'well developed, reaching at least the ischium of the endopod'
+		'very small, not reaching the ischium of the endopod'
+		,
+		173
+		'absent'
+		'present'
+		,
+		174
+		'a single foliaceous structure'
+		'bifurcate'
+		'a long foliaceous structure accompanied proximally by a broad shoulder'
+		,
+		175
+		'well developed, similar in size to the branchiae in the same pereopod'
+		'small, less than 0.1 times the size of the branchiae in the same pereopod'
+		,
+		176
+		'absent'
+		'present'
+		,
+		177
+		'well developed, similar in size to other branchiae in the same segment'
+		'small, shorter, narrower, and conspicuously less plumose that other branchiae in the same segment'
+		'very small, reduced to only a short stub with very few branches'
+		,
+		178
+		'absent'
+		'present'
+		,
+		179
+		'well developed, similar in size to other branchia'
+		'very small/reduced, a stub or flap of tissue'
+		,
+		180
+		'absent'
+		'present'
+		,
+		181
+		'well developed, similar in size to other branchia'
+		'very small/reduced, a stub or flap of tissue'
+		,
+		182
+		'absent'
+		'present'
+		,
+		183
+		'well developed, similar in size to other branchia in the same pereopod'
+		'small, conspicuously shorter, narrower, and less plumose than other branchia in the same pereopod'
+		'very small/reduced, only a slab of tissue or a branchia with few and very short filaments, barely resembling a branchia'
+		,
+		184
+		'absent'
+		'present'
+		,
+		185
+		'absent'
+		'present'
+		,
+		186
+		'entire'
+		'multiarticulate'
+		,
+		187
+		'Ischium and merus of P4 less than half the thickness of those in P1, P2, and P3'
+		'Ischium and merus of P4 similar in thickness to those of P1, P2, or P3'
+		'Ischium and merus of P4 less than half thickness of those of P1 only'
+		,
+		188
+		'absent'
+		'present'
+		,
+		189
+		'well developed, reaching at least the ischium of the endopod'
+		'very small, not reaching the ischium of the endopod'
+		,
+		190
+		'absent'
+		'present'
+		,
+		191
+		'a single foliaceous structure'
+		'bifurcate'
+		'a long foliaceous structure accompanied proximally by a broad shoulder'
+		,
+		192
+		'well developed, similar in size to the branchiae in the same pereopod'
+		'small, less than 0.1 times the size of the branchiae in the same pereopod'
+		,
+		193
+		'absent'
+		'present'
+		,
+		194
+		'well developed, similar in size to other branchiae in the segment'
+		'small, shorter, narrower, and conspicuously less plumose that other branchiae in the same segment'
+		'very small, reduced to only a short stub with very few branches'
+		,
+		195
+		'absent'
+		'present'
+		,
+		196
+		'well developed, similar in size to other branchia'
+		'very small/rudimentary, a stub or flap of tissue'
+		,
+		197
+		'absent'
+		'present'
+		,
+		198
+		'well developed, similar in size to other branchia'
+		'very small/reduced, a stub or flap of tissue'
+		,
+		199
+		'absent'
+		'present'
+		,
+		200
+		'absent'
+		'present'
+		,
+		201
+		'entire'
+		'multiarticulate'
+		,
+		202
+		'Ischium and merus of P5 only half as thick or less than those of P1, P2, and P3'
+		'Ischium and merus of P5 similar in thickness to those of P1, P2, and P3'
+		'Ischium and merus of P5 only half as thick or less than those of P1 only'
+		,
+		203
+		'absent'
+		'present'
+		,
+		204
+		'well developed, reaching at least the ischium of the endopod'
+		'very small, not reaching the ischium of the endopod'
+		,
+		205
+		'absent'
+		'present'
+		,
+		206
+		'a single foliaceous structure'
+		'bifurcate'
+		'a long foliaceous structure accompanied proximally by a broad shoulder'
+		,
+		207
+		'well developed, similar in size to the branchiae in the same pereopod'
+		'small, less than 0.1 times the size of the branchiae in the same pereopod'
+		,
+		208
+		'absent'
+		'present'
+		,
+		209
+		'P1 longer than P2'
+		'P2 longer than P1'
+		'P1 and P2 similar in length'
+		,
+		210
+		'P1 is longer than P3'
+		'P3 is longer than P1'
+		'P1 and P3 are similar in length'
+		,
+		211
+		'P1 is longer than P4'
+		'P4 is longer than P1'
+		'P1 and P4 are similar in length'
+		,
+		212
+		'P1 is longer than P5'
+		'P5 is longer than P1'
+		'P1 and P5 are similar in length'
+		,
+		213
+		'P2 is longer than P3'
+		'P3 is longer than P2'
+		'P2 and P3 are similar in length'
+		,
+		214
+		'P2 is longer than P4'
+		'P4 is longer than P2'
+		'P2 and P4 are similar in length'
+		,
+		215
+		'P2 is longer than P5'
+		'P5 is longer than P2'
+		'P2 and P5 are similar in length'
+		,
+		216
+		'P3 is longer than P4'
+		'P4 is longer than P3'
+		'P3 and P4 are similar in length'
+		,
+		217
+		'P3 is longer than P5'
+		'P5 is longer than P3'
+		'P3 and P5 are similar in length'
+		,
+		218
+		'P4 is longer than P5'
+		'P5 is longer than P4'
+		'P4 and P5 are similar in length'
+		,
+		219
+		'absent'
+		'present'
+		,
+		220
+		'uniflagellate'
+		'biflagellate'
+		,
+		221
+		'very flat and broad for almost its entire length'
+		'cylindrical and slender ? for its entire length'
+		'broad proximally but with long slender ? distal portion'
+		'thick for most of its slength with slender ? tip'
+		,
+		222
+		'short, not longer than about one carapace length'
+		'long, longer than about one caraparce length'
+		,
+		223
+		'very flat and broad for almost its entire length'
+		'cylindrical and slender ? for its entire length'
+		'broad proximally but with long slender ? distal portion'
+		'thick for most of its length with slender ? tip'
+		,
+		224
+		'short, not longer than about one carapace length'
+		'long, longer than about one carapace length'
+		,
+		225
+		'absent'
+		'present'
+		,
+		226
+		'short, falling short of the distolateral spine on the first article of the antennular peduncle'
+		'long, roughly coinciding with the distolateral spine on the first antennular peduncle'
+		'very long, reaching well into the second article of the antennular peduncle'
+		,
+		227
+		'absent'
+		'present'
+		,
+		228
+		'absent'
+		'present'
+		,
+		229
+		'absent'
+		'present'
+		,
+		230
+		'peduncle short, less than 3/4 of carapace length'
+		'peduncle long, more than 3/4 of carapace length'
+		,
+		231
+		'second article short ?'
+		'second article long ?'
+		,
+		232
+		'third article short ?'
+		'third article long ?'
+		,
+		233
+		'absent'
+		'present'
+		,
+		234
+		'absent '
+		'present'
+		,
+		235
+		'absent'
+		'present'
+		,
+		236
+		'absent'
+		'present'
+		,
+		237
+		'absent'
+		'present'
+		,
+		238
+		'absent'
+		'present'
+		,
+		239
+		'absent'
+		'present'
+		,
+		240
+		'absent'
+		'present'
+		,
+		241
+		'absent'
+		'present'
+		,
+		242
+		'absent'
+		'present'
+		,
+		243
+		'absent'
+		'present'
+		,
+		244
+		'absent'
+		'present'
+		,
+		245
+		'absent'
+		'present'
+		,
+		246
+		'absent'
+		'present'
+		,
+		247
+		'somite 6 longest somite'
+		'somite 6 not the longest'
+		,
+		248
+		'absent'
+		'present'
+		,
+		249
+		'absent'
+		'present'
+		,
+		250
+		'absent'
+		'present'
+		,
+		251
+		'absent'
+		'present'
+		,
+		252
+		'absent'
+		'present'
+		,
+		253
+		'absent'
+		'present'
+		,
+		254
+		'absent'
+		'present'
+		,
+		255
+		'strongly compressed, height to width ratio of S2 larger than 1.5'
+		'moderately compressed, height to width ratio of S2 smaller than 1.5'
+		,
+		256
+		'abdomen slender, its height is less than 2/3 the height of the carapace'
+		'abdomen thick, its height is at least 2/3 the height of the carapace'
+		,
+		257
+		'absent'
+		'present'
+		,
+		258
+		'absent'
+		'present'
+		,
+		259
+		'absent'
+		'present'
+		,
+		260
+		'absent'
+		'present'
+		,
+		261
+		'absent'
+		'present'
+		,
+		262
+		'entire or contiguous'
+		'partitioned or fragmented'
+		,
+		263
+		'absent'
+		'present'
+		,
+		264
+		'absent'
+		'present'
+		,
+		265
+		'absent'
+		'present'
+		,
+		266
+		'absent'
+		'present'
+		,
+		267
+		'absent'
+		'present'
+		,
+		268
+		'abdominal pleura without traverse sulci'
+		'abdominal pleura with traverse sulci'
+		,
+		269
+		'visible'
+		'partially hidden, subtle'
+		'hidden, not visible'
+		,
+		270
+		'visible'
+		'partially hidden'
+		,
+		271
+		'absent'
+		'present'
+		,
+		272
+		'single notch, c-shaped'
+		'double notch, w-shaped'
+		,
+		273
+		'absent'
+		'present'
+		,
+		274
+		'single notch, c-shaped'
+		'double notch, w-shaped'
+		,
+		275
+		'absent'
+		'present'
+		,
+		276
+		'single notch, c-shaped'
+		'double notch, w-shaped'
+		,
+		277
+		'absent'
+		'present'
+		,
+		278
+		'single notch, c-shaped'
+		'double notch, w-shaped'
+		,
+		279
+		'S1 dorsal cuticle not narrow'
+		'S1 dorsal cuticle narrow'
+		,
+		280
+		'overlapping ? first abdominal pleura'
+		'not overlapping first abdominal pleura'
+		,
+		281
+		'uniramous'
+		'biramous'
+		,
+		282
+		'roughly flagelliform ?, narrowing subtly along most of their lenght'
+		'very flattened and wide throughout their length and tapering to an apex very abruptly ?'
+		'intermediate, flat throughout much of their length narrow and tapering more or less abruptly'
+		,
+		283
+		'exopods short, less than 2.5 times the lenght of the protopod in P3'
+		'exopods long, at least 2.5 times the length of the protopod in P3'
+		,
+		284
+		'entire, not divided into numerous short articles'
+		'multiarticulate, divided into numerous short articles'
+		,
+		285
+		'unilobed'
+		'bilobed'
+		,
+		286
+		'absent'
+		'present'
+		,
+		287
+		'absent'
+		'present'
+		,
+		288
+		'absent'
+		'present'
+		,
+		289
+		'short, reaching only into the first article of the antennular peduncle'
+		'long, surpassing the first article of the antennular peduncle'
+		,
+		290
+		'eyestalk short, less than 2 times as long as cornea in lateral view'
+		'eyestalk long, 2 or more times longer than the cornea in lateral view'
+		,
+		291
+		'medium, about 2 times wider than the eyestalk'
+		'large, more than 2 times wider than the eyestalk'
+		'very small, barely wider than the eyestalk'
+		,
+		292
+		'open'
+		'semi-open'
+		'semi-closed'
+		'closed'
+		,
+		293
+		'symmetrical'
+		'asymmetrical'
+		,
+		294
+		'absent'
+		'present'
+		,
+		295
+		'elongated and ending in triangular or pointed tip'
+		'elongated and ending in rounded tip'
+		'short and round ?'
+		,
+		296
+		'shorter than appendix interna'
+		'longer than appendix interna'
+		'about same size as appendix interna'
+		,
+		297
+		'oval shaped'
+		'semi-triangular with rounded edges'
+		'semi-rectangular'
+		'semi-triangular with sharp edges'
+		'trumpet shape'
+		'elongated with triangular tip'
+		'trumpet shaped with membranous projection'
+		'elongated with round tip'
+		'circular'
+		,
+		298
+		'absent'
+		'present '
+		,
+		299
+		'open'
+		'closed'
+		,
+		300
+		'longer than somite 6'
+		'shorter than somite 6'
+		,
+		301
+		'absent'
+		'present'
+		,
+		302
+		'absent'
+		'present'
+		,
+		303
+		'absent'
+		'present'
+		,
+		304
+		'1 sulcus'
+		'2 sulci'
+		'3 sulci'
+		,
+		305
+		'absent'
+		'present'
+		,
+		306
+		'absent'
+		'present'
+		,
+		307
+		'spanning the entire or almost the entire width of the exopod'
+		'spanning more than half the width of the exopod but stopping conspicuously short of the edge ?'
+		'spanning less than half the width of the exopod'
+		,
+		308
+		'pointed'
+		'truncate'
+		,
+		309
+		'absent'
+		'present'
+		,
+		310
+		'1 pair of fixed spines'
+		'2 pairs of fixed spines'
+		'3 pairs of fixed spines'
+		'4 or more pairs of fixed spines'
+		,
+		311
+		'absent'
+		'present'
+		,
+		312
+		'3 pairs of movable spines'
+		'4 pairs of movable spines'
+		'more than 4 pairs of movable spines'
+		'2 pairs of movable spines'
+		'1 pair of movable spines'
+		,
+		313
+		'absent'
+		'present'
+		,
+		314
+		'1 pair'
+		'2 pairs'
+		'3 pairs'
+		'4 pairs'
+		'more than 4 pairs'
+		,
+		315
+		'absent'
+		'present'
+		,
+		316
+		'very small, less than 1 cm'
+		'small, reaching between 1 and 5 cm'
+		'medium, reaching more than 5 cm but less than 20 cm'
+		'large, reaching 20 cm or more'
+		,
+		317
+		'beige/off white/light gray'
+		'pink ?'
+		'orange'
+		'vermillion ?'
+		'blue-green'
+		'transparent/semi-transparent'
+		'brown'
+		,
+		318
+		'absent, no banded pattern'
+		'present, distinct banded pattern'
+		,
+		319
+		'absent, no banded pattern'
+		'present, distinct banded pattern'
+		,
+		320
+		'sub-littoral, restricted to less than 200 m'
+		'Mesopelagic, reaching 200-1000 m'
+		'Bathyal, reaching 1000-4000 m'
+		'Abyssal, exceding 4000 m'
+		,
+		321
+		'associated with hard substrates'
+		'associated with soft bottoms'
+		'predominantly pelagic'
+		,
+		322
+		'Observed in very cold water ?'
+		'Observed in cold to temperate water ?'
+		'Observed only in warm water ?'
+		,
+		323
+		'recorded in low DO, less than 2 mL/L'
+		'not recorded at DO lower than 2 mL/L'
+		,
+		324
+		'absent'
+		'present'
+		,
+		325
+		'regular acrosome vesicle ?'
+		'membrane bound spike ?'
+		'several cytoplasmic arms ?'
+		,
+		326
+		'spike contents are filamentous'
+		'spike contents are not filamentous'
+		,
+		327
+		'complex'
+		'simple'
+		,
+		328
+		'symmetrical '
+		'asymmetrical'
+		,
+		329
+		'absent'
+		'present'
+		,
+		330
+		'absent'
+		'present'
+		,
+		331
+		'eccentric'
+		'central'
+		,
+		332
+		'nucleoplasm is membrane bound'
+		'nucleoplasm not surrounded by membrane'
+		,
+		333
+		'lipid inclusions absent'
+		'lipid inclusions present'
+		,
+		334
+		'membranes closely apposed'
+		'membranes separated from each other'
+		,
+		335
+		'subacrosomal collar'
+		'perinuclear band'
+		'subacrosomal layer'
+		,
+		336
+		'absent'
+		'present'
+		,
+		337
+		'filamentous'
+		'granular'
+		,
+		338
+		'absent ?'
+		'present ?'
+		,
+		339
+		'long spike, representing about half of total length'
+		'short spike, representing 1/3 or less of total length'
+		
+	;
+	MATRIX
+	'Acanthochirana smithwoodwardi'		           ??10??1310011????1?????1???????????1010?00?????????????0???????01??0???????????????????????????1?0???????????????????????0111??????????????????????????????????????????????????????????1101???????????1101???????????????2?1?????????0??1????????????10????????100??11000000?0????111101???1???????????????0??101??0??????-2???????????????????????
+	'Aeger tipularius'		                        200-101??0011??????????1????0????????????0???????????????????????1?1???????????????????????????100????????????????????????111?????????????????????111???????????????????11?????????????110????????????110??????????????????11111?????0????????????????100000???1?00???000000100-0-1111011011???????????????01?1??100??????-2???????????????????????
+	'Acetes americanus carolinae'		             000-0-10-00110-0-0-0-0-1000000-00--0-0---00-00000-01130100-0-0-002101300--110-011-10-0-100-0-000000-0-0-0-100000---0--0--01010-0--0-0-1002200-0--11100-0--0-0-10010-0--0100-0--0-0-100-0--------0-0-100--------011--1-----0110211001000110000000000000000000001100000-00000010101011110110010000010?00--10?0101001010-0-0-015000?21????????????????
+	'Antrimpos speciosus'		                     2011101210011????1???0-111000???0--0-10?00?????111?1???00??0-??011?0???????????????????????????000???????????????????????0111????????????????????1111??????????????????011?????????????1101???????????1101??????21???????2?1?0?0?????0001000011??????1000000???1000???000000101010111101?1010????0?????????0???????0??????-3???????????????????????
+	'Aristaeomorpha foliacea'		                 ?01?0-10-0011100-100-0-1010000-011-0-101000-0000100010010110-0-0121011010011011110110111010111000010101110101100---0--0--01110-10011101011100-0--11110-100111010110-0--0110-1001110101011010-10011101011?10-0--1111?22?2??0111001010000010011110010111000000101100011000000000111111110110110010000?01111000101011000-110--330031010-----0110-1-00-
+	'Aristaeopsis edwardsiana'		                30100-10-0011100-110-0-0110100-011110110000-0100110002011110-0-0121011010011011110110111010111000010101110101100---0--0--01110-10011101011100-0--11110-100111010110-0--0110-1001110101011010-10011101011010-0--111111112220111001010000010011110010111000111101100011000000000111111110110110010000?01120000101011100-110--330031000-----0110-1-00-
+	'Aristeus virilis'		                        ?0100-10-0011100-100-0-0010000-011-10101000-0000100003011100-0-0121010010011011110110111010111000010101110101100---1000--01110-10012101011100-10011110-100121010110-1000110-1001210100-11010-0--12101011010-0--121112122220111001110000010001110000111000000101100001100000000111111110110110010000?01011000101011100-110--3001210010-1--0010-0100-
+	'Artemesia longinaris'		                    30120-10-0011100-110-0-1010001010--0-100000-00000-0010110100-0-01110101100111111101110-11101010000100-1010100000---0--0--01110-11010101001100-0--11110-110101010010-0--0110-1101010100-11010-0--10111011010-0--011112212211111111010111010001110000111000000101100000-00000010101011110110110001000200--40101010110010100--260001111101010110010000
+	'Atypopenaeus formosus'		                   30100-11100110-0-100-0-1010001010--0-101000-00000-1010100100-0-01110141111111111101111110101110000100-10101000010100--0--01111011010101001?1100--111110110101010000-0--011101001010100-1101100--0-0-101101100--0111122111111111110100?101000111000011110000010??00000-000000100-0-11110112010001000?00--4010001011?00-0-0--22??0121????????????????
+	'Atypopenaeus stenodactylus'		              101?0-1210011100-110-0-1010001000--10101000-10000-1010100100-0-01110101111111111101111110101110000100-10101000010100--0--01111010010101001?1100--111110100101010000-0--011101001010100-1101100--0-0-101101100--0112?22?2??1111111010001010111110000001100000101100000-000000100-0-11110112010001000200--4010001011100-0-0--12000121????????????????
+	'Bentheogennema intermedia'		               000-0-10-00110-0-110-0-0010110-00--10110010-00010-00020110-0-0-0011010010011011112110121?1011100001?1?1?1010?100---0--0--01110-100??????11?00-0--11110-100??????110-0--0110-100??????1?11010-100??????11010-0--121??2?????011?2?1000000110000010000000000000?01100000-11101010101011110110110000012?01120010??1011010-110-1????3?00????????????????
+	'Benthesicymus investigatoris'		            10100-10-00110-0-100-0-0110000-01110-110010-00001000020110-0-0-011101001001101111211?111010111000010101110101000---1000--01110-10010101011100-0--11110-100101010110-0--0110-100101010101???0-1001010101???0-0--111??2?????011?2?1010000110001110000011000000001100000-00000000111111110110110010002?011210?0101011100-1?0--?3002?00????????????????
+	'Benthonectes filipes'		                    10100-0--01110-0-110-0-1110000-01110-110010-00010-00020110-0-0-0111010010011011110110121010111000010101110101000---0--0--01111110011101011100-0--111111100101010110-0--01111100101010111111111001010101111110--121??2?????0121211010000110000110000011000000001100100-00000000111111110110110010002?01120000101011000-110--2???2101????????????????
+	'Cryptopenaeus clevai'		                    20100-13001100-0-110-0-1010001110--10110000-0000100113001100-100110?1001001111111011?1010101?1000011101?1?1?00110100--0--0111101??1?1?1?0?110-0--????1?1??1?1?1?010-??????1?1??1?1?1?0?1???1?1??1?1?1?1???1?0--1??????????11???1101?00101011111?0000011?00001?11?0000-?0000010??0-1111??11010011000???????0000111100100-0--21??1?11????????????????
+	'Deosergestes corniculum'		                 000-0-0--00110-0-100-0-1000000-00--0-110000-00010-00130110-0-0-002001301001110111010-0-10110-100000-0-0-101100010100--0--00-00-0--0-10110220100--11100-0--0-1011010-0--0100-0--0-10100-10-10-0--0-101010-10-0--011202000000110??1001001110000000000000000000001100011000000010101011110110010010000?00--50?0101001000-0-0--??001?000-----0110-1-00-
+	'Drobna deformis'		                         20100-1301-11??0-11??0-1????0????????????0???????????0??????????10?0???????????????????????????0?0???????????????????????0111????????????????????1111??????????????????011?????????????1101???????????1101???????111???002?1111?11???0?01????110000111111?111??1000???000000100-0-111111???10???00?????????0??10?1?0??????-2???????????????????????
+	'Euphausia superba'		                       100-0-0--00110-0-100-0-0000000-00--0-111000-00000-00030000-0-1001210130100110110101--100------0000100--------000---0--0--00-1100-----------00-0--110-100---------10-0--00-100----------0--------------0---------22--2-----0110100-00000010000000000000100000001100000-000000200-1-1111011101000-001?0---?0?0101000-00-0-12-2???12010-----011?-1-00-
+	'Farfantepenaeus aztecus'		                 201110121001111111110101110000-00--10100000-0101110010000110-0-01110121111111111101111111101010000101110101000110100--0--01111011010101001110-0--111110110101010010-0--011101101010100-1101100--100-101101100--111111220221130201010000010001110000001000000101100011100000010101011110111010001001?00--1010101211000-0-0--3?000121110100011?010000
+	'Fenneropenaeus merguiensis'		              30101112100111010110-0-1010000-00--10100000-0101110010000110-0-01110121111111011101111111101010000101110101000110100--0--01111011010101001110-0--111110110101010010-0--011101101010100-1101100--100-101101100--111111220221111211010000010001110000001000000000100011100000010101011110111010001000?00--0010001111000-0-0--3???01??11?100011?010000
+	'Funchalia villosa'		                       10100-1110011100-110-0-0010000-00--0-0---00-0000100000011110-1101110121111111011101111110101110000101110101000110100--0--0111101101010100111100--111110110101010010-0--011101101010100-1101100--100-101101100--111111112221120211010000010001110000001000000100100100-00001010101011110112010001001?10--400010101100110-0--20003200????????????????
+	'Gennadas valens'		                         000-0-10-00110-0-110-0-0010000-011-0-110010-01001000020100-0-0-0011010010011011112111121010111000010101110100110---0--0--01110-1001110100?100-0--11110-100101010010-0--0110-1001010100-11010-10010101011010-0--12211111112011?211000000110000010000000000000001100000-00001010101011110110110010002?012220?0101011010-140-0????3?00????????????????
+	'Gordonella paravillosa'		                  20100-13001110-0-110-0-1111010-011011110000-00000-001201111110-1111013010011111110111121010101000011101010100000---0--0--01111110010101001100-0--111111100101010010-0--011111001010100-1101111001010101101110--111112222220111111010001011111110000111100000001000000-11111010101011111110110010000?010151001010110010100--????2?01????????????????
+	'Hadropenaeus lucasii'		                    10100-13000100-0-110-0-1010000-010-10110000-0000100111000100-0-01110100100111111101111010101110000111011101000110100--10101111010010101001110-0--111110100101010010-0--011101001010100-1101101001010101101100--111111212111121111010001010011110000001100000101100000-000000100-0-11111112010011000?0111710010101100100-14-2???1?00????????????????
+	'Haliporoides sibogae'		                    20111010-00110-0-100-0-1010001010--0-110100-0000100013001111111011101001001111111011113101010100001210101010000101010011101111110010101001100-0--111111100101010010-0--011111001010100-1101111001010101101110--121111112111111111010000110001110000111100000101100000-00000010101011110112110011001?0112710010101100100-0--3?002?00????????????????
+	'Haliporus taprobanensis'		                 20100-12000110-0-1?0-0-1010001010--10110000-000010000301111111001210100100111111101111210101010000111010101010110101000--01111010010101001100-100111110100101010010-100011101001010100-1101101001010101101100--1111122122211111110100010111111100001111000001011000110000000101010111101121100110000011171001010110010100--?2002?10????????????????
+	'Hemipenaeus carpenteri'		                  00100-10-0011100-110-0-0010000-011-10110010-01100-0002011100-0-011?011010011011110110111010111000010101110101100---0--0--01111110011101011100-0--111111100111010110-0--01111100111010121??0111-11110101100110--12222???222011?001010000010011110001001000000101100001000000000111111110110110010010?01102000101011100-110--24003?01????????????????
+	'Hepomadus tener'		                         30100-10-0111100-110-0-1110000-01110-110010-0100100002011100-0-0111011010011011110110111010111000010101110101100---1000--01111110011101011100-100111111100111010110-0--011111001110100-1101111-11110101101110--12211211?2?0111001010000010011110010001000000101100001100000000111111110110110010010?01021000101011000-110--3???3?01????????????????
+	'Heteropenaeus longimanus'		                3110101110011100-110-0-1110000-00--10100000-0100110010111110-0-011101211111??1111?111111?101?10000101?10101000110100-----0111101101010100??10-0--11111011010101001?????011101101010100-1101100--100-101101100--1?????????21130301010010010000110000001000000101100100-00000110101011110112110001000100--0000001211000-110--240001??????????????????
+	'Hymenopenaeus debilis'		                   20111012000100-0-110-0-1010000-011-10110000-00000-001101110100-01210100100111111101111210101110000121010101000010100--0--0111101001010100?100-0--111110100101010010-0--011101001010100-1101101001010101101100--1??????????1111111010000010001110000001000000001100000-0000001010101111111201001100110112510010101100100-0--2???2?01????????????????
+	'Hymenopenaeus equalis'		                   20110-11000110-0-110-0-1010000-011-10110000-00000-0013?0110100-01210100100111111101111210101110000111110101000010100--0--01111011010101001100-0--111110110101010010-0--011101101010100-1101101101010101101100--121112111121111111010000010011110000111000000101100000-000000100-0-111101120100110011011211001010110010100--2???2?00????????????????
+	'Ifasya madagascariensis'		                 300-1010-0011??????0-0-1?1??0?????0??10100?????????1???00??????011??????????????????????????????????????????????????????????????????????????????????????????????????????1???????????????????????????????????????????????????????????????1??????0000?1?0????????1000???000000?0?????????1????0??????????????????????????????2???????????????????????
+	'Litopenaeus setiferus'		                   30111012100111010110-0-1110000-00--10100000-0101110010000110-0-01110121111111111101111111101010000101110101000110100--0--01111011010101001110-0--111110110101010010-0--011101101010100-1101100--100-101101100--111111222221120201010000010001110000001000000101100011100000010101011110111010001001?00--1000001111100-0-0--300001111101000111?10000
+	'Macropetasma africana'		                   ?0120-10-00110-0-100-0-1010000-00--0-100000-00000-0010100100-0-012101011001101111010-0-111010100000-0-1010100000---0--0--01111011010101001100-0--11110-110101010010-0--0110-1001010100-11010-0--0-0-1011010-0--011111220011111211010011010000110000011000000001100100-000000101?1?11110110010001000200--4000101011000-110--2???1???????????????????
+	'Marsupenaeus japonicus'		                  301110131001111111110111110000-00--10100000-0101110010000110-0-0111012111111111110111111110101000010111010100010---0--0--01111011010101001110-0--111110110101010010-0--011101101010100-1101100--100-101101100--111111222221130301010000010001110000001000000101100001100000010101011110111010001000200--0010001211000-100--30111121110100011??10000
+	'Megokris pescadoreensis'		                 20110-1110111100-110-0-1010000-00--0-10100101000101010000100-0-01110121101111111101111110101010000100-10101000110100--0--0111100--1010100?110-0--1111100--101010010-0--011101001010100-1101100--0-0-101101100--011111212211130201010000010111110000111100000101100000-00000010101011111112010001000?00--4010001011000-140--????0???????????????????
+	'Melicertus latisulcatus'		                 201110131001111111110111110000-00--10100000-0101110010000110-0-0111012111111111110111111110101000010111010100010---0--0--01111011010101001110-0--111110110101010010-0--011101101010100-1101100--100-101101100--111111222221100001010000010001110000001000000001100011100000010101011110111010001000?00--1010001211000-100--3???0?21????????????????
+	'Mesopenaeus brucei'		                      10100-13000100-0-110-0-1010001010--10110000-0000101110100100-0-0111010010011111110111121010101000011101?101000110100--0--0111101001?101001?10-0--1111101001?1010010-0--011101001?10100-1101101001?10101101100--1111122122111??101010001010011110000001100000101100000-000000100-0-11111110010011001??????10010101100100-0--2???1?11????????????????
+	'Metalpheus rostratipes'		                  200-0-0--00110-0-0-0-0-0000000-00--0-0---00-00000-00010000-0-0-01112141?00110??11110-11???????001-10100-0-0-0-00---0--10001110-100100-0-0?000-0--01110-100100?0-010-0--00-0-10010????0-11020-100110-0-11020-0---0000222222011130110?001110000000000000100000001100000-000000-1--10101010110?0---0--?----70?0010-01010-0-111?5000???????????????????
+	'Metapenaeopsis palmensis'		                20110-10-00110-0-100-0-1010000-00--0-101000-0000101010000100-1001110121101111111101111111101011000100-10101000110100--0--01111011010101001110-0--111110110101010010-0--011101001010100-1101100--1011101101100--0????1222221130301110000010111110000111000000101100000-000000100-0-11110112010001000?10--40100010110010100--20000121????????????????
+	'Metapenaeus ensis'		                       20110-11100111010110-0-1010001010--0-101000-0000101010111100-0-01110121111111111101111111101010000100-10101000110100--0--01111011010101001110-0--111110110101010000-0--011101001010100-1101100--10111011010-0--011111210211130301010000010111110000001000000101100011000000010101011110112010001000?00--4010101011000-0-0--20000?21????????????????
+	'Palaeobenthesicymus libanensis'		          000-0-0--1011????11????001?0??????-??110?1?????????????11??????011?0????????????1????1???????????0???????????????????????0111?????????????????1??1111???????????????12?011?????????????1101???????????1101???????????????2?12?2?1????0??1000?110000001000000???1000????????0????????11?110?11????0?????????0????11?0??????-2???????????????????????
+	'Paleomattea deliciosa'		                   00100-10-00110-??1???0-10?0000-00--0-???00???000???113?000-0-0-0?2?????????????????????????????????????????????????????????????????????????????????????????????????????????????????????1??1???????????1??1??????????????????????????????100000?00000010000000?1100000-000000?0??0-111101????????????????????1????1?????????1???????????????????????
+	'Parahepomadus vaubani'		                   ?0100-10-0011100-100-0-0110000-011110101000-000011000301111110-0121010010011011112110111?10111000010101110101100---0--0--01110-10011101011?00-0--11110-100111010110-0--0110-1001110100-11010-10011101011010-0--121111112220111001010000110001110000111000000101100101000000000111111110110110010000?01110000101011100-110--3???2?00????????????????
+	'Parapenaeopsis cornuta'		                  30110-1110011100-110-0-1110000-00--0-10100101000101010100100-0-01110121101111111101111110101010000100-1010100010---0--0--01111011010101001110-0--111110110101010010-0--011100--1010100-1101100--0-0-101101100--011111212221130201010001010001110000001000000101100001100000010101011110112010001000?00--4010001011000-0-0--20010121????????????????
+	'Parapenaeus sextuberculatus'		             20110-10-0011100-110-0-1010001010--0-10100111000101010000100-1101110121100111111101111110101010000100-10101000110100--0--01111111010101001100-0--111111110101010010-0--011110--1010100-1101110--100-101101110--021111212221120201010001010011110000111000000101100000-000000100-0-11110112010001000?00--401010101100100-0--2???1?101111010111010000
+	'Pelagopenaeus balboae'		                   2012101210011100-110-0-1000110-00--0-0---00-00010-00000100-0-1111110101111111011101111111101010200101110101000110100--0--0111101101010100111100--111110110101010010-0--011101101010100-1101100--100-101101100--121112222221120211000000010001110000011000000100100011000000010101011110112010001001100--8000101011000-100--20002210????????????????
+	'Penaeopsis eduardoi'		                     30120-10-0011100-110-0-1010001010--10100000-00000-0010000100-1101110141100111111101111111101010000100-10101000110100--0--01111111010101001100-0--111111110101010010-0--011111101010100-1101110--100-101101110--011111210211110301010100110001110000111000000101100000-000000100-0-11110112010001000?00--80101010111010130--2???1?01110101011?010000
+	'Penaeus monodon'		                         30101012100111010110-0-1110000-00--0-101000-0101110010000110-0-01110121111111111101111111101010000101110101000110100--0--01111011010101001110-0--111110110101010010-0--011101101010100-1101100--100-1011010-0--111111220021110201010000010001110000001000000101100011100000010101011110111010001000?00--0010001111100-0-0--3011012111?100011?010000
+	'Pleoticus robustus'		                      20110-120001?0-0-110-0-10100010110-10110000-0000101113101110-0-01110100101111111101111010101010000111010101000110100--13101111011010101001100-0--111110110101010010-0--011101101010100-1101101001010101101100--111??1?????1111111010000010111110000001100000101100000-000000100-0-1111111201001100010111710010101100100-0--330021011101100111110000
+	'Plesionika grandis'		                      30121213000110-0-100-0-0000000-00--0-0---00-00000-0003000100-10011101411001100111110-11100-0-1001-100-0-10100-00---0--0--01010-0--100-1001100-0--01110-0--100-10010-13000-0-0--100-100-11010-0--100-1011010-0--121111112220111211100000110000000000000100011101100100-000000001?111111001101000-001-----70?0111001000-1313-????1?11????????????????
+	'Plesiopenaeus armatus'		                   30100-10-0111100-100-0-0110000-01110-101000-0110110002011100-0-01110110100110111101111010101110000111011101011010101000--01111110011101011100-100111111100111010110-0--01111100101010101101111001010101101110--122112112120111001210000110011110010111000011101000001000000000111111111110110010010?01012000101011100-110--3???3?00????????????????
+	'Pseudaristeus kathleenae'		                ?0100-10-0011100-110-0-0110000-011110110010-0100100003011110-0-0121010010011011110110111010111000010101110101100---1000--01110-1001110101?100-10011110-100111010110-0--0110-1001110100-1??10-0--11101011010-0--1?1????????0111001010000010001110000111000000101100101000000000111111110110110010010?01022000101011100-110--2???2?00????????????????
+	'Rimapenaeus pacificus'		                   20110-10-0011100-110-0-1010000-00--0-10100111000101010100110-0-01110121101111111101111110101011000100-1010100010---0--0--01111011010101001110-0--111110110101010010-0--011101001010100-1101100--0-11101101100--0111112102111302010100010100111100000010000001011000011000000100-1011110112010001000?00--4010001011000-110--?0000?20????????????????
+	'Sergia robusta'		                          000-0-0--00110-0-0---0-0000000-00--0-101000-00010-00100110-0-0-002101301001110111010-0-10110-100000-0-0-10110000---0--0--00-00-0--0-101102200-0--11100-0--0-1011010-0--0100-0--0-10100-10-10-0--0-101010-10-0--011202202000110111001001110000000000001000000001100011000000010101011110112010000000?00--50?0101001000-0-12-?3002?00????????????????
+	'Sicyonella sp'		                           00100-10-00110-0-100-0-1010000-00--0-0---00-00000-01130000-0-10002111401001110011010-0-100-0-101010-0-0-11100000---0--0--01110-0--0-101101100-0--11110-0--0-1011010-0--0110-0--0-10110-11010-0--0-101011010-0--0??????????0110111010010110000000000000000000001100000-00000010101011110112010000012?00--70?0100-01000-110--????0?21????????????????
+	'Sicyonia brevirostris'		                   ?1100-13001110-0-110-0-1010000-00--0-0---00-00000-0000100110-0-01010121101110011111110-111011100000-0-1010100000---0--0--01110-1100-101001000-0--11110-1100-1010010-0--0110-1100-10100-11010-0--0-111011010-0--011111210210110101010000111111110000011111111101110000-000001200-0-11111102010100000?00--601010101100100-0--2?011101111000011?010000
+	'Sicyonia laevigata'		                      21101012000110-0-110-0-1010000-00--0-0---00-00000-00001000-0-0-01010121101110011111110-111011100000-0-1110100000---0--0--01110-1100-101001000-0--11110-1100-1010010-0--0110-1100-10100-11010-0--0-111011010-0--0212212000201101010100000111111100000011000011011100010000001200-0-11110102010100000?00--601010101100100-14-????1?21111000011?010000
+	'Sicyonia lancifer'		                       21101013001110-0-110-0-1010000-00--0-0---00-00000-00001000-0-0-01010121101110011111??0-111011100000-0-11101000110100--0--01110-1100-101001010-0--11110-1100-1010010-0--0110-1100-10100-11010-0--0-111011010-0--01111122022011010111?000011111110000001101111101110000-000001200-0-11111102010100000?00--601010101110100-0--26010121111000011?010000
+	'Solenocera melantho'		                     10110-12100100-0-110-0-1010001010--10110000-0000101113000100-0-01110101101111111101111010101010000111110101000110100--0--01111011010101001110-0--111110110101010010-0--011101101010100-1101101101010101101100--111112212211101011010001010011110000001100000101100000-00000010101011111112010011001?0112210010101100100-0--2?001?101101100110110?00
+	'Systellaspis pellucida'		                  3011111?00011100-110-0-0010000-011-0-0--000-00000-0012000100-0-001101001001100111110-11100-0-1001-10100-10100-00---0--0--0111101000-101001100-0--1111101000-101001--0--00-101000-10100-1101101000-10101101100--121111112220111211000000010010000010110000000000100100-00000010??0-11110012010000001?----70?0011001000-1112-????2?01????????????????
+	'Trachypenaeopsis mobilispinis'		           101?0-10-0011100-100-0-1010001010--0-101000-0000101010100100-0-01110121111111111101111010101110000100-1110100010---0--0--01111010010101001100-0--111110100101010010-0--011101001010100-1101100--0-11101101100--011112212221110201010010010000110000001000000101100000-000000100-1011110110010001000?00--40100010110010130--?0010?21????????????????
+	'Trachysalambria curvirostris'		            20110-1110111100-110-0-1010000-00--0-0---0101000101010000110-1001110121100111111101111110101010000100-10101000110100--0--01111011010101001110-0--111110110101010010-0--011101001010100-1101100--0-0-101101100--011111212211130201010000010111110000001100000101100000-000000100-1011110112010001001?00--2010001011000-100--2???0120????????????????
+	'Xiphopenaeus kroyeri'		                    30100-1110011100-110-0-1110000-00--0-0--00100000100010111110-0-01110101101111111101111111101010000100-10101000110100--0--01111011010101001100-0--111110110101010010-0--011101001010100-1111100--0-0-101111100--011112111111111211010001010001110000111000000101100011100000010101011110112110001000?00--4010001011000-0-0--2???012111?????????????1
+    ;
+    ENDBLOCK;
+
+          BEGIN ASSUMPTIONS;
+      TYPESET * UNTITLED = unord: 1 - 339;
+      ENDBLOCK;
+      
