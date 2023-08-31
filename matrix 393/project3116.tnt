@@ -1,0 +1,85 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 09.47.07'
+54 13
+
+&[num]
+Hapalops                    01001011000?0000?10??121?01?00???100010010110?2110?001
+Eucholeops                  101?0111001210?0102?1110?01001?20?010100??10200100100?
+Megalonychotherium          1?01011?001110?1102?11001111??1201010100?0?0012010000?
+Pliometanastes              101?0?2?1??????1?12?11???0?2??0?0012001110?00?000?0?1?
+Pliomorphus                 ?01101?111??0001102?112100?101020012101210101120010111
+Megalocnus                  21110120110200?11?0?002?0202020110121012????22?0011111
+Parocnus                    2112012?111?00??1?0?10201202120110121012????0?20000010
+Neocnus                     ?0120010111?0011102?1021111?01???012000101101120010110
+Acratocnus                  101201?011230011102?002000?212120012?0110100?2?0010110
+Megalonyx                   ?21?012110031101112?0120000102020012?01210101000021011
+Megistonyx                  1?1100211023111?1?1?2121121200110112011210??1?20120110
+Choloepus                   1012010?011300?1000?21200202101?0012101001002010000100
+Ahytherium                  10120021102311111?0?1121000210110012001200102210020111
+
+;
+
+
+cnames
+{ 0 Shape_of_outline_of_upper_caniniform_(C1)_in_cross-section ovate,_elongated_anteroposteriorly trigonal rectangular_or_incisiform ovate_transversely,_with_posterior_bulge;
+{ 1 Wear_surface_on_C1 oblique,_nearly_vertical_wear_facet oblique_facet tooth_with_strong_transverse_crests;
+{ 2 Anterior_projection_of_alveolus_of_C1 absent present;
+{ 3 Alignment_of_C1 in_line_with_other_molariforms,_line_passing_forward_along_lateral_edge_of_molariforms_passes_lateral_to_C1 slightly_displaced_laterally,_line_passing_forward_along_lateral_edge_of_molariforms_bisects_C1 strongly_displaced_laterally,_line_passing_forward_along_lateral_edge_of_molariforms_passes_medial_edge_of_C1;
+{ 4 Position_of_C1_relative_to_the_anterior_edge_of_the_maxilla right_at_the_edge clearly_sep_arated_from_the_edge;
+{ 5 Fossa_on_palatal_surface_of_maxilla_posterior_to_C1 absent present;
+{ 6 M2_and_M3_cross-section ovate_anteroposteri_orly rectangular trapezoidal reniform;
+{ 7 M4_curvature_in_lateral_view straight curved_anteriorly;
+{ 8 Long_axis_of_molariform_teeth parallel_or_orthogonal_to_long_axis_of_tooth_row oblique;
+{ 9 Orientation_of_snout_in_lateral_view horizontal downturned_anteroventrally;
+{ 10 Degree_to_which_snout_flares_mediolaterally_towards_anterior_end,_in_dorsal_view uniform slightly_flared strongly_flared;
+{ 11 Width_of_snout_measured_at_midpoint snout_narrow,_width_<_20%_of_BNL width_>_20%,_≤_25%_of_BNL width_>_25%,_≤_30%_of_BNL snout_broad,_width_>_30%_of_BNL;
+{ 12 Height_of_snout snout_depressed_anteriorly deep,_elevated_anteriorly;
+{ 13 Length_of_snout_(measured_anterior_to_lacrimal_eminence) relatively_elongate,_≥17%_of_BNL shortened,_≤16%ofBNL;
+{ 14 Anterior_edge_of_nasal with_lateral_process_and_medial_process_separated_by_distinct_notch straight_or_concave;
+{ 15 Anterior_edge_of_maxilla_with_fossa_lateral_to_external_nares absent present;
+{ 16 Antorbital_or_buccinator_fossa_of_maxilla weak well_developed;
+{ 17 Maxilla_contacts_lacrimal_within_orbit present excluded_by_orbital_exposure_of_jugal;
+{ 18 Position_of_infraorbital_canal canal_short,_ventrally_situated canal_elongate_and_ventral canal_elongate_and_displaced_dorsally;
+{ 19 Palate_with_paired_anterior_foramina_that_open_into_distinct_grooves_that_run_anteriorly_toward_the_incisive_foramina_(=_anterior_palatal_foramina) absent present;
+{ 20 Minimum_width_of_palate less_than_width_of_widest_molariform roughly_equal_to_width_of_widest_molariform greater_than_width_of_widest_molariform;
+{ 21 Mediolateral_contour_of_palate concave_between_tooth_rows flat_to_convex_between_tooth_rows;
+{ 22 Anteroposterior_contour_of_palate flat flat_posteriorly,_concave_anteriorly convex_posterior_to_dentition,_concave_anteriorly;
+{ 23 Size_of_lacrimal_foramen small,_maximum_diameter_<2.5%_of_BNL large,_diameter_≥3%_of_BNL;
+{ 24 Position_of_sphenopalatine_foramen_relative_to_sphenorbital_fissure/optic_foramen situated_well_anterior_and_ventral_to_these_openings just_anteroventral_to_orbital_foramina,_situated_in_common_fossa;
+{ 25 Pterygoid_inflation uninflated inflated_only_at_base large_sinus_present;
+{ 26 Pterygoid_lateral_groove absent present;
+{ 27 Frontal_sinus absent small,_restricted_to_frontal large,_extends_into_parietal_and_nasal;
+{ 28 Postorbital_process_of_frontal absent weakly_developed strongly_developed;
+{ 29 Position_of_postorbital_process_of_frontal well_posterior_to_maxillary_foramen displaced_anteriorly_to_level_of_maxillary_foramen strongly_displaced_anteriorly,_lies_anterior_to_maxillary_foramen;
+{ 30 Postorbital_constriction absent_or_weak moderately_to_strongly_developed;
+{ 31 Temporal_lines_on_skull_roof absent_or_rudimentary temporal_lines_converge_but_do_not_contact temporal_lines_converge_to_form_a_single_sagittal_crest_for_at_least_a_portion_of_length [Code_as_state_2_if_single_crest_is_present_at_any_point];
+{ 32 Posterior_segments_of_temporal_lines are_confluent_with_sagittal_crest_or_with_nuchal_crest_posteriorly do_not_meet,_curve_ventrally_and_run_anterior_but_parallel_to_nuchal_crest;
+{ 33 Dorsal_edge_of_zygomatic_process continuous_with_the_nuchal_crest separate_from_the_nuchal_crest;
+{ 34 Direction_of_root_of_zygoma anterolateral lateral;
+{ 35 Shape_of_glenoid elongate_anteroposteriorly elongate_anteroposteriorly_and_widened_mediolaterally widened_mediolaterally;
+{ 36 Glenoid_posterior_shelf absent present;
+{ 37 Posterior_surface_of_glenoid smooth rugose;
+{ 38 Glenoid_position_relative_to_superficies_meatus at_or_above_meatus ventral_to_meatus;
+{ 39 Position_of_glenoid_relative_to_porus_acousticus just_anterior separate well_separate;
+{ 40 Tympanic_external_surface smooth rugose;
+{ 41 Entotympanic_lateral_plate thick_mediolaterally thin;
+{ 42 Entotympanic_participation_in_sulcus_for_internal_carotid forms_lateral_wall_and_roof forms_lateral_wall,_roof,_and_at_least_part_of_medial_wall;
+{ 43 Position_of_medial_expansion_of_entotympanic dorsal_to_basicranium at_level_of_basicranium;
+{ 44 Paroccipital_process weakly_developed_or_rudimentary well_developed greatly_enlarged,_free-standing_process;
+{ 45 Condyloid_foramen_size small,_maximum_diameter_<2%_of_BNL moderate,_diameter_≥2%,_<3%_of_BNL enlarged,_diameter_≥3%_of_BNL;
+{ 46 Supraoccipital_exposure_on_cranial_roof absent small large;
+{ 47 Nuchal_crest uniform_width splits_dorsally_into_anterior_and_posterior_occipital_crests,_which_together_outline_a_raised_triangular_area_in_the_dorsal_surface_of_the_skull_roof;
+{ 48 Shape_of_occiput_when_viewed_posteriorly semicircular triangular;
+{ 49 Width_of_occiput_(maximum_width_of_occiput_excluding_mastoid_and_mastoid_process [=_paroccipital_process_of_Wible_and_Gaudin,_2004] ) narrow,_≤35%_of_BNL intermediate_width,_36–40%_of_BNL wide,_>40%_of_BNL;
+{ 50 Inclination_of_occiput_in_lateral_view inclined_anterodorsally vertical;
+{ 51 Profile_of_dorsal_surface_of_the_braincase_in_lateral_view roughly_horizontal,_flat_or_irregular evenly_convex;
+{ 52 Basicranial/basifacial_flexion absent,_cranial_base_roughly_horizontal present,_basifacial_axis_flexed_posteroventrally;
+{ 53 Position_of_orbit_in_lateral_view in_typical_mammal_position displaced_ventrally,_at_or_below_the_level_of_the_tooth_row;
+;
+
+
+ccode  - 0.2 4.9 12.19 21.24 26 30 32.34 36.38 40.43 47.48 50.53 + 3 10.11 20 25 27.29 31 35 39 44.46 49;
+
+
+;

@@ -1,0 +1,80 @@
+nstates num 3;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 09.50.41'
+47 15
+
+&[num]
+Adocus_sp.                            000000000000000000000000000000000000000?0000000
+Zangerlia_testudinimorph              ??????????????1?110??111?00011011??????001111??
+''Zangerlia''_neimongolensis          1000011?101001111110?10111110000210011110111?10
+''Zangerlia''_ukhaachelys             1000011?????????1?10???1??????0111???1?100111??
+Basilemys_variolosa                   ?000001?1??111110000010101111010210?0111111110?
+Basilemys_gaffneyi                    ??????????????110000?0010111101021010111??11101
+Basilemys_sinuosa                     ????????????????0000?10101?11010210011111111111
+Basilemys_praeclara                   ????????????????0??0???101?110102?001111???1111
+Hanbogdemys_orientalis                ???????????1111?0010110101110001110101010111110
+Anomalochelys_angulata                ?????????????????01101??0220????1?01011???111??
+Nanhsiungchelys_wuchingensis          10111??110?1?1110?20????0220???1111101112?111?0
+Kharakhutulia_kalandadzei             ????????????????0?000??10101???1?00?00010111101
+Jianxichelys_ganzhouensis             ????????????????1110?1011111000021?????????1??0
+''Zangerlia''_dzamynchondi            ????????????????0110??110??????0210?01010111100
+Basilemys_morrinensis                 ????????????????00000?010111101021?001111111?11
+
+;
+
+
+cnames
+{ 0 External_narial_opening small_to_moderate_size_(less_than_half_the_width_of_the_orbit)_and_faces_anteriorly large_(more_than_half_the_width_of_the_orbit)_and_faces_anterodorsally;
+{ 1 Numerous_deep_cranial_scute_sulci_on_dermal_roofing_elements absent;
+{ 2 Extensive_postorbital_squamosal_contact_due_to_the_great_anterior_extent_of_the_squamosal_and_the_greatposterior_extent_of_the_postorbital absent present;
+{ 3 Extent_of_upper_temporal_emargination foramen_stapedio-temporale_fully_exposed_in_dorsal_view foramen_stapedio-temporale_concealed_in_dorsal_view;
+{ 4 Extent_of_lower_temporal_emargination moderately_developed,_processus_pterygoideus_externus_barely_visible_in_lateral_view absent_or_shallow,_processus_pterygoideus_externus_concealed_in_lateral_view;
+{ 5 Lingual_ridges_of_maxilla double single_or_absent;
+{ 6 Antorbital_groove_on_the_surface_of_the_maxilla_along_the_anteroventral_rim_of_the_orbit absent present;
+{ 7 Medial_contact_of_palatines absent present;
+{ 8 Incisura_columella_auris open_posteriorly closed_posteriorly;
+{ 9 Size_and_contacts_of_the_basisphenoid basisphenoid_short,_anteriorly_only_in_contact_with_pterygoid basisphenoid_elongate,_anteriorly_in_contact_withvomer_or_palatine;
+{ 10 Central_morphology_of_the_eighth_cervical opistocoelous biconvex;
+{ 11 Coracoid flat_and_elongate flat,_fan-shaped;
+{ 12 Size_and_medial_contact_of_thyroid_fenestrae fenestrae_large_and_confluent fenestrae_small,_medialcontact_absent;
+{ 13 Thelial_process_of_ilium present absent;
+{ 14 Length_of_manual_and_pedal_digits digits_elongate,typically_three_phalanges_per_digit digits_shortened,less_than_three_phalanges_per_digit;
+{ 15 Limb_osteoderms absent present;
+{ 16 Steep_deflection_of_the_postneural_part_of_the_carapace absent,_posterior_peripherals_greatly_flared present,_posterior_peripherals_shortened;
+{ 17 Knobby_protrusion_of_the_carapace_at_the_position_ofthe_first_suprapygal absent present;
+{ 18 Nuchal_notch absent_or_shallow present,formed_by_the_nuchal_and_peripheral_I present,formed_by_nuchal_only;
+{ 19 Shape_and_size_of_nuchal small_and_trapezoid large_and_V-shaped;
+{ 20 Costiform_process_of_nuchal absent present;
+{ 21 Neurals neurals_VII_and_VIII_reduced_or_lost full_set_of_eight_neurals_present;
+{ 22 Contacts_of_suprapygals_with_peripherals contactwith_peripherals_X_and_XI contact_with_peripheralXI_only;
+{ 23 Shape_of_pygal longer_than_wide wider_than_long;
+{ 24 Medial_process_of_marginal_2 absent present;
+{ 25 First_vertebral_scute with_straight_lateral_edge with_convex_or_angled_lateral_edge with_lateral_edges_converging_anteriorly;
+{ 26 Anterior_contacts_of_vertebral_I anterior_side_verywide,_in_contact_with_marginal_II anterior_side_moderately_wide,_in_contact_with_marginal_I anteriorside_constricted,_primarily_in_contact_with_cervical_only;
+{ 27 Second_to_fourth_vertebral_scutes width_greater_than_half_length width_less_than_half_length;
+{ 28 Contacts_of_vertebral_V_with_marginals_X_and_XI vertebral_V_only_in_contact_with_half_the_length_of_marginal_XI vertebral_V_contacts_full_length_of_marginal_XI_and_may_even_contact_marginal_X;
+{ 29 Position_of_vertebral_V_relative_to_suprapygals vertebral_V_only_partially_covers_suprapygals vertebral_V_fully,_or_almost_fully,_covers_the_suprapygals;
+{ 30 Position_of_vertebral_V_relative_to_peripheral_X vertebral_V_does_not_reach_peripheral_X vertebral_V_clearly_covers_part_of_peripheral_X;
+{ 31 Sulcus_between_pleural_I_and_marginals_II_and_III clearly_situated_on_peripherals situated_on_or_near_suture_of_peripherals_and_costals_or_clearly_situated_oncostals;
+{ 32 Sulcus_between_pleural_III_and_marginals_VII-IX clearly_situated_on_costals situated_near_suture_of_peripherals_and_costals clearly_situated_on_peripherals;
+{ 33 Extent_of_anterior_plastral_lobe anterior_lobe_covered_by_carapace_in_dorsal_view anterior_lobe_protrudes_farther_anterior_than_carapace;
+{ 34 Extragulars present absent;
+{ 35 Fusion_of_gulars absent present;
+{ 36 Size_and_medial_contact_of_extragulars extragulars_small_or_absent,_and,_if_present,_do_not_meet_medially extragulars_elongate,_in_medial_contactwith_another,_thus_hindering_a_contact_between_gulars_and_humerals;
+{ 37 Broad_dorsal_extension_of_gulars_onto_thickened_anterior_plastral_lip absent present;
+{ 38 Position_of_gulars_and_extragulars_relative_to_entoplastron scutes_do_not_overlap_entoplastron scutes_overlap_onto_entoplastron;
+{ 39 Humero-pectoral_sulcus does_not_intersect_entoplastron intersects_entoplastron;
+{ 40 Inframarginals four_or_three_pairs two_pairs absent;
+{ 41 Expansion_of_the_ventromedial_edge_of_marginal_VI absent present;
+{ 42 Participation_of_pectoral_to_rim_of_axillary_notch present absent;
+{ 43 Sculpturing_of_the_shell_surface_with_relatively_big_and_irregular_pits_and_grooves absent present;
+{ 44 Overlapping_of_scales_on_the_dorsal_surface_of_plastral_lobes absent present;
+{ 45 Ratio_of_midline_epiplastral_suture_length_to_total_midline_plastral_length 0.10_or_less greater_than_0.10;
+{ 46 Epiplastral_beak_distinct_from_anterior_plastral_lobe absent present;
+;
+
+
+ccode  - 0.46;
+
+
+;

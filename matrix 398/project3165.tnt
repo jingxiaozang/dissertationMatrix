@@ -1,0 +1,105 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 09.50.12'
+59 28
+
+&[num]
+Nyctiphruretus_acudens                0000000000001000000?0000000000000?000000000000000000??00000
+Owenetta_kitchingorum                 0000000000101001000?0010000000010?00000000?0?00010010010000
+Barasaurus_besairiei                  0000000000101001000?0010000000010????1???01?00001001001100?
+Coletta_seca                          001001000000200???0????0?10100020?11??0?0??????????????????
+Pintosaurus_magnidentis               20????????????????0????0?20100020?111??10??????????????????
+Sauropareion_anoplus                  ????0101002020100000?110010000020?11101001???00?011011111?1
+Phaanthosaurus_spp                    10101100???0??????1?????020110020?101?010??????????????????
+Eumetabolodon_dongshengensis          ?????11????0??????1????????000030?1?1??00??????????????????
+Theledectes_perforatus                ??????12103020?11??????0?21010030????0000?????????00???????
+Tichvinskia_vjatkensis                0?10010210302011101000000211101310101?0120?0?0???100??01101
+Timanophon_raridentatus               ?????10201202110101?010?02?11013?01010012??????????????????
+Kapes_spp                             1111?11201302011111????00211?0131010100?1?????????????????1
+Thelephon_contritus                   ??????12012020?111?????0????101?101?10?????????????????????
+Eumetabolodon_bathycephalus           211111021020211??21??10002111013101010012?1????????????????
+Procolophon_trigoniceps               211111011020211112100100021?00?3101?10012101010111101101101
+Thelerpeton_oppressus                 2?111?0110202111121??1?00211101?10101001??????011???11?????
+Teratophon_spinigenis                 211111?110?02111121?0100021110131010100??1???1011110?????01
+Pentaedrusaurus_ordocianus            ?111110212302111111????1121110131?111001?11?0?11111010?110?
+Neoprocolophon_asiaticus              ??1111?21??021?21?1?????1?????1?1?11?0?????????????????????
+Sclerosaurus_armatus                  ???????310??32?2?????????3??1??31?????????11010??11?101111?
+Scoloparia_glyphanodon                ?????0031?3232???1?????1?311002?10????012????????????????1?
+Leptopleuron_lacertinum               ?1100022103132?212111?1113?111?41?11201?1??0?1???????????0?
+Soturnia_caliodon                     10???0????????????1????113111124112???12001?1??????0???????
+Hypsognathus_fenneri                  ?01?00231032320?12111111131111141121211???1?11?????0?????0?
+Kitchingnathus_untabeni               ?1??010?00?020?110?????00?01001200?????12????????????????0?
+Phonodus_dutoitorum                   1??1111????0000???1?????????10??0?1121????????????????????1
+Lasasaurus_beltanae                   ???????????0201????????00??1101?00???0??????00011?0010?????
+Mandaphon_nadra                       21110?021120221112???1?113111?13101???????????011????????0?
+
+;
+
+
+cnames
+{ 0 Max_premaxillar_subnarial_process present absent premax_posterodorsally_expanded;
+{ 1 External_naris_relative_to_premaxillary_tooth posterior_to_first_premaxillary_tooth anterior_to_first_premaxillary_tooth;
+{ 2 external_naris anteroposteriorly_elongated subcircular State_2;
+{ 3 Wide_internarial_bar absent present;
+{ 4 snout long_flat deep_short;
+{ 5 Maxillary_depression absent present;
+{ 6 prefrontal medial_border_straight medial_process confined_to_orbital_rim;
+{ 7 Posterior_margin_orbitotemporal_f anterior_to_post_margin_of_p_foramen posterior-most_point_of_the_p_foramen beyond_the_posterior_border_of_p_foramen far_beyond_p_foramen;
+{ 8 Pineal_opening_insertion shallow_fossa flush_with_dorsal_surface;
+{ 9 pineal_opening_shape rounded teardrop-shaped straight_posterior_border;
+{ 10 Postfrontal contacts_fro_pa_po contacts_fro_pa_pob_st contacts_fro_pa absent/fused;
+{ 11 jugal_lateral_processes absent one two;
+{ 12 Temporal_ventral_margin roughly_straight acutely_emarginated broadly_excavated convex;
+{ 13 Quadratojugal_lateral_surface spineless one_spine two_or_more_spines;
+{ 14 Squamosal_ventral_margin_terminates at_least_as_far_ventrally_as_quadratojugal dorsal_to_quadratojugal;
+{ 15 pp-parietal_posterior_margin concave acute_posterior_process broad_posterior_process;
+{ 16 postparietal present absent/fused;
+{ 17 supratemporal_posterolateral_margin rounded acute prominent_spine;
+{ 18 vomer_width broader_than_choana roughly_equal_or_narrower;
+{ 19 epipterygoid_columella ends_freely contact_dorsally_prootic_and_supraoccipital;
+{ 20 parasphenoid_cultriform_process_directed anteriorly_and_tapers_to_sharp_tip vertically_and_sharp vertically_as_robust_pillar;
+{ 21 basioccipital-quadrate_relation posterior_border-quadrate neck-quadrate anterior_border-quadrate;
+{ 22 Occipital_condyle uniform tripartite;
+{ 23 dentary_ventral_dorsal_surfaces nearly_pararel oblique_15_degrees_or_more;
+{ 24 articular-marginal_dentition_relation roughly_in_line well_below;
+{ 25 Premaxillar_tooth_number five_or_more four three two;
+{ 26 premaxillar_teeth subequal enlarged_mesialmost_incisor;
+{ 27 maxillary_teeth_with_labiolingually_expanded_bases absent present State_2;
+{ 28 maxillary_bulbous_teeth absent present;
+{ 29 maxillary_teeth_cervices not_constricted constricted;
+{ 30 Maxillary_teeth_cusps one two monocuspid_teeth_absent;
+{ 31 maxillary_tooth_number 40_or_more 35-15 12-10 8-6 5;
+{ 32 Maxillary_cheek_teeth not_inset inset;
+{ 33 maxillary_teeth_deep_occlusal_deppresion_or_basin absent present;
+{ 34 Vomerine_dentition several_denticles true_teeth entirely_absent;
+{ 35 vomerine_teeth/denticles_along_posterior_medial_suture present absent;
+{ 36 Palatine_dentition denticles true_teeth absent;
+{ 37 pterigoyd_posterior_denticles/teeth present absent;
+{ 38 dentary_incisors two_or_more one;
+{ 39 dentary_teeth_basal_cross_section circular labiolingually_expanded mesodistally_elongated;
+{ 40 dentary_molariform_teeth_cusps_number one two_very_close two_separated;
+{ 41 posterior_dorsal_zygapophysis short enlarged;
+{ 42 longitudinal_sulcus_in_pleurocentra present absent;
+{ 43 caudal_vertebrae 20_or_more 17_or_less;
+{ 44 presacral_intercentra present absent;
+{ 45 rib_cage_maximum_width short large (>70% glenoid-acetabular length);
+{ 46 interclavicle_posterior_margin_of_lateral_processes concave straight;
+{ 47 interclavicle_longitudinal_ridge smooth prominent(and continues posteriorly);
+{ 48 interclavicle_lateral_processes_distally straight posteriorly_curved;
+{ 49 ectepicondylar_foramen_or_groove_on_humerus present absent;
+{ 50 Entepicondylar_process parallel_to_shaft perpendicular;
+{ 51 entepicondylar_foramen_on_humerus present absent;
+{ 52 non-terminal_manual_phalanges long-slender short-robust (phalanges ii-iv, >1.5, <1.5);
+{ 53 ungual-penultimate_manual_phalanx_ratio longer equal_or_shorter;
+{ 54 Illiac_anterior_surface convex straight;
+{ 55 femur-humerus_length_ratio femur_longer femur=humerus;
+{ 56 femur slender robust (>9, <9);
+{ 57 osteoderms absent present;
+{ 58 Lacrima-ectopterygoid_contact State_0 State_1;
+;
+
+
+ccode  + 0 7 17 25 30.31 - 1.6 8.16 18.24 26.29 32.58;
+
+
+;

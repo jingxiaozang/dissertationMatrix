@@ -1,0 +1,260 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 09.49.45'
+209 33
+
+&[num]
+Emys_orbicularis                      0001000000000000000000000010000000-0-00100-01?000000010200100????????0????000000000110010000010000000001001?000000111000-2102-?00100111211--00???????0?????0??00?????0-1000-1000001----00-02220??01-------1001121
+Testudo_graeca                        11010100000001-00101110?21100100000101021110?100100?110211100?101110100-?0000110000213221??012001010010100000?1100022?0122210-1102011112000000000020?1110010?101??1??0-0000-1000011----002022200011-------1102020
+Cuora_amboinensis                     00?1000000100010000100012000000000-0-00100-020000100010?01010?????1?00???0001000000201110121020000000001020?002000111000-21010201100000011--000001???0?????0??00?????0-000???0?00?20?02---?2??0--01-------111-120
+Heosemys_annandalei                   001?00?000200??00?11100????0000?0?????0????1?00?0????????1000????????1????00???0001??11????002???0?0100100?0?0?000034100-0010-2000000000100000???????0????????00?????0-00?1?0??00?2??02002110200001-------???????
+Rhinoclemmys_annulata                 00??000000100??01?0?000????0000?0?????0????0?00?0????????1000????????0????00???00????11????0?????0?0??0?00?000????011100-200102000000??1100000???????0????????01?????0-00011?0?00??1??2112????0?101-------?????21
+Batagur_baska                         000000100000001000101000010?01001011000100-110000000000100010100110101110-0000000002100100?1020000?010000000111002045000-20110000000000100010000010010??000?1010100100-000?00?000?200?2???0?2000001-------0104301
+Sacalia_bealei                        0001000000100010000010010010001001-0-00100-020000100010101010??10?1?00????0001100001???10000020000000101000?002000034000-20010200000000010000000111110????????00?????0-0001100?002202?2110121101101-------1003101
+Orlitia_borneensis                    001100000000001000100001?00001000100000100-020000000000011020??1011?1010??00???10????00????0?????0?0??0?00?0?0?0??033??0??????0?0000000??00?00???????0????????00?????0-000?100100?20202??????000001-------???????
+Callagur_borneoensis                  000100100000000000101001010001001100000100-120000000010001010??11?1?110-1000???00????00????0?????0?00?0101?0?0?002043000-?010-0000000000000000???????0????????00?????0-000?10??00??0??21?00??000001-------11?????
+Mauremys_caspica                      0000000000100?10000?00000110000000-0000100-0200000000100110101110?1010100-000020000110010000020000000100001??02000034000-21010200000000000000000000110??0?01??00000000-000?1???002202?2112?2??0??01-------0001100
+Siebenrockiella_crassicollis          00?0000000000000000010011000000000-0-00100-010000010010001020111101?10100-000001000110010000020001?001020000?00000035000-2101010000000000000000??????0????????00000000-0001??0?00???2?2??0??????001-------?1?????
+Cyclemys_dentata                      000?000000100??00?00000????000000?????0????0?00?0????????0010????????0????00???01??11??1???002???1?0??0?00?00000??111??0??????2?0000011??00101???????0????????00?????0-0001100000??0?02---????0??01-------11?????
+Cuora_flavomarginata                  000?010000200??00?0?000????0000?0?????0????0?00?0????????1000????????0????00???00????11????1?????0?0??0?01?00000??111??0????????1100011??1-?10???????0????????01?????0-000?1?0000?20402---0??20--01-------???????
+Heosemys_grandis                      001?00?000200??00?00000????0000?0?????0????0?00?0?????????0?0????????0????00???0?????11????0?????1?0??0?00?0?000??034??0????????0000000??00?01???????0????????01?????0-00011?00000202?201?121200001-------11?????
+Geoclemys_hamiltonii                  0111001000010000000010010011100?00-0-00100-0200001000101010101??1?1?11100-1010000001100100000200110001020010?02000033000-210101000100001000100???????0????????00?????0-000210?0000?02?2?11?????00?1-------1111201
+Kachuga_kachuga                       001?001000000??00?10100????0010?1?????0????1?00?0????????1020????????1????00???00????00????0?????0?0??0?10?011?0??043??0??????0?0000000??00?00???????0????????00?????0-00??1???????0202????2?000?01-------11?????
+Cuora_mouhotii                        000?010000100??00?00111????0000?0?????0????0?00?0????????1000????????0????10???00????11????0?????1?0??0?00?000?0??111??0????????1100000?????00???????0????????01?????0-0002100000?20202---1???0??01-------???????
+Notochelys_platynota                  011?001000100??00?00000????0000?0?????0????0?00??????????10?0????????0????00???00????00????002???1?0??1?01?000?0??103??0??????1?0100001??1-?00???????0????????00?????0-000?10?0002202?2????21201101-------11?????
+Rhinoclemmys_pulcherrima              00??000000100??00?01000????0000?0?????0????0??0?0????????10?0????????0????001000000101110??002??00000?02000000?00?014000-2102-20000001?0100000???????0????????00?????0-00011?000022121211?????0??01-------11???21
+Mauremys_reevesii                     0011001100000000000010011011100000-0-00100-010000100010101020??11?0?010-0-1001000001100100000200000000000000?00000033000-2102-200000000010010000011000?????1??00?????0-00021???00?2?2?2??2???0??001-------1103101
+Mauremys_sinensis                     00010010000000100?101000???001000000000100-1?100000??102010?0????????0????00000000011001000002000000?0020010?02000045000-1110-2000000000100000???????0????????00?????0-000?1??0?0?2?2?2??????1?0001-------11???21
+Geoemyda_spengleri                    000?0?0000000??01?00101????0000?0?????0????0?00?0????????10?0????????0????10???00????11????0?????1?0??0?00?000?0??034??0????????0000000??00?00???????0????????01?????0-000?100?00?2?212?001?2?01101-------11?????
+Malayemys_subtrijuga                  0011000011001001000010020011000000-0-10100-020100100000?01020????????1????100000000110?000000200000011010000?02000033000-2000-0000000001000100???????0????????00?????0-00021?0?00?2?2?2???1????0001-------110?121
+Pangshura_tentoria                    000?001000000??00?10100????0010?0?????0????1?00?0????????1020????????1????0100000001100110000200000000021000112000043??0??????0?0000000??00?00???????0????????00?????0-00?110?2??0?0?02??1??1????01-------11002??
+Hardella_thurjii                      000?001000000??00?10100????0110?1?????0????1?00?0????????0?01????????1????00???00????00????002???0?0??0?01?010?0??045??0??????0?0000000??00?00???????0????????00?????0-001110??00??0?--????????0001-------11?????
+Melanochelys_trijuga                  000?0?0000100??00?00000????0000?0?????0????0??0?0????????1000????????0????1001000001131110000200000000020000?02000034000-2102-2000000001100000???????0????????00?????0-000?11??00??02?2112?22000?01-------???????
+Mauremys_aristotelica                 ??????????????????????????????????????????????????????????????????????????0000200101100100000201000000000001002001033010-2102-200000000000010?????????????????????????????1010000330212??21???0??01-------10002??
+Mauremys_campanii                     ??????????????????????????????????????????????????????????????????????????000020000110010000??010000000000010020010???10-2102-2000?0?0?100010?????????????????????????????12?00003202?????0??100?01-------000?1?1
+Clemmydopsis_mehelyi                  ????????????????????????????????????????????????????????????????????????????0020000101100000??0100001000000110200?0??100-2111020000????100100????????????????????????????????00--32????112???1?000011001100-00101
+Sakya_chimaera                        ????????????????????????????????????????????????????????????????????????????0120000110010000??0000001000??00?1200?0??000-2111020000????000010????????????????????????????????020-33????112???1?0002-------01-0200
+Sarmatemys_lungui                     ????????????????????????????????????????????????????????????????????????????0020000110010000??0100001010000101200?0??000-1111020000????00001?????????????????????????????????000-33????012???1?0001----1110002121
+Shansiemys_latiscuta                  ????????????????????????????????????????????????????????????????????????????00-0000112300??0?????0001000000011??0?0??000-2001020000????100010????????????????????????????????0?--33????002???2?010011111110-00?00
+Melanochelys_sakyaformis              ??????????????????????????????????????????????????????????????????????????000020010?1103????????0?0011?0??001???0????110-2102-20000????0??????????????????????????????????0-?0?0033??????????10??01-------01???00
+
+;
+
+
+cnames
+{ 0 Shape_of_the_fissura_ethmoidalis narrow_or_closed,_keyhole-shaped very_wide;
+{ 1 Medial_inflection_of_the_inferior_descending_processes_of_the_frontal absent_or_very_small present,_well-developed,_medial_contact_present_or_almost_present;
+{ 2 Frontal_participation_to_the_orbital_rim present absent;
+{ 3 Medial_length_of_the_frontals prefrontals_equal_or_longer_than_frontals frontals_longer_than_prefrontals;
+{ 4 Prefrontal_pits absent present;
+{ 5 Contact_between_jugal_and_pterygoid present,_medial_process_of_jugal_well-developed_and_touching_the_pterygoid absent,_medial_process_reduced;
+{ 6 Contact_between_jugal_and_palatine absent present;
+{ 7 Contact_of_the_epipterygoid_with_the_jugal clearly_absent present,_or_almost_present,_epipterygoid_forms_a_long_lateral_process_that_approaches_the_jugal;
+{ 8 Contact_of_the_inferior_process_of_the_parietal_with_the_medial_process_of_the_jugal absent present;
+{ 9 Contact_of_the_inferior_process_of_the_parietal_with_the_maxilla absent present;
+{ 10 Extent_of_quadratojugal quadratojugal_well_developed,_firmly_attached_to_jugal quadratojugal_present,_contact_lost_with_jugal quadratojugal_so_heavily_reduced_that_it_appears_to_be_absent_in_many_skeletal_specimens;
+{ 11 Contribution_of_jugal_to_the_rim_of_upper_temporal_emargination absent present;
+{ 12 Contact_between_the_quadratojugal_and_the_articular_facet_of_the_quadrate absent present,_quadratojugal_sends_a_process_ventrally_along_the_rim_of_the_cavum_tympani_and_touches_the_lateral_edge_of_the_articular_facet;
+{ 13 Contact_between_the_parietal_and_the_quadrate,_partially_covering_the_prootic absent present;
+{ 14 Shape_of_the_prootic short_and_wide long_and_narrow,_elongated;
+{ 15 Contact_between_quadratojugal_and_maxilla absent present;
+{ 16 Medial_contact_of_the_maxillae_along_the_anterior_margin_of_the_jaw absent present;
+{ 17 Height_of_the_symphysis_of_the_maxilla/premaxilla_compared_to_the_height_of_the_fossa_nasalis shorter_than_the_height_of_fossa_nasalis shorter_than_the_height_of_fossa_nasalis,_but_with_the_development_of_a_dorsal_projection high,_taller_than_the_height_of_fossa_nasalis;
+{ 18 Size_of_the_foramen_orbito-nasale small,_less_than_1/6_of_orbit_length large,_more_than_1/6_of_orbit_length;
+{ 19 Contact_between_maxilla_and_vomer present absent,_vomer_separated_from_the_maxilla_by_the_premaxilla;
+{ 20 Size_of_the_foramen_palatinum_posterius large small;
+{ 21 Position_of_the_pterygoid_relative_to_foramen_palatinum_posterius pterygoid_situated_posterior_to_the_f.p.p pterygoid_situated_posterior_to_the_f.p.p.,_but_sends_a_process_anterior_and_lateral_to_the_f.p.p;
+{ 22 Epipterygoid_participation_in_the_trigeminal_foramen absent present,_epipterygoid_clearly_separates_the_parietal_and_pterygoid_in_lateral_view;
+{ 23 Degree_of_upper_temporal_emargination pa/po=pa/fro pa/fro=1.5_of_pa/po pa/fro=3_of_pa/po;
+{ 24 Shape_of_the_labial_ridge_at_the_contact_of_the_premaxillae notched straight projects_ventrally_or_central_premaxillary_cusp_present;
+{ 25 Premaxillary-maxillary_pointed_cusp absent present;
+{ 26 Presence_of_a_circular_or_elliptical_premaxillary_pit_on_the_ventral_part_of_the_premaxillae present absent;
+{ 27 Participation_of_palatine_in_the_triturating_surface_of_the_upper_jaw absent present;
+{ 28 Participation_of_the_vomer_in_the_triturating_surface_of_the_upper_jaw absent present;
+{ 29 Median_Maxillary_Ridge absent present;
+{ 30 Lingual_ridge absent present;
+{ 31 Commisural_ridge_along_premaxilla-maxilla_suture absent present;
+{ 32 Median_ridge_or_sulcus_of_the_triturating_surface_of_the_upper_jaw both_structures_absent median_ridge_present median_sulcus_present;
+{ 33 Lingual_border_of_upper_triturating_surface_joining_in_premaxillae_and_forming_a_well-developed_ridge absent present;
+{ 34 Extent_of_the_Median_maxillary_ridge restricted_to_maxilla extends_to_the_premaxilla;
+{ 35 Tooth-like_tubercles_on_the_labial_ridge absent present;
+{ 36 Tooth-like_tubercles_on_the_median_maxillary_ridge absent present;
+{ 37 Posterior_maxillary_process absent present;
+{ 38 Vomerine_foramen absent present;
+{ 39 Length_of_the_vomer vomer_short,_not_dividing_the_palatines vomer_dividing_part_of_the_palatines,_not_reaching_or_touching_the_anterior_part_the_pterygoids vomer_diving_part_of_the_pterygoids,_not_reaching_the_basisphenoid vomer_dividing_palat_ines_and_pterygoids,_reaching_the_basisphenoid;
+{ 40 Ridge_of_the_vomer ventral_ridge_is_present_only_on_the_anterior_two-thirds_of_the_vomer ventral_ridge_is_present_also_on_the_posterior_third_of_the_vomer;
+{ 41 Vomer_ridge_flag absent present;
+{ 42 Vomer_shape flat_anterior_portion_of_vomer,_and_roughly_parallel_sides,_no_ridge fan-shaped_anterior_part_of_the_vomer,_usually_the_ridge_extends_to_this_point;
+{ 43 Development_of_the_foramen_praepalatinum_as_a_canal_(canalis_praepalatinum)_that_is_concealed_by_a_bony_secondary_palate_in_ventral_view absent present;
+{ 44 Foramen_carotico-pharyngeale large reduced absent;
+{ 45 Contact_between_pterygoid_and_basioccipital present absent;
+{ 46 Contact_of_the_pterygoid_with_the_articular_facet_of_the_quadrate absent present;
+{ 47 Processus_pteryoideus_externus situated_clearly_posterior_to_F._P._P situated_at_the_same_level_with_the_F._P._P situated_clearly_anterior_to_F._P._P;
+{ 48 Closure_and_depth_of_the_incisura_columella_auris absent,_incisura_is_open present,_incisura_closed;
+{ 49 Processus_interfenestralis visible_in_ventral_view not_visible_in_ventral_view;
+{ 50 Basisphenoid_shape not_V-shaped V-shaped_(postero-lateral_processes_present);
+{ 51 Degree_of_expansion_of_the_opisthotic_in_posterior_view not_expanded,_fenestra_postotica_open expanded,_contacts_basioccipital_not_the_pterygoid expanded,_contacts_pterygoid;
+{ 52 Position_of_the_foramen_jugulare_posterius in_the_exoccipital in_exoccipital/opisthotic_suture;
+{ 53 Extent_of_the_squamosals extending_beyond_condylus_occipitalis not_extending;
+{ 54 Horizontal_keels_in_crista_supraoccipitalis absent present;
+{ 55 Shape_of_crista_supraoccipitalis bended_ventrally straight elevated_dorsally;
+{ 56 Length_of_crista_supraoccipitalis extending_more_than_twice_the_length_of_the_neck_of_condylus_occipitalis_(measured_from_the_proximal_limit_the_neck) Extending_less_than_twice_the_length;
+{ 57 Angular_contribution_to_the_sulcus_cartilaginis_Meckelii present,_the_angular_contributes_to_the_sulcus_and_is_as_long_or_longer_than_the_prearticular absent,_the_angular_is_shorter_than_the_prearticular;
+{ 58 Contact_between_surangular_and_dentary simple_contact strongly_interdigitated_suture;
+{ 59 Height_of_the_processus_coronoideus as_high_as_dentary higher_than_the_dentary rising_significantly_above_the_dentary;
+{ 60 Foramen_dentofaciale_majus small large_and_situated_within_a_large_lateral_fossa;
+{ 61 Foramen_nervi_auriculotemporalis absent present;
+{ 62 Foramen_nervi_auriculotemporalis_shape large small;
+{ 63 Foramen_alveolare_inferius_&_Foramen_intermandibularis_medius separated fused;
+{ 64 Foramen_alveolare_inferius coronoid_involved coronoid_excluded;
+{ 65 Foramen_intermandibularis_caudalis absent_or_very_small present;
+{ 66 Prearticular_bone not_extending_beyond_the_coronoid_in_lingual_view extending_beyond_the_coronoid;
+{ 67 Foramen_intermandibularis_oralis present absent;
+{ 68 Angle_of_the_dentary_symphysis <=60o >60o;
+{ 69 Posterior_extension_of_the_lower_triturating_surface_behind_the_symphysis_of_the_dentary absent present;
+{ 70 Presence_of_dentary_hook absent present;
+{ 71 Shape_of_dentary_hook smooth medial_tooth_present;
+{ 72 Presence_of_dentary_serration absent present;
+{ 73 Dentary_serration present_in_labial present_in_both;
+{ 74 Carapace_strongly_tricarinate_in_adult absent present;
+{ 75 Carapace_of_adult_tectiform_in_cross-section_with_a_strong_posterior_projection_on_the_third_vertebral_scute absent present;
+{ 76 Postero-lateral_side_of_nuchal straight constricted_transversely;
+{ 77 General_shape_of_the_nuchal markedly_wider_than_long slightly_wider_than_long_or_as_long_as_wide markedly_longer_than_wide;
+{ 78 Overlapping_of_the_first_pleural_on_the_nuchal_plate first_pleural_overlaps_postero-lateral_parts_of_the_nuchal first_pleural_touches,_but_it_does_not_overlap_the_nuchal first_pleural_is_not_in_contact_with_the_nuchal;
+{ 79 Posterior_margin_of_first_vertebral_scute_significantly_narrower_than_its_anterior_margin absent present;
+{ 80 Anterior_half_of_the_first_vertebral_scute_much_narrower_than_posterior_half,_especially_in_adults absent present;
+{ 81 Nuchal_Notch absent present;
+{ 82 Anterior_Protrusion_of_the_Nuchal absent present;
+{ 83 Number_of_neural_plates nine eight seven_or_less;
+{ 84 Shape_of_the_first_neural hexagonal,_short_sides_positioned_posteriorly rectangular;
+{ 85 Shape_and_orientation_of_the_second_neural hexagonal,_short_sides_positioned_anteriorly hexagonal,_short_sides_positioned_posteriorly rectangular octagonal;
+{ 86 Shape_and_orientation_of_the_third_neural hexagonal,_short_sides_positioned_anteriorly hexagonal,_short_sides_positioned_posteriorly rectangular octagonal;
+{ 87 Shape_of_the_fourth_neural rectangular hexagonal,_short_sides_positioned_anteriorly octagonal hexagonal,_short_sides_positioned_posteriorly;
+{ 88 Shape_of_the_fifth_neural hexagonal rectangular octagonal;
+{ 89 Number_of_suprapygals two one;
+{ 90 Shape_of_the_suprapygal_bones two,_the_contact_between_the_suprapygals_is_straight_and_perpendicular_to_the_axial_plane two,_first_suprapygal_embrasses_the_lenticular_second_one one,_suprapygals_fused,_constituting_one_trapeze;
+{ 91 Medial_contact_of_the_seventh_and/or_eighth_costal_bones absent present;
+{ 92 Shape_of_costal_rib wide_and_flat narrow_and_thin;
+{ 93 Position_of_costal_rib_head deep_in_the_costal far_from_neural/costal_suture on_or_very_near_the_neural/costal_suture;
+{ 94 Pygal_shape quadrangular hexagonal_with_small_latero-anterior_borders;
+{ 95 Pygal_notch absent present;
+{ 96 Coincidence_between_the_costo-peripheral_suture_and_the_pleuro-marginal_sulcus absent present;
+{ 97 Significant_serration_of_the_posterior_peripherals absent present;
+{ 98 Protrusions_on_the_anterior_peripherals,_on_the_limit_with_the_sulci_between_the_marginal absent_or_poorly_developed well_developed;
+{ 99 Cervical_scute present absent;
+{ 100 Shape_of_the_cervical_scute longer_than_wide wider_than_long;
+{ 101 Length_of_the_cervical_scute short,_equal_or_less_to_the_25%_of_the_nuchal_length long,_longer_than_the_25%_of_the_nuchal_length;
+{ 102 Number_of_vertebral_scutes five six_or_more;
+{ 103 Width_of_the_vertebrals_in_respect_with_the_pleurals wide_vertebrals,_wider_than_the_pleurals wide_vertebrals,_almost_equal_to_the_pleurals narrow_vertebrals,_narrower_than_the_pleurals;
+{ 104 Position_of_the_anterior_sulcus_of_the_fourth_vertebral_scute sulcus_lies_on_the_fifth_neural sulcus_lies_on_fourth_neural,_or_on_the_suture_between_the_fourth_and_fifth_neural sulcus_lies_on_the_sixth_neural,_or_on_the_suture_between_the_fifth_and_sixth_neural;
+{ 105 Position_of_the_posterior_sulcus_of_the_fourth_vertebral_scute sulcus_lies_on_the_eighth_neural,_or_on_the_homologue_of_the_eighth_neural,_if_the_seventh_is_reduced sulcus_lies_on_the_seventh_neural,_or_on_the_suture_between_the_seventh_and_eight_neural eighth_neural_absent,_sulcus_overlies_costals_that_meet_at_the_midline lies_on_the_ninth_neural_(or_1st_suprapygal_out_of_3);
+{ 106 Contact_of_the_second_marginals_with_the_lateral_margin_of_the_nuchal absent present;
+{ 107 Contact_of_the_second_marginal_scute_with_the_first_vertebral_scute absent present;
+{ 108 Contact_of_the_sixth_marginal_scute_with_the_third_pleural_scute absent present;
+{ 109 Significant_contact_of_the_tenth_marginal_scute_with_the_fifth_vertebral_scute absent present;
+{ 110 Overlapping_of_fifth_vertebral_on_suprapygal the_posterior_sulcus_of_the_fifth_vertebral_overlaps_the_anterior_part_of_the_pygal the_posterior_sulcus_of_the_fifth_vertebral_coincides_with_the_suprapygal-pygal_suture the_posterior_sulcus_of_the_fifth_vertebral_crosses_the_suprapygal_transversely;
+{ 111 Twelfth_marginal_scute divided fused;
+{ 112 Carapacial_hinge absent present;
+{ 113 shape_of_the_posterior_shell_border curved_inwards moderately_flared posterior_border_posteriorly_flared saddle-like;
+{ 114 Sutured_contact_between_plastron_and_carapace present,_plastron_and_carapace_are_tightly_connected_by_an_osseous_bridge absent,_plastron_is_attached_to_carapace_by_connective_tissue;
+{ 115 Presence_and_development_of_anterior_buttresses anterior_buttresses_absent anterior_buttresses_present_but_small,_and_not_in_contact_with_the_first_costal_bones anterior_buttresses_long_and_thin_and_just_barely_in_contact_with_the_costal_bones,_if_at_all anterior_buttresses_well_developed_and_in_clear_contact_with_the_first_costal_bones anterior_buttresses_very_large_and_in_direct_contact_with_the_first_dorsal_rib;
+{ 116 Presence_and_development_of_posterior_buttresses posterior_buttresses_absent posterior_buttresses_present_but_small,_and_not_in_contact_with_the_costal_bones posterior_buttresses_long_and_thin_and_just_barely_in_contact_with_the_costal_bones,_if_at_all posterior_buttresses_well_developed_and_in_clear_contact_with_costal_bones_V_and_VI posterior_buttresses_well_developed_but_only_in_clear_contact_with_costal_bone_V posterior_buttresses_greatly_thickened_and_expanded_in_contact_with_both_costal_V_and_VI;
+{ 117 Shape_of_the_anterior_lobe subrounded_to_straight medially_notched trilobed;
+{ 118 Well-developed_gular_protrusion,_caused_by_constriction_in_the_gularo-humeral_sulcus absent present;
+{ 119 Extensive_overhanging_lip_of_the_epiplastra absent present;
+{ 120 Shape_of_the_dorsal_lip_of_the_epiplastra concave relatively_flat clearly_convex;
+{ 121 Contact_between_the_gulars_and_the_entoplastron not_in_contact in_contact_with_the_anterior_margin covering_the_anterior_area;
+{ 122 Angle_formed_by_gularo-humeral_sulci more_than_90o between_90-60o less_than_60o;
+{ 123 Median_length_of_humerals,_compared_to_the_median_length_of_gulars humerals_equal_or_smaller_than_the_gulars humerals_longer_than_the_gulars;
+{ 124 Shape_of_the_humero-pectoral_sulcus_medially not_perpendicular_to_the_axial_plane,_rounded_or_forming_a_wide_angle perpendicular_to_the_axial_plane wavy,_i.e._medially_convex_anteriorly,_laterally_concave_posteriorly;
+{ 125 Shape_of_the_lateral_parts_of_the_humero-pectoral_sulcus perpendicular_to_the_axial_plane,_relatively_straight_throughout_its_width perpendicular_to_the_axial_plane,_with_concave_posteriorly_lateral_parts perpendicular_to_the_axial_plane,_with_convex_anteriorly_lateral_parts;
+{ 126 Position_of_the_humero-pectoral_sulcus_relative_to_the_entoplastron posterior_to_the_entoplastron coinciding_medially_with_the_posterior_suture_of_the_entoplastron crossing_the_entoplastron;
+{ 127 Medial_length_of_pectorals long short;
+{ 128 Medially-directed_pivoting_process_for_plastral_hinge_developed_on_fifth_peripheral_bone absent present;
+{ 129 Plastral_hinge absent present,_between_hyoplastra_and_hypoplastra present,_between_hypoplastra_and_xiphiplastra;
+{ 130 Contact_between_inguinal_and_femoral_scutes_in_ventral_view absent present;
+{ 131 Presence_of_axillary_glands present absent;
+{ 132 Presence_of_inguinal_glands present absent;
+{ 133 Presence_of_anterior_musk_duct_foramina present absent;
+{ 134 Presence_of_posterior_musk_duct_foramina present absent;
+{ 135 Shape_of_the_femoro-anal_sulcus forms_an_acute_angle_with_the_axial_plane straight_or_slightly_rounded,_developed_mainly_perpendicular_with_the_axial_plane omega_shaped;
+{ 136 Medial_length_of_the_anals shorter_than_the_median_length_of_femoral equal_or_longer_than_the_medial_length_of_femoral;
+{ 137 Anal_notch_of_the_plastron present absent;
+{ 138 Anal_notch_shape_1 deep reduced;
+{ 139 Anal_Notch_Shape_2 angular rounded;
+{ 140 Anal_scutes_fused absent present;
+{ 141 Plastral_scutes_with_vibrant,_radiating_color_pattern absent present;
+{ 142 Position_of_biconvex_cervical_vertebra fourth third;
+{ 143 Shape_of_cervical_vertebra_2 longer_than_tall short_&_tall;
+{ 144 Dorsal_process_on_cervical_vertebra_3 present absent;
+{ 145 Postzygapophyses_sloping_anteriorly_in_cervical_vert_5 present absent;
+{ 146 Ventral_keel_on_cervical_vertebra_7 anteriorly_placed rounded_symmetric low;
+{ 147 Dorsal_process_on_cervical_vertebra_8 prominent not_prominent;
+{ 148 Ventral_keel_on_cervical_vertebra_8 all_along_the_centrum isolated_in_the_middle;
+{ 149 Shape_of_coracoid_blade long_and_narrow short_and_very_wide;
+{ 150 Latissimus_dorsi_scar absent_or_reduced present;
+{ 151 Major_trochanter_of_the_humerus,_in_relation_with_the_humeral_head: short_not_extending_beyond_the_humeral_head long,_extending_beyond_the_humeral_head;
+{ 152 Ventral_Ischial_tubercle_in_pelvis not_triagonal triagonal_in_ventral_view;
+{ 153 Angle_between_the_femoral_head_and_the_diaphysis_of_the_femur relatively_large femoral_head_developed_almost_perpendicular_to_the_diaphysis;
+{ 154 Trochanters_of_the_femur not_fused fused;
+{ 155 Contact_between_radius_and_distal_carpals absent present;
+{ 156 medial_and_lateral_centrale not_fused fused;
+{ 157 calcaneus_and_astragalus not_fused fused;
+{ 158 Number_of_manual_claws five four;
+{ 159 Webbing_between_digits present,_well_developed absent,_or_at_least_strongly_reduced;
+{ 160 Digit_1_Ph_Number_Manus three two one zero;
+{ 161 Digit_2_Ph_Number_Manus three two one zero;
+{ 162 Digit_4_Ph_Number_Manus three two one zero;
+{ 163 Digit_5_Ph_Number_Manus three two one zero;
+{ 164 fifth_phalanx_in_the_pes present,_visible_externally not_visible_externally,_vestigial_present_internally completely_absent;
+{ 165 Dermar_armor_on_limbs absent present;
+{ 166 Type_of_dermal_armor thigh_spurs thigh_plate caudal_buckler;
+{ 167 Development_of_a_suprascapula absent present;
+{ 168 Development_of_an_episcapula absent present;
+{ 169 Sexual_size_dimorphism absent present,_female_much_larger_than_male;
+{ 170 Carapace,_number_of_longitudinal_keels zero one three;
+{ 171 Carapace,_median_keel,_position anterior_half anterior_and_posterior_halves posterior_half;
+{ 172 Carapace,_gutter_formed_by_bridge_peripherals absent present;
+{ 173 Carapace,_intercostal_fontanelles_in_adults absent present;
+{ 174 Carapace,_last_suprapygal,_contact_with_tenth_peripheral,_extent absent short_or_barely_touching long;
+{ 175 Carapace,_sulcus_between_first_and_second_pleural_scutes,_anteromedial_projection absent present,_does_not_cross_the_suture_between_first_and_second_costals present,_crosses_the_suture_between_first_and_second_costals;
+{ 176 Carapace,_sulcus_between_second_and_third_pleural_scutes,_position sulcus_over_fourth_costal sulcus_forms_an_anteromedial_projection,_that_does_not_cross_the_suture_between_third_and_fourth_costal_bones sulcus_forms_an_anteromedial_projection,_that_crosses_the_suture_between_the_third_and_fourth_costal_bones;
+{ 177 Carapace,_first_vertebral_scute,_relation_between_length_and_width longer_than_wide as_long_as_wide up_to_twice_wider_than_long more_than_twice_wider_than_long;
+{ 178 Carapace,_fourth_vertebral_scute,_relation_between_length_and_width longer_than_wide as_long_as_wide up_to_twice_wider_than_long more_than_twice_wider_than_long;
+{ 179 Carapace,_anterior_musk_duct_foramen_or_notch,_position in_peripheral_series at_suture_between_axillary_buttress_and_peripheral_series only_in_axillary_buttress;
+{ 180 Peripheral_series,_anterior_musk_duct_foramen_or_notch,_position in_second_peripheral at_suture_between_second_and_third_peripheral in_third_peripheral at_suture_between_third_and_fourth_peripheral in_fourth_peripheral;
+{ 181 Carapace,_posterior_musk_duct_foramen_or_notch,_position in_inguinal_buttress at_suture_between_inguinal_buttress_and_peripheral_series in_peripheral_series;
+{ 182 Peripheral_series,_posterior_musk_duct_foramen_or_notch,_position in_sixth_peripheral at_suture_between_sixth_and_seventh_peripherals in_seventh_peripheral;
+{ 183 Bridge,_fifth_marginal_scute,_overlap_onto_the_plastron absent present;
+{ 184 Bridge,_sixth_marginal_scute,_overlap_onto_the_plastron absent present;
+{ 185 Bridge,_pectoral-abdominal_sulcus,_contact_with_marginal_series fifth_marginal sulcus_between_fifth_and_sixth_marginal sixth_marginal;
+{ 186 Plastron,_anterior_margin,_lateral_spikes_or_tuberosities absent present;
+{ 187 Entoplastron,_visceral_view,_posteriorly_pointed_process,_position absent present,_in_posteromedian_region,_not_touching_posterior_rim present,_at_posterior_rim;
+{ 188 Epiplastron,_visceral_view,_posterolateral_projection,_development not_clearly_differentiated_from_the_posterior_rim angled,_but_not_with_a_well_defined_shape long,_pointed;
+{ 189 Entoplastron,_ventral_view,_relative_size_of_anterior_and_posterior_halves_of_the_entoplastron_as_defined_by_the_epi-hyoplastron_contact anterior_part_longer anterior_and_posterior_parts_subequal posterior_part_longer;
+{ 190 Pectoral_and_abdominal_scutes,_longitudinal_keel_running_from_axillary_to_inguinal_notch absent present;
+{ 191 Axillary_scute present absent;
+{ 192 Inguinal_scute present absent;
+{ 193 Inguinal_buttress,_position_relative_to_hypo-xiphiplastron_suture distant_(around_the_midpoint_of_the_length_of_the_hypoplastron) close_(posterior);
+{ 194 Number_of_pleural_scutes less_than_four four more_than_four;
+{ 195 Presence_of_pleural_1 present absent;
+{ 196 Presence_of_pleural_2 present absent;
+{ 197 Presence_of_pleural_3 present absent;
+{ 198 Presence_of_pleural_4 present absent;
+{ 199 Contact_of_vertebral_2_with_the_marginals absent present;
+{ 200 Contact_of_vertebral_3_with_the_marginals absent present;
+{ 201 Contact_of_vertebral_4_with_the_marginals absent present;
+{ 202 Shape_of_vertebral_1/2_sulcus_in_neural_1 straight wavy;
+{ 203 Contact_between_pleural_1_and_marginal_1 absent present;
+{ 204 Extension_of_the_marginal_11_on_the_costal_8 absent present;
+{ 205 Shape_of_suprapygal_1 trapezoidal_with_wide_posterior_side more_rectangular_with_sides_on_equal_width,_but_longer_than_wide rectangular,_as_long_as_wide rectangular,_wider_than_long boomerang_shaped;
+{ 206 Shape_of_suprapygal_2 inversed_trapezoidal hexagonal,_with_anterolateral_and_posterolateral_borders_of_equal_width hexagonal,_with_longer_posterolateral_borders rounded;
+{ 207 Shape_of_the_entoplastron rhomboidal pentagonal hexagonal;
+{ 208 Shape_of_the_posterior_sides_of_the_entoplastron straight rounded;
+;
+
+
+ccode  - 0.9 11.16 18.22 24.31 33.38 40.43 48.50 52.58 60.76 79.82 84.91 93.101 105.109 114 117.119 123.125 127.163 165.173 183.184 186 189.208 + 10 17 23 32 39 44.47 51 59 77.78 83 92 102.104 110.113 115.116 120.122 126 164 174.182 185 187.188;
+
+
+;

@@ -1,0 +1,347 @@
+#NEXUS
+
+    [ File output by Morphobank v3.0 ?; 2023-07-29 05.26.07 ]
+
+    BEGIN TAXA;
+    DIMENSIONS NTAX=13;
+    TAXLABELS
+    		'Hapalops'
+		'Eucholeops'
+		'Megalonychotherium'
+		'Pliometanastes'
+		'Pliomorphus'
+		'Megalocnus'
+		'Parocnus'
+		'Neocnus'
+		'Acratocnus'
+		'Megalonyx'
+		'Megistonyx'
+		'Choloepus'
+		'Ahytherium'
+    ;
+    ENDBLOCK;
+
+    BEGIN CHARACTERS;
+	DIMENSIONS NCHAR=54;
+	FORMAT DATATYPE=STANDARD GAP=- MISSING=? SYMBOLS="012345";
+	CHARLABELS
+		 [1] 'Shape of outline of upper caniniform ? in cross-section'
+		 [2] 'Wear surface on C1'
+		 [3] 'Anterior projection of alveolus of C1'
+		 [4] 'Alignment of C1'
+		 [5] 'Position of C1 relative to the anterior edge of the maxilla'
+		 [6] 'Fossa on palatal surface of maxilla posterior to C1'
+		 [7] 'M2 and M3 cross-section'
+		 [8] 'M4 curvature in lateral view'
+		 [9] 'Long axis of molariform teeth'
+		 [10] 'Orientation of snout in lateral view'
+		 [11] 'Degree to which snout flares mediolaterally towards anterior end, in dorsal view'
+		 [12] 'Width of snout measured at midpoint'
+		 [13] 'Height of snout'
+		 [14] 'Length of snout ?'
+		 [15] 'Anterior edge of nasal'
+		 [16] 'Anterior edge of maxilla with fossa lateral to external nares'
+		 [17] 'Antorbital or buccinator fossa of maxilla'
+		 [18] 'Maxilla contacts lacrimal within orbit'
+		 [19] 'Position of infraorbital canal'
+		 [20] 'Palate with paired anterior foramina that open into distinct grooves that run anteriorly toward the incisive foramina ?'
+		 [21] 'Minimum width of palate'
+		 [22] 'Mediolateral contour of palate'
+		 [23] 'Anteroposterior contour of palate'
+		 [24] 'Size of lacrimal foramen'
+		 [25] 'Position of sphenopalatine foramen relative to sphenorbital fissure/optic foramen'
+		 [26] 'Pterygoid inflation'
+		 [27] 'Pterygoid lateral groove'
+		 [28] 'Frontal sinus'
+		 [29] 'Postorbital process of frontal'
+		 [30] 'Position of postorbital process of frontal'
+		 [31] 'Postorbital constriction'
+		 [32] 'Temporal lines on skull roof'
+		 [33] 'Posterior segments of temporal lines'
+		 [34] 'Dorsal edge of zygomatic process'
+		 [35] 'Direction of root of zygoma'
+		 [36] 'Shape of glenoid'
+		 [37] 'Glenoid posterior shelf'
+		 [38] 'Posterior surface of glenoid'
+		 [39] 'Glenoid position relative to superficies meatus'
+		 [40] 'Position of glenoid relative to porus acousticus'
+		 [41] 'Tympanic external surface'
+		 [42] 'Entotympanic lateral plate'
+		 [43] 'Entotympanic participation in sulcus for internal carotid'
+		 [44] 'Position of medial expansion of entotympanic'
+		 [45] 'Paroccipital process'
+		 [46] 'Condyloid foramen size'
+		 [47] 'Supraoccipital exposure on cranial roof'
+		 [48] 'Nuchal crest'
+		 [49] 'Shape of occiput when viewed posteriorly'
+		 [50] 'Width of occiput (maximum width of occiput excluding mastoid and mastoid process'
+		 [51] 'Inclination of occiput in lateral view'
+		 [52] 'Profile of dorsal surface of the braincase in lateral view'
+		 [53] 'Basicranial/basifacial flexion'
+		 [54] 'Position of orbit in lateral view'
+	;
+	STATELABELS
+		1
+		'ovate, elongated anteroposteriorly'
+		'trigonal'
+		'rectangular or incisiform'
+		'ovate transversely, with posterior bulge'
+		,
+		2
+		'oblique, nearly vertical wear facet'
+		'oblique facet'
+		'tooth with strong transverse crests'
+		,
+		3
+		'absent'
+		'present'
+		,
+		4
+		'in line with other molariforms, line passing forward along lateral edge of molariforms passes lateral to C1'
+		'slightly displaced laterally, line passing forward along lateral edge of molariforms bisects C1'
+		'strongly displaced laterally, line passing forward along lateral edge of molariforms passes medial edge of C1'
+		,
+		5
+		'right at the edge'
+		'clearly sep arated from the edge'
+		,
+		6
+		'absent'
+		'present'
+		,
+		7
+		'ovate anteroposteri orly'
+		'rectangular'
+		'trapezoidal'
+		'reniform'
+		,
+		8
+		'straight'
+		'curved anteriorly'
+		,
+		9
+		'parallel or orthogonal to long axis of tooth row'
+		'oblique'
+		,
+		10
+		'horizontal'
+		'downturned anteroventrally'
+		,
+		11
+		'uniform'
+		'slightly flared'
+		'strongly flared'
+		,
+		12
+		'snout narrow, width < 20% of BNL'
+		'width > 20%, ≤ 25% of BNL'
+		'width > 25%, ≤ 30% of BNL'
+		'snout broad, width > 30% of BNL'
+		,
+		13
+		'snout depressed anteriorly'
+		'deep, elevated anteriorly'
+		,
+		14
+		'relatively elongate, ≥17% of BNL'
+		'shortened, ≤16%ofBNL'
+		,
+		15
+		'with lateral process and medial process separated by distinct notch'
+		'straight or concave'
+		,
+		16
+		'absent'
+		'present'
+		,
+		17
+		'weak'
+		'well developed'
+		,
+		18
+		'present'
+		'excluded by orbital exposure of jugal'
+		,
+		19
+		'canal short, ventrally situated'
+		'canal elongate and ventral'
+		'canal elongate and displaced dorsally'
+		,
+		20
+		'absent'
+		'present'
+		,
+		21
+		'less than width of widest molariform'
+		'roughly equal to width of widest molariform'
+		'greater than width of widest molariform'
+		,
+		22
+		'concave between tooth rows'
+		'flat to convex between tooth rows'
+		,
+		23
+		'flat'
+		'flat posteriorly, concave anteriorly'
+		'convex posterior to dentition, concave anteriorly'
+		,
+		24
+		'small, maximum diameter <2.5% of BNL'
+		'large, diameter ≥3% of BNL'
+		,
+		25
+		'situated well anterior and ventral to these openings'
+		'just anteroventral to orbital foramina, situated in common fossa'
+		,
+		26
+		'uninflated'
+		'inflated only at base'
+		'large sinus present'
+		,
+		27
+		'absent'
+		'present'
+		,
+		28
+		'absent'
+		'small, restricted to frontal'
+		'large, extends into parietal and nasal'
+		,
+		29
+		'absent'
+		'weakly developed'
+		'strongly developed'
+		,
+		30
+		'well posterior to maxillary foramen'
+		'displaced anteriorly to level of maxillary foramen'
+		'strongly displaced anteriorly, lies anterior to maxillary foramen'
+		,
+		31
+		'absent or weak'
+		'moderately to strongly developed'
+		,
+		32
+		'absent or rudimentary'
+		'temporal lines converge but do not contact'
+		'temporal lines converge to form a single sagittal crest for at least a portion of length'
+		'[Code as state 2 if single crest is present at any point]'
+		,
+		33
+		'are confluent with sagittal crest or with nuchal crest posteriorly'
+		'do not meet, curve ventrally and run anterior but parallel to nuchal crest'
+		,
+		34
+		'continuous with the nuchal crest'
+		'separate from the nuchal crest'
+		,
+		35
+		'anterolateral'
+		'lateral'
+		,
+		36
+		'elongate anteroposteriorly'
+		'elongate anteroposteriorly and widened mediolaterally'
+		'widened mediolaterally'
+		,
+		37
+		'absent'
+		'present'
+		,
+		38
+		'smooth'
+		'rugose'
+		,
+		39
+		'at or above meatus'
+		'ventral to meatus'
+		,
+		40
+		'just anterior'
+		'separate'
+		'well separate'
+		,
+		41
+		'smooth'
+		'rugose'
+		,
+		42
+		'thick mediolaterally'
+		'thin'
+		,
+		43
+		'forms lateral wall and roof'
+		'forms lateral wall, roof, and at least part of medial wall'
+		,
+		44
+		'dorsal to basicranium'
+		'at level of basicranium'
+		,
+		45
+		'weakly developed or rudimentary'
+		'well developed'
+		'greatly enlarged, free-standing process'
+		,
+		46
+		'small, maximum diameter <2% of BNL'
+		'moderate, diameter ≥2%, <3% of BNL'
+		'enlarged, diameter ≥3% of BNL'
+		,
+		47
+		'absent'
+		'small'
+		'large'
+		,
+		48
+		'uniform width'
+		'splits dorsally into anterior and posterior occipital crests, which together outline a raised triangular area in the dorsal surface of the skull roof'
+		,
+		49
+		'semicircular'
+		'triangular'
+		,
+		50
+		'[= paroccipital process of Wible and Gaudin, 2004]'
+		')'
+		'narrow, ≤35% of BNL'
+		'intermediate width, 36–40% of BNL'
+		'wide, >40% of BNL'
+		,
+		51
+		'inclined anterodorsally'
+		'vertical'
+		,
+		52
+		'roughly horizontal, flat or irregular'
+		'evenly convex'
+		,
+		53
+		'absent, cranial base roughly horizontal'
+		'present, basifacial axis flexed posteroventrally'
+		,
+		54
+		'in typical mammal position'
+		'displaced ventrally, at or below the level of the tooth row'
+		
+	;
+	MATRIX
+	'Hapalops'		                    01001011000?0000?10??121?01?00???100010010110?2110?001
+	'Eucholeops'		                  101?0111001210?0102?1110?01001?20?010100??10200100100?
+	'Megalonychotherium'		          1?01011?001110?1102?11001111??1201010100?0?0012010000?
+	'Pliometanastes'		              101?0?2?1??????1?12?11???0?2??0?0012001110?00?000?0?1?
+	'Pliomorphus'		                 ?01101?111??0001102?112100?101020012101210101120010111
+	'Megalocnus'		                  21110120110200?11?0?002?0202020110121012????22?0011111
+	'Parocnus'		                    2112012?111?00??1?0?10201202120110121012????0?20000010
+	'Neocnus'		                     ?0120010111?0011102?1021111?01???012000101101120010110
+	'Acratocnus'		                  101201?011230011102?002000?212120012?0110100?2?0010110
+	'Megalonyx'		                   ?21?012110031101112?0120000102020012?01210101000021011
+	'Megistonyx'		                  1?1100211023111?1?1?2121121200110112011210??1?20120110
+	'Choloepus'		                   1012010?011300?1000?21200202101?0012101001002010000100
+	'Ahytherium'		                  10120021102311111?0?1121000210110012001200102210020111
+    ;
+    ENDBLOCK;
+
+          BEGIN ASSUMPTIONS;
+      TYPESET * UNTITLED = unord: 1 - 3 5 - 10 13 - 20 22 - 25 27 31 33 - 35 37 - 39 41 - 44 48 - 49 51 - 54, ord: 4 11 - 12 21 26 28 - 30 32 36 40 45 - 47 50;
+      ENDBLOCK;
+      
