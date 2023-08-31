@@ -1,0 +1,117 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 09.23.43'
+35 64
+
+&[num]
+Acidaspis_cincinnatiensis                     01010011200201110101111300000013?00
+Diacanthaspis_cooperi                         1112110?10121011?1011001300??023011
+Diacanthaspis_scitula                         1113?10?10121011?1011?01300??023011
+Exallaspis_bufo                               0101001000020111001011130110?011000
+Exallaspis_acarescola                         0?01001?0002011?00101?33?1100011000
+Exallaspis_coronata                           01010?1?00020????0101????????01100?
+Exallaspis_deflexa                            0101001?00??011001101??3001100010?0
+Exallaspis_cf._illinoiensis                   010100???0020??????????3?????011000
+Exallaspis_lothiana                           01?1001??0020??2001011?301?00011000
+Exallaspis_muldensis                          010100???0020111001011130?1?0011000
+Exallaspis_mutica                             010100100002011?00101133?1?00011000
+Exallaspis_quadrimucronata_1                  01010010000201100010111301100011000
+Exallaspis_quadrimucronata_2                  01010?1?000201?100101?1301100011000
+Exallaspis_varbolensis                        0101001000020??20???1????????011000
+Kettneraspis_belli                            11?2000?10?11012?1010?01000??000?11
+Kettneraspis_beni                             110?001?20011??321010?01?????003100
+Kettneraspis_besti                            11?1?0??20011??1?1010?01??0??001111
+Kettneraspis_bispinosa                        111010??00010??12??11011??0??003111
+Kettneraspis_boltoni                          1101000?200?1??2?10100010?0??002?11
+Kettneraspis_centrina                         111110??00120??3010?1????0?21002111
+Kettneraspis_chacaltayana                     11?11????00?????21011????0011?03?1?
+Kettneraspis_clavata                          111010??0011100121011021100??002011
+Kettneraspis_crenata_crenata                  111000111011100101011010101?1101111
+Kettneraspis_crenata_angelini                 1111100110?110010101101110021101111
+Kettneraspis_crenata_brutoni                  1111100?10111??101011011?0021101111
+Kettneraspis_dormitzeri                       ?111100?101100??010?1?1?00021002111
+Kettneraspis_''elliptica''                    1110100?2001?0?12101101110011003111
+Kettneraspis_franconica                       1114100??0121??1?????2???????003111
+Kettneraspis_geinitziana                      111010??0001?????1???????????00?111
+Kettneraspis_hirta                            11101????011???1?1011?11?0021002111
+Kettneraspis_jaanussoni                       110100?000??00010101?011001?1002001
+Kettneraspis_lenzi                            1100100?00011002010110010001?0011?1
+Kettneraspis_leridae                          ???11???00?20??2?10?101??00?100311?
+Kettneraspis_leucothea                        ?110100??0111??22?011?11100?1002111
+Kettneraspis_longstaffei                      1101000?20011?130?01000100011003010
+Kettneraspis_myops                            1104?00??1121??1010?1211?0?2110??1?
+Kettneraspis_orphana                          11111?0?1012?????10?1?????0??001101
+Kettneraspis_parkini                          1110?00000010??1010?10111?0??002111
+Kettneraspis_pigra_pigra                      1110101?00010??1010?1?11000?1003111
+Kettneraspis_pigra_ornata                     1??1101??011????0?0?1?1??????003111
+Kettneraspis_rattei                           111110??00?1???10101101?10021003111
+Kettneraspis_risbeyi                          ?1?100??00121??1???01???00???001?01
+Kettneraspis_tuberculata_tuberculata          1110000?2001?0112101101110021002011
+Kettneraspis_tuberculata_favonia              111000??20010??121011?11100??002111
+Kettneraspis_wellingtonensis                  1110000?1001?00121011?11100??0031?1
+Kettneraspis_williamsi_a                      1110000?0001?01121011?111001?002011
+Kettneraspis_williamsi_b                      1110000?00011??1?101100210012002111
+Kettneraspis_cf._williamsi                    11100001101110?12101100?100??002111
+Kettneraspis_sp._A                            1111000110010??121011000000??000111
+Kettneraspis_sp._nov._NSW                     1110100100?100?121011011100??003111
+Leonaspis_argentea                            2000?01001110????????????????012101
+Leonaspis_belisarius                          ?00000??2111???201011?121?00?011101
+Leonaspis_britannica                          2000?00?11111??10101111100011011100
+Leonaspis_confluens                           2000001?01110???????1????????011?01
+Leonaspis_ezellina                            2000101000110????????????????01?101
+Leonaspis_glabrata                            000?00100110?????????????????012100
+Leonaspis_hastata                             2000001001110????????????????011100
+Leonaspis_hoernesi                            ?0?0101?11100??1010?1012?0011012101
+Leonaspis_jenkinsi                            000010??00110??2010?1?0?10011012101
+Leonaspis_lochkovensis                        2000?01001110??200?110120100101210?
+Leonaspis_leonhardi                           2000?010001100?21001100201001012101
+Leonaspis_maura                               2000001?0111???10?0?1?12?????01?100
+Leonaspis_truncata                            0000?01?01100??101011012???????????
+Meadowtownella_ascita                         010100100002011300111103011??013010
+
+;
+
+
+cnames
+{ 0 Anterior_border_tubercles absent single_row_of_10-20_symmetrically_set numerous,_irregular_row;
+{ 1 Sutural_convergence Less_than_or_equal_to_0-10_degrees 11_degrees_or_more;
+{ 2 Sutural_concavity concave straight_or_convex;
+{ 3 Eye_position opposite_S0 op._back_1/3_of_L1 op._mid_1/3_of_L1 op._ant._1/3_of_L1_or_farther_forward eye_absent;
+{ 4 Size_L2/L1 Less_than_or_equal_to_52%_[25-52%] Greater_than_or_equal_to_53%_[53-92%];
+{ 5 Glabellar_sculpture tubercles spines;
+{ 6 Paired_occipital_spines present absent;
+{ 7 Occipital_organ present absent;
+{ 8 Median_occipital_structure small_tubercle_(including_virtually_smooth) short_spine_(less_than_sag._length_of_occipital_ring) long_spine_(more_than_sag._length_of_occipital_ring);
+{ 9 S1_laterally deep shallow;
+{ 10 Frontal_lobe_width 40-57% 58-80%;
+{ 11 Fixigena_width absent 5-16% 17-25%;
+{ 12 Occipital_lobes distinct otherwise;
+{ 13 Hypostome_width 1.05-1.27 1.28-1.58;
+{ 14 Posterolateral_spines present clearly_absent;
+{ 15 Border_spines 10-11 12-13 14-15 16_or_more;
+{ 16 Dorsal_spines 0 1 2_or_more;
+{ 17 Genal_spine_length shorter longer;
+{ 18 Genal_spine_stoutness <30% Greater_than_or_equal_to_30%;
+{ 19 Border_spine_shape all_spines_conical,_taper_distally spines_parallel-sided,_pointed_tips,_to_anterior_spines_rectangular_or_expanded_distally,_truncated_tips;
+{ 20 Marginal_curvature strongly_reentrant_(adaxial) weakly_reentrant_(abaxial);
+{ 21 Eye_height height_equal_to_or_greater_than_width height_less_than_width no_visual_surface;
+{ 22 Tubercle_distribution evenly_distributed concentrated_near_eye otherwise_unevenly_distributed smooth;
+{ 23 Epiborder_tubercles fewer_than_3 row_of_3-6_similarly_spaced irregular_pattern_without_well_defined_major_row no_epiborder_tubercles;
+{ 24 Anterior_pleural_spines single_spine_or_no_spine,_just_ridge branching_spine 'barbed' row_of_tubercles_on_anterior_edge;
+{ 25 Posterior_pleural_spine_length length_greater_than_distance_from_sagittal_line_to_fulcrum less_than_ditto;
+{ 26 Axial_tubercles present absent;
+{ 27 Spine_pattern 1-3 3-5 5-7;
+{ 28 Number_of_thoracic_segments 10 9 2:_8-9_[_=_K._williamsi_type_A_];
+{ 29 Width_of_axis 20-40% 41-45%;
+{ 30 Medial_spine_number 2 4 6;
+{ 31 Lateral_spine_number 0 2 4 6_or_more;
+{ 32 Width_of_''terminal_piece'' 50-72% 73-90%;
+{ 33 Position_of_pleural_ridge separated_from_second_axial_ring adjacent_to_this_ring;
+{ 34 Posterior_border present absent;
+;
+
+
+ccode  - 0.34;
+
+
+;

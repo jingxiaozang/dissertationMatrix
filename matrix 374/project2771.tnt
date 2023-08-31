@@ -1,0 +1,236 @@
+nstates num 9;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 09.29.39'
+124 94
+
+&[num]
+Aglaophyton_major                                 0000------00----00--0-000-------00----0---00-0-10----0---0----00-0------------60121---1-0000011-1-010-------0----0010---2-01
+Danaea_wendlandii                                 1-10111111010221000-01-101102011100-00001000-1100100011-2110-001?2-1321-4002-021011-1001001110101111-01431100--1000000001080
+Angiopteris_angustifolia                          0010000111000221000-11-1011021100-1100011101101011100001-100-000---1220-40-3--02-21-1-100110001031111011----1010110011221080
+Angiopteris_evecta                                0010000111000221000-1111011021100?1100011101-01011100001210?20000--122044002--02001-1-100110001031111001----1102-10011111080
+Angiopteris_(archangiopteris)_chingii             1-10000111010221000-11-1011020100-1100011101101011000000-10010001--1320-4012--22021-10101--00-102--21101----111111001121-080
+Angiopteris_(archangiopteris)_itoi                0010000111??0221000-11-1011020100-1100111101101011100001-100-0000--132134012--02-21-10101-10001011-11111----11111-0011---080
+Angiopteris_(macroglossum)_smithii                0010000111000221000-11-1011000100-1100011100101011100001210100001--122034003--02-21-1-100-10001031111001--11100?110011211080
+Christensenia_aesculifolia                        1010000111110221000-110101101010110-0010111101100200000?1100200102-010103012-011021-1-10001100101001001--3-10-02011110122080
+Danaea_elliptica                                  1-10111111010221011-011101102010100?00001000-1100100011-2110000102-1321-40-2-021011-1001001110101111-013----1111020000311080
+Danaea_nodosa                                     1-10111111010221000-011101102011100-00001000-1100100011-2110100112-1321-4002-021011-100100111010111110143110100?010000001080
+Eupodium_(marattia)_kaulfussii                    0010000111001221000-11-101112210111000011101101100010000-10110010210111101024001011-2110102110101001101-003101000-0000----80
+Eupodium_(marattia)_laevis                        0010000111001221000-11-101112210111000011101101100010000-10110010210111101024001011-2110102120101001101-0021010001000021--80
+Marattia_alata                                    0010000111001221000-11-101102211111000011101?01011?01001210-?0010211121-40-0-0---21-21101--110102101-011----0?-?1-0000-21080
+Marattia_douglasii                                0010000111001221000-11-101102210111000011101?01011001001-101-001020122134000-0-1111-21101--1101010011001---10?-?1-0000--1080
+Marattia_laxa                                     0010000111001221000-11-10110211011100001110110101000100011011001020122134000-0-1111-21101-2120101001000100300-0?1?00000-1080
+Ptisana_(marattia)_fraxinea                       0010000111000221000-11-1-1102110111001011101001011000001-1010001-201221-4000-021020121100-111010-?00100--0-10-0?010000221180
+Ptisana_(marattia)_melanesica                     0010000111000221000-11-1-110220011101101110110101100000--10100010201221-4000-021020121100-111010-?00100--0-10-0?0-0000--1180
+Ptisana_(marattia)_salicina                       0010000111000221000-11-1-1102110111011011101101011000001-100-001-201221-4000-021020121100-111010-?00100--0-10-0?0-0000--1180
+Ptisana_(marattia)_silvatica                      0010000111000221000-11-1-1102210111011011101001011000001-100-001-201221-4000-021020121100-111010-?00100----10-0?010000111180
+Acaulangium_bulbaceum                             0101---100000221-112001100102211000-000-0-010000000000002010100102-101004000-12211000010012110?00-01111-10110-02-0000?--0-21
+Acitheca_adaensis                                 0101---1--0002211-1---1-00102211--0---0---00-0-00100010-?-30010102-000014011--1100000-10010000103111011121310-0-----------20
+Acitheca_alii                                     0101---1--0002211--------0102211--0-000-0-0--0-001000101?-10??01-?-?00?14011---0?-010-100-001?1-3?00011-43010-0--10000101-2-
+Acitheca_polymorpha                               0101---1--0002211-------00102211000-000-0-11-0-0010001010030010102-000124001--10010-0-1001000?1?3?00011132110-0--00---100-30
+Acrogenotheca_ramificata                          --0----------22------------02201--0-----0-00-0-00000010---0-000102-10010-1023-01--1-0-100-111-----01010-10110-0-----------3-
+Angiopteris_blackii                               00?0---1--000221000-------1021010-----0---00-0-00100000---000001-1-112004011--2200010-100-100-1-2-0001111121--------------50
+Angiopteris_(archangiopteris)_henryi              1-10000111110221000-11-1011020100-1100011101101011000001-100--000--132124012--02-21-00101-10001011-11013111111101100112-0080
+Angiopteris_(protomarattia)_tonkinensis           001000011100022100--11-1011020100-100-1-110-101011000000-101-00101-132154000--22021-00101-11101011011012013111101100-0101-81
+Araiangium_pygmaeum                               0-0----10000-221--0-001000102201000--0000-01100000000-001000100102-000004000---200010-1--10000030-01111330010-------------20
+Archaeocalamites/Protocalamostachys_spp.          0100--000000031010--0000000020---00---0-0-00-0-10-00----00----00-0------------00031---1--100000000020-------0-0--2000-----00
+Botrychium_virginianum                            0000---100000120000-010001012101000-0-0-0-00-0-10100010-?0--000000------------0-021---1100000010?1-2----?0?10002-000-10-1-80
+Botryopteris_tridentata                           0000--100000010-1013000000002-01000---0-0-0100-0000001000000101000-----------002031----00100011-21021-------0-02-?--------2-
+Buritiranopteris_costata                          0001---1-0000221101---0001102111-00-00--0-00-0-00100010-0031010102-100114011-101001-0-10010000102000011-41000-02----------30
+Calamites/Calamocarpon_sp.                        0100--000000032010--0000000-0-00100---0-0-00-0-10-00-----00-0-20-0------------00031------100000000020-------0-0--0?001--0-20
+Calamites/Calamostachys_spp.                      0100--000000032010--0000000-0-00100---0-0-00-0-10-00-----00---20-0------------00031------100000000020-------0-0--0?001--0-20
+Corynepteris_involucrata                          0000000000001000001-001001002101000-000-0-00-0-0?000-0000010011000-0000131033-211-1-1-1001000---0-02001-1020--------------20
+Danaeites_rigida                                  ---0---1----0221-0--------102001----------00-0-00000000---100001-2-122124000---1001-00100-200-1-3000011420110-02----------30
+Eoangiopteris_andrewsii                           0-01---10000-221------1-00102201000--00---1100-0010000002010100102-112024001-021011-0010000000030100111430110--2-00-000-0-21
+Eoangiopteris_goodii                              0-01---10000-221------1-001022010-0--00-0-00-0-0000000000010000102-122014001--1000000010010000102101001420300--2----------20
+Equisetum_spp.                                    0000--000000-320100-0010000-0-00000--00-0-00-0-10-00-0--000-0020-0-----------001031---1--102000001000----0--0----2000---1-60
+Escapia_christensenioides                         -------1-----221----------1-----0----00---1----0010---0-10---00102-011124023--0-02011-1001212-1-2?01001--2----------------6-
+Grandeuryella_renaultii                           0-01---10000-221------000-102201000--00-0-01-0-0010000002010100102-112114010--020-01001001011---10010114?1110-02-?0-------20
+Marattia_aganzhenensis                            00-----1--00-221----------102010---------------0-100000---00-001-20122044010--------21----211---20010-0121200-------------5-
+Marattia_anglica                                  00-----11100-221----------10201-----------010--000100001--001001-20132144001---2--1-2110--111---2000001310210-------------50
+Marattia_asiatica                                 00-----11100-221----------10211?----------0----0-1100001-100-001-101-2144011---1----2-10--111---2-00000121110-------------50
+Marattia_excavata                                 0010000111000221000-11-10110211-111000-1110100101000-000100-10010001221-21-0-02-120021101-21201020010001---10?-?1-000--11?80
+Marattiopsis_patagonica                           00-----1-----221?-1--??---1021-1----------0----00110000???0?0001-20122134011---2?-1-20100----------110012131--------------50
+Marattiopsis_vodrazkae                            00-----1-----221----------102-10----------00-0-00100000---01-001-20112123110---10-1-201001111-1-2-000013213111--0---------60
+Marattiopsis_crenulatus                           00-----1-----221----------10211?----000---0--0-001-00001------01-201----40-1----------1---------------------------0000----40
+Millaya_tularosana                                0-01---10000-221----------1022-10----0--0-0100-00000001-2-10100102-012034001--200-01001001000?1-31-0001410300-------------30
+Pertica_quadrifaria                               -1-0----0000-0--00--0-0000------00---0--0-0--0-10---000-------00-0------------0-0-1---1---0?0?1-0-000-------0-------------0-
+Psilophyton_crenulatum                            -0-0------0--01-00--0-00000-----0----00-0-00-0-10--1000-------00-0-----------0000-1---1-0000011-10000-------0----000000-2-0-
+Psilotum_nudum                                    1000------00-00-000-001000000---?00--00-0-00-0-10--0-00--0----01-2-1000231--2102121-1-1100112010201210---0--0----00000----8-
+Qasimia_schyfsmae                                 0------1--00-221----------10220100----0-0-00-0-00110000---000001-20132144011---20-1-21100-111010100000143111-----000011-0-30
+Radstockia_kidstonii                              ----------00---?-----------0220100----0---00-0-001000000--00-001-2-122124002---1--1-10100-020??-0--000001011--------------2?
+Rhacophyton_ceratangium                           0100---?-000-01-------------------------0-0--0-10-00-10-------00-0-1----------?---001-1-0-0010200-000-------0-02----------0-
+Scolecopteris_alta_A                              0100--010000-221000-000000102201000--00-0-0--0-0000000000000?00102-010103103306200010-10012110102000111-?0?10002----------20
+Scolecopteris_altissimus                          0100--010000-221000-000000102201000--00-0-0100-0000000010000100102-010112103301100010-10012120102000011-10310002----------20
+Scolecopteris_antarctica_L                        01-----10-00-221--------00102--------00---0100-010000-0020302101-2-1000131013-0102010-1001121?1000-0110-202-0-02----------40
+Scolecopteris_calicifolia_L                       0101--010000-221100-001110102211000--00-0-1110-0000001001030210102-100113101402100010-10012110020000011-00210-02----------20
+Scolecopteris_charma_O                            0101--010000-2211-----11001022?1000--0000-01-0-0000000000010200102-0101131003-2101010-10010000010000111-20110-02----------20
+Scolecopteris_conicaulis                          0101--010000-221----0-100010220-000--00-0-0100-0010000000010110102-0100121103-0101000-10010000010000011-11010-02----------20
+Convexocarpus_distichus                           010----00000-221-----------021010----00-0----0-00100-000--00-001-2-110-23000---1--000-100-000--------11-00310-------------30
+Scolecopteris_iowensis_O                          0101--010000-2211-0---1-00102201000--00-0-0100-0000000002000200102-0101101000-2101000-10010000000000111-10310-02----------20
+Scolecopteris_latifolia_L                         0101--010000-2211112011100102211000--00-0-1110-0000001000030210102-000103101402100010-10010000010000011-?0110-02----------20
+Scolecopteris_dispora                             0101--010000-221------10001022--000--00-0------0-00001000020-10102-0000131003-0101--0-10011110010001011---3-0-02----------20
+Scolecopteris_elegans                             0101--010000-221--------0-102201000--00-0-00-0-0000000000020010102-0000131004-2111000-1001200--20001111-2-310-02----------30
+Scolecopteris_fragilis_L                          0101--010000-221--1-00110010220-000--00-0-1100-001000100003-210102-000113101400200110-10011010010001111-31010-02----------20
+Scolecopteris_globiforma                          0101--010000-221------000010220?000--00-0-1?00-0100000000010000102-010113103301201000-10012120102001111-?02?0-02----------20
+Scolecopteris_gnoma                               0000--010000-221100-00110010220-000--00010010000000000000020110102-000103100411200000-10012110020001111-10110-02----------20
+Scolecopteris_guizhouensis                        0101--010000-221----------102--------0----1----0--------------01-2-10011---1---112000-1001000010310001--------------------3-
+Scolecopteris_illinoensis                         0101--010000-2211112001100102201000--00?0-00-0-0100000012010000102-100013100410211000-10012110020001011-10310-02----------20
+Scolecopteris_incisifolia_L                       0101--010000-221----?-0?00102201000--00-0-01-0-0000001000020210102-1000011?13-020001?-100111100000001?1-?11?0-02----------20
+Scolecopteris_macrospora                          0101--010000-221----------102211000--00-0-00-0-001000100??20000102-0000231002-2100000-1001000?1-2?01011-31310-02----------20
+Scolecopteris_majopsis_O                          0101--010000-221------1000102201000--0010-10-0-0000000000010010102-1001231014-2111010-10010010100000011-10310-02----------20
+Scolecopteris_major                               0101--010000-221000-0011001022----0--0----1--0-00-00000--0----01-2-1001101?12-0000000-10010-0---000001----2-0-02----------20
+Scolecopteris_mamayi_L                            0101--010000-2211112001010102201000--0000-111000000001001030210102-100103101402100010-10011010010000011-20110-02----------20
+Scolecopteris_minor_M                             0101--010000-2210-030-1000102201000--0010-01-0-0000000000020110102-100002100300211000-10012110010001111-?01?0-02----------20
+Scolecopteris_monothrix_L                         0101--010000-2211111111000102211000--00-0-1110-1000001002030210102-1000121013?0100010-10012110010000011-?02?0-02----------20
+Scolecopteris_nigra_A                             0101--010000-221--1---1100102201000--00-0-00-0-0000000010000000102-0001131004-2100010-10010010010011111-20210-02----------20
+Scolecopteris_oliveri_O                           0101--010000-221--1---0100102201000--0010-011010010000002010110102-1001121002-0111010-10012110103101011-212-0-02-000010-1-30
+Scolecopteris_parkerensis_L                       0101--010000-221--1---0100102211000--00-0-0100-0000001001030210102-0001031013-22001-0-10011110214101110-201?0-02----------20
+Scolecopteris_parvifolia                          0101--010000-221------1?00102201100--00-0-01-0-0000000000010?00102-0000131004-1211010-10012110010000101-?0110-02----------20
+Scolecopteris_revoluta                            0101--110000-221------0100102201000--0010-11-000100000000010210102-0001031004-220100?-100122011-0--11?1-?00?0-02----------20
+Scolecopteris_saharaensis_M                       0101--110000-221000-001100102201000--0010-01-0-0100000012020210102-100003100400111000-10012110010011111--0310-02----------20
+Scolecopteris_shadensis                           --0----10000-221----------10220100----0-0-0110-00100000---10200102-0010131004-22-1000-100-100---0-01111-202-0-02----------20
+Scolecopteris_shanxiensis                         --01---1-----221----------102--------0----0----00-------------01-2-?1011-101---112010-1001000-10200001--------------------30
+Scolecopteris_unita                               0101--010000-221--------00102201000--00-0-11-0-00100000---00-00102-01011--03-01-00-----001212-11000---------0-02----------20
+Scolecopteris_vallumii_L                          0101--010000-221--020-1110102201000--00-0--1-0-0000001002020110102-000113100402100010-00011110214000111-20210-02----------20
+Stauropteris_oldhamia                             0000------00-01-01--0-00000-----10---00-0-00-0-10--0-0-1-0-0--00-0-------1----0-1-1---1-00000?????-20-------0--2-000----0-2-
+Sturiella_(scolecopteris)_intermedia              0101--010000-221------0000102201000--00-0-01-0-0000000002020110102-110114000--2212000-1001---------1111-10110-02----------21
+Gemellitheca_saudica                              -------1--000-2-----------102101000---0-0-00-0-00100010---300101-2-1011-4011---10-1-0-100-2000010000011-41010-0--000010-0-3-
+Danaeopsis_fecunda                                -------1----0-2-----------102010-----------------200000---00-000-0-------------2--1---100-000--0-0021---1121--------------4-
+Symopteris_rumpfii                                -------1----0-2-----------102011-----------------100010---20-100-0-------------0--1---100-100--200020---1131--------------4-
+Sydneia_manleyi                                   -------1------2-----------1022-1----------01-----1000100--0--001-2-132130002---20-1-00----10100-000011--0131-------000--0-2-
+
+;
+
+
+cnames
+{ 0 Plant_habit leaf_bearing_stems_erect creeping;
+{ 1 Erect_adult_stem squat elongate;
+{ 2 Stipule(aphlebia)_pairs_at_leaf_base absent present;
+{ 3 Root_mantle_around_stem absent present;
+{ 4 Sclerenchyma_strands_in_free_root_mantle absent present;
+{ 5 Sclerified_pith_in_root_stele absent present;
+{ 6 Root_cortex_with_continuous_sclerenchyma_band absent present;
+{ 7 Polyarch_root_stele absent present;
+{ 8 Multicellular_root_hairs absent present;
+{ 9 Mucilage_canals_in_root absent present;
+{ 10 Stem_symmetry_(internal_anatomy)_1 radial bilateral;
+{ 11 Stem_symmetry_(external_morphology)_2 radial dorsiventral;
+{ 12 Basal_pinnae_more_elaborated absent present;
+{ 13 Stem_stele protostele solenostele dictyostele equisetostele;
+{ 14 Protoxylem_development exarch mesarch endarch;
+{ 15 Vascular_cycles_in_stem_xylem one_(monocyclic) two_or_more_(polycyclic);
+{ 16 Stem_hypodermis_of_sclerenchyma absent present;
+{ 17 Stem/pinna_internal_sclerenchyma_strand absent present;
+{ 18 Sclerenchyma_in_petiole_or_pinnae absent present;
+{ 19 Stem_sclerenchyma_position_at_higher_levels periphery_and_between_inner_cycles periphery_and_between_second_and_third_cycles periphery_and_between_outer_cycles periphery_and_in_outer_cortex;
+{ 20 Lysigenous_lacunae_in_stem/pinnae absent present;
+{ 21 Mucilage_canals_in_axial_components_of_frond absent present;
+{ 22 Tannin_cells_in_stem_or_pinnae_cortex absent present present_and_concentrated_near_vascular_bundles;
+{ 23 Gum_sacs_in_stems_or_petioles absent_or_sparce present;
+{ 24 Cells_with_layered_contents_in_stems_or_pinnae absent present;
+{ 25 Petiole_or_pinna_vascular_strand continuous discontinuous;
+{ 26 Phloem_maturation exarch endarch;
+{ 27 Number_of_fronds_(megaphyll) multiple_fronds_produced one_frond_produced_at_a_time;
+{ 28 Frond(megaphyll)_division simple lobed_to_pedate pinnate;
+{ 29 Degree_of_pinnation once twice three_or_more;
+{ 30 Pinnule_pinna_base margins_parallel narrowly_confluent/cordate;
+{ 31 Pinnule_pinna_tips acute obtuse;
+{ 32 Epidermal_cell_walls_thickened absent present;
+{ 33 Epidermal_cell_wall_thickening even uneven;
+{ 34 Foliar_abaxial_idioblasts absent present;
+{ 35 Laminar_idioblast_groupings solitary_or_small_groupings dense_areas_of_idioblasts;
+{ 36 Idioblast_chains_on_lateral_veins absent present;
+{ 37 Idioblasts_on_synangium_walls absent present_(occasional);
+{ 38 Foliar_anticlinal_epidermal_cell_wall straight_or_curved uniformly_sinuous;
+{ 39 Scale_cell_shape isodiametric elongate;
+{ 40 Peltate_scales absent present;
+{ 41 Peltate_laminar_scale_morphology with_centrally_attached_stalks with_strongly_asymmetrical_stalk_attachment;
+{ 42 Trichomes_borne_on_sporangia absent present;
+{ 43 Pinna/pinnule_epidermal_trichomes absent present;
+{ 44 Branching_of_paraphyses unbranched branched_(some_unbranched);
+{ 45 Glandular_trichomes absent present;
+{ 46 Scale_margins entire lobed_or_fimbriate;
+{ 47 Sporangia_individually_vascularized absent present;
+{ 48 Sporangium/synangium_base_trichomes absent present;
+{ 49 Pinnule_venation simple open_dichotomous reticulate;
+{ 50 False_veins absent present;
+{ 51 Awns_on_veins absent present;
+{ 52 Fertile_veins all_potentially_fertile preference_towards_distal_vein_branches;
+{ 53 Frond_dimorphism absent_or_slight strongly_dimorphic;
+{ 54 Synangia_(sori)_separated_by_surface_foliar_partitions absent present;
+{ 55 Leaf_cuticle_(adaxial) thin thick;
+{ 56 Leaf_lamina_mesophyll homogeneous_compact homogeneous_aerenchymatous palisade_and_spongy_mesophyll;
+{ 57 Mesophyll_cells_with_microscopic_projections_on_exterior_walls absent present;
+{ 58 Fertile_pinnule_margin_morphology flat downturned thin_inrolled thick_inrolled;
+{ 59 Pinnule_laminar_margin_with_vascularized_tooth absent present;
+{ 60 Abaxial_lamina_trichomes none on_midrib on_midrib_and_lamina;
+{ 61 Sporangia_enclosed_by_pinnule_margin absent present;
+{ 62 Functional_sporangium_annulus absent present as_helical_internal_wall_thickenings;
+{ 63 Sporangia_developmentally_attached_(synangium) absent present;
+{ 64 Mucilage_canal_under__lateral_vein_in_lamina_beneath_sorus absent present;
+{ 65 Extent_of_lateral_sporangium_fusion_before_dehiscence none partial complete-almost_complete;
+{ 66 Synangial_suture_between_valves deeply_cut_without_central_tissue_pad shallowly_cut_with_central_tissue_pad;
+{ 67 Sporangia_of_sorus_around_central_cellular_area_at_base present absent;
+{ 68 Number_of_sporangia_per_synangium 2-5 6-11 12-22 more_than_22;
+{ 69 Synangium_symmetry_in_x.s. radial radial_and_bilateral bilateral;
+{ 70 Synangium_surface_contour_in_x.s. lobed circular_or_oval;
+{ 71 Average_synangium_diameter_or_lateral_extent_(mm) 0.35_-_0.7 0.7_-_1.2 1.2_-_2.0 2.0_-3.0 3.0_-_5.0 5.0_-_15.0 >15;
+{ 72 Synangium_offset_from_abaxial_foliar_surface_(mm) 1-2 0.5-1.0 0.25-0.5 <0.25 State_5 State_4;
+{ 73 Synangium_receptacle_morphology flat_or_raised_mound radial_stalk_or_pedicel;
+{ 74 Synangium_attachment_under_vein under_lateral_vein under_secondary_vein under_higher_order_vein;
+{ 75 Synangium_shape_in_longitudinal_section_pre-dehiscence cordate fusiform oval two_crescents;
+{ 76 Synangium_pedicel_diameter_(mm) >2 1-2 0.4-0.9 0.25-0.4 <0.25;
+{ 77 Stem_cortical_tissues compact loose/aerenchymatous;
+{ 78 Sporangium/synangium_pedicel/receptacle_histology vascular vascular_+_parenchyma + fiber_+_parenchyma parenchyma fiber transfusion_tissue;
+{ 79 Synangium/sporangium_height_(mm) >2 1-2 <1;
+{ 80 Dorsal_sporangium_wall_histology homogeneous heterogeneous;
+{ 81 Dorsal_sporangium/synangium_wall_thickness two_cell_layers three_cell_layers more_than_three_cell_layers one_cell_layer;
+{ 82 Sporangium_tip_extension present absent;
+{ 83 Sporangium_tip__extension_length long,_obvious short,_inconspicuous;
+{ 84 Initial_synangium_dehiscence sporangia_separate_distally sporangia_do_not_separate_distally two_rows_of_fused_sporangia_(valves)_separate;
+{ 85 Bilateral_synangium_dehiscence sporangial_rows_fused_but_not_opening_as_two_valves sporangial_rows_opening_as_two_valves;
+{ 86 Sporangium_aperture_shape pore slit;
+{ 87 Sporangium_dehiscence_position inner/side_facing_wall terminal;
+{ 88 Sporangium_aperture_labiate simple labiate;
+{ 89 Sporangium_dehiscence_area_wall_uniseriate absent present;
+{ 90 Spore_average_diameter_(um) >40 20-40 <20;
+{ 91 Spore_suture trilete monolete alete;
+{ 92 Spore_morphology spherical ovoid reniform;
+{ 93 Perine_(perispore) present absent;
+{ 94 Spore_ornamentation_location perine(perispore) exine perine_and_exine;
+{ 95 Perine(perispore)_ornamentation_units smooth spines papillae warts;
+{ 96 Exine_ornamentation_units smooth spines papillae warts ridges;
+{ 97 Spore_ornamentation_units_joined absent present;
+{ 98 Spore_lasurae_raised/thickened absent present;
+{ 99 Sporangium_cavity_shape cylinder_tapering_near_tip obovate_wider_in_basal_half obovate_wider_in_distal_half;
+{ 100 Sporangium_cavity__length_(mm) >_1.0 <_1.0;
+{ 101 Synangium_sporangia_spread_out_from_center_on_dehiscence absent present;
+{ 102 Synangium_location_on_pinnule marginal between_margin_and_midvein;
+{ 103 Synangium_lateral_extent_on_pinnule near_midvein edge_to_<1/2_way_to_midvein edge_to_>1/2_way_to_midvein midway_between_margin_and_midvein full_lateral_width;
+{ 104 Veins_per_centimeter_at_pinnule_margin 1-5 6-10 11-15 16-22 22-28;
+{ 105 Number_of_lateral_vein_branches_fertile_pinnules none once twice thrice;
+{ 106 Lateral_vein_spacing_in_fertile_pinnule_mm 0.3-0.5 0.5-0.7 0.7-1.0 1.0-1.5;
+{ 107 Lateral_vein_angle_to_midvein__fertile_pinnule perpendicular subperpendicular;
+{ 108 Stipe_pulvini absent present_(at_least_in_juvenile);
+{ 109 Stipe_pulvinus_retained_in_mature_fronds no yes;
+{ 110 Stipe_pulvini_of_mature_frond no_pulvinus one_pulvinus_proximal_to_lamina;
+{ 111 Stipe_pulvini_number one two_or_more none;
+{ 112 Pulvini_location primarily_leaf_nodes primarily_petiole_(rachis)_base;
+{ 113 Stomata_of_lamina anomocytic_to_weakly_cyclocytic mostly_cyclocytic paracytic;
+{ 114 Stomata_of_lamina_-_2 guard_cells_functional guard_cells_permanently_open;
+{ 115 Stomatal_shape elliptical circular;
+{ 116 Stomatal_complex surficial_or_slightly_sunken raised;
+{ 117 Stomatal_density low high;
+{ 118 Stomata_of_lamina_-_3 subsidiary_cells_anomocytic subsidiary_cells_cyclocytic subsidiary_cells_dicyclic subsidiary_cells_dicyclic_but_with_lateral_cells_paracytic;
+{ 119 Stomata_of_lamina_-_4 subsidiary_cells_monocyclic subsidiary_cells_dicyclic subsidiary_cells_tricyclic_or_tetracyclic;
+{ 120 Guard_cell_pair_(stoma)_diameter_(um) <25 26_-_40 >40;
+{ 121 Chromosome_base_number x=40 x=39;
+{ 122 First_occurence Dev Miss Penn Perm Triassic Jurassic Cret. Ceno Extant;
+{ 123 Sporangium_cavity_base_immersed_in_parenchyma absent present;
+;
+
+
+ccode  - 0.71 73.123 + 72;
+
+
+;

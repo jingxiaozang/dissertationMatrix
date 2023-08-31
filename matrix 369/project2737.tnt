@@ -1,0 +1,356 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 09.27.11'
+292 46
+
+&[num]
+Pteronotus_parnellii                    0000220---103000011000012100211110--1003----?010020100000200101110101220010011001000-00-01100101020-01001310-1120011120-0310-111201101111110-00001000000001--001120200210000002-102000-1043110?1101100--011101011200131-1001001-01000001101110021-00001100001211001000000010000001201012------------
+Mormoops_blainvillei                    0000220---003001000010212000211111--1003----?000020100100310100110200120010001001000-00-0110010014-302101110-100001114-202110101001001111110-00001020001101--101020220210000101000100110031011?3121100---11102011100130-2001101-00000000101010021-00100-00002211000100000000101002201001------------
+Pteronotus_davyi                        0000220---103001010000112100211110--1003----?010020110000200101110000220010001001000-00-0110010114-001001310-0120011120-0210-101201001111100-00001000001001--001020220210000002-002000-1043111?3110100---11102001100130-1000001-01000001101210021-001011000011110001000000000110022011-2------------
+Speonycteris_aurantiadens               ??????????????????????213010??111????1????????????????????1?102110????10???????????????-??????????-?????????????0????4-?031101111?????????????????????????????0??2?110210000001100100011043010?1?20100--0201?2001200130-?000001-0000000110100002??0000110?0102110000001100100000021011-2------------
+Macrotus_californicus                   10001-----103000001100002000211110--0003----?010120111010200001110200220000001001002100-01101----20-02102310-1100010120-0310-111102101011152-00000-10000101--000120210210100001000100010012010?2120100---11102111200131-1002202001000001102220021-000011000002110001001000100000021011-2------------
+Macrotus_waterhousii                    10001-----103000001000002100211111--0103----?010120111010100101110201220000000001002101101101----20-02102310-1110010120-0320-111103101011152-00000-20000101--000120210210000001000100110110010?3121100---11101111200131-1002102000000001102120021-100011120010110001001000100100021011-2------------
+Micronycteris_hirsuta                   10001-----103000001000113100212111--1103----?010121111101212002210200210000000001010-01101101----30-022013110112001014-103110111102001111152-01000-20000001--000110120110001001000100011032010?3120100---11102101100130-2001201-00000001101010021-000011010022110000000000100000021011-2------------
+Desmodus_rotundus                       10004--01005--1----1100010-03-0110--1113----?1-----------3002-10-000-120-0100-0----0--0--1101----0--1--00010-4--1----------------1-------------000-21000011--2110400000-1----02-0110001023002-03102--0--00-0-2101200----00-1000-0-2000012--1-01----22-0---125---1-------1---------------------------
+Diaemus_youngi                          10004--01005--1----110000---3-0110--1113----?1-----------1002-00-020202000100-0----0--0--1101----0--1--00210-4--01---0--------4--1-------------03--2101-001--0110400000-1----02-011000102?002-?3102--0--00-0-2101300----00-0010-0-2000012--1-01----22-0---225---1-------1---------------------------
+Diphylla_ecaudata                       10004--0100532001-0110000---3-0110--1113----?1-----------1002-00-02021200011-------0--0--11-1----0--1-----10-4--01---0--------4--1-------------002-20003201--0110400000-1----02-0110001021002-?3102--0--011102101200----00-0000-0-2000012-01001----22-0---225-0-0012-3221---------------------------
+Lophostoma_evotis                       10000--00-1031010010000130001-0110--1003----?020110110000202100110201220000000001113100-0110010014-102102302-100001014-10322-111102000--1152-01000-201----1--000120210110000002-20100011143110?3111100---1110200120010-02002201-00000001002010021-0000110100121100?0000000100000021011-2------------
+Mimon_bennettii                         00001-----103001011000103000211110--1003----?000021100000210100110200210000000001012100-0110010004-0021000110101001004-203110110102001011152-010010001----1--0000202200-0000-1--------------10?3120000---10102001100130-2001102001000000111010021-00001101001211000000100010101002101012------------
+Phyllostomus_hastatus_hastatus          11001-----1030010010000120001-0101--1003----?000110100000212000111101210000001001010-00-0110010004-202101010-112001014-00310-111202001011152-01001010000101--001020210210000-1--------------11?3100100--011102001100130-2001101-00000001101010021-000011010002110000000000100000021001-2------------
+Phylloderma_stenops_stenops             0100220---1030010111000020003-0110--1003----?0?0111110000100100110201220000001001010-00-0110010014-002102310-110001014-20320-111002000--1152-0102--1001-011--000010200110000002-002000-1043110?3120100---11102001200130-2002201-01000001111010021-00001111001211000000000010000002101012------------
+Notonycteris_magdalenensis              ???????????????????????????????????????????????????????????????????????0?00000001010--0-0110????????????????????000--11-0400-1012???????????????????????????????????????00???02-0???????????10????????????????????00130-2002201-0000000101?0?0021-0100111?001211000000100??0????????????------------
+Notonycteris_sucharadeus                ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????00130-2002201-0000000101?0?0021-0000111?00121100000000????????????????------------
+Tonatia_saurophila_saurophila           ???????????????????????????????????????3----?020???????0?2001001102?????????????????????????????????????????????0????????????????0????????????????????????1--???????????00??002-0?????????3?11?3121100---0-1-2001200130-2002201-00000001101010021-00001101001211000000000??0????????????------------
+Trachops_cirrhosus_cirrhosus            1000220---1031020010000122001-0111--1003----?02011010100010000011120121000000000101201110110010004-3022013110102001014-204110111202001011151-00001010001101--000020220110000002-102001-1243110?1020100---10102001100130-2000202000000001102220021-00001101001211000000000000101002100012------------
+Lonchophylla_thomasi                    10001-----0020011-0010000---3-2112010003----?0102001101002022-1101201211000001001002100-0110010004-002102110-4--001004-00200-14--01000--1110-00001020001101--0110202100-0001101001110100232010?0102--0--011101001200130-2011101-00000001101010021-002-0-1201420-0002-0?100102-00012011-1------------
+Phyllonycteris_aphylla                  0000220---012001000010112100210110--1003----?02020011010000-2-01102112200011-1-03002100-01101----10-0110--10-11001---4-002-0-10100101---1101-1-04--1103-211--1110202000-0000-1--------------10?3102--0--00-2-11012101---1010000-000000012101010-1--22-0--1022-0-0022-21200102-01-02001-1------------
+Leptonycteris_yerbabuenae               10001-----0110010010102122003-2112000003----?0102001011001012-2101201220000001001000-00-01100100130-02102310-4--000--20-1000-14--1-------------04--1103-111--1110211010-0101101001110110231010?0102--0--010002001200130-2010111-00000001100110021-012-0-0201420-0012-0111---------------------------
+Carollia_perspicillata                  11000--00-003001100000012000210110--1103----?0102211011122102-0101200210000001003000-20-01101----10-01000110-4--0010111-0300-14--02100--1152-1-000-20000001--100010210111----01100100010221010?3102--0--00-1-210110012-01010101-001000011-1010011-012-0-0011210-0002-21100102-1001-1-1-2------------
+Artibeus_jamaicensis                    0000220---012000000000102000211210--1003----?0201211010003122-0202100210001002003000-10-01101----0--1--11000-01201---0--1000-030104-1---1152-0002--1001-101--0000302000-0000-1--------------10?1001000--0111020012001---1010000-001000012-00010-1-102-0--00202110012-02201212-21-0-001-2------------
+Noctilio_albiventris                    10000--0101030000100002120000-1110--1003----?1-----------311110110001220000000001012000-0010010014-0020001010112001014-003010011201001011120-0001--101----1--001120200210001-1--------------0-?102101111-0-1-2101200131-1010012100000011111210020100100-000002110021100000101000021001-2------------
+Noctilio_leporinus                      10000--010103000010000?120000-1110--1003----?1-----------311100110001220000000001012000-0110010014-0020001111002001014-002011110201001011120-0001--101----1--001120200210001-1--------------0-?102100111-0-1-2101200131-10000121000000111110100201001011000002110011100000101000021001-2------------
+Furipterus_horrens                      01000--00-101000010010202?000?1113111003----?010020???100202002100202220010011001012100-01?1010114-102001010-4--001114-00210-14--00001111110-0100102000110021200001100210000202-00100011022010?0120100---11112001200130-2001?01-011000001-1110010200101101010211001100010000101001-01011------------
+Amorphochilus_schnablii                 01000--00-1?1000010010002?000?1110--1003----?010020???000201000100200220000001001002100-01?1010114-302100110-4--001114-10200-14--01001011110-0000102000110011200001100210001202-00100011011010?2120000---11112001200130-2001?01-01000001111010010200101101001211000100010010101001-00002------------
+Thyroptera_discifera                    10000--0101020000100001030001-1110--10000120?010021100011312101110?01220010001001012100-0100010114-202002312-3-1001114-20322-13-201001011110-0000102000111021100011210210001201001110010012011?2120100---0-2-200110010-12002201-010000001110100202000011120112110000000000000010020011-2------------
+Thyroptera_tricolor                     10000--1--1020000100101030001-1100--10000120?010021100000312101110100220010001001012100-0100010114-302002012-201001004-20312-120201001011100-0000102000111021101011200210001201000100010022010?3120100---11102101100131-2000201-010000000-121001020000111101100-001001000000001002-011-1------------
+Vulcanops_worthyae                      ??????????????????????????????????????????????????????????????????????10?0001?001000-00-0111000--30-021010131102000--4-003131110201000--1100-01???????????????????????????????????????????????????????????????????00021-2010200-01100001111010020?00101111012111000000010010000001201012????????????
+Icarops_aenae                           ??????????????????????????????????????????????????????????????????????10?0000?001000-00-0111010014-002101010-100???????????????????????????????0?????1----1--???1???????1----02-????????????1?????????????????????0?131-201??01-0?000001?1???00???00001101010?11000100?00000100002201011------------
+Icarops_breviceps                       ???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????0?????1----1--???1???????1----02-????????????1?????????????????????0?131-2010101-0?00000111????????????????????11000100?00000000002201012------------
+Icarops_paradox                         ???????????????????????????????????????3----?01??????????212001110001210000002001000-00-01??010004-002101010-200001114-00310-120001001011110-000?????1----1--?00120110211----02-????????????1?????????????????????00131-200??01-001000011-1010021-0000110?012211000000000000000002200??1------------
+Mystacina_robusta                       00000--00-10--1----0001130000-1112001003----?010021110011212000110100220000001001000-00-0111010004-002001010-200001004-00310-120001001011110-000010001----1--100120110211----02-001000110300100311001111-0-1-2101200131-2001101-001000011-1110020100001101011211001000010010000001201012------------
+Mystacina_tuberculata                   00000--00-?0--1----0000130000-1111001003----?010121110001212100110100220000001001000-00-0111000--30-02001010-200001004-00310-130001001011110-000010001----1--100120120111----02-001000110300100312001110-0-1-2101100131-2001101-001000011-0110020100001111012211001000010010000001201012------------
+Mystacina_miocenalis                    ??????????????????????????????????????????????????????????????????????10?10001001000-00-00?10100030-02001010-200001004-00210-1300???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????
+Myzopoda_aurita                         11000--10-01000?0100101120001-1111--10100122?0200200-010021000010020222001001?101002110-01?1000--20-01100010-4--0010021-0300-14--01100--1100-00000-1000020011111030110210001002-001000-10431100-110000---0-102002200131-2000201-001100011-1010020200001111011211001000010000000001201011------------
+Myzopoda_schliemanni                    11000--10-0100010100101120000-1110--10100132?0200200-0100210000100202220010010101002110-01?00100020-01100010-4--0010021-0300-14--01100--1100-00000-1000121011111030110210000002-?01000-10431100-100000---0-102002200131-2000201-001100111-1010021-00001111011111000000010010000001201011------------
+Phasmatonycteris_phiomensis             ?????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????02-0?1000-1043110?-120000---????2?02200130-2010201-00100001?-1010021-000011110122110000000100100000012001-2------------
+Phasmatonycteris_butleri                ??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????00131-2010201-001000011-???????????????????111000000010010000001200012------------
+Saccopteryx_bilineata                   --1-----------0-100010202?00??11120010120-0-?1-----???---1031021112002200?0011101002000-01?0001--0--02002312-111001114-1022101212010?111?1200000010200??10011100021220111----010001???10032110?1020000--?0-1-1011200130-2000?02?01000000101110020200??0-0000120-001??0000000??10022011-2------------
+Natalus_stramineus                      0000201---111001010010011?-00?1110--10000120?000020???010310020100200220010001001002000-01?10100130-02102012-300001104-00210-14--000?1111100-0000102000110011101030100210000201000100010010010?2120000---0-1-2101200131-2000?01-00000001111210010200101101011211002000010000001012200011------------
+Chalinolobus_gouldii                    01000--0101?30020100001020000-111?--1003----?022------000312000110001210010010001002100-0110010004-3021010?0-30?001004-20310-?3010100100111110000102000111011000021210?11----02-00?00?11043110?1120000--?11102001300131-2010101-001000011110?001??00001101001011000000000010010002100012------------
+Chaerephon_jobensis                     01000--01011--1----0001121001-1111--0003----?02002110000021210011000121001001?001000-00-0110010004-0020002110111001004-102010111101001001120100000-20000111--000031210111----01200100111132011?31210111000-1-2001200130-2?00021-010010111110100101000011110000110000000000100000021011-2------------
+Hipposideros_commersoni                 10001-----01--1----010213?002?11121110110-0-?1-----???---3121011111012200?0001001012110-01?00100010-01100110-200001004-00300-12000200100?1521010010200??211--000030110210000-1-----???------10?1110000--?1110110110012-12002?01-00000001011010020000??1101201211000??0200010??100111-1-2------------
+Pteropus_scapulatus                     00001-----001000100000110?--3-?110--00020-20?01020---?12200-2-0---21112-1?-----------------------------0--------0----------------1-------------04--1103-211--0110201000-0010201?011???-1210?10?--02--0--?-------?010----------------------0---------??------?---01-??---01212-----------200000200000
+
+;
+
+
+cnames
+{ 0 Upper_incisors_direction_of_projection_of_tooth_shaft orthodont proodont;
+{ 1 Upper_incisors_orientation_of_tip_of_crown orthoclivous retroclivous;
+{ 2 Upper_I1_presence I1_present absent I1_absent;
+{ 3 Upper_I1_crown_differentiation crown_clearly_differentiated_from_root_shaft_ not_differentiated_from_root_shaft;
+{ 4 Upper_I1_shape_of_occlusal_margin large_main_cusp_that_tapers_to_a_blunt_point_(additional_lateral_cusp_may_be_present) straight_or_slighlty_convex_and_rounded bilobed trilobed blade-like_with_concave_C-shaped_cutting_edge;
+{ 5 Upper_I1_form_of_lobes mesial_lobe_smaller_than_distal_lobe lobes_of_equal_size mesial_lobe_larger_than_distal_lobe;
+{ 6 Upper_I1_direction_of_lobe_projection ventrally mesially;
+{ 7 Upper_I1_position_of_pointed_main_cusp main_cusp_offset_mesially_from_axis_of_tooth main_cusp_in_center_of_tooth_(so_tooth_crown_is_roughly_bilaterally_symmetrical) main_cusp_offset_distally_from_axis_of_tooth;
+{ 8 Upper_I1_distal_accessory_cusp absent present;
+{ 9 Upper_I1_relative_size_of_pointed_mesial_cusp mesial_cusp_2x_the_height_of_distal_cusp pointed_mesial_cusp_only_slightly_higher_than_distal_cusp;
+{ 10 Upper_I1_lingual_cingulum_presence absent present;
+{ 11 Upper_I1_occlusion I1_in_contact_with_i1_or_separated_by_a_small_gap_when_cheek_teeth_are_in_occlusion I1_separated_from_i1_by_a_large_gap_when_cheek_teeth_are_in_occlusion I1_occludes_with_mesial_side_of_i2 I1_occludes_with_anterior_cingulum_of_lower_canine. I1_occludes_with_cingular_shelf_on_lower_canine,_well_posterior_to_i1 I1_occludes_posterior_to_i1_in_mandibular_fossa;
+{ 12 Upper_incisors_relative_crown_height height_of_I1_less_than_height_of_I2 I1_and_I2_subequal_in_height height_of_I1_greater_than_height_of_I2_but_less_than_twice_the_height_of_I2 height_of_I1_at_least_twice_that_of_I2;
+{ 13 Upper_I2_occlusal_exposure I2_in_normal_position_between_I1_and_C_(or_I3,_if_present),_not_excluded_from_occlusion_toothrow I2_moved_dorsally_and_excluded_from_occlusal_toothrow_by_close_apposition_of_I1_and_C I2_moved_ventrally_and_excluded_from_occlusal_toothrow_by_close_apposition_of_I1_and_C;
+{ 14 Upper_I2_presence I2_present absent I2_absent;
+{ 15 Upper_I1_and_I2_relative_position I2_located_more_posterior_than_I1 I2_lateral_to_I1,_not_displaced_posteriorly_or_anteriorly,_incisors_form_transverse_line I2_displaced_anteriorly;
+{ 16 Upper_I2_crown_morphology well_developed_crown_morphology simplified;
+{ 17 Upper_I2_lingual_cingulum_presence absent cingulum_present;
+{ 18 Upper_I2_and_C_diastema_presence diastema_present diastema_absent_between_I2_and_C,_teeth_in_contact;
+{ 19 Upper_C_crown_height upper_C_greater_than_or_equal_to_twice_the_height_of_I1 upper_C_much_less_than_twice_the_height_of_I1;
+{ 20 Upper_C_crown_proportions not anteroposteriorly_elongated;
+{ 21 Upper_C_labially_swollen not upper_C_labially_swollen;
+{ 22 Upper_C_anteromedial_accessory_cusp no_raised_cingulum_or_cusp raised_cingulum_present_but_cusp_absent cusp_present_but_low cusp_tall,_greater_than_half_height_of_main_cusp;
+{ 23 Upper_C_anteromedial_groove groove_absent anteromedial_groove_present;
+{ 24 Upper_C_lingual_cingulum_ lingual_cingulum_absent faint_lingual_cingulum_present narrow_well-developed_cingulum_present wide_well-developed_cingulum_present;
+{ 25 Upper_C_lingual_cingulum_indentation absent weakly_developed strongly_developed;
+{ 26 Upper_C_lingual_cingulum_cusp absent present;
+{ 27 Upper_C_lingual_cingulum_slope not_steep steep;
+{ 28 Upper_C_labial_cingulum_development cingulum_well_developed_and_complete cingulum_weakly_developed_but_complete cingulum_weakly_developed_and_incomplete cingulum_absent;
+{ 29 Upper_C_labial_cingulum_incompleteness incomplete_anteriorly incomplete_in_the_middle incomplete_posteriorly;
+{ 30 Upper_C_distal_cingulum absent cingulum_small large;
+{ 31 Upper_C_posteromedial_ridge ridge_absent posteromedial_ridge_present two_posteromedial_ridges_present_forming_a_groove;
+{ 32 Upper_C_posterolingual_surface rounded posterolingual_surface_flattened;
+{ 33 Upper_C_posterolateral_accessory_cusp cusp_absent trace_of_cusp_present cusp_tall_and_conspicuous_but_less_than_half_the_height_of_the_main_cusp cusp_very_tall,_equal_to_or_greater_than_half_the_height_of_the_main_cusp;
+{ 34 Upper_C_posterolateral_accessory_cusp_form conical_and_well_separated_from_main_cusp bladelike;
+{ 35 Upper_C_posterolateral_accessory_cusp_position cusp_located_on_posterior_cingulum,_well_seperated_from_main_canine_cusp cusp_originates_on_posterior_face_of_main_canine_cusp,_not_well_seperated_from_that_cusp;
+{ 36 Upper_C_posterolabial_surface rounded posterolabial_surface_flattened;
+{ 37 Upper_C_curvature less_recurved more_recurved;
+{ 38 Upper_C_angle_of_projection does_not_project_anteriorly,_long_axis_of_tooth_shaft_is_perpendicular_to_plane_of_occlusal_surface_of_molar_toothrow projects_anteriorly,_long_axis_of_tooth_shaft_forms_an_oblique_angle_with_the_plane_of_the_occlusal_surface_of_the_molar_toothrow;
+{ 39 Upper_P1_development P1_with_well-developed_crown_that_is_greater_in_diameter_than_the_root,_crown_conical,_triangular,_or_lenticular_in_labial_view P1_peglike,_crown_simplified_and_flattened,_crown_diamenter_subequal_to_or_only_slightly_larger_than_root_diameter P1_present_as_a_tiny_spicule_with_crown_diameter_less_then_or_equal_to_root_diameter P1_absent;
+{ 40 Upper_P1_number_of_roots 1_root 2_roots;
+{ 41 Upper_P1_labial_cingulum_presence absent labial_cingulum_present;
+{ 42 Upper_P1_position P1_labially_extruded_from_toothrow,_P5_directly_contacts_tooth_anterior_to_it_(usually_C)_while_P1_is_located_labial_to_this_contact P1_partially_extruded_from_toothrow_on_labial_side_but_still_partially_separates_teeth_anterior_and_posterior_to_it. P1_lies_in_line_with_C,_P5,_and_M1-2 P1_partially_extruded_from_toothrow_on_lingueal_side_but_still_partially_separates_teeth_anterior_and_posterior_to_it P1_lingually_extruded_from_toothrow,_P5_directly_contacts_tooth_anterior_to_it_(usually_C)_while_P1_is_located_lingual_to_this_contact;
+{ 43 Upper_P1_and_P4_relative_crown_length P1_shorter_than_P4 P1_and_P4_subequal P1_longer_than_P4;
+{ 44 Upper_dP4_molariform dP4_molariform hooklike_or_spicule,_not_molariform;
+{ 45 Upper_P4_presence P4_present absent P4_absent;
+{ 46 Upper_P4_number_of_roots three_roots two_roots one_root;
+{ 47 Upper_P4_position P4_lies_in_line_with_C,_P5,_and_M1-2 P4_partially_extruded_from_toothrow_but_still_partially_separates_teeth_anterior_and_posterior_to_it P4_entirely_extruded_from_toothrow,_P5_directly_contacts_tooth_anterior_to_P4_(usually_C);
+{ 48 Upper_P4_labial_cingulum_development labial_cingulum_well_developed weakly_developed absent;
+{ 49 Upper_P4_lingual_cingulum cingulum_absent weakly_developed well_developed;
+{ 50 Upper_P4_lingual_cusp absent_-_no_cusp_or_cingulum raised_cingulum_present_but_no_cusp cusp_present;
+{ 51 Upper_P4_postparacrista absent single_crest pair_of_roughly_parallel_crests_with_a_groove_in_between;
+{ 52 Upper_P4_postparacrista_extent postparacrista_decreases_sharply_in_height_near_paracone_and_does_not_extend_to_distal_edge_of_tooth postparacrista_extends_as_a_continuous_crest_to_the_distal_aspect_of_the_tooth;
+{ 53 Upper_P4_distal_accessory_cusps distal_accessory_cusps_absent one_distal_accessory_cusp_present two_distal_accessory_cusps;
+{ 54 Upper_P4_and_P5_diastema_presence no_diastema_present_between_P4_and_P5,_teeth_in_contact_or_nearly_so diastema_present;
+{ 55 Upper_P4_and_P5_relative_crown_length P4_shorter_than_P5 P4_and_P5_subequal P4_longer_than_P5;
+{ 56 Upper_P4_and_P5_relative_crown_height P4_shorter_than_P5 P4_and_P5_subequal_in_height P4_taller_than_P5;
+{ 57 Upper_P5_lingual_cingulum_development cingulum_absent lingual_cingulum_narrow,_no_lobe_present lingual_cingulum_large,_forms_distinct_lobe,_does_not_extend_as_far_lingually_as__protocone_of_M1. lingual_cingulum_very_large,_forms_distinct_lobe,_extends_as_far_lingually_or_farther_than_protocone_of_M1.;
+{ 58 Upper_P5_anterior_margin_ narrow wide;
+{ 59 Upper_P5_lingual_cingular_cusp cingulum_with_raised_edge_but_no_cingular_cusp lingual_cusp_weakly_developed lingual_cusp_well_developed two_well_developed_lingual_cusps;
+{ 60 Upper_P5_labial_cingulum_development labial_cingulum_well_developed weakly_developed absent;
+{ 61 Upper_P5_labial_cingular_cusp cusp_absent weakly_developed strongly_developed;
+{ 62 Upper_P5_anterolabial_cusp absent weakly_developed strongly_developed;
+{ 63 Upper_P5_postparacrista absent single_crest pair_of_roughly_parallel_crests_with_a_groove_in_between;
+{ 64 Upper_P5_postparacrista_extent postparacrista_decreases_sharply_in_height_near_paracone_and_does_not_extend_to_distal_edge_of_tooth postparacrista_extends_as_a_continuous_crest_to_the_distal_aspect_of_the_tooth;
+{ 65 Upper_P5_distal_accessory_cusps distal_accessory_cusps_absent one_distal_accessory_cusp_present two_distal_accessory_cusps;
+{ 66 Upper_P5_proportions_in_occlusal_view P5_length_less_than_width length_and_width_subequal P5_length_greater_than_width;
+{ 67 Upper_P5_and_M1_diastema_presence no_diastema_between_P5_and_M1,_teeth_in_contact diastema_present;
+{ 68 Upper_P5_and_M1/M2_alignment not_aligned_(longitudinal_axis_through_M1_and_M2_paracone_runs_markedly_labial_to_P5_paracone) aligned_(longitudinal_axis_through_M1_and_M2_paracones_intersects_P5_paracone) not_aligned_(longitudinal_axis_through_M1_and_M2_paracone_runs_markedly_lingual_to_P5_paracone);
+{ 69 Upper_P5_and_M1_relative_length P5_length_conspicuously_greather_than_M1_length P5_and_M1_subequal_in_length P5_length_conspicuously_less_than_M1_length;
+{ 70 Upper_molars_ectocingulum_development strongly_developed present_but_weak absent;
+{ 71 Upper_molars_pericone_presence absent pericone_present;
+{ 72 Upper_M1_and_M2_diastema_presence no_diastema_present_between_M1_and_M2,_teeth_in_contact diastema_present;
+{ 73 Upper_M1_and_M2_lingual_cingulum absent present;
+{ 74 Upper_M1_and_M2_stylar_shelf_presence stylar_shelf_present_on_M1_and_M2 absent;
+{ 75 Upper_M1_and_M2_protocone_presence present absent;
+{ 76 Upper_M1_and_M2_protocone_and_paracone_relative_height protocone_shorter_than_paracone protocone_and_paracone_subequal_in_height;
+{ 77 Upper_M1_and_M2_metacone_and_paracone_relative_height metacone_taller_than_paracone metacone_and_paracone_subequal_in_height metacone_shorter_than_paracone;
+{ 78 Upper_M1_and_M2_protocone_sharpness_and_inclination less_sharp_and_less_inclined_anteriorly more_sharp_and_more_inclined_anteriorly;
+{ 79 Upper_M1_and_M2_metacone_and_paracone_inclination not paracone_and_metacone_lingually_inclined;
+{ 80 Upper_M1_and_M2_angle_between_postparacrista_and_premetacrista very_acute,_cristae_nearly_or_completely_parallel_(angle_is_20_degrees_or_less) acute,_cristae_lie_at_acute_angle_to_one_another_(angle_21-90_degrees) oblique,_cristae_meet_at_an_angle_somewhat_more_than_a_right_angle_(angle_91-120_degrees) very_oblique,_cristae_nearly_or_completely_form_straight_line_(angle_well_over_120_degrees);
+{ 81 Upper_M1_and_M2_postparacrista_and_premetacrisita_contact postparactista_contacts_premetacrista_on_labial_aspect_of_tooth,_trigon_closed_labially postparacrista_does_not_contact_premetacrista,_trigon_open_labially;
+{ 82 Upper_M1_and_M2_trigon_width_and_depth wide_and_shallow narrow_and_deep;
+{ 83 Upper_M1_and_M2_mesostyle_presence_and_location mesostyle_absent mesostyle_formed_at_labial_terminus_of_postparacrista mesostyle_formed_at_point_of_contact_of_postparacrista_and_premetacrista mesostyle_formed_at_labial_terminus_of_premetacrista;
+{ 84 Upper_M1_and_M2_mesostyle_size_and_labial_extent large_and_extended_labially small_and_less_labially_extended;
+{ 85 Upper_M1_and_M2_lingual_displacement_of_contact_between_postparacrista_and_premetacrista_ not_lingually_displaced,_lies_in_line_with_parastyle_and_metastyle somewhat_lingually_displaced strongly_lingually_displaced;
+{ 86 Upper_M1_and_M2_mesostylar_crest_presence absent present;
+{ 87 Upper_M1_and_M2_mesostylar_crest_direction projects_mesiolabially projects_distolabially;
+{ 88 Upper_M1_and_M2_cuspule_on_premetacrista_presence cuspule_absent cuspule_present_on_premetacrista;
+{ 89 Upper_M1_and_M2_paraconule_presence paraconule_present absent;
+{ 90 Upper_M1_and_M2_metaloph_presence metaloph_present absent;
+{ 91 Upper_M1_and_M2_secondary_cusp_on_postprotocrista absent present;
+{ 92 Upper_M1_parastyle_presence present absent;
+{ 93 Upper_M1_parastyle_form conical crest;
+{ 94 Upper_M1_parastyle_separation_from_preparacrista not_separated separated;
+{ 95 Upper_M1_parastyle_length short long;
+{ 96 Upper_M1_parastyle_curvature straight curved;
+{ 97 Upper_M1_ectoflexus ectoflexus_absent single_ectoflexus_present_labial_to_mesostyle single_ectoflexus_present_between_mesostyle_and_parastyle_(=_pre-ectoflexus) single_ectoflexus_present_between_mesostyle_and_metastyle_(=_postectoflexus) pair_of_ectoflexi_present_one_between_mesostyle_and_parastyle,_one_between_mesostyle_and_metastyle;
+{ 98 Upper_M1_single_ectoflexus_development shallow_ectoflexus_present deep_ectoflexus_present;
+{ 99 Upper_M1_double_ectoflexus_development both_shallow anterior_deep,_posterior_shallow anterior_shallow,_posterior_deep both_deep;
+{ 100 Upper_M1_preparacrista_presence present absent;
+{ 101 Upper_M1_relative_length_of_preparacrista_and_postparacrista preparacrista_longer_than_postparacrista preparacrista_subequal_in_length_to_postparacrista preparacrista_shorter_than_postparacrista;
+{ 102 Upper_M1_relative_length_of_postmetacrista_and_premetacrista postmetacrista_length_subequal_to_premetacrista_length postmetacrista_longer_than_premetacrista_but_not_twice_as_long postmetacrista_2x_as_long_as_premetacrista,_or_longer;
+{ 103 Upper_M1_trigon_basin_surface_texture enamel_smooth surface_with_striations_or_small_enamel_folds;
+{ 104 Upper_M1_postprotocrista_orientation oriented_distolabially_toward_metacone,_metaconule,_or_metastylar_region oriented_toward_midpoint_between_metastyle/metacone_and_hypocone_region oriented_anteroposteriorly_toward_hypocone_or_hypocone_region;
+{ 105 Upper_M1_postprotocrista_extent_ postprotocrista_extends_only_to_metaconule_region_(irregardless_of_presence/absence_of_metaconule),_does_not_reach_metacone_or_metacingulum joins_lingual_base_of_metacone postprotocrista_extends_to_hypoconal_region extends_to_become_confluent_with_metacingulum_or_edge_of_hypocone_shelf;
+{ 106 Upper_M1_metaconule_presence metaconule_present absent;
+{ 107 Upper_M1_endoloph_presence absent present,_approaches_postprotocrista_at_an_angle present_but_continuous_with_postprotocrista_as_a_single_straight_crest_along_lingual_side_of_tooth present,_does_not_approach_postprotocrista,_runs_lingually;
+{ 108 Upper_M1_endoloph_contact_with_postprotocrista endloloph_contacts_postprotocrista_ no_contact;
+{ 109 Upper_M1_hypocone_shelf_development hypocone_shelf_very_large,_maximum_mesiodistal_lenght_equal_to_or_greater_than_distance_between_paracone_and_metacone hypocone_shelf_large,_maximum_mesiodistal_length_greater_than_half_the_distance_between_paracone_and_metacone_but_not_100%_of_that_distance hypocone_shelf_small,_well_developed_and_clearly_distinct_from_trigon,_maximum_mesiodistal_length_less_than_half_the_distance_between_the_paracone_and_metacone hypocone_shelf_very_small,_present_as_a_cingulum_but_may_not_be_clearly_distinguished_from_the_trigon hypocone_shelf_absent;
+{ 110 Upper_M1_hypocone_shelf_width narrower wider;
+{ 111 Upper_M1_hypocone_development hypocone_absent hypocone_incipient_or_poorly_developed_but_not_entirely_absent hypocone_well_developed;
+{ 112 Upper_M2_presence M2_present absent;
+{ 113 Upper_M2_parastyle_presence present absent;
+{ 114 Upper_M2_parastyle_form conical crest;
+{ 115 Upper_M2_parastyle_length short long;
+{ 116 Upper_M2_parastlye_curvature straight curved;
+{ 117 Upper_M2_ectoflexus ectoflexus_absent single_ectoflexus_present_labial_to_mesostyle single_ectoflexus_present_between_mesostyle_and_parastyle_(=_pre-ectoflexus) single_ectoflexus_present_between_mesostyle_and_metastyle_(=_postectoflexus) pair_of_ectoflexi_present_one_between_mesostyle_and_parastyle,_one_between_mesostyle_and_metastyle;
+{ 118 Upper_M2_single_ectoflexus_development shallow_ectoflexus deep_ectoflexus;
+{ 119 Upper_M2_double_ectoflexus_development both_shallow anterior_ectoflexus_deep,_posterior_extoflexus_shallow. both_deep;
+{ 120 Upper_M2_position_of_metacone metacone_in_normal_position metacone_shifted_lingually;
+{ 121 Upper_M2_relative_length_of_postmetacrista_and_premetacrista postmetacrista_absent postmetacrista_shorter_that_premetacrista postmetacrista_length_subequal_to_premetacrista_length postmetacrista_much_longer_than_premetacrista_but_not_twice_as_long postmetacrista_2x_longer_than_premetacrista,_or_longer;
+{ 122 Upper_M2_orientation_of_postprotocrista oriented_distolabially_toward_metacone,_metaconule,_or_metastylar_region oriented_toward_midpoint_between_metastyle/metacone_and_hypocone_region oriented_anteroposteriorly_toward_hypocone_or_hypocone_region;
+{ 123 Upper_M2_endoloph_presence absent present,_approaches_postprotocrista_at_an_angle present_but_continuous_with_postprotocrista_as_a_single_straight_crest_along_lingual_side_of_tooth present,_does_not_approach_postprotocrista,_runs_lingualy;
+{ 124 Upper_M2_endoloph_contact_with_postprotocrista postprotocrista_and_endoloph_at_an_angle postprotocrista_and_endoloph_at_an_angle,_but_not_in_contact;
+{ 125 Upper_M2_metaconule_presence metaconule_present absent;
+{ 126 Upper_M2_hypocone_shelf_development hypocone_shelf_very_large,_maximum_mesiodistal_lenght_equal_to_or_greater_than_distance_between_paracone_and_metacone hypocone_shelf_large,_maximum_mesiodistal_length_greater_than_half_the_distance_between_paracone_and_metacone_but_not_100%_of_that_distance hypocone_shelf_small,_well_developed_and_clearly_distinct_from_tricon,_maximum_mesiodistal_length_less_than_half_the_distance_between_the_paracone_and_metacone hypocone_shelf_very_small,_present_as_a_cingulum_but_may_not_be_clearly_distinguished_from_the_trigon hypocone_shelf_absent;
+{ 127 Upper_M2_hypocone_shelf_width narrower wider;
+{ 128 Upper_M2_hypocone_development hypocone_absent hypocone_incipient_or_poorly_developed_but_not_entirely_absent hypocone_well_developed;
+{ 129 Upper_M3_presence M3_present absent;
+{ 130 Upper_M3_reduction little_reduced_(M3_occlusal_area_>75%_of_M2_area) moderately_reduced_in_length_and/or_width_(M3_area_50%-75%_of_M2_area) very_reduced_in_length_and/or_width_(M3_area_is_>25%_but_<50%_of_M2_area) extremely_reduced_(10%<M3_area<25%_M2_area) peglike_(<10%_area);
+{ 131 Upper_M3_anterior_segment_size M3_anterior_segment_nearly_as_large_as_that_of_M2 much_smaller_than_that_of_M2;
+{ 132 Upper_M3_parastyle_presence present absent;
+{ 133 Upper_M3_parastyle_form conical crest;
+{ 134 Upper_M3_parastyle_length short long;
+{ 135 Upper_M3_parastyle_curvature straight curved;
+{ 136 Upper_M3_paraconule_presence paraconule_present absent;
+{ 137 Upper_M3_postmetacrista postmetacrista_present_(W-shaped_ectoloph_complete) postmetacrista_absent_(ectoloph_N-shaped_or_V-shaped);
+{ 138 Upper_M3_premetacrista_development premetacrista_longer_than_postparacrista premetacrista_and_postparacrista_length_subequal premetacrista_one-half_to_three_quarters_the_length_of_the_postparacrista premetacrista_one-third_to_slightly_less_than_one-half_the_length_of_the_postparacrista premetacrista_present_but_less_than_one-third_the_length_of_the_postparacrista premetacrista_absent_;
+{ 139 Upper_M3_metacone metacone_present_as_a_disinct_cusp metacone_indistinct,_incorperated_into_premetacrista metacone_entirely_absent;
+{ 140 Upper_M3_metastylar_fovea_presence fovea_present absent;
+{ 141 Upper_M3_protocone_presence present absent;
+{ 142 Upper_M3_hypocone_shelf_presence absent present;
+{ 143 Lower_i1_presence i1_present absent;
+{ 144 Lower_i1_morphology_of_cutting_edge lobed_(bilobed_or_trilobed_or_with_four_lobes) undulate_lobe_structure cutting_edge_roughly_straight,_without_notches_or_grooves pointed peglike,_no_real_cutting_edge;
+{ 145 Lower_i1_number_of_lobes bilobed trilobed four_lobes;
+{ 146 Lower_i1_trilobed_morphology three_lobes_of_equal_size mesial_lobe_very_small,_middle_lobe_large,_distal_lobe_intermediate_in_size mesial_lobe_large,_middle_and_distal_small two_mesial_lobes_small_and_twinned,_well_separated_from_a_larger_distal_lobe;
+{ 147 Lower_i1_crown_proporitions width_greater_than_length length_and_width_subequal length_greater_than_width;
+{ 148 Lower_i1_diastema_between_right_and_left_teeth absent diastema_present;
+{ 149 Lower_i2_presence i2_present absent;
+{ 150 Lower_i2_morphology_of_cutting_edge lobed_(bilobed_or_trilobed_or_with_more_lobes) cutting_edge_roughly_straight,_without_notches_or_lobes pointed peglike,_no_real_cutting_edge;
+{ 151 Lower_i2_number_of_lobes bilobed trilobed four_lobes more_than_four;
+{ 152 Lower_i1_and_i2_relative_size i2_conspicuously_smaller_than_i1 i1_and_i2_subequal_in_size i2_conspicuously_larger_than_i1;
+{ 153 Lower_i1_and_i2_position i2_lateral_to_i1 i2_posterior_to_i1;
+{ 154 Lower_i3_presence i3_present absent;
+{ 155 Lower_i3_crown_height i3_height_noticably_less_than_i2_height i3_height_subequal_to_i2_height i3_height_noticably_greater_than_i2_height;
+{ 156 Lower_incisor_alveoli_spacing alveoli_of_i1_and_i2_nearly_coalesced,_small_gap_between_i2_and_i3 alveoli_of_i1,_i2,_and_i3_evenly_spaced;
+{ 157 Lower_incisors_procumbent not_procumbent somewhat_procumbent more_procumbent;
+{ 158 Lower_c_anterior_diastema absent diastema_present_between_canine_and_last_lower_incisor_(i1,_i2,_or_i3);
+{ 159 Lower_c_tip_divergence lower_canines_not_laterally_divergent canines_laterally_divergent,_shafts_slanted_outward_so_that_the_tip_of_each_tooth_lies_dorsal_or_dorsal_and_lateral_to_the_lateral_edge_of_the_root_where_the_tooth_enters_the_alveolus;
+{ 160 Lower_c_space_between_base_of_left_and_right_canines lower_canines_well_separated_from_one_another_at_the_base bases_of_right_and_left_canines_adjacent_or_nearly_so,_but_not_in_contact bases_of_right_and_left_canines_adjacent_and_in_contact;
+{ 161 Lower_c_shape extremely_short,_premolariform_ short_and_stocky tall_and_lancoelate exceptionally_slender_with_a_subterete_shaft bladelike;
+{ 162 Lower_c_anterior_cuspule_presence absent anterior_cuspule_present;
+{ 163 Lower_c_posterior_cingulid cingulid_absent cingulid_present_but_small cingulid_broad;
+{ 164 Lower_c_posterobasal_cusp absent weakly_developed strongly_developed;
+{ 165 Lower_c_labially_swollen not lower_c_labially_swollen;
+{ 166 Lower_c_labial_cingulum labial_cingulum_absent weakly_developed well_developed;
+{ 167 Lower_c_labial_cingular_structures present absent;
+{ 168 Lower_p1_presence_ p1_present absent;
+{ 169 Lower_p1_number_of_roots one_root two_roots;
+{ 170 Lower_p1_shape large_and_cuspidate peg-like_with_flattened_crown tiny_spicule_with_undifferentiated_crown;
+{ 171 Lower_p1_distal_cuspule absent cuspule_present;
+{ 172 Lower_p1_and_p4_relative_crown_length p1_longer_than_p4 subequal p1_shorter_than_p4;
+{ 173 Lower_p4_presence p4_present absent;
+{ 174 Lower_p4_number_of_roots three_roots two_roots one_root;
+{ 175 Lower_p4_orientation_of_roots_when_two_are_present two_roots_oriented_longitudinally_with_resepct_to_the_long_axis_of_the_tooth_row two_roots_oriented_slightly_obliquely two_roots_oriented_stongly_obliquely_to_the_long_axis_of_the_toothrow;
+{ 176 Lower_p4_alignment_within_toothrow p4_aligned_in_row_with_surrounding_teeth_when_seen_in_occlusal_view p4_lingually_displaced_from_toothrow,_not_in_line_with_other_teeth p4_labially_displaced_from_toothrow,_not_in_line_with_other_teeth;
+{ 177 Lower_p4_anterior_diastema no_diastema_between_p4_and_next_adjacent_anterior_tooth_(p1_or_C) conspicuous_diastema_present;
+{ 178 Lower_p4_overall_morphology p4_tribosphenic_with_a_distinct_trigonid_and_talonid p4_premolariform,_with_cusps_but_not_arranged_in_tribosphenic_pattern p4_peglike_or_nearly_featureless;
+{ 179 Lower_p4_anterolingual_cuspule absent cuspule_present;
+{ 180 Lower_p4_lingual_cuspule absent cuspule_present;
+{ 181 Lower_p4_distal_cuspule absent cuspule_present;
+{ 182 Lower_p4_posterior_crests two_posterior_crests_separated_by_a_concavity only_one_posterior_crest_present_;
+{ 183 Lower_p4_occlusal_outline long_and_strongly_laterally_compressed_(length/width_>_or_=_1.7) short_and_broad_(length/width_<_1.7);
+{ 184 Lower_p4_labial_cingulid_development labial_cingulid_well_developed weakly_developed absent;
+{ 185 Lower_p4_and_p5_relative_crown_height p4_much_taller_than_p5 p4_slightly_taller_than_p5 p4_and_p5_subequal_in_height p4_slightly_shorter_than_p5 p4_very_small,_much_shorter_than_p5;
+{ 186 Lower_p4_and_p5_relative_crown_length crown_length_of_p4_greater_than_length_of_p5 p4_and_p5_subequal_in_length p4_length_less_than_p5_length_but_more_than_one-half_the_length_of_p5 p4_less_than_or_equal_to_one-half_the__length_of_p5;
+{ 187 Lower_p4_and_p5_crown_morphology crown_morphology_of_p4_and_p5_similar p4_and_p5_with_different_crown_morphologies;
+{ 188 Lower_p5_number_of_roots three_roots two_roots one_root;
+{ 189 Lower_p5_orientation_of_roots_when_two_are_present two_roots_oriented_longitudinally_with_resepct_to_the_long_axis_of_the_tooth_row two_roots_oriented_slightly_obliquely_ two_roots_oriented_stongly_obliquely_to_the_long_axis_of_the_toothrow;
+{ 190 Lower_p5_paraconid_twinning Paraonid_either_absent_or_single_cusp_present Twinned_cusps_present_in_paraconid_position;
+{ 191 Lower_p5_paraconid paraconid_large_and_high small_and_low very_low cusp_absent;
+{ 192 Lower_p5_paracristid_presence paracristid_present absent;
+{ 193 Lower_p5_lingual_cingulid absent partial_lingual_cingulum_present complete_lingual_cingulum_present;
+{ 194 Lower_p5_labial_cingulid_development labial_cingulid_strongly_developed weakly_developed absent;
+{ 195 Lower_p5_labial_cingulid_form straight undulate;
+{ 196 Lower_p5_labial_cingulum_thickness cingulum_of_constant_thickness_throughout_length thicker_toward_distal_end;
+{ 197 Lower_p5_presence_of_lingual_lobe absent present;
+{ 198 Lower_p5_extension_of_lingual_lobe lingual posterior;
+{ 199 Lower_p5_lingual_lobe_cusp absent present;
+{ 200 Lower_p5_lingual_cuspule absent Cuspule_present;
+{ 201 Lower_p5_metaconid absent one_metaconid two_metaconids;
+{ 202 Lower_p5_metaconid_development metaconid_large metaconid_present_but_small;
+{ 203 Lower_p5_protocristid absent one_protocristid two_protocristids;
+{ 204 Lower_p5_postmetacristid absent short long;
+{ 205 Lower_p5_talonid_length talonid_long talonid_short absent;
+{ 206 Lower_p5_protoconid_development less_robust,_taller,_sharper more_robust,_shorter,_more_blunt extremely_short;
+{ 207 Lower_p5_mesial_cuspule absent cuspule_present;
+{ 208 Lower_p5_overall_morphology p5_triosphenic_with_distinct_trigonid_and_talonid p5_premolariform,_with_cusps_but_not_arranged_in_tribosphenic_pattern p5_without_distinct_cusps,_may_be_nearly_featureless_or_peglike;
+{ 209 Lower_p5_and_m1_relative_length p5_and_m1_subequal_in_length p5_length_less_than_m1_length_but_more_than_three-quarters_the_length_of_m1 p5_length_more_than_one_half_but_less_than_three_quarters_the_length_of_m1 p5_length_less_than_or_equal_to_one-half_the_length_of_m1;
+{ 210 Lower_molar_cusp_morphology cusps_well_individualized,_concial_or_comprised_of_crests_that_meet_to_form_a_sharp_point cusps_not_well_individualized,_not_very_conical_or_pointed;
+{ 211 Lower_molars_lingual_cingulid_presence absent lingual_cingulid_present;
+{ 212 Lower_molars_trigonid_fovea trigonid_fovea_closed trigonid_fovea_open_lingually;
+{ 213 Lower_molars_position_of_hypoconulid hypoconuiid_located_on_distal_border_of_talonid_midway_between_hyponid_and_entoconid_ hypoconulid_located_on_distolabial_border_of_talonid,_well-separated_from_entoconid,_closer_to_midway_point_than_to_entoconid_ hypoconulid_located_on_distolabial_border_of_talonid,_well-separated_from_entoconid_but_closer_to_entoconid_than_to_midway_point hypoconulid_located_on_labial_border_of_talonid_immediately_posterior_to_and_directly_adacent_to_the_entoconid,_hypoconulid_and_entoconid_may_be_partially_fused_at_their_bases_("twinning"_of_hypoconuilid_and_entoconid).;
+{ 214 Lower_molars_nyctalodont_or_myotodont nyctalodont myotodont;
+{ 215 Lower_molars_with_cristid_between_entoconid_and_midline_hypoconulid cristid_present absent;
+{ 216 Lower_molars_talonid_basin_depth basin_absent shallow deep;
+{ 217 Lower_molars_talonid_anteroposterior_compression not talonid_anteroposteriorly_compressed;
+{ 218 Lower_molars_lingual_cusp_relative_height relatively_low_ relatively_high_(lingual_cusps_at_least_75%_height_of_labial_cusps);
+{ 219 Lower_molars_notches_in_cristid_obliqua_and_postcristid notches_absent notches_weakly_developed notches_strongly_developed,_carnassia-like;
+{ 220 Lower_molars_notches_in_paracristid_and_protocristid Notches_absent Notches_weakly_developed Notches_strongly_developed;
+{ 221 Lower_molars_cristid_obliqua_curature_or_flexion straight_or_gently_curved_labially gently_curved_lingually flexed_sharply_lingually;
+{ 222 Lower_molars_orientation_of_cristid_obliqua_ towards_protoconid directed_toward_a_point_in_between_protoconid_and_metaconid towards_metaconid;
+{ 223 Lower_molars_cristid_obliqua_termination_on_metaconid cristid_obliqua_terminates_at_base_of_metaconid cristid_obliqua_extends_up_flank_of_metaconid;
+{ 224 Lower_molars_groove_paralleling_cristid_obliqua absent groove_present;
+{ 225 Lower_molars_entocristid_flexion not labially_flexed;
+{ 226 Lower_molars_entocristid_distrupted entocristid_contacts_postvalid_thus_closing_off_lingual_side_of_talonid_basin entocristid_short_(disrupted)_so_that_talonid_basin_drains_lingually entocristid_absent;
+{ 227 Lower_molars_height_of_protoconid_and_hypoconid not unusually_tall_and_robust;
+{ 228 Lower_molars_protoconid_and_hypoconid_anteroposteriorly_compressed not_compressed protoconid_and_hypoconid_anteroposteriorly_compressed;
+{ 229 Lower_molars_protoconid_and_hypoconid_ventral_extension_of_base not protoconid_and_hypoconid_with_ventral_extension_of_labial_cusp_base;
+{ 230 Lower_molars_protoconid_and_hypoconid_buccal_bulging absent prononounced_buccal_bulging_present;
+{ 231 Lower_m1_and_m2_extent_of_cristid_obliqua does_not_reach_trigonid reaches_trigonid;
+{ 232 Lower_m1_and_m2_hypoconulid_size large small_and_low absent;
+{ 233 Lower_m1_and_m2_entocristid_height low_crest high_crest;
+{ 234 Lower_m1_and_m2_relative_length m1_longer_than_m2 m1_and_m2_subequal m1_shorter_than_m2;
+{ 235 Lower_m1_relative_height_of_protoconid_and_hypoconid protoconid_markedly_higher_than_hypoconid protoconid_slightly_higher_than_hypoconid protoconid_and_hypoconid_subequal_in_height protoconid_slightly_smaller_than_hypoconid;
+{ 236 Lower_m1_protoconid_height_compared_to_subsequent_molars m1_protoconid_higher_than_m2_or_m3_protoconid m1_protoconid_subequal_in_height_to_protoconids_on_m2_and_m3 m1_protoconid_noticably_shorter_than_protoconids_on_m2_and_m3;
+{ 237 Lower_m1_paraconid_presence paraconid_present_on_m1 absent;
+{ 238 Lower_m1_metaconid_presence metaconid_present_on_m1 absent;
+{ 239 Lower_m1_relative_height_of_paraconid_and_metaconid paraconid_markedly_taller_than_metaconid cusps_subequal_in_height paraconid_markedly_shorter_than_metaconid;
+{ 240 Lower_m1_presence_of_metacristid present absent;
+{ 241 Lower_m1_paracristid_and_metacristid_relative_length paracristid_markedly_shorter_that_metacristid paracristid_and_metacristid_subequal_in_length paracristid_markedly_longer_than_metacristid;
+{ 242 Lower_m1_entocristid_accessory_cusp absent present;
+{ 243 Lower_m1_entoconid_development strongly_developed,_tall weakly_developed,_low entoconid_absent;
+{ 244 Lower_m1_labial_cingulid_development strongly_developed weakly_developed absent;
+{ 245 Lower_m1_labial_cingulid_completeness labial_cingulid_complete incomplete_posteriorly incomplete_anteriorly;
+{ 246 Lower_m1_precingulum absent present;
+{ 247 Lower_m1_precingulid_and_labial_cingulid_connection not_connected cingulids_confluent_around_mesiolabial_corner_of_tooth;
+{ 248 Lower_m1_alignment_of_lingual_cusps paraconid,_metaconid,_and_entoconid_aligned_in_a_straight_line_ paraconid_situated_labial_to_a_line_drawn_through_the_metaconid_and_entoconid;
+{ 249 Lower_m1_angle_between_protoconid_and_metaconid large_angle intermediate_angle small_angle;
+{ 250 Lower_m1_talonid_width talonid_wider_than_trigonid talonid_and_trigonid_subequal talonid_narrower_than_trigonid;
+{ 251 Lower_m1_hypoflexid_depth deep shallow absent;
+{ 252 lower_m1_length/width_ratio 1.10-1.44 1.45-1.74 1.75-2.04 2.05-2.19 2.20-2.70 3.00-4.60;
+{ 253 Lower_m2_and_m3_relative_height_of_paraconid_and_metaconid subequal_in_height paraconid_slightly_shorter_than_metaconid paraconid_markedly_shorter_than_metaconid;
+{ 254 Lower_m2_and_m3_precingulum absent present;
+{ 255 Lower_m2_and_m3_precingulid_and_labial_cingulid_connected. not_connected cingulids_confluent_around_mesiolabial_corner_of_tooth;
+{ 256 Lower_m2_presence m2_present absent;
+{ 257 Lower_m2_crown_morphology m2_with_crown_structure_resembling_m1 simplified_cuspidate_structure_compared_to_m1 m2_peg-like_with_flattened_crown;
+{ 258 Lower_m2_height_of_trigonid_relative_to_talonid_cusps protoconid_markedly_higher_than_hypoconid protoconid_slightly_higher_than_hypoconid protoconid_and_hypoconid_subequal_in_height;
+{ 259 Lower_m2_labial_cingulid_development strongly_developed weakly_developed absent;
+{ 260 Lower_m2_labial_cingulid_completeness labial_cingulid_complete incomplete_posteriorly incomplete_anteriorly;
+{ 261 Lower_m2_entoconid_development strongly_developed,_tall weakly_developed,_low very_weak,_small absent;
+{ 262 Lower_m2_talonid_width talonid_wider_than_trigonid talonid_and_trigonid_subequal talonid_narrower_than_trigonid;
+{ 263 Lower_m2_hypoflexid_depth deep shallow absent;
+{ 264 Lower_m3_presence m3_present absent;
+{ 265 Lower_m3_crown_morphology m3_crown_morphology_similar_to_that_of_m2 m3_markedly_different_from_m2;
+{ 266 Lower_m3_length m3_length_subequal_to_that_of_m2 m3_slightly_shorter_(>75%)_than_m2 m3_length_much_less_than_m2;
+{ 267 Lower_m3_number_of_roots 2_roots 1_root;
+{ 268 Lower_m3_labial_cingulid_development strongly_developed weakly_developed absent;
+{ 269 Lower_m3_labial_cingulid_completeness labial_cingulid_complete incomplete_posteriorly incomplete_anteriorly;
+{ 270 Lower_m3_extent_of_cristid_obliqua reaches_trigon present_but_does_not_reach_trigon cristid_obliqua_absent;
+{ 271 Lower_m3_hypoconid_presence present absent;
+{ 272 Lower_m3_height_of_protoconid_relative_to_hypoconid protoconid_notably_higher_than_hypoconid protoconid_slightly_higher_than_hypoconid protoconid_and_hypoconid_subequal_in_height protoconid_smaller_than_hypoconid;
+{ 273 Lower_m3_hypoflexid_depth absent shallow deep;
+{ 274 Lower_m3_entocristid_orientation transverse_to_long_axis_of_tooth oblique_to_long_axis_of_tooth parallel_to_long_axis_of_tooth;
+{ 275 Lower_m3_presence_of_postcristid present absent;
+{ 276 Lower_m3_postcristid_orientation directed_posterolabially_at_an_oblique_angle_to_the_long_axis_of_the_tooth perpendicular_to_the_long_axis_of_the_tooth;
+{ 277 Lower_m3_hypoconulid_presence present absent;
+{ 278 Lower_m3_hypoconulid_size large small_and_low;
+{ 279 Lower_m3_talonid_width talonid_wider_than_trigonid talonid_and_trigonid_subequal talonid_narrower_than_trigonid;
+{ 280 MEGABAT_upper_P4_crown_morphology P4_with_one_cusp P4_with_two_poorly-differentiated_cusps_that_appear_fused_throughout_their_length P4_with_two_distinct_cusps,_labial_and_lingual,_that_are_not_fused;
+{ 281 MEGABAT_upper_P4_anteromedial_cingulum_and_cusp P4_with_no_anteromedial_cingulum_or_cusp anteromedial_cingulum_present_but_lacking_cusp anteromedial_cingulum_with_cusp_present;
+{ 282 MEGABAT_upper_P4_anterior_accessory_cusp absent anterior_accessory_cusp_present;
+{ 283 MEGABAT_upper_P5_anteromedial_cingulum_and_cusp cingulum_and_cusp_absent anteromedial_cingulum_and_cusp_present;
+{ 284 MEGABAT_upper_M1_occlusal_outline retangular shortened_and_squared rectangular_but_narrowed shortened_and_rounded;
+{ 285 MEGABAT_upper_M1_anteromedial_cusp absent anteromedial_cusp_present;
+{ 286 MEGABAT_upper_M2_crown_morphology M2_with_typical_pteropodid_morphology simplified_crown_structure peg-like;
+{ 287 MEGABAT_upper_M1_and_M2_median_cusps_presence absent median_cusps_present;
+{ 288 MEGABAT_lower_p4_labial_cusp_division labialvestibular_cusp_undivided cusp_divided_by_a_vertical_notch;
+{ 289 MEGABAT_Lower_m1_anteromedial_cusp_presence absent anteromedial_cusp_present;
+{ 290 MEGABAT_lower_m1_and_m2_median_cusps_presence absent median_cusp_present;
+{ 291 MEGABAT_lower_p4,_p5,_and_m1_posterobasal_cingulum_presence absent posterobasal_cingulum_well_developed;
+;
+
+
+ccode  - 0.10 12.291 + 11;
+
+
+;

@@ -1,0 +1,76 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 09.21.23'
+41 17
+
+&[num]
+Ophioglossum_reticulatum                            0010110101001110000?10000000000000000?000
+Angiopteris_lygodiifolia                            0010111101101110201111100100100010002?110
+Cephalomanes_thysanostomum                          0000011000000000010???1010??00?00?0???100
+Lygodium_japanicum                                  1100001000000000300???0010??10?000000?101
+Gleichenia_japonica                                 1100001000001010010010101000100000010?110
+Dryopteris_cristata                                 00101011010001101104??0000??1??00?0?2?110
+Stegnogramma_pozoi                                  1110101101000000??02???000??1??00?0???110
+Todea_barbara_(New_Zealand)                         001101111011100101021010--10111000000?101
+Todea_barbara_(South_Africa)                        001101111011100101021010--10111000000--01
+Osmundastrum_cinnamomum_(USA)                       001101110111100000011011--01100100100?110
+Osmundastrum_cinnamomum_(Japan)                     001101110111100000011011--0110-10-100-110
+Leptopteris_hymenophylloides_(New_Zealand)          001101110111100100011010--01100000000?101
+Leptopteris_wilkesiana_(New_Caledonia)              001101110111100100011010--0110-00-000-101
+Osmunda_regalis_(USA)                               001101110111100001031010--01110200000?110
+Osmunda_regalis_(UK)                                001101110111100001031010--0111-20-000-110
+Osmunda_vachellii_(Malaysia)                        001101110111100001011010--01110000001?110
+Todea_tidwellii                                     0011011110??100101011011--001?10010000???
+
+;
+
+
+cnames
+{ 0 Rhizome_orientation diagonal erect_horizontal;
+{ 1 Internodes short long;
+{ 2 Protostele present absent;
+{ 3 Dictyoxylic_stele absent present;
+{ 4 Dictyostele absent present;
+{ 5 Gap_in_xylem_formed_by_leaf_trace_divergence absent present;
+{ 6 Cauline_protoxylem endarch mesarch;
+{ 7 Pith absent present;
+{ 8 Primarily_sclerenchymatous_pith absent present;
+{ 9 Primarily_parenchymatous_pith absent present;
+{ 10 Winged_stipe_base_(stipular_wings) absent present;
+{ 11 Sclerenchyma_bundles_in_stipular_wings absent present;
+{ 12 Number_of_differentiated_cortical_regions_in_stem one two more_than_two;
+{ 13 Innter_cortex_composition sclerenchyma parenchyma;
+{ 14 Outer_cortex_composition sclerenchyma parenchyma;
+{ 15 Heterogeneous_sclerotic_cortex absent present;
+{ 16 Leaf_trace_xylem_cnfiguration_at_frond_base single C-shaped_bundle two_hippocampiform_bundles C-shaped_arc_of_3_or_more_bundles trapazoidal;
+{ 17 Recurved_leaf_trace_xylem_margins absent present;
+{ 18 Stele_or_roots primarily_diarch polyarch;
+{ 19 Rots_diverging_per_leaf_trace zero one one_to_two two three_to_five;
+{ 20 Roots_diverging_from_cauline_xylem absent present;
+{ 21 Roots_diverging_from_leaf_traces absent present;
+{ 22 Sclerenchyma_sheath_in_stipe_cortex absent present;
+{ 23 Sclerenchyma_sheath_of_heterogeneous_cellular_construction absent present;
+{ 24 Sclerenchyma_sheath_differentiating_at_inner_margin_of_inner_cortex absent present;
+{ 25 Sclerenchyma_sheath_differentiating_at_inner_margin_of_outer_cortex absent present;
+{ 26 Sclerenchyma_sheath_differentiating_in_outer_region_of_outer_cortex absent present;
+{ 27 Sclerenchyma_sheath_differentiating_distal_to_divergence_from_cortex absent present;
+{ 28 Interior_sclerenchyma absent present;
+{ 29 Interior_sclerenchyma_as_scattered_bundles absent present;
+{ 30 Interior_sclerenchyma_from_pith absent present;
+{ 31 Occluded_sclerenchyma_bundles_at_adaxial_margin_of_leaf_trace absent one two-many;
+{ 32 Sclerenchyma_bundles_at_abaxial_margin_of_leaf_trace absent present;
+{ 33 Adaxial_side_of_sclerenchyma_sheath_thinner absent present;
+{ 34 Differentiated_regions_of_sclerenchyma_sheath absent present;
+{ 35 Leaf_trace_protoxylem adaxial_(endarch) mesarch abaxial_(exarch);
+{ 36 Protoxylem_strands_in_diverging_leaf_trace one two several;
+{ 37 Leaf_trace_protoxylem_bifurcates_at margin_of_stele inner_cortex outer_cortex divergence_from_cortex;
+{ 38 root_hairs absent present;
+{ 39 Sporangia_abaxial_on_broad_laminar_pinnules absent present;
+{ 40 Sporangia_abaxial_on_distinctly_narrow_or_skeletinized_pinnules absent present;
+;
+
+
+ccode  - 0.40;
+
+
+;
