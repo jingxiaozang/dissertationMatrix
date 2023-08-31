@@ -1,0 +1,288 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 09.52.54'
+227 43
+
+&[num]
+OG_dummy                           ?????????????????????????????????????00??????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????00
+Protungulatum_donnae               ????????????????????????000?00??????0???????????????0??????10??000010010002??111001010?000000001000100100000???????????0?00110000??????????????????????????????????????????????????2000000001200010000101100110211???????????????01
+Mithrandir_gillianus               ???0?????????????????????????????????????????????????????2100??00?00??10002??1110?2010?000100001000101100010010????0?11011000000021????????????????????000?000100000000302000000000100000000120001000010110000021100010000100110?01
+Altacreodus_magnus                 ???????????????????????????????????????????????????????????101000001011111100?100??000?000100110000100001000?????????????????????????????????????????????????????????????????????????????????????????????????????????????????????00
+Arfia_spp.                         ???1???1???????????????????????????????????????????????0020?01000000??10010111110000000000000111000100100000??????2001111201000002?010100100011????????0011000??000000?3010011001111200000011001010000111100100111???????????????10
+Prolimnocyon_spp.                  ???01??0?00000???00??0??000100??0???0????0??????????????001?0100?000??2001000000000000?000100111100010001000010???001100001010001200?001?100010000?????000111000000?001201?1100000010000000011?10000001011002101110001000?000????10
+Thinocyon_spp.                     0?001?0000000001000110000001000000000000000000000000000?000101000000??20010000000000010000101111100010001000100???001100011010?002000?0?0100?1101000??????1110000000001211101?0010?100000000011100000010110021011100??0??????1??010
+Limnocyon_spp.                     0100000000000001000110?00001??0?0000???000?00?0?0???0??0000?01000000??20010000000000011000?01111110?10001000100???10010000100000020111110100?11000000??0001110210000001211?10???0001000000010111000000101100201011100?000?0??110010
+Galecyon_spp.                      ???0????????????????????000100???????????????????????????00101001000??201101000000000??000200111100010000000100???100111011100000???????01000111010?00?0001000000001????01000000011200000000101101000010110011011100010011110????10
+Prototomus_martis                  ???????????????????????????????????????????????????????????001010000??1001000000000000?000000111100000000000???????????????????????????????????????????????100?0000000?2????10000011000000001011000000101100100111000100110001?0?10
+Pyrocyon_strenuus                  ???01??1??00?????????????????????????????0??????????????0??101000000??1001000000000000?000000111100010000000000???100110?11000?0120010?1?100010100???????111??000011001201000000011110000001101100000010100?10011110011010000102010
+Prototomus_phobos                  0??0????00?01???????????????????????????????0???????????00010101000????001000000100000?000000111?00010001000??????0001?????????????100??????????????????????10000001000201000?0?0??10000000010?10000001011001101110001001?000?1?010
+Tritemnodon_agilis                 01001?0100001000000?10?00?0100?000000?00?0?00?0?0???0??0000101010000???01100000000000000010001111?0010011000???0011001110111000002000010?1?0011000000000001110000011000201000000011210000001101101000010110011011100000001000112010
+Sinopa_spp.                        0??01?0100001001000?10?000010???0000000?00?00?000??????0001101000000??1001000101?0000000??000111100100101000??????100111011100000210101?0100?1????0?0?0?010110000011001301000?000111110000011011010100101100100111?101001?0??11??10
+Tytthaena_parrisi                  ???????????????????????????????????????????????????????????10100100101100100000010000????????111?00010000000?????????????????????????????????????????????????????????????????????????????????????????????????????????????????????10
+Palaeonictis_occidentalis          ???00??1???????????????????????????????????????????????1001101001000???0011101001001010000111?1100000110010010?????0?0?0110?00?0020000100100??1???01???002???0??????000011?00??????02000010002000000?01021011001011002210?000???010
+Dipsalidictis_krausei              0100100100000001111?0001010101000000000?00?00?0?00?????100010?000001011001000000100001?000101111100010000001???????????????????????????????????????????????11?01001000?10??0??2??0?000000100120000100000210?110?110002210?10001?010
+Oxyaena_spp.                       ???01??1???????????????????????????????????????????????100111100?000??2001010000?000010000101110100011000000101???10100011000000020000100100011000001?00021120310010000101100021300000000100121000100000210111021100022101100020010
+Machaeroides_spp.                  010001?11000011111101?00?10100000000?00?00?00?0?00?????100?1?1010000??10020102000?0101100010111011001002??00??????211000111100000200001?0000?11000101??002012?0110000??1?????????????????????????????????????????????????????????10
+CM_2386                            ????????????????????????????????????????????????????????????????????????????????????????????????????????????011???21???0111?0000020??????0??00?????????002011021?0?000011111002130002000010012?????00001210210001100012101100???010
+Ictidopappus_mustelinus            ????????????????????????????????????????????????????????000111?00001?1?1??00??0000000???0021?0?01000101100?1?????????????????????????????????????????????????????????????????????????????????????????????????????????????????????10
+Protictis_haydenianus              ???0???0???????????????????????????????????????????????000?1100010010121102???110000010011211020000000100001?????????????????????????????????????????????????????????????????????????????????????????????????????????????????????10
+Bryanictis_microlestes             ???0?????????????????????????????????????????????????????0?1100010010021102??111?01001?011211020000100?00001?????????????????????????????????????????????????????????????????????????????????????????????????????????????????????10
+Simpsonictis_spp.                  ???????????????????????????????????????????????????????????1?0001001002011?0001000?0???0??211?10000?001?0001?????????????????????????????????????????????????????????????????????????????????????????????????????????????????????10
+Viverravus_schaffi                 ?10101?110100000?002100000000000010000010??000?000??0??00001100010010121102??0110000010011211120000100000001?????????????????????????????????????????????????????????????????????????????????????????????????????????????????????10
+Viverravus_minutus                 ??0101?1??10?000000210000000000021001001?0??000000??0?????0?1000100?????00???21?0?00010011211020000010010001?????????????????????????????????????????????????????????????????????????????????????????????????????????????????????10
+Viverravus_gracilis                ????0??10010000100??1?000000000001001001?0??000000??0?????011000100????20????21?0?0001001121102?0?0010010001??????00???01000000002?11001???????????????012011000100000130001010?01012?0102?00001010??????????????????????????????10
+Viverravus_acutus                  ??0001?11010000000?2101000000000?100100100100?0000000???0101100010010021102??0100000010011211020100000010001010???00?100?00?0000020?????0000?2?01???????1?0?1?001000????100101001101100112000001010?0010010?0?0?11???????????????10
+Didymictis_spp.                    0??00??1100002000?0?1000000?001001101000????000000??0??00001100010010121102???110200010011211020000000100001100???200111120100000311111001000210110101?0100000101000001302000100111111010001000102010010001000121100001001100201110
+Uintacyon_gingerichi               ????????????????????????????????????????????????????????00001000100110111110?00010000??????1?120000010011000?????????????????????????????????????????????????????????????????????????????????????????????????????????????????????10
+Uintacyon_massetericus             ???1???1??0010?1?1??10000101010??0000??????????????????????0100110010?111110?0000?000??00021002000001002??10001???0110?000101100000?????????????????????0011?0210010????????00112000000002000201001001002100210100???????????????10
+Vassacyon_promicrodon              ???1????????????????????????????????????????????????????02001000100100111?100?01?0?010?0002101200000100?1010001???0010?0?0100010000100??0001?1?0001?10?????12021????001011?0??110???0?000????2?00??0010??10?????0?10020101100???110
+Gracilocyon_spp.                   ??????????????????????????????????????????????????????????????????010111111000?000000??000210110000010011000?????????????????????????????????????????????????????????????????????????????????????????????????????????????????????10
+Dormaalocyon_latouri               ?????????????????????????????????????????????????????????00010001001011111?00011001000?000210110000010011010???????????????????????????????????????????????????????????????????????100000200020100100100210?210111???????????????10
+Vulpavus_australis                 ???1????????????????????????????????????????????????????000?100?100100?1002??111?010?0?000110021000100101010001???0110?0?0?0110000000011?001000???001??0011120210010001011100011200000000200?20100100100210021010011020101100010?10
+Vulpavus_ovatus                    11111100000010001101100101010100?00000110??0000000??0??01201000010010011001001111010000100110?2?0000???????0????????????????????????????????????????????????????????????????????????????????????????????????????????????????????110
+Vulpavus_profectus                 11101??1000010010110010000010100000010100??0000000??0??10201000010010011102??101??20100001110021100100000010001???01?0?000100110000000111000??000010????????????????00?011100011000100000200020100100?0?21002?0100?1020??????0??110
+Vulpavus_palustris                 ?1111???????????????????????????????????????????????????0??10?001000??11102??101?220100??0?1?????001?01?00???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????10
+Oodectes_jepseni                   ?????????????????????????????????????????????????????????200100110010011111010?0000000?000210021000010011010?????????????????????????????????????????????????????????????????????????????????????????????????????????????????????10
+Oodectes_herpestoides              101110000000100011021001000101000000001000?0000000??0??002000000100100111010?0001100000000110111000010011000?????00?10?0?00011110000001??000?1100??????????11021???00010111?0?1??0??????????????????0???210?2?0??0??????????????110
+Miacis_exiguus                     ?????????????????????????????????????????0??????????????000010011001?0?110100001?00000?000210121000000001010?????????????????????????????????????????????????????????????????????????????????????????????????????????????????????10
+Miacis_petilus                     ?????????????????????????????????????????????????????????000100110010011102??0010000???000210?20000010001010??????01?000001010100????????0000?1000??????00?11021001000100110001120?000000200020100???????????????????????????????10
+Miacis_parvivorus                  ?011??????0013??0101100000010100000?0010????00?000??0??00?001001100100111?2??001?010?0000?210120000010001010????????????????????????????????????????????????????????????????????????????????????????????????????????????????????110
+
+;
+
+
+cnames
+{ 0 Lacrimal_facial_process_(WF_1) broad_rostral_flange small,_present_on_face not_present_on_face orbital_flange_reduced_to_area_around_lacrimal_foramen;
+{ 1 Ventral_exposure_of_premaxilla,_posterior_extent_of_premaxilla,_lateral_to_palatal_foramen_(WF_2) lateral_to_canine anterior_to_canine;
+{ 2 Shape_of_infraorbital_foramen_(WF_3) elongate round;
+{ 3 Position_of_infraorbital_foramen_(WF_4) positioned_above_P3 positioned_above_anterior_edge_of_P4 positioned_above_mid-posterior_portion_of_P4;
+{ 4 Length_of_palate-position_of_posterior_edge_of_palatine_midline_relative_to_tooth_row_(WF_5) posterior_to_upper_tooth_row anterior_or_equal_to_upper_tooth_row;
+{ 5 Palatine_canal_primary_anterior_opening_(WF_6) opening_through_palatine at_maxilla-palatine_suture opening_through_maxilla;
+{ 6 Relative_length_of_frontal_and_parietal_at_midline_(WF_7) parietal_greater_than_frontal parietal_equal_or_subequal_to_frontal frontal_midline_much_longer_than_parietal;
+{ 7 Postorbital_process_(WF_8) prominent small,_reduced;
+{ 8 Paroccipital_process_size_(WF_9) well-developed reduced;
+{ 9 Paroccipital_process_shape_(WF_10) simple_process laterally_flattened,_thin,_but_is_distinct_process cupped_around_bulla,_process_not_distinct absent;
+{ 10 Placement_of_postglenoid_foramen_(WF_11) medially_placed more_lateral,_external,_near_very_edge_of_skull;
+{ 11 Postglenoid_foramen_(WF_12) present greatly_reduced,_or_missing;
+{ 12 Shape_of_mastoid_process_(WF_13) forming_a_distinct_process,_expanding_out_farther_than_paroccipital_process,_or_subequal blunt,_rounded,_does_not_protrude_significantly,_more_a_swelling_of_the_mastoid thin_plate,_no_distinct_process;
+{ 13 Direction_of_mastoid_process_extension_(WF_14) lateral-ventral ventral lateral none,_or_only_swelling;
+{ 14 Condyloid_(hypoglossal)_foramen_position_relative_to_post_lacerate_foramen_(WF_15) distant close_(less_than_the_diameter_of_the_hypoglossal_foramen_away) conjoined_with_posterior_lacerate_foramen;
+{ 15 Condyloid_(hypoglossal)_foramen_position_relative_to_groove_between_the_occipital_condyle_and_the_paroccipital_process_(WF_16) inline_or_within_groove anterior_to_groove;
+{ 16 Posterior_lacerate_foramen_(WF_17) present_as_a_vacuity_between_the_promontorium_and_the_basioccipital present_as_an_individual_foramen;
+{ 17 Fenestra_cochleae_(rotunda)_position_relative_to_mastoid_tubercle_(WF_18) posterior_to_mastoid_tubercle anterior,_subequal_to_mastoid_tubercle;
+{ 18 Relative_distance_between_the_foramen_ovale_and_the_alisphenoid_canal_(WF_19) separated_by_at_least_the_diameter_of_the_alisphenoid_canal separated_only_by_a_thin_wall no_alisphenoid_canal_present;
+{ 19 Ossification_of_tegmen_tympani_(WF_20) facial_nerve_exposed_ventrally facial_nerve_partially_embedded_within_tegmen_tympani_and_floored_in_anteromedial_segment facial_nerve_beneath_a_bony_sheath_that_defines_the_fossa_for_tensor_tympani_muscle;
+{ 20 Contact_of_promontorium_and_basioccipital_(WF_21) promontorium_isolated promontorium_in_contact_with_basioccipital;
+{ 21 Composition_of_mastoid_tubercle_(WF_22) mastoid_tubercle_formed_by_petrosal mastoid_tubercle_formed_by_squamosal;
+{ 22 Anterior_loop_of_internal_carotid_artery_(WF_23) lack_of_an_anterior_loop_of_the_internal_carotid_artery presence_of_the_loop,_excavation_in_basisphenoid presence_of_loop,_but_extrabullar;
+{ 23 Suprameatal_fossa_(fossa_on_squamosal_anterior_to_mastoid)_(WF_24) absent small large,_well_developed;
+{ 24 Position_of_internal_carotid_artery_(WF_25) internal_carotid_artery_laterally_positioned,_transpromontorial,_runs_close_to_margin_of_fenestra_cochlea,_presence_of_a_promontory_artery,_groove_for_stapedial_artery_may_or_may_not_be_present internal_carotid_artery_transpromontorial_but_medially_positioned,_course_far_from_fenestra_cochlea internal_carotid_artery_medial,_extrabullar,_inside_a_bony_canal_formed_by_the_caudal_entotympanic.;
+{ 25 Apron_shelf_on_promontorium_posterior_to_fenestra_cochleae_for_entotympanic_attachment_(WF_26) absent blunt,_surface_present_posterior_to_fenestra_cochleae,_but_no_extensive_attachment_possible extended,_large_area_for_attachment,_may_roof_posterior_bullar_chamber;
+{ 26 Ventral_process_of_promontorium_(WF_27) absent present,_medially_positioned_on_promontorium present,_anteriorly_positioned;
+{ 27 Shape_of_the_promontorium,_anterior_extension_(WF_28) elongate,_apron_extension_tapers_to_a_point_anteriorly,_almond_like_in_appearance elongate,_rounded_anteriorly blunt,_quickly_truncating elongate,_apron_is_broad,_flat_extension,_not_almond-shaped_and_not_blunt;
+{ 28 Facet_on_promontorium_indicative_of_ectotympanic_contact_(WF_29) absent present;
+{ 29 Surface_of_the_anterior-medial_promontorium_or_tympanic_wing_of_basisphenoid_(WF_30) smooth roughened_surface_associated_with_attachment_of_rostral_entotympanic,_or_rostral_entotympanic_present;
+{ 30 Inferior_petrosal_sinus_(WF_31) inferior_petrosal_sinus_small inferior_petrosal_sinus_greatly_enlarged excavation_into_basioccipital_extremely_deep;
+{ 31 A_deep,_well_developed_fossa_or_pit_on_the_squamosal/alisphenoid_recording_the_contact_with_the_anterior_crus_or_anterior_face_of_the_ectotympanic_(WF_32) absent,_may_have_slight/shallow_indentation present,_well_developed,_or_bulla_present_and_fully_ossified;
+{ 32 Shelf_between_mastoid_process_and_paroccipital_process_(WF_33) laterally_wide,_curved_trough_with_smooth_surface laterally_wide,_could_have_flat_surface,_rugose_or_bulbous,_no_smoothed_out_trough very_thin,_outside_edge_could_be_raised no_shelf_present;
+{ 33 Extent_of_flange_on_basioccipital_lateral_edge_bordering_auditory_region_(WF_34) absent small,_nascent well_developed_when_compared_to_basal_miacids;
+{ 34 Evidence_on_basisphenoid_and_basioccipital_for_marked_medial_inflation_of_the_entotympanic_(WF_35) absent present,_inflation_of_entotympanic_pushing_medially_onto_and_over_the_basioccipital;
+{ 35 Evidence_of_marked_posterior_inflation_of_the_entotympanic,_entotympanic_attached_during_life_to_paroccipital_process_or_to_extensive_area_posterior_to_the_petrosal_(WF_36) absent present;
+{ 36 Fossa_for_the_stapedius_muscle_(WF_37) borders_tightly_defined_and_anteriorly_bound_by_the_mastoid general_area_of_muscle_insertion,_open,_less_defined;
+{ 37 Epitympanic_wing_of_the_petrosal_forms_ventral_floor_to_the_anterior_medial_corner_of_the_fossa_for_the_tensor_tympani_muscle_(WF_38) absent present,_but_relatively_flat_and_horizontal ventral_floor_present,_but_not_horizontal,_instead_it_forms_a_delicate_tube,_the_bony_floor_is_not_an_extension_of_the_petrosal;
+{ 38 Fossa_for_the_tensor_tympani_muscle,_defined_and_deep,_excavating_well_dorsal_of_the_level_of_the_fenestra_vestibule_(WF_39) absent,_fossa_for_the_tensor_tympani_muscle_shallow,_not_strongly_defined present,_defined_and_deep shallow/absent,_tensor_tympani_inserts_on_eustachian_canal;
+{ 39 Placement_of_middle_lacerate_foramen_(WF_40) foramen_a_vacuity_not_defined_anteriorly_nor_posteriorly,_positioned_directly_anterior_to_petrosal foramen_anteriorly_defined,_posteriorly_bordered_by_petrosal,_positioned_equal_or_posterior_to_basisphenoid/_basioccipital_suture foramen_defined_anteriorly,_petrosal_may_be_undefined_posterior_border,_foramen_positioned_in_basisphenoid_(or_edge_of_alisphenoid)_just_anterior_to_basisphenoid/basioccipital_suture foramen_defined_anteriorly_and_posteriorly_completely_bordered_by_basisphenoid,_foramen_positioned_far_anterior_to_basisphenoid/basioccipital_suture;
+{ 40 Palatine,_relative_size_(WF_60) midline_length_of_palatine_less_than_midline_length_of_maxilla midline_length_greater_than_midline_length_of_maxilla.;
+{ 41 Posterior_width_of_palate_(versus_width_between_canines)_(WF_61) wider_than_width_at_canines nearly_equal_(resulting_in_nearly_parallel_tooth_rows).;
+{ 42 Turbinal_bones_(WF_62) simple_development_of_maxilloturbinals_in_nasal_cavity maxilloturbinals_large_and_branching,_excluding_nasoturbinals_from_narial_opening.;
+{ 43 Posterior_projection_of_nasals_(WF_63) nasals_terminate_anterior_to,_or_in_extreme_anterior_region_of,_orbit,_projecting_at_most_slightly_between_frontals nasals_project_deeply_between_frontals,_far_posterior_of_anterior_orbital_rim nasals_with_W-shaped_termination nasals_with_flat_termination;
+{ 44 Jugal_(WF_64) jugal_reaches_lacrimal,_or_is_separated_from_it_by_only_thin_sliver_of_maxilla jugal_widely_separated_from_lacrimal,_maxilla_broadly_laps_posteriorly_over_anterior_orbital_rim.;
+{ 45 Anterior_extent_of_palatine_in_orbit_(WF_65) broadly_contacts_lacrimal fails_to_contact_lacrimal.;
+{ 46 Postorbital_constriction_(WF_66) just_anterior_of_frontoparietal_suture,_near_posterior_margin_of_frontal braincase_expanded,_with_frontals_making_much_greater_contribution,_frontoparietal_suture_located_more_anteriorly_in_frontal.;
+{ 47 Posterior_entrance_of_carotid_artery_into_auditory_capsule_(WF_67) posterior_entry,_artery_not_enclosed_in_osseous_tube posterior_entry,_artery_enclosed_in_tube anterior_entry,_artery_enclosed_in_osseous_tube anterior_entry,_artery_not_enclosed_in_tube;
+{ 48 Entotympanic_(WF_68) fails_to_ossify,_or_is_only_weakly_attached_to_auditory_capsule ossified_at_least_partially,_and_firmly_fused_to_the_skull.;
+{ 49 Ectotympanic_contributes_to_external_auditory_meatal_tube_(WF_69) no yes;
+{ 50 Ectotympanic_septum_(WF_70) absent present.;
+{ 51 Entotympanic_septum_(WF_71) absent present.;
+{ 52 Fenestra_cochleae_(WF_72) approximately_equal_in_size_to_fenestra_ovalis,_cochlear_fossula_not_developed at_least_three_times_the_area_of_oval_window,_cochlear_fossula_well_developed;
+{ 53 Malleus,_muscular_process_(WF_73) present absent;
+{ 54 Malleus,_processus_gracilis_and_anterior_lamina_(WF_74) well_developed reduced.;
+{ 55 I3_size subequal_to_I1-2_size enlarged;
+{ 56 P1_(WF_79) present absent.;
+{ 57 Posterior_accessory_cusps_on_P3_(WF_58) one_cusp_present two_cusps_present absent;
+{ 58 P3_lingual_cusp_(WF_80) absent present;
+{ 59 P4,_size_of_parastyle_cusp_(WF_55) absent_or_very_weak well-developed,_defined_cusp;
+{ 60 P4,_size_of_metastylar_blade_(WF_57) short elongate;
+{ 61 P4_metastylar_blade_orientation oblique,_sharp_inclination_between_paracone_and_metastylar_portions_of_postvallum longitudinal,_roughly_paralleling_paracone_portion_of_postvallum;
+{ 62 P4_postmetacrista_carnassial_notch_(WF_81) present,_postmetacrista_distinctly_separated_into_metacone_and_metastylar_portions absent,_postmetacrista_forms_a_single_arcuate_crest;
+{ 63 P4,_protocone_(WF_56) large,_well-developed reduced_or_absent;
+{ 64 P4_protocone_(WF_82) medial_or_posterior_to_paracone anterior_to_paracone;
+{ 65 P4_hypocone_(WF_83) absent present.;
+{ 66 M1_size_(WF_46) well-developed markedly_reduced;
+{ 67 M1_stylocone_presence absent present;
+{ 68 M1_stylocone_length long_axis_shorter_than_maximum_transverse_width_of_paracone long_axis_longer_than_maximum_transverse_width_of_paracone;
+{ 69 M1_stylocone_orientation buccally_and_slightly_mesially buccally;
+{ 70 M1_parastyle_development absent weak strong;
+{ 71 M1,_width_of_parastylar_shelf_(WF_51) lack_of_a_shelf broad narrow,_consisting_mainly_of_ridge;
+{ 72 M1,_relative_height_of_paracone_and_metacone_(WF_48) paracone_equal_or_subequal_to_metacone paracone_greater_than_metacone;
+{ 73 M1_paracone_and_metacone_separation separate_almost_to_bases fused_to_mid-height completely_fused;
+{ 74 M1_metastylar_blade_size prominent,_long_axis_subequal_in_length_to_long_axis_of_metacone small,_long_axis_shorter_than_long_axis_of_metacone absent,_metacone_reaches_distal_margin_of_crown;
+{ 75 M1_metastylar_blade_orientation oblique,_sharp_inclination_between_metacone_and_metastylar_portions_of_postmetacrista longitudinal,_roughly_paralleling_metacone_portion_of_postmetacrista;
+{ 76 M1_postmetacrista_carnassial_notch present,_postmetacrista_distinctly_separated_into_metacone_and_metastylar_portions absent,_postmetacrista_forms_a_single_arcuate_crest;
+{ 77 M1,_relative_height_of_paraconule_and_metaconule_(WF_49) paraconule_greater_than_metaconule paraconule_equal_or_subequal_to_metaconule both_absent metaconule_enlarged,_greater_than_paraconule;
+{ 78 M1,_protocone_height_relative_to_paracone_(WF_42) protocone_lower_than_paracone protocone_equal_or_subequal_to_height_of_paracone;
+{ 79 M1_protocone_proportions mesiodistally_compressed broadened;
+{ 80 M1,_a_defined_cingulum_continuous_around_the_lingual_face_of_the_protocone_(WF_41) absent,_mesial_and_distal_cingula_do_not_connect complete_cingulum_present;
+{ 81 M1_distal_cingulum_termination terminates_on_base_of_crown,_beneath_metaconule interrupts_postprotocrista_to_contact_metaconule joins_postmetaconule_crista_buccal_to_metaconule;
+{ 82 Development_of_M1_distal_cingulum_and_hypocone_(WF_50) cingulum_crest_like,_hypoconal_shelf_development_minimal cingulum_expanded,_forming_a_weak_hypocone_shelf cingulum_greatly_expanded,_hypocone_shelf_strongly_developed;
+{ 83 Presence_of_M2_(WF_52) present residual_or_reduced,_simplified_morphology,_less_than_half_the_size_of_M1 absent;
+{ 84 M2_hypocone_(WF_87) absent present.;
+{ 85 Presence_of_M3_(WF_53) present absent;
+{ 86 I1_(WF_78) present absent;
+{ 87 P1_(WF_84) present absent;
+{ 88 P4_protoconid_proportions taller_than_long length_and_height_subequal;
+{ 89 Protostylid_on_P4 absent present;
+{ 90 P4/M1_height P4_protoconid_substantially_taller_than_M1_protoconid M1_protoconid_subequal_to_P4_protoconid M1_protoconid_substantially_taller_than_P4_protoconid;
+{ 91 Lower_molars_(WF_86) subequal_in_size M1_much_larger_than_M2-3_and_progressive_decrease_in_size_from_M1-3;
+{ 92 Reduction_of_lower_molars_(WF_88) M1-3_present M1-2_present,_M3_absent M1_present,_M2-3_absent;
+{ 93 M1_mesial_cingulid horizontal,_extends_to_a_point_at_the_base_of_the_paraconid inclined,_reaches_a_point_near_midpoint_of_paracristid,_relatively_high_up;
+{ 94 Lower_molar_paracristids_(WF_54-modified) absent_or_non-salient_on_all_lower_molars salient_on_all_lower_molars salient_on_M1,_non-salient_or_weakly_salient_on_M2-3;
+{ 95 M1_protoconid_and_paraconid_heights protoconid_much_taller_than_paraconid protoconid_slightly_taller_than_paraconid protoconid_and_paraconid_heights_subequal;
+{ 96 M1_paraconid_shape,_lingual_view mesiodistally_compressed,_finger_like mesiodistally_broad,_triangular;
+{ 97 M1_metaconid_development subequal_in_size_to_paraconid reduced,_much_smaller_than_other_trigonid_cusps absent;
+{ 98 M1_talonid_(WF_85) present absent;
+{ 99 M1_talonid_width narrower_than_trigonid subequal_to_trigonid_width wider_than_trigonid;
+{ 100 M1_talonid_basin_depth deep shallow;
+{ 101 M1_hypoconid_size much_larger_than_other_talonid_cusps subequal_to_other_talonid_cusps,_particularly_hypoconulid;
+{ 102 M1_hypoconid_apex_position near_distal_margin_of_crown,_postcristid_very_short_and_indistinct,_hypoconid_and_hypoconulid_apices_appressed mesial_to_distal_margin_of_crown,_postcristid_distinct,_hypoconid_and_hypoconulid_apices_well-separated;
+{ 103 M1_entoconid_size present,_height_subequal_to_hypoconid present,_much_lower_than_hypoconid,_talonid_semitrenchant absent,_talonid_trenchant;
+{ 104 Contour_of_lingual_margin_of_M1_talonid changing_direction_abruptly_at_the_apex_of_the_entoconid forming_a_smooth_curve_at_the_back_of_the_trigonid;
+{ 105 M1_entoconid_shape forms_a_crest_that_closes_the_lingual_margin_of_the_crown conical;
+{ 106 M2_trigonid_height tall low;
+{ 107 M2_hypoconulid_(WF_59-modified) relative_size_equivalent_to_M1 enlarged_relative_to_m1_hypoconulid;
+{ 108 (Scapula)_glenoid_shape_(ZRP1-modified) ovoid,_distinctly_longer_than_wide subcircular,_length_and_width_more_similar;
+{ 109 (Scapula)_distal_deflection_of_anterior_glenoid_fossa_(ZRP2-modified) restricted_to_anterior_1/3_or_less exceeds_1/2_of_glenoid_anteroposterior_length;
+{ 110 (Scapula)_supraglenoid_tubercle_position_(SF_100-modified) reaches_anterior_edge_of_glenoid_fossa remains_proximal_to_anterior_edge_of_glenoid_fossa;
+{ 111 (Scapula)_acromion_process_orientation_(SF_101-modified) deflected_anteriorly_relative_to_scapular_spine remains_in_same_plane_as_the_scapular_spine;
+{ 112 (Scapula)_acromion_process_length_(SF_102) process_extends_past_glenoid_fossa process_terminates_before_or_at_glenoid_fossa;
+{ 113 (Scapula)_scapular_spine_morphology_(SF_104-modified) forms_a_continuous,_linear_spine_in_lateral_view distal_half_is_deflected_anteriorly_relative_to_the_proximal_half;
+{ 114 (Humerus)_orientation_and_elevation_of_anteromedial_margin_of_greater_tuberosity_(SF_112_and_121-combined) height_low,_below_level_of_humeral_head,_and_angled_medially,_remaining_close_to_head height_intermediate,_level_with_humeral_head,_and_angled_anteriorly,_away_from_the_head height_elevated,_above_level_of_humeral_head,_and_angled_anteriorly,_away_from_the_head;
+{ 115 (Humerus)_lesser_tuberosity_projection_and_orientation limited_medial_projection_away_from_humeral_head,_inclined_posterodistally_in_medial_view strong_medial_projection_away_from_humeral_head,_inclination_is_nearly_vertical_in_medial_view;
+{ 116 (Humerus)_teres_tubercle_development_(SF_115-modified,_ZR_P9-modified) weakly_defined,_no_clear_scar_for_teres_major_and_latissimus_dorsi_present well-defined,_forming_crest_or_ridge_on_the_medial_side_of_the_proximal_humeral_shaft;
+{ 117 (Humerus)_deltopectoral_crest_(SF_109-modified) elevated_distally,_with_a_sharp_transition_into_the_distal_humeral_shaft low_distally,_blending_smoothly_into_the_distal_humeral_shaft;
+{ 118 (Humerus)_brachial_flange_(SF_114-modified) prominent,_extending_out_from_the_body_of_the_bone_as_a_flat_surface reduced,_nothing_but_a_small_raised_line_of_bone;
+{ 119 (Humerus)_medial_epicondyle_development_(SF_110-modified) prominent,_projects_well_medial_of_remainder_of_distal_humerus,_distal_margin_of_endplate_faces_medially reduced,_does_not_project_well_medial_of_remainder_of_distal_humerus,_distal_margin_faces_distomedially;
+{ 120 (Humerus)_shape_of_endplate_of_medial_epicondyle subcircular_in_medial_view_with_proximodistal_length_only_slightly_more_than_anteroposterior_depth proximodistally_elongate_but_anteroposteriorly_compressed;
+{ 121 (Humerus)_olecranon_fossa_depth_(SF_107-modified) shallow deeper_but_unperforated deep_and_perforated;
+{ 122 (Humerus)_ulnar_collateral_ligament_insertion_site_size_(SF_120) very_large,_forming_a_distinct_circular_pit small,_forming_only_a_shallow_depression;
+{ 123 (Humerus)_radial_fossa_development_(ZR_P16-modified) shallow,_margins_poorly_defined deep,_margins_well-defined,_particularly_lateral_margin;
+{ 124 (Humerus)_trochlea_projection_(SF_116-modified) extends_distally_past_capitulum_when_viewed_anteriorly,_lateral_margin_of_trochlea_oriented_distolaterally less_projecting,_lateral_margin_of_trochlea_oriented_more_distally_and_less_laterally;
+{ 125 (Humerus)_zona_conoidea_between_trochlea_and_capitulum absent_or_indistinct,_trochlea_grades_smoothly_into_capitulum_in_distal_view present,_a_distinct_step_is_present_between_the_trochlea_and_capitulum_in_distal_view;
+{ 126 (Humerus)_capitular_tail_(SF_106-modified) present absent;
+{ 127 (Humerus)_capitulum_shape_(SF_123-modified) relatively_flat_with_a_gently_convex_distal_margin rounded,_with_a_strongly_convex_distal_margin;
+{ 128 (Humerus)_capitulum_width_(SF_119-modified) narrow,_capitular_width_approximately_1.5_times_proximodistal_depth broad,_capitular_width_approximately_double_proximodistal_depth;
+{ 129 (Radius)_shape_of_radial_head_and_ulnar_facet_curvature_(SF_139_and_142-combined_and_modified) circular,_with_major_and_minor_axes_subequal,_ulnar_facet_strongly_curved,_capitular_eminence_weak circular,_with_major_and_minor_axes_subequal,_ulnar_facet_strongly_curved,_capitular_eminence_prominent oval,_major_axis_greater_than_minor_axis,_ulnar_facet_curved,_capitular_eminence_prominent oval,_major_axis_greater_than_minor_axis,_ulnar_facet_flattened,_capitular_eminence_prominent;
+{ 130 (Radius)_bicipital_tuberosity well-developed poorly_differentiated_from_the_radial_shaft;
+{ 131 (Radius)_distal_extensor_tubercle low,_does_not_project_strongly_from_shaft prominent,_projects_well_away_from_distal_radial_shaft;
+{ 132 (Radius)_brachioradialis_crest_(ZR_P23-modified) prominent,_extends_well_lateral_to_the_scapholunar_facet reduced,_does_not_project_beyond_the_scapholunar_facet;
+{ 133 (Radius)_scapholunar_facet_surface_(SF_140-modified) substantially_wider_than_deep depth_and_width_subequal_or_slightly_deeper_than_wide;
+{ 134 (Radius)_projection_of_styloid_process_(ZR_P25-modified) weak,_does_not_project_substantially_distal_to_remainder_of_distal_radius projects_strongly_beyond_remainder_of_distal_radius;
+{ 135 (Radius)_large_surface_for_articulation_of_the_scaphoid_(SF_141-modified) present surface_small;
+{ 136 (Ulna)_shape_in_anterior_view_(SF_137-modified) straight sigmoidal;
+{ 137 (Ulna)_olecranon_process_length_(SF_132-modified) short,_proximodistal_length_comparable_to_mediolateral_width elongate,_proximodistal_length_exceeds_mediolateral_width;
+{ 138 (Ulna)_medial_deflection_of_olecranon_process,_relative_to_a_line_separating_the_trochlear_facet_from_the_radial_and_posterior_humeral_facets_(ZR_P27-modified) substantial,_~30_degrees small,_~10_degrees;
+{ 139 (Ulna)_lateral_projection_of_anconeal_process_(SF_133-modified) lateral_margin_forms_a_shelf_projecting_at_right_angle_to_shaft_in_anterior_view lateral_margin_flush_with_or_smoothly_continuous_with_shaft_in_anterior_view;
+{ 140 (Ulna)_curvature_of_radial_notch_(SF_129-modified) absent_or_weak strong;
+{ 141 (Ulna)_shape_of_radial_facet_(ZR_P32-modified) proximodistally_narrow broad_posteriorly_but_tapers_strongly_onto_coronoid_process broad_posteriorly_with_modest_tapering_onto_coronoid_process;
+{ 142 (Ulna)_m._brachialis_insertion_site_position_(SF_128-modified) oriented_primarily_anteriorly oriented_primarily_medially;
+{ 143 (Ulna)_development_of_distomedial_crest_for_m._pronator_quadratus_(SF_135) well_developed small;
+{ 144 (Ulna)_position_of_m._pronator_quadratus_crest at_distal_end_of_bone,_close_to_level_of_distal_radial_facet more_proximal,_ending_before_reaching_distal_end_of_bone;
+{ 145 (Ulna)_orientation_of_distal_radial_and_triquetrum_facets_(ZR_P35-modified) anterodistally_oriented primarily_distally_facing_with_reduced_anterior_orientation;
+{ 146 (Carpus)_scaphoid_and_lunate_fusion_(WF_92) unfused fused;
+{ 147 (Carpus)_position_of_scaphoid_tubercle ventromedial_to_radial_facet ventral_to_radial_facet;
+{ 148 (Carpus)_ventral_expansion_of_lateral_side_of_scaphoid_radial_facet_(SF_145-modified) absent,_ventral_margin_of_radial_facet_is_relatively_linear,_a_non-articulating_shelf_is_present_ventral_to_the_radial_facet present,_the_radial_facet_is_more_ventrally_extensive_laterally_than_medially,_the_non-articulating_area_is_absent,_at_least_medially;
+{ 149 (Carpus)_orientation_of_capitate_facet_of_lunate_(SF_149-modified) distal_and_somewhat_medial primarily_medial_with_little_distal_component;
+{ 150 (Carpus)_triquetrum_shape_in_proximal_view_(SF_144) triangular rectangular;
+{ 151 (Pelvis)_ventral_surface_of_ilium_(SF_206-modified) broad_and_flat narrow;
+{ 152 (Pelvis)_development_of_iliac_neck short,_expansion_of_iliac_blade_begins_immediately_anterior_to_acetabulum pronounced,_expansion_of_iliac_blade_begins_well_anterior_to_acetabulum;
+{ 153 (Pelvis)_morphology_of_anterior_inferior_iliac_spine_(rectus_tubercle)_(ZR_P38-modified) defined,_projecting,_and_rounded defined,_projecting,_and_ovoid,_elongated_anteroposteriorly poorly_defined,_not_projecting;
+{ 154 (Pelvis)_position_of_ischial_spine_(SF_202-modified) located_just_posterior_of_the_border_of_the_acetabulum far_posterior_from_acetabulum;
+{ 155 (Femur)_posterolateral_extension_of_femoral_head_onto_neck_(ZR_P41-modified) absent,_femoral_head_hemispherical_in_shape present,_femoral_head_more_spherical;
+{ 156 (Femur)_height_of_greater_trochanter_relative_to_femoral_head_(SF_161-modified) greater_trochanter_is_taller_than_femoral_head greater_trochanter_is_even_with_femoral_head greater_trochanter_is_lower_than_head_of_femur;
+{ 157 (Femur)_orientation_of_broadest_surface_of_greater_trochanter_(SF_164-modified) faces_laterally faces_posteriorly;
+{ 158 (Femur)_lesser_trochanter_morphology_(SF_163-modified) proximodistally_short,_posterior_surface_dominated_by_scar_for_m._quadratus_femoris more_elongate,_scar_for_m._quadratus_femoris_restricted_to_distal_half_of_posterior_surface more_elongate,_scar_for_m._quadratus_femoris_restricted_to_posterodistal_margin very_elongate,_scar_for_m._quadratus_femoris_restricted_to_distal_margin_of_trochanter,_not_visible_in_posterior_view;
+{ 159 (Femur)_lesser_trochanter_orientation_(SF_156-modified) projects_posteromedially projects_medially;
+{ 160 (Femur)_position_of_lesser_trochanter_relative_to_the_third_trochanter_(SF_158-modified) third_trochanter_is_substantially_lower third_trochanter_is_roughly_at_the_same_level;
+{ 161 (Femur)_third_trochanter_(WF_94) present absent;
+{ 162 (Femur)_third_trochanter_development_(SF_159) a_prominent_feature_that_juts_out_from_the_lateral_boundary_of_the_shaft_both_proximally_and_distally a_more_shelf-like_feature_that_is_smoothly_connected_to_the_greater_trochanter_proximally,_only_jutting_out_from_the_boarder_of_the_shaft_distally;
+{ 163 (Femur)_medial_angulation_of_proximal_femoral_shaft absent,_proximal_portion_of_femoral_shaft_aligned_with_distal_portion present,_proximal_femoral_shaft_deflected_medially,_beginning_at_approximately_the_level_of_the_third_trochanter;
+{ 164 (Femur)_supracondylar_tuberosities_(SF_160) absent presence_of_two_or_more_raised_tuberosities_just_proximal_to_the_condyles_of_the_femur_on_the_posterior_shaft;
+{ 165 (Femur)_medial_condyle_morphology_(SF_162) proximal_edge_of_the_articular_surface_of_condyles_are_flush_with_the_shaft,_due_to_the_lack_of_development_of_a_condylar_neck proximal_edge_of_the_articular_surface_of_condyles_are_not_flush_with_the_shaft,_due_to_the_development_of_a_condylar_neck;
+{ 166 (Femur)_posterior_projection_of_femoral_condyles medial_condyle_projects_further_posteriorly_than_lateral_condyle_when_viewed_distally posterior_projection_of_medial_and_lateral_condyles_subequal;
+{ 167 (Femur)_development_of_patellar_groove_(SF_166-modified) wide,_shallowly_excavated,_and_short,_groove_does_not_continue_proximal_to_epiphysis,_not_elevated,_groove_close_to_level_of_condyles,_distal_femur_wide_relative_to_depth wide,_deeply_excavated,_and_short,_groove_does_not_continue_proximal_to_epiphysis,_not_elevated,_groove_close_to_level_of_condyles,_distal_femur_wide_relative_to_depth wide,_deeply_excavated,_and_short,_groove_does_not_continue_proximal_to_epiphysis,_elevated,_groove_well_anterior_to_level_of_condyles,_distal_femur_deep narrow,_deeply_excavated,_and_elongate,_with_a_distinct_continuation_onto_distal_femoral_shaft,_elevated,_groove_well_anterior_to_level_of_condyles,_distal_femur_deep;
+{ 168 (Tibia)_anterior_projection_of_tibial_tuberosity projects_well_anterior_to_tibial_condyles does_not_project_well_anterior_to_tibial_condyles;
+{ 169 (Tibia)_transverse_position_of_tibial_tuberosity near_medial_margin_of_proximal_tibia centrally_positioned near_lateral_margin_of_proximal_tibia;
+{ 170 (Tibia)_fossa_for_origin_of_m._tibialis_anterior_lateral_to_tibial_tuberosity well-defined poorly_defined;
+{ 171 (Tibia)_fossa_for_origin_of_mm._flexores_digitorum_profundi_on_posterior_surface_of_proximal_tibia_(SF_169-modified) well-developed_and_posterolaterally_oriented,_demarcated_medially_by_a_sharp_ridge poorly_defined_and_posteriorly_oriented,_no_medial_ridge;
+{ 172 (Tibia)_angulation_of_distal_tibia_relative_to_tibial_shaft_(ZR_P47) aligned_with_shaft,_posterior_border_of_distal_tibial_shaft_flat curved_posteriorly_relative_to_shaft,_posterior_border_of_distal_tibial_shaft_distinctly_concave;
+{ 173 (Tibia)_distal_groove_for_mm._tibialis_posterior_and_flexor_digitorum_medialis broad,_inclined_anterodistally narrow,_vertical;
+{ 174 (Tibia)_posterior_projection_at_distal_end_of_tibia_(SF_170-replaced) small_and_medially_positioned,_close_to_the_medial_malleolus_and_supporting_a_substantial_portion_of_the_medial_side_of_the_astragalar_facet larger_and_more_lateral,_more_separated_from_malleolus_and_only_supporting_a_small_portion_of_the_medial_side_of_the_astragalar_facet very_prominent_and_well_lateral_to_the_medial_malleolus,_does_not_support_a_portion_of_the_astragalar_facet;
+{ 175 (Tibia)_concavity_on_the_distal_or_distolateral_surface_of_the_medial_malleolus present absent;
+{ 176 (Tibia)_astragalar_facet_shape_(ZR_P49-modified) transversely_narrow,_anteroposterior_depth_relatively_uniform,_deep transversely_narrow,_relatively_deep_medially,_tapering_substantially_laterally transversely_narrow,_anteroposterior_depth_uniformly_shallow transversely_broad,_anteroposterior_depth_uniformly_shallow;
+{ 177 (Tibia)_mediolateral_convexity_of_the_astragalar_facet absent,_astragalar_facet_flat present,_the_medial_and_lateral_portions_of_the_lateral_astragalar_facet_have_distinctly_different_orientations;
+{ 178 (Tibia)_check_facet_at_anterior_margin_of_distal_tibia_facet_(ZR_P50-modified) absent_or_poorly_developed well-developed;
+{ 179 (Astragalus)_proximal_extension_of_medial_ridge_of_lateral_tibial_facet_(ZR_P55-modified) terminates_opposite_astragalar_foramen_(if_present)_well_distal_to_proximal_margin_of_astragalar_body narrow_extension_well_past_astragalar_foramen_(if_present)_to_approach_proximal_margin_of_astragalar_body broad_extension_well_past_astragalar_foramen_(if_present)_to_approach_proximal_margin_of_astragalar_body,_greater_than_half_of_total_facet_width;
+{ 180 (Astragalus)_proximal_extension_of_lateral_half_of_lateral_tibial_facet_(SF_185-modified) restricted,_fails_to_completely_cover_the_proximolateral_astragalar_body,_exposing_a_portion_of_the_body_in_dorsal_view more_extensive,_covers_the_proximolateral_body_in_dorsal_view,_obscuring_the_astragalar_foramen_(if_present) with_a_narrow_proximal_extension_of_the_lateral_ridge_of_the_tibial_facet,_extending_proximal_to_the_level_of_the_astragalar_foramen_(if_present);
+{ 181 (Astragalus)_distal_edge_of_lateral_half_of_lateral_tibial_facet relatively_dorsal,_a_large_gap_is_present_between_the_tibial_facet_and_the_distolateral_corner_of_the_ectal_facet relatively_ventral,_the_lateral_side_of_the_lateral_tibial_facet_is_less_widely_separated_from_the_distolateral_corner_of_the_ectal_facet;
+{ 182 (Astragalus)_excavation_of_lateral_tibial_facet_(SF_174) shallow deeper;
+{ 183 (Astragalus)_orientation_of_medial_tibial_facet dorsomedial,_separation_from_lateral_tibial_facet_relatively_subtle medial,_separation_from_lateral_tibial_facet_abrupt;
+{ 184 (Astragalus)_presence_of_astragalar_foramen_(SF_182) present absent;
+{ 185 (Astragalus)_orientation_of_proximomedial_plantar_tuberosity medially,_forming_a_medial_extension_of_the_astragalar_body_beyond_the_tibial_facet proximomedially,_astragalar_body_with_limited_medial_extension_beyond_the_tibial_facet ventrally,_astragalar_body_ends_medially_at_the_level_of_the_tibial_facet;
+{ 186 (Astragalus)_height_of_fibular_facet_(SF_175) height_subequal_to_length,_resulting_in_a_roughly_square_shaped_facet height_much_less_than_length,_resulting_in_a_more_crescent_shaped_feature;
+{ 187 (Astragalus)_proportions_of_ectal_facet broad,_long_axis_not_dramatically_greater_than_short_axis narrow,_long_axis_much_greater_than_short_axis;
+{ 188 (Astragalus)_orientation_of_long_axis_of_ectal_facet proximodistally_with_limited_mediolateral_tilt approximately_45_degrees_to_the_long_axis_of_the_astragalus,_proximodistal_and_mediolateral_orientation_similar;
+{ 189 (Astragalus)_cotylar_fossa_presence_and_position_(SF_187-modified) present_on_distomedial_astragalar_body_and_dorsal_surface_of_astragalar_neck_(Didymictis) present_on_proximal_surface_of_astragalar_neck absent_(Vulpavus);
+{ 190 (Astragalus)_connection_between_sustentacular_and_navicular_facets_on_medial_border_of_astragalar_neck_(SF_181-modified) absent,_sustentacular_facet_restricted_and_isolated_medially present,_sustentacular_facet_extends_along_medial_side_of_astragalar_neck;
+{ 191 (Astragalus)_length_of_astragalar_neck_(SF_191-modified) short,_lateral_aspect_of_navicular_facet_close_to_distal_end_of_lateral_tibial_facet long,_lateral_aspect_of_navicular_facet_well_separated_from_distal_end_of_lateral_tibial_facet;
+{ 192 (Astragalus)_mediolateral_curvature_of_navicular_facet_(SF_176-modified) present,_distal_margin_of_astragalar_head_appears_rounded_in_dorsal_view absent,_distal_margin_of_astragalar_head_appears_flat_in_dorsal_view;
+{ 193 (Astragalus)_orientation_of_long_axis_of_navicular_facet_(SF_177-modified) transverse,_astragalar_head_appears_dorsoventrally_compressed_in_distal_view oblique,_medial_side_of_astragalar_head_deflected_somewhat_ventrally_in_distal_view strongly_oblique,_medial_side_of_astragalar_head_strongly_deflected_ventrally_in_distal_view;
+{ 194 (Astragalus)_proximal_extent_of_navicular_facet_(SF_180-modified) proximally_extensive,_substantial_overlap_with_sustentacular_facet restricted,_does_not_extend_far_proximally_and_overlap_with_sustentacular_facet_is_minimal;
+{ 195 (Calcaneus)_proportions_of_calcaneal_tuber_(ZR_P65-modified) short_and_broad longer_and_transversely_compressed;
+{ 196 (Calcaneus)_ectal_facet_curvature_(SF_195) smooth clearly_defined,_sharp_midpoint_bend_(rather_than_a_smooth_curve);
+{ 197 (Calcaneus)_ectal_facet_elongation short,_long_axis_of_facet_approximately_twice_the_length_of_short_axis elongate,_long_axis_substantially_longer_than_short_axis_due_to_proximal_extension_of_facet;
+{ 198 (Calcaneus)_ectal_facet_orientation_(ZR_P66-modified) long_axis_relatively_vertical,_facet_faces_directly_medially long_axis_more_inclined,_facet_faces_distomedially;
+{ 199 (Calcaneus)_width_of_ectal_facet_(ZR_P67) relatively_constant_from_posterior_to_anterior,_posterior_end_slightly_narrowed posterior_half_much_narrower_than_anterior_half;
+{ 200 (Calcaneus)_fibular_facet_(SF_194-modified) present,_wide,_extending_lateral_to_distal_end_of_ectal_facet present,_wedge-shaped,_tapers_to_nothing_adjacent_to_distal_end_of_ectal_facet absent;
+{ 201 (Calcaneus)_distal_elongation_(SF_188) calcaneus_distinctly_elongate_distally,_such_that_the_sustentaculum_is_far_from_the_distal_border calcaneus_short_distally,_sustentaculum_is_close_to_distal_border;
+{ 202 (Calcaneus)_sustentacular_facet_size large reduced;
+{ 203 (Calcaneus)_peroneal_tubercle_composition a_single_projection two_projections,_one_anterior_and_one_posterior,_separated_by_a_groove two_distinguishable_but_continuous_projections;
+{ 204 (Calcaneus)_position_of_peroneal_tubercle_(ZR_P70-modified) close_to_the_distal_margin_of_the_calcaneus,_just_proximal_to_the_cuboid_facet between_the_cuboid_and_sustentacular_facets at_the_level_of_the_sustentacular_facet;
+{ 205 (Calcaneus)_projection_at_dorsal_midline_of_distal_calcaneal_body_(ZR_P71) strong,_cuboid_facet_has_a_sharp_dorsal_corner_in_anterior_view weak,_dorsal_margin_of_cuboid_facet_more_gently_rounded_in_distal_view;
+{ 206 (Calcaneus)_plantar_tubercle_position_(ZR_P72-modified) at_distal_margin_of_calcaneus,_flush_with_cuboid_facet proximal_to_distal_margin,_well-separated_from_cuboid_facet;
+{ 207 (Calcaneus)_cuboid_facet_proportions_(SF_192-modified) cuboid_facet_substantially_deeper_than_wide_in_distal_view cuboid_facet_depth_and_width_subequal cuboid_facet_substantially_wider_than_deep_in_distal_view;
+{ 208 (Calcaneus)_dorsal_angulation_of_calcaneal_cuboid_facet_(SF_193-modified) angled_somewhat_dorsally not_significantly_angled_dorsally;
+{ 209 (Calcaneus)_medial_orientation_of_calcaneal_cuboid_facet facet_faces_distally,_angulation_is_80-90_degrees_from_long_axis_in_ventral_view facet_somewhat_angled_medially,_angulation_is_80-70_degrees_from_long_axis_in_ventral_view facet_with_substantial_medial_orientation,_angulation_is_<70_degrees_from_long_axis_in_ventral_view;
+{ 210 (Cuboid)_anterior_surface_of_cuboid_(ZR_P76-modified) weakly_concave_to_weakly_convex strongly_concave;
+{ 211 (Cuboid)_elongation,_dorsal_view_(SF_197-modified) short,_length_and_width_of_body_subequal_in_dorsal_view elongate,_body_distinctly_longer_then_wide_in_dorsal_view;
+{ 212 (Cuboid)_presence_of_astragalar_facet_(SF_199-modified) present State_1 absent;
+{ 213 (Cuboid)_dorsoventral_position_of_astragalar_facet restricted_to_ventral_half_of_cuboid,_does_not_approach_dorsal_margin centrally_positioned,_occupies_entire_depth_of_cuboid,_deepest_near_middle_of_bone restricted_to_dorsal_portion_of_cuboid,_does_not_reach_ventral_margin;
+{ 214 (Cuboid)_calcaneal_facet_orientation faces_proximally,_with_limited_lateral_angulation faces_proximodorsally faces_strongly_proximolaterally;
+{ 215 (Cuboid)_ventrolateral_extension_of_the_calcaneal_facet_towards_the_plantar_tubercle absent,_calcaneal_facet_isolated_from_the_plantar_tubercle present,_calcaneal_facet_reaches_or_approaches_plantar_tubercle;
+{ 216 (Cuboid)_contact_between_navicular_and_ectocuneiform_facets present absent,_facets_separated_by_a_non-articulating_gap;
+{ 217 (Cuboid)_accessory_ectocuneiform_facet_(ZR_P79) absent present;
+{ 218 (Cuboid)_plantar_tubercle_position_(SF_198-modified) distal_to_the_ectocuneiform_facet even_with_the_ectocuneiform_facet;
+{ 219 (Cuboid)_proportions_of_distal_metatarsal_facet_(ZR_P80) depth_and_width_subequal width_substantially_greater_than_depth;
+{ 220 (Cuboid)_size_of_MT_V_facet_(SF_196) small,_less_than_40_percent_of_total_distal_articular_surface large,_articular_surface_at_least_40%_of_total_distal_surface;
+{ 221 (Navicular)_proximodistal_extent_(SF_200-modified) shallow,_proximodistal_extent_much_less_than_length_or_width intermediate,_proximodistal_extent_somewhat_less_than_length_or_width deep,_proximodistal_extent_subequal_to_length_or_width;
+{ 222 (Navicular)_transverse_width length_substantially_greater_than_width length_and_width_subequal width_substantially_greater_than_length;
+{ 223 (Navicular)_projection_of_plantar_tubercle does_not_project_far_from_body_of_navicular projects_distally projects_ventrally;
+{ 224 Unguals_(WF_99-modified) Fissured Unfissured;
+{ 225 Dummy_Character_1 Primitive Derived;
+{ 226 Dummy_Character_2 Primitive Derived;
+;
+
+
+ccode  - 0.48 50.91 93.226 + 49 92;
+
+
+;

@@ -1,0 +1,109 @@
+nstates num 5;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 09.54.15'
+52 39
+
+&[num]
+Aethophyllum_stipulare                                       00001-1-0000????201011030110111100111112130110100000
+Barthelia_furcata                                            ?0100100001?0100?0101?1300000000110?00?0401001000000
+Callistophyton_poroxyloides                                  00012-1--0--????2------00110-------000---------1000?
+Concholepis_harrisii                                         ?000010?0100????0??????????0?000001???100010010???00
+Cordaixylon_dumusum                                          00011-1-1100202131010--20100011000000000001001001000
+Dicranophyllum_hallei                                        00000003011100111??????????0?000100?00??10?00?0???00
+Dolomitia_cittertiae                                         ??0?0?0?100003403??????????011100?11111?21000010??00
+Emporia_cryptica                                             11000100000011?0?01011030000011111110010301000003100
+Emporia_lockardii                                            ?110010000??0110?01011030000011011110010201000003100
+Emporia_royalii                                              1110010000?00130?01011030000011111110010301000000100
+Ernestiodendron_flliciforme                                  ?100010?00001330101?110?000011001?110010110000000?00
+Ferugliocladus_spp.                                          00000100000004410010110?0??1110000001030430111110000
+Genoites_patagonica                                          000001030111????0??????????1110010001030430111100000
+Hanskerpia_hamiltonensis                                     ?110010000100330????????0000010111110010311000000100
+Majonica_alpina                                              ??0?011010000??0????????00001101001111??31000010?000
+Mesoxylon_priapii                                            00011-1-1100233101010--20000011000000000000000001000
+Kungurodendron_sharovii                                      ?100010000000140?0101?0?10001?000111001000100?0???00
+Ortiseia_spp.                                                ?1000100?0001??0???01???1000110000111112401000002000
+Otovicia_hypnoides                                           ?110010000001140?0101103000001101111001131100001?000
+Thucydia_mahoningensis                                       1100010?00000100?2010--10000100001110010110001000000
+Timanostrobus_muravievii                                     ?000010200000441101?????100011000?0000000010010?0?00
+Utrechtia_floriniformis                                      1110010?00?001101?1?1??????0111010110011400000001?00
+Voltzia_hexagona                                             ?01001030100?????010110????0101000111112220100100000
+Vojnovskyean_plant                                           ?00?1-0-0100?30????????????010?00?000000000001000?00
+Telemachus_elongatus_-_Heidiphyllum_elongatum                100?1-1-11000041001010030110111200111112130110100000
+Swedenborgia_cryptomerioides_-_Podozamites_schenkii          ??0?1-1-1?003?210??????????011120011111213011010?010
+Krassilovia_mongolica_-_Podozamites_harrisii                 ??0?1-1-110030210??????????011120011111213011010?010
+Cycadocarpidium_erdmanni_-_Podozamites_schenkii              ??0?1-1-1?0030210??????????011120011111213011010?010
+Manifera_talaris                                             ???????????????????????????011100?1111?222000010?0?0
+Pseudovoltzia_liebeana                                       ?00?0012110003300??????????0111100111112220000100000
+Sciadopitys_verticillata                                     1001310-01000001001010032110111100111112030110001000
+Cedrus_deodara                                               1001000001001221001010030110111100111113330110004000
+Schizolepidopsis_canicularis                                 ??0?000201000??10???????0110111100011113330110104000
+Elatides_zhoui                                               ??0?000200000111001010032110111200011112130110101000
+Cunninghamia_lanceolata                                      1001000201000011001010032110111200111112230110101000
+Dechellyia_gormani_-_Masculostrobus_clathratus               111??01?0?00?????01010032110111?0?101?13430110000?20
+Pararaucaria_taquetrensis                                    ????310?0000???????????????011100?111112330110000?01
+Frenelopsis_ramosissima                                      ????3???0?000????010100?211011100?11111??301100???01
+Lebowskia_grandifolia                                        ??0?1-1-100004400??????????01111001111??320000100000
+
+;
+
+
+cnames
+{ 0 Orthotropic_branching_of_stem Absent Present;
+{ 1 Ultimate_branch_arrangement Irregular/three_dimensional Plagiotropic_(pinnate);
+{ 2 Heterophylly_ absent present;
+{ 3 Bud_scales absent present;
+{ 4 Vegetative_leaf_shape_and_venation_ relatively_narrow_with_one_or_two_veins strap-shaped_with_more_than_two_veins pinnately_compound_with_dichotomous_venation broadly_triangular,_scale-like_or_cataphyll-like_;
+{ 5 Shape_of_narrow_leaves_in_lateral_view straight,_linear short,_slightly_curved,_S-shaped,_falcate_;
+{ 6 Leaves_narrowing_toward_base absent present;
+{ 7 Cross-section_of_narrow_leaves_with_one_or_two_veins rhomboid_and_transversely_elongated _ellipsoidal_with_larger,_convex_adaxial_face thin_and_flattened vertically_elongated,_diamond-shaped;
+{ 8 Leaf_apex acute_or_pointed rounded;
+{ 9 Leaf_cushions_or_consistently_shaped_leaf_scars absent present;
+{ 10 Forked_leaves_on_penultimate_branches_ not_forked forked;
+{ 11 Forked_leaves_on_ultimate_branches not_forked forked;
+{ 12 Stomatal_subsidiary_cells Unspecialized,_in_a_simple_ring_ specialized,_in_two_distinct_rings_(dicyclic_-_at_least_in_part) specialized,_two_lateral,_two_polar_(Cordaites-type)_ specialized,_two_lateral_(parallel_to_the_guard_cells:_paracytic)_;
+{ 13 Arrangement_of_stomata_on_adaxial_cuticle absent two_bands multiple_bands uniseriate_rows scattered;
+{ 14 Arrangement_of_stomata_on_abaxial_cuticle absent two_bands multiple_bands uniseriate_rows scattered;
+{ 15 Subsidiary_cells_with_prominent_papillae present absent;
+{ 16 Trichomes Absent present_along_leaf_margin_ present_on_leaf_surfaces_(abaxial_or_adaxial)_ present_on_reproductive_surfaces present_on_stems;
+{ 17 Pollen_cone_structure A_simple_shoot_with_helical_microsporophylls_ compound_shoot_with_fertile_axillary_buds_in_four_ranks compound_shoot_of_the_Thucydia-type_(helically_arranged_dwarf_shoots_in_the_axils_of_bracts_on_a_main_axis_and_sporophylls_with_a_terminal_pollen_sac;
+{ 18 Position_of_pollen_cone lateral,_in_the_axil_of_leaf_ terminal;
+{ 19 _Differentiation_of_microsporophyll_into_shank_and_distal_lamina_ present absent;
+{ 20 Symmetry_of_the_microsporophyll_ linear_ distal_lamina_bilateral__;
+{ 21 Basal_keel_on_the_microsporophyll_distal_lamina_ absent present;
+{ 22 Microsporophyll_apex_forked_ Microsporophyll_apex_not_forked_ microsporophyll_apex_forked_;
+{ 23 Pollen_sac_attachment on_abaxial_leaf_lamina singly_at_the_sporophyll_tip_with_one_terminal_erect_pollen_sac in_a_group_at_tip_of_sporophyll sporophyll_stalk_or_distal_lamina_with_sacs_on_abaxial_side_;
+{ 24 Presence/absence_and_type_of_sacci_in_prepollen/pollen_ Eusacci Protosacci lacking_sacci;
+{ 25 Prepollen/pollen_with_proximal_suture_ present absent;
+{ 26 Prepollen/pollen_with_distal_aperture_ absent present;
+{ 27 Ultimate_ovule_bearing_unit leaf stem;
+{ 28 Position_of_ultimate_ovule_bearing_unit_(UOU) lateral_or_axillary_ terminal_;
+{ 29 Formation_of_fertile_aggregations indeterminate_ determinate;
+{ 30 Leaf/bract_subtending_ovule_or_ovulate_cone_modified_compared_to_vegetative_leaf not_modified_ modified;
+{ 31 Fusion_of_leaf/bract_subtending_ovule_or_ovulate_cone free fused_only_at_base_ fused_for_two-thirds_or_more_the_length_of_the_bract_;
+{ 32 Apex_of_bract_subtending_ovule_or_ovulate_cone Entire Forked;
+{ 33 Marginal_trichomes_on_bract_ absent present;
+{ 34 Symmetry_of_axillary_shoot/ovuliferous_scale_ radial flattened_(bilateral);
+{ 35 Ovule_orientation_ erect_ inverted;
+{ 36 Ovules_on_distinct_sporophylls___ On_distinct_sporophylls_ not_on_distinct_sporophylls_;
+{ 37 Ovules_borne_on_more-or-less_fused_structure_ Not_on_a_more-or-less_fused_structure_ on_a_more-or-less_fused_structure__;
+{ 38 Ovule_position_on_the_fertile_shoot On_all_sides_of_shoot_ on_the_adaxial_side_of_the_shoot_ lateral_on_the_shoot_ terminal_on_the_shoot;
+{ 39 Position_of_ovules_on_sporophyll/fertile_scale/ovuliferous_scale apical_/marginal surficial,_near_tip surficial,_midregion surficial,_near_base._;
+{ 40 Number_of_potentially_fertile_ovules_per_ovuliferous_shoot/ovuliferous_scale_ numerous variable,_less_than_eight_ three two one;
+{ 41 Number_of_sterile_vegetative_scales_on_ovuliferous_shoot numerous,_>20 several,_6-20 few,_1-5 absent;
+{ 42 Intergrading_vegetative_and_fertile_scales absent_ present_;
+{ 43 Vegetative_scales_on_adaxial_surface_of_ovuliferous_shoot present absent;
+{ 44 Vegetative_scales_on_abaxial_surface_of_ovuliferous_shoot present absent;
+{ 45 Sporophylls_aggregated_on_shoot_apex_to_form_a_terminal_cone present absent;
+{ 46 Distinct_stalk_on_ovuliferous_shoot/ovuliferous_ absent present;
+{ 47 Ovule_apex_ not_modified_ with_two_apical_lobes_or_projections;
+{ 48 Chalazal_extensions_on_ovules_(horns,_lobes,_wings_etc.)_ absent_ two_extensions three_extensions one,_wing-like_extension absent,_but_seed_wing_derived_from_the_ovuliferous_scale;
+{ 49 Coarse_exterior_trichomes_on_ovules_ absent_ present;
+{ 50 Phyllotaxy helical_(spiral) distichous_(subopposite_to_opposite) decussate_(opposite);
+{ 51 Ovuliferous_scale_with_a_"-''pocket-forming_tissue" Absent Present;
+;
+
+
+ccode  - 0.51;
+
+
+;

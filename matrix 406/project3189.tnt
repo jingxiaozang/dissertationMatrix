@@ -1,0 +1,276 @@
+nstates num 7;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 09.56.58'
+211 47
+
+&[num]
+Eudigraphis_taiwanensis              0010001?120010000?11-0001??0000000??????????00010?0?0010110?-?------0?10----------0------?00000000--0100?00-0--00?00000000--00000010000100--00?00??02--001000?000-0--???0010--?????0----1--000--0????????00000--000
+Glomeris_marginata                   0010001?12001000001000001??11000?0??????????0001000?1?10121?--------0010----------0------?00000000--0100?10-0--00?00000000--00000000000000--?0??0??02--001101?00110--???1010--?????0----1--000--00001-00000000--100
+Cyliosoma_sp.                        ?0??001?1200100000100???1??1100000??????????0001000?1010121?--------0?10----------0------?00000000--0100?10-0--00?00000000--00000000000000--?0?00???2--001101?0011??????1010--?????0----1--000--0??01-00000000--100
+Glomeridesmus_sp.                    ?0??001?120010000?0-----1??1100??0??????????00010?0?1010121?--------0?10----------0------?00000000--0100?00-0--00?00000000--00000000000100--?0??0???2--?01101?0011??????1010--?????0----1--000--?????????00000--100
+Cowiedesmus_eroticopodus             ??????1????0???0???????????1??????????????????????????????????????????????????????0------????????0--?110?00-0--???00????1?????0?00?000???????????????????1????????????????????????????????????????????????1000?????
+Archidesmus_macnicoli                ??????1???0????0??100??????1????????????????????????????1???--------??10----------0------??????000--?110?00-0--0??00????1?????0?000000???0--?0??????2--??1?????????????????????????????????0??????????????1002??0??
+Petaserpes_sp.                       ?111101?120010000?10????0??1000??0??????????????????????120?--???---0?10----------0------?00000000--?100?00-0--00?00000000--00000000000100--?0??0???2--?01210-0001??????001100?????0----1--000--0????????0101200000
+Brachycybe_lecontii                  ?111101?120010000?0-----0??1000??0???????????0010?0?1?10120?--???---0?10----------0------?00000000--?110?00-0--00?00000000--00000000000100--?0??0???2--?01210-0010??????00110??????0----1--000--0????????0101200000
+Pseudopolydesmus_sp.                 ?210001?12001000000-----1??1200?00??????????00010?0?1?10120?--------0?10----------0------?00000000--0120?00-0--00?00000000--00000000000000--?0?00??02--001410-00100--???001110?????0----2--000--0??01-0000120011010
+Prostemmiulus_sp.                    ?1??001?120110000?100???0??1200??0??????????00010?0?1?11120?--???---0?10----------0------?00000000--?110?00-0--00?00000000--00000000000100--?0??0???2--?01310-0111??????001110?????0----2--000--0????????012-011010
+Abacion_magnum                       ??10001?120110000?100???1??1200??0????????????010?????11120?--???---0?10----------0------?00000000--?110?00-0--00?00000000--00000000000100--?0??0???2--?01310-0111??????001110?????0----2--000--0????????0120011010
+Cleidogona_sp.                       ?210001?120010000?100???1??1200??0????????????010?????11120?--???---0?10----------0------?00000000--0110?00-0--00?00000000--00000000000100--?0??0???2--?01310-0111??????001110?????0----2--000--0????????0122010010
+Gaspestria_genselorum                ??????1????????0???????????1???????????????????????????????????????????0----------0------????????0--?120?00-0--00?00??????????0?00?00????????0????????-????????????????????1??????????????-?????????????????????0??
+Narceus_americanus                   0110001?1200100000100???0??1200?00??????????00010?0?1?10120?--------0010----------0------?00000000--1120?00-0--00?00000000--00000000000000--?0?00??02--001410-01100--???001111?????0----1--000--0??01-0010112000000
+Cambala_annulata                     ?1??001?120010000?100???0??1200??0????????????010?????10120?--???---0?10----------0------?00000000--?120?00-0--00?0000000???00000000000000--?0??0???2--?01410-0110??????001111??????----1-?000--0????????0121000000
+Cylindroiulus_sp.                    ?110001?1200100000100???0??1200?00??????????00010?0?1?10120?--------0010----------0------?00000000--1120?00-0--00?00000000--00000000000000--?0?0???02--001410-01100--???001111?????0----1--000--0??01-0010112000000
+Crussolum_spp.                       ??????1????????????????????0??????????????????????????????????????????????????????1??0?00????0000?????????????????????????????1?0001000????????????????????????????????????????????????????????????????????????????
+Scutigerina_weberi                   ?0??0010001001002111-???1??0100001000000000000110000001010-0000100001?01010000000-100000000100001000000100100--00000000000--001000110110010000000300110000--0-0---??????0010--?????1110-000000--0????????00000--000
+Sphendononema_guildingii             ?0??0010000001001111-???1??0100001000000000000110000001010-0000100001?01010001000-100000000100001000000100100--00001100000--001000110110010000000300110000--0-0---??????0010--?????1110-001000--0????????00000--000
+Scutigera_coleoptrata                10120010001001001111-0001010100001000000000000110000001010-0000100001101010001000-100000000100001000000100100--00001100000--001000110110010000000300110000--0-0---0--0--0010--000--1110-001000--00010010000000--000
+Lithobius_forficatus                 1014001000000001201001111100101100001000-00001010001000-10-00002000101011100101012100011011000000000000100000--00110000000--000110100000010000000000010000--0-0---0--0--0010--210--1101101-0210010010010000000--000
+Eupolybothrus_cavernicolus           ?0??001000000001201001111??0101100001000-0?00100-001000-10-0000200010?011100101012100011011000000000000100000--00110000000--000110100000010000000000010000--0-0---?--0--0010--???--1101101-021011????????00000--000
+Anopsobius_giribeti                  ?014001000000001200-----1??0101000001000-00001010001000-10-0000200000?011100101012120011011000000000000100000--00100000000--000001000000010100000000010000--0-0---??????0010--100--1101001-011101????????00000--000
+Paralamyctes_validus                 ?0??0010000000012012-???1??0101000001000-00001010001000-10-0000200000?011100101012120001011000000000000100000--00110000000--000001100000010000000000010000--0-0---0--0--0010--?????1101001-011001????????00000--000
+Devonobius_delta                     ??????10??0?00011?0-----0??0?0??0?????????????????0??????0????????????011100??????11010211101000000??001?000?--000000??000--1?0?001000??????0???????0????0--?????????????????????????????????1????????????0????????
+Craterostigmus_tasmanianus           ?0161010100000012012-1101110300000??0????000010???00000-10-01000000002011100100112110102111000000000000100011--00000000000--0000000010001110000100?1010000--0?0---0--0--0010--211010----01-11124100?0010000000--000
+Craterostigmus_crabilli              ??????10100000012012-???1??0300000?????????0010???00000-10-0100000000?011100100112110102111000000000000100011--00000000000--0000000010001110000100?1010000--0?0---??????0010--?????0----01-111241????????00000--000
+Mazoscolopendra_richardsoni          ??????10?00????1???????????0????????????????????????????1??????????????1??????????1???????10?00201010001?000??????00??????????0?0??0????0110?0??0??????????????????????????????????????????0?121??????????0000--0??
+Scolopendropsis_bahiensis            ?30-??100000000100101???0??0100000000121000010010001010-10?0001010000?0110-010021111010211100012010?100110001--10100010100--00000010100001100110100100-010--100---1110??001?--?????0----01-001211????????00000--000
+Akymnopellis_chilensis               ?30-1?100000000100101???0??0100000000121000010010001010-10-0001010000?0110-0100211110102111000120101000100001--10100010100--000000100000011100101001010010--100---1110??0010--?????0----01-001211????????00000--000
+Rhysida_longipes                     ?30-11100000000100101???0??0100000100111000010010001010-10-0001010000?0110-0100211110102111000120101000110001--10100000000--000000101000011100100001011100--100---1010--0010--211110----01-00121111??????00000--000
+Alipes_grandidieri                   ?30-11100000000100101???0??0100000100111000010010001010-10-0001010000?0110-0100211110102111000120101000110001--10100000000--000000101000011100100301010100--100---1010--0010--?????0----01-001211????????00000--000
+Cryptops_hortensis                   130-111010000001000-----0??0100000000140000010010001000-10-000100000020110-01002151102021110000101010001100020011000000000--100000000000011000100001010000--100---1001000010--?????0----01-00121110?0010000000--000
+Theatops_spinicaudus                 ?30-111010000001000-----0??0100000000130100010010001000-10-0001000000?0110-01002161101021110001201010001000020010000010000--000000001000011001100001010000--100---1001000010--?????0----01-001211????????00000--000
+Scolopocryptops_sexspinosus          ?30-111010000001000-----0??0100000000130100010010001010-10-0001000000?0110-0100214110202111000120102000100001--10100000000--000000001000011100100001010000--100---1001110010--?????0----01-001211????????00000--000
+Newportia_adisi                      ?30-111010000001000-----0??0100000000130100010010001000-10-0001000000?0110-01002141102021110000201020001000020011000000000--100000100000011100100301011000--100---1001110010--?????0----01-001211????????00000--000
+Mecistocephalus_guildingii           ?30-??1011000011100-----01001100000000?0-0010001001--00-10-010000100020111201000101100021110011200130000000-20010000001000--11000000000001101000011100-000--101---0--0--0010--211101020-01-011211????????00000--000
+Tygarrup_javanicus                   ?30-??1011000011100-----0??0110000???????0010001001--00-10-0100001000?0111201000101100021110001200130000000-20010000001000--11000000000001100000011100-000--1?1---0--0--0010--?????1020-01-011211????????00000--000
+Notiphilides_grandis                 ?30-??1111000011000-----0??03000001000?0-1100001001--00-10-1100000000?0111211000131100021110000200031000000-211000000000010000000000000001101000031100-000--111---0-????0010--?????1020-01-000--1????????00000--000
+Himantarium_gabrielis                ?30-??1111000011100-----0??03000101000?0-1000001011--00-10-0110000000?0111111000101110021110000200031000000-212100000000011100000000000001101000031100-000--111---??????0010--211101020-01-001211??00010000000--000
+Stenotaenia_linearis                 ?30-211011000011000-----0??03000001100?0-00000011-1--00-10-1010000100?0111111000101110021110000200031000000-200100000000010000000000000001100000001100-000--101---0--0--0010--?????1020-01-011211???0???000000--000
+Henia_brevis                         ?30-??1011000011000-----0??030000011???????000011-1--00-10-1100000000?01111110002-1110021110000200031000000-2000000000000111000000000000011010000?1100-000--101---??????0010--?????1020-01-011211????????00000--000
+Strigamia_maritima                   130-211011000011000-----01003000001100?0-00000011-1--00-10-100000000020111111000101100021110100200031000000-200000000000010000000000000001101000001100-000--101---0--0--0010--211101020-01-011211??00010000000--000
+Hydroschendyla_submarina             ?30-??1011000011000-----0??03000101000?0-1100001111--00-10-1010000100?0111111000141100021110000200031000000-200100000000010000000000000001101000031100-000--101---0--0--0010???????1020-01-001221????????00000--000
+Kachinophilus_pereirai               ??????10?100?0?10?0-----0??0??????????????????????????0?1?????0000?0??011??1?000101110021?10101200031000000-200?0000000001?0000?000000000110000000???????0--????????????????????????????01-0?120??????????0000--000
+Hanseniella_sp.                      00???010000000000?0-----1??0000000???????0??0?00-?0?001010-?--------0?00----------0------?00000000-?0000?00-?--00000000000--00000000000?00--00?00???3--000--?-?---??????0010--?????0----3--000--000??????10000--001
+Scutigerella_sp.                     ?0???010000000000?0-----1??0000000???????0??0?00-?0?001010-?--------0?00----------0------?00000000-?0000?00-?--00000000000--00000000000?00--00?00???3--000--?-?---??????0010--?????0----3--000--00010000010000--001
+
+;
+
+
+cnames
+{ 0 Egg_tooth_on_embryonic_cuticle_of_second_maxilla absent present;
+{ 1 Pattern_of_segment_addition_in_ontogeny hemianamorphosis euanamorphosis teloanamorphosis epimorphosis;
+{ 2 Fully-formed_trunk_leg_pairs_in_first_post-embryonic/post-pupoid_stadium Absent Present;
+{ 3 Number_of_fully-formed_trunk_leg_pairs_in_first_post-embryonic/post-pupoid_stadium three four_(Polyzoniida_and_Platydesmida_coded_as_groundpatterns) forcipule_+_four forcipule_+_six forcipule_+_seven forcipule_+_eight forcipule_+_12;
+{ 4 Brood_care absent female_(male_in_Brachycybe)_bends_ventrally_around_eggs female_bends_dorsally_around_eggs maternal_brood_sac_on_ventral_side_of_opisthosoma;
+{ 5 Peripatoid_and_foetoid_stadia_guarded_by_mother absent present;
+{ 6 Antenna Absent Present;
+{ 7 Antennal_shape filiform_(antennal_length_>_twice_head_width) attenuate_(antennal_length_<_twice_head_width);
+{ 8 Variability_in_number_of_antennal_articles variable_within_the_species fixed_within_the_species;
+{ 9 Number_of_antennal_articles 15_or_more 14 eight_or_fewer;
+{ 10 Proportions_of_antennal_articles at_least_some_approximately_as_long_as_wide consistently_ring-like,_much_wider_than_long;
+{ 11 Antennal_trochanter absent present;
+{ 12 Antennae_with_apical_cones apical_cones_absent apical_cones_present;
+{ 13 Schaftorgan_on_antennal_scape absent present;
+{ 14 Two_lateral_areas_bearing_sensilla_basiconica_on_terminal_antennal_article absent present;
+{ 15 Flattened_head_capsule head_capsule_domed flattened,_with_head_bent_posterior_to_the_clypeus;
+{ 16 Transverse_cephalic_suture absent present_(frontal_line_or_frontal_sulcus) present,_divided_near_lateral_margin_into_antenocellar_suture;
+{ 17 Fenestrated_plate_composed_of_fused_transverse_tendons_of_mandibular,_mx1,_and_mx2_segments absent present;
+{ 18 Lateral_eye Absent Present;
+{ 19 Structure_of_lateral_eye stemmata compound_/_facetted single_ocellus;
+{ 20 Four_ocelli_in_rhomboid_cluster absent present;
+{ 21 Number_of_cellular_components_in_eye facultative_constancy all_cellular_components_highly_variable_in_number;
+{ 22 Circumretinular_sheath_cells absent present;
+{ 23 Interocellar_sheath_cells absent present;
+{ 24 Tömösváry_organs absent present;
+{ 25 Mandibular_glands restricted_to_hypopharyngeal_region extended_back_into_trunk;
+{ 26 Second_vesicular_gland absent present;
+{ 27 Cuticle_calcification absent present;
+{ 28 Dentition_of_labral_midpiece_/_intermediate_part undefined_midpiece_(median_tooth_/_teeth_lacking) single_strong_tooth three_teeth several_(>3)_small_teeth;
+{ 29 Labral_sidepieces_/_lateral_parts_divided_into_a_pair_of_alae_by_a_transverse_thickened_line side_pieces_undivided alae_definied_by_transverse_thickened_line;
+{ 30 Single_transverse_seta_projecting_medially_from_labral_side_piece_/_lateral_part absent present;
+{ 31 Labral_sidepiece_/_lateral_part_incised_medially not_incised incised;
+{ 32 Lateral_part_of_labrum_bearing_numerous_strong,_medially_directed_teeth absent present;
+{ 33 A-shaped_epipharyngeal_support_(labral_trapezoid) absent present;
+{ 34 Arching_of_border_between_labral_and_clypeal_part_of_epipharynx subtransverse_or_gently_arched_distally strongly_arched_distally;
+{ 35 Bilobate_border_between_labral_and_clypeal_parts_of_epipharynx absent present;
+{ 36 Single_row_of_bottle-shaped_glandular_openings_at_border_between_labral_and_clypeal_parts_of_epipharynx absent present;
+{ 37 Single_row_of_bullet-shaped_sensilla_at_proximal_margin_of_field_of_branching_spines_at_border_between_labral_and_clypeal_parts_of_epipharynx absent present;
+{ 38 Sensillar_field(s)_on_medial_clypeal_part_of_epipharynx medial_cluster_of_sensilla_proximally,_near_mouth_opening ovoid_or_crescentic_fields_of_sensilla_laterally large_field_of_sensilla_across_medial_clypeal_part_of_epipharynx,_separated_from_spine_field_of_a_substantial_expanse_that_bears_scattered_pores band_of_sensilla_medially,_immediately_proximal_to_spine_field lenticular_field_of_sensilla_immediately_proximal_to_spine_field;
+{ 39 Elongate,_figure-eight_shaped_group_of_two_smooth_scales_surrounding_each_sensillum_on_clypeal_part_of_epipharynx absent present;
+{ 40 Paired_lateral_cluster_of_sensilla_on_clypeal_part_of_epipharynx both_clusters_positioned_laterally,_widely_separated_from_each_other positioned_relatively_medially,_with_each_cluster_closely_approximating_the_other_near_midline;
+{ 41 Lateral_cluster_of_spear-shaped_sensilla_with_inflated_bases_on_clypeal_part_of_epiphrynx absent present;
+{ 42 Spear-shaped_sensilla_on_proximal_part_of_hypopharynx absent present;
+{ 43 Stilus absent present;
+{ 44 Four_sclerites_of_mandible_intersect_at_cruciform_suture absent present;
+{ 45 Mandible_composed_of_two_sclerites_(lamina_condylifera_only_sclerite_differentiated_from_flank_of_mandible) absent present;
+{ 46 Wide_membranous_band_between_sclerites_of_mandible,_Haarpolster_on_a_discrete_sclerite absent present;
+{ 47 Pectinate_lamellae_on_mandible Absent Present;
+{ 48 Arrangement_of_pectinate_lamellae_on_mandible multiple_imbricated_lamellae lamellae_arranged_in_a_single_file;
+{ 49 Differentiation_of_dorsalmost_pectinate_lamella absent present;
+{ 50 Dentate_lamellae_on_mandible present absent;
+{ 51 Number_of_groups_of_teeth_in_dentate_lamella_of_mandible three four/five;
+{ 52 Internal_and_external_teeth_on_mandible absent present;
+{ 53 Field_of_fan_bristles_expanded_onto_lamina_dentifera_of_mandible absent present;
+{ 54 Molar_plate Absent Present;
+{ 55 Molar_cusp_on_posterior_part_of_molar_plate absent present;
+{ 56 First_maxilla absent_(segmentally_homologous_appendage_a_locomotory_limb) present;
+{ 57 First_maxilla_coalesced_with_sternal_intermaxillary_plate absent present,_with_unfused_stipital_and_intermaxillary_components mental_elements_of_gnathochilarium_consolidated;
+{ 58 Gnathochilarial_lamellae_lingulaes separate connected_("fused");
+{ 59 Median_suture_on_first_maxillary_coxosternite coxae_medially_coalesced,_separated_by_median_suture coxae_fused,_without_median_suture;
+{ 60 Number_of_articles_in_telopodite_of_first_maxilla two one;
+{ 61 Lappet_on_basal_article_of_first_maxillary_telopodite absent present;
+{ 62 "Curled_appendages"_along_inner_margin_of_telopodite_of_first_maxilla absent present;
+{ 63 Brush-like_setae_along_inner_margin_of_telopodite_of_first_maxilla absent with_short,_curved_barbs plumose,_branching_as_slender_hairs;
+{ 64 Dense_pad_of_setae_on_coxal_process_and_inner_margin_of_telopodite_of_first_maxilla absent present;
+{ 65 Distal_part_of_telopodite_and_coxal_process_of_first_maxilla_hyaline absent_(telopodite_sclerotised,_non-hyaline,_longer_than_and_differentiated_from_coxal_process) present;
+{ 66 Lappets_at_base_of_coxal_process_of_first_maxilla absent present;
+{ 67 Plumose_setae_on_coxal_process_of_first_maxilla absent present;
+{ 68 Maxillary_organ absent present;
+{ 69 Maxillary_nephridia paired fused absent;
+{ 70 Limbless_postmaxillary_segment limbs_present limbs_absent;
+{ 71 Second_maxilla Absent Present;
+{ 72 Coxae_of_second_maxilla coxae_separate coxae_fused;
+{ 73 Metameric_pores Absent Present;
+{ 74 Metameric_pores_on_second_maxillary_coxosternum minute_opening_of_second_maxillary_gland_medial_to_mx2_coxosternite enlarged_opening_of_mx2_gland_("metameric_pore")_incorporated_in_medial_part_of_mx2_coxosternite metameric_pore_on_lateral_part_of_mx2_coxosternite;
+{ 75 Form_of_second_maxillary_telopodite slender,_leg-like,_with_elongate_prefemur/femur short,_stout;
+{ 76 Trochanter_on_second_maxilla present absent;
+{ 77 Pair_of_spine_bristles_at_distal_end_of_tibia_of_second_maxilla absent present;
+{ 78 Plumose_setae_on_inner_surface_of_tarsus_of_second_maxillary_telopodite absent_(simple_setae) plumose_setae_present;
+{ 79 Comb-like_fringe_of_setae_on_distal_article_of_telopodite_of_second_maxilla absent bifurcating_of_multifurcating_spines densely-aligned_simple_bristles;
+{ 80 Termination_of_telopodite_of_second_maxilla simple_(no_claw_or_seta) claw seta_or_setigerous_tubercle;
+{ 81 Structure_of_claw_of_telopodite_of_second_maxilla unipartite,_conical_claw robust_median_claw_with_pair_of_slender_spines_on_each_side thick,_elongate_digits_with_interspersed_thin_digits fasciate_claw pectinate_claw hook-like_claw paired_claw;
+{ 82 Forcipule_with_fang_and_venom_gland absent present_(fossils_coded_based_on_fang);
+{ 83 Pleurite_of_forcipular_segment_arching_over_coxosternite absent_(small_pleurite) pleurite_arching_over_coxosternum,_discontinuous_medially_("Spange"_of_Attems,_1926) pleurite_arching_over_coxosternum,_continuous_ventromedially;
+{ 84 Chitinous_lines_on_forcipule absent present;
+{ 85 Forcipular_tooth_plate absent anteriorly_projecting_serrate_endite transverse_sclerotised_band_on_anterior_margin;
+{ 86 Porodont_on_forcipular_coxosternite absent translucent,_seta-like_porodont;
+{ 87 Forcipular_coxosternite_sclerotised_in_midline coxae_separated_medially,_with__sternite_present_in_adult coxosternal_plates_meeting_medially,_with_flexible_hinge coxosternal_plates_meeting_medially,_hinge_sclerotised_and_non-functional;
+{ 88 Forcipular_coxosternite_deeply_embedded_into_cuticle_above_second_trunk_segment not_embedded deeply_embedded;
+{ 89 Coxalplatten_(forcipular_coxosternal_apodemes) absent present;
+{ 90 Tarsungulum_on_forcipular/first_trunk_segment separate_tarsus_and_pretarsus tarsus_and_pretarsus_fused;
+{ 91 Spine_comb_on_tarsus_of_forcipule/first_trunk_leg absent present;
+{ 92 Basal_node_on_forcipular_tarsus/tarsungulum absent_(coded_for_first_trunk_leg_in_Progoneata) present;
+{ 93 Basal_node_on_forcipular_femur absent_(coded_for_first_trunk_leg_in_Progoneata) present;
+{ 94 Basal_node_on_forcipular_trochanteroprefemur absent_(coded_for_first_trunk_leg_in_Progoneata) present;
+{ 95 Hinge_between_articles_of_forcipular_telopodite between_prefemur/trochanteroprefemur_and_femur between_trochanteroprefemur_and_tibia between_trochanteroprefemur_and_tarsungulum;
+{ 96 Spine_bristle_on_inner_edge_of_forcipular_trochanteroprefemur_opposed_to_four_spine_bristles_on_each_coxal_margin absent present;
+{ 97 Tergite_of_forcipular_segment separate_tergite separate_tergite_lacking,_fused_to_next_posterior_segment;
+{ 98 Width_of_forcipular_tergite of_similar_width_to_head_shield_and_T1 much_narrower_than_head_shield_and_T1,_with_forcipular_pleurite_strongly_developed_dorsally_and_coxopleural_suture_terminating_dorsally;
+{ 99 Number_of_post-cephalic_leg-bearing_segments forcipular_segment_+_15 forcipular_segment_+_21 forcipular_segment_+_23 forcipular_segment_+_37_or_more;
+{ 100 Intraspecific_variability_in_number_of_leg_pairs constant_number_of_leg_pairs variable_number_of_leg_pairs;
+{ 101 Body_segments_fused_into_diplosegments absent present;
+{ 102 Fusion_of_tergites,_pleurites_and_sternites absent_(free_pleurites_and_sternites) pleurotergites_(pleurae_fused_to_tergites,_with_free_sternites) complete_body_rings_(tergites,_pleurites_and_sternites_fused);
+{ 103 "Special_heterotergy"_(alternating_long_and_short_tergites,_with_reversal_of_lengths_between_seventh_and_eighth_walking_leg-bearing_segments) absent present;
+{ 104 Overlap_between_tergite_1_and_head_shield head_shield_overlaps_tergite_1 tergite_1_overlaps_head_shield;
+{ 105 Second_tergite_much_larger_than_the_following_ones absent present;
+{ 106 Single_large_tergal_plate_over_trunk_segments_7-9 separate_tergites single_tergite;
+{ 107 Long_tergites_divided_into_two absent present;
+{ 108 Intercalary_sclerites absent_or_weakly_sclerotised small_intercalary_tergites_(pretergites)_and_sternites strongly_developed_intercalary_tergites_and_sternites;
+{ 109 Principal_paratergites absent present;
+{ 110 Intercalary_paratergites absent primary_intercalary_paratergites_only secondary_intercalary_paratergites_present;
+{ 111 Paramedian_sutures_or_grooves_on_tergum_(Längsnähten) absent present;
+{ 112 Crescentic_sulci_on_most_trunk_tergites absent present;
+{ 113 Tergite_margination absent_or_on_last_tergite_only on_most_or_all_tergites;
+{ 114 Tergite_projections absent_on_all_tergites present_on_at_least_TT11_and_13;
+{ 115 Large_unpaired_tergal_spines_associated_with_spine_bristles,_aligned_longitudinally_on_midline absent present;
+{ 116 Tergal_spicula_(hairs) absent present;
+{ 117 Ultimate_tergite_with_longitudinal_median_suture absent present;
+{ 118 Anterior_trunk_sternites_with_rhachis_(apodeme_corresponding_to_mid-longitudinal_sulcus) absent present;
+{ 119 Complete_sternal_paramedian_sutures_along_length_of_trunk absent_or_incomplete complete;
+{ 120 Paired_sternal_paramedian_pores_with_valves absent present;
+{ 121 Sternal_pore_areas/sternal_glands absent_in_at_least_female present_in_both_sexes;
+{ 122 Suture_in_cuticular_ring_around_sternal_pores absent present;
+{ 123 Definition_of_sternal_pore_area sternal_pore_area_on_same_level_as_surrounding_parts_of_sternite sternal_pore_area_well-defined,_circular_or_elongated,_depressed_relative_to_surrounding_parts_of_sternite;
+{ 124 Endosternite absent present;
+{ 125 Short,_dense_setae_concentrated_on_posterior_part_of_sternite_of_ultimate_leg-bearing_segment_and_inner_part_of_ultimate_leg_coxa absent present;
+{ 126 Leg_pentagonal_in_cross-section,_with_marginal_spines_on_the_angles absent present;
+{ 127 Proliferation_of_telopodal_glands_on_posterior_legs absent present;
+{ 128 Socketed_spurs_D/V,_a/m/p_on_distal_extremities_of_podomeres absent present;
+{ 129 Distal_spinose_projections_on_tibiae_(tooth-like_process_on_lateral_side_of_at_least_tibiae_1-11) absent present;
+{ 130 Bipartite_division_of_tarsi_of_anterior_series_of_trunk_legs absent present;
+{ 131 Tarsi_divided_into_many_joints tarsi_undivided_or_bisegmented tarsus_flagelliform,_with_many_joints;
+{ 132 Tarsal_spurs absent present;
+{ 133 Tarsus_1_with_pair_of_terminal_spurs absent present;
+{ 134 Tarsal_papillae_and_resilient_sole_hairs absent present;
+{ 135 Coxal_pouches_on_legs absent present;
+{ 136 Ultimate_leg-bearing_segment_a_complete_cylinder absent present;
+{ 137 Coxopleurite Absent Present;
+{ 138 Coxopleurites_on_ultimate_legs coxa_and_pleurites_fused_as_short_coxopleurite elongate_coxopleurite;
+{ 139 Ultimate_leg_coxopleural_process absent present;
+{ 140 Ultimate_leg_thickened_in_males inconspicuous_sexual_dimorphism_with_respect_to_proportions_of_ultimate_leg present;
+{ 141 Heavily_sclerotised,_forcipulate_ultimate_legs absent present;
+{ 142 Ultimate_leg_trochanter present minute_or_absent;
+{ 143 Trochanter_of_ultimate_and_penultimate_legs_with_ventral_spine absent present;
+{ 144 Ultimate_leg_distomedial_prefemoral_process absent present;
+{ 145 Ultimate_leg_pretarsus claw short,_slender_spine tubercle absent;
+{ 146 Antenna_and_leg_regeneration present absent;
+{ 147 Relationship_of_sternal_and_lateral_longitudinal_muscles united_sternal_and_lateral_longitudinal_muscles separate_sternal_and_lateral_longitudinal_muscles,_with_separate_segmental_tendons;
+{ 148 Position_of_spiracle(s) pleural dorsal_opening_on_tergum sternal,_at_base_of_legs,_with_tracheal_pouch_serving_as_apodeme single_spiracle,_opening_on_head single_spiracle_on_opisthomsomal_segment_2;
+{ 149 Anisostigmophory absent_(spiracles_present_on_all_trunk_segments_from_second_pedigerous_segment) present_(spiracles_associated_with_long_tergites_only);
+{ 150 Spiracle_on_segment_7 absent_(coding_restricted_to_taxa_with_anistigmophory) present_(spiracles_on_trunk_segments_3,_5,_7,_8,_10,_12,_14,_16,_18,_20);
+{ 151 Cribriform_spiracles_with_floor_of_atrium_raised_into_humps absent present;
+{ 152 Spiracle_with_atrium_divided_by_flapped_valves valves_absent valves_present;
+{ 153 stigmatic_plates Absent Present;
+{ 154 Shape_of_stigmatic_plates flat,_triangular divided_in_midline sterna_nodifera_sensu_Blanke_and_Wesener_(2014,_character_20) sterna_costata_sensu_Blanke_and_Wesener_(2014,_character_20) sliding_sternites_sensu_Blanke_and_Wesener_(2014,_character_20);
+{ 155 First_and_second_stigmatic_plate with_tracheae without_tracheae,_used_for_muscle_attachment;
+{ 156 Longitudinal_and_transverse_connections_between_segmental_tracheal_branches absent present;
+{ 157 Segmental_arrangement_of_longitudinal_connectives_between_spiracles connected_between_successive_spiracles connected_between_spiracles_separated_by_one_or_more_segments;
+{ 158 Chiasmata absent present;
+{ 159 Arrangement_of_tracheal_pouches_in_comparison_to_body_axis diagonal_orientation longitudinal_orientation;
+{ 160 Apodemes_of_mid-body_tracheal_pouches absent present,_serving_as_msucle_attachment;
+{ 161 Branching_of_mid-body_tracheal_pouch_apodemes uniramous biramous;
+{ 162 Foregut_with_differentiated_gizzard_with_plicate_walls absent present;
+{ 163 Posteriorly_directed_spines_along_plicae_of_foregut absent present;
+{ 164 Gizzard_plicae_covered_by_scales_that_each_bear_a_single_spine absent present;
+{ 165 Posterior_part_of_foregut_organised_as_a_sieve_with_stiff,_anteriorly_directed_projections absent present;
+{ 166 Anterior_gizzard_projections_with_pigmented_bases_bearing_spinose_scales_or_spines,_distal_part_translucent,_tapering,_bearing_dense_hairs absent present;
+{ 167 Shape_of_main_sieve_projections_in_gizzard evenly_curved kinked_near_midlength,_with_distal_part_more_strongly_directed_forwards;
+{ 168 Intestine_shape straight_tube N-shaped,_bent_twice;
+{ 169 Malpighian_tubules_formed_as_endodermal_extensions_of_midgut absent present;
+{ 170 Malpighian_tubules_formed_as_ectodermal_extensions_of_hindgut absent present;
+{ 171 Lateral_defense_glands absent present;
+{ 172 Shape_of_defence_glands elongate_subtubular subspherical;
+{ 173 Defence_secretions_with_benzoquinines absent present_(coded_as_grounpattern_for_Juliformia);
+{ 174 Unpaired_median_testis symmetrically_paired_testis one_testis_minute,_undifferentiated unpaired_testis;
+{ 175 Testes_differentiated_into_macrotestis_with_ampulla_and_microtestis present absent;
+{ 176 Lateral_testicular_vesicles_linked_by_a_central,_posteriorly_extended_deferens_duct absent present;
+{ 177 Testicular_vesicles_spindle_shaped absent present;
+{ 178 Number_of_testicular_vesicles one_pair two_or_more_pairs;
+{ 179 Female_gonopod_on_first_genital_segment absent present;
+{ 180 Female_gonopod_used_to_manipulate_single_eggs absent present;
+{ 181 Female_gonopod_segmentation three_articles_and_claw,_with_basal_articles_of_gonopod_pair_separated two_articles,_the_proximal_article_of_each_gonopod_pair_partly_joined_(syntelopodite),_the_distal_article_a_spine single_segment_or_with_rudimentary_second_segment;
+{ 182 Female_gonopod_with_basal_article_bearing_spurs_(macrosetae)_and_terminal_article_with_a_broad_claw absent present;
+{ 183 Claw_of_female_gonopod_fused_with_the_apical_article claw_separate claw_fused;
+{ 184 Position_of_male_gonopore opisthogoneate behind_coxa_of_second_pair_of_trunk_legs through_coxa_of_second_pair_of_trunk_legs on_fourth_trunk_segment;
+{ 185 Male_gonopod_on_second_genital_segment present absent;
+{ 186 Form_of_male_gonopod_on_second_genital_segment blunt_cones slender_styles;
+{ 187 Bivalved_anogenital_capsule absent present;
+{ 188 Anal_organs absent present_through_ontogeny present_only_in_juveniles;
+{ 189 Coxal_organs absent present;
+{ 190 Serial_distribution_of_coxal_organs on_last_four_pairs_of_legs on_last_two_pairs_of_legs on_last_pair_of_legs_only;
+{ 191 Arrangement_of_coxal_pores few_pores_in_linear_row numerous_small_pores_scattered_over_coxopleure_or_large_pore_field one_or_two_large_pores_opening_to_expanded_coxal_organ rosette_of_coxal_organs_opening_into_pit,_without_external_pores State_4;
+{ 192 Spermatophore_web_produced_by_Spinngriffel_on_first_genital_segment_of_male absent present;
+{ 193 Bean-shaped_spermatophore_with_tough,_multi-layered_wall absent present;
+{ 194 Ventral_invagination_in_spermatophore absent present;
+{ 195 Sperm_dimorphism absent microsperm_and_macrosperm_present;
+{ 196 Sperm_flagellum present absent;
+{ 197 Coiling_of_sperm_flagellum_around_nucleus absent_(filiform) present;
+{ 198 Spiral_ridge_on_nucleus_of_sperm absent present;
+{ 199 Sperm_nucleus_with_machette_of_microtubules absent present;
+{ 200 Pseudoperforatorium absent present;
+{ 201 Spermathecae_formed_by_paired_pockets_in_mouth_cavity absent present;
+{ 202 Modified_leg(s)_in_male_on_seventh_and/or_eight_trunk_segment(s) absent present;
+{ 203 Leg_8_in_adult_males walking_leg_(unmodified) accessory_gonopod functional_gonopod;
+{ 204 Leg_9_in_adult_males walking_leg_(unmodified) accessory_gonopod functional_gonopod;
+{ 205 Leg_10_in_adult_males walking_leg_(unmodified) accessory_gonopod functional_gonopod;
+{ 206 Male_gonopod_development gradual abrupt;
+{ 207 Cannula_on_gonopod_coxa absent present;
+{ 208 Posterior_male_leg_pair_as_telopods_with_inner_horns absent present;
+{ 209 Terminal_spinnerets_on_margin_of_epiproct,_silk_produced_from_setal_sockets absent present;
+{ 210 Pre-anal_segment_with_trichobothria_bearing_a_long_sensory_seta absent present;
+;
+
+
+ccode  - 0.56 58.73 75.86 88.101 103.109 111.210 + 57 74 87 102 110;
+
+
+;

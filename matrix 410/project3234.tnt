@@ -1,0 +1,76 @@
+nstates num 4;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 10.01.29'
+45 13
+
+&[num]
+Parabolinella_prolata               00---000011?01001000220020?00??10010?????????
+Parabolinella_tumifrons             21?00011001101001000220020?00??1001??????????
+Cloacaspis_senilis                  110002020100000101212201101101?01101232001001
+Cloacaspis_tesselata                01000002110?00010121?21111110?10110122111?000
+Cloacaspis_ekphymosa                2100030?110?00?10121220110?111?0????2210??000
+Cloacaspis_dejecta                  11200212110?01?10121221210?00??011011211?0010
+Balnibarbi_ceryx_ceryx              11210110212011001121110210?00?101100111001110
+Balnibarbi_ceryx_anataphra          011010002120?1000121110210?00?101100?????????
+Balnibarbi_pulvurea                 112103102120011112200012100100?02010010011110
+Balnibarbi_tholia                   010003112121011011101?1210?10??0??????00??100
+Balnibarni_erugata                  01101310201002001110001210?00?00?000010000110
+Balnibarbi_sombrero                 01101010201002001110001210?00?00?????????????
+Balnibarbi_scimitar                 21200010201002001110011210?00?00?110110000110
+
+;
+
+
+cnames
+{ 0 Width_of_anterior_border_relative_to_frontal_area. Narrow_(>0.2,_<0.3) Wide_(>0.3) Very_narrow_(<0.2);
+{ 1 Anterior_border_pits Absent Present;
+{ 2 Number_of_anterior_border_pits 20-25 25-35 35-45;
+{ 3 Number_of_rows_of_anterior_border_pits One Two;
+{ 4 Expression_of_anterior_border_pits Visible_on_external_surface Visible_only_on_internal_mold;
+{ 5 Granulation_on_adults Absent On_preglabellar/frontal_area On_furrows_only Everywhere;
+{ 6 Caeca_on_preglabellar_field/frontal_area Absent Present;
+{ 7 Terrace_lines_on_preglabellar_field Absent On_preglabellar_field/frontal_area On_frontal_area_and_glabella;
+{ 8 Degree_of_divergence_of_anterior_facial_suture Low_(20_degrees) Moderate_(40_degrees) High_(>55_degrees);
+{ 9 Shape_of_anterior_border_of_cranidium Curved_smoothly Comes_to_point_at_sagittal_axis;
+{ 10 Maximum_sagittal_width_of_preglabellar_field At_sagittal_axis_(medially) At_lateral_edge Both_medially_and_antero-laterally_(e.g.,_Balnibarni_ceryx);
+{ 11 Curvature_of_preglabellar_field Flat_or_sloping_downward_smoothly Convex_(e.g.,_Balnibarbi_tholia);
+{ 12 Bulge_in_preglabellar_field_at_sagittal_axis Absent Present;
+{ 13 Size_of_frontal_area_relative_to_cranidial_length Short_(<0.15) Wide_(>0.15,_<0.25) Very_wide_(>0.25);
+{ 14 Pitting_in_preglabellar_furrow Absent Present_(e.g.,_some_Balnibarbi_pulvurea?);
+{ 15 Medial_indent_in_preglabellar_furrow Absent Present;
+{ 16 Placement_of_anterior_end_of_palpebral_lobe_relative_to_glabellar_furrows Between_4P_and_3P_(4S_and_3S) Between_3P_and_2P_(3S_and_2S);
+{ 17 Placement_of_posterior_end_of_palpebral_lobe_relative_to_glabellar_furrows Between_2P_and_1P_(2S_and_1S) Between_1P_and_occipital_furrow_(1S) Posterior_to_occipital_furrow;
+{ 18 Size_of_palpebral_lobes_relative_to_cranidial_length Very_short_(<0.25) Short_(<0.35_>0.25) Long_(>0.35);
+{ 19 Forward_curvature_of_palpebral_lobe Absent Present;
+{ 20 Width_of_palpebral_lobes_relative_to_frontal_area Narrower Even Wider;
+{ 21 Shape_of_postocular_fixigena_(posterior_limbs) strap-like_(long) trapezoidal_(extends_laterally_then_postero-laterally) triangular_(short);
+{ 22 Shape_of_S2 Straight Deflected_or_curved_midway;
+{ 23 Shape_of_S3 Straight,_reaches_axial_furrow Straight,_long,_almost_reaches_axial_furrow Marooned_(short,_straight,_does_not_reach_axial_furrow);
+{ 24 Shape_of_S4 Straight Marooned Not_expressed;
+{ 25 Bifuracting_glabellar_furrows_in_adults Absent Present;
+{ 26 Bifurcating_glabellar_furrows_in_juveniles Absent Present;
+{ 27 Frontal_lobe_bisected_by_furrow Absent Present;
+{ 28 Post-palpebral_furrow_in_adults Absent Present;
+{ 29 Post-palpebral_furrow_in_juveniles Absent Present;
+{ 30 Articulating_socket_in_posterior_margin Absent Present_(e.g.,_Balnibarni_ceryx);
+{ 31 Bifurcation_in_occipital_furrow Absent Present;
+{ 32 Length_of_genal_spine Short_(=<length_of_cranidium) Long_(1.5_x_length_of_cranidium) Very_long_(=>2_x_length_of_cranidium);
+{ 33 Genal_angle/advanced_genal_spine Absent_(posterior_border_continues_laterally) Present_(posterior_border_curves_forward_to_meet_advanced_genal_spine);
+{ 34 Genal_vein_from_eye_to_margin Absent Present;
+{ 35 Genal_ridge_around_eye Absent Present;
+{ 36 Number_of_axial_rings_on_pygidium Four Three Two;
+{ 37 Number_of_completely_defined_axial_rings Four Three Two One;
+{ 38 Number_of_pleural_furrows Four Three Two;
+{ 39 Extent_of_pleural/interpleural_furrows Extend_to_border Do_not_extend_to_border;
+{ 40 Granulation_on_pygidium Absent Present;
+{ 41 Terrace_lines_on_pleural_region_of_pygidium Absent Present;
+{ 42 Pleural_region_between_terminal_piece_and_border Absent Present;
+{ 43 Medial_indent_on_posterior_border Absent Present;
+{ 44 Pygidial_border_spines Absent Present;
+;
+
+
+ccode  - 0.7 9.12 14.17 19.31 33.44 + 8 13 18 32;
+
+
+;

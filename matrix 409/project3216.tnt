@@ -1,0 +1,135 @@
+nstates num 6;
+xread
+'File output by Morphobank v3.0 (http://www.morphobank.org); 2023-07-04 10.00.53'
+98 19
+
+&[num]
+Priacma               000000000000001000000--000000000000000000-00000000000000000000014-00?0000?00000000?000000000000000
+Helpless              00000000000000100000002000000110000100003000000000000000003000000010000000030020000000000000001003
+Noterus               00000000000000100000002000000000000100101000000000000000003000000000000000030020000000001020-010?3
+Trachypachus          00000000000000100000002000000000000000001000000000000000000000000000000000000020000000000000001000
+Hydraena              00001100000001020000100100010001010001100011020001000000001?00001001000001010100010001000000021?01
+Catops                00000000000000000000100000010001010001100001000000000000000000004001000001000000000001000000001?00
+Delevea               000?00100001?1011?01?00110???100011101100????02000010000102101012110101002121011011011011100101?12
+Satonius              000000100001010111010001101001001111011000?-?0000001001010212111211010200?1210110110110111101011?2
+Torridincola          112?02100001?1011101?01110???21011100110002?110000011010102121113110102102121011011001011010100??2
+Incoltorrida          112?021?0001?1011?01??1110???210111001100?201100000?10?0102????????0????????????????????????????-?
+Iapir                 111?021?0001?1011?01?01110???210111001100?20110010110010102121113110102102121011011001011110101?12
+Ytu                   111?02100001?1011101?01110???210111001100?201100001?0010102121113110102102121011011011011110101112
+Claudiella            11??021?0001??011?0??0?110???2101?100??0???0?100101?0010102????????0??????????????????????????????
+Sphaerius             000110011110110?101100011010100021110110212010000000010-00120101201011101201?0100101211211000301?1
+Hydroscapha           00010301000101011001010111001000211111122121101101000001002211011010111012211110110121120101010112
+Scaphydra             000?040?0001?1011001?10111???000211111122??1?011010000010122110110?0?1?0?221111011?121120101010??2
+Yara                  00??030?0001?1011001?0?11????0002?1111120??1?0?1010?00?1012????????0??????????????????????????????
+Confossa              000?030?0001?11?1?01?00?1????000210111120?11?0?101000??1012????????0??????????????????????????????
+Lepicerus             000005000002?101100000010000100031100001001000000000000010100000000000?00100001001?001000000000???
+
+;
+
+
+cnames
+{ 0 Peristome State_0 State_1;
+{ 1 Keel_of_vertex absent present;
+{ 2 shape_of_eyes absent present,_anteriorly_concave elongated_and_anteriorly_concave;
+{ 3 Posterolateral_tentorial_extension absent present;
+{ 4 Labro-mandibular_locking_device absent present;
+{ 5 Number_of_antennomeres 11 10 9 8 5 4;
+{ 6 Scapus_and_pedicellus not_urn-shaped urn-shaped;
+{ 7 Base_of_pedicellus straight bent;
+{ 8 Intercalary_antennomere_with_sucker absent present;
+{ 9 flagellomere_1 not_distinctly_elongated distinctly_elongated_and_distinct_from_remaining_flagellum;
+{ 10 Three_segemented_antennal_club absent present;
+{ 11 Terminal_antennomere not_enlarged_and_club-shaped rounded_enlarged_club very_large_and_blade-like;
+{ 12 Origin_of_M._2_on_posterior_head_capsule absent present;
+{ 13 Exposure_of_mouthparts exposed partly_concealed;
+{ 14 Mola present absent;
+{ 15 Prostheca absent present_on_left_mandible present_on_both_mandibles;
+{ 16 Galea_and_lacinia not_fused mala;
+{ 17 Row_of_flattened_teeth_on_maxilla absent present;
+{ 18 Size_of_penultimate_maxillary_palpomere not_inflated strongly_inflated;
+{ 19 Size_of_apical_maxillary_palpomere not_distinctly_smaller_than_preceeding_palpomeres reduced_in_size,_with_very_small_distal_appendage;
+{ 20 Mx absent present;
+{ 21 Connection_of_mentum_and_submentum separate fused;
+{ 22 Shape_of_mentum parallel-sided,_quadrangular narrow_posteriorly,_with_two_anterior_lobes, transverse,_with_very_distinct,_rounded_lateral_lobes;
+{ 23 Ligular_papillae absent present;
+{ 24 Size_of_apical_labial_palpomere normal greatly_reduced_in_size;
+{ 25 Lateral_appendage_of_apical_labial_palpomere absent present;
+{ 26 Insertion_of_M._28_on_unpaired_mental_apodeme absent present;
+{ 27 Shape_of_labiohypopharyngeal_complex_between_maxillary_bases not_strongly_narrowed strongly_narrowed,_hourglass-shaped_in_cross_section;
+{ 28 Cephalic_glands absent present;
+{ 29 Prosternal_process not_in_contact_with_the_mesothoracic_ventrite,_narrow_or_moderatel broad,_apically_convex,_in_contact_with_mesothoracic_ventrite broad,_apically_truncate,_overlapping_mesothoracic_ventrite broad,_apically_truncate,_articulation_with_meso-_and_metathoracic;
+{ 30 Apex_of_prosternal_process not_truncated truncated;
+{ 31 Exposure_of_pleuron well_developed,_exposed greatly_reduced_in_size,_con-cealed;
+{ 32 Tarsomeres_of_pro-_and_middle-legs five four three tarsomeres_largely_fused;
+{ 33 Ventrites_sclerites_of_meso-_and_metathorax connected_by_a_membrane both_sclerites_firmly_connected.;
+{ 34 Separation_of_mesocoxae contiguous_or_only_slightly_separated broadly_separated;
+{ 35 Angle_between_pronotum_and_and_elytral_shoulder distinct indistinct;
+{ 36 Elytral_apex not_truncated truncated;
+{ 37 Longitudinal_suture_and_ridge_of_the_metathorax present,_at_least_half_as_long_as_the_preepisternum very_short_or_absent;
+{ 38 Transverse_suture_of_metaventrite present absent;
+{ 39 Separation_of_metacoxae medially_adjacent_or_narrowly_separated widely_eparated State_2;
+{ 40 Metacoxal_plates very_narrow_or_absent distinctly_developed_mesally broad,_concave_posteriorly very_strongly_enlarged,;
+{ 41 Metafurcal_arms single_srem distinctly_separated_at_base,_inserted_on__internal_trans;
+{ 42 Fringe_of_microtrichia_along_hind_wing_margin absent present_at_hind_margin present_along_anterior_and_posterior_margin;
+{ 43 Oblongum present absent;
+{ 44 Subcosta not_distinctly_curved,_separated_from_radius_anterior curved,_connected_with_radius_anterior_after_a_short_distance;
+{ 45 Plastron absent present State_2;
+{ 46 Recumbent_pilosity absent present_on_tergites_III_and_IV present_on_tergite_VII;
+{ 47 Abdominal_segments_V-VIII not_strongly_narrowed_and_ring-like strongly_narrowed_and_ring-like;
+{ 48 Sternite_IV exposed narrow_sternite_IV_covered_by_abdominal_ventrite_1;
+{ 49 Sternite_VIII not_exposed exposed;
+{ 50 Median_carina_of_abdominal_sternites absent present;
+{ 51 Tubular_fields_of_abdominal_segments_VI_and_VII absent, present;
+{ 52 Parallel-sided_incisions_of_posterior_abdominal_sternites absent present;
+{ 53 Abdominal_tergite_VIII not_extended_anteriorly strongly_extended_anteriorly;
+{ 54 Emargination_of_abdominal_tergite_VIII absent distinctly_incised;
+{ 55 Parameres present absent;
+{ 56 Longitudinal_split_of_Aedeagus absent present;
+{ 57 Forked_apophysis_with_elongated_stalk absent present;
+{ 58 Habitat_of_adults terrestrial semiquatic hygropetric aquatic;
+{ 59 Length_of_ultimate_larva more_than_2.7._mm more_1.5_mm_and_less_than_2.7_mm 1,5_mm_or_less;
+{ 60 Body_shape parallel-sided_or_subparallel thorax_subparallel,_abdomen_distinctly_tapering_posteriorly ovoid;
+{ 61 Tergal_extensions absent present;
+{ 62 Length_of_thorax abdomen_distinctly_longer about_equally_long;
+{ 63 Shape_of_head not_broader_than_long broader_than_long;
+{ 64 Number_of_stemmata 6 5 4 3 vestigial_or_absent;
+{ 65 Insertion_area_of_stemmata not_elevated elevated;
+{ 66 Dorsal_surface_structure without_serrate_scales with_serrate_scales;
+{ 67 Hemispherical_projection_of_larval_head_capsule absent present;
+{ 68 Tentorial_bridge not_distinctly_broadened distinctly_broadened;
+{ 69 Lateral_labral_extensions absent present;
+{ 70 Flattened_disc-shaped_labral_sensilla absent present present_and_fused;
+{ 71 Flattened,_frayed_labral_setae absent present;
+{ 72 Fusion_of_genal_lobes_with_lateral_clypeolabral_margin absent present;
+{ 73 Antennomeres_of_later_instars 4 3 2;
+{ 74 Distal_antennomeres_of_later_instars not_elongated elongated_and_well_developed elongated_and_very_slender;
+{ 75 Sensorial_appendage_of_subapical_antennomere short strongly_elongated flattened_abnd_embedded_in_excavation absent;
+{ 76 Rounded_subapical_prostheca absent_or_slender present;
+{ 77 Distal_appendage_of_maxillary_palp absent present;
+{ 78 Galea_and_lacinia_-_2 separate mala lacinia_reduced;
+{ 79 Apex_of_mala_or_lacinia simple_or_with_several_fixed_teeth with_external_fixed_tooth_and_several_flattened_and_articulated_teet;
+{ 80 Labial_palpomeres 2 1;
+{ 81 Ligular_papillae_-_2 absent present;
+{ 82 Internal_sacs absent present;
+{ 83 Posterior_tergal_rows_of_lancet-shaped_setae absent present;
+{ 84 Lateral_rows_of_contact_hairs absent present_on_thoracic_segments present_on_thoracic_and_abdominal_segments;
+{ 85 Leg_segments 6 5;
+{ 86 Base_of_claws without_strong_flattened_spines with_strong_flattened_spines;
+{ 87 Spiracular_gills absent long_and_segmented short_and_balloon-like;
+{ 88 Mesothoracic_spiracles present absent;
+{ 89 Lateral_process_of_segment_VIII absent present;
+{ 90 Sternite_IX well_developed_and_quadrangular small_and_triangular absent;
+{ 91 Operuclar_plate_of_segment_X absent present;
+{ 92 Paired_anal_flaps_of_abdominal_segment_X absent present;
+{ 93 Terminal_abdominal_hooks absent 1_pair 2_pairs 3_pairs;
+{ 94 Urogomphi absent present;
+{ 95 Segmental_abdominal_glands absent present;
+{ 96 Pupation not_within_last_larval_exuvia within_last_larval_exuvia;
+{ 97 Habitat_of_larvae terrestrial semiaquatic hygropetric fully_aquatic;
+;
+
+
+ccode  - 0.8 10.19 21.26 28.97 + 9 20 27;
+
+
+;
